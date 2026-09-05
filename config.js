@@ -16,7 +16,11 @@ export const site = {
   // Root domain:      'https://news.example.com'        -> links are /about/
   // Project subpath:  'https://you.github.io/newswire'  -> links are /newswire/about/
   url: 'https://ericaihaddadene-sketch.github.io/newswire',
-  contactEmail: 'ads@example.com',
+  // PLACEHOLDER — replace before pointing any advertiser at the site.
+  // This is published as a mailto: link on /advertise, so it is deliberately
+  // written to read as unfinished rather than as a real address that bounces.
+  // The build prints a warning while it is still set to this.
+  contactEmail: 'you@yourdomain.com',
   locale: 'en-US',
   // Shown in the footer. Keep it honest — it's what makes aggregation defensible.
   attribution: 'Headlines and short excerpts link to the original publisher. All rights remain with them.'

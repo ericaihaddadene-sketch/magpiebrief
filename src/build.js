@@ -179,6 +179,13 @@ async function main() {
   console.log(`  ${bold('Sections')}   ${sections.join(', ')}`);
   console.log(`  ${bold('Built in')}   ${Date.now() - t0}ms → ${OUT}/\n`);
 
+  // The contact address is published as a mailto: on /advertise, so a forgotten
+  // placeholder means enquiries go nowhere. Cheap to check, expensive to miss.
+  if (/example\.com$|yourdomain\.com$/i.test(cfg.site.contactEmail || '')) {
+    console.log(yellow(`  ! site.contactEmail is still a placeholder (${cfg.site.contactEmail})`));
+    console.log(gray('    /advertise links to it — set a real address before promoting the site.\n'));
+  }
+
   if (failures.length) {
     console.log(yellow('  Failing feeds (remove or fix them in config.js):'));
     for (const f of failures) console.log(gray(`    ${f.feed.name} — ${f.feed.url}\n      ${f.error}`));
