@@ -129,6 +129,15 @@ async function main() {
   const sections = [];
   for (const f of feeds) if (f.section && !sections.includes(f.section)) sections.push(f.section);
 
+  // Slow-publishing sources (lab blogs, alignment forums) can leave a section
+  // with nothing inside the freshness window, and a nav tab that leads to an
+  // empty page is worse than no tab. Hide those from the nav — but still write
+  // the page and keep it in the sitemap, so the URL never starts 404ing just
+  // because a quiet week happened.
+  const sectionCounts = new Map();
+  for (const s of ranked) sectionCounts.set(s.section, (sectionCounts.get(s.section) || 0) + 1);
+  const navSections = sections.filter((s) => (sectionCounts.get(s) || 0) > 0);
+
   // Count what actually reached the site, not how big each feed was. An archive
   // feed can carry 1,000+ entries while contributing two stories today, and
   // showing the raw number in the sidebar is just wrong.
@@ -152,18 +161,18 @@ async function main() {
   await mkdir(OUT, { recursive: true });
 
   const front = ranked.slice(0, cfg.ranking.frontPageLimit);
-  await writePage('index.html', renderIndex(cfg, ads, { stories: front, sections, sources, buildTime, now }));
+  await writePage('index.html', renderIndex(cfg, ads, { stories: front, sections: navSections, sources, buildTime, now }));
 
   for (const section of sections) {
     const stories = ranked.filter((s) => s.section === section).slice(0, cfg.ranking.perSectionLimit);
     await writePage(path.join(slugify(section), 'index.html'),
-      renderSection(cfg, ads, { section, stories, sections, sources, buildTime, now }));
+      renderSection(cfg, ads, { section, stories, sections: navSections, sources, buildTime, now }));
   }
 
   await writePage('advertise/index.html',
-    renderAdvertise(cfg, ads, { sections, buildTime, stats: { feedCount: okCount } }));
+    renderAdvertise(cfg, ads, { sections: navSections, buildTime, stats: { feedCount: okCount } }));
   await writePage('about/index.html',
-    renderAbout(cfg, ads, { sections, buildTime, sources }));
+    renderAbout(cfg, ads, { sections: navSections, buildTime, sources }));
 
   // ---- archive -----------------------------------------------------------
   // Fold this run into the durable archive, then render every day we hold.
@@ -178,12 +187,12 @@ async function main() {
         record,
         prev: archive[i + 1]?.date || null,
         next: archive[i - 1]?.date || null,
-        sections,
+        sections: navSections,
         buildTime
       }));
   }
   await writePage('archive/index.html',
-    renderArchiveIndex(cfg, ads, { days: archive, sections, buildTime }));
+    renderArchiveIndex(cfg, ads, { days: archive, sections: navSections, buildTime }));
 
   await writePage('feed.xml', renderFeedXml(cfg, ranked));
   await writePage('sitemap.xml', renderSitemap(cfg, sections, archive.map((d) => d.date)));
@@ -199,7 +208,8 @@ async function main() {
   console.log(`  ${bold('Items')}      ${all.length} fetched → ${ranked.length} unique (${clustered} folded into clusters)`);
   console.log(`  ${bold('Pages')}      ${sections.length + 4 + archive.length} html + feed.xml, sitemap.xml, robots.txt, ads.txt${copied ? `, ${copied} asset(s)` : ''}`);
   console.log(`  ${bold('Archive')}    ${archive.length} day(s) held${changedDays.length ? `, ${changedDays.length} updated this run (${changedDays.join(', ')})` : ', none changed this run'}`);
-  console.log(`  ${bold('Sections')}   ${sections.join(', ')}`);
+  const hidden = sections.filter((x) => !navSections.includes(x));
+  console.log(`  ${bold('Sections')}   ${navSections.join(', ')}${hidden.length ? gray(`  (empty, hidden from nav: ${hidden.join(', ')})`) : ''}`);
   console.log(`  ${bold('Built in')}   ${Date.now() - t0}ms → ${OUT}/\n`);
 
   // The contact address is published as a mailto: on /advertise, so a forgotten

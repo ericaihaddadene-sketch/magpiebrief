@@ -256,6 +256,7 @@ function storyMarkup(item, rank, now) {
       <span class="story__source">${esc(item.source)}</span>
       <span class="story__host">${esc(hostOf(item.link))}</span>
       <time datetime="${esc(item.date.toISOString())}">${esc(timeAgo(item.date, now))}</time>
+      ${item.points ? `<span class="story__points">${item.points} pts</span>` : ''}
     </div>
     ${related}
   </div>
@@ -430,6 +431,7 @@ function archiveStoryMarkup(rec, rank, locale) {
       <span class="story__source">${esc(rec.source)}</span>
       <span class="story__host">${esc(hostOf(rec.link))}</span>
       <time datetime="${esc(rec.published)}">${esc(when)} UTC</time>
+      ${rec.points ? `<span class="story__points">${rec.points} pts</span>` : ''}
     </div>
     ${also}
   </div>

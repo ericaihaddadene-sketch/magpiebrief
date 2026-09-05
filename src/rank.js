@@ -90,7 +90,30 @@ export function makeTopicMatcher(keywords) {
   if (!keywords?.length) return () => true;
   const escaped = keywords.map((k) => k.toLowerCase().replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
   const re = new RegExp('(^|[^a-z0-9])(' + escaped.join('|') + ')([^a-z0-9]|$)', 'i');
-  return (item) => re.test(item.title) || re.test(item.summary || '');
+
+  // Title only, deliberately.
+  //
+  // Matching the summary as well let through items whose headline says nothing
+  // about the subject — a LessWrong short story titled "Evaluation" qualified
+  // because its prose happened to contain "model" and "compute". A reader
+  // scanning a one-screen brief judges by the headline, so on a general-interest
+  // feed the headline is what has to earn the slot.
+  return (item) => re.test(item.title || '');
+}
+
+/**
+ * Engagement multiplier from vote counts, where a feed provides them.
+ *
+ * Logarithmic, because points are wildly skewed: the gap between 20 and 200 is
+ * meaningful, the gap between 1200 and 1400 is noise. Capped so that a single
+ * viral thread cannot dominate a whole front page, and so the one source that
+ * reports points doesn't permanently outrank the ones that can't.
+ */
+export function engagementBoost(points, ranking) {
+  const cfg = ranking.engagement;
+  if (!cfg || !cfg.weight || !points || points <= 0) return 1;
+  const magnitude = Math.log10(1 + points) / Math.log10(1 + (cfg.reference || 500));
+  return 1 + Math.min(cfg.weight * magnitude, cfg.maxBoost ?? 1);
 }
 
 /** Score a single item before clustering. */
@@ -103,6 +126,8 @@ export function scoreItem(item, now, ranking) {
   for (const [word, boost] of Object.entries(ranking.boost || {})) {
     if (haystack.includes(word.toLowerCase())) score *= 1 + boost;
   }
+
+  score *= engagementBoost(item.points, ranking);
   return score;
 }
 

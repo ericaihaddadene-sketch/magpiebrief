@@ -519,3 +519,6 @@ a { color: inherit; }
   color: var(--ink-faint);
   flex: none;
 }
+
+.story__points::before { content: "·"; margin-right: 9px; }
+.story__points { color: var(--sponsor); font-weight: 600; }

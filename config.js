@@ -64,8 +64,28 @@ export const feedPacks = {
     { name: 'Google Research',  url: 'https://research.google/blog/rss/',                       section: 'Research',   weight: 1.0 },
     { name: 'Microsoft Research', url: 'https://www.microsoft.com/en-us/research/feed/',        section: 'Research',   weight: 1.0 },
     { name: 'MIT News AI',      url: 'https://news.mit.edu/rss/topic/artificial-intelligence2', section: 'Research',   weight: 0.95 },
-    { name: 'Import AI',        url: 'https://importai.substack.com/feed',                      section: 'Research',   weight: 1.1 },
-    { name: 'Ahead of AI',      url: 'https://magazine.sebastianraschka.com/feed',              section: 'Research',   weight: 1.05 }
+    { name: 'Ahead of AI',      url: 'https://magazine.sebastianraschka.com/feed',              section: 'Research',   weight: 1.05 },
+
+    // Import AI was dropped here. It returns HTTP 403 to GitHub Actions runners
+    // (Substack blocks datacenter IPs) while working fine from a laptop, so it
+    // passed `npm run check` locally and contributed nothing to the live site.
+    // If you re-add a Substack, confirm it in a CI log, not just locally.
+
+    // China coverage — the single biggest hole in the old list. Broad, since
+    // SCMP covers all of Chinese tech and business.
+    { name: 'SCMP Tech',        url: 'https://www.scmp.com/rss/36/feed',                        section: 'Industry',   weight: 0.95, broad: true },
+    // Funding and deals. Broad — most rounds it covers have nothing to do with AI.
+    { name: 'Crunchbase News',  url: 'https://news.crunchbase.com/feed/',                       section: 'Industry',   weight: 0.95, broad: true },
+
+    { name: 'Alignment Forum',  url: 'https://www.alignmentforum.org/feed.xml',                 section: 'Policy & Safety', weight: 1.05 },
+    // EFF publishes across all digital rights, so the topic filter keeps it to
+    // the AI-adjacent posts.
+    { name: 'EFF',              url: 'https://www.eff.org/rss/updates.xml',                     section: 'Policy & Safety', weight: 1.0,  broad: true },
+    // LessWrong runs well beyond AI, hence broad; when it is on topic it is
+    // often first. Weighted down hard: it posts constantly and its items are
+    // always fresh, so at parity it took four of the top ten with essays rather
+    // than news. The per-source cap alone wasn't enough.
+    { name: 'LessWrong',        url: 'https://www.lesswrong.com/feed.xml',                      section: 'Discussion', weight: 0.7,  broad: true }
   ],
 
   // A second pack, ready to go. Nonprofit/grants is a genuinely easier niche to
@@ -113,6 +133,17 @@ export const ranking = {
   dupeThreshold: 0.42,
   // Each extra outlet covering a story multiplies its score by (1 + this).
   corroborationBonus: 0.18,
+
+  // Vote counts, where a feed reports them (Hacker News puts "Points: 82" in
+  // its description). This is the only direct measure of human attention in any
+  // of the feeds — everything else is just "a publisher chose to publish it".
+  //
+  // Applied logarithmically: the gap between 20 and 200 points means something,
+  // the gap between 1200 and 1400 does not. `reference` is roughly the score at
+  // which a story counts as a genuine hit; `maxBoost` caps the multiplier so a
+  // single viral thread cannot take over the front page, and so the one source
+  // that reports points does not permanently outrank those that cannot.
+  engagement: { weight: 0.7, reference: 500, maxBoost: 0.8 },
   // Title keyword multipliers. `claude: 0.5` means +50% score.
   boost: {
     claude: 0.5, anthropic: 0.5, openai: 0.35, gemini: 0.3, deepmind: 0.3,
@@ -135,7 +166,16 @@ export const ranking = {
     'prompt', 'prompting', 'rag', 'embedding', 'embeddings', 'tokenizer',
     'agent', 'agents', 'agentic', 'copilot', 'chatbot', 'benchmark',
     'alignment', 'interpretability', 'hallucination', 'context window',
-    'gpu', 'tpu', 'cuda', 'datacenter', 'data center', 'robotics', 'humanoid'
+    'tpu', 'cuda', 'datacenter', 'data center', 'robotics', 'humanoid',
+    // Policy, chips and China terms, for the broad feeds added later. All are
+    // AI-anchored on purpose: a bare 'regulation' or 'surveillance' would let
+    // through most of EFF's output, which is about digital rights generally.
+    'ai act', 'ai policy', 'ai regulation', 'ai safety', 'algorithmic',
+    'deepfake', 'deepfakes', 'facial recognition', 'automated decision',
+    'semiconductor', 'export controls'
+    // 'gpu', 'chip', 'chips' and 'compute' were tried and removed: they are not
+    // AI-specific enough on their own, and admitted things like "Rust SIMD on
+    // the GPU". Genuine AI-hardware stories almost always say "AI" or "Nvidia".
   ]
 };
 

@@ -119,6 +119,27 @@ function extractSummary(block) {
 }
 
 /**
+ * Pull engagement counts out of a raw description.
+ *
+ * Hacker News (and some mirrors) put "Points: 82" and "# Comments: 45" in the
+ * description instead of prose. cleanSummary strips these as plumbing, which
+ * threw away the only direct measure of human attention in any of the feeds —
+ * so read them here first.
+ *
+ * @returns {{points:number|null, comments:number|null}}
+ */
+export function extractEngagement(raw) {
+  if (!raw) return { points: null, comments: null };
+  const text = decodeEntities(String(raw));
+  const points = text.match(/\bPoints:\s*(\d+)/i);
+  const comments = text.match(/#\s*Comments:\s*(\d+)/i);
+  return {
+    points: points ? parseInt(points[1], 10) : null,
+    comments: comments ? parseInt(comments[1], 10) : null
+  };
+}
+
+/**
  * Strip boilerplate out of a summary and reject it if nothing useful is left.
  *
  * Aggregator-style feeds don't put prose in <description>; Hacker News puts
@@ -164,12 +185,16 @@ export function parseFeed(xml) {
     const title = text(block, 'title');
     const link = extractLink(block);
     if (!title || !link) continue;
+    const rawSummary = extractSummary(block);
+    const { points, comments } = extractEngagement(rawSummary);
     items.push({
       title,
       link,
-      summary: cleanSummary(extractSummary(block), title),
+      summary: cleanSummary(rawSummary, title),
       date: extractDate(block),
-      author: text(block, 'creator') || text(block, 'author') || ''
+      author: text(block, 'creator') || text(block, 'author') || '',
+      points,
+      comments
     });
   }
   return items;

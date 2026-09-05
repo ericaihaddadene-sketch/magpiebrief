@@ -67,6 +67,7 @@ function toRecord(story) {
     summary: (story.summary || '').slice(0, 240),
     published: story.date.toISOString(),
     peak: Math.round(story.score * 10) / 10,
+    points: story.points || null,
     also: (story.related || []).slice(0, 5).map((r) => ({ source: r.source, link: r.link }))
   };
 }

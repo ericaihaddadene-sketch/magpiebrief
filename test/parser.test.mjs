@@ -1,5 +1,6 @@
 // Run with: node test/parser.test.mjs
-import { parseFeed, feedTitle, decodeEntities, cleanSummary } from '../src/feed-parser.js';
+import { parseFeed, feedTitle, decodeEntities, cleanSummary, extractEngagement } from '../src/feed-parser.js';
+import { engagementBoost } from '../src/rank.js';
 
 let pass = 0, fail = 0;
 const eq = (label, actual, expected) => {
@@ -46,6 +47,20 @@ eq('cleanSummary: strips reddit byline', cleanSummary('submitted by /u/someone',
 eq('cleanSummary: drops summary echoing the title', cleanSummary('Anthropic ships a new model', 'Anthropic ships a new model'), '');
 eq('cleanSummary: keeps real prose', cleanSummary('Researchers found that models trained on synthetic data degrade over time.', 'Model collapse'), 'Researchers found that models trained on synthetic data degrade over time.');
 eq('cleanSummary: removes bare urls but keeps prose', cleanSummary('A good read at https://example.com/post about scaling laws and their limits.', 'T'), 'A good read at about scaling laws and their limits.');
+
+eq('engagement: points parsed', extractEngagement('Points: 214 # Comments: 88').points, 214);
+eq('engagement: comments parsed', extractEngagement('Points: 214 # Comments: 88').comments, 88);
+eq('engagement: absent when not present', extractEngagement('just some prose').points, null);
+eq('engagement: null input safe', extractEngagement(null).points, null);
+eq('engagement survives summary cleaning', parseFeed("<rss><item><title>A story</title><link>https://e.com/x</link><description>&lt;p&gt;Article URL: &lt;a&gt;https://e.com/x&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Points: 214&lt;/p&gt;&lt;p&gt;# Comments: 88&lt;/p&gt;</description></item></rss>")[0].points, 214);
+eq('engagement: summary still cleaned to empty', parseFeed("<rss><item><title>A story</title><link>https://e.com/x</link><description>&lt;p&gt;Article URL: &lt;a&gt;https://e.com/x&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Points: 214&lt;/p&gt;&lt;p&gt;# Comments: 88&lt;/p&gt;</description></item></rss>")[0].summary, '');
+
+const R = { engagement: { weight: 0.7, reference: 500, maxBoost: 0.8 } };
+eq('boost: no points is neutral', engagementBoost(null, R), 1);
+eq('boost: zero points is neutral', engagementBoost(0, R), 1);
+eq('boost: grows with points', engagementBoost(200, R) > engagementBoost(20, R), true);
+eq('boost: capped', engagementBoost(500000, R) <= 1 + R.engagement.maxBoost, true);
+eq('boost: disabled without config', engagementBoost(500, {}), 1);
 
 console.log(`\n${pass} passed, ${fail} failed`);
 process.exit(fail ? 1 : 0);
