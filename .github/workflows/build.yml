@@ -1,0 +1,62 @@
+name: Build and deploy
+
+on:
+  # Rebuild hourly. GitHub's scheduler is best-effort and can run late under
+  # load; if you need reliable timing, trigger from an external cron instead.
+  schedule:
+    - cron: '7 * * * *'
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never let two builds deploy at once, but don't cancel a run mid-deploy.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # Persist the conditional-GET cache between runs so publishers get 304s
+      # instead of full downloads every hour. Restore-keys make a near-miss
+      # still usable rather than starting cold.
+      - name: Restore feed cache
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: feed-cache-${{ github.run_id }}
+          restore-keys: |
+            feed-cache-
+
+      - name: Run tests
+        run: npm test
+
+      - name: Build site
+        run: npm run build
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

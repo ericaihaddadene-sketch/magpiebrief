@@ -1,0 +1,45 @@
+{
+  "_comment": "Your live ad inventory. Set sold:true and fill the fields to run a campaign. Unsold slots automatically render a 'your ad here' house ad pointing at /advertise — which is how you sell the next one.",
+  "slots": {
+    "leaderboard": {
+      "sold": false,
+      "advertiser": "",
+      "headline": "",
+      "body": "",
+      "cta": "",
+      "url": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    "sidebar": {
+      "sold": true,
+      "advertiser": "Example Co",
+      "headline": "Ship your AI feature this quarter",
+      "body": "Managed inference, evals, and observability in one SDK. Free tier, no card required.",
+      "cta": "Start building",
+      "url": "https://example.com/pricing",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-30"
+    },
+    "inline": {
+      "sold": false,
+      "advertiser": "",
+      "headline": "",
+      "body": "",
+      "cta": "",
+      "url": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    "footer": {
+      "sold": false,
+      "advertiser": "",
+      "headline": "",
+      "body": "",
+      "cta": "",
+      "url": "",
+      "startDate": "",
+      "endDate": ""
+    }
+  }
+}
