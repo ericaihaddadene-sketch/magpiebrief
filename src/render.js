@@ -161,8 +161,9 @@ function head(cfg, { title, description, canonical }) {
 <meta property="og:image:alt" content="${esc(cfg.site.name)} — ${esc(cfg.site.tagline)}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="${esc(cfg.site.url)}/og.png">
-<link rel="icon" href="${esc(link(cfg, '/favicon.svg'))}" type="image/svg+xml">
+<link rel="icon" href="${esc(link(cfg, '/favicon-16.png'))}" sizes="16x16" type="image/png">
 <link rel="icon" href="${esc(link(cfg, '/favicon-32.png'))}" sizes="32x32" type="image/png">
+<link rel="icon" href="${esc(link(cfg, '/favicon-48.png'))}" sizes="48x48" type="image/png">
 <link rel="apple-touch-icon" href="${esc(link(cfg, '/apple-touch-icon.png'))}">
 <link rel="alternate" type="application/rss+xml" title="${esc(cfg.site.name)}" href="${esc(link(cfg, '/feed.xml'))}">
 <link rel="stylesheet" href="${esc(link(cfg, '/styles.css'))}">
