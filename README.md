@@ -96,10 +96,17 @@ The archive turns a disposable page into something that compounds.
 
 Two details that matter:
 
-- **The archive is committed to the repo.** CI checks out fresh on every run,
-  so anything not committed is gone next build. The workflow commits `archive/`
-  back with `[skip ci]` in the message — without that marker each build would
-  trigger another build, forever.
+- **The archive is committed to the repo, by a job that only runs on the
+  schedule.** CI checks out fresh on every run, so anything not committed is
+  gone next build. The commit carries `[skip ci]`, without which each build
+  would trigger another build forever.
+
+  The commit is a separate job on purpose. When it lived in the build job it
+  ran on every trigger including `push`, so pushing to main caused CI to
+  commit seconds later and leave your local branch behind immediately —
+  every push then needed a rebase. A push now only builds and deploys. The
+  archive job reuses the build’s output rather than rebuilding, so what gets
+  committed is exactly what was deployed and the feeds are not fetched twice.
 - **Entries keep their peak score, not their latest one.** Scores decay with
   age, and the build runs hourly. Ordering an archived day by current score
   would rank stories by how late in the day they broke rather than how big they

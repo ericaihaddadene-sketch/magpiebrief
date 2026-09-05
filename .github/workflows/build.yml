@@ -9,12 +9,10 @@ on:
     branches: [main]
   workflow_dispatch:
 
+# Read-only by default. Only the archive job needs write, and it asks for it
+# itself — a push-triggered run has no ability to commit anything.
 permissions:
-  # write, not read: the archive is committed back to the repo after each build.
-  # CI checks out fresh every run, so anything not committed is lost.
-  contents: write
-  pages: write
-  id-token: write
+  contents: read
 
 # Never let two builds deploy at once, but don't cancel a run mid-deploy.
 concurrency:
@@ -24,6 +22,10 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     steps:
       - uses: actions/checkout@v4
 
@@ -45,32 +47,19 @@ jobs:
       - name: Run tests
         run: npm test
 
+      # Fails the run on a policy violation, so deploy never happens.
       - name: Build site
         run: npm run build
 
-      # The archive is the only state that has to outlive the run. Committed
-      # with [skip ci] so it does not trigger another build and loop forever.
-      - name: Persist archive
-        run: |
-          if [ -z "$(git status --porcelain archive)" ]; then
-            echo "archive unchanged"
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add archive
-          git commit -m "Update archive [skip ci]"
-          # A scheduled run and a push can overlap; rebase onto whatever landed
-          # first rather than failing the build over it.
-          for attempt in 1 2 3; do
-            if git push; then
-              echo "archive pushed"
-              exit 0
-            fi
-            echo "push rejected, rebasing (attempt $attempt)"
-            git pull --rebase --autostash origin main || true
-          done
-          echo "::warning::could not push archive after 3 attempts; it will be retried next run"
+      # Handed to the archive job rather than committed here, so that a push
+      # never causes a commit. See that job for why.
+      - name: Hand archive to the persist job
+        uses: actions/upload-artifact@v4
+        with:
+          name: archive
+          path: archive/
+          retention-days: 1
+          if-no-files-found: ignore
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
@@ -80,9 +69,61 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  # Committing the archive is deliberately separate, and deliberately only runs
+  # on the schedule.
+  #
+  # When this lived in the build job it ran on every trigger — including push —
+  # so pushing to main caused CI to commit seconds later and leave the local
+  # branch behind immediately. Every single push needed a rebase. Now a push
+  # only ever builds and deploys, and the archive is written once an hour by a
+  # job nobody is racing.
+  #
+  # It reuses the build's output instead of rebuilding, so the committed archive
+  # is exactly what was deployed, and the feeds are not fetched twice.
+  archive:
+    needs: build
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Collect archive from the build
+        uses: actions/download-artifact@v4
+        with:
+          name: archive
+          path: archive/
+
+      - name: Commit archive
+        run: |
+          if [ -z "$(git status --porcelain archive)" ]; then
+            echo "archive unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add archive
+          # [skip ci] or this commit would trigger another build, forever.
+          git commit -m "Update archive [skip ci]"
+          # Still possible to collide with a human push landing mid-job, so
+          # rebase onto whatever got there first rather than failing.
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "archive pushed"
+              exit 0
+            fi
+            echo "push rejected, rebasing (attempt $attempt)"
+            git pull --rebase --autostash origin main || true
+          done
+          echo "::warning::could not push archive after 3 attempts; it will be retried next hour"
