@@ -114,10 +114,17 @@ a { color: inherit; }
   gap: 11px;
 }
 
-/* currentColor, so the mark follows the theme without a second asset. */
+/* Sized by height so the intrinsic width/height attributes still give the
+   browser an aspect ratio to reserve — no layout shift while it loads. */
 .brand__mark {
   flex: none;
-  color: var(--ink);
+  height: 58px;
+  width: auto;
+}
+
+@media (max-width: 520px) {
+  .brand__mark { height: 44px; }
+  .brand__name { font-size: 27px; gap: 8px; }
 }
 
 .brand__tag {
