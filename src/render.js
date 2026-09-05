@@ -204,11 +204,13 @@ export function layout(cfg, ads, { title, description, canonical, sections, acti
 <header class="masthead">
   <div class="wrap masthead__inner">
     <div class="brand">
-      <a class="brand__name" href="${esc(link(cfg, '/'))}">
+      <a class="brand__logo" href="${esc(link(cfg, '/'))}" aria-hidden="true" tabindex="-1">
         <img class="brand__mark" src="${esc(link(cfg, '/logo-mark.png'))}" width="300" height="235" alt="" decoding="async">
-        <span>${esc(cfg.site.name)}</span>
       </a>
-      <p class="brand__tag">${esc(cfg.site.tagline)}</p>
+      <div class="brand__text">
+        <a class="brand__name" href="${esc(link(cfg, '/'))}">${esc(cfg.site.name)}</a>
+        <p class="brand__tag">${esc(cfg.site.tagline)}</p>
+      </div>
     </div>
     <div class="masthead__meta">
       <span class="updated">Updated ${esc(buildTime)}</span>

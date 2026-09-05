@@ -103,34 +103,53 @@ a { color: inherit; }
   flex-wrap: wrap;
 }
 
-.brand__name {
-  font-family: var(--serif);
-  font-size: 34px;
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  text-decoration: none;
+/* Logo beside a text column, so the wordmark and the tagline share a left
+   edge. Previously the tagline was a sibling of the link and started at the
+   container edge — under the mark — while the wordmark was pushed right by it,
+   leaving the two lines misaligned and the wordmark looking detached. */
+.brand {
   display: flex;
   align-items: center;
-  gap: 11px;
+  gap: 14px;
+}
+
+.brand__logo {
+  flex: none;
+  display: block;
+  line-height: 0;
 }
 
 /* Sized by height so the intrinsic width/height attributes still give the
    browser an aspect ratio to reserve — no layout shift while it loads. */
 .brand__mark {
-  flex: none;
-  height: 58px;
+  display: block;
+  height: 54px;
   width: auto;
 }
 
-@media (max-width: 520px) {
-  .brand__mark { height: 44px; }
-  .brand__name { font-size: 27px; gap: 8px; }
+.brand__text { min-width: 0; }
+
+.brand__name {
+  display: block;
+  font-family: var(--serif);
+  font-size: 34px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  text-decoration: none;
+  line-height: 1.05;
 }
 
 .brand__tag {
-  margin: 4px 0 0;
+  margin: 3px 0 0;
   color: var(--ink-soft);
   font-size: 14px;
+}
+
+@media (max-width: 520px) {
+  .brand { gap: 10px; }
+  .brand__mark { height: 42px; }
+  .brand__name { font-size: 26px; }
+  .brand__tag { font-size: 13px; }
 }
 
 .masthead__meta {
