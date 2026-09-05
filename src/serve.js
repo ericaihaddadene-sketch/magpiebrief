@@ -4,11 +4,23 @@
 import { createServer } from 'node:http';
 import { readFile, stat } from 'node:fs/promises';
 import path from 'node:path';
+import { site } from '../config.js';
 
 // Resolved against this file, not the shell's cwd, so `npm --prefix` and
 // editor-launched runs both serve the right directory.
 const ROOT = path.resolve(import.meta.dirname, '..', 'dist');
 const PORT = Number(process.env.PORT) || 4321;
+
+// When the site is deployed to a subpath (a GitHub project site), generated
+// links are prefixed with it. dist/ has no such directory, so strip the prefix
+// here — otherwise local preview 404s on every link while production works.
+const BASE = (() => {
+  try {
+    return new URL(site.url).pathname.replace(/\/+$/, '');
+  } catch {
+    return '';
+  }
+})();
 
 const TYPES = {
   '.html': 'text/html; charset=utf-8',
@@ -23,7 +35,10 @@ const TYPES = {
 };
 
 async function resolveFile(urlPath) {
-  const decoded = decodeURIComponent(urlPath.split('?')[0]);
+  let decoded = decodeURIComponent(urlPath.split('?')[0]);
+  if (BASE && (decoded === BASE || decoded.startsWith(BASE + '/'))) {
+    decoded = decoded.slice(BASE.length) || '/';
+  }
   const unsafe = path.join(ROOT, decoded);
   const resolved = path.resolve(unsafe);
   // Refuse anything that escapes dist/ via ../ segments.

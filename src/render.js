@@ -38,6 +38,32 @@ export function truncate(text, max = 180) {
 export const slugify = (s) =>
   String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
+/**
+ * Path prefix for internal links, taken from site.url.
+ *
+ * GitHub project sites serve from https://user.github.io/<repo>/, so a
+ * root-absolute href like "/styles.css" resolves against the domain, not the
+ * subdirectory, and the deployed site silently loses its stylesheet and its
+ * navigation. Deriving the prefix from site.url means the one setting that has
+ * to be right for canonical URLs is also the one that makes links work.
+ */
+export function basePath(cfg) {
+  try {
+    return new URL(cfg.site.url).pathname.replace(/\/+$/, '');
+  } catch {
+    return '';
+  }
+}
+
+/** Build an internal link. `path` is always written root-relative. */
+export function link(cfg, path) {
+  const base = basePath(cfg);
+  if (!path.startsWith('/')) path = '/' + path;
+  // Root of a subpath site still needs its trailing slash.
+  if (path === '/') return base ? base + '/' : '/';
+  return base + path;
+}
+
 // ---------------------------------------------------------------------------
 // Advertising
 // ---------------------------------------------------------------------------
@@ -99,7 +125,7 @@ export function adSlot(name, ads, cfg, today = new Date().toISOString().slice(0,
   }
 
   return `<aside class="ad ad--${esc(name)} ad--house">
-  <a class="ad__body" href="/advertise/">
+  <a class="ad__body" href="${esc(link(cfg, '/advertise/'))}">
     <strong class="ad__headline">This slot is available</strong>
     <span class="ad__text">Reach readers who follow ${esc(cfg.site.name)} daily.</span>
     <span class="ad__cta">See the rate card →</span>
@@ -130,8 +156,8 @@ function head(cfg, { title, description, canonical }) {
 <meta property="og:type" content="website">
 <meta property="og:url" content="${esc(canonical)}">
 <meta name="twitter:card" content="summary">
-<link rel="alternate" type="application/rss+xml" title="${esc(cfg.site.name)}" href="/feed.xml">
-<link rel="stylesheet" href="/styles.css">
+<link rel="alternate" type="application/rss+xml" title="${esc(cfg.site.name)}" href="${esc(link(cfg, '/feed.xml'))}">
+<link rel="stylesheet" href="${esc(link(cfg, '/styles.css'))}">
 ${networkScript}
 </head>`;
 }
@@ -139,13 +165,13 @@ ${networkScript}
 function nav(cfg, sections, active) {
   const links = sections
     .map((s) => {
-      const href = `/${slugify(s)}/`;
+      const href = link(cfg, `/${slugify(s)}/`);
       const cls = active === s ? ' class="active"' : '';
       return `<a${cls} href="${esc(href)}">${esc(s)}</a>`;
     })
     .join('');
   const homeCls = active === null ? ' class="active"' : '';
-  return `<nav class="nav"><a${homeCls} href="/">Top</a>${links}</nav>`;
+  return `<nav class="nav"><a${homeCls} href="${esc(link(cfg, '/'))}">Top</a>${links}</nav>`;
 }
 
 export function layout(cfg, ads, { title, description, canonical, sections, active = null, body, buildTime }) {
@@ -155,12 +181,12 @@ export function layout(cfg, ads, { title, description, canonical, sections, acti
 <header class="masthead">
   <div class="wrap masthead__inner">
     <div class="brand">
-      <a class="brand__name" href="/">${esc(cfg.site.name)}</a>
+      <a class="brand__name" href="${esc(link(cfg, '/'))}">${esc(cfg.site.name)}</a>
       <p class="brand__tag">${esc(cfg.site.tagline)}</p>
     </div>
     <div class="masthead__meta">
       <span class="updated">Updated ${esc(buildTime)}</span>
-      <a class="rss" href="/feed.xml">RSS</a>
+      <a class="rss" href="${esc(link(cfg, '/feed.xml'))}">RSS</a>
     </div>
   </div>
 </header>
@@ -173,7 +199,7 @@ ${body}
   <div class="wrap">
     ${adSlot('footer', ads, cfg)}
     <div class="footer__links">
-      <a href="/">Top</a><a href="/advertise/">Advertise</a><a href="/about/">About</a><a href="/feed.xml">RSS</a>
+      <a href="${esc(link(cfg, '/'))}">Top</a><a href="${esc(link(cfg, '/advertise/'))}">Advertise</a><a href="${esc(link(cfg, '/about/'))}">About</a><a href="${esc(link(cfg, '/feed.xml'))}">RSS</a>
     </div>
     <p class="footer__legal">${esc(cfg.site.attribution)}</p>
     <p class="footer__legal">© ${new Date().getFullYear()} ${esc(cfg.site.name)}. Built ${esc(buildTime)}.</p>
@@ -234,7 +260,7 @@ function sidebar(cfg, ads, sources) {
   <section class="panel">
     <h3 class="panel__title">Advertise here</h3>
     <p class="panel__text">Four slots, no trackers, no pop-ups. Readers who work in the field.</p>
-    <a class="btn" href="/advertise/">See the rate card</a>
+    <a class="btn" href="${esc(link(cfg, '/advertise/'))}">See the rate card</a>
   </section>
 </aside>`;
 }

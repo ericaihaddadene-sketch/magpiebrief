@@ -6,9 +6,16 @@
 export const site = {
   name: 'Signal Wire',
   tagline: 'Everything that mattered in AI today, in one screen.',
-  // Set this to your real domain before deploying. Used for canonical URLs,
-  // sitemap.xml, and the RSS feed. No trailing slash.
-  url: 'https://example.com',
+  // Used for canonical URLs, sitemap.xml, and the RSS feed. No trailing slash.
+  //
+  // If this URL has a path (a GitHub project site serves from /<repo>/), that
+  // path is used as the base for every internal link. Get this wrong and the
+  // deployed site loads no CSS and has dead navigation, because root-absolute
+  // hrefs resolve against the domain rather than the subdirectory.
+  //
+  // Root domain:      'https://news.example.com'        -> links are /about/
+  // Project subpath:  'https://you.github.io/newswire'  -> links are /newswire/about/
+  url: 'https://ericaihaddadene-sketch.github.io/newswire',
   contactEmail: 'ads@example.com',
   locale: 'en-US',
   // Shown in the footer. Keep it honest — it's what makes aggregation defensible.
