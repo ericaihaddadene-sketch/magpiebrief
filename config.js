@@ -4,7 +4,7 @@
 // ---------------------------------------------------------------------------
 
 export const site = {
-  name: 'Signal Wire',
+  name: 'Magpie Brief',
   tagline: 'Everything that mattered in AI today, in one screen.',
   // Used for canonical URLs, sitemap.xml, and the RSS feed. No trailing slash.
   //
@@ -13,9 +13,13 @@ export const site = {
   // deployed site loads no CSS and has dead navigation, because root-absolute
   // hrefs resolve against the domain rather than the subdirectory.
   //
-  // Root domain:      'https://news.example.com'        -> links are /about/
-  // Project subpath:  'https://you.github.io/newswire'  -> links are /newswire/about/
-  url: 'https://ericaihaddadene-sketch.github.io/newswire',
+  // Root domain:      'https://magpiebrief.com'            -> links are /about/
+  // Project subpath:  'https://you.github.io/magpiebrief'  -> links are /magpiebrief/about/
+  //
+  // Once magpiebrief.com is registered and pointed at Pages, change this single
+  // line to 'https://magpiebrief.com' and every link, canonical tag, sitemap
+  // entry and RSS URL follows automatically.
+  url: 'https://ericaihaddadene-sketch.github.io/magpiebrief',
   // PLACEHOLDER — replace before pointing any advertiser at the site.
   // This is published as a mailto: link on /advertise, so it is deliberately
   // written to read as unfinished rather than as a real address that bounces.
@@ -151,7 +155,7 @@ export const advertising = {
     { slot: 'footer',      label: 'Footer mention',  placement: 'Bottom of every page',            size: 'Text only',       monthly: 'TBD' }
   ],
   // Appended to sponsor links so advertisers can prove the traffic came from you.
-  utm: { source: 'signalwire', medium: 'sponsorship' }
+  utm: { source: 'magpiebrief', medium: 'sponsorship' }
 };
 
 export const adNetwork = {
@@ -172,5 +176,8 @@ export const fetching = {
   concurrency: 6,
   timeoutMs: 12000,
   retries: 1,
-  userAgent: 'SignalWireBot/1.0 (+https://example.com/about; RSS aggregator)'
+  // Points at a real page so a publisher checking their logs can find out who
+  // is fetching them. It was pointing at example.com, which is worse than
+  // sending no contact URL at all.
+  userAgent: 'MagpieBriefBot/1.0 (+https://ericaihaddadene-sketch.github.io/magpiebrief/about/; RSS aggregator)'
 };

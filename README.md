@@ -1,4 +1,4 @@
-# Signal Wire
+# Magpie Brief
 
 A static news aggregator with ad inventory built in. Reads RSS/Atom feeds,
 clusters duplicate coverage, ranks what's left, and writes plain HTML.
