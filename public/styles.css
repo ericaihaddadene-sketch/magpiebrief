@@ -2,18 +2,20 @@
    Light and dark are both defined explicitly so the page never borrows a
    half-applied theme from the browser. */
 
+/* Palette taken from the magpie logo: the navy of the wordmark, the
+   iridescent blue of the wing, and the teal of the tail. */
 :root {
-  --bg: #fbfaf8;
+  --bg: #f5f8fb;
   --surface: #ffffff;
-  --border: #e4e0d8;
-  --border-strong: #d2ccc0;
-  --ink: #1a1815;
-  --ink-soft: #5c564c;
-  --ink-faint: #8b8479;
-  --accent: #b3421c;
-  --accent-soft: #f4e6e0;
-  --sponsor: #1f5c3d;
-  --sponsor-soft: #e6f0ea;
+  --border: #dce5ee;
+  --border-strong: #c1d0de;
+  --ink: #14243d;
+  --ink-soft: #52657c;
+  --ink-faint: #8497a9;
+  --accent: #1c6ba8;
+  --accent-soft: #e4f0f8;
+  --sponsor: #2a8d80;
+  --sponsor-soft: #e2f2ef;
   --radius: 6px;
   --wrap: 1120px;
   --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
@@ -23,32 +25,32 @@
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #14130f;
-    --surface: #1c1a16;
-    --border: #302c25;
-    --border-strong: #454036;
-    --ink: #f0ece4;
-    --ink-soft: #b0a99c;
-    --ink-faint: #7e7768;
-    --accent: #e8875c;
-    --accent-soft: #33221a;
-    --sponsor: #6fc79a;
-    --sponsor-soft: #16291f;
+    --bg: #0d1621;
+    --surface: #142131;
+    --border: #22334a;
+    --border-strong: #33475f;
+    --ink: #e9eff5;
+    --ink-soft: #a4b6c8;
+    --ink-faint: #74889c;
+    --accent: #5aaee0;
+    --accent-soft: #16293c;
+    --sponsor: #46c2b1;
+    --sponsor-soft: #102b28;
   }
 }
 
 :root[data-theme="dark"] {
-  --bg: #14130f;
-  --surface: #1c1a16;
-  --border: #302c25;
-  --border-strong: #454036;
-  --ink: #f0ece4;
-  --ink-soft: #b0a99c;
-  --ink-faint: #7e7768;
-  --accent: #e8875c;
-  --accent-soft: #33221a;
-  --sponsor: #6fc79a;
-  --sponsor-soft: #16291f;
+  --bg: #0d1621;
+  --surface: #142131;
+  --border: #22334a;
+  --border-strong: #33475f;
+  --ink: #e9eff5;
+  --ink-soft: #a4b6c8;
+  --ink-faint: #74889c;
+  --accent: #5aaee0;
+  --accent-soft: #16293c;
+  --sponsor: #46c2b1;
+  --sponsor-soft: #102b28;
 }
 
 * { box-sizing: border-box; }
