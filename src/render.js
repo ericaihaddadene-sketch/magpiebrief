@@ -55,6 +55,17 @@ export function basePath(cfg) {
   }
 }
 
+/**
+ * The magpie mark, as a bare path. Upright perched stance drawn to match the
+ * brand illustration, but reduced to a single silhouette so it still reads at
+ * 16px in a browser tab — the illustration itself turns to mud at that size.
+ * Inlined in the masthead so the logo costs no extra request.
+ */
+export const MAGPIE_PATH =
+  'M56 17.5 L47.5 12.8 C44 6.5 35 6 32 13 C30.8 16.5 30.5 19 29.8 21.5 ' +
+  'C29 25 28 30 26.5 34 C25.8 36 25.2 37.8 24.5 39.5 L5 59.5 L10.5 60.5 ' +
+  'L28 44 C30 41 33 39.5 36 38 C43 35 47.5 29 48.8 22.8 C49 21.5 48.8 20.8 48.3 20.3 Z';
+
 /** Build an internal link. `path` is always written root-relative. */
 export function link(cfg, path) {
   const base = basePath(cfg);
@@ -155,7 +166,15 @@ function head(cfg, { title, description, canonical }) {
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:type" content="website">
 <meta property="og:url" content="${esc(canonical)}">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="${esc(cfg.site.url)}/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="${esc(cfg.site.name)} — ${esc(cfg.site.tagline)}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="${esc(cfg.site.url)}/og.png">
+<link rel="icon" href="${esc(link(cfg, '/favicon.svg'))}" type="image/svg+xml">
+<link rel="icon" href="${esc(link(cfg, '/favicon-32.png'))}" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="${esc(link(cfg, '/apple-touch-icon.png'))}">
 <link rel="alternate" type="application/rss+xml" title="${esc(cfg.site.name)}" href="${esc(link(cfg, '/feed.xml'))}">
 <link rel="stylesheet" href="${esc(link(cfg, '/styles.css'))}">
 ${networkScript}
@@ -181,7 +200,10 @@ export function layout(cfg, ads, { title, description, canonical, sections, acti
 <header class="masthead">
   <div class="wrap masthead__inner">
     <div class="brand">
-      <a class="brand__name" href="${esc(link(cfg, '/'))}">${esc(cfg.site.name)}</a>
+      <a class="brand__name" href="${esc(link(cfg, '/'))}">
+        <svg class="brand__mark" viewBox="0 0 64 64" width="38" height="38" aria-hidden="true" focusable="false"><path fill="currentColor" d="${MAGPIE_PATH}"/></svg>
+        <span>${esc(cfg.site.name)}</span>
+      </a>
       <p class="brand__tag">${esc(cfg.site.tagline)}</p>
     </div>
     <div class="masthead__meta">

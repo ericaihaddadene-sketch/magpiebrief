@@ -109,7 +109,15 @@ a { color: inherit; }
   font-weight: 700;
   letter-spacing: -0.02em;
   text-decoration: none;
-  display: block;
+  display: flex;
+  align-items: center;
+  gap: 11px;
+}
+
+/* currentColor, so the mark follows the theme without a second asset. */
+.brand__mark {
+  flex: none;
+  color: var(--ink);
 }
 
 .brand__tag {

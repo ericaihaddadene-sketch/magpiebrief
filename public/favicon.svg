@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Browser tab strips go dark in dark mode, where a navy bird on transparent
+       disappears entirely. SVG favicons honour prefers-color-scheme, so the mark
+       flips to light ink instead of vanishing. -->
+  <style>
+    path { fill: #14243d; }
+    @media (prefers-color-scheme: dark) { path { fill: #e9eff5; } }
+  </style>
+  <path d="M56 17.5 L47.5 12.8 C44 6.5 35 6 32 13 C30.8 16.5 30.5 19 29.8 21.5 C29 25 28 30 26.5 34 C25.8 36 25.2 37.8 24.5 39.5 L5 59.5 L10.5 60.5 L28 44 C30 41 33 39.5 36 38 C43 35 47.5 29 48.8 22.8 C49 21.5 48.8 20.8 48.3 20.3 Z"/>
+</svg>
