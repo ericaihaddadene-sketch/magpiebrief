@@ -82,6 +82,35 @@ duplicates slip through. Lower `halfLifeHours` for a faster-moving site.
 
 ---
 
+## The archive
+
+Every build folds its ranked stories into `archive/<date>.json`, one file per
+day, and renders a permanent page at `/YYYY/MM/DD/` plus an index at
+`/archive/`.
+
+This exists because the build is otherwise amnesiac. It wipes `dist/` and
+regenerates the same seven URLs, so nothing accumulates: there is no stable
+address to link to, nothing for search engines to index beyond a single page
+that changes hourly, and a reader who misses a day has missed it permanently.
+The archive turns a disposable page into something that compounds.
+
+Two details that matter:
+
+- **The archive is committed to the repo.** CI checks out fresh on every run,
+  so anything not committed is gone next build. The workflow commits `archive/`
+  back with `[skip ci]` in the message — without that marker each build would
+  trigger another build, forever.
+- **Entries keep their peak score, not their latest one.** Scores decay with
+  age, and the build runs hourly. Ordering an archived day by current score
+  would rank stories by how late in the day they broke rather than how big they
+  got.
+
+Each day record has an empty `summary` field, rendered when non-empty. Filling
+it with a few sentences of real synthesis is what would make these pages worth
+indexing — a page of headlines and excerpts is thin content, and search engines
+have spent a decade learning to ignore exactly that. The archive is useful to
+readers without it; it is not competitive in search until it exists.
+
 ## Selling advertising
 
 Four slots: `leaderboard`, `sidebar`, `inline` (position 6 in the story list),

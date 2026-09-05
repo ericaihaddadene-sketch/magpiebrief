@@ -171,6 +171,19 @@ ${networkScript}
 </head>`;
 }
 
+/** '2026-09-05' -> '/2026/09/05/' */
+export function dayPath(date) {
+  const [y, m, d] = date.split('-');
+  return `/${y}/${m}/${d}/`;
+}
+
+/** '2026-09-05' -> 'Friday, 5 September 2026' */
+export function formatDay(date, locale = 'en-GB') {
+  return new Date(date + 'T12:00:00Z').toLocaleDateString(locale, {
+    weekday: 'long', day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC'
+  });
+}
+
 function nav(cfg, sections, active) {
   const links = sections
     .map((s) => {
@@ -180,7 +193,8 @@ function nav(cfg, sections, active) {
     })
     .join('');
   const homeCls = active === null ? ' class="active"' : '';
-  return `<nav class="nav"><a${homeCls} href="${esc(link(cfg, '/'))}">Top</a>${links}</nav>`;
+  const archiveCls = active === 'archive' ? ' class="active"' : '';
+  return `<nav class="nav"><a${homeCls} href="${esc(link(cfg, '/'))}">Top</a>${links}<a${archiveCls} href="${esc(link(cfg, '/archive/'))}">Archive</a></nav>`;
 }
 
 export function layout(cfg, ads, { title, description, canonical, sections, active = null, body, buildTime }) {
@@ -393,6 +407,123 @@ export function renderAbout(cfg, ads, { sections, buildTime, sources }) {
 }
 
 // ---------------------------------------------------------------------------
+// Archive
+// ---------------------------------------------------------------------------
+
+/** Archived stories show a fixed publication time; "3d ago" is meaningless on
+ *  a page that is explicitly about one past day. */
+function archiveStoryMarkup(rec, rank, locale) {
+  const when = new Date(rec.published).toLocaleTimeString(locale, {
+    hour: '2-digit', minute: '2-digit', timeZone: 'UTC', hour12: false
+  });
+  const also = (rec.also || []).length
+    ? `<div class="story__also">Also covered by ${rec.also
+        .map((r) => `<a href="${esc(r.link)}" rel="noopener" target="_blank">${esc(r.source)}</a>`)
+        .join(', ')}</div>`
+    : '';
+  return `<article class="story">
+  <span class="story__rank">${rank}</span>
+  <div class="story__main">
+    <h2 class="story__title"><a href="${esc(rec.link)}" rel="noopener" target="_blank">${esc(rec.title)}</a></h2>
+    ${rec.summary ? `<p class="story__summary">${esc(truncate(rec.summary, 190))}</p>` : ''}
+    <div class="story__meta">
+      <span class="story__source">${esc(rec.source)}</span>
+      <span class="story__host">${esc(hostOf(rec.link))}</span>
+      <time datetime="${esc(rec.published)}">${esc(when)} UTC</time>
+    </div>
+    ${also}
+  </div>
+</article>`;
+}
+
+export function renderArchiveDay(cfg, ads, { record, prev, next, sections, buildTime }) {
+  const locale = cfg.site.locale || 'en-GB';
+  const pretty = formatDay(record.date, locale);
+  const nav = [
+    prev ? `<a href="${esc(link(cfg, dayPath(prev)))}">← ${esc(formatDay(prev, locale))}</a>` : '<span></span>',
+    next ? `<a href="${esc(link(cfg, dayPath(next)))}">${esc(formatDay(next, locale))} →</a>` : '<span></span>'
+  ].join('');
+
+  const body = `<div class="content">
+  <h1 class="page-title">${esc(pretty)}</h1>
+  ${record.summary ? `<p class="day-summary">${esc(record.summary)}</p>` : ''}
+  <p class="day-count">${record.stories.length} ${record.stories.length === 1 ? 'story' : 'stories'}, ranked by how big they got.</p>
+  ${record.stories.map((r, i) => archiveStoryMarkup(r, i + 1, locale)).join('\n')}
+  <div class="day-nav">${nav}</div>
+</div>
+${sidebarArchive(cfg, ads)}`;
+
+  return layout(cfg, ads, {
+    title: `AI news, ${pretty} — ${cfg.site.name}`,
+    description: `Everything that mattered in AI on ${pretty}: ${record.stories.length} stories from ${new Set(record.stories.map((s) => s.source)).size} sources, ranked.`,
+    canonical: cfg.site.url + dayPath(record.date),
+    sections,
+    active: 'archive',
+    body,
+    buildTime
+  });
+}
+
+function sidebarArchive(cfg, ads) {
+  return `<aside class="sidebar">
+  ${adSlot('sidebar', ads, cfg)}
+  <section class="panel">
+    <h3 class="panel__title">About the archive</h3>
+    <p class="panel__text">Every day since launch is kept at a permanent address, ranked as it stood that day. Nothing is rewritten later.</p>
+    <a class="btn" href="${esc(link(cfg, '/archive/'))}">Browse all days</a>
+  </section>
+</aside>`;
+}
+
+export function renderArchiveIndex(cfg, ads, { days, sections, buildTime }) {
+  const locale = cfg.site.locale || 'en-GB';
+  // Group by month so a long archive stays scannable.
+  const months = new Map();
+  for (const d of days) {
+    const key = d.date.slice(0, 7);
+    if (!months.has(key)) months.set(key, []);
+    months.get(key).push(d);
+  }
+
+  const groups = [...months.entries()]
+    .map(([month, entries]) => {
+      const label = new Date(month + '-01T12:00:00Z').toLocaleDateString(locale, {
+        month: 'long', year: 'numeric', timeZone: 'UTC'
+      });
+      const items = entries
+        .map((e) => `<li>
+        <a href="${esc(link(cfg, dayPath(e.date)))}">${esc(formatDay(e.date, locale))}</a>
+        <span class="archive__count">${e.stories.length}</span>
+      </li>`)
+        .join('');
+      return `<section class="archive__month">
+    <h2 class="archive__label">${esc(label)}</h2>
+    <ul class="archive__days">${items}</ul>
+  </section>`;
+    })
+    .join('\n');
+
+  const total = days.reduce((n, d) => n + d.stories.length, 0);
+
+  const body = `<div class="content">
+  <h1 class="page-title">Archive</h1>
+  <p class="lede">${days.length} ${days.length === 1 ? 'day' : 'days'}, ${total} stories. Each day keeps a permanent address and the ranking it had at the time.</p>
+  ${days.length ? groups : '<p class="empty">The archive starts filling from the first build.</p>'}
+</div>
+${sidebarArchive(cfg, ads)}`;
+
+  return layout(cfg, ads, {
+    title: `Archive — ${cfg.site.name}`,
+    description: `Every day of AI news collected by ${cfg.site.name}, kept at permanent addresses.`,
+    canonical: cfg.site.url + '/archive/',
+    sections,
+    active: 'archive',
+    body,
+    buildTime
+  });
+}
+
+// ---------------------------------------------------------------------------
 // Non-HTML outputs
 // ---------------------------------------------------------------------------
 
@@ -423,16 +554,24 @@ ${items}
 </rss>`;
 }
 
-export function renderSitemap(cfg, sections) {
-  const urls = ['/', '/advertise/', '/about/', ...sections.map((s) => `/${slugify(s)}/`)];
+export function renderSitemap(cfg, sections, archiveDates = []) {
   const now = new Date().toISOString();
+  const live = ['/', '/advertise/', '/about/', '/archive/', ...sections.map((s) => `/${slugify(s)}/`)];
+
+  const rows = [
+    ...live.map(
+      (u) => `  <url><loc>${esc(cfg.site.url + u)}</loc><lastmod>${now}</lastmod><changefreq>hourly</changefreq></url>`
+    ),
+    // Archived days are finished: they stop changing once the day is over, so
+    // they get their own date as lastmod and tell crawlers not to re-check.
+    ...archiveDates.map(
+      (d) => `  <url><loc>${esc(cfg.site.url + dayPath(d))}</loc><lastmod>${d}</lastmod><changefreq>never</changefreq></url>`
+    )
+  ];
+
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${urls
-  .map(
-    (u) => `  <url><loc>${esc(cfg.site.url + u)}</loc><lastmod>${now}</lastmod><changefreq>hourly</changefreq></url>`
-  )
-  .join('\n')}
+${rows.join('\n')}
 </urlset>`;
 }
 

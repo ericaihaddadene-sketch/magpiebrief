@@ -11,9 +11,11 @@ import { fetchFeed, pool } from './fetch.js';
 import { rankStories } from './rank.js';
 import {
   renderIndex, renderSection, renderAdvertise, renderAbout,
+  renderArchiveDay, renderArchiveIndex,
   renderFeedXml, renderSitemap, renderRobots, renderAdsTxt,
-  slugify, hostOf
+  slugify, hostOf, dayPath
 } from './render.js';
+import { updateArchive, loadAll } from './archive.js';
 
 const OUT = 'dist';
 const cfg = {
@@ -163,8 +165,28 @@ async function main() {
   await writePage('about/index.html',
     renderAbout(cfg, ads, { sections, buildTime, sources }));
 
+  // ---- archive -----------------------------------------------------------
+  // Fold this run into the durable archive, then render every day we hold.
+  const changedDays = await updateArchive(ranked);
+  const archive = await loadAll();
+
+  for (let i = 0; i < archive.length; i++) {
+    const record = archive[i];
+    // archive is newest-first, so the *next* day chronologically is at i-1.
+    await writePage(path.join(dayPath(record.date).replace(/^\/|\/$/g, ''), 'index.html'),
+      renderArchiveDay(cfg, ads, {
+        record,
+        prev: archive[i + 1]?.date || null,
+        next: archive[i - 1]?.date || null,
+        sections,
+        buildTime
+      }));
+  }
+  await writePage('archive/index.html',
+    renderArchiveIndex(cfg, ads, { days: archive, sections, buildTime }));
+
   await writePage('feed.xml', renderFeedXml(cfg, ranked));
-  await writePage('sitemap.xml', renderSitemap(cfg, sections));
+  await writePage('sitemap.xml', renderSitemap(cfg, sections, archive.map((d) => d.date)));
   await writePage('robots.txt', renderRobots(cfg));
   await writePage('ads.txt', renderAdsTxt(cfg));
 
@@ -175,7 +197,8 @@ async function main() {
   console.log('');
   console.log(`  ${bold('Sources')}    ${okCount}/${feeds.length} healthy${failures.length ? red(`, ${failures.length} failing`) : ''}`);
   console.log(`  ${bold('Items')}      ${all.length} fetched → ${ranked.length} unique (${clustered} folded into clusters)`);
-  console.log(`  ${bold('Pages')}      ${sections.length + 3} html + feed.xml, sitemap.xml, robots.txt, ads.txt${copied ? `, ${copied} asset(s)` : ''}`);
+  console.log(`  ${bold('Pages')}      ${sections.length + 4 + archive.length} html + feed.xml, sitemap.xml, robots.txt, ads.txt${copied ? `, ${copied} asset(s)` : ''}`);
+  console.log(`  ${bold('Archive')}    ${archive.length} day(s) held${changedDays.length ? `, ${changedDays.length} updated this run (${changedDays.join(', ')})` : ', none changed this run'}`);
   console.log(`  ${bold('Sections')}   ${sections.join(', ')}`);
   console.log(`  ${bold('Built in')}   ${Date.now() - t0}ms → ${OUT}/\n`);
 
