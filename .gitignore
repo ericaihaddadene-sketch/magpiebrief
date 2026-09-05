@@ -3,3 +3,7 @@ dist/
 .cache/
 .DS_Store
 *.log
+
+# Archive data lives on its own branch (archive-data) so CI never writes to
+# main. Pull it with: npm run archive:pull
+archive/

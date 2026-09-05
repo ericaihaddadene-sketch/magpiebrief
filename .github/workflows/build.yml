@@ -29,6 +29,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # The archive lives on its own branch, checked out into archive/ so the
+      # build reads and writes it exactly as it does locally. Keeping it off
+      # main is what stops CI ever committing to the branch people work on.
+      - name: Check out archive data
+        uses: actions/checkout@v4
+        with:
+          ref: archive-data
+          path: archive
+
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
@@ -97,33 +106,37 @@ jobs:
     permissions:
       contents: write
     steps:
+      # Only the data branch is checked out — this job never touches main, and
+      # so cannot put your working branch behind.
       - uses: actions/checkout@v4
+        with:
+          ref: archive-data
 
       - name: Collect archive from the build
         uses: actions/download-artifact@v4
         with:
           name: archive
-          path: archive/
+          path: .
 
       - name: Commit archive
         run: |
-          if [ -z "$(git status --porcelain archive)" ]; then
+          if [ -z "$(git status --porcelain)" ]; then
             echo "archive unchanged"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add archive
-          # [skip ci] or this commit would trigger another build, forever.
-          git commit -m "Update archive [skip ci]"
-          # Still possible to collide with a human push landing mid-job, so
-          # rebase onto whatever got there first rather than failing.
+          git add -A
+          # No [skip ci] needed now: this branch triggers no workflow, since
+          # the build only runs on pushes to main.
+          git commit -m "Update archive"
+          # Two scheduled runs could still overlap under a late scheduler.
           for attempt in 1 2 3; do
-            if git push; then
+            if git push origin HEAD:archive-data; then
               echo "archive pushed"
               exit 0
             fi
             echo "push rejected, rebasing (attempt $attempt)"
-            git pull --rebase --autostash origin main || true
+            git pull --rebase --autostash origin archive-data || true
           done
           echo "::warning::could not push archive after 3 attempts; it will be retried next hour"

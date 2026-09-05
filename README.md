@@ -9,6 +9,7 @@ clusters duplicate coverage, ranks what's left, and writes plain HTML.
 npm run build     # fetch feeds, write dist/
 npm start         # build, then preview at http://localhost:4321
 npm run check     # feed health report
+npm run archive:pull  # fetch the archive from its own branch
 npm test          # parser unit tests
 ```
 
@@ -96,17 +97,21 @@ The archive turns a disposable page into something that compounds.
 
 Two details that matter:
 
-- **The archive is committed to the repo, by a job that only runs on the
-  schedule.** CI checks out fresh on every run, so anything not committed is
-  gone next build. The commit carries `[skip ci]`, without which each build
-  would trigger another build forever.
+- **The archive lives on its own branch, `archive-data`.** CI checks out
+  fresh on every run, so anything not committed is gone next build — but
+  committing it to `main` meant CI wrote to the branch people work on. Since
+  the build runs `on: push`, every push triggered a commit seconds later and
+  left the local branch behind immediately, so every push needed a rebase.
 
-  The commit is a separate job on purpose. When it lived in the build job it
-  ran on every trigger including `push`, so pushing to main caused CI to
-  commit seconds later and leave your local branch behind immediately —
-  every push then needed a rebase. A push now only builds and deploys. The
-  archive job reuses the build’s output rather than rebuilding, so what gets
-  committed is exactly what was deployed and the feeds are not fetched twice.
+  The data branch is checked out into `archive/` during the build, which is
+  why the code reads and writes the same path locally and in CI. Only the
+  scheduled job commits, only to that branch, and it reuses the build’s
+  output via an artifact — so what is committed is exactly what was deployed
+  and the feeds are not fetched twice.
+
+  A fresh clone has no `archive/`. Run `npm run archive:pull` to get it.
+  Building without it works fine; the archive pages simply start from
+  whatever is inside the freshness window.
 - **Entries keep their peak score, not their latest one.** Scores decay with
   age, and the build runs hourly. Ordering an archived day by current score
   would rank stories by how late in the day they broke rather than how big they
