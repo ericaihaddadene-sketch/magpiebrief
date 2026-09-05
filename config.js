@@ -20,11 +20,10 @@ export const site = {
   // line to 'https://magpiebrief.com' and every link, canonical tag, sitemap
   // entry and RSS URL follows automatically.
   url: 'https://ericaihaddadene-sketch.github.io/magpiebrief',
-  // PLACEHOLDER — replace before pointing any advertiser at the site.
-  // This is published as a mailto: link on /advertise, so it is deliberately
-  // written to read as unfinished rather than as a real address that bounces.
-  // The build prints a warning while it is still set to this.
-  contactEmail: 'you@yourdomain.com',
+  // Published as a mailto: link on /advertise. Borrowed from another domain for
+  // now; worth moving to a magpiebrief.com address once that domain is
+  // registered, so enquiries don't arrive under an unrelated brand.
+  contactEmail: 'hello@siteinthree.com',
   locale: 'en-US',
   // Shown in the footer. Keep it honest — it's what makes aggregation defensible.
   attribution: 'Headlines and short excerpts link to the original publisher. All rights remain with them.'
