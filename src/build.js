@@ -11,11 +11,14 @@ import { fetchFeed, pool } from './fetch.js';
 import { rankStories } from './rank.js';
 import {
   renderIndex, renderSection, renderAdvertise, renderAbout,
+  renderMethodology, renderRights, renderSources,
   renderArchiveDay, renderArchiveIndex,
   renderFeedXml, renderSitemap, renderRobots, renderAdsTxt,
   slugify, hostOf, dayPath
 } from './render.js';
-import { updateArchive, loadAll } from './archive.js';
+import { updateArchive, loadAll, applyPolicyToArchive } from './archive.js';
+import { resolveProvenance, trimWords, publisherFromUrl } from './provenance.js';
+import { validate } from './policy.js';
 
 const OUT = 'dist';
 const cfg = {
@@ -107,12 +110,21 @@ async function main() {
     const tag = res.fromCache ? gray(res.stale ? ' (stale cache)' : ' (304 cached)') : '';
     console.log(`  ${green('✓')} ${feed.name.padEnd(20)} ${String(items.length).padStart(3)} items ${gray(res.ms + 'ms')}${tag}`);
     for (const it of items) {
+      const prov = resolveProvenance(it, feed);
+      // Conservative by default: a source only gets an excerpt shown if its
+      // registry entry says `excerpt: 'feed'`. Anything unreviewed is link-only.
+      const excerptPolicy = feed.excerpt === 'feed' ? 'feed' : 'none';
+      const budget = feed.excerptWords ?? cfg.ranking.excerptWords ?? 26;
       all.push({
         ...it,
         source: feed.name,
         section: feed.section,
         sourceWeight: feed.weight ?? 1,
-        broad: feed.broad === true
+        broad: feed.broad === true,
+        ...prov,
+        excerptPolicy,
+        descriptionType: excerptPolicy === 'feed' && it.summary ? 'AUTHORIZED_FEED_SNIPPET' : 'NONE',
+        summary: excerptPolicy === 'feed' ? trimWords(it.summary, budget) : ''
       });
     }
   }
@@ -125,6 +137,26 @@ async function main() {
   // ---- rank --------------------------------------------------------------
   const now = Date.now();
   const ranked = rankStories(all, cfg.ranking, now);
+
+  // ---- policy gate -------------------------------------------------------
+  // Runs before anything is written. A hard violation exits non-zero, so the
+  // workflow's deploy step never runs and the bad state cannot reach the site.
+  const policy = validate({ stories: ranked, feeds, ads, cfg });
+
+  console.log('');
+  console.log(`  ${bold('Rights')}     ${policy.stats.linkOnly} link-only, ${policy.stats.withExcerpt} with authorised excerpt`);
+  console.log(`  ${bold('Provenance')} ${policy.stats.distinctPublishers} publishers, ${policy.stats.discoveryAttributed} via discovery venues`);
+  console.log(`  ${bold('Top source')} ${policy.stats.topPublisher}`);
+
+  for (const w of policy.warnings) console.log(`  ${yellow('!')} ${w}`);
+
+  if (policy.errors.length) {
+    console.error(red(`\n  POLICY FAILURE — ${policy.errors.length} violation(s), refusing to publish:`));
+    for (const e of policy.errors.slice(0, 20)) console.error(red(`    · ${e}`));
+    if (policy.errors.length > 20) console.error(red(`    … and ${policy.errors.length - 20} more`));
+    console.error('');
+    process.exit(1);
+  }
 
   const sections = [];
   for (const f of feeds) if (f.section && !sections.includes(f.section)) sections.push(f.section);
@@ -174,9 +206,36 @@ async function main() {
   await writePage('about/index.html',
     renderAbout(cfg, ads, { sections: navSections, buildTime, sources }));
 
+  // Transparency pages, generated from the same registry the pipeline enforces,
+  // so what they claim and what the build does cannot drift apart.
+  await writePage('methodology/index.html',
+    renderMethodology(cfg, ads, { sections: navSections, buildTime, stats: { sourceCount: okCount } }));
+  await writePage('rights/index.html',
+    renderRights(cfg, ads, { sections: navSections, buildTime }));
+
+  const sourceGroups = [];
+  for (const section of sections) {
+    const entries = feeds
+      .filter((f) => f.section === section)
+      .map((f) => ({
+        name: f.name,
+        host: hostOf(f.url),
+        role: f.role || 'publisher',
+        excerpt: f.excerpt === 'feed' ? 'feed' : 'none',
+        count: publishedCounts.get(f.name) || 0
+      }))
+      .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+    if (entries.length) sourceGroups.push({ section, entries });
+  }
+  await writePage('sources/index.html',
+    renderSources(cfg, ads, { groups: sourceGroups, sections: navSections, buildTime }));
+
   // ---- archive -----------------------------------------------------------
   // Fold this run into the durable archive, then render every day we hold.
   const changedDays = await updateArchive(ranked);
+  // Re-apply the current rights policy to everything already stored, so a
+  // publisher's request reaches last week's material and not just today's.
+  const migrated = await applyPolicyToArchive(feeds, cfg, { publisherFromUrl, trimWords });
   const archive = await loadAll();
 
   for (let i = 0; i < archive.length; i++) {
@@ -208,6 +267,10 @@ async function main() {
   console.log(`  ${bold('Items')}      ${all.length} fetched → ${ranked.length} unique (${clustered} folded into clusters)`);
   console.log(`  ${bold('Pages')}      ${sections.length + 4 + archive.length} html + feed.xml, sitemap.xml, robots.txt, ads.txt${copied ? `, ${copied} asset(s)` : ''}`);
   console.log(`  ${bold('Archive')}    ${archive.length} day(s) held${changedDays.length ? `, ${changedDays.length} updated this run (${changedDays.join(', ')})` : ', none changed this run'}`);
+  const migratedTotal = migrated.excerptsTrimmed + migrated.excerptsRemoved + migrated.provenanceBackfilled;
+  if (migratedTotal) {
+    console.log(`  ${bold('Migration')}  ${migrated.excerptsTrimmed} excerpt(s) trimmed, ${migrated.excerptsRemoved} removed, ${migrated.provenanceBackfilled} provenance record(s) backfilled`);
+  }
   const hidden = sections.filter((x) => !navSections.includes(x));
   console.log(`  ${bold('Sections')}   ${navSections.join(', ')}${hidden.length ? gray(`  (empty, hidden from nav: ${hidden.join(', ')})`) : ''}`);
   console.log(`  ${bold('Built in')}   ${Date.now() - t0}ms → ${OUT}/\n`);

@@ -43,28 +43,32 @@ export const feedPacks = {
     // `broad: true` marks a general-interest feed. Those get filtered against
     // ranking.topicFilter, so Hacker News front-page stories about gold reserves
     // or guitar frets don't end up on an AI site. Dedicated feeds skip the check.
-    { name: 'Hacker News',      url: 'https://hnrss.org/frontpage',                             section: 'Discussion', weight: 1.1, broad: true },
-    { name: 'Lobsters',         url: 'https://lobste.rs/rss',                                   section: 'Discussion', weight: 0.9, broad: true },
+    // `role: 'discovery'` means the feed surfaces other people's work rather
+    // than publishing its own. Those items are attributed to whoever is at the
+    // link, with the aggregator credited separately for the discussion.
+    // `selfHosts` lists domains that DO originate there (Ask HN, text posts).
+    { name: 'Hacker News',      url: 'https://hnrss.org/frontpage',                             section: 'Discussion', weight: 1.1, broad: true, role: 'discovery', excerpt: 'none', selfHosts: ['news.ycombinator.com'] },
+    { name: 'Lobsters',         url: 'https://lobste.rs/rss',                                   section: 'Discussion', weight: 0.9, broad: true, role: 'discovery', excerpt: 'none', selfHosts: ['lobste.rs'] },
 
     // These three publish across all of tech, so they get topic-filtered too.
-    { name: 'TechCrunch',       url: 'https://techcrunch.com/feed/',                            section: 'Industry',   weight: 1.0,  broad: true },
-    { name: 'The Verge',        url: 'https://www.theverge.com/rss/index.xml',                  section: 'Industry',   weight: 1.0,  broad: true },
-    { name: 'MIT Tech Review',  url: 'https://www.technologyreview.com/feed/',                  section: 'Industry',   weight: 1.05, broad: true },
+    { name: 'TechCrunch',       url: 'https://techcrunch.com/feed/',                            section: 'Industry',   weight: 1.0,  broad: true, excerpt: 'feed' },
+    { name: 'The Verge',        url: 'https://www.theverge.com/rss/index.xml',                  section: 'Industry',   weight: 1.0,  broad: true, excerpt: 'feed' },
+    { name: 'MIT Tech Review',  url: 'https://www.technologyreview.com/feed/',                  section: 'Industry',   weight: 1.05, broad: true, excerpt: 'feed' },
     // Already AI-only at the source, so no filtering needed.
-    { name: 'Ars Technica AI',  url: 'https://arstechnica.com/ai/feed/',                        section: 'Industry',   weight: 1.1 },
-    { name: 'Wired AI',         url: 'https://www.wired.com/feed/tag/ai/latest/rss',            section: 'Industry',   weight: 1.0 },
-    { name: 'IEEE Spectrum',    url: 'https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss', section: 'Industry', weight: 1.0 },
+    { name: 'Ars Technica AI',  url: 'https://arstechnica.com/ai/feed/',                        section: 'Industry',   weight: 1.1,  excerpt: 'feed' },
+    { name: 'Wired AI',         url: 'https://www.wired.com/feed/tag/ai/latest/rss',            section: 'Industry',   weight: 1.0,  excerpt: 'feed' },
+    { name: 'IEEE Spectrum',    url: 'https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss', section: 'Industry', weight: 1.0, excerpt: 'feed' },
 
-    { name: 'OpenAI',           url: 'https://openai.com/news/rss.xml',                         section: 'Labs',       weight: 1.3 },
-    { name: 'Google DeepMind',  url: 'https://deepmind.google/blog/rss.xml',                    section: 'Labs',       weight: 1.3 },
-    { name: 'Google AI',        url: 'https://blog.google/technology/ai/rss/',                  section: 'Labs',       weight: 1.2 },
-    { name: 'Hugging Face',     url: 'https://huggingface.co/blog/feed.xml',                    section: 'Labs',       weight: 1.15 },
-    { name: 'Simon Willison',   url: 'https://simonwillison.net/atom/everything/',              section: 'Labs',       weight: 1.2 },
+    { name: 'OpenAI',           url: 'https://openai.com/news/rss.xml',                         section: 'Labs',       weight: 1.3,  excerpt: 'feed' },
+    { name: 'Google DeepMind',  url: 'https://deepmind.google/blog/rss.xml',                    section: 'Labs',       weight: 1.3,  excerpt: 'feed' },
+    { name: 'Google AI',        url: 'https://blog.google/technology/ai/rss/',                  section: 'Labs',       weight: 1.2,  excerpt: 'feed' },
+    { name: 'Hugging Face',     url: 'https://huggingface.co/blog/feed.xml',                    section: 'Labs',       weight: 1.15, excerpt: 'feed' },
+    { name: 'Simon Willison',   url: 'https://simonwillison.net/atom/everything/',              section: 'Labs',       weight: 1.2,  excerpt: 'feed' },
 
-    { name: 'Google Research',  url: 'https://research.google/blog/rss/',                       section: 'Research',   weight: 1.0 },
-    { name: 'Microsoft Research', url: 'https://www.microsoft.com/en-us/research/feed/',        section: 'Research',   weight: 1.0 },
-    { name: 'MIT News AI',      url: 'https://news.mit.edu/rss/topic/artificial-intelligence2', section: 'Research',   weight: 0.95 },
-    { name: 'Ahead of AI',      url: 'https://magazine.sebastianraschka.com/feed',              section: 'Research',   weight: 1.05 },
+    { name: 'Google Research',  url: 'https://research.google/blog/rss/',                       section: 'Research',   weight: 1.0,  excerpt: 'feed' },
+    { name: 'Microsoft Research', url: 'https://www.microsoft.com/en-us/research/feed/',        section: 'Research',   weight: 1.0,  excerpt: 'feed' },
+    { name: 'MIT News AI',      url: 'https://news.mit.edu/rss/topic/artificial-intelligence2', section: 'Research',   weight: 0.95, excerpt: 'feed' },
+    { name: 'Ahead of AI',      url: 'https://magazine.sebastianraschka.com/feed',              section: 'Research',   weight: 1.05, excerpt: 'feed' },
 
     // Import AI was dropped here. It returns HTTP 403 to GitHub Actions runners
     // (Substack blocks datacenter IPs) while working fine from a laptop, so it
@@ -73,19 +77,19 @@ export const feedPacks = {
 
     // China coverage — the single biggest hole in the old list. Broad, since
     // SCMP covers all of Chinese tech and business.
-    { name: 'SCMP Tech',        url: 'https://www.scmp.com/rss/36/feed',                        section: 'Industry',   weight: 0.95, broad: true },
+    { name: 'SCMP Tech',        url: 'https://www.scmp.com/rss/36/feed',                        section: 'Industry',   weight: 0.95, broad: true, excerpt: 'feed' },
     // Funding and deals. Broad — most rounds it covers have nothing to do with AI.
-    { name: 'Crunchbase News',  url: 'https://news.crunchbase.com/feed/',                       section: 'Industry',   weight: 0.95, broad: true },
+    { name: 'Crunchbase News',  url: 'https://news.crunchbase.com/feed/',                       section: 'Industry',   weight: 0.95, broad: true, excerpt: 'feed' },
 
-    { name: 'Alignment Forum',  url: 'https://www.alignmentforum.org/feed.xml',                 section: 'Policy & Safety', weight: 1.05 },
+    { name: 'Alignment Forum',  url: 'https://www.alignmentforum.org/feed.xml',                 section: 'Policy & Safety', weight: 1.05, excerpt: 'feed' },
     // EFF publishes across all digital rights, so the topic filter keeps it to
     // the AI-adjacent posts.
-    { name: 'EFF',              url: 'https://www.eff.org/rss/updates.xml',                     section: 'Policy & Safety', weight: 1.0,  broad: true },
+    { name: 'EFF',              url: 'https://www.eff.org/rss/updates.xml',                     section: 'Policy & Safety', weight: 1.0,  broad: true, excerpt: 'feed' },
     // LessWrong runs well beyond AI, hence broad; when it is on topic it is
     // often first. Weighted down hard: it posts constantly and its items are
     // always fresh, so at parity it took four of the top ten with essays rather
     // than news. The per-source cap alone wasn't enough.
-    { name: 'LessWrong',        url: 'https://www.lesswrong.com/feed.xml',                      section: 'Discussion', weight: 0.7,  broad: true }
+    { name: 'LessWrong',        url: 'https://www.lesswrong.com/feed.xml',                      section: 'Discussion', weight: 0.7,  broad: true, excerpt: 'feed' }
   ],
 
   // A second pack, ready to go. Nonprofit/grants is a genuinely easier niche to
@@ -152,6 +156,15 @@ export const ranking = {
   },
   // Titles containing these are dropped. Aggregators live or die on noise control.
   blocklist: ['sponsored', 'advertisement', 'deals of the day', 'daily deals'],
+
+  // Excerpt budget, in words. Excerpts exist to say why a link is worth
+  // following, not to substitute for reading it. A source may set its own
+  // `excerptWords`; a source without `excerpt: 'feed'` shows no excerpt at all,
+  // and the build fails if one slips through.
+  excerptWords: 26,
+
+  // Warn (never silently re-weight) when one publisher dominates the day.
+  concentrationWarning: 0.4,
 
   // Applied ONLY to feeds marked `broad: true`. An item must match at least one
   // of these (as a whole word, in the title or summary) to make it onto the

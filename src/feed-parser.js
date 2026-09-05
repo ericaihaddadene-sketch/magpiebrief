@@ -98,6 +98,20 @@ function extractLink(block) {
   return /^https?:\/\//i.test(guid) ? decodeEntities(guid) : '';
 }
 
+/**
+ * The discussion thread for an item, where the feed distinguishes it from the
+ * article. RSS has a <comments> element for exactly this; Hacker News also
+ * spells it out in the description, which is the fallback.
+ */
+function extractCommentsUrl(block) {
+  const el = text(block, 'comments').trim();
+  if (/^https?:\/\//i.test(el)) return el;
+  const raw = decodeEntities(tagContent(block, 'description') || '');
+  const m = raw.match(/Comments URL:\s*(?:<[^>]*>)?\s*(https?:\/\/\S+)/i);
+  if (m) return m[1].replace(/["'<].*$/, '');
+  return null;
+}
+
 function extractDate(block) {
   for (const field of ['pubDate', 'published', 'updated', 'date', 'modified']) {
     const raw = text(block, field);
@@ -194,7 +208,11 @@ export function parseFeed(xml) {
       date: extractDate(block),
       author: text(block, 'creator') || text(block, 'author') || '',
       points,
-      comments
+      comments,
+      // Aggregator feeds carry the thread separately from the article. Keeping
+      // it lets the site credit the publisher for the work and the aggregator
+      // for the discussion, instead of blurring the two.
+      commentsUrl: extractCommentsUrl(block)
     });
   }
   return items;

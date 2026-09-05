@@ -63,6 +63,11 @@ function toRecord(story) {
     title: story.title,
     link: story.link,
     source: story.source,
+    publisher: story.publisher || story.source,
+    publisherDomain: story.publisherDomain || '',
+    discoveredVia: story.discoveredVia || null,
+    discussionUrl: story.discussionUrl || null,
+    descriptionType: story.descriptionType || 'NONE',
     section: story.section || '',
     summary: (story.summary || '').slice(0, 240),
     published: story.date.toISOString(),
@@ -133,6 +138,77 @@ export async function updateArchive(stories, { cap = 60, maxDays = 4 } = {}) {
   }
 
   return changed;
+}
+
+/**
+ * Re-apply the current rights policy to everything already archived.
+ *
+ * Runs every build, which is the point: if a publisher asks for excerpts to be
+ * shortened or dropped, the change has to reach material published last week as
+ * well as today. An archive that freezes yesterday's permissions would make the
+ * takedown route on /rights a fiction. It also repairs records written before a
+ * policy existed — backfilling publisher attribution from the canonical link.
+ *
+ * @returns {{changedDays: string[], excerptsTrimmed: number, excerptsRemoved: number, provenanceBackfilled: number}}
+ */
+export async function applyPolicyToArchive(feeds, cfg, { publisherFromUrl, trimWords }) {
+  const bySource = new Map(feeds.map((f) => [f.name, f]));
+  const changedDays = [];
+  let excerptsTrimmed = 0, excerptsRemoved = 0, provenanceBackfilled = 0;
+
+  for (const date of await listDays()) {
+    const record = await readDay(date);
+    if (!record) continue;
+    let dirty = false;
+
+    for (const s of record.stories) {
+      const feed = bySource.get(s.source);
+      const policy = feed?.excerpt === 'feed' ? 'feed' : 'none';
+      const budget = feed?.excerptWords ?? cfg.ranking.excerptWords ?? 26;
+
+      if (s.summary) {
+        if (policy !== 'feed') {
+          s.summary = '';
+          s.descriptionType = 'NONE';
+          excerptsRemoved++;
+          dirty = true;
+        } else {
+          const trimmed = trimWords(s.summary, budget);
+          if (trimmed !== s.summary) {
+            s.summary = trimmed;
+            excerptsTrimmed++;
+            dirty = true;
+          }
+          if (s.descriptionType !== 'AUTHORIZED_FEED_SNIPPET') {
+            s.descriptionType = 'AUTHORIZED_FEED_SNIPPET';
+            dirty = true;
+          }
+        }
+      } else if (!s.descriptionType) {
+        s.descriptionType = 'NONE';
+        dirty = true;
+      }
+
+      // Records written before provenance existed credit the discovery venue.
+      if (!s.publisher) {
+        const isDiscovery = feed?.role === 'discovery';
+        const linkHost = (() => { try { return new URL(s.link).hostname.replace(/^www\./, ''); } catch { return ''; } })();
+        const selfHosted = (feed?.selfHosts || []).includes(linkHost);
+        s.publisher = isDiscovery && !selfHosted ? publisherFromUrl(s.link) : s.source;
+        s.publisherDomain = linkHost;
+        s.discoveredVia = isDiscovery && !selfHosted ? s.source : null;
+        provenanceBackfilled++;
+        dirty = true;
+      }
+    }
+
+    if (dirty) {
+      await writeDay({ ...record, generated: new Date().toISOString() });
+      changedDays.push(date);
+    }
+  }
+
+  return { changedDays, excerptsTrimmed, excerptsRemoved, provenanceBackfilled };
 }
 
 /** Load every archived day, newest first. Used to render index and day pages. */

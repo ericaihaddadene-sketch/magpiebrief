@@ -9,7 +9,7 @@
     "serve": "node src/serve.js",
     "start": "node src/build.js && node src/serve.js",
     "check": "node src/check-feeds.js",
-    "test": "node test/parser.test.mjs",
+    "test": "node test/parser.test.mjs && node test/policy.test.mjs",
     "clean": "node src/clean.js"
   },
   "engines": { "node": ">=18" }

@@ -522,3 +522,17 @@ a { color: inherit; }
 
 .story__points::before { content: "·"; margin-right: 9px; }
 .story__points { color: var(--sponsor); font-weight: 600; }
+
+.story__via::before { content: "·"; margin-right: 9px; }
+.story__via { color: var(--ink-faint); font-style: normal; }
+
+.story__discuss {
+  display: inline-block;
+  margin-top: 7px;
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+  text-decoration: none;
+}
+.story__discuss:hover { text-decoration: underline; text-underline-offset: 3px; }

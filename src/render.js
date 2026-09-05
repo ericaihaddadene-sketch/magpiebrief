@@ -225,7 +225,7 @@ ${body}
   <div class="wrap">
     ${adSlot('footer', ads, cfg)}
     <div class="footer__links">
-      <a href="${esc(link(cfg, '/'))}">Top</a><a href="${esc(link(cfg, '/advertise/'))}">Advertise</a><a href="${esc(link(cfg, '/about/'))}">About</a><a href="${esc(link(cfg, '/feed.xml'))}">RSS</a>
+      <a href="${esc(link(cfg, '/'))}">Top</a><a href="${esc(link(cfg, '/methodology/'))}">Methodology</a><a href="${esc(link(cfg, '/sources/'))}">Sources</a><a href="${esc(link(cfg, '/rights/'))}">Corrections &amp; rights</a><a href="${esc(link(cfg, '/advertise/'))}">Advertise</a><a href="${esc(link(cfg, '/about/'))}">About</a><a href="${esc(link(cfg, '/feed.xml'))}">RSS</a>
     </div>
     <p class="footer__legal">${esc(cfg.site.attribution)}</p>
     <p class="footer__legal">© ${new Date().getFullYear()} ${esc(cfg.site.name)}. Built ${esc(buildTime)}.</p>
@@ -253,11 +253,13 @@ function storyMarkup(item, rank, now) {
     <h2 class="story__title"><a href="${esc(item.link)}" rel="noopener" target="_blank">${esc(item.title)}</a></h2>
     ${summary ? `<p class="story__summary">${esc(summary)}</p>` : ''}
     <div class="story__meta">
-      <span class="story__source">${esc(item.source)}</span>
-      <span class="story__host">${esc(hostOf(item.link))}</span>
+      <span class="story__source">${esc(item.publisher || item.source)}</span>
+      <span class="story__host">${esc(item.publisherDomain || hostOf(item.link))}</span>
       <time datetime="${esc(item.date.toISOString())}">${esc(timeAgo(item.date, now))}</time>
+      ${item.discoveredVia ? `<span class="story__via">via ${esc(item.discoveredVia)}</span>` : ''}
       ${item.points ? `<span class="story__points">${item.points} pts</span>` : ''}
     </div>
+    ${item.discussionUrl ? `<a class="story__discuss" href="${esc(item.discussionUrl)}" rel="noopener" target="_blank">Discuss on ${esc(item.discoveredVia || item.source)} →</a>` : ''}
     ${related}
   </div>
 </article>`;
@@ -408,6 +410,159 @@ export function renderAbout(cfg, ads, { sections, buildTime, sources }) {
 }
 
 // ---------------------------------------------------------------------------
+// Transparency pages
+// ---------------------------------------------------------------------------
+
+export function renderMethodology(cfg, ads, { sections, buildTime, stats }) {
+  const body = `<div class="content content--prose">
+  <h1 class="page-title">Methodology</h1>
+  <p class="lede">How ${esc(cfg.site.name)} decides what appears, in plain language.</p>
+
+  <h2>What this is</h2>
+  <p>${esc(cfg.site.name)} is a discovery product, not a publication. It reads the public feeds of ${stats.sourceCount} sources every hour, groups reports about the same development, ranks what is left, and sends you to the original. The value is in the finding, filtering and ordering — not in reproducing anyone's writing.</p>
+
+  <h2>How stories are selected</h2>
+  <p>Anything older than ${cfg.ranking.maxAgeHours} hours is dropped. General-interest sources — those that cover all of technology rather than this subject specifically — must match a subject keyword <em>in the headline</em> to qualify, because a headline that doesn't signal the subject isn't useful in a one-screen brief.</p>
+
+  <h2>How ranking works</h2>
+  <p>Each story scores on recency, how much weight we give the source, and whether its headline contains terms that usually mark significant developments. Scores halve every ${cfg.ranking.halfLifeHours} hours. Two further signals matter:</p>
+  <ul>
+    <li><strong>Corroboration.</strong> Several outlets independently covering one development is the best available evidence that it matters, so a cluster outranks a single loud headline.</li>
+    <li><strong>Reader attention.</strong> Where a source publishes vote counts, they contribute logarithmically and are capped, so one viral thread cannot take the page.</li>
+  </ul>
+  <p>No single publisher may hold more than ${cfg.ranking.maxPerSource} of the top slots, so the site is not decided by whoever posts most often. We publish the shape of the ranking, not the exact weights.</p>
+
+  <h2>Related coverage</h2>
+  <p>Headlines are compared by their distinctive words, weighted so that rare, story-defining terms decide the match and common ones count for little. When several reports describe one development they collapse into a single entry, and the others appear as “also covered by”, each still linking to its own publisher.</p>
+
+  <h2>Publishers and discovery venues</h2>
+  <p>These are different roles and we record them separately. When a story reaches us through a discussion site, the publisher is whoever wrote it; the discussion site is credited as where we found it, with its own link. An aggregator is never presented as the author of someone else's article.</p>
+
+  <h2>Excerpts</h2>
+  <p>Most entries are a headline, a source and a link. Where an excerpt appears it comes from the publisher's own feed — text they chose to syndicate — is capped at ${cfg.ranking.excerptWords} words, and is shown only for sources whose entry in our register permits it. Sources we have not reviewed are link-only by default. We do not fetch article bodies, and we never reproduce photography.</p>
+
+  <h2>Corrections and rights</h2>
+  <p>Publishers own their material. If you want an excerpt shortened or removed, your feed dropped, or attribution corrected, see <a href="${esc(link(cfg, '/rights/'))}">corrections and content rights</a>. Requests take effect on the next build.</p>
+
+  <h2>Advertising</h2>
+  <p>Advertising and ranking share no code. A sponsor buys a labelled slot; a sponsor cannot buy a position in the story list, inclusion in related coverage, or removal of unfavourable coverage. Sponsored placements are always marked. The build refuses to publish an advertisement that lacks a named advertiser.</p>
+</div>
+${sidebarPolicy(cfg, ads)}`;
+
+  return layout(cfg, ads, {
+    title: `Methodology — ${cfg.site.name}`,
+    description: `How ${cfg.site.name} selects, ranks and attributes stories.`,
+    canonical: cfg.site.url + '/methodology/',
+    sections,
+    body,
+    buildTime
+  });
+}
+
+export function renderRights(cfg, ads, { sections, buildTime }) {
+  const mail = (subject) =>
+    `mailto:${esc(cfg.site.contactEmail)}?subject=${encodeURIComponent(subject)}`;
+  const body = `<div class="content content--prose">
+  <h1 class="page-title">Corrections &amp; content rights</h1>
+  <p class="lede">Publishers own their material. If something here is wrong, or you want your work handled differently, this page is the route — and it is a real one.</p>
+
+  <h2>What we can change</h2>
+  <table class="rate-card">
+    <thead><tr><th>Request</th><th>Effect</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Remove an excerpt</strong></td><td>Your source becomes link-only: headline, publication name, date and link, nothing more.</td></tr>
+      <tr><td><strong>Remove a source entirely</strong></td><td>The feed is dropped and stops being fetched. The block persists across every future build.</td></tr>
+      <tr><td><strong>Correct attribution</strong></td><td>Publisher name or canonical link is fixed, including in the archive.</td></tr>
+      <tr><td><strong>Correct or remove an archived item</strong></td><td>Archived entries are editable. We do not keep a description we know to be wrong.</td></tr>
+      <tr><td><strong>Shorten excerpts</strong></td><td>A per-source word limit below our ${cfg.ranking.excerptWords}-word default.</td></tr>
+    </tbody>
+  </table>
+
+  <h2>How to ask</h2>
+  <p class="cta-line"><a class="btn btn--lg" href="${mail('Content rights request')}">${esc(cfg.site.contactEmail)}</a></p>
+  <p>Include the publication and the URL. For a removal, say whether you want excerpts dropped or the source removed altogether. We will confirm, and the change takes effect on the next hourly build.</p>
+
+  <h2>What we already don't do</h2>
+  <ul>
+    <li>We do not fetch article bodies. Only public feeds are read.</li>
+    <li>We do not bypass paywalls, logins or any access control — there is nothing in the pipeline capable of it.</li>
+    <li>We do not copy or rehost photography.</li>
+    <li>We do not republish full articles, and every headline links to the original.</li>
+  </ul>
+  <p class="fineprint">Our crawler identifies itself and honours conditional requests, so a source that hasn't changed is fetched at almost no cost to its servers.</p>
+
+  <h2>Corrections to our own work</h2>
+  <p>If a ranking, cluster or attribution here is wrong — an entry crediting the wrong publisher, or unrelated reports grouped as one story — tell us at the same address and we will fix it.</p>
+</div>
+${sidebarPolicy(cfg, ads)}`;
+
+  return layout(cfg, ads, {
+    title: `Corrections & content rights — ${cfg.site.name}`,
+    description: `How publishers can correct attribution, limit excerpts, or have a source removed from ${cfg.site.name}.`,
+    canonical: cfg.site.url + '/rights/',
+    sections,
+    body,
+    buildTime
+  });
+}
+
+export function renderSources(cfg, ads, { groups, sections, buildTime }) {
+  const blocks = groups
+    .map(({ section, entries }) => {
+      const rows = entries
+        .map(
+          (e) => `<tr>
+      <td><strong>${esc(e.name)}</strong><br><span class="muted">${esc(e.host)}</span></td>
+      <td>${e.role === 'discovery' ? 'Discussion venue' : 'Publisher'}</td>
+      <td>${e.excerpt === 'feed' ? 'Headline + short feed excerpt' : 'Headline + link only'}</td>
+      <td class="${e.count ? 'open' : ''}">${e.count}</td>
+    </tr>`
+        )
+        .join('');
+      return `<h2>${esc(section)}</h2>
+  <table class="rate-card">
+    <thead><tr><th>Source</th><th>Role</th><th>What we show</th><th>Live now</th></tr></thead>
+    <tbody>${rows}</tbody>
+  </table>`;
+    })
+    .join('\n');
+
+  const total = groups.reduce((n, g) => n + g.entries.length, 0);
+
+  const body = `<div class="content content--prose">
+  <h1 class="page-title">Sources</h1>
+  <p class="lede">The ${total} feeds ${esc(cfg.site.name)} monitors, what role each plays, and exactly how much of each we display. “Live now” is how many of its stories are currently on the site.</p>
+  ${blocks}
+  <p class="fineprint">Discussion venues surface other people's work; stories found through them are attributed to the original publisher, with the venue credited separately. Sources marked link-only show no excerpt at all. To change how your publication appears, see <a href="${esc(link(cfg, '/rights/'))}">corrections and content rights</a>.</p>
+</div>
+${sidebarPolicy(cfg, ads)}`;
+
+  return layout(cfg, ads, {
+    title: `Sources — ${cfg.site.name}`,
+    description: `Every feed ${cfg.site.name} monitors, with its role and display policy.`,
+    canonical: cfg.site.url + '/sources/',
+    sections,
+    body,
+    buildTime
+  });
+}
+
+function sidebarPolicy(cfg, ads) {
+  return `<aside class="sidebar">
+  ${adSlot('sidebar', ads, cfg)}
+  <section class="panel">
+    <h3 class="panel__title">Transparency</h3>
+    <ul class="sources">
+      <li><a href="${esc(link(cfg, '/methodology/'))}">How stories are chosen</a></li>
+      <li><a href="${esc(link(cfg, '/sources/'))}">Sources we monitor</a></li>
+      <li><a href="${esc(link(cfg, '/rights/'))}">Corrections &amp; rights</a></li>
+      <li><a href="${esc(link(cfg, '/about/'))}">About</a></li>
+    </ul>
+  </section>
+</aside>`;
+}
+
+// ---------------------------------------------------------------------------
 // Archive
 // ---------------------------------------------------------------------------
 
@@ -428,9 +583,10 @@ function archiveStoryMarkup(rec, rank, locale) {
     <h2 class="story__title"><a href="${esc(rec.link)}" rel="noopener" target="_blank">${esc(rec.title)}</a></h2>
     ${rec.summary ? `<p class="story__summary">${esc(truncate(rec.summary, 190))}</p>` : ''}
     <div class="story__meta">
-      <span class="story__source">${esc(rec.source)}</span>
-      <span class="story__host">${esc(hostOf(rec.link))}</span>
+      <span class="story__source">${esc(rec.publisher || rec.source)}</span>
+      <span class="story__host">${esc(rec.publisherDomain || hostOf(rec.link))}</span>
       <time datetime="${esc(rec.published)}">${esc(when)} UTC</time>
+      ${rec.discoveredVia ? `<span class="story__via">via ${esc(rec.discoveredVia)}</span>` : ''}
       ${rec.points ? `<span class="story__points">${rec.points} pts</span>` : ''}
     </div>
     ${also}
@@ -537,8 +693,8 @@ export function renderFeedXml(cfg, stories) {
     <title>${esc(s.title)}</title>
     <link>${esc(s.link)}</link>
     <guid isPermaLink="true">${esc(s.link)}</guid>
-    <source url="${esc(cfg.site.url)}/feed.xml">${esc(s.source)}</source>
-    <description>${esc(truncate(s.summary, 300))}</description>
+    <source url="${esc(cfg.site.url)}/feed.xml">${esc(s.publisher || s.source)}</source>
+    <description>${esc(s.summary || '')}</description>
     <pubDate>${s.date.toUTCString()}</pubDate>
   </item>`
     )
@@ -558,7 +714,7 @@ ${items}
 
 export function renderSitemap(cfg, sections, archiveDates = []) {
   const now = new Date().toISOString();
-  const live = ['/', '/advertise/', '/about/', '/archive/', ...sections.map((s) => `/${slugify(s)}/`)];
+  const live = ['/', '/advertise/', '/about/', '/archive/', '/methodology/', '/sources/', '/rights/', ...sections.map((s) => `/${slugify(s)}/`)];
 
   const rows = [
     ...live.map(
