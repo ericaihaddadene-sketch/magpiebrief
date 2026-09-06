@@ -12,8 +12,8 @@
       "endDate": ""
     },
     "sidebar": {
-      "_note": "house:true means we are running our own promotion here. It renders labelled as the publisher's own, and the rate card still shows the slot as AVAILABLE — marking it Booked would tell a prospective advertiser the inventory is taken when it is not.",
-      "sold": true,
+      "_note": "Set sold:true to run this. With house:true it renders as 'From the publisher' and the rate card still shows the slot as available, since self-promotion is not a sale. Currently off: an empty slot that recruits advertisers is worth more than one reaching the wrong audience.",
+      "sold": false,
       "house": true,
       "advertiser": "Site in Three",
       "headline": "A complete website for your contracting business",
