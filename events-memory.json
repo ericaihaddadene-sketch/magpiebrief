@@ -1,34 +1,18 @@
 {
- "coding-agents-monitor-internal-coding-agents": {
-  "id": "coding-agents-monitor-internal-coding-agents",
-  "title": "We monitor internal coding agents for misalignment",
-  "firstSeen": "2026-09-06T19:00:24.378Z",
+ "openai-openai-agents-hacked-another": {
+  "id": "openai-openai-agents-hacked-another",
+  "title": "OpenAI Agents Hacked Another Website",
+  "firstSeen": "2026-09-06T21:11:31.260Z",
   "publishers": [
-   "OpenAI",
-   "Simon Willison"
+   "Wired AI",
+   "TechCrunch"
   ],
   "sourceCount": 2,
   "independentCount": 2,
-  "hadPrimary": true,
-  "importance": 5.7,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "openai-openai-agents-discussed-ways": {
-  "id": "openai-openai-agents-discussed-ways",
-  "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-  "firstSeen": "2026-09-06T19:00:24.378Z",
-  "publishers": [
-   "Wired AI",
-   "Ars Technica AI",
-   "TechCrunch"
-  ],
-  "sourceCount": 3,
-  "independentCount": 3,
   "hadPrimary": false,
-  "importance": 5.2,
-  "confidence": "Confirmed",
-  "category": "general"
+  "importance": 4.8,
+  "confidence": "Highly likely",
+  "category": "security"
  },
  "openai-research-acceleration-view-inside": {
   "id": "openai-research-acceleration-view-inside",
@@ -36,6 +20,20 @@
   "firstSeen": "2026-09-06T16:55:26.451Z",
   "publishers": [
    "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "agents-show-agentic-rust-linux": {
+  "id": "agents-show-agentic-rust-linux",
+  "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+  "firstSeen": "2026-09-06T21:11:31.260Z",
+  "publishers": [
+   "GitHub"
   ],
   "sourceCount": 1,
   "independentCount": 1,

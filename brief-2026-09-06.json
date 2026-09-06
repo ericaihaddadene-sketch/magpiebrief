@@ -1,82 +1,15 @@
 {
  "date": "2026-09-06",
- "generated": "2026-09-06T19:00:24.423Z",
- "headline": "13 developments today. The most significant is developments: We monitor internal coding agents for misalignment",
- "stats": "22 sources monitored · 2636 items read · 45 on-topic · 13 distinct developments · 3 with a primary source · 2 independently corroborated",
+ "generated": "2026-09-06T21:11:31.307Z",
+ "headline": "13 developments today. The most significant is security: OpenAI Agents Hacked Another Website",
+ "stats": "22 sources monitored · 2636 items read · 41 on-topic · 13 distinct developments · 3 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "coding-agents-monitor-internal-coding-agents",
-   "title": "We monitor internal coding agents for misalignment",
+   "id": "openai-openai-agents-hacked-another",
+   "title": "OpenAI Agents Hacked Another Website",
    "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "coding-agents",
-     "name": "Coding Agents",
-     "kind": "topic"
-    }
-   ],
-   "importance": {
-    "score": 5.7,
-    "factors": [
-     {
-      "label": "2 independent outlets",
-      "amount": 1.7
-     },
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-05T15:51:09.000Z",
-   "latestAt": "2026-09-06T16:37:55.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
-    "title": "We monitor internal coding agents for misalignment"
-   },
-   "sources": [
-    {
-     "title": "We monitor internal coding agents for misalignment",
-     "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-06T16:37:55.000Z",
-     "points": 39,
-     "summary": ""
-    },
-    {
-     "title": "Using Blender with coding agents on macOS",
-     "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-05T15:51:09.000Z",
-     "points": null,
-     "summary": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with…"
-    }
-   ]
-  },
-  {
-   "id": "openai-openai-agents-discussed-ways",
-   "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-   "category": {
-    "id": "general",
-    "name": "Developments"
+    "id": "security",
+    "name": "Security"
    },
    "entities": [
     {
@@ -86,25 +19,29 @@
     }
    ],
    "importance": {
-    "score": 5.2,
+    "score": 4.8,
     "factors": [
      {
-      "label": "3 independent outlets",
-      "amount": 2.7
+      "label": "2 independent outlets",
+      "amount": 1.7
+     },
+     {
+      "label": "Security",
+      "amount": 0.6
      }
     ]
    },
    "confidence": {
-    "level": "Confirmed",
-    "why": "3 independent outlets agree"
+    "level": "Highly likely",
+    "why": "Two independent outlets"
    },
-   "status": "confirmed",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
-   "sourceCount": 3,
-   "independentCount": 3,
-   "publishedAt": "2026-09-04T22:17:36.000Z",
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-04T23:15:11.000Z",
    "latestAt": "2026-09-05T10:30:00.000Z",
    "primary": null,
    "sources": [
@@ -117,16 +54,6 @@
      "date": "2026-09-05T10:30:00.000Z",
      "points": null,
      "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the…"
-    },
-    {
-     "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-     "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-04T22:17:36.000Z",
-     "points": null,
-     "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
     },
     {
      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
@@ -188,7 +115,60 @@
      "publisherDomain": "openai.com",
      "kind": "primary",
      "date": "2026-09-06T15:08:44.000Z",
-     "points": 52,
+     "points": 78,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "agents-show-agentic-rust-linux",
+   "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (GitHub)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-06T20:07:16.000Z",
+   "latestAt": "2026-09-06T20:07:16.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/mmeyerlein/meclaw",
+    "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity"
+   },
+   "sources": [
+    {
+     "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+     "link": "https://github.com/mmeyerlein/meclaw",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-06T20:07:16.000Z",
+     "points": 4,
      "summary": ""
     }
    ]
@@ -214,7 +194,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
