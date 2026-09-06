@@ -1,164 +1,15 @@
 {
  "date": "2026-09-06",
- "generated": "2026-09-06T10:45:32.372Z",
- "headline": "17 developments today. The most significant is new models: GPT-6 Astra: A new generation of intelligence",
- "stats": "22 sources monitored · 2634 items read · 57 on-topic · 17 distinct developments · 7 with a primary source · 2 independently corroborated",
+ "generated": "2026-09-06T14:05:09.032Z",
+ "headline": "14 developments today. The most significant is security: OpenAI Agents Hacked Another Website",
+ "stats": "22 sources monitored · 2634 items read · 47 on-topic · 14 distinct developments · 4 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "openai-gpt-robotics-astra-generation-intelligence",
-   "title": "GPT-6 Astra: A new generation of intelligence",
+   "id": "openai-openai-agents-hacked-another",
+   "title": "OpenAI Agents Hacked Another Website",
    "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "robotics",
-     "name": "Robotics",
-     "kind": "topic"
-    },
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 10,
-    "factors": [
-     {
-      "label": "4 independent outlets",
-      "amount": 3.4
-     },
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     },
-     {
-      "label": "Announced and independently covered",
-      "amount": 1
-     },
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     },
-     {
-      "label": "192 points of reader attention",
-      "amount": 0.8
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [
-    "Importance rose 0.7 to 10."
-   ],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 7,
-   "independentCount": 4,
-   "publishedAt": "2026-09-03T11:00:00.000Z",
-   "latestAt": "2026-09-06T01:52:45.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra"
-   },
-   "sources": [
-    {
-     "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-     "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-03T12:00:00.000Z",
-     "points": null,
-     "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
-    },
-    {
-     "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-     "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-03T12:00:00.000Z",
-     "points": null,
-     "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
-    },
-    {
-     "title": "GPT-6 Astra: A new generation of intelligence",
-     "link": "https://openai.com/index/gpt-6-astra",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-03T11:00:00.000Z",
-     "points": null,
-     "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
-    },
-    {
-     "title": "Introducing GPT-6 Astra for developers",
-     "link": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-05T23:27:48.000Z",
-     "points": null,
-     "summary": ""
-    },
-    {
-     "title": "Why less visibility into how OpenAI’s new GPT-6 Astra ‘thinks’ is sparking safety concerns",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3366401/why-less-visibility-how-openais-new-gpt-6-astra-thinks-sparking-safety-concerns?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-04T10:31:21.000Z",
-     "points": null,
-     "summary": "OpenAI’s new model, GPT-6 Astra, has less direct visibility into how a model thinks, a development that has sparked concerns coming just weeks after the Hugging…"
-    },
-    {
-     "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-     "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-03T18:06:24.000Z",
-     "points": null,
-     "summary": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development."
-    },
-    {
-     "title": "GPT-6 Astra on robot arms",
-     "link": "https://openai.robocurve.org/gpt-6-astra/",
-     "publisher": "openai.robocurve.org",
-     "publisherDomain": "openai.robocurve.org",
-     "kind": "discussion",
-     "date": "2026-09-06T01:52:45.000Z",
-     "points": 192,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "openai-openai-agents-discussed-ways",
-   "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-   "category": {
-    "id": "general",
-    "name": "Developments"
+    "id": "security",
+    "name": "Security"
    },
    "entities": [
     {
@@ -168,15 +19,15 @@
     }
    ],
    "importance": {
-    "score": 6.2,
+    "score": 5.8,
     "factors": [
      {
       "label": "3 independent outlets",
       "amount": 2.7
      },
      {
-      "label": "2189 points of reader attention",
-      "amount": 1
+      "label": "Security",
+      "amount": 0.6
      }
     ]
    },
@@ -184,16 +35,13 @@
     "level": "Confirmed",
     "why": "3 independent outlets agree"
    },
-   "status": "developing",
-   "deltas": [
-    "Now also covered by collusion.wiki.",
-    "Importance rose 1 to 6.2."
-   ],
+   "status": "confirmed",
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
-   "sourceCount": 4,
+   "sourceCount": 3,
    "independentCount": 3,
-   "publishedAt": "2026-09-04T11:54:53.000Z",
+   "publishedAt": "2026-09-04T22:17:36.000Z",
    "latestAt": "2026-09-05T10:30:00.000Z",
    "primary": null,
    "sources": [
@@ -226,16 +74,6 @@
      "date": "2026-09-04T23:15:11.000Z",
      "points": null,
      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their…"
-    },
-    {
-     "title": "Discovery of a new OpenAI agent message board",
-     "link": "https://collusion.wiki/",
-     "publisher": "collusion.wiki",
-     "publisherDomain": "collusion.wiki",
-     "kind": "discussion",
-     "date": "2026-09-04T11:54:53.000Z",
-     "points": 2189,
-     "summary": ""
     }
    ]
   },
@@ -255,7 +93,7 @@
       "amount": 1.5
      },
      {
-      "label": "274 points of reader attention",
+      "label": "318 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -285,7 +123,7 @@
      "publisherDomain": "arxiv.org",
      "kind": "research",
      "date": "2026-09-05T20:02:35.000Z",
-     "points": 274,
+     "points": 318,
      "summary": ""
     }
    ]
@@ -340,6 +178,59 @@
      "publisherDomain": "deepmind.google",
      "kind": "primary",
      "date": "2026-09-03T15:02:08.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "gpt-introducing-astra-developers",
+   "title": "Introducing GPT-6 Astra for developers",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.9,
+    "factors": [
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-05T23:27:48.000Z",
+   "latestAt": "2026-09-05T23:27:48.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Introducing GPT-6 Astra for developers",
+     "link": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-05T23:27:48.000Z",
      "points": null,
      "summary": ""
     }
@@ -555,9 +446,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 3.5."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -579,57 +468,6 @@
      "date": "2026-09-03T18:20:31.000Z",
      "points": null,
      "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "daybreak-frontline-defenders-protect",
-   "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 3.5,
-    "factors": [
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-03T13:15:00.000Z",
-   "latestAt": "2026-09-03T13:15:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-    "title": "Daybreak for Frontline Defenders: $1B to protect essential services"
-   },
-   "sources": [
-    {
-     "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-     "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-03T13:15:00.000Z",
-     "points": null,
-     "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
     }
    ]
   },
@@ -679,57 +517,6 @@
      "publisherDomain": "research.google",
      "kind": "primary",
      "date": "2026-09-03T16:00:03.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "neomme-efficient-multimodal-native",
-   "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 3.5,
-    "factors": [
-     {
-      "label": "Primary source (Hugging Face)",
-      "amount": 1.5
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-03T13:13:48.000Z",
-   "latestAt": "2026-09-03T13:13:48.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/Hcompany/neomme",
-    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder"
-   },
-   "sources": [
-    {
-     "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-     "link": "https://huggingface.co/blog/Hcompany/neomme",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-09-03T13:13:48.000Z",
      "points": null,
      "summary": ""
     }
@@ -925,68 +712,6 @@
    ]
   },
   {
-   "id": "hugging-face-nvidia-nvidia-buys-hugging-face",
-   "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [
-    {
-     "id": "hugging-face",
-     "name": "Hugging Face",
-     "kind": "org"
-    },
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 2.7,
-    "factors": [
-     {
-      "label": "Open Source",
-      "amount": 0.3
-     },
-     {
-      "label": "Involves multiple organisations",
-      "amount": 0.4
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-03T13:34:13.000Z",
-   "latestAt": "2026-09-03T13:34:13.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-     "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-03T13:34:13.000Z",
-     "points": null,
-     "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub."
-    }
-   ]
-  },
-  {
    "id": "prediction-market-betting-getting",
    "title": "Prediction Market Betting Is Getting People Banned and Arrested",
    "category": {
@@ -1012,9 +737,7 @@
     "why": "A single outlet so far"
    },
    "status": "developing",
-   "deltas": [
-    "Importance fell 0.5 to 2.6."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
