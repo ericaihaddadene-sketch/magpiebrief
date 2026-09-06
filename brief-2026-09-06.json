@@ -1,8 +1,8 @@
 {
  "date": "2026-09-06",
- "generated": "2026-09-06T21:11:31.307Z",
- "headline": "13 developments today. The most significant is security: OpenAI Agents Hacked Another Website",
- "stats": "22 sources monitored · 2636 items read · 41 on-topic · 13 distinct developments · 3 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-06T23:43:26.552Z",
+ "headline": "11 developments today. The most significant is security: OpenAI Agents Hacked Another Website",
+ "stats": "22 sources monitored · 2636 items read · 38 on-topic · 11 distinct developments · 3 with a primary source · 1 independently corroborated",
  "events": [
   {
    "id": "openai-openai-agents-hacked-another",
@@ -115,30 +115,24 @@
      "publisherDomain": "openai.com",
      "kind": "primary",
      "date": "2026-09-06T15:08:44.000Z",
-     "points": 78,
+     "points": 94,
      "summary": ""
     }
    ]
   },
   {
-   "id": "agents-show-agentic-rust-linux",
-   "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+   "id": "harnessing-universal-geometry-embeddings",
+   "title": "Harnessing the Universal Geometry of Embeddings",
    "category": {
     "id": "general",
     "name": "Developments"
    },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
+   "entities": [],
    "importance": {
     "score": 4,
     "factors": [
      {
-      "label": "Primary source (GitHub)",
+      "label": "Primary source (arXiv)",
       "amount": 1.5
      }
     ]
@@ -153,22 +147,22 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-06T20:07:16.000Z",
-   "latestAt": "2026-09-06T20:07:16.000Z",
+   "publishedAt": "2026-09-06T20:31:20.000Z",
+   "latestAt": "2026-09-06T20:31:20.000Z",
    "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/mmeyerlein/meclaw",
-    "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity"
+    "publisher": "arXiv",
+    "link": "https://arxiv.org/abs/2505.12540",
+    "title": "Harnessing the Universal Geometry of Embeddings"
    },
    "sources": [
     {
-     "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-     "link": "https://github.com/mmeyerlein/meclaw",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-09-06T20:07:16.000Z",
-     "points": 4,
+     "title": "Harnessing the Universal Geometry of Embeddings",
+     "link": "https://arxiv.org/abs/2505.12540",
+     "publisher": "arXiv",
+     "publisherDomain": "arxiv.org",
+     "kind": "research",
+     "date": "2026-09-06T20:31:20.000Z",
+     "points": 26,
      "summary": ""
     }
    ]
@@ -274,59 +268,6 @@
    ]
   },
   {
-   "id": "claude-review-risk-determination-claude",
-   "title": "Review of the CB risk determination in the Claude Mythos 5.1 System Card",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 3.9,
-    "factors": [
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-05T23:39:33.000Z",
-   "latestAt": "2026-09-05T23:39:33.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Review of the CB risk determination in the Claude Mythos 5.1 System Card",
-     "link": "https://www.lesswrong.com/posts/vnJ2PyabE4dquJwft/review-of-the-cb-risk-determination-in-the-claude-mythos-5-1",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-05T23:39:33.000Z",
-     "points": null,
-     "summary": "This post is best viewed on the MCNAIR website . Before the release of their latest publicly-known model, Claude Mythos 5.1, Anthropic conducted several human-run and…"
-    }
-   ]
-  },
-  {
    "id": "google-gemini-hikers-rescued-after-using",
    "title": "Hikers rescued after using Google Gemini for planning",
    "category": {
@@ -395,8 +336,8 @@
    ]
   },
   {
-   "id": "microsoft-openai-copyright-seattle-times-newsday-latest",
-   "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+   "id": "microsoft-openai-copyright-seattle-times-newsday-openai",
+   "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
    "category": {
     "id": "policy",
     "name": "Policy & Regulation"
@@ -435,25 +376,25 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "developing",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-05T22:49:55.000Z",
-   "latestAt": "2026-09-05T22:49:55.000Z",
+   "publishedAt": "2026-09-06T23:36:04.000Z",
+   "latestAt": "2026-09-06T23:36:04.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-     "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
+     "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
      "kind": "coverage",
-     "date": "2026-09-05T22:49:55.000Z",
+     "date": "2026-09-06T23:36:04.000Z",
      "points": null,
-     "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+     "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their…"
     }
    ]
   },
@@ -647,53 +588,6 @@
      "date": "2026-09-04T04:00:08.000Z",
      "points": null,
      "summary": "The artificial intelligence boom has signalled growing risks in the US economy and capital markets, with a setback in the technology rally potentially triggering a sharp…"
-    }
-   ]
-  },
-  {
-   "id": "prediction-market-betting-getting",
-   "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [],
-   "importance": {
-    "score": 2.6,
-    "factors": [
-     {
-      "label": "Policy & Regulation",
-      "amount": 0.6
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-03T21:48:24.000Z",
-   "latestAt": "2026-09-03T21:48:24.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-     "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-03T21:48:24.000Z",
-     "points": null,
-     "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to…"
     }
    ]
   }
