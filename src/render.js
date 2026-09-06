@@ -100,8 +100,11 @@ export function adSlot(name, ads, cfg, today = new Date().toISOString().slice(0,
   if (isLive(slot, today)) {
     // rel="sponsored" is required by Google for paid links. Omitting it puts
     // the site's search ranking at risk, which is the whole business.
-    return `<aside class="ad ad--${esc(name)} ad--direct">
-  <span class="ad__label">Sponsored</span>
+    // A house placement is our own product, not a paid third party. Calling it
+    // "Sponsored" would imply money changed hands and that the slot is sold.
+    // rel="sponsored" still applies — Google wants it on any promotional link.
+    return `<aside class="ad ad--${esc(name)} ad--direct${slot.house ? ' ad--house-promo' : ''}">
+  <span class="ad__label">${slot.house ? 'From the publisher' : 'Sponsored'}</span>
   <a class="ad__body" href="${esc(withUtm(slot.url, cfg, name))}" rel="sponsored noopener" target="_blank">
     <strong class="ad__headline">${esc(slot.headline)}</strong>
     ${slot.body ? `<span class="ad__text">${esc(slot.body)}</span>` : ''}
@@ -345,13 +348,17 @@ export function renderAdvertise(cfg, ads, { sections, buildTime, stats }) {
   const rows = cfg.advertising.inventory
     .map((i) => {
       const slot = ads?.slots?.[i.slot];
-      const taken = isLive(slot, new Date().toISOString().slice(0, 10));
+      const live = isLive(slot, new Date().toISOString().slice(0, 10));
+      // A slot running our own promotion is still for sale. Showing it as
+      // Booked would tell a prospective advertiser the inventory is gone.
+      const taken = live && !slot.house;
+      const status = taken ? 'Booked' : live ? 'Available — currently self-promoted' : 'Available';
       return `<tr>
       <td><strong>${esc(i.label)}</strong></td>
       <td>${esc(i.placement)}</td>
       <td>${esc(i.size)}</td>
       <td>${esc(i.monthly)}</td>
-      <td class="${taken ? 'taken' : 'open'}">${taken ? 'Booked' : 'Available'}</td>
+      <td class="${taken ? 'taken' : 'open'}">${esc(status)}</td>
     </tr>`;
     })
     .join('');

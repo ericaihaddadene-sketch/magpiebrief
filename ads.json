@@ -12,15 +12,16 @@
       "endDate": ""
     },
     "sidebar": {
-      "_note": "Filled-in example kept as a template. Flip sold to true when a real campaign starts — until then this renders the house ad selling the slot.",
-      "sold": false,
-      "advertiser": "Example Co",
-      "headline": "Ship your AI feature this quarter",
-      "body": "Managed inference, evals, and observability in one SDK. Free tier, no card required.",
-      "cta": "Start building",
-      "url": "https://example.com/pricing",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-30"
+      "_note": "house:true means we are running our own promotion here. It renders labelled as the publisher's own, and the rate card still shows the slot as AVAILABLE — marking it Booked would tell a prospective advertiser the inventory is taken when it is not.",
+      "sold": true,
+      "house": true,
+      "advertiser": "Site in Three",
+      "headline": "A complete website for your contracting business",
+      "body": "Three to five pages, custom design, mobile, contact form, launch included. Three days, $750 once.",
+      "cta": "See a free homepage concept",
+      "url": "https://www.siteinthree.com/",
+      "startDate": "",
+      "endDate": ""
     },
     "inline": {
       "sold": false,

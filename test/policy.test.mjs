@@ -154,5 +154,18 @@ eq('RSS carries the permitted excerpt', rss.includes('short permitted excerpt'),
 eq('RSS credits the publisher, not the discovery venue', rss.includes('<source url="https://t.example/feed.xml">Example</source>'), true);
 eq('RSS does not name the aggregator as source', rss.includes('>Hacker News</source>'), false);
 
+// A house placement is still an advertisement: it must be disclosed like one.
+const housed = validate({
+  stories: [story()], feeds: [HN], cfg,
+  ads: { slots: { sidebar: { sold: true, house: true, headline: 'H', url: 'https://e.com', advertiser: 'Site in Three' } } }
+});
+eq('house placement with an advertiser passes', housed.errors, []);
+
+const housedAnon = validate({
+  stories: [story()], feeds: [HN], cfg,
+  ads: { slots: { sidebar: { sold: true, house: true, headline: 'H', url: 'https://e.com', advertiser: '' } } }
+});
+eq('house placement still needs a named advertiser', housedAnon.errors.length, 1);
+
 console.log(`\n${pass} passed, ${fail} failed`);
 process.exit(fail ? 1 : 0);
