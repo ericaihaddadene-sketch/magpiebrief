@@ -798,3 +798,48 @@ a { color: inherit; }
   .ev__num { font-size: 22px; }
   .ev { gap: 12px; }
 }
+
+/* ---------- since yesterday, consolidated ---------- */
+
+.changed { margin: 20px 0 4px; padding: 14px 16px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); }
+.changed .mod__title { margin-top: 0; }
+.changed__list { list-style: none; margin: 0; padding: 0; }
+.changed__list > li { padding: 8px 0; border-bottom: 1px dotted var(--border); }
+.changed__list > li:last-child { border-bottom: 0; }
+.changed__list > li > a { font-family: var(--serif); font-size: 16px; text-decoration: none; }
+.changed__list > li > a:hover { color: var(--accent); }
+.changed__list ul { margin: 4px 0 0; padding-left: 16px; }
+.changed__list ul li { font-size: 13px; color: var(--ink-soft); line-height: 1.5; }
+
+.brief-perm { margin: 10px 0 0; font-family: var(--mono); font-size: 11px; }
+.brief-perm a { color: var(--accent); text-decoration: none; }
+
+/* ---------- brief index ---------- */
+
+.briefidx { list-style: none; margin: 0; padding: 0; }
+.briefidx__row { display: flex; align-items: baseline; gap: 12px; padding: 10px 0; border-bottom: 1px solid var(--border); }
+.briefidx__date { font-family: var(--serif); font-size: 17px; text-decoration: none; flex: none; min-width: 175px; }
+.briefidx__date:hover { color: var(--accent); }
+.briefidx__lead { flex: 1; min-width: 0; font-size: 13px; color: var(--ink-soft); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.briefidx__n { font-family: var(--mono); font-size: 11px; color: var(--ink-faint); flex: none; }
+@media (max-width: 620px) {
+  .briefidx__row { flex-wrap: wrap; }
+  .briefidx__date { min-width: 0; }
+  .briefidx__lead { display: none; }
+}
+
+/* ---------- category strip ---------- */
+
+.catstrip { margin: 22px 0 4px; }
+.catstrip__list { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.catstrip__list a {
+  display: inline-flex; align-items: baseline; gap: 7px;
+  padding: 7px 12px;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius);
+  text-decoration: none;
+  font-size: 14px;
+  color: var(--ink);
+}
+.catstrip__list a:hover { border-color: var(--accent); color: var(--accent); }
+.catstrip__n { font-family: var(--mono); font-size: 11px; color: var(--ink-faint); }

@@ -242,3 +242,90 @@ export async function writeEventMemory(map) {
   await mkdir(ARCHIVE_DIR, { recursive: true });
   await writeFile(MEMORY_FILE, JSON.stringify(map, null, 1), 'utf8');
 }
+
+// --- daily briefs -----------------------------------------------------------
+//
+// A brief is a snapshot, not a recomputation. Events are derived from a rolling
+// window, so rebuilding an old day later would produce a different — and wrong
+// — answer once its sources aged out. Today's snapshot is rewritten on every
+// build as the day develops; past days are never touched again, which is what
+// makes /brief/<date>/ a record rather than a guess.
+
+const BRIEF_PREFIX = 'brief-';
+
+const briefFile = (date) => path.join(ARCHIVE_DIR, `${BRIEF_PREFIX}${date}.json`);
+
+/** Strip runtime-only fields; keep exactly what the page renders. */
+function serialiseEvent(ev) {
+  return {
+    id: ev.id,
+    title: ev.title,
+    category: ev.category,
+    entities: ev.entities,
+    importance: ev.importance,
+    confidence: ev.confidence,
+    status: ev.status,
+    deltas: ev.deltas || [],
+    whatChanged: ev.whatChanged || '',
+    whyItMatters: ev.whyItMatters || '',
+    sourceCount: ev.sourceCount,
+    independentCount: ev.independentCount,
+    publishedAt: ev.publishedAt.toISOString(),
+    latestAt: ev.latestAt.toISOString(),
+    primary: ev.primary
+      ? { publisher: ev.primary.publisher, link: ev.primary.link, title: ev.primary.title }
+      : null,
+    sources: ev.sources.map((s) => ({
+      title: s.title, link: s.link, publisher: s.publisher,
+      publisherDomain: s.publisherDomain, kind: s.kind,
+      date: s.date.toISOString(), points: s.points || null,
+      summary: s.summary || ''
+    }))
+  };
+}
+
+function reviveEvent(ev) {
+  return {
+    ...ev,
+    publishedAt: new Date(ev.publishedAt),
+    latestAt: new Date(ev.latestAt),
+    sources: ev.sources.map((s) => ({ ...s, date: new Date(s.date) }))
+  };
+}
+
+export async function writeBrief(date, { headline, stats, events }) {
+  await mkdir(ARCHIVE_DIR, { recursive: true });
+  const record = {
+    date,
+    generated: new Date().toISOString(),
+    headline,
+    stats,
+    events: events.map(serialiseEvent)
+  };
+  await writeFile(briefFile(date), JSON.stringify(record, null, 1), 'utf8');
+  return record;
+}
+
+export async function listBriefs() {
+  try {
+    const entries = await readdir(ARCHIVE_DIR);
+    return entries
+      // Regex literal, not a template: `\d` inside a template literal is eaten
+      // by the string parser and silently becomes a plain "d", matching nothing.
+      .filter((f) => /^brief-\d{4}-\d{2}-\d{2}\.json$/.test(f))
+      .map((f) => f.slice(BRIEF_PREFIX.length, BRIEF_PREFIX.length + 10))
+      .sort()
+      .reverse();
+  } catch {
+    return [];
+  }
+}
+
+export async function readBrief(date) {
+  try {
+    const rec = JSON.parse(await readFile(briefFile(date), 'utf8'));
+    return { ...rec, events: rec.events.map(reviveEvent) };
+  } catch {
+    return null;
+  }
+}

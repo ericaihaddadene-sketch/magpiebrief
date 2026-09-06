@@ -184,17 +184,28 @@ export function formatDay(date, locale = 'en-GB') {
   });
 }
 
+/**
+ * Nav items may be a plain string (legacy article sections, slugified) or an
+ * object { label, href, key } for real destinations such as category pages.
+ * Categories belong here rather than as endless scroll on the brief.
+ */
 function nav(cfg, sections, active) {
   const links = sections
     .map((s) => {
-      const href = link(cfg, `/${slugify(s)}/`);
-      const cls = active === s ? ' class="active"' : '';
-      return `<a${cls} href="${esc(href)}">${esc(s)}</a>`;
+      const isObj = s && typeof s === 'object';
+      const label = isObj ? s.label : s;
+      const href = link(cfg, isObj ? s.href : `/${slugify(s)}/`);
+      const key = isObj ? s.key : s;
+      const cls = active === key ? ' class="active"' : '';
+      return `<a${cls} href="${esc(href)}">${esc(label)}</a>`;
     })
     .join('');
   const homeCls = active === null ? ' class="active"' : '';
+  const briefCls = active === 'brief' ? ' class="active"' : '';
   const archiveCls = active === 'archive' ? ' class="active"' : '';
-  return `<nav class="nav"><a${homeCls} href="${esc(link(cfg, '/'))}">Top</a>${links}<a${archiveCls} href="${esc(link(cfg, '/archive/'))}">Archive</a></nav>`;
+  return `<nav class="nav"><a${homeCls} href="${esc(link(cfg, '/'))}">Today</a>${links}` +
+    `<a${briefCls} href="${esc(link(cfg, '/brief/'))}">Past briefs</a>` +
+    `<a${archiveCls} href="${esc(link(cfg, '/archive/'))}">Archive</a></nav>`;
 }
 
 export function layout(cfg, ads, { title, description, canonical, sections, active = null, body, buildTime }) {
@@ -716,7 +727,7 @@ ${items}
 
 export function renderSitemap(cfg, sections, archiveDates = []) {
   const now = new Date().toISOString();
-  const live = ['/', '/advertise/', '/about/', '/archive/', '/methodology/', '/sources/', '/rights/', ...sections.map((s) => `/${slugify(s)}/`)];
+  const live = ['/', '/advertise/', '/about/', '/archive/', '/brief/', '/methodology/', '/sources/', '/rights/', ...sections.map((s) => (typeof s === 'string' ? `/${slugify(s)}/` : s.href))];
 
   const rows = [
     ...live.map(

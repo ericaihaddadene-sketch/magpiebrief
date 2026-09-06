@@ -10,6 +10,28 @@ import { esc, link, layout, adSlot, timeAgo, hostOf, truncate } from './render.j
 import { kindLabel } from './events.js';
 
 export const eventPath = (id) => `/event/${id}/`;
+export const briefPath = (date) => `/brief/${date}/`;
+// Namespaced under /category/ so these never collide with the legacy article
+// section pages, which still exist at /research/ and friends.
+export const categoryPath = (id) => `/category/${id}/`;
+
+export const CATEGORY_ORDER = [
+  { id: 'models', name: 'Models' },
+  { id: 'business', name: 'Business' },
+  { id: 'research', name: 'Research' },
+  { id: 'policy', name: 'Policy' },
+  { id: 'security', name: 'Security' },
+  { id: 'opensource', name: 'Open source' },
+  { id: 'tools', name: 'Tools' },
+  { id: 'general', name: 'Other' }
+];
+
+/** '2026-09-06' -> '6 September 2026' */
+export function dayLabel(date, cfg) {
+  return new Date(date + 'T12:00:00Z').toLocaleDateString(cfg?.site?.locale || 'en-GB', {
+    day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC'
+  });
+}
 
 const STATUS_LABEL = {
   emerging: 'Emerging',
@@ -131,25 +153,53 @@ export function renderBrief(cfg, ads, { events, headline, stats, sections, build
     return pts >= 150 && e.independentCount <= 1 && !e.primary;
   });
 
+  // The brief keeps only what is genuinely editorial: the lead developments and
+  // the two judgement calls a feed reader cannot make. Everything organised by
+  // category now lives on its own page and in the menu — stacking eight
+  // categories down the homepage turned a five-minute read into a scroll.
   const modules = [
-    module(cfg, { id: 'quiet', title: 'Quiet developments', note: 'Published by a primary source, largely uncovered elsewhere.', events: quiet, now }),
-    module(cfg, { id: 'models', title: 'Models', events: byCategory('models'), now }),
-    module(cfg, { id: 'business', title: 'Business', events: byCategory('business'), now }),
-    module(cfg, { id: 'research', title: 'Research', events: byCategory('research'), now }),
-    module(cfg, { id: 'policy', title: 'Policy & regulation', events: byCategory('policy'), now }),
-    module(cfg, { id: 'security', title: 'Security', events: byCategory('security'), now }),
-    module(cfg, { id: 'opensource', title: 'Open source', events: byCategory('opensource'), now }),
-    module(cfg, { id: 'tools', title: 'Tools & products', events: byCategory('tools'), now }),
-    module(cfg, { id: 'attention', title: 'Getting attention, thinly sourced', note: 'Heavily discussed but not yet independently corroborated.', events: loud, now }),
-    module(cfg, { id: 'other', title: 'Also developing', events: byCategory('general'), now, limit: 8 })
+    module(cfg, { id: 'quiet', title: 'Quiet developments', note: 'Published by a primary source, largely uncovered elsewhere.', events: quiet, now, limit: 4 }),
+    module(cfg, { id: 'attention', title: 'Getting attention, thinly sourced', note: 'Heavily discussed but not yet independently corroborated.', events: loud, now, limit: 3 })
   ].filter(Boolean).join('\n');
+
+  // A finite pointer to the rest, rather than the rest itself.
+  const counts = CATEGORY_ORDER
+    .map((c) => ({ ...c, n: events.filter((e) => e.category.id === c.id).length }))
+    .filter((c) => c.n > 0);
+  const strip = counts.length
+    ? `<section class="catstrip">
+    <h2 class="mod__title">The rest of the day</h2>
+    <ul class="catstrip__list">${counts
+      .map((c) => `<li><a href="${esc(link(cfg, categoryPath(c.id)))}">${esc(c.name)}<span class="catstrip__n">${c.n}</span></a></li>`)
+      .join('')}</ul>
+  </section>`
+    : '';
+
+  // One consolidated view of every delta, so a returning reader can see what is
+  // new without re-reading yesterday's items. Absent on a first run, which is
+  // correct: nothing has changed when there is nothing to compare against.
+  const moved = events.filter((e) => e.deltas?.length);
+  const changedBlock = moved.length
+    ? `<section class="changed">
+    <h2 class="mod__title">What changed since yesterday</h2>
+    <ul class="changed__list">
+      ${moved.slice(0, 8).map((ev) => `<li>
+        <a href="${esc(link(cfg, eventPath(ev.id)))}">${esc(ev.title)}</a>
+        <ul>${ev.deltas.map((d) => `<li>${esc(d)}</li>`).join('')}</ul>
+      </li>`).join('')}
+    </ul>
+  </section>`
+    : '';
 
   const body = `<div class="content">
   <section class="brief-head">
-    <h1 class="brief-title">What changed in AI ${permanent ? `on ${esc(date)}` : 'today'}</h1>
+    <h1 class="brief-title">What changed in AI ${permanent ? `on ${esc(dayLabel(date, cfg))}` : 'today'}</h1>
     <p class="brief-line">${esc(headline)}</p>
     <p class="brief-stats">${esc(stats)}</p>
+    ${permanent ? '' : `<p class="brief-perm"><a href="${esc(link(cfg, '/brief/'))}">Past briefs →</a></p>`}
   </section>
+
+  ${changedBlock}
 
   <section class="leads">
     <h2 class="leads__title">The ${lead.length} things that matter</h2>
@@ -157,11 +207,12 @@ export function renderBrief(cfg, ads, { events, headline, stats, sections, build
   </section>
 
   ${modules}
+  ${strip}
 </div>
 ${briefSidebar(cfg, ads, events)}`;
 
   const title = permanent
-    ? `AI on ${date} — ${cfg.site.name}`
+    ? `What changed in AI on ${dayLabel(date, cfg)} — ${cfg.site.name}`
     : `${cfg.site.name} — ${cfg.site.tagline}`;
 
   return layout(cfg, ads, {
@@ -301,6 +352,71 @@ ${briefSidebar(cfg, ads, events)}`;
     description: `Tracked developments involving ${entity.name}.`,
     canonical: cfg.site.url + `/topic/${entity.id}/`,
     sections,
+    body,
+    buildTime
+  });
+}
+
+/** Index of every permanent brief. */
+export function renderBriefIndex(cfg, ads, { briefs, sections, buildTime }) {
+  const months = new Map();
+  for (const b of briefs) {
+    const key = b.date.slice(0, 7);
+    if (!months.has(key)) months.set(key, []);
+    months.get(key).push(b);
+  }
+
+  const groups = [...months.entries()].map(([month, entries]) => {
+    const label = new Date(month + '-01T12:00:00Z').toLocaleDateString(cfg.site.locale || 'en-GB', {
+      month: 'long', year: 'numeric', timeZone: 'UTC'
+    });
+    const rows = entries.map((b) => `<li class="briefidx__row">
+      <a class="briefidx__date" href="${esc(link(cfg, briefPath(b.date)))}">${esc(dayLabel(b.date, cfg))}</a>
+      <span class="briefidx__lead">${esc(b.lead || '')}</span>
+      <span class="briefidx__n">${b.count}</span>
+    </li>`).join('');
+    return `<section class="archive__month">
+    <h2 class="archive__label">${esc(label)}</h2>
+    <ul class="briefidx">${rows}</ul>
+  </section>`;
+  }).join('\n');
+
+  const body = `<div class="content">
+  <h1 class="page-title">Daily briefs</h1>
+  <p class="lede">${briefs.length} ${briefs.length === 1 ? 'day' : 'days'} on record. Each brief is a snapshot of what was known that day, kept as it stood rather than recalculated later.</p>
+  ${briefs.length ? groups : '<p class="empty">The first brief is written on the next build.</p>'}
+</div>
+${briefSidebar(cfg, ads, [])}`;
+
+  return layout(cfg, ads, {
+    title: `Daily briefs — ${cfg.site.name}`,
+    description: `Every daily AI brief published by ${cfg.site.name}, kept at a permanent address.`,
+    canonical: cfg.site.url + '/brief/',
+    sections,
+    active: 'brief',
+    body,
+    buildTime
+  });
+}
+
+/** One category, as a real page rather than a slab of the homepage. */
+export function renderCategoryPage(cfg, ads, { category, events, sections, buildTime, now }) {
+  const ranked = [...events].sort((a, b) => b.importance.score - a.importance.score);
+  const withPrimary = ranked.filter((e) => e.primary).length;
+
+  const body = `<div class="content">
+  <h1 class="page-title">${esc(category.name)}</h1>
+  <p class="lede">${ranked.length} development${ranked.length === 1 ? '' : 's'} tracked. ${withPrimary} with a primary source.</p>
+  ${ranked.map((ev) => eventRow(cfg, ev, now)).join('')}
+</div>
+${briefSidebar(cfg, ads, ranked)}`;
+
+  return layout(cfg, ads, {
+    title: `${category.name} — ${cfg.site.name}`,
+    description: `AI developments in ${category.name.toLowerCase()}, ranked by importance.`,
+    canonical: cfg.site.url + categoryPath(category.id),
+    sections,
+    active: category.id,
     body,
     buildTime
   });

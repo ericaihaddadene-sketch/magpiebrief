@@ -16,12 +16,18 @@ import {
   renderFeedXml, renderSitemap, renderRobots, renderAdsTxt,
   slugify, hostOf, dayPath
 } from './render.js';
-import { updateArchive, loadAll, applyPolicyToArchive, readEventMemory, writeEventMemory } from './archive.js';
+import {
+  updateArchive, loadAll, applyPolicyToArchive, readEventMemory, writeEventMemory,
+  writeBrief, listBriefs, readBrief, dayKey
+} from './archive.js';
 import {
   buildEvents, scoreImportance, assessConfidence, assessStatus,
   computeDelta, toMemory, sourceKind
 } from './events.js';
-import { renderBrief, renderEventPage, renderTopicPage, eventPath } from './render-events.js';
+import {
+  renderBrief, renderEventPage, renderTopicPage, renderBriefIndex, renderCategoryPage,
+  eventPath, briefPath, categoryPath, CATEGORY_ORDER
+} from './render-events.js';
 import { byId as entityById } from './entities.js';
 import { resolveProvenance, trimWords, publisherFromUrl } from './provenance.js';
 import { validate } from './policy.js';
@@ -240,11 +246,50 @@ async function main() {
   // Nav no longer lists article sections: the brief's own modules cover that
   // ground, and tabs labelled by publication type pull the product back toward
   // a feed reader. Those pages still build and stay in the sitemap.
-  const briefNav = [];
+  // Categories become real menu destinations. Stacking eight of them down the
+  // homepage made a five-minute read into a scroll; only categories with
+  // something in them appear, so the menu never leads to an empty page.
+  const eventsByCategory = new Map();
+  for (const ev of events) {
+    if (!eventsByCategory.has(ev.category.id)) eventsByCategory.set(ev.category.id, []);
+    eventsByCategory.get(ev.category.id).push(ev);
+  }
+  const briefNav = CATEGORY_ORDER
+    .filter((c) => (eventsByCategory.get(c.id) || []).length > 0)
+    .map((c) => ({ label: c.name, href: categoryPath(c.id), key: c.id }));
 
   await writePage('index.html', renderBrief(cfg, ads, {
     events, headline, stats: briefStats, sections: briefNav, buildTime, now
   }));
+
+  // ---- permanent daily briefs --------------------------------------------
+  // Today's snapshot is rewritten each build as the day develops; past days are
+  // never recomputed. Events come from a rolling window, so rebuilding an old
+  // brief later would quietly produce a different answer once its sources aged
+  // out — which would make the permanent record a lie.
+  const today = dayKey(now);
+  await writeBrief(today, { headline, stats: briefStats, events });
+
+  const briefDates = await listBriefs();
+  const briefIndex = [];
+  for (const d of briefDates) {
+    const rec = await readBrief(d);
+    if (!rec) continue;
+    briefIndex.push({ date: d, count: rec.events.length, lead: rec.events[0]?.title || '' });
+    await writePage(path.join(...briefPath(d).split('/').filter(Boolean), 'index.html'),
+      renderBrief(cfg, ads, {
+        events: rec.events,
+        headline: rec.headline,
+        stats: rec.stats,
+        sections: briefNav,
+        buildTime,
+        now,
+        date: d,
+        permanent: true
+      }));
+  }
+  await writePage('brief/index.html',
+    renderBriefIndex(cfg, ads, { briefs: briefIndex, sections: briefNav, buildTime }));
 
   // Living story pages.
   for (const ev of events) {
@@ -253,6 +298,13 @@ async function main() {
       .slice(0, 5);
     await writePage(path.join(eventPath(ev.id).replace(/^\/|\/$/g, ''), 'index.html'),
       renderEventPage(cfg, ads, { event: ev, sections: briefNav, buildTime, now, related }));
+  }
+
+  for (const c of CATEGORY_ORDER) {
+    const evs = eventsByCategory.get(c.id);
+    if (!evs?.length) continue;
+    await writePage(path.join(...categoryPath(c.id).split('/').filter(Boolean), 'index.html'),
+      renderCategoryPage(cfg, ads, { category: c, events: evs, sections: briefNav, buildTime, now }));
   }
 
   // Topic pages, one per entity that actually has developments.
@@ -351,6 +403,8 @@ async function main() {
   const hidden = sections.filter((x) => !navSections.includes(x));
   console.log(`  ${bold('Events')}     ${events.length} development(s) from ${ranked.length} reports; ${events.filter(e=>e.sourceCount>1).length} drew on multiple sources`);
   console.log(`  ${bold('Topics')}     ${byEntity.size} entity page(s)`);
+  console.log(`  ${bold('Briefs')}     ${briefIndex.length} permanent daily brief(s)`);
+  console.log(`  ${bold('Menu')}       ${briefNav.map((n) => n.label).join(', ')}`);
   console.log(`  ${bold('Sections')}   ${navSections.join(', ')}${hidden.length ? gray(`  (empty, hidden from nav: ${hidden.join(', ')})`) : ''}`);
   console.log(`  ${bold('Built in')}   ${Date.now() - t0}ms → ${OUT}/\n`);
 
