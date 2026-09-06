@@ -1,0 +1,1172 @@
+{
+ "date": "2026-09-06",
+ "generated": "2026-09-06T05:44:58.346Z",
+ "headline": "20 developments today. The most significant is new models: GPT-6 Astra: A new generation of intelligence",
+ "stats": "22 sources monitored · 2634 items read · 61 on-topic · 20 distinct developments · 8 with a primary source · 3 independently corroborated",
+ "events": [
+  {
+   "id": "openai-gpt-robotics-astra-generation-intelligence",
+   "title": "GPT-6 Astra: A new generation of intelligence",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
+    },
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 9.3,
+    "factors": [
+     {
+      "label": "4 independent outlets",
+      "amount": 3.4
+     },
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "Announced and independently covered",
+      "amount": 1
+     },
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 7,
+   "independentCount": 4,
+   "publishedAt": "2026-09-03T11:00:00.000Z",
+   "latestAt": "2026-09-06T01:52:45.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra"
+   },
+   "sources": [
+    {
+     "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+     "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-03T12:00:00.000Z",
+     "points": null,
+     "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
+    },
+    {
+     "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+     "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-03T12:00:00.000Z",
+     "points": null,
+     "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
+    },
+    {
+     "title": "GPT-6 Astra: A new generation of intelligence",
+     "link": "https://openai.com/index/gpt-6-astra",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-03T11:00:00.000Z",
+     "points": null,
+     "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
+    },
+    {
+     "title": "Introducing GPT-6 Astra for developers",
+     "link": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-05T23:27:48.000Z",
+     "points": null,
+     "summary": ""
+    },
+    {
+     "title": "Why less visibility into how OpenAI’s new GPT-6 Astra ‘thinks’ is sparking safety concerns",
+     "link": "https://www.scmp.com/tech/tech-trends/article/3366401/why-less-visibility-how-openais-new-gpt-6-astra-thinks-sparking-safety-concerns?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-04T10:31:21.000Z",
+     "points": null,
+     "summary": "OpenAI’s new model, GPT-6 Astra, has less direct visibility into how a model thinks, a development that has sparked concerns coming just weeks after the Hugging…"
+    },
+    {
+     "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+     "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-03T18:06:24.000Z",
+     "points": null,
+     "summary": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development."
+    },
+    {
+     "title": "GPT-6 Astra on robot arms",
+     "link": "https://openai.robocurve.org/gpt-6-astra/",
+     "publisher": "openai.robocurve.org",
+     "publisherDomain": "openai.robocurve.org",
+     "kind": "discussion",
+     "date": "2026-09-06T01:52:45.000Z",
+     "points": 89,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "coding-agents-agent-memory-native-persistent",
+   "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "coding-agents",
+     "name": "Coding Agents",
+     "kind": "topic"
+    }
+   ],
+   "importance": {
+    "score": 5.7,
+    "factors": [
+     {
+      "label": "2 independent outlets",
+      "amount": 1.7
+     },
+     {
+      "label": "Primary source (GitHub)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-05T15:51:09.000Z",
+   "latestAt": "2026-09-05T22:15:52.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/okf-memory/okf-agent-memory",
+    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents"
+   },
+   "sources": [
+    {
+     "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+     "link": "https://github.com/okf-memory/okf-agent-memory",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-05T22:15:52.000Z",
+     "points": 50,
+     "summary": ""
+    },
+    {
+     "title": "Using Blender with coding agents on macOS",
+     "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-05T15:51:09.000Z",
+     "points": null,
+     "summary": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with…"
+    }
+   ]
+  },
+  {
+   "id": "openai-openai-agents-discussed-ways",
+   "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 5.2,
+    "factors": [
+     {
+      "label": "3 independent outlets",
+      "amount": 2.7
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "3 independent outlets agree"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 3,
+   "independentCount": 3,
+   "publishedAt": "2026-09-04T22:17:36.000Z",
+   "latestAt": "2026-09-05T10:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI Agents Hacked Another Website",
+     "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-05T10:30:00.000Z",
+     "points": null,
+     "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the…"
+    },
+    {
+     "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+     "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-04T22:17:36.000Z",
+     "points": null,
+     "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
+    },
+    {
+     "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+     "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-04T23:15:11.000Z",
+     "points": null,
+     "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their…"
+    }
+   ]
+  },
+  {
+   "id": "llms-cognitive-virus",
+   "title": "LLMs as a Cognitive Virus",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4.8,
+    "factors": [
+     {
+      "label": "Primary source (arXiv)",
+      "amount": 1.5
+     },
+     {
+      "label": "215 points of reader attention",
+      "amount": 0.8
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-05T20:02:35.000Z",
+   "latestAt": "2026-09-05T20:02:35.000Z",
+   "primary": {
+    "publisher": "arXiv",
+    "link": "https://arxiv.org/abs/2609.03344",
+    "title": "LLMs as a Cognitive Virus"
+   },
+   "sources": [
+    {
+     "title": "LLMs as a Cognitive Virus",
+     "link": "https://arxiv.org/abs/2609.03344",
+     "publisher": "arXiv",
+     "publisherDomain": "arxiv.org",
+     "kind": "research",
+     "date": "2026-09-05T20:02:35.000Z",
+     "points": 215,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "introducing-weathernext-most-advanced",
+   "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4.3,
+    "factors": [
+     {
+      "label": "Primary source (Google DeepMind)",
+      "amount": 1.5
+     },
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-03T15:02:08.000Z",
+   "latestAt": "2026-09-03T15:02:08.000Z",
+   "primary": {
+    "publisher": "Google DeepMind",
+    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model"
+   },
+   "sources": [
+    {
+     "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+     "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+     "publisher": "Google DeepMind",
+     "publisherDomain": "deepmind.google",
+     "kind": "primary",
+     "date": "2026-09-03T15:02:08.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "transfer-learning-genomic-prediction",
+   "title": "Transfer learning for genomic prediction in underrepresented populations",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (Google Research)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-03T18:20:31.000Z",
+   "latestAt": "2026-09-03T18:20:31.000Z",
+   "primary": {
+    "publisher": "Google Research",
+    "link": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+    "title": "Transfer learning for genomic prediction in underrepresented populations"
+   },
+   "sources": [
+    {
+     "title": "Transfer learning for genomic prediction in underrepresented populations",
+     "link": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+     "publisher": "Google Research",
+     "publisherDomain": "research.google",
+     "kind": "primary",
+     "date": "2026-09-03T18:20:31.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "claude-review-risk-determination-claude",
+   "title": "Review of the CB risk determination in the Claude Mythos 5.1 System Card",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.9,
+    "factors": [
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-05T23:39:33.000Z",
+   "latestAt": "2026-09-05T23:39:33.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Review of the CB risk determination in the Claude Mythos 5.1 System Card",
+     "link": "https://www.lesswrong.com/posts/vnJ2PyabE4dquJwft/review-of-the-cb-risk-determination-in-the-claude-mythos-5-1",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-05T23:39:33.000Z",
+     "points": null,
+     "summary": "This post is best viewed on the MCNAIR website . Before the release of their latest publicly-known model, Claude Mythos 5.1, Anthropic conducted several human-run and…"
+    }
+   ]
+  },
+  {
+   "id": "google-gemini-hikers-rescued-after-using",
+   "title": "Hikers rescued after using Google Gemini for planning",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    },
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.9,
+    "factors": [
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 2,
+   "independentCount": 1,
+   "publishedAt": "2026-09-04T14:47:11.000Z",
+   "latestAt": "2026-09-05T19:35:24.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Hikers rescued after using Google Gemini for planning",
+     "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-05T19:35:24.000Z",
+     "points": null,
+     "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
+    },
+    {
+     "title": "Google’s Gemini Spark can now manage your Google Photos library",
+     "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-04T14:47:11.000Z",
+     "points": null,
+     "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and…"
+    }
+   ]
+  },
+  {
+   "id": "microsoft-openai-copyright-seattle-times-newsday-latest",
+   "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "microsoft",
+     "name": "Microsoft",
+     "kind": "org"
+    },
+    {
+     "id": "copyright",
+     "name": "AI & Copyright",
+     "kind": "topic"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 3.5,
+    "factors": [
+     {
+      "label": "Policy & Regulation",
+      "amount": 0.6
+     },
+     {
+      "label": "Involves multiple organisations",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-05T22:49:55.000Z",
+   "latestAt": "2026-09-05T22:49:55.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+     "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-05T22:49:55.000Z",
+     "points": null,
+     "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+    }
+   ]
+  },
+  {
+   "id": "daybreak-frontline-defenders-protect",
+   "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.5,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-03T13:15:00.000Z",
+   "latestAt": "2026-09-03T13:15:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services"
+   },
+   "sources": [
+    {
+     "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+     "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-03T13:15:00.000Z",
+     "points": null,
+     "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
+    }
+   ]
+  },
+  {
+   "id": "connectomics-milestone-mapping-complete",
+   "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.5,
+    "factors": [
+     {
+      "label": "Primary source (Google Research)",
+      "amount": 1.5
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-03T16:00:03.000Z",
+   "latestAt": "2026-09-03T16:00:03.000Z",
+   "primary": {
+    "publisher": "Google Research",
+    "link": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+    "title": "A connectomics milestone: Mapping the complete male fruit fly brain"
+   },
+   "sources": [
+    {
+     "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
+     "link": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+     "publisher": "Google Research",
+     "publisherDomain": "research.google",
+     "kind": "primary",
+     "date": "2026-09-03T16:00:03.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "neomme-efficient-multimodal-native",
+   "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.5,
+    "factors": [
+     {
+      "label": "Primary source (Hugging Face)",
+      "amount": 1.5
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-03T13:13:48.000Z",
+   "latestAt": "2026-09-03T13:13:48.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/Hcompany/neomme",
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder"
+   },
+   "sources": [
+    {
+     "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+     "link": "https://huggingface.co/blog/Hcompany/neomme",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-09-03T13:13:48.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "debunking-tina-doctrine-nomura",
+   "title": "Debunking the ‘Tina’ doctrine: Nomura warns AI-driven rally masks US vulnerabilities",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.1,
+    "factors": [
+     {
+      "label": "Security",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-04T04:00:08.000Z",
+   "latestAt": "2026-09-04T04:00:08.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Debunking the ‘Tina’ doctrine: Nomura warns AI-driven rally masks US vulnerabilities",
+     "link": "https://www.scmp.com/business/china-business/article/3366304/debunking-tina-doctrine-nomura-warns-ai-driven-rally-masks-us-vulnerabilities?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-04T04:00:08.000Z",
+     "points": null,
+     "summary": "The artificial intelligence boom has signalled growing risks in the US economy and capital markets, with a setback in the technology rally potentially triggering a sharp…"
+    }
+   ]
+  },
+  {
+   "id": "prediction-market-betting-getting",
+   "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.1,
+    "factors": [
+     {
+      "label": "Policy & Regulation",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-03T21:48:24.000Z",
+   "latestAt": "2026-09-03T21:48:24.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+     "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-03T21:48:24.000Z",
+     "points": null,
+     "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to…"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-funding-anthropic-trillion-puts-powerful",
+   "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Business",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-04T16:22:18.000Z",
+   "latestAt": "2026-09-04T16:22:18.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+     "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-04T16:22:18.000Z",
+     "points": null,
+     "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose."
+    }
+   ]
+  },
+  {
+   "id": "funding-compute-provider-nscale-looking",
+   "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    }
+   ],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Business",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-04T21:12:11.000Z",
+   "latestAt": "2026-09-04T21:12:11.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+     "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-04T21:12:11.000Z",
+     "points": null,
+     "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
+    }
+   ]
+  },
+  {
+   "id": "week-biggest-funding-rounds",
+   "title": "The Week’s 10 Biggest Funding Rounds: Crusoe And Fluidstack Lead Multibillion-Dollar AI Infrastructure Haul",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Business",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-04T17:59:30.000Z",
+   "latestAt": "2026-09-04T17:59:30.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Week’s 10 Biggest Funding Rounds: Crusoe And Fluidstack Lead Multibillion-Dollar AI Infrastructure Haul",
+     "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-09-04T17:59:30.000Z",
+     "points": null,
+     "summary": "AI infrastructure dominated the largest venture rounds this week, with two multibillion-dollar deals in the sector taking the top spots. Data center and cloud provider Crusoe…"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-openai-nobody-saying-openai-anthropic",
+   "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Involves multiple organisations",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-03T21:56:21.000Z",
+   "latestAt": "2026-09-03T21:56:21.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+     "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-03T21:56:21.000Z",
+     "points": null,
+     "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky."
+    }
+   ]
+  },
+  {
+   "id": "hugging-face-nvidia-nvidia-hugging-face-acquisition",
+   "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "hugging-face",
+     "name": "Hugging Face",
+     "kind": "org"
+    },
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.8,
+    "factors": [
+     {
+      "label": "Business",
+      "amount": 0.4
+     },
+     {
+      "label": "Involves multiple organisations",
+      "amount": 0.4
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-03T12:43:09.000Z",
+   "latestAt": "2026-09-03T12:43:09.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+     "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-03T12:43:09.000Z",
+     "points": null,
+     "summary": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets."
+    }
+   ]
+  },
+  {
+   "id": "design-circuit-boards",
+   "title": "Can AI design circuit boards yet?",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.6,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "393 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-04T19:48:29.000Z",
+   "latestAt": "2026-09-04T19:48:29.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Can AI design circuit boards yet?",
+     "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+     "publisher": "eebench.org",
+     "publisherDomain": "eebench.org",
+     "kind": "discussion",
+     "date": "2026-09-04T19:48:29.000Z",
+     "points": 393,
+     "summary": ""
+    }
+   ]
+  }
+ ]
+}
