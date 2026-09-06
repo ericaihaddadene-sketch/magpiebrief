@@ -15,33 +15,33 @@
   "confidence": "Confirmed",
   "category": "security"
  },
- "llms-cognitive-virus": {
-  "id": "llms-cognitive-virus",
-  "title": "LLMs as a Cognitive Virus",
-  "firstSeen": "2026-09-06T05:44:58.307Z",
+ "openai-research-acceleration-view-inside": {
+  "id": "openai-research-acceleration-view-inside",
+  "title": "Research acceleration: The view inside OpenAI",
+  "firstSeen": "2026-09-06T16:55:26.451Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "large-language-models-cognitive": {
+  "id": "large-language-models-cognitive",
+  "title": "Large-Language Models as a Cognitive Virus",
+  "firstSeen": "2026-09-06T16:55:26.451Z",
   "publishers": [
    "arXiv"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "importance": 4.9,
+  "importance": 4,
   "confidence": "Confirmed",
   "category": "general"
- },
- "introducing-weathernext-most-advanced": {
-  "id": "introducing-weathernext-most-advanced",
-  "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-  "firstSeen": "2026-09-06T05:44:58.307Z",
-  "publishers": [
-   "Google DeepMind"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4.3,
-  "confidence": "Confirmed",
-  "category": "models"
  },
  "gpt-introducing-astra-developers": {
   "id": "gpt-introducing-astra-developers",
@@ -113,34 +113,6 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "connectomics-milestone-mapping-complete": {
-  "id": "connectomics-milestone-mapping-complete",
-  "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
-  "firstSeen": "2026-09-06T05:44:58.307Z",
-  "publishers": [
-   "Google Research"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 3.5,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "debunking-tina-doctrine-nomura": {
-  "id": "debunking-tina-doctrine-nomura",
-  "title": "Debunking the ‘Tina’ doctrine: Nomura warns AI-driven rally masks US vulnerabilities",
-  "firstSeen": "2026-09-06T05:44:58.307Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.1,
-  "confidence": "Developing",
-  "category": "security"
- },
  "anthropic-funding-anthropic-trillion-puts-powerful": {
   "id": "anthropic-funding-anthropic-trillion-puts-powerful",
   "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
@@ -182,6 +154,20 @@
   "importance": 2.9,
   "confidence": "Developing",
   "category": "business"
+ },
+ "debunking-tina-doctrine-nomura": {
+  "id": "debunking-tina-doctrine-nomura",
+  "title": "Debunking the ‘Tina’ doctrine: Nomura warns AI-driven rally masks US vulnerabilities",
+  "firstSeen": "2026-09-06T05:44:58.307Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.6,
+  "confidence": "Developing",
+  "category": "security"
  },
  "prediction-market-betting-getting": {
   "id": "prediction-market-betting-getting",

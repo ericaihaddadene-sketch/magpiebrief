@@ -1,8 +1,8 @@
 {
  "date": "2026-09-06",
- "generated": "2026-09-06T14:05:09.032Z",
- "headline": "14 developments today. The most significant is security: OpenAI Agents Hacked Another Website",
- "stats": "22 sources monitored · 2634 items read · 47 on-topic · 14 distinct developments · 4 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-06T16:55:26.504Z",
+ "headline": "13 developments today. The most significant is security: OpenAI Agents Hacked Another Website",
+ "stats": "22 sources monitored · 2635 items read · 48 on-topic · 13 distinct developments · 3 with a primary source · 1 independently corroborated",
  "events": [
   {
    "id": "openai-openai-agents-hacked-another",
@@ -78,23 +78,72 @@
    ]
   },
   {
-   "id": "llms-cognitive-virus",
-   "title": "LLMs as a Cognitive Virus",
+   "id": "openai-research-acceleration-view-inside",
+   "title": "Research acceleration: The view inside OpenAI",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-06T15:08:44.000Z",
+   "latestAt": "2026-09-06T15:08:44.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "title": "Research acceleration: The view inside OpenAI"
+   },
+   "sources": [
+    {
+     "title": "Research acceleration: The view inside OpenAI",
+     "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-06T15:08:44.000Z",
+     "points": 8,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "large-language-models-cognitive",
+   "title": "Large-Language Models as a Cognitive Virus",
    "category": {
     "id": "general",
     "name": "Developments"
    },
    "entities": [],
    "importance": {
-    "score": 4.9,
+    "score": 4,
     "factors": [
      {
       "label": "Primary source (arXiv)",
       "amount": 1.5
-     },
-     {
-      "label": "318 points of reader attention",
-      "amount": 0.9
      }
     ]
    },
@@ -108,76 +157,21 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-05T20:02:35.000Z",
-   "latestAt": "2026-09-05T20:02:35.000Z",
+   "publishedAt": "2026-09-05T21:08:36.000Z",
+   "latestAt": "2026-09-05T21:08:36.000Z",
    "primary": {
     "publisher": "arXiv",
     "link": "https://arxiv.org/abs/2609.03344",
-    "title": "LLMs as a Cognitive Virus"
+    "title": "Large-Language Models as a Cognitive Virus"
    },
    "sources": [
     {
-     "title": "LLMs as a Cognitive Virus",
+     "title": "Large-Language Models as a Cognitive Virus",
      "link": "https://arxiv.org/abs/2609.03344",
      "publisher": "arXiv",
      "publisherDomain": "arxiv.org",
      "kind": "research",
-     "date": "2026-09-05T20:02:35.000Z",
-     "points": 318,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "introducing-weathernext-most-advanced",
-   "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4.3,
-    "factors": [
-     {
-      "label": "Primary source (Google DeepMind)",
-      "amount": 1.5
-     },
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-03T15:02:08.000Z",
-   "latestAt": "2026-09-03T15:02:08.000Z",
-   "primary": {
-    "publisher": "Google DeepMind",
-    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model"
-   },
-   "sources": [
-    {
-     "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-     "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-     "publisher": "Google DeepMind",
-     "publisherDomain": "deepmind.google",
-     "kind": "primary",
-     "date": "2026-09-03T15:02:08.000Z",
+     "date": "2026-09-05T21:08:36.000Z",
      "points": null,
      "summary": ""
     }
@@ -472,100 +466,6 @@
    ]
   },
   {
-   "id": "connectomics-milestone-mapping-complete",
-   "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 3.5,
-    "factors": [
-     {
-      "label": "Primary source (Google Research)",
-      "amount": 1.5
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-03T16:00:03.000Z",
-   "latestAt": "2026-09-03T16:00:03.000Z",
-   "primary": {
-    "publisher": "Google Research",
-    "link": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
-    "title": "A connectomics milestone: Mapping the complete male fruit fly brain"
-   },
-   "sources": [
-    {
-     "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
-     "link": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
-     "publisher": "Google Research",
-     "publisherDomain": "research.google",
-     "kind": "primary",
-     "date": "2026-09-03T16:00:03.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "debunking-tina-doctrine-nomura",
-   "title": "Debunking the ‘Tina’ doctrine: Nomura warns AI-driven rally masks US vulnerabilities",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [],
-   "importance": {
-    "score": 3.1,
-    "factors": [
-     {
-      "label": "Security",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-04T04:00:08.000Z",
-   "latestAt": "2026-09-04T04:00:08.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Debunking the ‘Tina’ doctrine: Nomura warns AI-driven rally masks US vulnerabilities",
-     "link": "https://www.scmp.com/business/china-business/article/3366304/debunking-tina-doctrine-nomura-warns-ai-driven-rally-masks-us-vulnerabilities?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-04T04:00:08.000Z",
-     "points": null,
-     "summary": "The artificial intelligence boom has signalled growing risks in the US economy and capital markets, with a setback in the technology rally potentially triggering a sharp…"
-    }
-   ]
-  },
-  {
    "id": "anthropic-funding-anthropic-trillion-puts-powerful",
    "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
    "category": {
@@ -708,6 +608,55 @@
      "date": "2026-09-04T17:59:30.000Z",
      "points": null,
      "summary": "AI infrastructure dominated the largest venture rounds this week, with two multibillion-dollar deals in the sector taking the top spots. Data center and cloud provider Crusoe…"
+    }
+   ]
+  },
+  {
+   "id": "debunking-tina-doctrine-nomura",
+   "title": "Debunking the ‘Tina’ doctrine: Nomura warns AI-driven rally masks US vulnerabilities",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.6,
+    "factors": [
+     {
+      "label": "Security",
+      "amount": 0.6
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [
+    "Importance fell 0.5 to 2.6."
+   ],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-04T04:00:08.000Z",
+   "latestAt": "2026-09-04T04:00:08.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Debunking the ‘Tina’ doctrine: Nomura warns AI-driven rally masks US vulnerabilities",
+     "link": "https://www.scmp.com/business/china-business/article/3366304/debunking-tina-doctrine-nomura-warns-ai-driven-rally-masks-us-vulnerabilities?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-04T04:00:08.000Z",
+     "points": null,
+     "summary": "The artificial intelligence boom has signalled growing risks in the US economy and capital markets, with a setback in the technology rally potentially triggering a sharp…"
     }
    ]
   },
