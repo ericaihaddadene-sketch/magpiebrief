@@ -221,3 +221,24 @@ export async function loadAll() {
   }
   return out;
 }
+
+// --- editorial memory -------------------------------------------------------
+//
+// What the system already knew about each event, so the next build can say what
+// changed rather than re-reporting the same development as new. Stored beside
+// the day files; listDays ignores it because the name is not a date.
+
+const MEMORY_FILE = path.join(ARCHIVE_DIR, 'events-memory.json');
+
+export async function readEventMemory() {
+  try {
+    return JSON.parse(await readFile(MEMORY_FILE, 'utf8'));
+  } catch {
+    return {};
+  }
+}
+
+export async function writeEventMemory(map) {
+  await mkdir(ARCHIVE_DIR, { recursive: true });
+  await writeFile(MEMORY_FILE, JSON.stringify(map, null, 1), 'utf8');
+}

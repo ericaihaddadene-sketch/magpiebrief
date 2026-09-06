@@ -166,6 +166,21 @@ export const ranking = {
   // Warn (never silently re-weight) when one publisher dominates the day.
   concentrationWarning: 0.4,
 
+  // How much each kind of development counts toward importance. These are
+  // editorial judgements about what an AI-industry reader needs to know, not
+  // measurements — a model launch changes what people can build, a tool update
+  // usually does not.
+  categoryWeights: {
+    models: 0.8,
+    policy: 0.6,
+    security: 0.6,
+    business: 0.4,
+    research: 0.3,
+    opensource: 0.3,
+    tools: 0.2,
+    general: 0
+  },
+
   // Applied ONLY to feeds marked `broad: true`. An item must match at least one
   // of these (as a whole word, in the title or summary) to make it onto the
   // site. This is what keeps a general tech firehose on-subject — swap this list
@@ -196,6 +211,19 @@ export const ranking = {
 // ADVERTISING
 // Direct sponsor slots live in ads.json. This is the inventory you're selling.
 // ---------------------------------------------------------------------------
+
+// ---------------------------------------------------------------------------
+// THE BRIEF
+// ---------------------------------------------------------------------------
+
+export const brief = {
+  // How many developments lead the page. Deliberately small and fixed: the
+  // promise is that this is readable in five minutes, which a growing list
+  // silently breaks.
+  leadCount: 5,
+  // Events below this importance never reach the homepage at all.
+  minImportance: 2.6
+};
 
 export const advertising = {
   // Rendered on /advertise as your public rate card. Prices are placeholders —

@@ -16,7 +16,13 @@ import {
   renderFeedXml, renderSitemap, renderRobots, renderAdsTxt,
   slugify, hostOf, dayPath
 } from './render.js';
-import { updateArchive, loadAll, applyPolicyToArchive } from './archive.js';
+import { updateArchive, loadAll, applyPolicyToArchive, readEventMemory, writeEventMemory } from './archive.js';
+import {
+  buildEvents, scoreImportance, assessConfidence, assessStatus,
+  computeDelta, toMemory, sourceKind
+} from './events.js';
+import { renderBrief, renderEventPage, renderTopicPage, eventPath } from './render-events.js';
+import { byId as entityById } from './entities.js';
 import { resolveProvenance, trimWords, publisherFromUrl } from './provenance.js';
 import { validate } from './policy.js';
 
@@ -24,6 +30,7 @@ const OUT = 'dist';
 const cfg = {
   site: cfgModule.site,
   ranking: cfgModule.ranking,
+  brief: cfgModule.brief,
   advertising: cfgModule.advertising,
   adNetwork: cfgModule.adNetwork,
   fetching: cfgModule.fetching
@@ -115,7 +122,7 @@ async function main() {
       // registry entry says `excerpt: 'feed'`. Anything unreviewed is link-only.
       const excerptPolicy = feed.excerpt === 'feed' ? 'feed' : 'none';
       const budget = feed.excerptWords ?? cfg.ranking.excerptWords ?? 26;
-      all.push({
+      const record = {
         ...it,
         source: feed.name,
         section: feed.section,
@@ -125,7 +132,11 @@ async function main() {
         excerptPolicy,
         descriptionType: excerptPolicy === 'feed' && it.summary ? 'AUTHORIZED_FEED_SNIPPET' : 'NONE',
         summary: excerptPolicy === 'feed' ? trimWords(it.summary, budget) : ''
-      });
+      };
+      // Classified per item, not per feed: a discussion-site submission linking
+      // to openai.com is a primary source we happened to find there.
+      record.sourceKind = sourceKind(record, feed);
+      all.push(record);
     }
   }
 
@@ -192,8 +203,74 @@ async function main() {
   await rm(OUT, { recursive: true, force: true });
   await mkdir(OUT, { recursive: true });
 
+  // ---- event layer -------------------------------------------------------
+  // Articles become developments here. Everything below this line is about
+  // events; the article list survives only as section pages.
+  const memory = await readEventMemory();
+  let events = buildEvents(ranked, { dupeThreshold: cfg.ranking.dupeThreshold });
+
+  for (const ev of events) {
+    ev.importance = scoreImportance(ev, { now, categoryWeights: cfg.ranking.categoryWeights || {} });
+    ev.confidence = assessConfidence(ev);
+    const prior = memory[ev.id];
+    ev.status = assessStatus(ev, prior, { now });
+    ev.firstSeen = prior?.firstSeen || new Date(now).toISOString();
+    ev.deltas = computeDelta(ev, prior);
+  }
+
+  events = events
+    .filter((ev) => ev.importance.score >= cfg.brief.minImportance)
+    .sort((a, b) => b.importance.score - a.importance.score);
+
+  const nextMemory = {};
+  for (const ev of events) nextMemory[ev.id] = toMemory(ev);
+  await writeEventMemory(nextMemory);
+
+  // A factual opening line. Not a synthesised insight — the system has no
+  // model to produce one, and inventing an editorial voice it cannot back up
+  // would be worse than stating what is measurably true.
+  const top = events[0];
+  const withPrimary = events.filter((e) => e.primary).length;
+  const corroborated = events.filter((e) => e.independentCount >= 2).length;
+  const headline = top
+    ? `${events.length} developments today. The most significant is ${top.category.name.toLowerCase()}: ${top.title}`
+    : 'No developments cleared the importance threshold today.';
+  const briefStats = `${okCount} sources monitored · ${all.length} items read · ${ranked.length} on-topic · ${events.length} distinct developments · ${withPrimary} with a primary source · ${corroborated} independently corroborated`;
+
+  // Nav no longer lists article sections: the brief's own modules cover that
+  // ground, and tabs labelled by publication type pull the product back toward
+  // a feed reader. Those pages still build and stay in the sitemap.
+  const briefNav = [];
+
+  await writePage('index.html', renderBrief(cfg, ads, {
+    events, headline, stats: briefStats, sections: briefNav, buildTime, now
+  }));
+
+  // Living story pages.
+  for (const ev of events) {
+    const related = events
+      .filter((o) => o !== ev && o.entities.some((e) => ev.entities.some((x) => x.id === e.id)))
+      .slice(0, 5);
+    await writePage(path.join(eventPath(ev.id).replace(/^\/|\/$/g, ''), 'index.html'),
+      renderEventPage(cfg, ads, { event: ev, sections: briefNav, buildTime, now, related }));
+  }
+
+  // Topic pages, one per entity that actually has developments.
+  const byEntity = new Map();
+  for (const ev of events) {
+    for (const e of ev.entities) {
+      if (!byEntity.has(e.id)) byEntity.set(e.id, []);
+      byEntity.get(e.id).push(ev);
+    }
+  }
+  for (const [id, evs] of byEntity) {
+    const entity = entityById.get(id);
+    if (!entity) continue;
+    await writePage(path.join('topic', id, 'index.html'),
+      renderTopicPage(cfg, ads, { entity, events: evs, sections: briefNav, buildTime, now }));
+  }
+
   const front = ranked.slice(0, cfg.ranking.frontPageLimit);
-  await writePage('index.html', renderIndex(cfg, ads, { stories: front, sections: navSections, sources, buildTime, now }));
 
   for (const section of sections) {
     const stories = ranked.filter((s) => s.section === section).slice(0, cfg.ranking.perSectionLimit);
@@ -272,6 +349,8 @@ async function main() {
     console.log(`  ${bold('Migration')}  ${migrated.excerptsTrimmed} excerpt(s) trimmed, ${migrated.excerptsRemoved} removed, ${migrated.provenanceBackfilled} provenance record(s) backfilled`);
   }
   const hidden = sections.filter((x) => !navSections.includes(x));
+  console.log(`  ${bold('Events')}     ${events.length} development(s) from ${ranked.length} reports; ${events.filter(e=>e.sourceCount>1).length} drew on multiple sources`);
+  console.log(`  ${bold('Topics')}     ${byEntity.size} entity page(s)`);
   console.log(`  ${bold('Sections')}   ${navSections.join(', ')}${hidden.length ? gray(`  (empty, hidden from nav: ${hidden.join(', ')})`) : ''}`);
   console.log(`  ${bold('Built in')}   ${Date.now() - t0}ms → ${OUT}/\n`);
 
