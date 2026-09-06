@@ -1,15 +1,82 @@
 {
  "date": "2026-09-06",
- "generated": "2026-09-06T16:55:26.504Z",
- "headline": "13 developments today. The most significant is security: OpenAI Agents Hacked Another Website",
- "stats": "22 sources monitored · 2635 items read · 48 on-topic · 13 distinct developments · 3 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-06T19:00:24.423Z",
+ "headline": "13 developments today. The most significant is developments: We monitor internal coding agents for misalignment",
+ "stats": "22 sources monitored · 2636 items read · 45 on-topic · 13 distinct developments · 3 with a primary source · 2 independently corroborated",
  "events": [
   {
-   "id": "openai-openai-agents-hacked-another",
-   "title": "OpenAI Agents Hacked Another Website",
+   "id": "coding-agents-monitor-internal-coding-agents",
+   "title": "We monitor internal coding agents for misalignment",
    "category": {
-    "id": "security",
-    "name": "Security"
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "coding-agents",
+     "name": "Coding Agents",
+     "kind": "topic"
+    }
+   ],
+   "importance": {
+    "score": 5.7,
+    "factors": [
+     {
+      "label": "2 independent outlets",
+      "amount": 1.7
+     },
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-05T15:51:09.000Z",
+   "latestAt": "2026-09-06T16:37:55.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
+    "title": "We monitor internal coding agents for misalignment"
+   },
+   "sources": [
+    {
+     "title": "We monitor internal coding agents for misalignment",
+     "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-06T16:37:55.000Z",
+     "points": 39,
+     "summary": ""
+    },
+    {
+     "title": "Using Blender with coding agents on macOS",
+     "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-05T15:51:09.000Z",
+     "points": null,
+     "summary": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with…"
+    }
+   ]
+  },
+  {
+   "id": "openai-openai-agents-discussed-ways",
+   "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+   "category": {
+    "id": "general",
+    "name": "Developments"
    },
    "entities": [
     {
@@ -19,15 +86,11 @@
     }
    ],
    "importance": {
-    "score": 5.8,
+    "score": 5.2,
     "factors": [
      {
       "label": "3 independent outlets",
       "amount": 2.7
-     },
-     {
-      "label": "Security",
-      "amount": 0.6
      }
     ]
    },
@@ -104,7 +167,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -125,14 +188,14 @@
      "publisherDomain": "openai.com",
      "kind": "primary",
      "date": "2026-09-06T15:08:44.000Z",
-     "points": 8,
+     "points": 52,
      "summary": ""
     }
    ]
   },
   {
-   "id": "large-language-models-cognitive",
-   "title": "Large-Language Models as a Cognitive Virus",
+   "id": "alien-mind",
+   "title": "An Alien Mind",
    "category": {
     "id": "general",
     "name": "Developments"
@@ -142,7 +205,7 @@
     "score": 4,
     "factors": [
      {
-      "label": "Primary source (arXiv)",
+      "label": "Primary source (OpenAI)",
       "amount": 1.5
      }
     ]
@@ -151,29 +214,29 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "confirmed",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-05T21:08:36.000Z",
-   "latestAt": "2026-09-05T21:08:36.000Z",
+   "publishedAt": "2026-09-06T09:00:00.000Z",
+   "latestAt": "2026-09-06T09:00:00.000Z",
    "primary": {
-    "publisher": "arXiv",
-    "link": "https://arxiv.org/abs/2609.03344",
-    "title": "Large-Language Models as a Cognitive Virus"
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/an-alien-mind",
+    "title": "An Alien Mind"
    },
    "sources": [
     {
-     "title": "Large-Language Models as a Cognitive Virus",
-     "link": "https://arxiv.org/abs/2609.03344",
-     "publisher": "arXiv",
-     "publisherDomain": "arxiv.org",
-     "kind": "research",
-     "date": "2026-09-05T21:08:36.000Z",
+     "title": "An Alien Mind",
+     "link": "https://openai.com/index/an-alien-mind",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-06T09:00:00.000Z",
      "points": null,
-     "summary": ""
+     "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
     }
    ]
   },
@@ -415,57 +478,6 @@
    ]
   },
   {
-   "id": "transfer-learning-genomic-prediction",
-   "title": "Transfer learning for genomic prediction in underrepresented populations",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 3.5,
-    "factors": [
-     {
-      "label": "Primary source (Google Research)",
-      "amount": 1.5
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-03T18:20:31.000Z",
-   "latestAt": "2026-09-03T18:20:31.000Z",
-   "primary": {
-    "publisher": "Google Research",
-    "link": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
-    "title": "Transfer learning for genomic prediction in underrepresented populations"
-   },
-   "sources": [
-    {
-     "title": "Transfer learning for genomic prediction in underrepresented populations",
-     "link": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
-     "publisher": "Google Research",
-     "publisherDomain": "research.google",
-     "kind": "primary",
-     "date": "2026-09-03T18:20:31.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "anthropic-funding-anthropic-trillion-puts-powerful",
    "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
    "category": {
@@ -637,9 +649,7 @@
     "why": "A single outlet so far"
    },
    "status": "developing",
-   "deltas": [
-    "Importance fell 0.5 to 2.6."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
