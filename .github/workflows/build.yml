@@ -101,7 +101,12 @@ jobs:
   # is exactly what was deployed, and the feeds are not fetched twice.
   archive:
     needs: build
-    if: github.event_name == 'schedule'
+    # Schedule, plus manual dispatch. Dispatch is included for two reasons:
+    # GitHub's cron is best-effort and drops slots under load, so there has to
+    # be a way to force a write; and gating on 'schedule' alone left the commit
+    # path untestable, which is how you end up shipping one that doesn't work.
+    # A manual run is deliberate, so it cannot surprise anyone mid-push.
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     permissions:
       contents: write
