@@ -1,8 +1,8 @@
 {
  "date": "2026-09-06",
- "generated": "2026-09-06T05:44:58.346Z",
- "headline": "20 developments today. The most significant is new models: GPT-6 Astra: A new generation of intelligence",
- "stats": "22 sources monitored · 2634 items read · 61 on-topic · 20 distinct developments · 8 with a primary source · 3 independently corroborated",
+ "generated": "2026-09-06T10:45:32.372Z",
+ "headline": "17 developments today. The most significant is new models: GPT-6 Astra: A new generation of intelligence",
+ "stats": "22 sources monitored · 2634 items read · 57 on-topic · 17 distinct developments · 7 with a primary source · 2 independently corroborated",
  "events": [
   {
    "id": "openai-gpt-robotics-astra-generation-intelligence",
@@ -29,7 +29,7 @@
     }
    ],
    "importance": {
-    "score": 9.3,
+    "score": 10,
     "factors": [
      {
       "label": "4 independent outlets",
@@ -52,6 +52,10 @@
       "amount": 0.6
      },
      {
+      "label": "192 points of reader attention",
+      "amount": 0.8
+     },
+     {
       "label": "Several days old",
       "amount": -0.5
      }
@@ -62,7 +66,9 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [],
+   "deltas": [
+    "Importance rose 0.7 to 10."
+   ],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 7,
@@ -142,75 +148,8 @@
      "publisherDomain": "openai.robocurve.org",
      "kind": "discussion",
      "date": "2026-09-06T01:52:45.000Z",
-     "points": 89,
+     "points": 192,
      "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "coding-agents-agent-memory-native-persistent",
-   "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "coding-agents",
-     "name": "Coding Agents",
-     "kind": "topic"
-    }
-   ],
-   "importance": {
-    "score": 5.7,
-    "factors": [
-     {
-      "label": "2 independent outlets",
-      "amount": 1.7
-     },
-     {
-      "label": "Primary source (GitHub)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-05T15:51:09.000Z",
-   "latestAt": "2026-09-05T22:15:52.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/okf-memory/okf-agent-memory",
-    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents"
-   },
-   "sources": [
-    {
-     "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-     "link": "https://github.com/okf-memory/okf-agent-memory",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-09-05T22:15:52.000Z",
-     "points": 50,
-     "summary": ""
-    },
-    {
-     "title": "Using Blender with coding agents on macOS",
-     "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-05T15:51:09.000Z",
-     "points": null,
-     "summary": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with…"
     }
    ]
   },
@@ -229,11 +168,15 @@
     }
    ],
    "importance": {
-    "score": 5.2,
+    "score": 6.2,
     "factors": [
      {
       "label": "3 independent outlets",
       "amount": 2.7
+     },
+     {
+      "label": "2189 points of reader attention",
+      "amount": 1
      }
     ]
    },
@@ -241,13 +184,16 @@
     "level": "Confirmed",
     "why": "3 independent outlets agree"
    },
-   "status": "confirmed",
-   "deltas": [],
+   "status": "developing",
+   "deltas": [
+    "Now also covered by collusion.wiki.",
+    "Importance rose 1 to 6.2."
+   ],
    "whatChanged": "",
    "whyItMatters": "",
-   "sourceCount": 3,
+   "sourceCount": 4,
    "independentCount": 3,
-   "publishedAt": "2026-09-04T22:17:36.000Z",
+   "publishedAt": "2026-09-04T11:54:53.000Z",
    "latestAt": "2026-09-05T10:30:00.000Z",
    "primary": null,
    "sources": [
@@ -280,6 +226,16 @@
      "date": "2026-09-04T23:15:11.000Z",
      "points": null,
      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their…"
+    },
+    {
+     "title": "Discovery of a new OpenAI agent message board",
+     "link": "https://collusion.wiki/",
+     "publisher": "collusion.wiki",
+     "publisherDomain": "collusion.wiki",
+     "kind": "discussion",
+     "date": "2026-09-04T11:54:53.000Z",
+     "points": 2189,
+     "summary": ""
     }
    ]
   },
@@ -292,15 +248,15 @@
    },
    "entities": [],
    "importance": {
-    "score": 4.8,
+    "score": 4.9,
     "factors": [
      {
       "label": "Primary source (arXiv)",
       "amount": 1.5
      },
      {
-      "label": "215 points of reader attention",
-      "amount": 0.8
+      "label": "274 points of reader attention",
+      "amount": 0.9
      }
     ]
    },
@@ -308,7 +264,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -329,7 +285,7 @@
      "publisherDomain": "arxiv.org",
      "kind": "research",
      "date": "2026-09-05T20:02:35.000Z",
-     "points": 215,
+     "points": 274,
      "summary": ""
     }
    ]
@@ -390,53 +346,6 @@
    ]
   },
   {
-   "id": "transfer-learning-genomic-prediction",
-   "title": "Transfer learning for genomic prediction in underrepresented populations",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (Google Research)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-03T18:20:31.000Z",
-   "latestAt": "2026-09-03T18:20:31.000Z",
-   "primary": {
-    "publisher": "Google Research",
-    "link": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
-    "title": "Transfer learning for genomic prediction in underrepresented populations"
-   },
-   "sources": [
-    {
-     "title": "Transfer learning for genomic prediction in underrepresented populations",
-     "link": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
-     "publisher": "Google Research",
-     "publisherDomain": "research.google",
-     "kind": "primary",
-     "date": "2026-09-03T18:20:31.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "claude-review-risk-determination-claude",
    "title": "Review of the CB risk determination in the Claude Mythos 5.1 System Card",
    "category": {
@@ -467,7 +376,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -598,7 +507,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -617,6 +526,59 @@
      "date": "2026-09-05T22:49:55.000Z",
      "points": null,
      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+    }
+   ]
+  },
+  {
+   "id": "transfer-learning-genomic-prediction",
+   "title": "Transfer learning for genomic prediction in underrepresented populations",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.5,
+    "factors": [
+     {
+      "label": "Primary source (Google Research)",
+      "amount": 1.5
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [
+    "Importance fell 0.5 to 3.5."
+   ],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-03T18:20:31.000Z",
+   "latestAt": "2026-09-03T18:20:31.000Z",
+   "primary": {
+    "publisher": "Google Research",
+    "link": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+    "title": "Transfer learning for genomic prediction in underrepresented populations"
+   },
+   "sources": [
+    {
+     "title": "Transfer learning for genomic prediction in underrepresented populations",
+     "link": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+     "publisher": "Google Research",
+     "publisherDomain": "research.google",
+     "kind": "primary",
+     "date": "2026-09-03T18:20:31.000Z",
+     "points": null,
+     "summary": ""
     }
    ]
   },
@@ -817,49 +779,6 @@
    ]
   },
   {
-   "id": "prediction-market-betting-getting",
-   "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [],
-   "importance": {
-    "score": 3.1,
-    "factors": [
-     {
-      "label": "Policy & Regulation",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-03T21:48:24.000Z",
-   "latestAt": "2026-09-03T21:48:24.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-     "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-03T21:48:24.000Z",
-     "points": null,
-     "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to…"
-    }
-   ]
-  },
-  {
    "id": "anthropic-funding-anthropic-trillion-puts-powerful",
    "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
    "category": {
@@ -1006,65 +925,11 @@
    ]
   },
   {
-   "id": "anthropic-openai-nobody-saying-openai-anthropic",
-   "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+   "id": "hugging-face-nvidia-nvidia-buys-hugging-face",
+   "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
    "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 2.9,
-    "factors": [
-     {
-      "label": "Involves multiple organisations",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-03T21:56:21.000Z",
-   "latestAt": "2026-09-03T21:56:21.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-     "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-03T21:56:21.000Z",
-     "points": null,
-     "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky."
-    }
-   ]
-  },
-  {
-   "id": "hugging-face-nvidia-nvidia-hugging-face-acquisition",
-   "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-   "category": {
-    "id": "business",
-    "name": "Business"
+    "id": "opensource",
+    "name": "Open Source"
    },
    "entities": [
     {
@@ -1079,11 +944,11 @@
     }
    ],
    "importance": {
-    "score": 2.8,
+    "score": 2.7,
     "factors": [
      {
-      "label": "Business",
-      "amount": 0.4
+      "label": "Open Source",
+      "amount": 0.3
      },
      {
       "label": "Involves multiple organisations",
@@ -1105,66 +970,68 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-03T12:43:09.000Z",
-   "latestAt": "2026-09-03T12:43:09.000Z",
+   "publishedAt": "2026-09-03T13:34:13.000Z",
+   "latestAt": "2026-09-03T13:34:13.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-     "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
+     "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+     "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
      "kind": "coverage",
-     "date": "2026-09-03T12:43:09.000Z",
+     "date": "2026-09-03T13:34:13.000Z",
      "points": null,
-     "summary": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets."
+     "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub."
     }
    ]
   },
   {
-   "id": "design-circuit-boards",
-   "title": "Can AI design circuit boards yet?",
+   "id": "prediction-market-betting-getting",
+   "title": "Prediction Market Betting Is Getting People Banned and Arrested",
    "category": {
-    "id": "general",
-    "name": "Developments"
+    "id": "policy",
+    "name": "Policy & Regulation"
    },
    "entities": [],
    "importance": {
     "score": 2.6,
     "factors": [
      {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
+      "label": "Policy & Regulation",
+      "amount": 0.6
      },
      {
-      "label": "393 points of reader attention",
-      "amount": 0.9
+      "label": "Several days old",
+      "amount": -0.5
      }
     ]
    },
    "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
+    "level": "Developing",
+    "why": "A single outlet so far"
    },
    "status": "developing",
-   "deltas": [],
+   "deltas": [
+    "Importance fell 0.5 to 2.6."
+   ],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-04T19:48:29.000Z",
-   "latestAt": "2026-09-04T19:48:29.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-03T21:48:24.000Z",
+   "latestAt": "2026-09-03T21:48:24.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Can AI design circuit boards yet?",
-     "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-     "publisher": "eebench.org",
-     "publisherDomain": "eebench.org",
-     "kind": "discussion",
-     "date": "2026-09-04T19:48:29.000Z",
-     "points": 393,
-     "summary": ""
+     "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+     "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-03T21:48:24.000Z",
+     "points": null,
+     "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to…"
     }
    ]
   }
