@@ -1,18 +1,47 @@
 {
- "openai-openai-agents-hacked-another": {
-  "id": "openai-openai-agents-hacked-another",
-  "title": "OpenAI Agents Hacked Another Website",
-  "firstSeen": "2026-09-06T21:11:31.260Z",
+ "openai-openai-agents-discussed-ways": {
+  "id": "openai-openai-agents-discussed-ways",
+  "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+  "firstSeen": "2026-09-07T10:06:29.818Z",
   "publishers": [
    "Wired AI",
+   "Ars Technica AI",
    "TechCrunch"
   ],
-  "sourceCount": 2,
-  "independentCount": 2,
+  "sourceCount": 3,
+  "independentCount": 3,
   "hadPrimary": false,
-  "importance": 4.8,
-  "confidence": "Highly likely",
-  "category": "security"
+  "importance": 5.2,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "show-engrim-universal-local": {
+  "id": "show-engrim-universal-local",
+  "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+  "firstSeen": "2026-09-07T10:06:29.818Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "supporting-independent-journalism-ukraine": {
+  "id": "supporting-independent-journalism-ukraine",
+  "title": "Supporting independent journalism in Ukraine",
+  "firstSeen": "2026-09-07T10:06:29.818Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
  },
  "harnessing-universal-geometry-embeddings": {
   "id": "harnessing-universal-geometry-embeddings",
@@ -28,19 +57,19 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "alien-mind": {
-  "id": "alien-mind",
-  "title": "An Alien Mind",
-  "firstSeen": "2026-09-06T19:00:24.378Z",
+ "gpt-lens-failed-replication": {
+  "id": "gpt-lens-failed-replication",
+  "title": "J-Lens: A Failed Replication on GPT-2",
+  "firstSeen": "2026-09-07T10:06:29.818Z",
   "publishers": [
-   "OpenAI"
+   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
+  "hadPrimary": false,
+  "importance": 3.9,
+  "confidence": "Developing",
+  "category": "models"
  },
  "gpt-introducing-astra-developers": {
   "id": "gpt-introducing-astra-developers",
@@ -83,75 +112,5 @@
   "importance": 3.4,
   "confidence": "Developing",
   "category": "models"
- },
- "anthropic-funding-anthropic-trillion-puts-powerful": {
-  "id": "anthropic-funding-anthropic-trillion-puts-powerful",
-  "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-  "firstSeen": "2026-09-06T05:44:58.307Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.9,
-  "confidence": "Developing",
-  "category": "business"
- },
- "funding-compute-provider-nscale-looking": {
-  "id": "funding-compute-provider-nscale-looking",
-  "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-  "firstSeen": "2026-09-06T05:44:58.307Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.9,
-  "confidence": "Developing",
-  "category": "business"
- },
- "week-biggest-funding-rounds": {
-  "id": "week-biggest-funding-rounds",
-  "title": "The Week’s 10 Biggest Funding Rounds: Crusoe And Fluidstack Lead Multibillion-Dollar AI Infrastructure Haul",
-  "firstSeen": "2026-09-06T05:44:58.307Z",
-  "publishers": [
-   "Crunchbase News"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.9,
-  "confidence": "Developing",
-  "category": "business"
- },
- "gpt-youtube-used-chatgpt-investigate": {
-  "id": "gpt-youtube-used-chatgpt-investigate",
-  "title": "YouTube had a bug – I used ChatGPT to investigate",
-  "firstSeen": "2026-09-07T04:16:23.007Z",
-  "publishers": [
-   "blog.thezilber.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 2.7,
-  "confidence": "Unverified",
-  "category": "business"
- },
- "your-intellectual-open-when": {
-  "id": "your-intellectual-open-when",
-  "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-  "firstSeen": "2026-09-07T04:16:23.007Z",
-  "publishers": [
-   "bcantrill.dtrace.org"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 2.7,
-  "confidence": "Unverified",
-  "category": "general"
  }
 }

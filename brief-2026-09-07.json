@@ -1,15 +1,15 @@
 {
  "date": "2026-09-07",
- "generated": "2026-09-07T04:16:23.059Z",
- "headline": "11 developments today. The most significant is security: OpenAI Agents Hacked Another Website",
- "stats": "22 sources monitored · 2636 items read · 39 on-topic · 11 distinct developments · 2 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-07T10:06:29.879Z",
+ "headline": "8 developments today. The most significant is developments: OpenAI agents discussed ways to escape their sandbox on public wiki",
+ "stats": "22 sources monitored · 2637 items read · 40 on-topic · 8 distinct developments · 3 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "openai-openai-agents-hacked-another",
-   "title": "OpenAI Agents Hacked Another Website",
+   "id": "openai-openai-agents-discussed-ways",
+   "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
    "category": {
-    "id": "security",
-    "name": "Security"
+    "id": "general",
+    "name": "Developments"
    },
    "entities": [
     {
@@ -19,29 +19,25 @@
     }
    ],
    "importance": {
-    "score": 4.8,
+    "score": 5.2,
     "factors": [
      {
-      "label": "2 independent outlets",
-      "amount": 1.7
-     },
-     {
-      "label": "Security",
-      "amount": 0.6
+      "label": "3 independent outlets",
+      "amount": 2.7
      }
     ]
    },
    "confidence": {
-    "level": "Highly likely",
-    "why": "Two independent outlets"
+    "level": "Confirmed",
+    "why": "3 independent outlets agree"
    },
-   "status": "developing",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-04T23:15:11.000Z",
+   "sourceCount": 3,
+   "independentCount": 3,
+   "publishedAt": "2026-09-04T22:17:36.000Z",
    "latestAt": "2026-09-05T10:30:00.000Z",
    "primary": null,
    "sources": [
@@ -56,6 +52,16 @@
      "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the…"
     },
     {
+     "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+     "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-04T22:17:36.000Z",
+     "points": null,
+     "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
+    },
+    {
      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
      "publisher": "TechCrunch",
@@ -64,6 +70,100 @@
      "date": "2026-09-04T23:15:11.000Z",
      "points": null,
      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their…"
+    }
+   ]
+  },
+  {
+   "id": "show-engrim-universal-local",
+   "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (GitHub)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-07T04:49:36.000Z",
+   "latestAt": "2026-09-07T04:49:36.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/timgordontg/engrim",
+    "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs"
+   },
+   "sources": [
+    {
+     "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+     "link": "https://github.com/timgordontg/engrim",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-07T04:49:36.000Z",
+     "points": 34,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "supporting-independent-journalism-ukraine",
+   "title": "Supporting independent journalism in Ukraine",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-07T00:00:00.000Z",
+   "latestAt": "2026-09-07T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "title": "Supporting independent journalism in Ukraine"
+   },
+   "sources": [
+    {
+     "title": "Supporting independent journalism in Ukraine",
+     "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-07T00:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
     }
    ]
   },
@@ -109,55 +209,61 @@
      "publisherDomain": "arxiv.org",
      "kind": "research",
      "date": "2026-09-06T20:31:20.000Z",
-     "points": 57,
+     "points": 80,
      "summary": ""
     }
    ]
   },
   {
-   "id": "alien-mind",
-   "title": "An Alien Mind",
+   "id": "gpt-lens-failed-replication",
+   "title": "J-Lens: A Failed Replication on GPT-2",
    "category": {
-    "id": "general",
-    "name": "Developments"
+    "id": "models",
+    "name": "New Models"
    },
-   "entities": [],
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
    "importance": {
-    "score": 4,
+    "score": 3.9,
     "factors": [
      {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
      }
     ]
    },
    "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
+    "level": "Developing",
+    "why": "A single outlet so far"
    },
-   "status": "confirmed",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-06T09:00:00.000Z",
-   "latestAt": "2026-09-06T09:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/an-alien-mind",
-    "title": "An Alien Mind"
-   },
+   "publishedAt": "2026-09-07T06:51:15.000Z",
+   "latestAt": "2026-09-07T06:51:15.000Z",
+   "primary": null,
    "sources": [
     {
-     "title": "An Alien Mind",
-     "link": "https://openai.com/index/an-alien-mind",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-06T09:00:00.000Z",
+     "title": "J-Lens: A Failed Replication on GPT-2",
+     "link": "https://www.lesswrong.com/posts/tgn3pD2gLpZvepkWk/j-lens-a-failed-replication-on-gpt-2",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-07T06:51:15.000Z",
      "points": null,
-     "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
+     "summary": "TLDR : We tested Anthropic's new(ish) J-Lens against the classic Logit Lens on GPT-2 small and medium. J-Lens loses at every layer (0/11 on small, 1/23…"
     }
    ]
   },
@@ -318,9 +424,7 @@
     "why": "A single outlet so far"
    },
    "status": "developing",
-   "deltas": [
-    "Importance fell 0.5 to 3.4."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 2,
@@ -348,256 +452,6 @@
      "date": "2026-09-04T14:47:11.000Z",
      "points": null,
      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and…"
-    }
-   ]
-  },
-  {
-   "id": "anthropic-funding-anthropic-trillion-puts-powerful",
-   "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 2.9,
-    "factors": [
-     {
-      "label": "Business",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-04T16:22:18.000Z",
-   "latestAt": "2026-09-04T16:22:18.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-     "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-04T16:22:18.000Z",
-     "points": null,
-     "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose."
-    }
-   ]
-  },
-  {
-   "id": "funding-compute-provider-nscale-looking",
-   "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    }
-   ],
-   "importance": {
-    "score": 2.9,
-    "factors": [
-     {
-      "label": "Business",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-04T21:12:11.000Z",
-   "latestAt": "2026-09-04T21:12:11.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-     "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-04T21:12:11.000Z",
-     "points": null,
-     "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
-    }
-   ]
-  },
-  {
-   "id": "week-biggest-funding-rounds",
-   "title": "The Week’s 10 Biggest Funding Rounds: Crusoe And Fluidstack Lead Multibillion-Dollar AI Infrastructure Haul",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [],
-   "importance": {
-    "score": 2.9,
-    "factors": [
-     {
-      "label": "Business",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-04T17:59:30.000Z",
-   "latestAt": "2026-09-04T17:59:30.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Week’s 10 Biggest Funding Rounds: Crusoe And Fluidstack Lead Multibillion-Dollar AI Infrastructure Haul",
-     "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/",
-     "publisher": "Crunchbase News",
-     "publisherDomain": "news.crunchbase.com",
-     "kind": "coverage",
-     "date": "2026-09-04T17:59:30.000Z",
-     "points": null,
-     "summary": "AI infrastructure dominated the largest venture rounds this week, with two multibillion-dollar deals in the sector taking the top spots. Data center and cloud provider Crusoe…"
-    }
-   ]
-  },
-  {
-   "id": "gpt-youtube-used-chatgpt-investigate",
-   "title": "YouTube had a bug – I used ChatGPT to investigate",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 2.7,
-    "factors": [
-     {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
-     },
-     {
-      "label": "Business",
-      "amount": 0.4
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
-   },
-   "status": "emerging",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-06T17:01:39.000Z",
-   "latestAt": "2026-09-06T17:01:39.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "YouTube had a bug – I used ChatGPT to investigate",
-     "link": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
-     "publisher": "blog.thezilber.com",
-     "publisherDomain": "blog.thezilber.com",
-     "kind": "discussion",
-     "date": "2026-09-06T17:01:39.000Z",
-     "points": 8,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "your-intellectual-open-when",
-   "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 2.7,
-    "factors": [
-     {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
-     },
-     {
-      "label": "584 points of reader attention",
-      "amount": 1
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-06T11:56:43.000Z",
-   "latestAt": "2026-09-06T11:56:43.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-     "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-     "publisher": "bcantrill.dtrace.org",
-     "publisherDomain": "bcantrill.dtrace.org",
-     "kind": "discussion",
-     "date": "2026-09-06T11:56:43.000Z",
-     "points": 584,
-     "summary": ""
     }
    ]
   }
