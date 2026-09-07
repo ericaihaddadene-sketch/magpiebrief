@@ -14,20 +14,6 @@
   "confidence": "Highly likely",
   "category": "security"
  },
- "openai-research-acceleration-view-inside": {
-  "id": "openai-research-acceleration-view-inside",
-  "title": "Research acceleration: The view inside OpenAI",
-  "firstSeen": "2026-09-06T16:55:26.451Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
  "harnessing-universal-geometry-embeddings": {
   "id": "harnessing-universal-geometry-embeddings",
   "title": "Harnessing the Universal Geometry of Embeddings",
@@ -70,20 +56,6 @@
   "confidence": "Developing",
   "category": "models"
  },
- "google-gemini-hikers-rescued-after-using": {
-  "id": "google-gemini-hikers-rescued-after-using",
-  "title": "Hikers rescued after using Google Gemini for planning",
-  "firstSeen": "2026-09-06T05:44:58.307Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 2,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.9,
-  "confidence": "Developing",
-  "category": "models"
- },
  "microsoft-openai-copyright-seattle-times-newsday-openai": {
   "id": "microsoft-openai-copyright-seattle-times-newsday-openai",
   "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
@@ -97,6 +69,20 @@
   "importance": 3.5,
   "confidence": "Developing",
   "category": "policy"
+ },
+ "google-gemini-hikers-rescued-after-using": {
+  "id": "google-gemini-hikers-rescued-after-using",
+  "title": "Hikers rescued after using Google Gemini for planning",
+  "firstSeen": "2026-09-06T05:44:58.307Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 2,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.4,
+  "confidence": "Developing",
+  "category": "models"
  },
  "anthropic-funding-anthropic-trillion-puts-powerful": {
   "id": "anthropic-funding-anthropic-trillion-puts-powerful",
@@ -140,18 +126,32 @@
   "confidence": "Developing",
   "category": "business"
  },
- "debunking-tina-doctrine-nomura": {
-  "id": "debunking-tina-doctrine-nomura",
-  "title": "Debunking the ‘Tina’ doctrine: Nomura warns AI-driven rally masks US vulnerabilities",
-  "firstSeen": "2026-09-06T05:44:58.307Z",
+ "gpt-youtube-used-chatgpt-investigate": {
+  "id": "gpt-youtube-used-chatgpt-investigate",
+  "title": "YouTube had a bug – I used ChatGPT to investigate",
+  "firstSeen": "2026-09-07T04:16:23.007Z",
   "publishers": [
-   "SCMP Tech"
+   "blog.thezilber.com"
   ],
   "sourceCount": 1,
-  "independentCount": 1,
+  "independentCount": 0,
   "hadPrimary": false,
-  "importance": 2.6,
-  "confidence": "Developing",
-  "category": "security"
+  "importance": 2.7,
+  "confidence": "Unverified",
+  "category": "business"
+ },
+ "your-intellectual-open-when": {
+  "id": "your-intellectual-open-when",
+  "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+  "firstSeen": "2026-09-07T04:16:23.007Z",
+  "publishers": [
+   "bcantrill.dtrace.org"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 2.7,
+  "confidence": "Unverified",
+  "category": "general"
  }
 }
