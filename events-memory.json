@@ -1,17 +1,31 @@
 {
- "openai-openai-agents-discussed-ways": {
-  "id": "openai-openai-agents-discussed-ways",
-  "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-  "firstSeen": "2026-09-07T10:06:29.818Z",
+ "openai-download-hunt-underground-hydrogen": {
+  "id": "openai-download-hunt-underground-hydrogen",
+  "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+  "firstSeen": "2026-09-07T15:46:30.030Z",
   "publishers": [
+   "MIT Tech Review",
    "Wired AI",
-   "Ars Technica AI",
    "TechCrunch"
   ],
   "sourceCount": 3,
   "independentCount": 3,
   "hadPrimary": false,
-  "importance": 5.2,
+  "importance": 4.7,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "harnessing-universal-geometry-embeddings": {
+  "id": "harnessing-universal-geometry-embeddings",
+  "title": "Harnessing the Universal Geometry of Embeddings",
+  "firstSeen": "2026-09-06T23:43:26.395Z",
+  "publishers": [
+   "arXiv"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4.7,
   "confidence": "Confirmed",
   "category": "general"
  },
@@ -43,12 +57,12 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "harnessing-universal-geometry-embeddings": {
-  "id": "harnessing-universal-geometry-embeddings",
-  "title": "Harnessing the Universal Geometry of Embeddings",
-  "firstSeen": "2026-09-06T23:43:26.395Z",
+ "alien-mind": {
+  "id": "alien-mind",
+  "title": "An Alien Mind",
+  "firstSeen": "2026-09-07T15:46:30.030Z",
   "publishers": [
-   "arXiv"
+   "OpenAI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -57,12 +71,12 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "gpt-lens-failed-replication": {
-  "id": "gpt-lens-failed-replication",
-  "title": "J-Lens: A Failed Replication on GPT-2",
-  "firstSeen": "2026-09-07T10:06:29.818Z",
+ "gpt-introducing-astra-developers": {
+  "id": "gpt-introducing-astra-developers",
+  "title": "Introducing GPT-6 Astra for developers",
+  "firstSeen": "2026-09-06T14:05:08.977Z",
   "publishers": [
-   "LessWrong"
+   "Simon Willison"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -71,12 +85,12 @@
   "confidence": "Developing",
   "category": "models"
  },
- "gpt-introducing-astra-developers": {
-  "id": "gpt-introducing-astra-developers",
-  "title": "Introducing GPT-6 Astra for developers",
-  "firstSeen": "2026-09-06T14:05:08.977Z",
+ "google-gemini-hikers-rescued-after-using": {
+  "id": "google-gemini-hikers-rescued-after-using",
+  "title": "Hikers rescued after using Google Gemini for planning",
+  "firstSeen": "2026-09-06T05:44:58.307Z",
   "publishers": [
-   "Simon Willison"
+   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -98,19 +112,5 @@
   "importance": 3.5,
   "confidence": "Developing",
   "category": "policy"
- },
- "google-gemini-hikers-rescued-after-using": {
-  "id": "google-gemini-hikers-rescued-after-using",
-  "title": "Hikers rescued after using Google Gemini for planning",
-  "firstSeen": "2026-09-06T05:44:58.307Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 2,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.4,
-  "confidence": "Developing",
-  "category": "models"
  }
 }
