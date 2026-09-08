@@ -1,4 +1,32 @@
 {
+ "mistral-funding-mistral-raises": {
+  "id": "mistral-funding-mistral-raises",
+  "title": "Mistral raises €3B",
+  "firstSeen": "2026-09-08T11:04:44.545Z",
+  "publishers": [
+   "mistral.ai"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 5.3,
+  "confidence": "Confirmed",
+  "category": "business"
+ },
+ "multi-agents-financial-trading": {
+  "id": "multi-agents-financial-trading",
+  "title": "Multi-Agents LLM Financial Trading Framework",
+  "firstSeen": "2026-09-08T11:04:44.545Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
  "supporting-independent-journalism-ukraine": {
   "id": "supporting-independent-journalism-ukraine",
   "title": "Supporting independent journalism in Ukraine",
@@ -41,35 +69,6 @@
   "confidence": "Developing",
   "category": "models"
  },
- "google-gemini-hikers-rescued-after-using": {
-  "id": "google-gemini-hikers-rescued-after-using",
-  "title": "Hikers rescued after using Google Gemini for planning",
-  "firstSeen": "2026-09-06T05:44:58.307Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.9,
-  "confidence": "Developing",
-  "category": "models"
- },
- "openai-download-hunt-underground-hydrogen": {
-  "id": "openai-download-hunt-underground-hydrogen",
-  "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-  "firstSeen": "2026-09-07T15:46:30.030Z",
-  "publishers": [
-   "MIT Tech Review",
-   "Wired AI"
-  ],
-  "sourceCount": 2,
-  "independentCount": 2,
-  "hadPrimary": false,
-  "importance": 3.7,
-  "confidence": "Highly likely",
-  "category": "general"
- },
  "microsoft-openai-copyright-seattle-times-newsday-openai": {
   "id": "microsoft-openai-copyright-seattle-times-newsday-openai",
   "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
@@ -83,6 +82,20 @@
   "importance": 3.5,
   "confidence": "Developing",
   "category": "policy"
+ },
+ "google-gemini-hikers-rescued-after-using": {
+  "id": "google-gemini-hikers-rescued-after-using",
+  "title": "Hikers rescued after using Google Gemini for planning",
+  "firstSeen": "2026-09-06T05:44:58.307Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.4,
+  "confidence": "Developing",
+  "category": "models"
  },
  "claude-powering-mobile-agents-instinct": {
   "id": "claude-powering-mobile-agents-instinct",
