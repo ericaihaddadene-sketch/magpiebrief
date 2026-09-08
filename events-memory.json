@@ -9,7 +9,7 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "importance": 5.3,
+  "importance": 5.4,
   "confidence": "Confirmed",
   "category": "business"
  },
@@ -23,14 +23,56 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
+  "importance": 4.7,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "alphagenome-atlas-predictive-every": {
+  "id": "alphagenome-atlas-predictive-every",
+  "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+  "firstSeen": "2026-09-08T15:02:58.092Z",
+  "publishers": [
+   "Google DeepMind"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
   "importance": 4,
   "confidence": "Confirmed",
   "category": "general"
  },
- "supporting-independent-journalism-ukraine": {
-  "id": "supporting-independent-journalism-ukraine",
-  "title": "Supporting independent journalism in Ukraine",
-  "firstSeen": "2026-09-07T10:06:29.818Z",
+ "work-within-reach": {
+  "id": "work-within-reach",
+  "title": "The Work Now Within Reach",
+  "firstSeen": "2026-09-08T15:02:58.092Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "safety-whom-refusing-right": {
+  "id": "safety-whom-refusing-right",
+  "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+  "firstSeen": "2026-09-08T15:02:58.092Z",
+  "publishers": [
+   "Hugging Face"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "openai-openai-expands-initiatives-support": {
+  "id": "openai-openai-expands-initiatives-support",
+  "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+  "firstSeen": "2026-09-08T15:02:58.092Z",
   "publishers": [
    "OpenAI"
   ],
@@ -65,23 +107,9 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "importance": 3.9,
+  "importance": 3.4,
   "confidence": "Developing",
   "category": "models"
- },
- "microsoft-openai-copyright-seattle-times-newsday-openai": {
-  "id": "microsoft-openai-copyright-seattle-times-newsday-openai",
-  "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-  "firstSeen": "2026-09-06T23:43:26.395Z",
-  "publishers": [
-   "The Verge"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.5,
-  "confidence": "Developing",
-  "category": "policy"
  },
  "google-gemini-hikers-rescued-after-using": {
   "id": "google-gemini-hikers-rescued-after-using",
@@ -97,18 +125,32 @@
   "confidence": "Developing",
   "category": "models"
  },
- "claude-powering-mobile-agents-instinct": {
-  "id": "claude-powering-mobile-agents-instinct",
-  "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
-  "firstSeen": "2026-09-08T05:52:43.948Z",
+ "microsoft-openai-copyright-seattle-times-newsday-latest": {
+  "id": "microsoft-openai-copyright-seattle-times-newsday-latest",
+  "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+  "firstSeen": "2026-09-08T15:02:58.092Z",
   "publishers": [
-   "GitHub Pages"
+   "TechCrunch"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
   "hadPrimary": false,
-  "importance": 3.1,
-  "confidence": "Unverified",
-  "category": "models"
+  "importance": 3,
+  "confidence": "Developing",
+  "category": "policy"
+ },
+ "safety-psychological-support-safety-researchers": {
+  "id": "safety-psychological-support-safety-researchers",
+  "title": "Psychological Support for AI Safety Researchers Is Neglected and Easy to Provide",
+  "firstSeen": "2026-09-08T15:02:58.092Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.8,
+  "confidence": "Developing",
+  "category": "research"
  }
 }

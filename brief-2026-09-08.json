@@ -1,8 +1,8 @@
 {
  "date": "2026-09-08",
- "generated": "2026-09-08T11:04:44.593Z",
- "headline": "8 developments today. The most significant is business: Mistral raises €3B",
- "stats": "22 sources monitored · 2637 items read · 45 on-topic · 8 distinct developments · 4 with a primary source · 0 independently corroborated",
+ "generated": "2026-09-08T15:02:58.146Z",
+ "headline": "11 developments today. The most significant is business: Mistral raises €3B",
+ "stats": "22 sources monitored · 2640 items read · 49 on-topic · 11 distinct developments · 7 with a primary source · 0 independently corroborated",
  "events": [
   {
    "id": "mistral-funding-mistral-raises",
@@ -24,7 +24,7 @@
     }
    ],
    "importance": {
-    "score": 5.3,
+    "score": 5.4,
     "factors": [
      {
       "label": "Primary source (mistral.ai)",
@@ -35,8 +35,8 @@
       "amount": 0.4
      },
      {
-      "label": "495 points of reader attention",
-      "amount": 0.9
+      "label": "656 points of reader attention",
+      "amount": 1
      }
     ]
    },
@@ -44,7 +44,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -65,7 +65,7 @@
      "publisherDomain": "mistral.ai",
      "kind": "primary",
      "date": "2026-09-08T05:06:23.000Z",
-     "points": 495,
+     "points": 656,
      "summary": ""
     }
    ]
@@ -79,11 +79,15 @@
    },
    "entities": [],
    "importance": {
-    "score": 4,
+    "score": 4.7,
     "factors": [
      {
       "label": "Primary source (GitHub)",
       "amount": 1.5
+     },
+     {
+      "label": "100 points of reader attention",
+      "amount": 0.7
      }
     ]
    },
@@ -91,8 +95,10 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
-   "deltas": [],
+   "status": "confirmed",
+   "deltas": [
+    "Importance rose 0.7 to 4.7."
+   ],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -112,19 +118,166 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-09-08T05:20:23.000Z",
-     "points": 56,
+     "points": 100,
      "summary": ""
     }
    ]
   },
   {
-   "id": "supporting-independent-journalism-ukraine",
-   "title": "Supporting independent journalism in Ukraine",
+   "id": "alphagenome-atlas-predictive-every",
+   "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
    "category": {
     "id": "general",
     "name": "Developments"
    },
    "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (Google DeepMind)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T14:00:15.000Z",
+   "latestAt": "2026-09-08T14:00:15.000Z",
+   "primary": {
+    "publisher": "Google DeepMind",
+    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome"
+   },
+   "sources": [
+    {
+     "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+     "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+     "publisher": "Google DeepMind",
+     "publisherDomain": "deepmind.google",
+     "kind": "primary",
+     "date": "2026-09-08T14:00:15.000Z",
+     "points": null,
+     "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
+    }
+   ]
+  },
+  {
+   "id": "work-within-reach",
+   "title": "The Work Now Within Reach",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T13:00:00.000Z",
+   "latestAt": "2026-09-08T13:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/the-work-now-within-reach",
+    "title": "The Work Now Within Reach"
+   },
+   "sources": [
+    {
+     "title": "The Work Now Within Reach",
+     "link": "https://openai.com/index/the-work-now-within-reach",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-08T13:00:00.000Z",
+     "points": null,
+     "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
+    }
+   ]
+  },
+  {
+   "id": "safety-whom-refusing-right",
+   "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (Hugging Face)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T14:23:07.000Z",
+   "latestAt": "2026-09-08T14:23:07.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic"
+   },
+   "sources": [
+    {
+     "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+     "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-09-08T14:23:07.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "openai-openai-expands-initiatives-support",
+   "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
    "importance": {
     "score": 4,
     "factors": [
@@ -144,23 +297,23 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-07T00:00:00.000Z",
-   "latestAt": "2026-09-07T00:00:00.000Z",
+   "publishedAt": "2026-09-08T00:00:00.000Z",
+   "latestAt": "2026-09-08T00:00:00.000Z",
    "primary": {
     "publisher": "OpenAI",
-    "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-    "title": "Supporting independent journalism in Ukraine"
+    "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms"
    },
    "sources": [
     {
-     "title": "Supporting independent journalism in Ukraine",
-     "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+     "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+     "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
      "publisher": "OpenAI",
      "publisherDomain": "openai.com",
      "kind": "primary",
-     "date": "2026-09-07T00:00:00.000Z",
+     "date": "2026-09-08T00:00:00.000Z",
      "points": null,
-     "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
+     "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations."
     }
    ]
   },
@@ -226,7 +379,7 @@
     }
    ],
    "importance": {
-    "score": 3.9,
+    "score": 3.4,
     "factors": [
      {
       "label": "New Models",
@@ -235,6 +388,10 @@
      {
       "label": "Names a specific model",
       "amount": 0.6
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
      }
     ]
    },
@@ -243,7 +400,9 @@
     "why": "A single outlet so far"
    },
    "status": "developing",
-   "deltas": [],
+   "deltas": [
+    "Importance fell 0.5 to 3.4."
+   ],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -261,69 +420,6 @@
      "date": "2026-09-05T23:27:48.000Z",
      "points": null,
      "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "microsoft-openai-copyright-seattle-times-newsday-openai",
-   "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "microsoft",
-     "name": "Microsoft",
-     "kind": "org"
-    },
-    {
-     "id": "copyright",
-     "name": "AI & Copyright",
-     "kind": "topic"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 3.5,
-    "factors": [
-     {
-      "label": "Policy & Regulation",
-      "amount": 0.6
-     },
-     {
-      "label": "Involves multiple organisations",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-06T23:36:04.000Z",
-   "latestAt": "2026-09-06T23:36:04.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-06T23:36:04.000Z",
-     "points": null,
-     "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their…"
     }
    ]
   },
@@ -368,9 +464,7 @@
     "why": "A single outlet so far"
    },
    "status": "developing",
-   "deltas": [
-    "Importance fell 0.5 to 3.4."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -392,59 +486,118 @@
    ]
   },
   {
-   "id": "claude-powering-mobile-agents-instinct",
-   "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+   "id": "microsoft-openai-copyright-seattle-times-newsday-latest",
+   "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
    "category": {
-    "id": "models",
-    "name": "New Models"
+    "id": "policy",
+    "name": "Policy & Regulation"
    },
    "entities": [
     {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
+     "id": "microsoft",
+     "name": "Microsoft",
+     "kind": "org"
+    },
+    {
+     "id": "copyright",
+     "name": "AI & Copyright",
+     "kind": "topic"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
     }
    ],
    "importance": {
-    "score": 3.1,
+    "score": 3,
     "factors": [
      {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
-     },
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
+      "label": "Policy & Regulation",
       "amount": 0.6
+     },
+     {
+      "label": "Involves multiple organisations",
+      "amount": 0.4
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
      }
     ]
    },
    "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
+    "level": "Developing",
+    "why": "A single outlet so far"
    },
    "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-08T04:36:26.000Z",
-   "latestAt": "2026-09-08T04:36:26.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-05T22:49:55.000Z",
+   "latestAt": "2026-09-05T22:49:55.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
-     "link": "https://rohanadwankar.github.io/posts/platforms.html",
-     "publisher": "GitHub Pages",
-     "publisherDomain": "rohanadwankar.github.io",
-     "kind": "discussion",
-     "date": "2026-09-08T04:36:26.000Z",
-     "points": 33,
-     "summary": ""
+     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+     "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-05T22:49:55.000Z",
+     "points": null,
+     "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+    }
+   ]
+  },
+  {
+   "id": "safety-psychological-support-safety-researchers",
+   "title": "Psychological Support for AI Safety Researchers Is Neglected and Easy to Provide",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "importance": {
+    "score": 2.8,
+    "factors": [
+     {
+      "label": "Research",
+      "amount": 0.3
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T13:19:02.000Z",
+   "latestAt": "2026-09-08T13:19:02.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Psychological Support for AI Safety Researchers Is Neglected and Easy to Provide",
+     "link": "https://www.lesswrong.com/posts/TuHhSxGYgSudKeDtb/psychological-support-for-ai-safety-researchers-is-neglected",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-08T13:19:02.000Z",
+     "points": null,
+     "summary": "I think there is a big chunk of relatively low-hanging-fruit-style neglected work useful for AI safety which I can roughly label as “psychological help for AI…"
     }
    ]
   }
