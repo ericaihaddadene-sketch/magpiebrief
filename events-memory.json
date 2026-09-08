@@ -1,17 +1,29 @@
 {
- "openai-download-hunt-underground-hydrogen": {
-  "id": "openai-download-hunt-underground-hydrogen",
-  "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-  "firstSeen": "2026-09-07T15:46:30.030Z",
+ "agents-secure-temporary-file-sharing": {
+  "id": "agents-secure-temporary-file-sharing",
+  "title": "Secure temporary file sharing for AI agents and humans",
+  "firstSeen": "2026-09-08T01:05:35.590Z",
   "publishers": [
-   "MIT Tech Review",
-   "Wired AI",
-   "TechCrunch"
+   "GitHub"
   ],
-  "sourceCount": 3,
-  "independentCount": 3,
-  "hadPrimary": false,
-  "importance": 4.7,
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "weathernext-most-advanced-global": {
+  "id": "weathernext-most-advanced-global",
+  "title": "WeatherNext 3: Our most advanced global weather AI model",
+  "firstSeen": "2026-09-08T01:05:35.590Z",
+  "publishers": [
+   "Google"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
   "confidence": "Confirmed",
   "category": "general"
  },
@@ -70,6 +82,21 @@
   "importance": 3.9,
   "confidence": "Developing",
   "category": "models"
+ },
+ "openai-download-hunt-underground-hydrogen": {
+  "id": "openai-download-hunt-underground-hydrogen",
+  "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+  "firstSeen": "2026-09-07T15:46:30.030Z",
+  "publishers": [
+   "MIT Tech Review",
+   "Wired AI"
+  ],
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "importance": 3.7,
+  "confidence": "Highly likely",
+  "category": "general"
  },
  "microsoft-openai-copyright-seattle-times-newsday-openai": {
   "id": "microsoft-openai-copyright-seattle-times-newsday-openai",
