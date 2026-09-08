@@ -1,9 +1,135 @@
 {
  "date": "2026-09-08",
- "generated": "2026-09-08T18:30:01.422Z",
- "headline": "16 developments today. The most significant is developments: Google DeepMind Releases AlphaGenome Atlas",
- "stats": "22 sources monitored · 2642 items read · 54 on-topic · 16 distinct developments · 8 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-08T21:45:18.894Z",
+ "headline": "20 developments today. The most significant is new models: ChatGPT Images 2.5",
+ "stats": "22 sources monitored · 2645 items read · 60 on-topic · 20 distinct developments · 12 with a primary source · 1 independently corroborated",
  "events": [
+  {
+   "id": "gpt-chatgpt-images",
+   "title": "ChatGPT Images 2.5",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 6.2,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     },
+     {
+      "label": "235 points of reader attention",
+      "amount": 0.8
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T18:37:51.000Z",
+   "latestAt": "2026-09-08T18:37:51.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+    "title": "ChatGPT Images 2.5"
+   },
+   "sources": [
+    {
+     "title": "ChatGPT Images 2.5",
+     "link": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-08T18:37:51.000Z",
+     "points": 235,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "gpt-helps-quantum-computing-experiments",
+   "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 5.4,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T17:00:00.000Z",
+   "latestAt": "2026-09-08T17:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/codex-quantum-computing-experiments",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments"
+   },
+   "sources": [
+    {
+     "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+     "link": "https://openai.com/index/codex-quantum-computing-experiments",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-08T17:00:00.000Z",
+     "points": null,
+     "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
+    }
+   ]
+  },
   {
    "id": "google-deepmind-google-deepmind-releases-alphagenome",
    "title": "Google DeepMind Releases AlphaGenome Atlas",
@@ -26,7 +152,7 @@
       "amount": 1.5
      },
      {
-      "label": "294 points of reader attention",
+      "label": "422 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -35,7 +161,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -56,7 +182,69 @@
      "publisherDomain": "blog.google",
      "kind": "primary",
      "date": "2026-09-08T14:55:45.000Z",
-     "points": 294,
+     "points": 422,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-agents-muse-meta-personal-agent",
+   "title": "Muse: Meta's personal AI agent, features and capabilities",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 4.8,
+    "factors": [
+     {
+      "label": "Primary source (ai.meta.com)",
+      "amount": 1.5
+     },
+     {
+      "label": "171 points of reader attention",
+      "amount": 0.8
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T19:25:00.000Z",
+   "latestAt": "2026-09-08T19:25:00.000Z",
+   "primary": {
+    "publisher": "ai.meta.com",
+    "link": "https://ai.meta.com/muse/",
+    "title": "Muse: Meta's personal AI agent, features and capabilities"
+   },
+   "sources": [
+    {
+     "title": "Muse: Meta's personal AI agent, features and capabilities",
+     "link": "https://ai.meta.com/muse/",
+     "publisher": "ai.meta.com",
+     "publisherDomain": "ai.meta.com",
+     "kind": "primary",
+     "date": "2026-09-08T19:25:00.000Z",
+     "points": 171,
      "summary": ""
     }
    ]
@@ -76,15 +264,15 @@
     }
    ],
    "importance": {
-    "score": 4.7,
+    "score": 4.8,
     "factors": [
      {
       "label": "Primary source (GitHub)",
       "amount": 1.5
      },
      {
-      "label": "131 points of reader attention",
-      "amount": 0.7
+      "label": "235 points of reader attention",
+      "amount": 0.8
      }
     ]
    },
@@ -92,7 +280,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -113,7 +301,7 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-09-08T14:13:26.000Z",
-     "points": 131,
+     "points": 235,
      "summary": ""
     }
    ]
@@ -154,7 +342,7 @@
     "level": "Highly likely",
     "why": "Two independent outlets"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -211,7 +399,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -432,8 +620,8 @@
    ]
   },
   {
-   "id": "alien-mind",
-   "title": "An Alien Mind",
+   "id": "1password-increases-engineering-productivity",
+   "title": "1Password increases engineering productivity 21% with Codex",
    "category": {
     "id": "general",
     "name": "Developments"
@@ -454,6 +642,112 @@
    },
    "status": "confirmed",
    "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T00:00:00.000Z",
+   "latestAt": "2026-09-08T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/1password",
+    "title": "1Password increases engineering productivity 21% with Codex"
+   },
+   "sources": [
+    {
+     "title": "1Password increases engineering productivity 21% with Codex",
+     "link": "https://openai.com/index/1password",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-08T00:00:00.000Z",
+     "points": null,
+     "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies."
+    }
+   ]
+  },
+  {
+   "id": "claude-hackers-stealing-claude-tokens",
+   "title": "Hackers are stealing Claude tokens from subscribers",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.7,
+    "factors": [
+     {
+      "label": "Security",
+      "amount": 0.6
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T21:10:27.000Z",
+   "latestAt": "2026-09-08T21:10:27.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Hackers are stealing Claude tokens from subscribers",
+     "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-08T21:10:27.000Z",
+     "points": null,
+     "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers."
+    }
+   ]
+  },
+  {
+   "id": "alien-mind",
+   "title": "An Alien Mind",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.5,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [
+    "Importance fell 0.5 to 3.5."
+   ],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -536,70 +830,8 @@
    ]
   },
   {
-   "id": "google-gemini-hikers-rescued-after-using",
-   "title": "Hikers rescued after using Google Gemini for planning",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    },
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 3.4,
-    "factors": [
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-05T19:35:24.000Z",
-   "latestAt": "2026-09-05T19:35:24.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Hikers rescued after using Google Gemini for planning",
-     "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-05T19:35:24.000Z",
-     "points": null,
-     "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
-    }
-   ]
-  },
-  {
-   "id": "anthropic-copyright-class-action-lawsuit-questions",
-   "title": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+   "id": "anthropic-power-users-claim-anthropic",
+   "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
    "category": {
     "id": "policy",
     "name": "Policy & Regulation"
@@ -609,11 +841,6 @@
      "id": "anthropic",
      "name": "Anthropic",
      "kind": "org"
-    },
-    {
-     "id": "copyright",
-     "name": "AI & Copyright",
-     "kind": "topic"
     }
    ],
    "importance": {
@@ -640,7 +867,7 @@
    "primary": null,
    "sources": [
     {
-     "title": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+     "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
      "publisher": "The Verge",
      "publisherDomain": "theverge.com",
@@ -652,43 +879,19 @@
    ]
   },
   {
-   "id": "microsoft-openai-copyright-seattle-times-newsday-latest",
-   "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+   "id": "exploration-hacking-debate-initial",
+   "title": "Exploration Hacking in AI Debate: Initial Empirics and Generalisation Splitting",
    "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
+    "id": "security",
+    "name": "Security"
    },
-   "entities": [
-    {
-     "id": "microsoft",
-     "name": "Microsoft",
-     "kind": "org"
-    },
-    {
-     "id": "copyright",
-     "name": "AI & Copyright",
-     "kind": "topic"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
+   "entities": [],
    "importance": {
-    "score": 3,
+    "score": 3.1,
     "factors": [
      {
-      "label": "Policy & Regulation",
+      "label": "Security",
       "amount": 0.6
-     },
-     {
-      "label": "Involves multiple organisations",
-      "amount": 0.4
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
      }
     ]
    },
@@ -696,25 +899,74 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "developing",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-05T22:49:55.000Z",
-   "latestAt": "2026-09-05T22:49:55.000Z",
+   "publishedAt": "2026-09-08T19:13:05.000Z",
+   "latestAt": "2026-09-08T19:13:05.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-     "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+     "title": "Exploration Hacking in AI Debate: Initial Empirics and Generalisation Splitting",
+     "link": "https://www.lesswrong.com/posts/xjwtNid2xjqSJWB7z/exploration-hacking-in-ai-debate-initial-empirics-and",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-08T19:13:05.000Z",
+     "points": null,
+     "summary": "This is the first of two posts resulting from a recent Astra/MATS research project investigating exploration hacking in AI debate. They are designed to be standalone…"
+    }
+   ]
+  },
+  {
+   "id": "funding-cognition-hits-valuation-signaling",
+   "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    }
+   ],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Business",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T21:04:06.000Z",
+   "latestAt": "2026-09-08T21:04:06.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+     "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
      "publisher": "TechCrunch",
      "publisherDomain": "techcrunch.com",
      "kind": "coverage",
-     "date": "2026-09-05T22:49:55.000Z",
+     "date": "2026-09-08T21:04:06.000Z",
      "points": null,
-     "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+     "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX."
     }
    ]
   },
@@ -745,7 +997,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -764,55 +1016,6 @@
      "date": "2026-09-08T16:20:31.000Z",
      "points": null,
      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks."
-    }
-   ]
-  },
-  {
-   "id": "safety-psychological-support-safety-researchers",
-   "title": "Psychological Support for AI Safety Researchers Is Neglected and Easy to Provide",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "importance": {
-    "score": 2.8,
-    "factors": [
-     {
-      "label": "Research",
-      "amount": 0.3
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-08T13:19:02.000Z",
-   "latestAt": "2026-09-08T13:19:02.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Psychological Support for AI Safety Researchers Is Neglected and Easy to Provide",
-     "link": "https://www.lesswrong.com/posts/TuHhSxGYgSudKeDtb/psychological-support-for-ai-safety-researchers-is-neglected",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-08T13:19:02.000Z",
-     "points": null,
-     "summary": "I think there is a big chunk of relatively low-hanging-fruit-style neglected work useful for AI safety which I can roughly label as “psychological help for AI…"
     }
    ]
   },
@@ -843,7 +1046,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
