@@ -1,109 +1,9 @@
 {
  "date": "2026-09-08",
- "generated": "2026-09-08T01:05:35.634Z",
- "headline": "8 developments today. The most significant is developments: Secure temporary file sharing for AI agents and humans",
- "stats": "22 sources monitored · 2637 items read · 37 on-topic · 8 distinct developments · 4 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-08T05:52:43.979Z",
+ "headline": "7 developments today. The most significant is developments: Supporting independent journalism in Ukraine",
+ "stats": "22 sources monitored · 2637 items read · 38 on-topic · 7 distinct developments · 2 with a primary source · 1 independently corroborated",
  "events": [
-  {
-   "id": "agents-secure-temporary-file-sharing",
-   "title": "Secure temporary file sharing for AI agents and humans",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (GitHub)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "emerging",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-07T23:59:58.000Z",
-   "latestAt": "2026-09-07T23:59:58.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/aispace-sh/aispace-client",
-    "title": "Secure temporary file sharing for AI agents and humans"
-   },
-   "sources": [
-    {
-     "title": "Secure temporary file sharing for AI agents and humans",
-     "link": "https://github.com/aispace-sh/aispace-client",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-09-07T23:59:58.000Z",
-     "points": 7,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "weathernext-most-advanced-global",
-   "title": "WeatherNext 3: Our most advanced global weather AI model",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (Google)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "emerging",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-07T23:56:41.000Z",
-   "latestAt": "2026-09-07T23:56:41.000Z",
-   "primary": {
-    "publisher": "Google",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
-    "title": "WeatherNext 3: Our most advanced global weather AI model"
-   },
-   "sources": [
-    {
-     "title": "WeatherNext 3: Our most advanced global weather AI model",
-     "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
-     "publisher": "Google",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-09-07T23:56:41.000Z",
-     "points": 6,
-     "summary": ""
-    }
-   ]
-  },
   {
    "id": "supporting-independent-journalism-ukraine",
    "title": "Supporting independent journalism in Ukraine",
@@ -341,10 +241,7 @@
     "why": "Two independent outlets"
    },
    "status": "developing",
-   "deltas": [
-    "Importance fell 1 to 3.7.",
-    "Confidence moved from Confirmed to Highly likely."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 2,
@@ -435,6 +332,63 @@
      "date": "2026-09-06T23:36:04.000Z",
      "points": null,
      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their…"
+    }
+   ]
+  },
+  {
+   "id": "claude-powering-mobile-agents-instinct",
+   "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.1,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-08T04:36:26.000Z",
+   "latestAt": "2026-09-08T04:36:26.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+     "link": "https://rohanadwankar.github.io/posts/platforms.html",
+     "publisher": "GitHub Pages",
+     "publisherDomain": "rohanadwankar.github.io",
+     "kind": "discussion",
+     "date": "2026-09-08T04:36:26.000Z",
+     "points": 8,
+     "summary": ""
     }
    ]
   }
