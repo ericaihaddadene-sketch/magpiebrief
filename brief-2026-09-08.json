@@ -1,12 +1,126 @@
 {
  "date": "2026-09-08",
- "generated": "2026-09-08T15:02:58.146Z",
- "headline": "11 developments today. The most significant is business: Mistral raises €3B",
- "stats": "22 sources monitored · 2640 items read · 49 on-topic · 11 distinct developments · 7 with a primary source · 0 independently corroborated",
+ "generated": "2026-09-08T18:30:01.422Z",
+ "headline": "16 developments today. The most significant is developments: Google DeepMind Releases AlphaGenome Atlas",
+ "stats": "22 sources monitored · 2642 items read · 54 on-topic · 16 distinct developments · 8 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "mistral-funding-mistral-raises",
-   "title": "Mistral raises €3B",
+   "id": "google-deepmind-google-deepmind-releases-alphagenome",
+   "title": "Google DeepMind Releases AlphaGenome Atlas",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "google-deepmind",
+     "name": "Google DeepMind",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 4.9,
+    "factors": [
+     {
+      "label": "Primary source (Google)",
+      "amount": 1.5
+     },
+     {
+      "label": "294 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T14:55:45.000Z",
+   "latestAt": "2026-09-08T14:55:45.000Z",
+   "primary": {
+    "publisher": "Google",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "title": "Google DeepMind Releases AlphaGenome Atlas"
+   },
+   "sources": [
+    {
+     "title": "Google DeepMind Releases AlphaGenome Atlas",
+     "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+     "publisher": "Google",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-08T14:55:45.000Z",
+     "points": 294,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "coding-agents-have-adhd-skill-stop",
+   "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "coding-agents",
+     "name": "Coding Agents",
+     "kind": "topic"
+    }
+   ],
+   "importance": {
+    "score": 4.7,
+    "factors": [
+     {
+      "label": "Primary source (GitHub)",
+      "amount": 1.5
+     },
+     {
+      "label": "131 points of reader attention",
+      "amount": 0.7
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T14:13:26.000Z",
+   "latestAt": "2026-09-08T14:13:26.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/ayghri/i-have-adhd",
+    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer"
+   },
+   "sources": [
+    {
+     "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+     "link": "https://github.com/ayghri/i-have-adhd",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-08T14:13:26.000Z",
+     "points": 131,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "mistral-funding-mistral-raises-valuation-another",
+   "title": "Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round",
    "category": {
     "id": "business",
     "name": "Business"
@@ -24,19 +138,72 @@
     }
    ],
    "importance": {
-    "score": 5.4,
+    "score": 4.6,
     "factors": [
      {
-      "label": "Primary source (mistral.ai)",
+      "label": "2 independent outlets",
+      "amount": 1.7
+     },
+     {
+      "label": "Business",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Highly likely",
+    "why": "Two independent outlets"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-08T14:17:48.000Z",
+   "latestAt": "2026-09-08T18:02:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round",
+     "link": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-09-08T18:02:38.000Z",
+     "points": null,
+     "summary": "Paris-based generative AI startup Mistral AI said Tuesday that it has nearly doubled its valuation to more than $24 billion with a Samsung Electronics-led $3.5 billion…"
+    },
+    {
+     "title": "Mistral raises €3B as sovereign AI becomes big business",
+     "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-08T14:17:48.000Z",
+     "points": null,
+     "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity."
+    }
+   ]
+  },
+  {
+   "id": "funding-grants-research-into",
+   "title": "Funding grants for new research into AI and teen development",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4.4,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
       "amount": 1.5
      },
      {
       "label": "Business",
       "amount": 0.4
-     },
-     {
-      "label": "656 points of reader attention",
-      "amount": 1
      }
     ]
    },
@@ -44,82 +211,29 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "confirmed",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-08T05:06:23.000Z",
-   "latestAt": "2026-09-08T05:06:23.000Z",
+   "publishedAt": "2026-09-08T09:00:00.000Z",
+   "latestAt": "2026-09-08T09:00:00.000Z",
    "primary": {
-    "publisher": "mistral.ai",
-    "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-    "title": "Mistral raises €3B"
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/teen-development-research-grants",
+    "title": "Funding grants for new research into AI and teen development"
    },
    "sources": [
     {
-     "title": "Mistral raises €3B",
-     "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-     "publisher": "mistral.ai",
-     "publisherDomain": "mistral.ai",
+     "title": "Funding grants for new research into AI and teen development",
+     "link": "https://openai.com/index/teen-development-research-grants",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
      "kind": "primary",
-     "date": "2026-09-08T05:06:23.000Z",
-     "points": 656,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "multi-agents-financial-trading",
-   "title": "Multi-Agents LLM Financial Trading Framework",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4.7,
-    "factors": [
-     {
-      "label": "Primary source (GitHub)",
-      "amount": 1.5
-     },
-     {
-      "label": "100 points of reader attention",
-      "amount": 0.7
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [
-    "Importance rose 0.7 to 4.7."
-   ],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-08T05:20:23.000Z",
-   "latestAt": "2026-09-08T05:20:23.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/TauricResearch/TradingAgents",
-    "title": "Multi-Agents LLM Financial Trading Framework"
-   },
-   "sources": [
-    {
-     "title": "Multi-Agents LLM Financial Trading Framework",
-     "link": "https://github.com/TauricResearch/TradingAgents",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-09-08T05:20:23.000Z",
-     "points": 100,
-     "summary": ""
+     "date": "2026-09-08T09:00:00.000Z",
+     "points": null,
+     "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
     }
    ]
   },
@@ -144,7 +258,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -191,7 +305,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -238,7 +352,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -400,9 +514,7 @@
     "why": "A single outlet so far"
    },
    "status": "developing",
-   "deltas": [
-    "Importance fell 0.5 to 3.4."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -486,6 +598,60 @@
    ]
   },
   {
+   "id": "anthropic-copyright-class-action-lawsuit-questions",
+   "title": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "copyright",
+     "name": "AI & Copyright",
+     "kind": "topic"
+    }
+   ],
+   "importance": {
+    "score": 3.1,
+    "factors": [
+     {
+      "label": "Policy & Regulation",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T17:27:31.000Z",
+   "latestAt": "2026-09-08T17:27:31.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-08T17:27:31.000Z",
+     "points": null,
+     "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some…"
+    }
+   ]
+  },
+  {
    "id": "microsoft-openai-copyright-seattle-times-newsday-latest",
    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
    "category": {
@@ -553,6 +719,55 @@
    ]
   },
   {
+   "id": "google-google-cloud-races-catch",
+   "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Business",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T16:20:31.000Z",
+   "latestAt": "2026-09-08T16:20:31.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+     "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-08T16:20:31.000Z",
+     "points": null,
+     "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks."
+    }
+   ]
+  },
+  {
    "id": "safety-psychological-support-safety-researchers",
    "title": "Psychological Support for AI Safety Researchers Is Neglected and Easy to Provide",
    "category": {
@@ -579,7 +794,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -598,6 +813,55 @@
      "date": "2026-09-08T13:19:02.000Z",
      "points": null,
      "summary": "I think there is a big chunk of relatively low-hanging-fruit-style neglected work useful for AI safety which I can roughly label as “psychological help for AI…"
+    }
+   ]
+  },
+  {
+   "id": "google-update-google-weather-model",
+   "title": "Update to Google’s AI weather model improves forecast accuracy",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.7,
+    "factors": [
+     {
+      "label": "Tools & Products",
+      "amount": 0.2
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T18:00:56.000Z",
+   "latestAt": "2026-09-08T18:00:56.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Update to Google’s AI weather model improves forecast accuracy",
+     "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-08T18:00:56.000Z",
+     "points": null,
+     "summary": "Like traditional weather models, it benefits from an expanded set of inputs."
     }
    ]
   }
