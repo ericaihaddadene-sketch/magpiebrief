@@ -1,8 +1,8 @@
 {
  "date": "2026-09-09",
- "generated": "2026-09-09T04:22:40.755Z",
+ "generated": "2026-09-09T09:33:49.787Z",
  "headline": "18 developments today. The most significant is new models: ChatGPT Images 2.5",
- "stats": "22 sources monitored · 2645 items read · 64 on-topic · 18 distinct developments · 11 with a primary source · 1 independently corroborated",
+ "stats": "22 sources monitored · 2645 items read · 60 on-topic · 18 distinct developments · 10 with a primary source · 1 independently corroborated",
  "events": [
   {
    "id": "gpt-chatgpt-images",
@@ -34,7 +34,7 @@
       "amount": 0.6
      },
      {
-      "label": "277 points of reader attention",
+      "label": "338 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -43,7 +43,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -64,14 +64,14 @@
      "publisherDomain": "openai.com",
      "kind": "primary",
      "date": "2026-09-08T18:37:51.000Z",
-     "points": 277,
+     "points": 338,
      "summary": ""
     }
    ]
   },
   {
    "id": "gpt-helps-quantum-computing-experiments",
-   "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+   "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
    "category": {
     "id": "models",
     "name": "New Models"
@@ -110,23 +110,23 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-08T17:00:00.000Z",
-   "latestAt": "2026-09-08T17:00:00.000Z",
+   "publishedAt": "2026-09-09T07:22:46.000Z",
+   "latestAt": "2026-09-09T07:22:46.000Z",
    "primary": {
     "publisher": "OpenAI",
-    "link": "https://openai.com/index/codex-quantum-computing-experiments",
-    "title": "How GPT-5.6 Sol helps run quantum computing experiments"
+    "link": "https://openai.com/index/codex-quantum-computing-experiments/",
+    "title": "How GPT‑5.6 Sol helps run quantum computing experiments"
    },
    "sources": [
     {
-     "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-     "link": "https://openai.com/index/codex-quantum-computing-experiments",
+     "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+     "link": "https://openai.com/index/codex-quantum-computing-experiments/",
      "publisher": "OpenAI",
      "publisherDomain": "openai.com",
      "kind": "primary",
-     "date": "2026-09-08T17:00:00.000Z",
-     "points": null,
-     "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
+     "date": "2026-09-09T07:22:46.000Z",
+     "points": 45,
+     "summary": ""
     }
    ]
   },
@@ -157,7 +157,7 @@
       "amount": 1.5
      },
      {
-      "label": "372 points of reader attention",
+      "label": "497 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -187,7 +187,7 @@
      "publisherDomain": "ai.meta.com",
      "kind": "primary",
      "date": "2026-09-08T19:25:00.000Z",
-     "points": 372,
+     "points": 497,
      "summary": ""
     }
    ]
@@ -214,7 +214,7 @@
       "amount": 1.5
      },
      {
-      "label": "352 points of reader attention",
+      "label": "436 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -244,7 +244,7 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-09-08T14:13:26.000Z",
-     "points": 352,
+     "points": 436,
      "summary": ""
     }
    ]
@@ -610,6 +610,59 @@
    ]
   },
   {
+   "id": "gpt-astra-multi-reasoning-without",
+   "title": "GPT-6 Astra can do a lot of multi-hop reasoning without chain of thought",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.9,
+    "factors": [
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T05:15:19.000Z",
+   "latestAt": "2026-09-09T05:15:19.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "GPT-6 Astra can do a lot of multi-hop reasoning without chain of thought",
+     "link": "https://www.lesswrong.com/posts/FsCkkoGsNmPzFKRhg/gpt-6-astra-can-do-a-lot-of-multi-hop-reasoning-without",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-09T05:15:19.000Z",
+     "points": null,
+     "summary": "This is a link post for . I recommend reading there for the best experience because it's easier to engage with this post when you can…"
+    }
+   ]
+  },
+  {
    "id": "claude-hackers-stealing-claude-tokens",
    "title": "Hackers are stealing Claude tokens from subscribers",
    "category": {
@@ -663,57 +716,6 @@
    ]
   },
   {
-   "id": "alien-mind",
-   "title": "An Alien Mind",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 3.5,
-    "factors": [
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-06T09:00:00.000Z",
-   "latestAt": "2026-09-06T09:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/an-alien-mind",
-    "title": "An Alien Mind"
-   },
-   "sources": [
-    {
-     "title": "An Alien Mind",
-     "link": "https://openai.com/index/an-alien-mind",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-06T09:00:00.000Z",
-     "points": null,
-     "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
-    }
-   ]
-  },
-  {
    "id": "anthropic-power-users-claim-anthropic",
    "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
    "category": {
@@ -759,49 +761,6 @@
      "date": "2026-09-08T17:27:31.000Z",
      "points": null,
      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some…"
-    }
-   ]
-  },
-  {
-   "id": "exploration-hacking-debate-initial",
-   "title": "Exploration Hacking in AI Debate: Initial Empirics and Generalisation Splitting",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [],
-   "importance": {
-    "score": 3.1,
-    "factors": [
-     {
-      "label": "Security",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-08T19:13:05.000Z",
-   "latestAt": "2026-09-08T19:13:05.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Exploration Hacking in AI Debate: Initial Empirics and Generalisation Splitting",
-     "link": "https://www.lesswrong.com/posts/xjwtNid2xjqSJWB7z/exploration-hacking-in-ai-debate-initial-empirics-and",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-08T19:13:05.000Z",
-     "points": null,
-     "summary": "This is the first of two posts resulting from a recent Astra/MATS research project investigating exploration hacking in AI debate. They are designed to be standalone…"
     }
    ]
   },
@@ -949,6 +908,53 @@
      "date": "2026-09-08T18:00:56.000Z",
      "points": null,
      "summary": "Like traditional weather models, it benefits from an expanded set of inputs."
+    }
+   ]
+  },
+  {
+   "id": "open-math-problems-being",
+   "title": "Tao: Open math problems being non-renewably mined by AI",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.6,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "360 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-08T21:00:52.000Z",
+   "latestAt": "2026-09-08T21:00:52.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Tao: Open math problems being non-renewably mined by AI",
+     "link": "https://mathstodon.xyz/@tao/117237320796901560",
+     "publisher": "mathstodon.xyz",
+     "publisherDomain": "mathstodon.xyz",
+     "kind": "discussion",
+     "date": "2026-09-08T21:00:52.000Z",
+     "points": 360,
+     "summary": ""
     }
    ]
   }

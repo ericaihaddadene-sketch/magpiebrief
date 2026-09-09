@@ -15,7 +15,7 @@
  },
  "gpt-helps-quantum-computing-experiments": {
   "id": "gpt-helps-quantum-computing-experiments",
-  "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+  "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
   "firstSeen": "2026-09-08T21:45:18.840Z",
   "publishers": [
    "OpenAI"
@@ -154,6 +154,20 @@
   "confidence": "Confirmed",
   "category": "general"
  },
+ "gpt-astra-multi-reasoning-without": {
+  "id": "gpt-astra-multi-reasoning-without",
+  "title": "GPT-6 Astra can do a lot of multi-hop reasoning without chain of thought",
+  "firstSeen": "2026-09-09T09:33:49.744Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.9,
+  "confidence": "Developing",
+  "category": "models"
+ },
  "claude-hackers-stealing-claude-tokens": {
   "id": "claude-hackers-stealing-claude-tokens",
   "title": "Hackers are stealing Claude tokens from subscribers",
@@ -168,20 +182,6 @@
   "confidence": "Developing",
   "category": "security"
  },
- "alien-mind": {
-  "id": "alien-mind",
-  "title": "An Alien Mind",
-  "firstSeen": "2026-09-07T15:46:30.030Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 3.5,
-  "confidence": "Confirmed",
-  "category": "general"
- },
  "anthropic-power-users-claim-anthropic": {
   "id": "anthropic-power-users-claim-anthropic",
   "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
@@ -195,20 +195,6 @@
   "importance": 3.1,
   "confidence": "Developing",
   "category": "policy"
- },
- "exploration-hacking-debate-initial": {
-  "id": "exploration-hacking-debate-initial",
-  "title": "Exploration Hacking in AI Debate: Initial Empirics and Generalisation Splitting",
-  "firstSeen": "2026-09-08T21:45:18.840Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.1,
-  "confidence": "Developing",
-  "category": "security"
  },
  "funding-cognition-hits-valuation-signaling": {
   "id": "funding-cognition-hits-valuation-signaling",
@@ -251,5 +237,19 @@
   "importance": 2.7,
   "confidence": "Developing",
   "category": "tools"
+ },
+ "open-math-problems-being": {
+  "id": "open-math-problems-being",
+  "title": "Tao: Open math problems being non-renewably mined by AI",
+  "firstSeen": "2026-09-09T09:33:49.744Z",
+  "publishers": [
+   "mathstodon.xyz"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 2.6,
+  "confidence": "Unverified",
+  "category": "general"
  }
 }
