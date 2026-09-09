@@ -1,0 +1,944 @@
+{
+ "date": "2026-09-09",
+ "generated": "2026-09-09T00:00:27.030Z",
+ "headline": "18 developments today. The most significant is new models: How GPT-5.6 Sol helps run quantum computing experiments",
+ "stats": "22 sources monitored · 2645 items read · 59 on-topic · 18 distinct developments · 10 with a primary source · 1 independently corroborated",
+ "events": [
+  {
+   "id": "gpt-helps-quantum-computing-experiments",
+   "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 5.4,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T17:00:00.000Z",
+   "latestAt": "2026-09-08T17:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/codex-quantum-computing-experiments",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments"
+   },
+   "sources": [
+    {
+     "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+     "link": "https://openai.com/index/codex-quantum-computing-experiments",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-08T17:00:00.000Z",
+     "points": null,
+     "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
+    }
+   ]
+  },
+  {
+   "id": "coding-agents-have-adhd-skill-stop",
+   "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "coding-agents",
+     "name": "Coding Agents",
+     "kind": "topic"
+    }
+   ],
+   "importance": {
+    "score": 4.9,
+    "factors": [
+     {
+      "label": "Primary source (GitHub)",
+      "amount": 1.5
+     },
+     {
+      "label": "290 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T14:13:26.000Z",
+   "latestAt": "2026-09-08T14:13:26.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/ayghri/i-have-adhd",
+    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer"
+   },
+   "sources": [
+    {
+     "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+     "link": "https://github.com/ayghri/i-have-adhd",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-08T14:13:26.000Z",
+     "points": 290,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-agents-muse-meta-personal-agent",
+   "title": "Muse: Meta's personal AI agent, features and capabilities",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 4.8,
+    "factors": [
+     {
+      "label": "Primary source (ai.meta.com)",
+      "amount": 1.5
+     },
+     {
+      "label": "211 points of reader attention",
+      "amount": 0.8
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T19:25:00.000Z",
+   "latestAt": "2026-09-08T19:25:00.000Z",
+   "primary": {
+    "publisher": "ai.meta.com",
+    "link": "https://ai.meta.com/muse/",
+    "title": "Muse: Meta's personal AI agent, features and capabilities"
+   },
+   "sources": [
+    {
+     "title": "Muse: Meta's personal AI agent, features and capabilities",
+     "link": "https://ai.meta.com/muse/",
+     "publisher": "ai.meta.com",
+     "publisherDomain": "ai.meta.com",
+     "kind": "primary",
+     "date": "2026-09-08T19:25:00.000Z",
+     "points": 211,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "mistral-funding-mistral-raises-valuation-another",
+   "title": "Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "mistral",
+     "name": "Mistral",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 4.6,
+    "factors": [
+     {
+      "label": "2 independent outlets",
+      "amount": 1.7
+     },
+     {
+      "label": "Business",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Highly likely",
+    "why": "Two independent outlets"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-08T14:17:48.000Z",
+   "latestAt": "2026-09-08T18:02:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round",
+     "link": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-09-08T18:02:38.000Z",
+     "points": null,
+     "summary": "Paris-based generative AI startup Mistral AI said Tuesday that it has nearly doubled its valuation to more than $24 billion with a Samsung Electronics-led $3.5 billion…"
+    },
+    {
+     "title": "Mistral raises €3B as sovereign AI becomes big business",
+     "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-08T14:17:48.000Z",
+     "points": null,
+     "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity."
+    }
+   ]
+  },
+  {
+   "id": "funding-grants-research-into",
+   "title": "Funding grants for new research into AI and teen development",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4.4,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "Business",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T09:00:00.000Z",
+   "latestAt": "2026-09-08T09:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/teen-development-research-grants",
+    "title": "Funding grants for new research into AI and teen development"
+   },
+   "sources": [
+    {
+     "title": "Funding grants for new research into AI and teen development",
+     "link": "https://openai.com/index/teen-development-research-grants",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-08T09:00:00.000Z",
+     "points": null,
+     "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
+    }
+   ]
+  },
+  {
+   "id": "alphagenome-atlas-predictive-every",
+   "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (Google DeepMind)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T14:00:15.000Z",
+   "latestAt": "2026-09-08T14:00:15.000Z",
+   "primary": {
+    "publisher": "Google DeepMind",
+    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome"
+   },
+   "sources": [
+    {
+     "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+     "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+     "publisher": "Google DeepMind",
+     "publisherDomain": "deepmind.google",
+     "kind": "primary",
+     "date": "2026-09-08T14:00:15.000Z",
+     "points": null,
+     "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
+    }
+   ]
+  },
+  {
+   "id": "work-within-reach",
+   "title": "The Work Now Within Reach",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T13:00:00.000Z",
+   "latestAt": "2026-09-08T13:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/the-work-now-within-reach",
+    "title": "The Work Now Within Reach"
+   },
+   "sources": [
+    {
+     "title": "The Work Now Within Reach",
+     "link": "https://openai.com/index/the-work-now-within-reach",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-08T13:00:00.000Z",
+     "points": null,
+     "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
+    }
+   ]
+  },
+  {
+   "id": "safety-whom-refusing-right",
+   "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (Hugging Face)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T14:23:07.000Z",
+   "latestAt": "2026-09-08T14:23:07.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic"
+   },
+   "sources": [
+    {
+     "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+     "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-09-08T14:23:07.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "openai-openai-expands-initiatives-support",
+   "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T00:00:00.000Z",
+   "latestAt": "2026-09-08T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms"
+   },
+   "sources": [
+    {
+     "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+     "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-08T00:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations."
+    }
+   ]
+  },
+  {
+   "id": "1password-increases-engineering-productivity",
+   "title": "1Password increases engineering productivity 21% with Codex",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T00:00:00.000Z",
+   "latestAt": "2026-09-08T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/1password",
+    "title": "1Password increases engineering productivity 21% with Codex"
+   },
+   "sources": [
+    {
+     "title": "1Password increases engineering productivity 21% with Codex",
+     "link": "https://openai.com/index/1password",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-08T00:00:00.000Z",
+     "points": null,
+     "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies."
+    }
+   ]
+  },
+  {
+   "id": "gpt-introducing-chatgpt-images",
+   "title": "Introducing ChatGPT Images 2.5",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.9,
+    "factors": [
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T22:46:33.000Z",
+   "latestAt": "2026-09-08T22:46:33.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Introducing ChatGPT Images 2.5",
+     "link": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-08T22:46:33.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "claude-hackers-stealing-claude-tokens",
+   "title": "Hackers are stealing Claude tokens from subscribers",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.7,
+    "factors": [
+     {
+      "label": "Security",
+      "amount": 0.6
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T21:10:27.000Z",
+   "latestAt": "2026-09-08T21:10:27.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Hackers are stealing Claude tokens from subscribers",
+     "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-08T21:10:27.000Z",
+     "points": null,
+     "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers."
+    }
+   ]
+  },
+  {
+   "id": "alien-mind",
+   "title": "An Alien Mind",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.5,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-06T09:00:00.000Z",
+   "latestAt": "2026-09-06T09:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/an-alien-mind",
+    "title": "An Alien Mind"
+   },
+   "sources": [
+    {
+     "title": "An Alien Mind",
+     "link": "https://openai.com/index/an-alien-mind",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-06T09:00:00.000Z",
+     "points": null,
+     "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
+    }
+   ]
+  },
+  {
+   "id": "anthropic-power-users-claim-anthropic",
+   "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 3.1,
+    "factors": [
+     {
+      "label": "Policy & Regulation",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T17:27:31.000Z",
+   "latestAt": "2026-09-08T17:27:31.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-08T17:27:31.000Z",
+     "points": null,
+     "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some…"
+    }
+   ]
+  },
+  {
+   "id": "exploration-hacking-debate-initial",
+   "title": "Exploration Hacking in AI Debate: Initial Empirics and Generalisation Splitting",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.1,
+    "factors": [
+     {
+      "label": "Security",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T19:13:05.000Z",
+   "latestAt": "2026-09-08T19:13:05.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Exploration Hacking in AI Debate: Initial Empirics and Generalisation Splitting",
+     "link": "https://www.lesswrong.com/posts/xjwtNid2xjqSJWB7z/exploration-hacking-in-ai-debate-initial-empirics-and",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-08T19:13:05.000Z",
+     "points": null,
+     "summary": "This is the first of two posts resulting from a recent Astra/MATS research project investigating exploration hacking in AI debate. They are designed to be standalone…"
+    }
+   ]
+  },
+  {
+   "id": "funding-cognition-hits-valuation-signaling",
+   "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    }
+   ],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Business",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T21:04:06.000Z",
+   "latestAt": "2026-09-08T21:04:06.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+     "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-08T21:04:06.000Z",
+     "points": null,
+     "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX."
+    }
+   ]
+  },
+  {
+   "id": "google-google-cloud-races-catch",
+   "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Business",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T16:20:31.000Z",
+   "latestAt": "2026-09-08T16:20:31.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+     "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-08T16:20:31.000Z",
+     "points": null,
+     "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks."
+    }
+   ]
+  },
+  {
+   "id": "google-update-google-weather-model",
+   "title": "Update to Google’s AI weather model improves forecast accuracy",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.7,
+    "factors": [
+     {
+      "label": "Tools & Products",
+      "amount": 0.2
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T18:00:56.000Z",
+   "latestAt": "2026-09-08T18:00:56.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Update to Google’s AI weather model improves forecast accuracy",
+     "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-08T18:00:56.000Z",
+     "points": null,
+     "summary": "Like traditional weather models, it benefits from an expanded set of inputs."
+    }
+   ]
+  }
+ ]
+}
