@@ -1,12 +1,153 @@
 {
  "date": "2026-09-09",
- "generated": "2026-09-09T14:22:12.799Z",
- "headline": "25 developments today. The most significant is new models: How GPT‑5.6 Sol helps run quantum computing experiments",
- "stats": "22 sources monitored · 2645 items read · 73 on-topic · 25 distinct developments · 9 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-09T18:29:36.996Z",
+ "headline": "25 developments today. The most significant is new models: Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+ "stats": "22 sources monitored · 2646 items read · 74 on-topic · 25 distinct developments · 13 with a primary source · 0 independently corroborated",
  "events": [
   {
+   "id": "gpt-qwen-qwen-follows-reasoning-prefills",
+   "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    },
+    {
+     "id": "qwen",
+     "name": "Qwen",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 6.2,
+    "factors": [
+     {
+      "label": "Primary source (GitHub)",
+      "amount": 1.5
+     },
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     },
+     {
+      "label": "185 points of reader attention",
+      "amount": 0.8
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 2,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T14:37:47.000Z",
+   "latestAt": "2026-09-09T17:24:28.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+    "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills"
+   },
+   "sources": [
+    {
+     "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+     "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+     "publisher": "GitHub",
+     "publisherDomain": "gist.github.com",
+     "kind": "primary",
+     "date": "2026-09-09T17:24:28.000Z",
+     "points": 43,
+     "summary": ""
+    },
+    {
+     "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+     "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+     "publisher": "Ahead of AI",
+     "publisherDomain": "magazine.sebastianraschka.com",
+     "kind": "discussion",
+     "date": "2026-09-09T14:37:47.000Z",
+     "points": 185,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "claude-show-self-hosted-company",
+   "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 5.4,
+    "factors": [
+     {
+      "label": "Primary source (GitHub)",
+      "amount": 1.5
+     },
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T17:57:55.000Z",
+   "latestAt": "2026-09-09T17:57:55.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/OtoDock/oto-dock",
+    "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments"
+   },
+   "sources": [
+    {
+     "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+     "link": "https://github.com/OtoDock/oto-dock",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-09T17:57:55.000Z",
+     "points": 4,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "gpt-helps-quantum-computing-experiments",
-   "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+   "title": "How GPT-5.6 Sol helps run quantum computing experiments",
    "category": {
     "id": "models",
     "name": "New Models"
@@ -19,7 +160,7 @@
     }
    ],
    "importance": {
-    "score": 6.1,
+    "score": 5.4,
     "factors": [
      {
       "label": "Primary source (OpenAI)",
@@ -32,10 +173,6 @@
      {
       "label": "Names a specific model",
       "amount": 0.6
-     },
-     {
-      "label": "107 points of reader attention",
-      "amount": 0.7
      }
     ]
    },
@@ -45,61 +182,50 @@
    },
    "status": "confirmed",
    "deltas": [
-    "Importance rose 0.7 to 6.1."
+    "Importance fell 0.7 to 5.4."
    ],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-09T07:22:46.000Z",
-   "latestAt": "2026-09-09T07:22:46.000Z",
+   "publishedAt": "2026-09-08T17:00:00.000Z",
+   "latestAt": "2026-09-08T17:00:00.000Z",
    "primary": {
     "publisher": "OpenAI",
-    "link": "https://openai.com/index/codex-quantum-computing-experiments/",
-    "title": "How GPT‑5.6 Sol helps run quantum computing experiments"
+    "link": "https://openai.com/index/codex-quantum-computing-experiments",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments"
    },
    "sources": [
     {
-     "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-     "link": "https://openai.com/index/codex-quantum-computing-experiments/",
+     "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+     "link": "https://openai.com/index/codex-quantum-computing-experiments",
      "publisher": "OpenAI",
      "publisherDomain": "openai.com",
      "kind": "primary",
-     "date": "2026-09-09T07:22:46.000Z",
-     "points": 107,
-     "summary": ""
+     "date": "2026-09-08T17:00:00.000Z",
+     "points": null,
+     "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
     }
    ]
   },
   {
-   "id": "meta-ai-agents-muse-meta-personal-agent",
-   "title": "Muse – Meta’s personal AI agent",
+   "id": "releases-sota-granite-time",
+   "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
    "category": {
-    "id": "general",
-    "name": "Developments"
+    "id": "models",
+    "name": "New Models"
    },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
+   "entities": [],
    "importance": {
-    "score": 5,
+    "score": 4.8,
     "factors": [
      {
-      "label": "Primary source (ai.meta.com)",
+      "label": "Primary source (Hugging Face)",
       "amount": 1.5
      },
      {
-      "label": "570 points of reader attention",
-      "amount": 1
+      "label": "New Models",
+      "amount": 0.8
      }
     ]
    },
@@ -107,97 +233,29 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "confirmed",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-08T19:25:00.000Z",
-   "latestAt": "2026-09-08T19:25:00.000Z",
+   "publishedAt": "2026-09-09T15:36:24.000Z",
+   "latestAt": "2026-09-09T15:36:24.000Z",
    "primary": {
-    "publisher": "ai.meta.com",
-    "link": "https://ai.meta.com/muse/",
-    "title": "Muse – Meta’s personal AI agent"
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license"
    },
    "sources": [
     {
-     "title": "Muse – Meta’s personal AI agent",
-     "link": "https://ai.meta.com/muse/",
-     "publisher": "ai.meta.com",
-     "publisherDomain": "ai.meta.com",
+     "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+     "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
      "kind": "primary",
-     "date": "2026-09-08T19:25:00.000Z",
-     "points": 570,
+     "date": "2026-09-09T15:36:24.000Z",
+     "points": null,
      "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "mistral-funding-mistral-raises-valuation-another",
-   "title": "Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "mistral",
-     "name": "Mistral",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 4.6,
-    "factors": [
-     {
-      "label": "2 independent outlets",
-      "amount": 1.7
-     },
-     {
-      "label": "Business",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Highly likely",
-    "why": "Two independent outlets"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-08T14:17:48.000Z",
-   "latestAt": "2026-09-08T18:02:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round",
-     "link": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/",
-     "publisher": "Crunchbase News",
-     "publisherDomain": "news.crunchbase.com",
-     "kind": "coverage",
-     "date": "2026-09-08T18:02:38.000Z",
-     "points": null,
-     "summary": "Paris-based generative AI startup Mistral AI said Tuesday that it has nearly doubled its valuation to more than $24 billion with a Samsung Electronics-led $3.5 billion…"
-    },
-    {
-     "title": "Mistral raises €3B as sovereign AI becomes big business",
-     "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-08T14:17:48.000Z",
-     "points": null,
-     "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity."
     }
    ]
   },
@@ -253,6 +311,153 @@
    ]
   },
   {
+   "id": "openai-paul-christiano-joins-openai",
+   "title": "Paul Christiano joins OpenAI Foundation Board",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T17:00:00.000Z",
+   "latestAt": "2026-09-09T17:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "title": "Paul Christiano joins OpenAI Foundation Board"
+   },
+   "sources": [
+    {
+     "title": "Paul Christiano joins OpenAI Foundation Board",
+     "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-09T17:00:00.000Z",
+     "points": null,
+     "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
+    }
+   ]
+  },
+  {
+   "id": "ready-game-with-football",
+   "title": "Get ready for the game with new football features in Search",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (Google AI)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T16:00:00.000Z",
+   "latestAt": "2026-09-09T16:00:00.000Z",
+   "primary": {
+    "publisher": "Google AI",
+    "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+    "title": "Get ready for the game with new football features in Search"
+   },
+   "sources": [
+    {
+     "title": "Get ready for the game with new football features in Search",
+     "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-09T16:00:00.000Z",
+     "points": null,
+     "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a…"
+    }
+   ]
+  },
+  {
+   "id": "recreating-year-love-story",
+   "title": "Recreating a 70-year love story frame by frame",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (Google AI)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T16:00:00.000Z",
+   "latestAt": "2026-09-09T16:00:00.000Z",
+   "primary": {
+    "publisher": "Google AI",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+    "title": "Recreating a 70-year love story frame by frame"
+   },
+   "sources": [
+    {
+     "title": "Recreating a 70-year love story frame by frame",
+     "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-09T16:00:00.000Z",
+     "points": null,
+     "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\""
+    }
+   ]
+  },
+  {
    "id": "introducing-cuda-rust-tracks",
    "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
    "category": {
@@ -273,7 +478,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -296,53 +501,6 @@
      "date": "2026-09-09T13:21:19.000Z",
      "points": null,
      "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "alphagenome-atlas-predictive-every",
-   "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (Google DeepMind)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-08T14:00:15.000Z",
-   "latestAt": "2026-09-08T14:00:15.000Z",
-   "primary": {
-    "publisher": "Google DeepMind",
-    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome"
-   },
-   "sources": [
-    {
-     "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-     "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-     "publisher": "Google DeepMind",
-     "publisherDomain": "deepmind.google",
-     "kind": "primary",
-     "date": "2026-09-08T14:00:15.000Z",
-     "points": null,
-     "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
     }
    ]
   },
@@ -541,120 +699,6 @@
    ]
   },
   {
-   "id": "claude-claude-change-cart-button",
-   "title": "Claude, change the \"Add to Cart\" button to blue",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 3.9,
-    "factors": [
-     {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
-     },
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     },
-     {
-      "label": "219 points of reader attention",
-      "amount": 0.8
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
-   },
-   "status": "emerging",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-09T09:39:46.000Z",
-   "latestAt": "2026-09-09T09:39:46.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Claude, change the \"Add to Cart\" button to blue",
-     "link": "https://opusfived.dev/",
-     "publisher": "opusfived.dev",
-     "publisherDomain": "opusfived.dev",
-     "kind": "discussion",
-     "date": "2026-09-09T09:39:46.000Z",
-     "points": 219,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "gpt-astra-looped-transformers-hidden",
-   "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 3.9,
-    "factors": [
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "emerging",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-09T11:14:25.000Z",
-   "latestAt": "2026-09-09T11:14:25.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
-     "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-     "publisher": "Ahead of AI",
-     "publisherDomain": "magazine.sebastianraschka.com",
-     "kind": "coverage",
-     "date": "2026-09-09T11:14:25.000Z",
-     "points": null,
-     "summary": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks"
-    }
-   ]
-  },
-  {
    "id": "gpt-told-chatgpt-feeling-delusional",
    "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
    "category": {
@@ -685,7 +729,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -738,7 +782,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -796,7 +840,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -872,59 +916,6 @@
    ]
   },
   {
-   "id": "claude-hackers-stealing-claude-tokens",
-   "title": "Hackers are stealing Claude tokens from subscribers",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 3.7,
-    "factors": [
-     {
-      "label": "Security",
-      "amount": 0.6
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-08T21:10:27.000Z",
-   "latestAt": "2026-09-08T21:10:27.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Hackers are stealing Claude tokens from subscribers",
-     "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-08T21:10:27.000Z",
-     "points": null,
-     "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers."
-    }
-   ]
-  },
-  {
    "id": "stealth-startup-thinks-just",
    "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
    "category": {
@@ -945,7 +936,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -964,55 +955,6 @@
      "date": "2026-09-09T13:00:00.000Z",
      "points": null,
      "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging."
-    }
-   ]
-  },
-  {
-   "id": "copyright-suno-replaces-models-with",
-   "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "copyright",
-     "name": "AI & Copyright",
-     "kind": "topic"
-    }
-   ],
-   "importance": {
-    "score": 3.1,
-    "factors": [
-     {
-      "label": "Policy & Regulation",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "emerging",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-09T12:05:34.000Z",
-   "latestAt": "2026-09-09T12:05:34.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-     "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-09T12:05:34.000Z",
-     "points": null,
-     "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions…"
     }
    ]
   },
@@ -1037,7 +979,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1091,7 +1033,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1114,8 +1056,8 @@
    ]
   },
   {
-   "id": "funding-cognition-hits-valuation-signaling",
-   "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+   "id": "mistral-funding-mistral-raises-valuation-another",
+   "title": "Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round",
    "category": {
     "id": "business",
     "name": "Business"
@@ -1125,54 +1067,10 @@
      "id": "funding",
      "name": "Funding",
      "kind": "topic"
-    }
-   ],
-   "importance": {
-    "score": 2.9,
-    "factors": [
-     {
-      "label": "Business",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-08T21:04:06.000Z",
-   "latestAt": "2026-09-08T21:04:06.000Z",
-   "primary": null,
-   "sources": [
+    },
     {
-     "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-     "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-08T21:04:06.000Z",
-     "points": null,
-     "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX."
-    }
-   ]
-  },
-  {
-   "id": "google-google-cloud-races-catch",
-   "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
+     "id": "mistral",
+     "name": "Mistral",
      "kind": "org"
     }
    ],
@@ -1190,30 +1088,33 @@
     "why": "A single outlet so far"
    },
    "status": "developing",
-   "deltas": [],
+   "deltas": [
+    "Importance fell 1.7 to 2.9.",
+    "Confidence moved from Highly likely to Developing."
+   ],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-08T16:20:31.000Z",
-   "latestAt": "2026-09-08T16:20:31.000Z",
+   "publishedAt": "2026-09-08T18:02:38.000Z",
+   "latestAt": "2026-09-08T18:02:38.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-     "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
+     "title": "Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round",
+     "link": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
      "kind": "coverage",
-     "date": "2026-09-08T16:20:31.000Z",
+     "date": "2026-09-08T18:02:38.000Z",
      "points": null,
-     "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks."
+     "summary": "Paris-based generative AI startup Mistral AI said Tuesday that it has nearly doubled its valuation to more than $24 billion with a Samsung Electronics-led $3.5 billion…"
     }
    ]
   },
   {
-   "id": "anthropic-worried-anthropic-researchers-warn",
-   "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+   "id": "anthropic-anthropic-researcher-quits-with",
+   "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
    "category": {
     "id": "research",
     "name": "Research"
@@ -1244,19 +1145,105 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-09T09:56:28.000Z",
-   "latestAt": "2026-09-09T09:56:28.000Z",
+   "publishedAt": "2026-09-09T16:59:40.000Z",
+   "latestAt": "2026-09-09T16:59:40.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
+     "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+     "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
      "kind": "coverage",
-     "date": "2026-09-09T09:56:28.000Z",
+     "date": "2026-09-09T16:59:40.000Z",
      "points": null,
-     "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the…"
+     "summary": "\"We really do earnestly believe AI could kill all humans!\""
+    }
+   ]
+  },
+  {
+   "id": "records-reveal-problems-with",
+   "title": "New Records Reveal Problems with Medicare’s AI Prior Authorization Experiment",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.8,
+    "factors": [
+     {
+      "label": "Research",
+      "amount": 0.3
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T19:19:44.000Z",
+   "latestAt": "2026-09-08T19:19:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "New Records Reveal Problems with Medicare’s AI Prior Authorization Experiment",
+     "link": "https://www.eff.org/deeplinks/2026/09/new-records-reveal-problems-medicares-ai-prior-authorization-experiment",
+     "publisher": "EFF",
+     "publisherDomain": "eff.org",
+     "kind": "coverage",
+     "date": "2026-09-08T19:19:44.000Z",
+     "points": null,
+     "summary": "EFF sued the government back in March for information about the Wasteful and Inappropriate Service Reduction (WISeR) model , a new Medicare program that uses AI…"
+    }
+   ]
+  },
+  {
+   "id": "shipt-becomes-latest-delivery",
+   "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.7,
+    "factors": [
+     {
+      "label": "Tools & Products",
+      "amount": 0.2
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T14:51:45.000Z",
+   "latestAt": "2026-09-09T14:51:45.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+     "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-09T14:51:45.000Z",
+     "points": null,
+     "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build…"
     }
    ]
   },
