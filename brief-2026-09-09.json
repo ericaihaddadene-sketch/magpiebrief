@@ -1,9 +1,74 @@
 {
  "date": "2026-09-09",
- "generated": "2026-09-09T00:00:27.030Z",
- "headline": "18 developments today. The most significant is new models: How GPT-5.6 Sol helps run quantum computing experiments",
- "stats": "22 sources monitored · 2645 items read · 59 on-topic · 18 distinct developments · 10 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-09T04:22:40.755Z",
+ "headline": "18 developments today. The most significant is new models: ChatGPT Images 2.5",
+ "stats": "22 sources monitored · 2645 items read · 64 on-topic · 18 distinct developments · 11 with a primary source · 1 independently corroborated",
  "events": [
+  {
+   "id": "gpt-chatgpt-images",
+   "title": "ChatGPT Images 2.5",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 6.3,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     },
+     {
+      "label": "277 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T18:37:51.000Z",
+   "latestAt": "2026-09-08T18:37:51.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+    "title": "ChatGPT Images 2.5"
+   },
+   "sources": [
+    {
+     "title": "ChatGPT Images 2.5",
+     "link": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-08T18:37:51.000Z",
+     "points": 277,
+     "summary": ""
+    }
+   ]
+  },
   {
    "id": "gpt-helps-quantum-computing-experiments",
    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
@@ -66,6 +131,68 @@
    ]
   },
   {
+   "id": "meta-ai-agents-muse-meta-personal-agent",
+   "title": "Muse – Meta’s personal AI agent",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 4.9,
+    "factors": [
+     {
+      "label": "Primary source (ai.meta.com)",
+      "amount": 1.5
+     },
+     {
+      "label": "372 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T19:25:00.000Z",
+   "latestAt": "2026-09-08T19:25:00.000Z",
+   "primary": {
+    "publisher": "ai.meta.com",
+    "link": "https://ai.meta.com/muse/",
+    "title": "Muse – Meta’s personal AI agent"
+   },
+   "sources": [
+    {
+     "title": "Muse – Meta’s personal AI agent",
+     "link": "https://ai.meta.com/muse/",
+     "publisher": "ai.meta.com",
+     "publisherDomain": "ai.meta.com",
+     "kind": "primary",
+     "date": "2026-09-08T19:25:00.000Z",
+     "points": 372,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "coding-agents-have-adhd-skill-stop",
    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
    "category": {
@@ -87,7 +214,7 @@
       "amount": 1.5
      },
      {
-      "label": "290 points of reader attention",
+      "label": "352 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -117,69 +244,7 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-09-08T14:13:26.000Z",
-     "points": 290,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "meta-ai-agents-muse-meta-personal-agent",
-   "title": "Muse: Meta's personal AI agent, features and capabilities",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 4.8,
-    "factors": [
-     {
-      "label": "Primary source (ai.meta.com)",
-      "amount": 1.5
-     },
-     {
-      "label": "211 points of reader attention",
-      "amount": 0.8
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-08T19:25:00.000Z",
-   "latestAt": "2026-09-08T19:25:00.000Z",
-   "primary": {
-    "publisher": "ai.meta.com",
-    "link": "https://ai.meta.com/muse/",
-    "title": "Muse: Meta's personal AI agent, features and capabilities"
-   },
-   "sources": [
-    {
-     "title": "Muse: Meta's personal AI agent, features and capabilities",
-     "link": "https://ai.meta.com/muse/",
-     "publisher": "ai.meta.com",
-     "publisherDomain": "ai.meta.com",
-     "kind": "primary",
-     "date": "2026-09-08T19:25:00.000Z",
-     "points": 211,
+     "points": 352,
      "summary": ""
     }
    ]
@@ -541,59 +606,6 @@
      "date": "2026-09-08T00:00:00.000Z",
      "points": null,
      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies."
-    }
-   ]
-  },
-  {
-   "id": "gpt-introducing-chatgpt-images",
-   "title": "Introducing ChatGPT Images 2.5",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 3.9,
-    "factors": [
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "emerging",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-08T22:46:33.000Z",
-   "latestAt": "2026-09-08T22:46:33.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Introducing ChatGPT Images 2.5",
-     "link": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-08T22:46:33.000Z",
-     "points": null,
-     "summary": ""
     }
    ]
   },
