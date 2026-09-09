@@ -1,74 +1,9 @@
 {
  "date": "2026-09-09",
- "generated": "2026-09-09T09:33:49.787Z",
- "headline": "18 developments today. The most significant is new models: ChatGPT Images 2.5",
- "stats": "22 sources monitored · 2645 items read · 60 on-topic · 18 distinct developments · 10 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-09T14:22:12.799Z",
+ "headline": "25 developments today. The most significant is new models: How GPT‑5.6 Sol helps run quantum computing experiments",
+ "stats": "22 sources monitored · 2645 items read · 73 on-topic · 25 distinct developments · 9 with a primary source · 1 independently corroborated",
  "events": [
-  {
-   "id": "gpt-chatgpt-images",
-   "title": "ChatGPT Images 2.5",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 6.3,
-    "factors": [
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     },
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     },
-     {
-      "label": "338 points of reader attention",
-      "amount": 0.9
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-08T18:37:51.000Z",
-   "latestAt": "2026-09-08T18:37:51.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-    "title": "ChatGPT Images 2.5"
-   },
-   "sources": [
-    {
-     "title": "ChatGPT Images 2.5",
-     "link": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-08T18:37:51.000Z",
-     "points": 338,
-     "summary": ""
-    }
-   ]
-  },
   {
    "id": "gpt-helps-quantum-computing-experiments",
    "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
@@ -84,7 +19,7 @@
     }
    ],
    "importance": {
-    "score": 5.4,
+    "score": 6.1,
     "factors": [
      {
       "label": "Primary source (OpenAI)",
@@ -97,6 +32,10 @@
      {
       "label": "Names a specific model",
       "amount": 0.6
+     },
+     {
+      "label": "107 points of reader attention",
+      "amount": 0.7
      }
     ]
    },
@@ -105,7 +44,9 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [],
+   "deltas": [
+    "Importance rose 0.7 to 6.1."
+   ],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -125,7 +66,7 @@
      "publisherDomain": "openai.com",
      "kind": "primary",
      "date": "2026-09-09T07:22:46.000Z",
-     "points": 45,
+     "points": 107,
      "summary": ""
     }
    ]
@@ -150,15 +91,15 @@
     }
    ],
    "importance": {
-    "score": 4.9,
+    "score": 5,
     "factors": [
      {
       "label": "Primary source (ai.meta.com)",
       "amount": 1.5
      },
      {
-      "label": "497 points of reader attention",
-      "amount": 0.9
+      "label": "570 points of reader attention",
+      "amount": 1
      }
     ]
    },
@@ -187,64 +128,7 @@
      "publisherDomain": "ai.meta.com",
      "kind": "primary",
      "date": "2026-09-08T19:25:00.000Z",
-     "points": 497,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "coding-agents-have-adhd-skill-stop",
-   "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "coding-agents",
-     "name": "Coding Agents",
-     "kind": "topic"
-    }
-   ],
-   "importance": {
-    "score": 4.9,
-    "factors": [
-     {
-      "label": "Primary source (GitHub)",
-      "amount": 1.5
-     },
-     {
-      "label": "436 points of reader attention",
-      "amount": 0.9
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-08T14:13:26.000Z",
-   "latestAt": "2026-09-08T14:13:26.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/ayghri/i-have-adhd",
-    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer"
-   },
-   "sources": [
-    {
-     "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-     "link": "https://github.com/ayghri/i-have-adhd",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-09-08T14:13:26.000Z",
-     "points": 436,
+     "points": 570,
      "summary": ""
     }
    ]
@@ -365,6 +249,53 @@
      "date": "2026-09-08T09:00:00.000Z",
      "points": null,
      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
+    }
+   ]
+  },
+  {
+   "id": "introducing-cuda-rust-tracks",
+   "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (developer.nvidia.com)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T13:21:19.000Z",
+   "latestAt": "2026-09-09T13:21:19.000Z",
+   "primary": {
+    "publisher": "developer.nvidia.com",
+    "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels"
+   },
+   "sources": [
+    {
+     "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
+     "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+     "publisher": "developer.nvidia.com",
+     "publisherDomain": "developer.nvidia.com",
+     "kind": "primary",
+     "date": "2026-09-09T13:21:19.000Z",
+     "points": null,
+     "summary": ""
     }
    ]
   },
@@ -610,8 +541,69 @@
    ]
   },
   {
-   "id": "gpt-astra-multi-reasoning-without",
-   "title": "GPT-6 Astra can do a lot of multi-hop reasoning without chain of thought",
+   "id": "claude-claude-change-cart-button",
+   "title": "Claude, change the \"Add to Cart\" button to blue",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.9,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     },
+     {
+      "label": "219 points of reader attention",
+      "amount": 0.8
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-09T09:39:46.000Z",
+   "latestAt": "2026-09-09T09:39:46.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Claude, change the \"Add to Cart\" button to blue",
+     "link": "https://opusfived.dev/",
+     "publisher": "opusfived.dev",
+     "publisherDomain": "opusfived.dev",
+     "kind": "discussion",
+     "date": "2026-09-09T09:39:46.000Z",
+     "points": 219,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "gpt-astra-looped-transformers-hidden",
+   "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
    "category": {
     "id": "models",
     "name": "New Models"
@@ -646,19 +638,236 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-09T05:15:19.000Z",
-   "latestAt": "2026-09-09T05:15:19.000Z",
+   "publishedAt": "2026-09-09T11:14:25.000Z",
+   "latestAt": "2026-09-09T11:14:25.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "GPT-6 Astra can do a lot of multi-hop reasoning without chain of thought",
-     "link": "https://www.lesswrong.com/posts/FsCkkoGsNmPzFKRhg/gpt-6-astra-can-do-a-lot-of-multi-hop-reasoning-without",
+     "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+     "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+     "publisher": "Ahead of AI",
+     "publisherDomain": "magazine.sebastianraschka.com",
+     "kind": "coverage",
+     "date": "2026-09-09T11:14:25.000Z",
+     "points": null,
+     "summary": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks"
+    }
+   ]
+  },
+  {
+   "id": "gpt-told-chatgpt-feeling-delusional",
+   "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.9,
+    "factors": [
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T11:00:10.000Z",
+   "latestAt": "2026-09-09T11:00:10.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+     "link": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-09T11:00:10.000Z",
+     "points": null,
+     "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt."
+    }
+   ]
+  },
+  {
+   "id": "gpt-estimating-astra-time-horizon",
+   "title": "Estimating GPT-6 Astra’s no-CoT Time Horizon",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.9,
+    "factors": [
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T13:54:14.000Z",
+   "latestAt": "2026-09-09T13:54:14.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Estimating GPT-6 Astra’s no-CoT Time Horizon",
+     "link": "https://www.lesswrong.com/posts/ntKx9YHWCwxSeGbRB/estimating-gpt-6-astra-s-no-cot-time-horizon",
      "publisher": "LessWrong",
      "publisherDomain": "lesswrong.com",
      "kind": "coverage",
-     "date": "2026-09-09T05:15:19.000Z",
+     "date": "2026-09-09T13:54:14.000Z",
      "points": null,
-     "summary": "This is a link post for . I recommend reading there for the best experience because it's easier to engage with this post when you can…"
+     "summary": "TL;DR : We run astra on the task-suite from Think Fast . GPT-6 Astra is close to saturation on our suite, meaning that giving a confident…"
+    }
+   ]
+  },
+  {
+   "id": "gpt-safety-astra-system-card-alignment",
+   "title": "GPT-6 Astra: The System Card, Alignment and What Comes Next",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    },
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.9,
+    "factors": [
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T13:10:56.000Z",
+   "latestAt": "2026-09-09T13:10:56.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "GPT-6 Astra: The System Card, Alignment and What Comes Next",
+     "link": "https://www.lesswrong.com/posts/AmFJZyeCgvFjNKgNk/gpt-6-astra-the-system-card-alignment-and-what-comes-next",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-09T13:10:56.000Z",
+     "points": null,
+     "summary": "OpenAI claims that Astra is ‘the most intelligent and most aligned [available] model’ in the world. Not the most intelligent and aligned OpenAI model, but the…"
+    }
+   ]
+  },
+  {
+   "id": "gpt-introducing-chatgpt-images",
+   "title": "Introducing ChatGPT Images 2.5",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.9,
+    "factors": [
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T22:46:33.000Z",
+   "latestAt": "2026-09-08T22:46:33.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Introducing ChatGPT Images 2.5",
+     "link": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-08T22:46:33.000Z",
+     "points": null,
+     "summary": ""
     }
    ]
   },
@@ -716,17 +925,60 @@
    ]
   },
   {
-   "id": "anthropic-power-users-claim-anthropic",
-   "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+   "id": "stealth-startup-thinks-just",
+   "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.1,
+    "factors": [
+     {
+      "label": "Security",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T13:00:00.000Z",
+   "latestAt": "2026-09-09T13:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+     "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-09T13:00:00.000Z",
+     "points": null,
+     "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging."
+    }
+   ]
+  },
+  {
+   "id": "copyright-suno-replaces-models-with",
+   "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
    "category": {
     "id": "policy",
     "name": "Policy & Regulation"
    },
    "entities": [
     {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
+     "id": "copyright",
+     "name": "AI & Copyright",
+     "kind": "topic"
     }
    ],
    "importance": {
@@ -742,25 +994,122 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "developing",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-08T17:27:31.000Z",
-   "latestAt": "2026-09-08T17:27:31.000Z",
+   "publishedAt": "2026-09-09T12:05:34.000Z",
+   "latestAt": "2026-09-09T12:05:34.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
+     "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+     "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
      "kind": "coverage",
-     "date": "2026-09-08T17:27:31.000Z",
+     "date": "2026-09-09T12:05:34.000Z",
      "points": null,
-     "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some…"
+     "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions…"
+    }
+   ]
+  },
+  {
+   "id": "china-regulators-take-boyfriends",
+   "title": "China’s Regulators Take Aim at “AI Boyfriends”",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.1,
+    "factors": [
+     {
+      "label": "Policy & Regulation",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T10:00:07.000Z",
+   "latestAt": "2026-09-09T10:00:07.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "China’s Regulators Take Aim at “AI Boyfriends”",
+     "link": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
+     "publisher": "IEEE Spectrum",
+     "publisherDomain": "spectrum.ieee.org",
+     "kind": "coverage",
+     "date": "2026-09-09T10:00:07.000Z",
+     "points": null,
+     "summary": "In the first weeks of July, a wave of sad posts rolled through Chinese social media, as people lamented friends and lovers they were about to…"
+    }
+   ]
+  },
+  {
+   "id": "deepseek-funding-chinese-firm-deepseek-taps",
+   "title": "Chinese AI firm DeepSeek taps underwriters including Citic Securities for IPO: sources",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "deepseek",
+     "name": "DeepSeek",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Business",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T12:34:42.000Z",
+   "latestAt": "2026-09-09T12:34:42.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Chinese AI firm DeepSeek taps underwriters including Citic Securities for IPO: sources",
+     "link": "https://www.scmp.com/tech/tech-trends/article/3366948/chinese-ai-firm-deepseek-taps-underwriters-including-citic-securities-ipo-sources?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-09T12:34:42.000Z",
+     "points": null,
+     "summary": "Chinese frontier artificial intelligence lab DeepSeek has hired underwriters including Citic Securities in preparation for a domestic initial public offering (IPO), according to two people familiar…"
     }
    ]
   },
@@ -863,6 +1212,55 @@
    ]
   },
   {
+   "id": "anthropic-worried-anthropic-researchers-warn",
+   "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.8,
+    "factors": [
+     {
+      "label": "Research",
+      "amount": 0.3
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T09:56:28.000Z",
+   "latestAt": "2026-09-09T09:56:28.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-09T09:56:28.000Z",
+     "points": null,
+     "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the…"
+    }
+   ]
+  },
+  {
    "id": "google-update-google-weather-model",
    "title": "Update to Google’s AI weather model improves forecast accuracy",
    "category": {
@@ -908,53 +1306,6 @@
      "date": "2026-09-08T18:00:56.000Z",
      "points": null,
      "summary": "Like traditional weather models, it benefits from an expanded set of inputs."
-    }
-   ]
-  },
-  {
-   "id": "open-math-problems-being",
-   "title": "Tao: Open math problems being non-renewably mined by AI",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 2.6,
-    "factors": [
-     {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
-     },
-     {
-      "label": "360 points of reader attention",
-      "amount": 0.9
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-08T21:00:52.000Z",
-   "latestAt": "2026-09-08T21:00:52.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Tao: Open math problems being non-renewably mined by AI",
-     "link": "https://mathstodon.xyz/@tao/117237320796901560",
-     "publisher": "mathstodon.xyz",
-     "publisherDomain": "mathstodon.xyz",
-     "kind": "discussion",
-     "date": "2026-09-08T21:00:52.000Z",
-     "points": 360,
-     "summary": ""
     }
    ]
   }

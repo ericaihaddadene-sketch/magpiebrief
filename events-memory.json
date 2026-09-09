@@ -1,18 +1,4 @@
 {
- "gpt-chatgpt-images": {
-  "id": "gpt-chatgpt-images",
-  "title": "ChatGPT Images 2.5",
-  "firstSeen": "2026-09-09T04:22:40.704Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 6.3,
-  "confidence": "Confirmed",
-  "category": "models"
- },
  "gpt-helps-quantum-computing-experiments": {
   "id": "gpt-helps-quantum-computing-experiments",
   "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
@@ -23,7 +9,7 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "importance": 5.4,
+  "importance": 6.1,
   "confidence": "Confirmed",
   "category": "models"
  },
@@ -37,21 +23,7 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "importance": 4.9,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "coding-agents-have-adhd-skill-stop": {
-  "id": "coding-agents-have-adhd-skill-stop",
-  "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-  "firstSeen": "2026-09-08T18:30:01.375Z",
-  "publishers": [
-   "GitHub"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4.9,
+  "importance": 5,
   "confidence": "Confirmed",
   "category": "general"
  },
@@ -83,6 +55,20 @@
   "importance": 4.4,
   "confidence": "Confirmed",
   "category": "business"
+ },
+ "introducing-cuda-rust-tracks": {
+  "id": "introducing-cuda-rust-tracks",
+  "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
+  "firstSeen": "2026-09-09T14:22:12.735Z",
+  "publishers": [
+   "developer.nvidia.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
  },
  "alphagenome-atlas-predictive-every": {
   "id": "alphagenome-atlas-predictive-every",
@@ -154,12 +140,82 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "gpt-astra-multi-reasoning-without": {
-  "id": "gpt-astra-multi-reasoning-without",
-  "title": "GPT-6 Astra can do a lot of multi-hop reasoning without chain of thought",
-  "firstSeen": "2026-09-09T09:33:49.744Z",
+ "claude-claude-change-cart-button": {
+  "id": "claude-claude-change-cart-button",
+  "title": "Claude, change the \"Add to Cart\" button to blue",
+  "firstSeen": "2026-09-09T14:22:12.735Z",
+  "publishers": [
+   "opusfived.dev"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 3.9,
+  "confidence": "Unverified",
+  "category": "models"
+ },
+ "gpt-astra-looped-transformers-hidden": {
+  "id": "gpt-astra-looped-transformers-hidden",
+  "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+  "firstSeen": "2026-09-09T14:22:12.735Z",
+  "publishers": [
+   "Ahead of AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.9,
+  "confidence": "Developing",
+  "category": "models"
+ },
+ "gpt-told-chatgpt-feeling-delusional": {
+  "id": "gpt-told-chatgpt-feeling-delusional",
+  "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+  "firstSeen": "2026-09-09T14:22:12.735Z",
+  "publishers": [
+   "Ars Technica AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.9,
+  "confidence": "Developing",
+  "category": "models"
+ },
+ "gpt-estimating-astra-time-horizon": {
+  "id": "gpt-estimating-astra-time-horizon",
+  "title": "Estimating GPT-6 Astra’s no-CoT Time Horizon",
+  "firstSeen": "2026-09-09T14:22:12.735Z",
   "publishers": [
    "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.9,
+  "confidence": "Developing",
+  "category": "models"
+ },
+ "gpt-safety-astra-system-card-alignment": {
+  "id": "gpt-safety-astra-system-card-alignment",
+  "title": "GPT-6 Astra: The System Card, Alignment and What Comes Next",
+  "firstSeen": "2026-09-09T14:22:12.735Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.9,
+  "confidence": "Developing",
+  "category": "models"
+ },
+ "gpt-introducing-chatgpt-images": {
+  "id": "gpt-introducing-chatgpt-images",
+  "title": "Introducing ChatGPT Images 2.5",
+  "firstSeen": "2026-09-09T14:22:12.735Z",
+  "publishers": [
+   "Simon Willison"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -182,12 +238,26 @@
   "confidence": "Developing",
   "category": "security"
  },
- "anthropic-power-users-claim-anthropic": {
-  "id": "anthropic-power-users-claim-anthropic",
-  "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-  "firstSeen": "2026-09-08T21:45:18.840Z",
+ "stealth-startup-thinks-just": {
+  "id": "stealth-startup-thinks-just",
+  "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+  "firstSeen": "2026-09-09T14:22:12.735Z",
   "publishers": [
-   "The Verge"
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.1,
+  "confidence": "Developing",
+  "category": "security"
+ },
+ "copyright-suno-replaces-models-with": {
+  "id": "copyright-suno-replaces-models-with",
+  "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+  "firstSeen": "2026-09-09T14:22:12.735Z",
+  "publishers": [
+   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -195,6 +265,34 @@
   "importance": 3.1,
   "confidence": "Developing",
   "category": "policy"
+ },
+ "china-regulators-take-boyfriends": {
+  "id": "china-regulators-take-boyfriends",
+  "title": "China’s Regulators Take Aim at “AI Boyfriends”",
+  "firstSeen": "2026-09-09T14:22:12.735Z",
+  "publishers": [
+   "IEEE Spectrum"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.1,
+  "confidence": "Developing",
+  "category": "policy"
+ },
+ "deepseek-funding-chinese-firm-deepseek-taps": {
+  "id": "deepseek-funding-chinese-firm-deepseek-taps",
+  "title": "Chinese AI firm DeepSeek taps underwriters including Citic Securities for IPO: sources",
+  "firstSeen": "2026-09-09T14:22:12.735Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.9,
+  "confidence": "Developing",
+  "category": "business"
  },
  "funding-cognition-hits-valuation-signaling": {
   "id": "funding-cognition-hits-valuation-signaling",
@@ -224,6 +322,20 @@
   "confidence": "Developing",
   "category": "business"
  },
+ "anthropic-worried-anthropic-researchers-warn": {
+  "id": "anthropic-worried-anthropic-researchers-warn",
+  "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+  "firstSeen": "2026-09-09T14:22:12.735Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.8,
+  "confidence": "Developing",
+  "category": "research"
+ },
  "google-update-google-weather-model": {
   "id": "google-update-google-weather-model",
   "title": "Update to Google’s AI weather model improves forecast accuracy",
@@ -237,19 +349,5 @@
   "importance": 2.7,
   "confidence": "Developing",
   "category": "tools"
- },
- "open-math-problems-being": {
-  "id": "open-math-problems-being",
-  "title": "Tao: Open math problems being non-renewably mined by AI",
-  "firstSeen": "2026-09-09T09:33:49.744Z",
-  "publishers": [
-   "mathstodon.xyz"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 2.6,
-  "confidence": "Unverified",
-  "category": "general"
  }
 }
