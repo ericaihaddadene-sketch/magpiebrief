@@ -10,7 +10,7 @@
   "sourceCount": 2,
   "independentCount": 1,
   "hadPrimary": true,
-  "importance": 6.2,
+  "importance": 6.3,
   "confidence": "Confirmed",
   "category": "models"
  },
@@ -69,6 +69,35 @@
   "importance": 4.4,
   "confidence": "Confirmed",
   "category": "business"
+ },
+ "apple-there-shiny-iphones-apple": {
+  "id": "apple-there-shiny-iphones-apple",
+  "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
+  "firstSeen": "2026-09-09T21:37:23.583Z",
+  "publishers": [
+   "TechCrunch",
+   "The Verge"
+  ],
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "importance": 4.2,
+  "confidence": "Highly likely",
+  "category": "general"
+ },
+ "procedural-graphs-self-evolving": {
+  "id": "procedural-graphs-self-evolving",
+  "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+  "firstSeen": "2026-09-09T21:37:23.583Z",
+  "publishers": [
+   "arXiv"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
  },
  "openai-paul-christiano-joins-openai": {
   "id": "openai-paul-christiano-joins-openai",
@@ -188,34 +217,6 @@
   "firstSeen": "2026-09-09T14:22:12.735Z",
   "publishers": [
    "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.9,
-  "confidence": "Developing",
-  "category": "models"
- },
- "gpt-estimating-astra-time-horizon": {
-  "id": "gpt-estimating-astra-time-horizon",
-  "title": "Estimating GPT-6 Astra’s no-CoT Time Horizon",
-  "firstSeen": "2026-09-09T14:22:12.735Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.9,
-  "confidence": "Developing",
-  "category": "models"
- },
- "gpt-safety-astra-system-card-alignment": {
-  "id": "gpt-safety-astra-system-card-alignment",
-  "title": "GPT-6 Astra: The System Card, Alignment and What Comes Next",
-  "firstSeen": "2026-09-09T14:22:12.735Z",
-  "publishers": [
-   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,

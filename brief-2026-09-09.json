@@ -1,8 +1,8 @@
 {
  "date": "2026-09-09",
- "generated": "2026-09-09T18:29:36.996Z",
+ "generated": "2026-09-09T21:37:23.645Z",
  "headline": "25 developments today. The most significant is new models: Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
- "stats": "22 sources monitored · 2646 items read · 74 on-topic · 25 distinct developments · 13 with a primary source · 0 independently corroborated",
+ "stats": "22 sources monitored · 2646 items read · 78 on-topic · 25 distinct developments · 14 with a primary source · 1 independently corroborated",
  "events": [
   {
    "id": "gpt-qwen-qwen-follows-reasoning-prefills",
@@ -24,7 +24,7 @@
     }
    ],
    "importance": {
-    "score": 6.2,
+    "score": 6.3,
     "factors": [
      {
       "label": "Primary source (GitHub)",
@@ -39,8 +39,8 @@
       "amount": 0.6
      },
      {
-      "label": "185 points of reader attention",
-      "amount": 0.8
+      "label": "278 points of reader attention",
+      "amount": 0.9
      }
     ]
    },
@@ -48,7 +48,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -69,7 +69,7 @@
      "publisherDomain": "gist.github.com",
      "kind": "primary",
      "date": "2026-09-09T17:24:28.000Z",
-     "points": 43,
+     "points": 123,
      "summary": ""
     },
     {
@@ -79,7 +79,7 @@
      "publisherDomain": "magazine.sebastianraschka.com",
      "kind": "discussion",
      "date": "2026-09-09T14:37:47.000Z",
-     "points": 185,
+     "points": 278,
      "summary": ""
     }
    ]
@@ -119,7 +119,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -140,7 +140,7 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-09-09T17:57:55.000Z",
-     "points": 4,
+     "points": 25,
      "summary": ""
     }
    ]
@@ -181,9 +181,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.7 to 5.4."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -233,7 +231,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -311,6 +309,112 @@
    ]
   },
   {
+   "id": "apple-there-shiny-iphones-apple",
+   "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "apple",
+     "name": "Apple",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 4.2,
+    "factors": [
+     {
+      "label": "2 independent outlets",
+      "amount": 1.7
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Highly likely",
+    "why": "Two independent outlets"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-09T18:30:24.000Z",
+   "latestAt": "2026-09-09T19:56:18.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
+     "link": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-09T19:56:18.000Z",
+     "points": null,
+     "summary": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air."
+    },
+    {
+     "title": "Apple is raising iPhone prices by $100 on all of its old models",
+     "link": "https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-09T18:30:24.000Z",
+     "points": null,
+     "summary": "Following Apple's \"Surprise and shine\" event that saw the announcement of the iPhone Duo and the iPhone 18 Pro, the company increased the price on all…"
+    }
+   ]
+  },
+  {
+   "id": "procedural-graphs-self-evolving",
+   "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (arXiv)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T17:13:52.000Z",
+   "latestAt": "2026-09-09T17:13:52.000Z",
+   "primary": {
+    "publisher": "arXiv",
+    "link": "https://arxiv.org/abs/2609.09153",
+    "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents"
+   },
+   "sources": [
+    {
+     "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+     "link": "https://arxiv.org/abs/2609.09153",
+     "publisher": "arXiv",
+     "publisherDomain": "arxiv.org",
+     "kind": "research",
+     "date": "2026-09-09T17:13:52.000Z",
+     "points": 34,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "openai-paul-christiano-joins-openai",
    "title": "Paul Christiano joins OpenAI Foundation Board",
    "category": {
@@ -337,7 +441,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -384,7 +488,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -431,7 +535,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -752,117 +856,6 @@
    ]
   },
   {
-   "id": "gpt-estimating-astra-time-horizon",
-   "title": "Estimating GPT-6 Astra’s no-CoT Time Horizon",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 3.9,
-    "factors": [
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-09T13:54:14.000Z",
-   "latestAt": "2026-09-09T13:54:14.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Estimating GPT-6 Astra’s no-CoT Time Horizon",
-     "link": "https://www.lesswrong.com/posts/ntKx9YHWCwxSeGbRB/estimating-gpt-6-astra-s-no-cot-time-horizon",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-09T13:54:14.000Z",
-     "points": null,
-     "summary": "TL;DR : We run astra on the task-suite from Think Fast . GPT-6 Astra is close to saturation on our suite, meaning that giving a confident…"
-    }
-   ]
-  },
-  {
-   "id": "gpt-safety-astra-system-card-alignment",
-   "title": "GPT-6 Astra: The System Card, Alignment and What Comes Next",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    },
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 3.9,
-    "factors": [
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-09T13:10:56.000Z",
-   "latestAt": "2026-09-09T13:10:56.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "GPT-6 Astra: The System Card, Alignment and What Comes Next",
-     "link": "https://www.lesswrong.com/posts/AmFJZyeCgvFjNKgNk/gpt-6-astra-the-system-card-alignment-and-what-comes-next",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-09T13:10:56.000Z",
-     "points": null,
-     "summary": "OpenAI claims that Astra is ‘the most intelligent and most aligned [available] model’ in the world. Not the most intelligent and aligned OpenAI model, but the…"
-    }
-   ]
-  },
-  {
    "id": "gpt-introducing-chatgpt-images",
    "title": "Introducing ChatGPT Images 2.5",
    "category": {
@@ -1088,10 +1081,7 @@
     "why": "A single outlet so far"
    },
    "status": "developing",
-   "deltas": [
-    "Importance fell 1.7 to 2.9.",
-    "Confidence moved from Highly likely to Developing."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -1139,7 +1129,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1225,7 +1215,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
