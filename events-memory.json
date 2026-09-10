@@ -1,16 +1,29 @@
 {
+ "gpt-introducing-chatgpt-financial-services": {
+  "id": "gpt-introducing-chatgpt-financial-services",
+  "title": "Introducing ChatGPT for Financial Services",
+  "firstSeen": "2026-09-10T21:32:11.988Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 5.4,
+  "confidence": "Confirmed",
+  "category": "models"
+ },
  "gpt-astra-next-generation-intelligence": {
   "id": "gpt-astra-next-generation-intelligence",
   "title": "GPT-6 Astra: The next generation in intelligence for work",
   "firstSeen": "2026-09-10T00:01:59.987Z",
   "publishers": [
-   "OpenAI",
-   "cognition.com"
+   "OpenAI"
   ],
-  "sourceCount": 2,
+  "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "importance": 6.2,
+  "importance": 5.4,
   "confidence": "Confirmed",
   "category": "models"
  },
@@ -70,19 +83,47 @@
   "confidence": "Confirmed",
   "category": "models"
  },
- "funding-grants-research-into": {
-  "id": "funding-grants-research-into",
-  "title": "Funding grants for new research into AI and teen development",
-  "firstSeen": "2026-09-08T18:30:01.375Z",
+ "openai-openai-agents": {
+  "id": "openai-openai-agents",
+  "title": "OpenAI Agents API",
+  "firstSeen": "2026-09-10T21:32:11.988Z",
   "publishers": [
    "OpenAI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "importance": 4.4,
+  "importance": 4.2,
   "confidence": "Confirmed",
-  "category": "business"
+  "category": "tools"
+ },
+ "gpt-cognition-launches-model-rivaling": {
+  "id": "gpt-cognition-launches-model-rivaling",
+  "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+  "firstSeen": "2026-09-10T21:32:11.988Z",
+  "publishers": [
+   "cognition.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 4,
+  "confidence": "Unverified",
+  "category": "models"
+ },
+ "detecting-countering-misuse-september": {
+  "id": "detecting-countering-misuse-september",
+  "title": "Detecting and countering misuse of AI: September 2026",
+  "firstSeen": "2026-09-10T21:32:11.988Z",
+  "publishers": [
+   "Anthropic"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
  },
  "everyone-data-work": {
   "id": "everyone-data-work",
@@ -252,19 +293,19 @@
   "confidence": "Developing",
   "category": "models"
  },
- "gpt-introducing-chatgpt-images": {
-  "id": "gpt-introducing-chatgpt-images",
-  "title": "Introducing ChatGPT Images 2.5",
-  "firstSeen": "2026-09-09T14:22:12.735Z",
+ "funding-grants-research-into": {
+  "id": "funding-grants-research-into",
+  "title": "Funding grants for new research into AI and teen development",
+  "firstSeen": "2026-09-08T18:30:01.375Z",
   "publishers": [
-   "Simon Willison"
+   "OpenAI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": false,
+  "hadPrimary": true,
   "importance": 3.9,
-  "confidence": "Developing",
-  "category": "models"
+  "confidence": "Confirmed",
+  "category": "business"
  },
  "openai-openai-expands-initiatives-support": {
   "id": "openai-openai-expands-initiatives-support",
@@ -294,6 +335,20 @@
   "confidence": "Confirmed",
   "category": "general"
  },
+ "first-bill-introduced-superintelligent": {
+  "id": "first-bill-introduced-superintelligent",
+  "title": "First Bill Introduced to Ban Superintelligent AI",
+  "firstSeen": "2026-09-10T21:32:11.988Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.1,
+  "confidence": "Developing",
+  "category": "policy"
+ },
  "stealth-startup-thinks-just": {
   "id": "stealth-startup-thinks-just",
   "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
@@ -322,6 +377,34 @@
   "confidence": "Developing",
   "category": "policy"
  },
+ "anthropic-alibaba-deepseek-anthropic-details-distillation-campaigns": {
+  "id": "anthropic-alibaba-deepseek-anthropic-details-distillation-campaigns",
+  "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+  "firstSeen": "2026-09-10T21:32:11.988Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.9,
+  "confidence": "Developing",
+  "category": "general"
+ },
+ "openai-more-questions-about-whether": {
+  "id": "openai-more-questions-about-whether",
+  "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+  "firstSeen": "2026-09-10T21:32:11.988Z",
+  "publishers": [
+   "mathstodon.xyz"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 2.9,
+  "confidence": "Unverified",
+  "category": "research"
+ },
  "india-pocket-doubles-revenue": {
   "id": "india-pocket-doubles-revenue",
   "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
@@ -340,20 +423,6 @@
   "id": "robotics-maven-robotics-wants-steal",
   "title": "Maven Robotics wants to steal your robot deployment deal",
   "firstSeen": "2026-09-10T18:17:03.128Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.9,
-  "confidence": "Developing",
-  "category": "business"
- },
- "funding-research-startup-listen-labs": {
-  "id": "funding-research-startup-listen-labs",
-  "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-  "firstSeen": "2026-09-10T00:01:59.987Z",
   "publishers": [
    "TechCrunch"
   ],
@@ -419,6 +488,34 @@
   "importance": 2.8,
   "confidence": "Developing",
   "category": "research"
+ },
+ "meta-ai-agents-meta-agent-muse": {
+  "id": "meta-ai-agents-meta-agent-muse",
+  "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+  "firstSeen": "2026-09-10T21:32:11.988Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.7,
+  "confidence": "Developing",
+  "category": "tools"
+ },
+ "deepseek-deepseek-flash": {
+  "id": "deepseek-deepseek-flash",
+  "title": "DeepSeek v4.1 Flash",
+  "firstSeen": "2026-09-10T21:32:11.988Z",
+  "publishers": [
+   "X"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 2.7,
+  "confidence": "Unverified",
+  "category": "general"
  },
  "universal-music-launching-music": {
   "id": "universal-music-launching-music",

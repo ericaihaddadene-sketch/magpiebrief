@@ -1,9 +1,70 @@
 {
  "date": "2026-09-10",
- "generated": "2026-09-10T18:17:03.173Z",
- "headline": "34 developments today. The most significant is new models: GPT-6 Astra: The next generation in intelligence for work",
- "stats": "22 sources monitored · 2653 items read · 83 on-topic · 34 distinct developments · 18 with a primary source · 0 independently corroborated",
+ "generated": "2026-09-10T21:32:12.060Z",
+ "headline": "41 developments today. The most significant is new models: Introducing ChatGPT for Financial Services",
+ "stats": "22 sources monitored · 2655 items read · 85 on-topic · 41 distinct developments · 21 with a primary source · 0 independently corroborated",
  "events": [
+  {
+   "id": "gpt-introducing-chatgpt-financial-services",
+   "title": "Introducing ChatGPT for Financial Services",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 5.4,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-10T07:00:00.000Z",
+   "latestAt": "2026-09-10T07:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "title": "Introducing ChatGPT for Financial Services"
+   },
+   "sources": [
+    {
+     "title": "Introducing ChatGPT for Financial Services",
+     "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-10T07:00:00.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
   {
    "id": "gpt-astra-next-generation-intelligence",
    "title": "GPT-6 Astra: The next generation in intelligence for work",
@@ -19,7 +80,7 @@
     }
    ],
    "importance": {
-    "score": 6.2,
+    "score": 5.4,
     "factors": [
      {
       "label": "Primary source (OpenAI)",
@@ -32,10 +93,6 @@
      {
       "label": "Names a specific model",
       "amount": 0.6
-     },
-     {
-      "label": "139 points of reader attention",
-      "amount": 0.8
      }
     ]
    },
@@ -43,17 +100,16 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "developing",
+   "status": "confirmed",
    "deltas": [
-    "Now also covered by cognition.com.",
-    "Importance rose 0.8 to 6.2."
+    "Importance fell 0.8 to 5.4."
    ],
    "whatChanged": "",
    "whyItMatters": "",
-   "sourceCount": 2,
+   "sourceCount": 1,
    "independentCount": 1,
    "publishedAt": "2026-09-09T11:00:00.000Z",
-   "latestAt": "2026-09-10T15:29:47.000Z",
+   "latestAt": "2026-09-09T11:00:00.000Z",
    "primary": {
     "publisher": "OpenAI",
     "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
@@ -69,16 +125,6 @@
      "date": "2026-09-09T11:00:00.000Z",
      "points": null,
      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
-    },
-    {
-     "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-     "link": "https://cognition.com/blog/swe-2",
-     "publisher": "cognition.com",
-     "publisherDomain": "cognition.com",
-     "kind": "discussion",
-     "date": "2026-09-10T15:29:47.000Z",
-     "points": 139,
-     "summary": ""
     }
    ]
   },
@@ -178,7 +224,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -317,23 +363,29 @@
    ]
   },
   {
-   "id": "funding-grants-research-into",
-   "title": "Funding grants for new research into AI and teen development",
+   "id": "openai-openai-agents",
+   "title": "OpenAI Agents API",
    "category": {
-    "id": "business",
-    "name": "Business"
+    "id": "tools",
+    "name": "Tools & Products"
    },
-   "entities": [],
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
    "importance": {
-    "score": 4.4,
+    "score": 4.2,
     "factors": [
      {
       "label": "Primary source (OpenAI)",
       "amount": 1.5
      },
      {
-      "label": "Business",
-      "amount": 0.4
+      "label": "Tools & Products",
+      "amount": 0.2
      }
     ]
    },
@@ -341,29 +393,137 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "confirmed",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-08T09:00:00.000Z",
-   "latestAt": "2026-09-08T09:00:00.000Z",
+   "publishedAt": "2026-09-10T19:43:22.000Z",
+   "latestAt": "2026-09-10T19:43:22.000Z",
    "primary": {
     "publisher": "OpenAI",
-    "link": "https://openai.com/index/teen-development-research-grants",
-    "title": "Funding grants for new research into AI and teen development"
+    "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "title": "OpenAI Agents API"
    },
    "sources": [
     {
-     "title": "Funding grants for new research into AI and teen development",
-     "link": "https://openai.com/index/teen-development-research-grants",
+     "title": "OpenAI Agents API",
+     "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
      "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
+     "publisherDomain": "developers.openai.com",
      "kind": "primary",
-     "date": "2026-09-08T09:00:00.000Z",
-     "points": null,
-     "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
+     "date": "2026-09-10T19:43:22.000Z",
+     "points": 15,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "gpt-cognition-launches-model-rivaling",
+   "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     },
+     {
+      "label": "287 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-10T15:29:47.000Z",
+   "latestAt": "2026-09-10T15:29:47.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+     "link": "https://cognition.com/blog/swe-2",
+     "publisher": "cognition.com",
+     "publisherDomain": "cognition.com",
+     "kind": "discussion",
+     "date": "2026-09-10T15:29:47.000Z",
+     "points": 287,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "detecting-countering-misuse-september",
+   "title": "Detecting and countering misuse of AI: September 2026",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (Anthropic)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-10T17:23:42.000Z",
+   "latestAt": "2026-09-10T17:23:42.000Z",
+   "primary": {
+    "publisher": "Anthropic",
+    "link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "title": "Detecting and countering misuse of AI: September 2026"
+   },
+   "sources": [
+    {
+     "title": "Detecting and countering misuse of AI: September 2026",
+     "link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+     "publisher": "Anthropic",
+     "publisherDomain": "anthropic.com",
+     "kind": "primary",
+     "date": "2026-09-10T17:23:42.000Z",
+     "points": 27,
+     "summary": ""
     }
    ]
   },
@@ -388,7 +548,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -435,7 +595,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -482,7 +642,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -956,55 +1116,59 @@
    ]
   },
   {
-   "id": "gpt-introducing-chatgpt-images",
-   "title": "Introducing ChatGPT Images 2.5",
+   "id": "funding-grants-research-into",
+   "title": "Funding grants for new research into AI and teen development",
    "category": {
-    "id": "models",
-    "name": "New Models"
+    "id": "business",
+    "name": "Business"
    },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
+   "entities": [],
    "importance": {
     "score": 3.9,
     "factors": [
      {
-      "label": "New Models",
-      "amount": 0.8
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
      },
      {
-      "label": "Names a specific model",
-      "amount": 0.6
+      "label": "Business",
+      "amount": 0.4
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
      }
     ]
    },
    "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
    },
-   "status": "developing",
-   "deltas": [],
+   "status": "confirmed",
+   "deltas": [
+    "Importance fell 0.5 to 3.9."
+   ],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-08T22:46:33.000Z",
-   "latestAt": "2026-09-08T22:46:33.000Z",
-   "primary": null,
+   "publishedAt": "2026-09-08T09:00:00.000Z",
+   "latestAt": "2026-09-08T09:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/teen-development-research-grants",
+    "title": "Funding grants for new research into AI and teen development"
+   },
    "sources": [
     {
-     "title": "Introducing ChatGPT Images 2.5",
-     "link": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-08T22:46:33.000Z",
+     "title": "Funding grants for new research into AI and teen development",
+     "link": "https://openai.com/index/teen-development-research-grants",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-08T09:00:00.000Z",
      "points": null,
-     "summary": ""
+     "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
     }
    ]
   },
@@ -1117,6 +1281,49 @@
    ]
   },
   {
+   "id": "first-bill-introduced-superintelligent",
+   "title": "First Bill Introduced to Ban Superintelligent AI",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.1,
+    "factors": [
+     {
+      "label": "Policy & Regulation",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-10T20:53:22.000Z",
+   "latestAt": "2026-09-10T20:53:22.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "First Bill Introduced to Ban Superintelligent AI",
+     "link": "https://www.lesswrong.com/posts/uzoLm4prFzRiuznJt/first-bill-introduced-to-ban-superintelligent-ai",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-10T20:53:22.000Z",
+     "points": null,
+     "summary": "Two days ago, Anthropic researcher Jacob Coxon resigned , stating that AI companies are “racing straight to self-improving superintelligence and gambling with our lives” and that…"
+    }
+   ]
+  },
+  {
    "id": "stealth-startup-thinks-just",
    "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
    "category": {
@@ -1203,6 +1410,122 @@
    ]
   },
   {
+   "id": "anthropic-alibaba-deepseek-anthropic-details-distillation-campaigns",
+   "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "alibaba",
+     "name": "Alibaba",
+     "kind": "org"
+    },
+    {
+     "id": "deepseek",
+     "name": "DeepSeek",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Involves multiple organisations",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-10T20:57:30.000Z",
+   "latestAt": "2026-09-10T20:57:30.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+     "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-10T20:57:30.000Z",
+     "points": null,
+     "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space…"
+    }
+   ]
+  },
+  {
+   "id": "openai-more-questions-about-whether",
+   "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "Research",
+      "amount": 0.3
+     },
+     {
+      "label": "436 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-10T06:49:43.000Z",
+   "latestAt": "2026-09-10T06:49:43.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+     "link": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+     "publisher": "mathstodon.xyz",
+     "publisherDomain": "mathstodon.xyz",
+     "kind": "discussion",
+     "date": "2026-09-10T06:49:43.000Z",
+     "points": 436,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "india-pocket-doubles-revenue",
    "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
    "category": {
@@ -1223,7 +1546,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1272,7 +1595,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1291,55 +1614,6 @@
      "date": "2026-09-10T14:17:37.000Z",
      "points": null,
      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
-    }
-   ]
-  },
-  {
-   "id": "funding-research-startup-listen-labs",
-   "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    }
-   ],
-   "importance": {
-    "score": 2.9,
-    "factors": [
-     {
-      "label": "Business",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-10T00:00:37.000Z",
-   "latestAt": "2026-09-10T00:00:37.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-     "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-10T00:00:37.000Z",
-     "points": null,
-     "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say."
     }
    ]
   },
@@ -1544,6 +1818,113 @@
    ]
   },
   {
+   "id": "meta-ai-agents-meta-agent-muse",
+   "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.7,
+    "factors": [
+     {
+      "label": "Tools & Products",
+      "amount": 0.2
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-10T19:50:04.000Z",
+   "latestAt": "2026-09-10T19:50:04.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+     "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-10T19:50:04.000Z",
+     "points": null,
+     "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
+    }
+   ]
+  },
+  {
+   "id": "deepseek-deepseek-flash",
+   "title": "DeepSeek v4.1 Flash",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "deepseek",
+     "name": "DeepSeek",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.7,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "904 points of reader attention",
+      "amount": 1
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-10T06:11:05.000Z",
+   "latestAt": "2026-09-10T06:11:05.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "DeepSeek v4.1 Flash",
+     "link": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+     "publisher": "X",
+     "publisherDomain": "twitter.com",
+     "kind": "discussion",
+     "date": "2026-09-10T06:11:05.000Z",
+     "points": 904,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "universal-music-launching-music",
    "title": "Universal Music is launching an AI music platform with ElevenLabs",
    "category": {
@@ -1564,7 +1945,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
