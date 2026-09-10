@@ -70,6 +70,20 @@
   "confidence": "Confirmed",
   "category": "business"
  },
+ "rebuilding-automatic1111-with-gradio": {
+  "id": "rebuilding-automatic1111-with-gradio",
+  "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+  "firstSeen": "2026-09-10T14:14:53.491Z",
+  "publishers": [
+   "Hugging Face"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
  "openai-paul-christiano-joins-openai": {
   "id": "openai-paul-christiano-joins-openai",
   "title": "Paul Christiano joins OpenAI Foundation Board",
@@ -168,38 +182,10 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "openai-openai-expands-initiatives-support": {
-  "id": "openai-openai-expands-initiatives-support",
-  "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-  "firstSeen": "2026-09-08T15:02:58.092Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "1password-increases-engineering-productivity": {
-  "id": "1password-increases-engineering-productivity",
-  "title": "1Password increases engineering productivity 21% with Codex",
-  "firstSeen": "2026-09-08T21:45:18.840Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "gemini-volvo-xc40-phev-back": {
-  "id": "gemini-volvo-xc40-phev-back",
-  "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
-  "firstSeen": "2026-09-10T09:33:15.892Z",
+ "gemini-volvo-cancels-ex40-updates": {
+  "id": "gemini-volvo-cancels-ex40-updates",
+  "title": "Volvo cancels EX40 in the US, updates XC40 with better sensors and Gemini AI",
+  "firstSeen": "2026-09-10T14:14:53.491Z",
   "publishers": [
    "The Verge"
   ],
@@ -238,19 +224,33 @@
   "confidence": "Developing",
   "category": "models"
  },
- "suno-releases-first-music": {
-  "id": "suno-releases-first-music",
-  "title": "Suno releases its first AI music model made with record industry help",
-  "firstSeen": "2026-09-10T00:01:59.987Z",
+ "openai-openai-expands-initiatives-support": {
+  "id": "openai-openai-expands-initiatives-support",
+  "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+  "firstSeen": "2026-09-08T15:02:58.092Z",
   "publishers": [
-   "The Verge"
+   "OpenAI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.3,
-  "confidence": "Developing",
-  "category": "models"
+  "hadPrimary": true,
+  "importance": 3.5,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "1password-increases-engineering-productivity": {
+  "id": "1password-increases-engineering-productivity",
+  "title": "1Password increases engineering productivity 21% with Codex",
+  "firstSeen": "2026-09-08T21:45:18.840Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 3.5,
+  "confidence": "Confirmed",
+  "category": "general"
  },
  "stealth-startup-thinks-just": {
   "id": "stealth-startup-thinks-just",
@@ -350,6 +350,48 @@
   "confidence": "Developing",
   "category": "research"
  },
+ "openai-another-researcher-says-openai": {
+  "id": "openai-another-researcher-says-openai",
+  "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
+  "firstSeen": "2026-09-10T14:14:53.491Z",
+  "publishers": [
+   "bsky.app"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 2.7,
+  "confidence": "Unverified",
+  "category": "research"
+ },
+ "deepseek-deepseek-flash": {
+  "id": "deepseek-deepseek-flash",
+  "title": "DeepSeek v4.1 Flash",
+  "firstSeen": "2026-09-10T09:33:15.892Z",
+  "publishers": [
+   "X"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 2.7,
+  "confidence": "Unverified",
+  "category": "general"
+ },
+ "clearview-testing-tool-that": {
+  "id": "clearview-testing-tool-that",
+  "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+  "firstSeen": "2026-09-10T14:14:53.491Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.7,
+  "confidence": "Developing",
+  "category": "tools"
+ },
  "healthcare-next-test-integration": {
   "id": "healthcare-next-test-integration",
   "title": "Healthcare AI’s next test is integration",
@@ -377,33 +419,5 @@
   "importance": 2.7,
   "confidence": "Developing",
   "category": "tools"
- },
- "deepseek-deepseek-flash": {
-  "id": "deepseek-deepseek-flash",
-  "title": "DeepSeek v4.1 Flash",
-  "firstSeen": "2026-09-10T09:33:15.892Z",
-  "publishers": [
-   "X"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 2.6,
-  "confidence": "Unverified",
-  "category": "general"
- },
- "desert-labs-local-fast": {
-  "id": "desert-labs-local-fast",
-  "title": "Desert Ant Labs: local, fast models that run on device",
-  "firstSeen": "2026-09-10T09:33:15.892Z",
-  "publishers": [
-   "desertant.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 2.6,
-  "confidence": "Unverified",
-  "category": "general"
  }
 }
