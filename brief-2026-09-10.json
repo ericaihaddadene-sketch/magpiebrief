@@ -1,8 +1,8 @@
 {
  "date": "2026-09-10",
- "generated": "2026-09-10T04:20:06.998Z",
- "headline": "25 developments today. The most significant is new models: Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
- "stats": "22 sources monitored · 2648 items read · 81 on-topic · 25 distinct developments · 14 with a primary source · 0 independently corroborated",
+ "generated": "2026-09-10T09:33:15.958Z",
+ "headline": "29 developments today. The most significant is new models: Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+ "stats": "22 sources monitored · 2648 items read · 81 on-topic · 29 distinct developments · 14 with a primary source · 0 independently corroborated",
  "events": [
   {
    "id": "gpt-qwen-qwen-follows-reasoning-prefills",
@@ -39,7 +39,7 @@
       "amount": 0.6
      },
      {
-      "label": "370 points of reader attention",
+      "label": "424 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -69,7 +69,7 @@
      "publisherDomain": "gist.github.com",
      "kind": "primary",
      "date": "2026-09-09T17:24:28.000Z",
-     "points": 190,
+     "points": 211,
      "summary": ""
     },
     {
@@ -79,7 +79,7 @@
      "publisherDomain": "magazine.sebastianraschka.com",
      "kind": "discussion",
      "date": "2026-09-09T14:37:47.000Z",
-     "points": 370,
+     "points": 424,
      "summary": ""
     }
    ]
@@ -750,6 +750,59 @@
    ]
   },
   {
+   "id": "gemini-volvo-xc40-phev-back",
+   "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.9,
+    "factors": [
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-10T07:00:00.000Z",
+   "latestAt": "2026-09-10T07:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+     "link": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-10T07:00:00.000Z",
+     "points": null,
+     "summary": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the…"
+    }
+   ]
+  },
+  {
    "id": "gpt-told-chatgpt-feeling-delusional",
    "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
    "category": {
@@ -1234,6 +1287,49 @@
    ]
   },
   {
+   "id": "healthcare-next-test-integration",
+   "title": "Healthcare AI’s next test is integration",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.7,
+    "factors": [
+     {
+      "label": "Tools & Products",
+      "amount": 0.2
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-10T08:58:01.000Z",
+   "latestAt": "2026-09-10T08:58:01.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Healthcare AI’s next test is integration",
+     "link": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-09-10T08:58:01.000Z",
+     "points": null,
+     "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly…"
+    }
+   ]
+  },
+  {
    "id": "google-update-google-weather-model",
    "title": "Update to Google’s AI weather model improves forecast accuracy",
    "category": {
@@ -1279,6 +1375,106 @@
      "date": "2026-09-08T18:00:56.000Z",
      "points": null,
      "summary": "Like traditional weather models, it benefits from an expanded set of inputs."
+    }
+   ]
+  },
+  {
+   "id": "deepseek-deepseek-flash",
+   "title": "DeepSeek v4.1 Flash",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "deepseek",
+     "name": "DeepSeek",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.6,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "305 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-10T06:11:05.000Z",
+   "latestAt": "2026-09-10T06:11:05.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "DeepSeek v4.1 Flash",
+     "link": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+     "publisher": "X",
+     "publisherDomain": "twitter.com",
+     "kind": "discussion",
+     "date": "2026-09-10T06:11:05.000Z",
+     "points": 305,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "desert-labs-local-fast",
+   "title": "Desert Ant Labs: local, fast models that run on device",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.6,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "445 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-09T11:39:46.000Z",
+   "latestAt": "2026-09-09T11:39:46.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Desert Ant Labs: local, fast models that run on device",
+     "link": "https://desertant.com/blog/introducing-desert-ant-labs/",
+     "publisher": "desertant.com",
+     "publisherDomain": "desertant.com",
+     "kind": "discussion",
+     "date": "2026-09-09T11:39:46.000Z",
+     "points": 445,
+     "summary": ""
     }
    ]
   }
