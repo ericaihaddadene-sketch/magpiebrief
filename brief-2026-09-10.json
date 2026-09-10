@@ -1,8 +1,8 @@
 {
  "date": "2026-09-10",
- "generated": "2026-09-10T00:02:00.099Z",
- "headline": "27 developments today. The most significant is new models: Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
- "stats": "22 sources monitored · 2648 items read · 78 on-topic · 27 distinct developments · 16 with a primary source · 0 independently corroborated",
+ "generated": "2026-09-10T04:20:06.998Z",
+ "headline": "25 developments today. The most significant is new models: Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+ "stats": "22 sources monitored · 2648 items read · 81 on-topic · 25 distinct developments · 14 with a primary source · 0 independently corroborated",
  "events": [
   {
    "id": "gpt-qwen-qwen-follows-reasoning-prefills",
@@ -39,7 +39,7 @@
       "amount": 0.6
      },
      {
-      "label": "327 points of reader attention",
+      "label": "370 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -69,7 +69,7 @@
      "publisherDomain": "gist.github.com",
      "kind": "primary",
      "date": "2026-09-09T17:24:28.000Z",
-     "points": 159,
+     "points": 190,
      "summary": ""
     },
     {
@@ -79,68 +79,7 @@
      "publisherDomain": "magazine.sebastianraschka.com",
      "kind": "discussion",
      "date": "2026-09-09T14:37:47.000Z",
-     "points": 327,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "claude-show-self-hosted-company",
-   "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 5.4,
-    "factors": [
-     {
-      "label": "Primary source (GitHub)",
-      "amount": 1.5
-     },
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-09T17:57:55.000Z",
-   "latestAt": "2026-09-09T17:57:55.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/OtoDock/oto-dock",
-    "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments"
-   },
-   "sources": [
-    {
-     "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-     "link": "https://github.com/OtoDock/oto-dock",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-09-09T17:57:55.000Z",
-     "points": 37,
+     "points": 370,
      "summary": ""
     }
    ]
@@ -370,53 +309,6 @@
    ]
   },
   {
-   "id": "procedural-graphs-self-evolving",
-   "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (arXiv)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-09T17:13:52.000Z",
-   "latestAt": "2026-09-09T17:13:52.000Z",
-   "primary": {
-    "publisher": "arXiv",
-    "link": "https://arxiv.org/abs/2609.09153",
-    "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents"
-   },
-   "sources": [
-    {
-     "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-     "link": "https://arxiv.org/abs/2609.09153",
-     "publisher": "arXiv",
-     "publisherDomain": "arxiv.org",
-     "kind": "research",
-     "date": "2026-09-09T17:13:52.000Z",
-     "points": 40,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "openai-paul-christiano-joins-openai",
    "title": "Paul Christiano joins OpenAI Foundation Board",
    "category": {
@@ -590,7 +482,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -984,7 +876,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1119,7 +1011,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1276,7 +1168,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
