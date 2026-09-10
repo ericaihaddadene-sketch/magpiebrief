@@ -97,19 +97,19 @@
   "confidence": "Confirmed",
   "category": "tools"
  },
- "gpt-cognition-launches-model-rivaling": {
-  "id": "gpt-cognition-launches-model-rivaling",
-  "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-  "firstSeen": "2026-09-10T21:32:11.988Z",
+ "toolgrad-efficient-tool-dataset": {
+  "id": "toolgrad-efficient-tool-dataset",
+  "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
+  "firstSeen": "2026-09-10T23:57:05.269Z",
   "publishers": [
-   "cognition.com"
+   "Google Research"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 4,
-  "confidence": "Unverified",
-  "category": "models"
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4.2,
+  "confidence": "Confirmed",
+  "category": "tools"
  },
  "detecting-countering-misuse-september": {
   "id": "detecting-countering-misuse-september",
@@ -124,6 +124,20 @@
   "importance": 4,
   "confidence": "Confirmed",
   "category": "general"
+ },
+ "gpt-cognition-launches-model-rivaling": {
+  "id": "gpt-cognition-launches-model-rivaling",
+  "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+  "firstSeen": "2026-09-10T21:32:11.988Z",
+  "publishers": [
+   "cognition.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 4,
+  "confidence": "Unverified",
+  "category": "models"
  },
  "everyone-data-work": {
   "id": "everyone-data-work",
@@ -335,6 +349,20 @@
   "confidence": "Confirmed",
   "category": "general"
  },
+ "openai-openai-wants-know-industry": {
+  "id": "openai-openai-wants-know-industry",
+  "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+  "firstSeen": "2026-09-10T23:57:05.269Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.1,
+  "confidence": "Developing",
+  "category": "policy"
+ },
  "first-bill-introduced-superintelligent": {
   "id": "first-bill-introduced-superintelligent",
   "title": "First Bill Introduced to Ban Superintelligent AI",
@@ -390,20 +418,6 @@
   "importance": 2.9,
   "confidence": "Developing",
   "category": "general"
- },
- "openai-more-questions-about-whether": {
-  "id": "openai-more-questions-about-whether",
-  "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-  "firstSeen": "2026-09-10T21:32:11.988Z",
-  "publishers": [
-   "mathstodon.xyz"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 2.9,
-  "confidence": "Unverified",
-  "category": "research"
  },
  "india-pocket-doubles-revenue": {
   "id": "india-pocket-doubles-revenue",
@@ -502,20 +516,6 @@
   "importance": 2.7,
   "confidence": "Developing",
   "category": "tools"
- },
- "deepseek-deepseek-flash": {
-  "id": "deepseek-deepseek-flash",
-  "title": "DeepSeek v4.1 Flash",
-  "firstSeen": "2026-09-10T21:32:11.988Z",
-  "publishers": [
-   "X"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 2.7,
-  "confidence": "Unverified",
-  "category": "general"
  },
  "universal-music-launching-music": {
   "id": "universal-music-launching-music",
