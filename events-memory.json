@@ -5,21 +5,21 @@
   "firstSeen": "2026-09-10T00:01:59.987Z",
   "publishers": [
    "OpenAI",
-   "cognition.com"
+   "Ahead of AI"
   ],
   "sourceCount": 2,
-  "independentCount": 1,
+  "independentCount": 2,
   "hadPrimary": true,
-  "importance": 6.3,
+  "importance": 7.1,
   "confidence": "Confirmed",
   "category": "models"
  },
- "gpt-introducing-chatgpt-financial-services": {
-  "id": "gpt-introducing-chatgpt-financial-services",
-  "title": "Introducing ChatGPT for Financial Services",
-  "firstSeen": "2026-09-10T21:32:11.988Z",
+ "gemini-gemini-available-windows": {
+  "id": "gemini-gemini-available-windows",
+  "title": "The Gemini app is now available for Windows",
+  "firstSeen": "2026-09-11T09:29:53.283Z",
   "publishers": [
-   "OpenAI"
+   "Google"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -28,10 +28,10 @@
   "confidence": "Confirmed",
   "category": "models"
  },
- "gpt-helps-quantum-computing-experiments": {
-  "id": "gpt-helps-quantum-computing-experiments",
-  "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-  "firstSeen": "2026-09-08T21:45:18.840Z",
+ "gpt-introducing-chatgpt-financial-services": {
+  "id": "gpt-introducing-chatgpt-financial-services",
+  "title": "Introducing ChatGPT for Financial Services",
+  "firstSeen": "2026-09-10T21:32:11.988Z",
   "publishers": [
    "OpenAI"
   ],
@@ -70,10 +70,24 @@
   "confidence": "Confirmed",
   "category": "research"
  },
- "gpt-build-more-natural-voice": {
-  "id": "gpt-build-more-natural-voice",
-  "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-  "firstSeen": "2026-09-10T18:17:03.128Z",
+ "gpt-helps-quantum-computing-experiments": {
+  "id": "gpt-helps-quantum-computing-experiments",
+  "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+  "firstSeen": "2026-09-08T21:45:18.840Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4.9,
+  "confidence": "Confirmed",
+  "category": "models"
+ },
+ "gpt-live": {
+  "id": "gpt-live",
+  "title": "GPT‑Live‑1 in the API",
+  "firstSeen": "2026-09-11T09:29:53.283Z",
   "publishers": [
    "OpenAI"
   ],
@@ -252,34 +266,6 @@
   "confidence": "Developing",
   "category": "models"
  },
- "gpt-astra-looped-transformers-hidden": {
-  "id": "gpt-astra-looped-transformers-hidden",
-  "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
-  "firstSeen": "2026-09-10T18:17:03.128Z",
-  "publishers": [
-   "Ahead of AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.9,
-  "confidence": "Developing",
-  "category": "models"
- },
- "funding-grants-research-into": {
-  "id": "funding-grants-research-into",
-  "title": "Funding grants for new research into AI and teen development",
-  "firstSeen": "2026-09-08T18:30:01.375Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 3.9,
-  "confidence": "Confirmed",
-  "category": "business"
- },
  "work-within-reach": {
   "id": "work-within-reach",
   "title": "The Work Now Within Reach",
@@ -350,6 +336,20 @@
   "confidence": "Developing",
   "category": "policy"
  },
+ "hugging-face-openai-safety-openai-huggingface-reproduction-lessons": {
+  "id": "hugging-face-openai-safety-openai-huggingface-reproduction-lessons",
+  "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+  "firstSeen": "2026-09-11T09:29:53.283Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.9,
+  "confidence": "Developing",
+  "category": "general"
+ },
  "anthropic-alibaba-deepseek-anthropic-details-distillation-campaigns": {
   "id": "anthropic-alibaba-deepseek-anthropic-details-distillation-campaigns",
   "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
@@ -366,7 +366,7 @@
  },
  "nvidia-enflame-shares-soar-shanghai": {
   "id": "nvidia-enflame-shares-soar-shanghai",
-  "title": "Enflame shares soar 188% on Shanghai debut as Nvidia challenger taps investor fever for AI",
+  "title": "Enflame shares soar 179% in Shanghai debut as Nvidia challenger taps investor fever for AI",
   "firstSeen": "2026-09-11T04:19:45.008Z",
   "publishers": [
    "SCMP Tech"
@@ -420,24 +420,10 @@
   "confidence": "Developing",
   "category": "business"
  },
- "mistral-funding-mistral-raises-valuation-another": {
-  "id": "mistral-funding-mistral-raises-valuation-another",
-  "title": "Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round",
-  "firstSeen": "2026-09-08T18:30:01.375Z",
-  "publishers": [
-   "Crunchbase News"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.9,
-  "confidence": "Developing",
-  "category": "business"
- },
- "anthropic-researcher-just-quit-anthropic": {
-  "id": "anthropic-researcher-just-quit-anthropic",
-  "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
-  "firstSeen": "2026-09-10T00:01:59.987Z",
+ "many-researchers-think-machines": {
+  "id": "many-researchers-think-machines",
+  "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+  "firstSeen": "2026-09-11T09:29:53.283Z",
   "publishers": [
    "Wired AI"
   ],
@@ -448,12 +434,12 @@
   "confidence": "Developing",
   "category": "research"
  },
- "records-reveal-problems-with": {
-  "id": "records-reveal-problems-with",
-  "title": "New Records Reveal Problems with Medicare’s AI Prior Authorization Experiment",
-  "firstSeen": "2026-09-09T18:29:36.931Z",
+ "anthropic-researcher-just-quit-anthropic": {
+  "id": "anthropic-researcher-just-quit-anthropic",
+  "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+  "firstSeen": "2026-09-10T00:01:59.987Z",
   "publishers": [
-   "EFF"
+   "Wired AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -510,20 +496,6 @@
   "firstSeen": "2026-09-10T09:33:15.892Z",
   "publishers": [
    "MIT Tech Review"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.7,
-  "confidence": "Developing",
-  "category": "tools"
- },
- "google-update-google-weather-model": {
-  "id": "google-update-google-weather-model",
-  "title": "Update to Google’s AI weather model improves forecast accuracy",
-  "firstSeen": "2026-09-08T18:30:01.375Z",
-  "publishers": [
-   "Ars Technica AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,

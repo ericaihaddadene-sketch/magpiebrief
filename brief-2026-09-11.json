@@ -1,8 +1,8 @@
 {
  "date": "2026-09-11",
- "generated": "2026-09-11T04:19:45.079Z",
- "headline": "38 developments today. The most significant is new models: GPT-6 Astra: The next generation in intelligence for work",
- "stats": "22 sources monitored · 2655 items read · 87 on-topic · 38 distinct developments · 20 with a primary source · 0 independently corroborated",
+ "generated": "2026-09-11T09:29:53.361Z",
+ "headline": "36 developments today. The most significant is new models: GPT-6 Astra: The next generation in intelligence for work",
+ "stats": "22 sources monitored · 2655 items read · 85 on-topic · 36 distinct developments · 20 with a primary source · 1 independently corroborated",
  "events": [
   {
    "id": "gpt-astra-next-generation-intelligence",
@@ -19,8 +19,12 @@
     }
    ],
    "importance": {
-    "score": 6.3,
+    "score": 7.1,
     "factors": [
+     {
+      "label": "2 independent outlets",
+      "amount": 1.7
+     },
      {
       "label": "Primary source (OpenAI)",
       "amount": 1.5
@@ -32,10 +36,6 @@
      {
       "label": "Names a specific model",
       "amount": 0.6
-     },
-     {
-      "label": "369 points of reader attention",
-      "amount": 0.9
      }
     ]
    },
@@ -43,17 +43,17 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "developing",
+   "status": "confirmed",
    "deltas": [
-    "Now also covered by cognition.com.",
-    "Importance rose 0.9 to 6.3."
+    "Now also covered by Ahead of AI.",
+    "Importance rose 0.8 to 7.1."
    ],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 2,
-   "independentCount": 1,
+   "independentCount": 2,
    "publishedAt": "2026-09-09T11:00:00.000Z",
-   "latestAt": "2026-09-10T15:29:47.000Z",
+   "latestAt": "2026-09-09T11:14:25.000Z",
    "primary": {
     "publisher": "OpenAI",
     "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
@@ -71,13 +71,74 @@
      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
     },
     {
-     "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-     "link": "https://cognition.com/blog/swe-2",
-     "publisher": "cognition.com",
-     "publisherDomain": "cognition.com",
-     "kind": "discussion",
-     "date": "2026-09-10T15:29:47.000Z",
-     "points": 369,
+     "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+     "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+     "publisher": "Ahead of AI",
+     "publisherDomain": "magazine.sebastianraschka.com",
+     "kind": "coverage",
+     "date": "2026-09-09T11:14:25.000Z",
+     "points": null,
+     "summary": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks"
+    }
+   ]
+  },
+  {
+   "id": "gemini-gemini-available-windows",
+   "title": "The Gemini app is now available for Windows",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 5.4,
+    "factors": [
+     {
+      "label": "Primary source (Google)",
+      "amount": 1.5
+     },
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-11T04:52:20.000Z",
+   "latestAt": "2026-09-11T04:52:20.000Z",
+   "primary": {
+    "publisher": "Google",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+    "title": "The Gemini app is now available for Windows"
+   },
+   "sources": [
+    {
+     "title": "The Gemini app is now available for Windows",
+     "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+     "publisher": "Google",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-11T04:52:20.000Z",
+     "points": 44,
      "summary": ""
     }
    ]
@@ -144,67 +205,6 @@
    ]
   },
   {
-   "id": "gpt-helps-quantum-computing-experiments",
-   "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 5.4,
-    "factors": [
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     },
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-08T17:00:00.000Z",
-   "latestAt": "2026-09-08T17:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/codex-quantum-computing-experiments",
-    "title": "How GPT-5.6 Sol helps run quantum computing experiments"
-   },
-   "sources": [
-    {
-     "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-     "link": "https://openai.com/index/codex-quantum-computing-experiments",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-08T17:00:00.000Z",
-     "points": null,
-     "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
-    }
-   ]
-  },
-  {
    "id": "openai-openai-agents",
    "title": "OpenAI Agents API",
    "category": {
@@ -230,7 +230,7 @@
       "amount": 0.2
      },
      {
-      "label": "179 points of reader attention",
+      "label": "254 points of reader attention",
       "amount": 0.8
      }
     ]
@@ -240,9 +240,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance rose 0.8 to 5."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -262,7 +260,7 @@
      "publisherDomain": "developers.openai.com",
      "kind": "primary",
      "date": "2026-09-10T19:43:22.000Z",
-     "points": 179,
+     "points": 254,
      "summary": ""
     }
    ]
@@ -329,8 +327,75 @@
    ]
   },
   {
-   "id": "gpt-build-more-natural-voice",
-   "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+   "id": "gpt-helps-quantum-computing-experiments",
+   "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 4.9,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [
+    "Importance fell 0.5 to 4.9."
+   ],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-08T17:00:00.000Z",
+   "latestAt": "2026-09-08T17:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/codex-quantum-computing-experiments",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments"
+   },
+   "sources": [
+    {
+     "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+     "link": "https://openai.com/index/codex-quantum-computing-experiments",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-08T17:00:00.000Z",
+     "points": null,
+     "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
+    }
+   ]
+  },
+  {
+   "id": "gpt-live",
+   "title": "GPT‑Live‑1 in the API",
    "category": {
     "id": "tools",
     "name": "Tools & Products"
@@ -363,29 +428,29 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "confirmed",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-10T00:00:00.000Z",
-   "latestAt": "2026-09-10T00:00:00.000Z",
+   "publishedAt": "2026-09-11T05:45:19.000Z",
+   "latestAt": "2026-09-11T05:45:19.000Z",
    "primary": {
     "publisher": "OpenAI",
-    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API"
+    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+    "title": "GPT‑Live‑1 in the API"
    },
    "sources": [
     {
-     "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-     "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+     "title": "GPT‑Live‑1 in the API",
+     "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
      "publisher": "OpenAI",
      "publisherDomain": "openai.com",
      "kind": "primary",
-     "date": "2026-09-10T00:00:00.000Z",
-     "points": null,
-     "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
+     "date": "2026-09-11T05:45:19.000Z",
+     "points": 7,
+     "summary": ""
     }
    ]
   },
@@ -456,7 +521,7 @@
       "amount": 1.5
      },
      {
-      "label": "100 points of reader attention",
+      "label": "130 points of reader attention",
       "amount": 0.7
      }
     ]
@@ -466,9 +531,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance rose 0.7 to 4.7."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -488,7 +551,7 @@
      "publisherDomain": "anthropic.com",
      "kind": "primary",
      "date": "2026-09-10T17:23:42.000Z",
-     "points": 100,
+     "points": 130,
      "summary": ""
     }
    ]
@@ -986,114 +1049,6 @@
    ]
   },
   {
-   "id": "gpt-astra-looped-transformers-hidden",
-   "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 3.9,
-    "factors": [
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-09T11:14:25.000Z",
-   "latestAt": "2026-09-09T11:14:25.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
-     "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-     "publisher": "Ahead of AI",
-     "publisherDomain": "magazine.sebastianraschka.com",
-     "kind": "coverage",
-     "date": "2026-09-09T11:14:25.000Z",
-     "points": null,
-     "summary": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks"
-    }
-   ]
-  },
-  {
-   "id": "funding-grants-research-into",
-   "title": "Funding grants for new research into AI and teen development",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [],
-   "importance": {
-    "score": 3.9,
-    "factors": [
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     },
-     {
-      "label": "Business",
-      "amount": 0.4
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-08T09:00:00.000Z",
-   "latestAt": "2026-09-08T09:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/teen-development-research-grants",
-    "title": "Funding grants for new research into AI and teen development"
-   },
-   "sources": [
-    {
-     "title": "Funding grants for new research into AI and teen development",
-     "link": "https://openai.com/index/teen-development-research-grants",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-08T09:00:00.000Z",
-     "points": null,
-     "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
-    }
-   ]
-  },
-  {
    "id": "work-within-reach",
    "title": "The Work Now Within Reach",
    "category": {
@@ -1119,9 +1074,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 3.5."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -1172,9 +1125,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 3.5."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -1335,6 +1286,65 @@
    ]
   },
   {
+   "id": "hugging-face-openai-safety-openai-huggingface-reproduction-lessons",
+   "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    },
+    {
+     "id": "hugging-face",
+     "name": "Hugging Face",
+     "kind": "org"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Involves multiple organisations",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-11T08:48:52.000Z",
+   "latestAt": "2026-09-11T08:48:52.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+     "link": "https://www.lesswrong.com/posts/fMnC6ZD37qrnZAFYz/openai-huggingface-a-reproduction-and-lessons-for-alignment",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-11T08:48:52.000Z",
+     "points": null,
+     "summary": "Stewart Slocum*, Malayandi Palan*, Christopher Chute, Michael Kim, Benjamin Van Roy In July 2026, OpenAI’s agents coordinated over channels outside their intended environment to breach Hugging…"
+    }
+   ]
+  },
+  {
    "id": "anthropic-alibaba-deepseek-anthropic-details-distillation-campaigns",
    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
    "category": {
@@ -1395,7 +1405,7 @@
   },
   {
    "id": "nvidia-enflame-shares-soar-shanghai",
-   "title": "Enflame shares soar 188% on Shanghai debut as Nvidia challenger taps investor fever for AI",
+   "title": "Enflame shares soar 179% in Shanghai debut as Nvidia challenger taps investor fever for AI",
    "category": {
     "id": "business",
     "name": "Business"
@@ -1420,7 +1430,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1431,14 +1441,14 @@
    "primary": null,
    "sources": [
     {
-     "title": "Enflame shares soar 188% on Shanghai debut as Nvidia challenger taps investor fever for AI",
+     "title": "Enflame shares soar 179% in Shanghai debut as Nvidia challenger taps investor fever for AI",
      "link": "https://www.scmp.com/tech/tech-trends/article/3367124/enflame-shares-soar-188-shanghai-debut-nvidia-challenger-taps-investor-fever-ai?utm_source=rss_feed",
      "publisher": "SCMP Tech",
      "publisherDomain": "scmp.com",
      "kind": "coverage",
      "date": "2026-09-11T01:45:56.000Z",
      "points": null,
-     "summary": "Enflame Technology, one of the major challengers to Nvidia in China, saw its share price surge 188 per cent in its Shanghai trading debut on Friday…"
+     "summary": "Enflame Technology, one of the major challengers to Nvidia in China, saw its share price surge 179 per cent in its Shanghai trading debut on Friday…"
     }
    ]
   },
@@ -1589,30 +1599,19 @@
    ]
   },
   {
-   "id": "mistral-funding-mistral-raises-valuation-another",
-   "title": "Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round",
+   "id": "many-researchers-think-machines",
+   "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
    "category": {
-    "id": "business",
-    "name": "Business"
+    "id": "research",
+    "name": "Research"
    },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "mistral",
-     "name": "Mistral",
-     "kind": "org"
-    }
-   ],
+   "entities": [],
    "importance": {
-    "score": 2.9,
+    "score": 2.8,
     "factors": [
      {
-      "label": "Business",
-      "amount": 0.4
+      "label": "Research",
+      "amount": 0.3
      }
     ]
    },
@@ -1620,25 +1619,25 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "developing",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-08T18:02:38.000Z",
-   "latestAt": "2026-09-08T18:02:38.000Z",
+   "publishedAt": "2026-09-11T09:00:00.000Z",
+   "latestAt": "2026-09-11T09:00:00.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round",
-     "link": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/",
-     "publisher": "Crunchbase News",
-     "publisherDomain": "news.crunchbase.com",
+     "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+     "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
      "kind": "coverage",
-     "date": "2026-09-08T18:02:38.000Z",
+     "date": "2026-09-11T09:00:00.000Z",
      "points": null,
-     "summary": "Paris-based generative AI startup Mistral AI said Tuesday that it has nearly doubled its valuation to more than $24 billion with a Samsung Electronics-led $3.5 billion…"
+     "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs."
     }
    ]
   },
@@ -1688,49 +1687,6 @@
      "date": "2026-09-09T22:11:55.000Z",
      "points": null,
      "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left…"
-    }
-   ]
-  },
-  {
-   "id": "records-reveal-problems-with",
-   "title": "New Records Reveal Problems with Medicare’s AI Prior Authorization Experiment",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [],
-   "importance": {
-    "score": 2.8,
-    "factors": [
-     {
-      "label": "Research",
-      "amount": 0.3
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-08T19:19:44.000Z",
-   "latestAt": "2026-09-08T19:19:44.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "New Records Reveal Problems with Medicare’s AI Prior Authorization Experiment",
-     "link": "https://www.eff.org/deeplinks/2026/09/new-records-reveal-problems-medicares-ai-prior-authorization-experiment",
-     "publisher": "EFF",
-     "publisherDomain": "eff.org",
-     "kind": "coverage",
-     "date": "2026-09-08T19:19:44.000Z",
-     "points": null,
-     "summary": "EFF sued the government back in March for information about the Wasteful and Inappropriate Service Reduction (WISeR) model , a new Medicare program that uses AI…"
     }
    ]
   },
@@ -1914,55 +1870,6 @@
      "date": "2026-09-10T08:58:01.000Z",
      "points": null,
      "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly…"
-    }
-   ]
-  },
-  {
-   "id": "google-update-google-weather-model",
-   "title": "Update to Google’s AI weather model improves forecast accuracy",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 2.7,
-    "factors": [
-     {
-      "label": "Tools & Products",
-      "amount": 0.2
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-08T18:00:56.000Z",
-   "latestAt": "2026-09-08T18:00:56.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Update to Google’s AI weather model improves forecast accuracy",
-     "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-08T18:00:56.000Z",
-     "points": null,
-     "summary": "Like traditional weather models, it benefits from an expanded set of inputs."
     }
    ]
   }
