@@ -14,6 +14,20 @@
   "confidence": "Confirmed",
   "category": "models"
  },
+ "gpt-rapidly-scaling-online-storage": {
+  "id": "gpt-rapidly-scaling-online-storage",
+  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+  "firstSeen": "2026-09-11T18:21:05.988Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 5.4,
+  "confidence": "Confirmed",
+  "category": "models"
+ },
  "gpt-introducing-chatgpt-financial-services": {
   "id": "gpt-introducing-chatgpt-financial-services",
   "title": "Introducing ChatGPT for Financial Services",
@@ -28,20 +42,6 @@
   "confidence": "Confirmed",
   "category": "models"
  },
- "openai-openai-agents": {
-  "id": "openai-openai-agents",
-  "title": "OpenAI Agents API",
-  "firstSeen": "2026-09-10T21:32:11.988Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 5.1,
-  "confidence": "Confirmed",
-  "category": "tools"
- },
  "gpt-researcher-uses-codex-chatgpt": {
   "id": "gpt-researcher-uses-codex-chatgpt",
   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -55,20 +55,6 @@
   "importance": 4.9,
   "confidence": "Confirmed",
   "category": "research"
- },
- "gpt-helps-quantum-computing-experiments": {
-  "id": "gpt-helps-quantum-computing-experiments",
-  "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-  "firstSeen": "2026-09-08T21:45:18.840Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4.9,
-  "confidence": "Confirmed",
-  "category": "models"
  },
  "gpt-build-more-natural-voice": {
   "id": "gpt-build-more-natural-voice",
@@ -111,6 +97,34 @@
   "importance": 4.2,
   "confidence": "Confirmed",
   "category": "tools"
+ },
+ "introducing-agents": {
+  "id": "introducing-agents",
+  "title": "Introducing the Agents API",
+  "firstSeen": "2026-09-11T18:21:05.988Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4.2,
+  "confidence": "Confirmed",
+  "category": "tools"
+ },
+ "claude-claude-only-available-people": {
+  "id": "claude-claude-only-available-people",
+  "title": "Claude is only available to people over 18 years",
+  "firstSeen": "2026-09-11T18:21:05.988Z",
+  "publishers": [
+   "support.claude.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 4,
+  "confidence": "Unverified",
+  "category": "models"
  },
  "everyone-data-work": {
   "id": "everyone-data-work",
@@ -224,20 +238,6 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "claude-claude-longer-available-minors": {
-  "id": "claude-claude-longer-available-minors",
-  "title": "Claude is no longer available for minors",
-  "firstSeen": "2026-09-11T14:14:39.659Z",
-  "publishers": [
-   "support.claude.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 3.9,
-  "confidence": "Unverified",
-  "category": "models"
- },
  "claude-claude-users-found-ways": {
   "id": "claude-claude-users-found-ways",
   "title": "Claude users found ways around safeguards for bioweapons research",
@@ -265,20 +265,6 @@
   "importance": 3.9,
   "confidence": "Developing",
   "category": "models"
- },
- "safety-whom-refusing-right": {
-  "id": "safety-whom-refusing-right",
-  "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-  "firstSeen": "2026-09-08T15:02:58.092Z",
-  "publishers": [
-   "Hugging Face"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 3.5,
-  "confidence": "Confirmed",
-  "category": "general"
  },
  "openai-openai-wants-know-industry": {
   "id": "openai-openai-wants-know-industry",
@@ -322,19 +308,19 @@
   "confidence": "Developing",
   "category": "policy"
  },
- "hugging-face-openai-safety-openai-huggingface-reproduction-lessons": {
-  "id": "hugging-face-openai-safety-openai-huggingface-reproduction-lessons",
-  "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
-  "firstSeen": "2026-09-11T09:29:53.283Z",
+ "openai-funding-nscale-adds-former-openai": {
+  "id": "openai-funding-nscale-adds-former-openai",
+  "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+  "firstSeen": "2026-09-11T18:21:05.988Z",
   "publishers": [
-   "LessWrong"
+   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
   "importance": 2.9,
   "confidence": "Developing",
-  "category": "general"
+  "category": "business"
  },
  "anthropic-alibaba-deepseek-anthropic-details-distillation-campaigns": {
   "id": "anthropic-alibaba-deepseek-anthropic-details-distillation-campaigns",

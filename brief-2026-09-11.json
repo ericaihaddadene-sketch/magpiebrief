@@ -1,8 +1,8 @@
 {
  "date": "2026-09-11",
- "generated": "2026-09-11T14:14:39.728Z",
- "headline": "34 developments today. The most significant is new models: GPT-6 Astra: The next generation in intelligence for work",
- "stats": "22 sources monitored · 2655 items read · 86 on-topic · 34 distinct developments · 17 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-11T18:21:06.055Z",
+ "headline": "33 developments today. The most significant is new models: GPT-6 Astra: The next generation in intelligence for work",
+ "stats": "22 sources monitored · 2656 items read · 86 on-topic · 33 distinct developments · 16 with a primary source · 1 independently corroborated",
  "events": [
   {
    "id": "gpt-astra-next-generation-intelligence",
@@ -80,6 +80,67 @@
    ]
   },
   {
+   "id": "gpt-rapidly-scaling-online-storage",
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 5.4,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-11T10:00:00.000Z",
+   "latestAt": "2026-09-11T10:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users"
+   },
+   "sources": [
+    {
+     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+     "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-11T10:00:00.000Z",
+     "points": null,
+     "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+    }
+   ]
+  },
+  {
    "id": "gpt-introducing-chatgpt-financial-services",
    "title": "Introducing ChatGPT for Financial Services",
    "category": {
@@ -136,67 +197,6 @@
      "kind": "primary",
      "date": "2026-09-10T07:00:00.000Z",
      "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "openai-openai-agents",
-   "title": "OpenAI Agents API",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 5.1,
-    "factors": [
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     },
-     {
-      "label": "Tools & Products",
-      "amount": 0.2
-     },
-     {
-      "label": "299 points of reader attention",
-      "amount": 0.9
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-10T19:43:22.000Z",
-   "latestAt": "2026-09-10T19:43:22.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-    "title": "OpenAI Agents API"
-   },
-   "sources": [
-    {
-     "title": "OpenAI Agents API",
-     "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-     "publisher": "OpenAI",
-     "publisherDomain": "developers.openai.com",
-     "kind": "primary",
-     "date": "2026-09-10T19:43:22.000Z",
-     "points": 299,
      "summary": ""
     }
    ]
@@ -259,71 +259,6 @@
      "date": "2026-09-10T16:00:00.000Z",
      "points": null,
      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
-    }
-   ]
-  },
-  {
-   "id": "gpt-helps-quantum-computing-experiments",
-   "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 4.9,
-    "factors": [
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     },
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-08T17:00:00.000Z",
-   "latestAt": "2026-09-08T17:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/codex-quantum-computing-experiments",
-    "title": "How GPT-5.6 Sol helps run quantum computing experiments"
-   },
-   "sources": [
-    {
-     "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-     "link": "https://openai.com/index/codex-quantum-computing-experiments",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-08T17:00:00.000Z",
-     "points": null,
-     "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
     }
    ]
   },
@@ -486,6 +421,118 @@
      "kind": "primary",
      "date": "2026-09-10T22:50:22.000Z",
      "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "introducing-agents",
+   "title": "Introducing the Agents API",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4.2,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "Tools & Products",
+      "amount": 0.2
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-10T00:00:00.000Z",
+   "latestAt": "2026-09-10T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/introducing-the-agents-api",
+    "title": "Introducing the Agents API"
+   },
+   "sources": [
+    {
+     "title": "Introducing the Agents API",
+     "link": "https://openai.com/index/introducing-the-agents-api",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-10T00:00:00.000Z",
+     "points": null,
+     "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
+    }
+   ]
+  },
+  {
+   "id": "claude-claude-only-available-people",
+   "title": "Claude is only available to people over 18 years",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     },
+     {
+      "label": "383 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-11T10:48:00.000Z",
+   "latestAt": "2026-09-11T10:48:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Claude is only available to people over 18 years",
+     "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+     "publisher": "support.claude.com",
+     "publisherDomain": "support.claude.com",
+     "kind": "discussion",
+     "date": "2026-09-11T10:48:00.000Z",
+     "points": 383,
      "summary": ""
     }
    ]
@@ -879,67 +926,6 @@
    ]
   },
   {
-   "id": "claude-claude-longer-available-minors",
-   "title": "Claude is no longer available for minors",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 3.9,
-    "factors": [
-     {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
-     },
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     },
-     {
-      "label": "219 points of reader attention",
-      "amount": 0.8
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
-   },
-   "status": "emerging",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-11T10:48:00.000Z",
-   "latestAt": "2026-09-11T10:48:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Claude is no longer available for minors",
-     "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-     "publisher": "support.claude.com",
-     "publisherDomain": "support.claude.com",
-     "kind": "discussion",
-     "date": "2026-09-11T10:48:00.000Z",
-     "points": 219,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "claude-claude-users-found-ways",
    "title": "Claude users found ways around safeguards for bioweapons research",
    "category": {
@@ -970,7 +956,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1042,57 +1028,6 @@
      "date": "2026-09-09T11:00:10.000Z",
      "points": null,
      "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt."
-    }
-   ]
-  },
-  {
-   "id": "safety-whom-refusing-right",
-   "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 3.5,
-    "factors": [
-     {
-      "label": "Primary source (Hugging Face)",
-      "amount": 1.5
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-08T14:23:07.000Z",
-   "latestAt": "2026-09-08T14:23:07.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic"
-   },
-   "sources": [
-    {
-     "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-     "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-09-08T14:23:07.000Z",
-     "points": null,
-     "summary": ""
     }
    ]
   },
@@ -1232,22 +1167,17 @@
    ]
   },
   {
-   "id": "hugging-face-openai-safety-openai-huggingface-reproduction-lessons",
-   "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+   "id": "openai-funding-nscale-adds-former-openai",
+   "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
    "category": {
-    "id": "general",
-    "name": "Developments"
+    "id": "business",
+    "name": "Business"
    },
    "entities": [
     {
-     "id": "safety",
-     "name": "AI Safety",
+     "id": "funding",
+     "name": "Funding",
      "kind": "topic"
-    },
-    {
-     "id": "hugging-face",
-     "name": "Hugging Face",
-     "kind": "org"
     },
     {
      "id": "openai",
@@ -1259,7 +1189,7 @@
     "score": 2.9,
     "factors": [
      {
-      "label": "Involves multiple organisations",
+      "label": "Business",
       "amount": 0.4
      }
     ]
@@ -1268,25 +1198,25 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "developing",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-11T08:48:52.000Z",
-   "latestAt": "2026-09-11T08:48:52.000Z",
+   "publishedAt": "2026-09-11T16:46:25.000Z",
+   "latestAt": "2026-09-11T16:46:25.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
-     "link": "https://www.lesswrong.com/posts/fMnC6ZD37qrnZAFYz/openai-huggingface-a-reproduction-and-lessons-for-alignment",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
+     "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+     "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
      "kind": "coverage",
-     "date": "2026-09-11T08:48:52.000Z",
+     "date": "2026-09-11T16:46:25.000Z",
      "points": null,
-     "summary": "Stewart Slocum*, Malayandi Palan*, Christopher Chute, Michael Kim, Benjamin Van Roy In July 2026, OpenAI’s agents coordinated over channels outside their intended environment to breach Hugging…"
+     "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023."
     }
    ]
   },
