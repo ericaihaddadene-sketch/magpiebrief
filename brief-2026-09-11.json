@@ -1,8 +1,8 @@
 {
  "date": "2026-09-11",
- "generated": "2026-09-11T18:21:06.055Z",
- "headline": "33 developments today. The most significant is new models: GPT-6 Astra: The next generation in intelligence for work",
- "stats": "22 sources monitored · 2656 items read · 86 on-topic · 33 distinct developments · 16 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-11T21:39:20.553Z",
+ "headline": "36 developments today. The most significant is new models: GPT-6 Astra: The next generation in intelligence for work",
+ "stats": "22 sources monitored · 2656 items read · 88 on-topic · 36 distinct developments · 16 with a primary source · 2 independently corroborated",
  "events": [
   {
    "id": "gpt-astra-next-generation-intelligence",
@@ -114,7 +114,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -375,6 +375,65 @@
    ]
   },
   {
+   "id": "agents-agents-shop-digital-wallets",
+   "title": "Ant to let AI agents shop via 10 digital wallets, from AlipayHK to Starryblu to KakaoPay",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "importance": {
+    "score": 4.2,
+    "factors": [
+     {
+      "label": "2 independent outlets",
+      "amount": 1.7
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Highly likely",
+    "why": "Two independent outlets"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-09T18:30:00.000Z",
+   "latestAt": "2026-09-11T09:30:05.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Ant to let AI agents shop via 10 digital wallets, from AlipayHK to Starryblu to KakaoPay",
+     "link": "https://www.scmp.com/tech/big-tech/article/3367183/ant-international-let-ai-agents-shop-across-alipayhk-starryblu-kakaopay-and-toss?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-11T09:30:05.000Z",
+     "points": null,
+     "summary": "Ant International, the overseas affiliate of Chinese fintech giant Ant Group, is making a major bid to power the next phase of mobile payments: letting autonomous…"
+    },
+    {
+     "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
+     "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-09T18:30:00.000Z",
+     "points": null,
+     "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also…"
+    }
+   ]
+  },
+  {
    "id": "toolgrad-efficient-tool-dataset",
    "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
    "category": {
@@ -506,7 +565,7 @@
       "amount": 0.6
      },
      {
-      "label": "383 points of reader attention",
+      "label": "514 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -515,7 +574,7 @@
     "level": "Unverified",
     "why": "Community discussion only, no reporting yet"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -532,7 +591,7 @@
      "publisherDomain": "support.claude.com",
      "kind": "discussion",
      "date": "2026-09-11T10:48:00.000Z",
-     "points": 383,
+     "points": 514,
      "summary": ""
     }
    ]
@@ -926,6 +985,59 @@
    ]
   },
   {
+   "id": "gpt-chatgpt-using-lawyer-punished",
+   "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.9,
+    "factors": [
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-11T19:34:09.000Z",
+   "latestAt": "2026-09-11T19:34:09.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+     "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-11T19:34:09.000Z",
+     "points": null,
+     "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says."
+    }
+   ]
+  },
+  {
    "id": "claude-claude-users-found-ways",
    "title": "Claude users found ways around safeguards for bioweapons research",
    "category": {
@@ -1032,6 +1144,60 @@
    ]
   },
   {
+   "id": "meta-ai-copyright-meta-sued-over-training",
+   "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "copyright",
+     "name": "AI & Copyright",
+     "kind": "topic"
+    },
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 3.1,
+    "factors": [
+     {
+      "label": "Policy & Regulation",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-11T18:59:25.000Z",
+   "latestAt": "2026-09-11T18:59:25.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+     "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-11T18:59:25.000Z",
+     "points": null,
+     "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face…"
+    }
+   ]
+  },
+  {
    "id": "openai-openai-wants-know-industry",
    "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
    "category": {
@@ -1081,49 +1247,6 @@
    ]
   },
   {
-   "id": "stealth-startup-thinks-just",
-   "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [],
-   "importance": {
-    "score": 3.1,
-    "factors": [
-     {
-      "label": "Security",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-09T13:00:00.000Z",
-   "latestAt": "2026-09-09T13:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
-     "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-09T13:00:00.000Z",
-     "points": null,
-     "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging."
-    }
-   ]
-  },
-  {
    "id": "china-regulators-take-boyfriends",
    "title": "China’s Regulators Take Aim at “AI Boyfriends”",
    "category": {
@@ -1167,6 +1290,49 @@
    ]
   },
   {
+   "id": "kimi-maker-moonshot-targets",
+   "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Business",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-11T19:35:54.000Z",
+   "latestAt": "2026-09-11T19:35:54.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+     "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-11T19:35:54.000Z",
+     "points": null,
+     "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3…"
+    }
+   ]
+  },
+  {
    "id": "openai-funding-nscale-adds-former-openai",
    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
    "category": {
@@ -1198,7 +1364,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1329,98 +1495,6 @@
    ]
   },
   {
-   "id": "india-pocket-doubles-revenue",
-   "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [],
-   "importance": {
-    "score": 2.9,
-    "factors": [
-     {
-      "label": "Business",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-10T17:45:00.000Z",
-   "latestAt": "2026-09-10T17:45:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-     "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-10T17:45:00.000Z",
-     "points": null,
-     "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper."
-    }
-   ]
-  },
-  {
-   "id": "robotics-maven-robotics-wants-steal",
-   "title": "Maven Robotics wants to steal your robot deployment deal",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "robotics",
-     "name": "Robotics",
-     "kind": "topic"
-    }
-   ],
-   "importance": {
-    "score": 2.9,
-    "factors": [
-     {
-      "label": "Business",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-10T14:17:37.000Z",
-   "latestAt": "2026-09-10T14:17:37.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Maven Robotics wants to steal your robot deployment deal",
-     "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-10T14:17:37.000Z",
-     "points": null,
-     "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
-    }
-   ]
-  },
-  {
    "id": "deepseek-funding-chinese-firm-deepseek-taps",
    "title": "Chinese AI firm DeepSeek taps underwriters including Citic Securities for IPO: sources",
    "category": {
@@ -1471,6 +1545,55 @@
      "date": "2026-09-09T12:34:42.000Z",
      "points": null,
      "summary": "Chinese frontier artificial intelligence lab DeepSeek has hired underwriters including Citic Securities in preparation for a domestic initial public offering (IPO), according to two people familiar…"
+    }
+   ]
+  },
+  {
+   "id": "open-source-combinator-garry-wants-open",
+   "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+   "category": {
+    "id": "opensource",
+    "name": "Open Source"
+   },
+   "entities": [
+    {
+     "id": "open-source",
+     "name": "Open Models",
+     "kind": "topic"
+    }
+   ],
+   "importance": {
+    "score": 2.8,
+    "factors": [
+     {
+      "label": "Open Source",
+      "amount": 0.3
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-11T20:59:47.000Z",
+   "latestAt": "2026-09-11T20:59:47.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+     "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-11T20:59:47.000Z",
+     "points": null,
+     "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\""
     }
    ]
   },
@@ -1703,6 +1826,53 @@
      "date": "2026-09-10T08:58:01.000Z",
      "points": null,
      "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly…"
+    }
+   ]
+  },
+  {
+   "id": "misalignment-mathematics",
+   "title": "A misalignment of AI in mathematics",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.6,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "374 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-11T17:45:12.000Z",
+   "latestAt": "2026-09-11T17:45:12.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "A misalignment of AI in mathematics",
+     "link": "https://mathandai.org/",
+     "publisher": "mathandai.org",
+     "publisherDomain": "mathandai.org",
+     "kind": "discussion",
+     "date": "2026-09-11T17:45:12.000Z",
+     "points": 374,
+     "summary": ""
     }
    ]
   }
