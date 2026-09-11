@@ -1,22 +1,23 @@
 {
- "gpt-introducing-chatgpt-financial-services": {
-  "id": "gpt-introducing-chatgpt-financial-services",
-  "title": "Introducing ChatGPT for Financial Services",
-  "firstSeen": "2026-09-10T21:32:11.988Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 5.4,
-  "confidence": "Confirmed",
-  "category": "models"
- },
  "gpt-astra-next-generation-intelligence": {
   "id": "gpt-astra-next-generation-intelligence",
   "title": "GPT-6 Astra: The next generation in intelligence for work",
   "firstSeen": "2026-09-10T00:01:59.987Z",
+  "publishers": [
+   "OpenAI",
+   "cognition.com"
+  ],
+  "sourceCount": 2,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 6.3,
+  "confidence": "Confirmed",
+  "category": "models"
+ },
+ "gpt-introducing-chatgpt-financial-services": {
+  "id": "gpt-introducing-chatgpt-financial-services",
+  "title": "Introducing ChatGPT for Financial Services",
+  "firstSeen": "2026-09-10T21:32:11.988Z",
   "publishers": [
    "OpenAI"
   ],
@@ -40,6 +41,20 @@
   "importance": 5.4,
   "confidence": "Confirmed",
   "category": "models"
+ },
+ "openai-openai-agents": {
+  "id": "openai-openai-agents",
+  "title": "OpenAI Agents API",
+  "firstSeen": "2026-09-10T21:32:11.988Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 5,
+  "confidence": "Confirmed",
+  "category": "tools"
  },
  "gpt-researcher-uses-codex-chatgpt": {
   "id": "gpt-researcher-uses-codex-chatgpt",
@@ -83,19 +98,19 @@
   "confidence": "Confirmed",
   "category": "models"
  },
- "openai-openai-agents": {
-  "id": "openai-openai-agents",
-  "title": "OpenAI Agents API",
+ "detecting-countering-misuse-september": {
+  "id": "detecting-countering-misuse-september",
+  "title": "Detecting and countering misuse of AI: September 2026",
   "firstSeen": "2026-09-10T21:32:11.988Z",
   "publishers": [
-   "OpenAI"
+   "Anthropic"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "importance": 4.2,
+  "importance": 4.7,
   "confidence": "Confirmed",
-  "category": "tools"
+  "category": "general"
  },
  "toolgrad-efficient-tool-dataset": {
   "id": "toolgrad-efficient-tool-dataset",
@@ -110,34 +125,6 @@
   "importance": 4.2,
   "confidence": "Confirmed",
   "category": "tools"
- },
- "detecting-countering-misuse-september": {
-  "id": "detecting-countering-misuse-september",
-  "title": "Detecting and countering misuse of AI: September 2026",
-  "firstSeen": "2026-09-10T21:32:11.988Z",
-  "publishers": [
-   "Anthropic"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "gpt-cognition-launches-model-rivaling": {
-  "id": "gpt-cognition-launches-model-rivaling",
-  "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-  "firstSeen": "2026-09-10T21:32:11.988Z",
-  "publishers": [
-   "cognition.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 4,
-  "confidence": "Unverified",
-  "category": "models"
  },
  "everyone-data-work": {
   "id": "everyone-data-work",
@@ -251,34 +238,6 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "work-within-reach": {
-  "id": "work-within-reach",
-  "title": "The Work Now Within Reach",
-  "firstSeen": "2026-09-08T15:02:58.092Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "safety-whom-refusing-right": {
-  "id": "safety-whom-refusing-right",
-  "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-  "firstSeen": "2026-09-08T15:02:58.092Z",
-  "publishers": [
-   "Hugging Face"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
  "gpt-told-chatgpt-feeling-delusional": {
   "id": "gpt-told-chatgpt-feeling-delusional",
   "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
@@ -321,9 +280,9 @@
   "confidence": "Confirmed",
   "category": "business"
  },
- "openai-openai-expands-initiatives-support": {
-  "id": "openai-openai-expands-initiatives-support",
-  "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+ "work-within-reach": {
+  "id": "work-within-reach",
+  "title": "The Work Now Within Reach",
   "firstSeen": "2026-09-08T15:02:58.092Z",
   "publishers": [
    "OpenAI"
@@ -335,12 +294,12 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "1password-increases-engineering-productivity": {
-  "id": "1password-increases-engineering-productivity",
-  "title": "1Password increases engineering productivity 21% with Codex",
-  "firstSeen": "2026-09-08T21:45:18.840Z",
+ "safety-whom-refusing-right": {
+  "id": "safety-whom-refusing-right",
+  "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+  "firstSeen": "2026-09-08T15:02:58.092Z",
   "publishers": [
-   "OpenAI"
+   "Hugging Face"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -355,20 +314,6 @@
   "firstSeen": "2026-09-10T23:57:05.269Z",
   "publishers": [
    "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.1,
-  "confidence": "Developing",
-  "category": "policy"
- },
- "first-bill-introduced-superintelligent": {
-  "id": "first-bill-introduced-superintelligent",
-  "title": "First Bill Introduced to Ban Superintelligent AI",
-  "firstSeen": "2026-09-10T21:32:11.988Z",
-  "publishers": [
-   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -418,6 +363,20 @@
   "importance": 2.9,
   "confidence": "Developing",
   "category": "general"
+ },
+ "nvidia-enflame-shares-soar-shanghai": {
+  "id": "nvidia-enflame-shares-soar-shanghai",
+  "title": "Enflame shares soar 188% on Shanghai debut as Nvidia challenger taps investor fever for AI",
+  "firstSeen": "2026-09-11T04:19:45.008Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.9,
+  "confidence": "Developing",
+  "category": "business"
  },
  "india-pocket-doubles-revenue": {
   "id": "india-pocket-doubles-revenue",
