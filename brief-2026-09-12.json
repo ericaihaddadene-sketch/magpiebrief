@@ -1,8 +1,8 @@
 {
  "date": "2026-09-12",
- "generated": "2026-09-12T04:24:20.583Z",
- "headline": "41 developments today. The most significant is new models: Cognition helps Devin test its own work with GPT‑6 Astra",
- "stats": "22 sources monitored · 2658 items read · 98 on-topic · 41 distinct developments · 17 with a primary source · 0 independently corroborated",
+ "generated": "2026-09-12T09:10:14.384Z",
+ "headline": "40 developments today. The most significant is new models: Cognition helps Devin test its own work with GPT‑6 Astra",
+ "stats": "22 sources monitored · 2658 items read · 92 on-topic · 40 distinct developments · 16 with a primary source · 0 independently corroborated",
  "events": [
   {
    "id": "gpt-cognition-helps-devin-test",
@@ -339,9 +339,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 4.3."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -498,7 +496,7 @@
       "amount": 0.6
      },
      {
-      "label": "597 points of reader attention",
+      "label": "640 points of reader attention",
       "amount": 1
      }
     ]
@@ -524,60 +522,7 @@
      "publisherDomain": "support.claude.com",
      "kind": "discussion",
      "date": "2026-09-11T10:48:00.000Z",
-     "points": 597,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "coding-agents-show-graphify-compiler-accurate",
-   "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "coding-agents",
-     "name": "Coding Agents",
-     "kind": "topic"
-    }
-   ],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (GitHub)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "emerging",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-12T00:16:10.000Z",
-   "latestAt": "2026-09-12T00:16:10.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/zachsaw/graphify-csharp",
-    "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents"
-   },
-   "sources": [
-    {
-     "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-     "link": "https://github.com/zachsaw/graphify-csharp",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-09-12T00:16:10.000Z",
-     "points": 24,
+     "points": 640,
      "summary": ""
     }
    ]
@@ -771,59 +716,6 @@
    ]
   },
   {
-   "id": "openai-paul-christiano-joins-openai",
-   "title": "Paul Christiano joins OpenAI Foundation Board",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-09T17:00:00.000Z",
-   "latestAt": "2026-09-09T17:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-    "title": "Paul Christiano joins OpenAI Foundation Board"
-   },
-   "sources": [
-    {
-     "title": "Paul Christiano joins OpenAI Foundation Board",
-     "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-09T17:00:00.000Z",
-     "points": null,
-     "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
-    }
-   ]
-  },
-  {
    "id": "gpt-chatgpt-using-lawyer-punished",
    "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
    "category": {
@@ -930,6 +822,65 @@
    ]
   },
   {
+   "id": "openai-paul-christiano-joins-openai",
+   "title": "Paul Christiano joins OpenAI Foundation Board",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 3.5,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [
+    "Importance fell 0.5 to 3.5."
+   ],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T17:00:00.000Z",
+   "latestAt": "2026-09-09T17:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "title": "Paul Christiano joins OpenAI Foundation Board"
+   },
+   "sources": [
+    {
+     "title": "Paul Christiano joins OpenAI Foundation Board",
+     "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-09T17:00:00.000Z",
+     "points": null,
+     "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
+    }
+   ]
+  },
+  {
    "id": "ready-game-with-football",
    "title": "Get ready for the game with new football features in Search",
    "category": {
@@ -955,9 +906,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 3.5."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -1008,9 +957,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 3.5."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -1067,9 +1014,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 3.5."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -1223,7 +1168,7 @@
     }
    ],
    "importance": {
-    "score": 3.2,
+    "score": 3.3,
     "factors": [
      {
       "label": "Discussion only, no reporting",
@@ -1234,8 +1179,8 @@
       "amount": 0.6
      },
      {
-      "label": "462 points of reader attention",
-      "amount": 0.9
+      "label": "676 points of reader attention",
+      "amount": 1
      }
     ]
    },
@@ -1243,7 +1188,7 @@
     "level": "Unverified",
     "why": "Community discussion only, no reporting yet"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1260,7 +1205,7 @@
      "publisherDomain": "rubyhack.ai",
      "kind": "discussion",
      "date": "2026-09-11T23:17:42.000Z",
-     "points": 462,
+     "points": 676,
      "summary": ""
     }
    ]
@@ -1881,7 +1826,7 @@
       "amount": -0.8
      },
      {
-      "label": "751 points of reader attention",
+      "label": "891 points of reader attention",
       "amount": 1
      }
     ]
@@ -1907,7 +1852,7 @@
      "publisherDomain": "mathandai.org",
      "kind": "discussion",
      "date": "2026-09-11T17:45:12.000Z",
-     "points": 751,
+     "points": 891,
      "summary": ""
     }
    ]
@@ -2074,7 +2019,7 @@
       "amount": -0.8
      },
      {
-      "label": "394 points of reader attention",
+      "label": "454 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -2100,7 +2045,7 @@
      "publisherDomain": "capitalbnews.org",
      "kind": "discussion",
      "date": "2026-09-11T18:05:21.000Z",
-     "points": 394,
+     "points": 454,
      "summary": ""
     }
    ]
