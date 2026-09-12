@@ -1,12 +1,12 @@
 {
  "date": "2026-09-12",
- "generated": "2026-09-12T00:04:16.118Z",
- "headline": "39 developments today. The most significant is new models: GPT-6 Astra: The next generation in intelligence for work",
- "stats": "22 sources monitored · 2656 items read · 94 on-topic · 39 distinct developments · 16 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-12T04:24:20.583Z",
+ "headline": "41 developments today. The most significant is new models: Cognition helps Devin test its own work with GPT‑6 Astra",
+ "stats": "22 sources monitored · 2658 items read · 98 on-topic · 41 distinct developments · 17 with a primary source · 0 independently corroborated",
  "events": [
   {
-   "id": "gpt-astra-next-generation-intelligence",
-   "title": "GPT-6 Astra: The next generation in intelligence for work",
+   "id": "gpt-cognition-helps-devin-test",
+   "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
    "category": {
     "id": "models",
     "name": "New Models"
@@ -19,12 +19,8 @@
     }
    ],
    "importance": {
-    "score": 6.6,
+    "score": 5.4,
     "factors": [
-     {
-      "label": "2 independent outlets",
-      "amount": 1.7
-     },
      {
       "label": "Primary source (OpenAI)",
       "amount": 1.5
@@ -36,10 +32,6 @@
      {
       "label": "Names a specific model",
       "amount": 0.6
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
      }
     ]
    },
@@ -48,40 +40,28 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 6.6."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-09T11:00:00.000Z",
-   "latestAt": "2026-09-09T11:14:25.000Z",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-11T16:00:00.000Z",
+   "latestAt": "2026-09-11T16:00:00.000Z",
    "primary": {
     "publisher": "OpenAI",
-    "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-    "title": "GPT-6 Astra: The next generation in intelligence for work"
+    "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra"
    },
    "sources": [
     {
-     "title": "GPT-6 Astra: The next generation in intelligence for work",
-     "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+     "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+     "link": "https://openai.com/index/cognition-devin-testing-with-astra",
      "publisher": "OpenAI",
      "publisherDomain": "openai.com",
      "kind": "primary",
-     "date": "2026-09-09T11:00:00.000Z",
+     "date": "2026-09-11T16:00:00.000Z",
      "points": null,
-     "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
-    },
-    {
-     "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
-     "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-     "publisher": "Ahead of AI",
-     "publisherDomain": "magazine.sebastianraschka.com",
-     "kind": "coverage",
-     "date": "2026-09-09T11:14:25.000Z",
-     "points": null,
-     "summary": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks"
+     "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
     }
    ]
   },
@@ -338,7 +318,7 @@
    },
    "entities": [],
    "importance": {
-    "score": 4.8,
+    "score": 4.3,
     "factors": [
      {
       "label": "Primary source (Hugging Face)",
@@ -347,6 +327,10 @@
      {
       "label": "New Models",
       "amount": 0.8
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
      }
     ]
    },
@@ -355,7 +339,9 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [],
+   "deltas": [
+    "Importance fell 0.5 to 4.3."
+   ],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -512,7 +498,7 @@
       "amount": 0.6
      },
      {
-      "label": "555 points of reader attention",
+      "label": "597 points of reader attention",
       "amount": 1
      }
     ]
@@ -538,7 +524,60 @@
      "publisherDomain": "support.claude.com",
      "kind": "discussion",
      "date": "2026-09-11T10:48:00.000Z",
-     "points": 555,
+     "points": 597,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "coding-agents-show-graphify-compiler-accurate",
+   "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "coding-agents",
+     "name": "Coding Agents",
+     "kind": "topic"
+    }
+   ],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (GitHub)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-12T00:16:10.000Z",
+   "latestAt": "2026-09-12T00:16:10.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/zachsaw/graphify-csharp",
+    "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents"
+   },
+   "sources": [
+    {
+     "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+     "link": "https://github.com/zachsaw/graphify-csharp",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-12T00:16:10.000Z",
+     "points": 24,
      "summary": ""
     }
    ]
@@ -785,153 +824,6 @@
    ]
   },
   {
-   "id": "ready-game-with-football",
-   "title": "Get ready for the game with new football features in Search",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (Google AI)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-09T16:00:00.000Z",
-   "latestAt": "2026-09-09T16:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-    "title": "Get ready for the game with new football features in Search"
-   },
-   "sources": [
-    {
-     "title": "Get ready for the game with new football features in Search",
-     "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-09-09T16:00:00.000Z",
-     "points": null,
-     "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a…"
-    }
-   ]
-  },
-  {
-   "id": "recreating-year-love-story",
-   "title": "Recreating a 70-year love story frame by frame",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (Google AI)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-09T16:00:00.000Z",
-   "latestAt": "2026-09-09T16:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-    "title": "Recreating a 70-year love story frame by frame"
-   },
-   "sources": [
-    {
-     "title": "Recreating a 70-year love story frame by frame",
-     "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-09-09T16:00:00.000Z",
-     "points": null,
-     "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\""
-    }
-   ]
-  },
-  {
-   "id": "regulation-policy-window-open-need",
-   "title": "The AI policy window is open. We need to act.",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "regulation",
-     "name": "AI Regulation",
-     "kind": "topic"
-    }
-   ],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-09T13:00:00.000Z",
-   "latestAt": "2026-09-09T13:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/ai-policy-window",
-    "title": "The AI policy window is open. We need to act."
-   },
-   "sources": [
-    {
-     "title": "The AI policy window is open. We need to act.",
-     "link": "https://openai.com/index/ai-policy-window",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-09T13:00:00.000Z",
-     "points": null,
-     "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
-    }
-   ]
-  },
-  {
    "id": "gpt-chatgpt-using-lawyer-punished",
    "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
    "category": {
@@ -1038,6 +930,171 @@
    ]
   },
   {
+   "id": "ready-game-with-football",
+   "title": "Get ready for the game with new football features in Search",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.5,
+    "factors": [
+     {
+      "label": "Primary source (Google AI)",
+      "amount": 1.5
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [
+    "Importance fell 0.5 to 3.5."
+   ],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T16:00:00.000Z",
+   "latestAt": "2026-09-09T16:00:00.000Z",
+   "primary": {
+    "publisher": "Google AI",
+    "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+    "title": "Get ready for the game with new football features in Search"
+   },
+   "sources": [
+    {
+     "title": "Get ready for the game with new football features in Search",
+     "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-09T16:00:00.000Z",
+     "points": null,
+     "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a…"
+    }
+   ]
+  },
+  {
+   "id": "recreating-year-love-story",
+   "title": "Recreating a 70-year love story frame by frame",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.5,
+    "factors": [
+     {
+      "label": "Primary source (Google AI)",
+      "amount": 1.5
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [
+    "Importance fell 0.5 to 3.5."
+   ],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T16:00:00.000Z",
+   "latestAt": "2026-09-09T16:00:00.000Z",
+   "primary": {
+    "publisher": "Google AI",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+    "title": "Recreating a 70-year love story frame by frame"
+   },
+   "sources": [
+    {
+     "title": "Recreating a 70-year love story frame by frame",
+     "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-09T16:00:00.000Z",
+     "points": null,
+     "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\""
+    }
+   ]
+  },
+  {
+   "id": "regulation-policy-window-open-need",
+   "title": "The AI policy window is open. We need to act.",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "regulation",
+     "name": "AI Regulation",
+     "kind": "topic"
+    }
+   ],
+   "importance": {
+    "score": 3.5,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [
+    "Importance fell 0.5 to 3.5."
+   ],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T13:00:00.000Z",
+   "latestAt": "2026-09-09T13:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/ai-policy-window",
+    "title": "The AI policy window is open. We need to act."
+   },
+   "sources": [
+    {
+     "title": "The AI policy window is open. We need to act.",
+     "link": "https://openai.com/index/ai-policy-window",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-09T13:00:00.000Z",
+     "points": null,
+     "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
+    }
+   ]
+  },
+  {
    "id": "gpt-told-chatgpt-feeling-delusional",
    "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
    "category": {
@@ -1073,9 +1130,7 @@
     "why": "A single outlet so far"
    },
    "status": "developing",
-   "deltas": [
-    "Importance fell 0.5 to 3.4."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -1093,6 +1148,120 @@
      "date": "2026-09-09T11:00:10.000Z",
      "points": null,
      "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt."
+    }
+   ]
+  },
+  {
+   "id": "gpt-astra-looped-transformers-hidden",
+   "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.4,
+    "factors": [
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-09T11:14:25.000Z",
+   "latestAt": "2026-09-09T11:14:25.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+     "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+     "publisher": "Ahead of AI",
+     "publisherDomain": "magazine.sebastianraschka.com",
+     "kind": "coverage",
+     "date": "2026-09-09T11:14:25.000Z",
+     "points": null,
+     "summary": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks"
+    }
+   ]
+  },
+  {
+   "id": "openai-openai-agents-carried-undisclosed",
+   "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 3.2,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "Security",
+      "amount": 0.6
+     },
+     {
+      "label": "462 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-11T23:17:42.000Z",
+   "latestAt": "2026-09-11T23:17:42.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+     "link": "https://www.rubyhack.ai/",
+     "publisher": "rubyhack.ai",
+     "publisherDomain": "rubyhack.ai",
+     "kind": "discussion",
+     "date": "2026-09-11T23:17:42.000Z",
+     "points": 462,
+     "summary": ""
     }
    ]
   },
@@ -1231,7 +1400,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1328,7 +1497,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1509,60 +1678,6 @@
      "date": "2026-09-11T01:45:56.000Z",
      "points": null,
      "summary": "Enflame Technology, one of the major challengers to Nvidia in China, saw its share price surge 179 per cent in its Shanghai trading debut on Friday…"
-    }
-   ]
-  },
-  {
-   "id": "deepseek-funding-chinese-firm-deepseek-taps",
-   "title": "Chinese AI firm DeepSeek taps underwriters including Citic Securities for IPO: sources",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "deepseek",
-     "name": "DeepSeek",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 2.9,
-    "factors": [
-     {
-      "label": "Business",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-09T12:34:42.000Z",
-   "latestAt": "2026-09-09T12:34:42.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Chinese AI firm DeepSeek taps underwriters including Citic Securities for IPO: sources",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3366948/chinese-ai-firm-deepseek-taps-underwriters-including-citic-securities-ipo-sources?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-09T12:34:42.000Z",
-     "points": null,
-     "summary": "Chinese frontier artificial intelligence lab DeepSeek has hired underwriters including Citic Securities in preparation for a domestic initial public offering (IPO), according to two people familiar…"
     }
    ]
   },
@@ -1766,7 +1881,7 @@
       "amount": -0.8
      },
      {
-      "label": "556 points of reader attention",
+      "label": "751 points of reader attention",
       "amount": 1
      }
     ]
@@ -1792,7 +1907,7 @@
      "publisherDomain": "mathandai.org",
      "kind": "discussion",
      "date": "2026-09-11T17:45:12.000Z",
-     "points": 556,
+     "points": 751,
      "summary": ""
     }
    ]
@@ -1959,7 +2074,7 @@
       "amount": -0.8
      },
      {
-      "label": "311 points of reader attention",
+      "label": "394 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -1968,7 +2083,7 @@
     "level": "Unverified",
     "why": "Community discussion only, no reporting yet"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1985,7 +2100,7 @@
      "publisherDomain": "capitalbnews.org",
      "kind": "discussion",
      "date": "2026-09-11T18:05:21.000Z",
-     "points": 311,
+     "points": 394,
      "summary": ""
     }
    ]
@@ -2016,9 +2131,7 @@
     "why": "A single outlet so far"
    },
    "status": "developing",
-   "deltas": [
-    "Importance fell 0.5 to 2.6."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
