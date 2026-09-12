@@ -1,8 +1,8 @@
 {
  "date": "2026-09-12",
- "generated": "2026-09-12T19:07:31.843Z",
- "headline": "25 developments today. The most significant is security: From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
- "stats": "22 sources monitored · 2658 items read · 81 on-topic · 25 distinct developments · 10 with a primary source · 2 independently corroborated",
+ "generated": "2026-09-12T22:09:12.696Z",
+ "headline": "23 developments today. The most significant is security: From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+ "stats": "22 sources monitored · 2658 items read · 80 on-topic · 23 distinct developments · 10 with a primary source · 2 independently corroborated",
  "events": [
   {
    "id": "claude-from-hacks-bioweapons-claude",
@@ -233,9 +233,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 4.9."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -322,6 +320,65 @@
      "date": "2026-09-10T00:00:00.000Z",
      "points": null,
      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
+    }
+   ]
+  },
+  {
+   "id": "anthropic-anthropic-outlines-plan-slow",
+   "title": "Anthropic CEO outlines plan to slow AI development",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 4.2,
+    "factors": [
+     {
+      "label": "2 independent outlets",
+      "amount": 1.7
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Highly likely",
+    "why": "Two independent outlets"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-12T16:23:40.000Z",
+   "latestAt": "2026-09-12T19:34:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic CEO outlines plan to slow AI development",
+     "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-12T19:34:44.000Z",
+     "points": null,
+     "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
+    },
+    {
+     "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-12T16:23:40.000Z",
+     "points": null,
+     "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to…"
     }
    ]
   },
@@ -577,79 +634,6 @@
    ]
   },
   {
-   "id": "anthropic-anthropic-says-time-slow",
-   "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 3.7,
-    "factors": [
-     {
-      "label": "2 independent outlets",
-      "amount": 1.7
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Highly likely",
-    "why": "Two independent outlets"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 3,
-   "independentCount": 2,
-   "publishedAt": "2026-09-09T22:11:55.000Z",
-   "latestAt": "2026-09-12T18:07:07.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-     "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-12T15:52:11.000Z",
-     "points": null,
-     "summary": "What would it actually look like to \"pace the frontier\"?"
-    },
-    {
-     "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
-     "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-09T22:11:55.000Z",
-     "points": null,
-     "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left…"
-    },
-    {
-     "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
-     "link": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-     "publisher": "Bloomberg",
-     "publisherDomain": "bloomberg.com",
-     "kind": "discussion",
-     "date": "2026-09-12T18:07:07.000Z",
-     "points": 23,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "introducing-agents",
    "title": "Introducing the Agents API",
    "category": {
@@ -730,9 +714,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 3.5."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -1014,65 +996,6 @@
    ]
   },
   {
-   "id": "anthropic-alibaba-deepseek-anthropic-details-distillation-campaigns",
-   "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    },
-    {
-     "id": "alibaba",
-     "name": "Alibaba",
-     "kind": "org"
-    },
-    {
-     "id": "deepseek",
-     "name": "DeepSeek",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 2.9,
-    "factors": [
-     {
-      "label": "Involves multiple organisations",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-10T20:57:30.000Z",
-   "latestAt": "2026-09-10T20:57:30.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-     "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-10T20:57:30.000Z",
-     "points": null,
-     "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space…"
-    }
-   ]
-  },
-  {
    "id": "nvidia-enflame-shares-soar-shanghai",
    "title": "Enflame shares soar 179% in Shanghai debut as Nvidia challenger taps investor fever for AI",
    "category": {
@@ -1257,88 +1180,55 @@
    ]
   },
   {
-   "id": "clearview-testing-tool-that",
-   "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+   "id": "nvidia-nvidia-central-bank",
+   "title": "Nvidia is the central bank of AI",
    "category": {
-    "id": "tools",
-    "name": "Tools & Products"
+    "id": "general",
+    "name": "Developments"
    },
-   "entities": [],
-   "importance": {
-    "score": 2.7,
-    "factors": [
-     {
-      "label": "Tools & Products",
-      "amount": 0.2
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-10T10:00:00.000Z",
-   "latestAt": "2026-09-10T10:00:00.000Z",
-   "primary": null,
-   "sources": [
+   "entities": [
     {
-     "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
-     "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-10T10:00:00.000Z",
-     "points": null,
-     "summary": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview."
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
     }
-   ]
-  },
-  {
-   "id": "healthcare-next-test-integration",
-   "title": "Healthcare AI’s next test is integration",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [],
+   ],
    "importance": {
-    "score": 2.7,
+    "score": 2.6,
     "factors": [
      {
-      "label": "Tools & Products",
-      "amount": 0.2
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "311 points of reader attention",
+      "amount": 0.9
      }
     ]
    },
    "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
    },
-   "status": "developing",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-10T08:58:01.000Z",
-   "latestAt": "2026-09-10T08:58:01.000Z",
+   "independentCount": 0,
+   "publishedAt": "2026-09-12T15:08:27.000Z",
+   "latestAt": "2026-09-12T15:08:27.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Healthcare AI’s next test is integration",
-     "link": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-09-10T08:58:01.000Z",
-     "points": null,
-     "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly…"
+     "title": "Nvidia is the central bank of AI",
+     "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+     "publisher": "economist.com",
+     "publisherDomain": "economist.com",
+     "kind": "discussion",
+     "date": "2026-09-12T15:08:27.000Z",
+     "points": 311,
+     "summary": ""
     }
    ]
   }
