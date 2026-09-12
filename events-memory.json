@@ -1,4 +1,19 @@
 {
+ "claude-from-hacks-bioweapons-claude": {
+  "id": "claude-from-hacks-bioweapons-claude",
+  "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+  "firstSeen": "2026-09-12T13:30:28.255Z",
+  "publishers": [
+   "Wired AI",
+   "Ars Technica AI"
+  ],
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "importance": 5.4,
+  "confidence": "Highly likely",
+  "category": "security"
+ },
  "gpt-cognition-helps-devin-test": {
   "id": "gpt-cognition-helps-devin-test",
   "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
@@ -65,7 +80,7 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "importance": 4.8,
+  "importance": 4.3,
   "confidence": "Confirmed",
   "category": "tools"
  },
@@ -96,34 +111,6 @@
   "importance": 4.2,
   "confidence": "Confirmed",
   "category": "tools"
- },
- "introducing-agents": {
-  "id": "introducing-agents",
-  "title": "Introducing the Agents API",
-  "firstSeen": "2026-09-11T18:21:05.988Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4.2,
-  "confidence": "Confirmed",
-  "category": "tools"
- },
- "claude-claude-only-available-people": {
-  "id": "claude-claude-only-available-people",
-  "title": "Claude is only available to people over 18 years",
-  "firstSeen": "2026-09-11T18:21:05.988Z",
-  "publishers": [
-   "support.claude.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 4.1,
-  "confidence": "Unverified",
-  "category": "models"
  },
  "everyone-data-work": {
   "id": "everyone-data-work",
@@ -167,20 +154,6 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "rebuilding-automatic1111-with-gradio": {
-  "id": "rebuilding-automatic1111-with-gradio",
-  "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-  "firstSeen": "2026-09-10T14:14:53.491Z",
-  "publishers": [
-   "Hugging Face"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
  "gpt-chatgpt-using-lawyer-punished": {
   "id": "gpt-chatgpt-using-lawyer-punished",
   "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
@@ -195,19 +168,33 @@
   "confidence": "Developing",
   "category": "models"
  },
- "claude-claude-users-found-ways": {
-  "id": "claude-claude-users-found-ways",
-  "title": "Claude users found ways around safeguards for bioweapons research",
-  "firstSeen": "2026-09-11T14:14:39.659Z",
+ "introducing-agents": {
+  "id": "introducing-agents",
+  "title": "Introducing the Agents API",
+  "firstSeen": "2026-09-11T18:21:05.988Z",
   "publishers": [
-   "Ars Technica AI"
+   "OpenAI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.9,
-  "confidence": "Developing",
-  "category": "models"
+  "hadPrimary": true,
+  "importance": 3.7,
+  "confidence": "Confirmed",
+  "category": "tools"
+ },
+ "rebuilding-automatic1111-with-gradio": {
+  "id": "rebuilding-automatic1111-with-gradio",
+  "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+  "firstSeen": "2026-09-10T14:14:53.491Z",
+  "publishers": [
+   "Hugging Face"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 3.5,
+  "confidence": "Confirmed",
+  "category": "general"
  },
  "openai-paul-christiano-joins-openai": {
   "id": "openai-paul-christiano-joins-openai",
@@ -251,48 +238,6 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "regulation-policy-window-open-need": {
-  "id": "regulation-policy-window-open-need",
-  "title": "The AI policy window is open. We need to act.",
-  "firstSeen": "2026-09-10T00:01:59.987Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 3.5,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "gpt-told-chatgpt-feeling-delusional": {
-  "id": "gpt-told-chatgpt-feeling-delusional",
-  "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
-  "firstSeen": "2026-09-09T14:22:12.735Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.4,
-  "confidence": "Developing",
-  "category": "models"
- },
- "gpt-astra-looped-transformers-hidden": {
-  "id": "gpt-astra-looped-transformers-hidden",
-  "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
-  "firstSeen": "2026-09-12T04:24:20.463Z",
-  "publishers": [
-   "Ahead of AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.4,
-  "confidence": "Developing",
-  "category": "models"
- },
  "openai-openai-agents-carried-undisclosed": {
   "id": "openai-openai-agents-carried-undisclosed",
   "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
@@ -311,20 +256,6 @@
   "id": "meta-ai-copyright-meta-sued-over-training",
   "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
   "firstSeen": "2026-09-11T21:39:20.501Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.1,
-  "confidence": "Developing",
-  "category": "policy"
- },
- "openai-openai-wants-know-industry": {
-  "id": "openai-openai-wants-know-industry",
-  "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-  "firstSeen": "2026-09-10T23:57:05.269Z",
   "publishers": [
    "Wired AI"
   ],
@@ -362,20 +293,6 @@
   "importance": 2.9,
   "confidence": "Developing",
   "category": "business"
- },
- "hugging-face-openai-appendix-reproduction-openai-huggingface": {
-  "id": "hugging-face-openai-appendix-reproduction-openai-huggingface",
-  "title": "Appendix: Reproduction of the OpenAI-HuggingFace Incident",
-  "firstSeen": "2026-09-12T00:04:16.054Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.9,
-  "confidence": "Developing",
-  "category": "general"
  },
  "openai-funding-nscale-adds-former-openai": {
   "id": "openai-funding-nscale-adds-former-openai",
@@ -461,20 +378,6 @@
   "confidence": "Developing",
   "category": "opensource"
  },
- "anthropic-researcher-just-quit-anthropic": {
-  "id": "anthropic-researcher-just-quit-anthropic",
-  "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
-  "firstSeen": "2026-09-10T00:01:59.987Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.8,
-  "confidence": "Developing",
-  "category": "research"
- },
  "misalignment-mathematics": {
   "id": "misalignment-mathematics",
   "title": "A misalignment of AI in mathematics",
@@ -530,33 +433,5 @@
   "importance": 2.7,
   "confidence": "Developing",
   "category": "tools"
- },
- "infrastructure-planning-scrap-public-review": {
-  "id": "infrastructure-planning-scrap-public-review",
-  "title": "The EPA is planning to scrap public review rules for data center pollution",
-  "firstSeen": "2026-09-12T00:04:16.054Z",
-  "publishers": [
-   "capitalbnews.org"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 2.6,
-  "confidence": "Unverified",
-  "category": "general"
- },
- "china-regulators-take-boyfriends": {
-  "id": "china-regulators-take-boyfriends",
-  "title": "China’s Regulators Take Aim at “AI Boyfriends”",
-  "firstSeen": "2026-09-09T14:22:12.735Z",
-  "publishers": [
-   "IEEE Spectrum"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.6,
-  "confidence": "Developing",
-  "category": "policy"
  }
 }
