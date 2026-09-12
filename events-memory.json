@@ -28,20 +28,6 @@
   "confidence": "Confirmed",
   "category": "models"
  },
- "gpt-introducing-chatgpt-financial-services": {
-  "id": "gpt-introducing-chatgpt-financial-services",
-  "title": "Introducing ChatGPT for Financial Services",
-  "firstSeen": "2026-09-10T21:32:11.988Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 5.4,
-  "confidence": "Confirmed",
-  "category": "models"
- },
  "gpt-researcher-uses-codex-chatgpt": {
   "id": "gpt-researcher-uses-codex-chatgpt",
   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -56,21 +42,19 @@
   "confidence": "Confirmed",
   "category": "research"
  },
- "anthropic-anthropic-says-time-pump": {
-  "id": "anthropic-anthropic-says-time-pump",
-  "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-  "firstSeen": "2026-09-12T16:54:47.241Z",
+ "gpt-introducing-chatgpt-financial-services": {
+  "id": "gpt-introducing-chatgpt-financial-services",
+  "title": "Introducing ChatGPT for Financial Services",
+  "firstSeen": "2026-09-10T21:32:11.988Z",
   "publishers": [
-   "The Verge",
-   "TechCrunch",
-   "Wired AI"
+   "OpenAI"
   ],
-  "sourceCount": 3,
-  "independentCount": 3,
-  "hadPrimary": false,
-  "importance": 4.7,
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4.9,
   "confidence": "Confirmed",
-  "category": "general"
+  "category": "models"
  },
  "gpt-build-more-natural-voice": {
   "id": "gpt-build-more-natural-voice",
@@ -128,20 +112,6 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "expanding-access-cyber-defense": {
-  "id": "expanding-access-cyber-defense",
-  "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-  "firstSeen": "2026-09-10T18:17:03.128Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
  "gpt-astra-ambitious-things": {
   "id": "gpt-astra-ambitious-things",
   "title": "GPT-6-Astra Can Do Ambitious Things",
@@ -170,6 +140,22 @@
   "confidence": "Developing",
   "category": "models"
  },
+ "anthropic-anthropic-says-time-slow": {
+  "id": "anthropic-anthropic-says-time-slow",
+  "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+  "firstSeen": "2026-09-12T19:07:31.783Z",
+  "publishers": [
+   "TechCrunch",
+   "Wired AI",
+   "Bloomberg"
+  ],
+  "sourceCount": 3,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "importance": 3.7,
+  "confidence": "Highly likely",
+  "category": "general"
+ },
  "introducing-agents": {
   "id": "introducing-agents",
   "title": "Introducing the Agents API",
@@ -184,6 +170,20 @@
   "confidence": "Confirmed",
   "category": "tools"
  },
+ "expanding-access-cyber-defense": {
+  "id": "expanding-access-cyber-defense",
+  "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+  "firstSeen": "2026-09-10T18:17:03.128Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 3.5,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
  "rebuilding-automatic1111-with-gradio": {
   "id": "rebuilding-automatic1111-with-gradio",
   "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
@@ -197,34 +197,6 @@
   "importance": 3.5,
   "confidence": "Confirmed",
   "category": "general"
- },
- "openai-paul-christiano-joins-openai": {
-  "id": "openai-paul-christiano-joins-openai",
-  "title": "Paul Christiano joins OpenAI Foundation Board",
-  "firstSeen": "2026-09-09T18:29:36.931Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 3.5,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "openai-openai-agents-carried-undisclosed": {
-  "id": "openai-openai-agents-carried-undisclosed",
-  "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-  "firstSeen": "2026-09-12T04:24:20.463Z",
-  "publishers": [
-   "rubyhack.ai"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 3.3,
-  "confidence": "Unverified",
-  "category": "security"
  },
  "meta-ai-copyright-meta-sued-over-training": {
   "id": "meta-ai-copyright-meta-sued-over-training",
@@ -351,20 +323,6 @@
   "importance": 2.8,
   "confidence": "Developing",
   "category": "opensource"
- },
- "misalignment-mathematics": {
-  "id": "misalignment-mathematics",
-  "title": "A misalignment of AI in mathematics",
-  "firstSeen": "2026-09-11T21:39:20.501Z",
-  "publishers": [
-   "mathandai.org"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 2.7,
-  "confidence": "Unverified",
-  "category": "general"
  },
  "clearview-testing-tool-that": {
   "id": "clearview-testing-tool-that",

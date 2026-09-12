@@ -1,8 +1,8 @@
 {
  "date": "2026-09-12",
- "generated": "2026-09-12T16:54:47.303Z",
- "headline": "28 developments today. The most significant is security: From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
- "stats": "22 sources monitored · 2658 items read · 83 on-topic · 28 distinct developments · 11 with a primary source · 2 independently corroborated",
+ "generated": "2026-09-12T19:07:31.843Z",
+ "headline": "25 developments today. The most significant is security: From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+ "stats": "22 sources monitored · 2658 items read · 81 on-topic · 25 distinct developments · 10 with a primary source · 2 independently corroborated",
  "events": [
   {
    "id": "claude-from-hacks-bioweapons-claude",
@@ -133,67 +133,6 @@
    ]
   },
   {
-   "id": "gpt-introducing-chatgpt-financial-services",
-   "title": "Introducing ChatGPT for Financial Services",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 5.4,
-    "factors": [
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     },
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-10T07:00:00.000Z",
-   "latestAt": "2026-09-10T07:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "title": "Introducing ChatGPT for Financial Services"
-   },
-   "sources": [
-    {
-     "title": "Introducing ChatGPT for Financial Services",
-     "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-10T07:00:00.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "gpt-researcher-uses-codex-chatgpt",
    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
    "category": {
@@ -255,25 +194,33 @@
    ]
   },
   {
-   "id": "anthropic-anthropic-says-time-pump",
-   "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+   "id": "gpt-introducing-chatgpt-financial-services",
+   "title": "Introducing ChatGPT for Financial Services",
    "category": {
-    "id": "general",
-    "name": "Developments"
+    "id": "models",
+    "name": "New Models"
    },
    "entities": [
     {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
     }
    ],
    "importance": {
-    "score": 4.7,
+    "score": 4.9,
     "factors": [
      {
-      "label": "3 independent outlets",
-      "amount": 2.7
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
      },
      {
       "label": "Several days old",
@@ -283,47 +230,33 @@
    },
    "confidence": {
     "level": "Confirmed",
-    "why": "3 independent outlets agree"
+    "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [],
+   "deltas": [
+    "Importance fell 0.5 to 4.9."
+   ],
    "whatChanged": "",
    "whyItMatters": "",
-   "sourceCount": 3,
-   "independentCount": 3,
-   "publishedAt": "2026-09-09T22:11:55.000Z",
-   "latestAt": "2026-09-12T16:23:40.000Z",
-   "primary": null,
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-10T07:00:00.000Z",
+   "latestAt": "2026-09-10T07:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "title": "Introducing ChatGPT for Financial Services"
+   },
    "sources": [
     {
-     "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-12T16:23:40.000Z",
+     "title": "Introducing ChatGPT for Financial Services",
+     "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-10T07:00:00.000Z",
      "points": null,
-     "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to…"
-    },
-    {
-     "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-     "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-12T15:52:11.000Z",
-     "points": null,
-     "summary": "What would it actually look like to \"pace the frontier\"?"
-    },
-    {
-     "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
-     "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-09T22:11:55.000Z",
-     "points": null,
-     "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left…"
+     "summary": ""
     }
    ]
   },
@@ -538,53 +471,6 @@
    ]
   },
   {
-   "id": "expanding-access-cyber-defense",
-   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-10T07:00:00.000Z",
-   "latestAt": "2026-09-10T07:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/expanding-ai-access-us-government",
-    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments"
-   },
-   "sources": [
-    {
-     "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-     "link": "https://openai.com/index/expanding-ai-access-us-government",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-10T07:00:00.000Z",
-     "points": null,
-     "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
-    }
-   ]
-  },
-  {
    "id": "gpt-astra-ambitious-things",
    "title": "GPT-6-Astra Can Do Ambitious Things",
    "category": {
@@ -615,7 +501,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -691,6 +577,79 @@
    ]
   },
   {
+   "id": "anthropic-anthropic-says-time-slow",
+   "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 3.7,
+    "factors": [
+     {
+      "label": "2 independent outlets",
+      "amount": 1.7
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Highly likely",
+    "why": "Two independent outlets"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 3,
+   "independentCount": 2,
+   "publishedAt": "2026-09-09T22:11:55.000Z",
+   "latestAt": "2026-09-12T18:07:07.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+     "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-12T15:52:11.000Z",
+     "points": null,
+     "summary": "What would it actually look like to \"pace the frontier\"?"
+    },
+    {
+     "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+     "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-09T22:11:55.000Z",
+     "points": null,
+     "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left…"
+    },
+    {
+     "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+     "link": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+     "publisher": "Bloomberg",
+     "publisherDomain": "bloomberg.com",
+     "kind": "discussion",
+     "date": "2026-09-12T18:07:07.000Z",
+     "points": 23,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "introducing-agents",
    "title": "Introducing the Agents API",
    "category": {
@@ -746,6 +705,59 @@
    ]
   },
   {
+   "id": "expanding-access-cyber-defense",
+   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.5,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [
+    "Importance fell 0.5 to 3.5."
+   ],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-10T07:00:00.000Z",
+   "latestAt": "2026-09-10T07:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/expanding-ai-access-us-government",
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments"
+   },
+   "sources": [
+    {
+     "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+     "link": "https://openai.com/index/expanding-ai-access-us-government",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-10T07:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
+    }
+   ]
+  },
+  {
    "id": "rebuilding-automatic1111-with-gradio",
    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
    "category": {
@@ -792,120 +804,6 @@
      "kind": "primary",
      "date": "2026-09-10T00:00:00.000Z",
      "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "openai-paul-christiano-joins-openai",
-   "title": "Paul Christiano joins OpenAI Foundation Board",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 3.5,
-    "factors": [
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-09T17:00:00.000Z",
-   "latestAt": "2026-09-09T17:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-    "title": "Paul Christiano joins OpenAI Foundation Board"
-   },
-   "sources": [
-    {
-     "title": "Paul Christiano joins OpenAI Foundation Board",
-     "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-09T17:00:00.000Z",
-     "points": null,
-     "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
-    }
-   ]
-  },
-  {
-   "id": "openai-openai-agents-carried-undisclosed",
-   "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 3.3,
-    "factors": [
-     {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
-     },
-     {
-      "label": "Security",
-      "amount": 0.6
-     },
-     {
-      "label": "873 points of reader attention",
-      "amount": 1
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-11T23:17:42.000Z",
-   "latestAt": "2026-09-11T23:17:42.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-     "link": "https://www.rubyhack.ai/",
-     "publisher": "rubyhack.ai",
-     "publisherDomain": "rubyhack.ai",
-     "kind": "discussion",
-     "date": "2026-09-11T23:17:42.000Z",
-     "points": 873,
      "summary": ""
     }
    ]
@@ -1355,53 +1253,6 @@
      "date": "2026-09-11T00:28:39.000Z",
      "points": null,
      "summary": "Release: github-to-sqlite 2.9.1 Fix for compatibility with sqlite-utils 4.x . #85 Tags: github , sqlite"
-    }
-   ]
-  },
-  {
-   "id": "misalignment-mathematics",
-   "title": "A misalignment of AI in mathematics",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 2.7,
-    "factors": [
-     {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
-     },
-     {
-      "label": "1124 points of reader attention",
-      "amount": 1
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-11T17:45:12.000Z",
-   "latestAt": "2026-09-11T17:45:12.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "A misalignment of AI in mathematics",
-     "link": "https://mathandai.org/",
-     "publisher": "mathandai.org",
-     "publisherDomain": "mathandai.org",
-     "kind": "discussion",
-     "date": "2026-09-11T17:45:12.000Z",
-     "points": 1124,
-     "summary": ""
     }
    ]
   },
