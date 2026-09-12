@@ -1,8 +1,8 @@
 {
  "date": "2026-09-12",
- "generated": "2026-09-12T13:30:28.325Z",
- "headline": "31 developments today. The most significant is security: From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
- "stats": "22 sources monitored · 2658 items read · 86 on-topic · 31 distinct developments · 15 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-12T16:54:47.303Z",
+ "headline": "28 developments today. The most significant is security: From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+ "stats": "22 sources monitored · 2658 items read · 83 on-topic · 28 distinct developments · 11 with a primary source · 2 independently corroborated",
  "events": [
   {
    "id": "claude-from-hacks-bioweapons-claude",
@@ -68,67 +68,6 @@
      "date": "2026-09-11T13:02:35.000Z",
      "points": null,
      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards."
-    }
-   ]
-  },
-  {
-   "id": "gpt-cognition-helps-devin-test",
-   "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 5.4,
-    "factors": [
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     },
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-11T16:00:00.000Z",
-   "latestAt": "2026-09-11T16:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "title": "Cognition helps Devin test its own work with GPT‑6 Astra"
-   },
-   "sources": [
-    {
-     "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-     "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-11T16:00:00.000Z",
-     "points": null,
-     "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
     }
    ]
   },
@@ -316,6 +255,79 @@
    ]
   },
   {
+   "id": "anthropic-anthropic-says-time-pump",
+   "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 4.7,
+    "factors": [
+     {
+      "label": "3 independent outlets",
+      "amount": 2.7
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "3 independent outlets agree"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 3,
+   "independentCount": 3,
+   "publishedAt": "2026-09-09T22:11:55.000Z",
+   "latestAt": "2026-09-12T16:23:40.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-12T16:23:40.000Z",
+     "points": null,
+     "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to…"
+    },
+    {
+     "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+     "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-12T15:52:11.000Z",
+     "points": null,
+     "summary": "What would it actually look like to \"pace the frontier\"?"
+    },
+    {
+     "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+     "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-09T22:11:55.000Z",
+     "points": null,
+     "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left…"
+    }
+   ]
+  },
+  {
    "id": "gpt-build-more-natural-voice",
    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
    "category": {
@@ -355,9 +367,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 4.3."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -379,61 +389,6 @@
      "date": "2026-09-10T00:00:00.000Z",
      "points": null,
      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
-    }
-   ]
-  },
-  {
-   "id": "releases-sota-granite-time",
-   "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4.3,
-    "factors": [
-     {
-      "label": "Primary source (Hugging Face)",
-      "amount": 1.5
-     },
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-09T15:36:24.000Z",
-   "latestAt": "2026-09-09T15:36:24.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license"
-   },
-   "sources": [
-    {
-     "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-     "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-09-09T15:36:24.000Z",
-     "points": null,
-     "summary": ""
     }
    ]
   },
@@ -630,6 +585,59 @@
    ]
   },
   {
+   "id": "gpt-astra-ambitious-things",
+   "title": "GPT-6-Astra Can Do Ambitious Things",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.9,
+    "factors": [
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-12T16:10:53.000Z",
+   "latestAt": "2026-09-12T16:10:53.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "GPT-6-Astra Can Do Ambitious Things",
+     "link": "https://www.lesswrong.com/posts/snaKjCwazKcRiS4qs/gpt-6-astra-can-do-ambitious-things",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-12T16:10:53.000Z",
+     "points": null,
+     "summary": "Astra is an excellent model. The jump from Sol to Astra is larger than the jump from Fable 5 to Fable 5.1. This is a big…"
+    }
+   ]
+  },
+  {
    "id": "gpt-chatgpt-using-lawyer-punished",
    "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
    "category": {
@@ -712,9 +720,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 3.7."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -765,9 +771,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 3.5."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -850,108 +854,6 @@
    ]
   },
   {
-   "id": "ready-game-with-football",
-   "title": "Get ready for the game with new football features in Search",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 3.5,
-    "factors": [
-     {
-      "label": "Primary source (Google AI)",
-      "amount": 1.5
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-09T16:00:00.000Z",
-   "latestAt": "2026-09-09T16:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-    "title": "Get ready for the game with new football features in Search"
-   },
-   "sources": [
-    {
-     "title": "Get ready for the game with new football features in Search",
-     "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-09-09T16:00:00.000Z",
-     "points": null,
-     "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a…"
-    }
-   ]
-  },
-  {
-   "id": "recreating-year-love-story",
-   "title": "Recreating a 70-year love story frame by frame",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 3.5,
-    "factors": [
-     {
-      "label": "Primary source (Google AI)",
-      "amount": 1.5
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-09T16:00:00.000Z",
-   "latestAt": "2026-09-09T16:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-    "title": "Recreating a 70-year love story frame by frame"
-   },
-   "sources": [
-    {
-     "title": "Recreating a 70-year love story frame by frame",
-     "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-09-09T16:00:00.000Z",
-     "points": null,
-     "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\""
-    }
-   ]
-  },
-  {
    "id": "openai-openai-agents-carried-undisclosed",
    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
    "category": {
@@ -977,7 +879,7 @@
       "amount": 0.6
      },
      {
-      "label": "797 points of reader attention",
+      "label": "873 points of reader attention",
       "amount": 1
      }
     ]
@@ -1003,7 +905,7 @@
      "publisherDomain": "rubyhack.ai",
      "kind": "discussion",
      "date": "2026-09-11T23:17:42.000Z",
-     "points": 797,
+     "points": 873,
      "summary": ""
     }
    ]
@@ -1472,7 +1374,7 @@
       "amount": -0.8
      },
      {
-      "label": "1033 points of reader attention",
+      "label": "1124 points of reader attention",
       "amount": 1
      }
     ]
@@ -1498,62 +1400,8 @@
      "publisherDomain": "mathandai.org",
      "kind": "discussion",
      "date": "2026-09-11T17:45:12.000Z",
-     "points": 1033,
+     "points": 1124,
      "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "meta-ai-agents-meta-agent-muse",
-   "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 2.7,
-    "factors": [
-     {
-      "label": "Tools & Products",
-      "amount": 0.2
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-10T19:50:04.000Z",
-   "latestAt": "2026-09-10T19:50:04.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-     "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-10T19:50:04.000Z",
-     "points": null,
-     "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
     }
    ]
   },
