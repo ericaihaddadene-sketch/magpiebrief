@@ -58,19 +58,19 @@
   "confidence": "Highly likely",
   "category": "general"
  },
- "gpt-researcher-uses-codex-chatgpt": {
-  "id": "gpt-researcher-uses-codex-chatgpt",
-  "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-  "firstSeen": "2026-09-10T18:17:03.128Z",
+ "cuda-windows": {
+  "id": "cuda-windows",
+  "title": "CUDA for AMD on Windows",
+  "firstSeen": "2026-09-13T16:05:03.560Z",
   "publishers": [
-   "OpenAI"
+   "GitHub"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "importance": 4.4,
+  "importance": 4,
   "confidence": "Confirmed",
-  "category": "research"
+  "category": "general"
  },
  "gpt-chatgpt-using-lawyer-punished": {
   "id": "gpt-chatgpt-using-lawyer-punished",
@@ -100,33 +100,19 @@
   "confidence": "Confirmed",
   "category": "tools"
  },
- "everyone-data-work": {
-  "id": "everyone-data-work",
-  "title": "Now everyone can put data to work",
-  "firstSeen": "2026-09-10T18:17:03.128Z",
+ "anthropic-claude-houthis-used-claude-code": {
+  "id": "anthropic-claude-houthis-used-claude-code",
+  "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+  "firstSeen": "2026-09-13T16:05:03.560Z",
   "publishers": [
-   "OpenAI"
+   "clashreport.com"
   ],
   "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 3.5,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "ways-prep-your-next": {
-  "id": "ways-prep-your-next",
-  "title": "3 ways to prep for your next big race with Search",
-  "firstSeen": "2026-09-10T18:17:03.128Z",
-  "publishers": [
-   "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 3.5,
-  "confidence": "Confirmed",
-  "category": "general"
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 3.1,
+  "confidence": "Unverified",
+  "category": "models"
  },
  "meta-ai-copyright-meta-sued-over-training": {
   "id": "meta-ai-copyright-meta-sued-over-training",
@@ -184,20 +170,6 @@
   "confidence": "Developing",
   "category": "business"
  },
- "nvidia-enflame-shares-soar-shanghai": {
-  "id": "nvidia-enflame-shares-soar-shanghai",
-  "title": "Enflame shares soar 179% in Shanghai debut as Nvidia challenger taps investor fever for AI",
-  "firstSeen": "2026-09-11T04:19:45.008Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.9,
-  "confidence": "Developing",
-  "category": "business"
- },
  "chinese-researchers-extend-future": {
   "id": "chinese-researchers-extend-future",
   "title": "Chinese researchers extend future memory endurance 100-fold in semiconductor advance",
@@ -240,20 +212,6 @@
   "confidence": "Developing",
   "category": "research"
  },
- "github-sqlite": {
-  "id": "github-sqlite",
-  "title": "github-to-sqlite 2.9.1",
-  "firstSeen": "2026-09-12T00:04:16.054Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.8,
-  "confidence": "Developing",
-  "category": "opensource"
- },
  "everyone-should-slow-down": {
   "id": "everyone-should-slow-down",
   "title": "Everyone should slow down AI development except for me",
@@ -282,18 +240,18 @@
   "confidence": "Unverified",
   "category": "general"
  },
- "nvidia-nvidia-central-bank": {
-  "id": "nvidia-nvidia-central-bank",
-  "title": "Nvidia is the central bank of AI",
-  "firstSeen": "2026-09-12T22:09:12.646Z",
+ "openai-openai-wants-know-industry": {
+  "id": "openai-openai-wants-know-industry",
+  "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+  "firstSeen": "2026-09-13T16:05:03.560Z",
   "publishers": [
-   "economist.com"
+   "Wired AI"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
   "hadPrimary": false,
   "importance": 2.6,
-  "confidence": "Unverified",
-  "category": "general"
+  "confidence": "Developing",
+  "category": "policy"
  }
 }

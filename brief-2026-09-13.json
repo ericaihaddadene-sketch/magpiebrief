@@ -1,8 +1,8 @@
 {
  "date": "2026-09-13",
- "generated": "2026-09-13T11:36:58.101Z",
- "headline": "21 developments today. The most significant is new models: Cognition helps Devin test its own work with GPT‑6 Astra",
- "stats": "22 sources monitored · 2658 items read · 68 on-topic · 21 distinct developments · 6 with a primary source · 3 independently corroborated",
+ "generated": "2026-09-13T16:05:03.610Z",
+ "headline": "18 developments today. The most significant is new models: Cognition helps Devin test its own work with GPT‑6 Astra",
+ "stats": "22 sources monitored · 2658 items read · 64 on-topic · 18 distinct developments · 4 with a primary source · 3 independently corroborated",
  "events": [
   {
    "id": "gpt-cognition-helps-devin-test",
@@ -276,37 +276,19 @@
    ]
   },
   {
-   "id": "gpt-researcher-uses-codex-chatgpt",
-   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+   "id": "cuda-windows",
+   "title": "CUDA for AMD on Windows",
    "category": {
-    "id": "research",
-    "name": "Research"
+    "id": "general",
+    "name": "Developments"
    },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
+   "entities": [],
    "importance": {
-    "score": 4.4,
+    "score": 4,
     "factors": [
      {
-      "label": "Primary source (OpenAI)",
+      "label": "Primary source (GitHub)",
       "amount": 1.5
-     },
-     {
-      "label": "Research",
-      "amount": 0.3
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
      }
     ]
    },
@@ -314,29 +296,29 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "confirmed",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-10T16:00:00.000Z",
-   "latestAt": "2026-09-10T16:00:00.000Z",
+   "publishedAt": "2026-09-13T14:25:13.000Z",
+   "latestAt": "2026-09-13T14:25:13.000Z",
    "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
+    "publisher": "GitHub",
+    "link": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+    "title": "CUDA for AMD on Windows"
    },
    "sources": [
     {
-     "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-     "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
+     "title": "CUDA for AMD on Windows",
+     "link": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
      "kind": "primary",
-     "date": "2026-09-10T16:00:00.000Z",
-     "points": null,
-     "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
+     "date": "2026-09-13T14:25:13.000Z",
+     "points": 9,
+     "summary": ""
     }
    ]
   },
@@ -423,9 +405,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 3.7."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -451,104 +431,64 @@
    ]
   },
   {
-   "id": "everyone-data-work",
-   "title": "Now everyone can put data to work",
+   "id": "anthropic-claude-houthis-used-claude-code",
+   "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
    "category": {
-    "id": "general",
-    "name": "Developments"
+    "id": "models",
+    "name": "New Models"
    },
-   "entities": [],
-   "importance": {
-    "score": 3.5,
-    "factors": [
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-10T15:00:00.000Z",
-   "latestAt": "2026-09-10T15:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/put-data-to-work",
-    "title": "Now everyone can put data to work"
-   },
-   "sources": [
+   "entities": [
     {
-     "title": "Now everyone can put data to work",
-     "link": "https://openai.com/index/put-data-to-work",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-10T15:00:00.000Z",
-     "points": null,
-     "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
     }
-   ]
-  },
-  {
-   "id": "ways-prep-your-next",
-   "title": "3 ways to prep for your next big race with Search",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
+   ],
    "importance": {
-    "score": 3.5,
+    "score": 3.1,
     "factors": [
      {
-      "label": "Primary source (Google AI)",
-      "amount": 1.5
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
      },
      {
-      "label": "Several days old",
-      "amount": -0.5
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
      }
     ]
    },
    "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
    },
-   "status": "confirmed",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-10T16:00:00.000Z",
-   "latestAt": "2026-09-10T16:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-    "title": "3 ways to prep for your next big race with Search"
-   },
+   "independentCount": 0,
+   "publishedAt": "2026-09-13T14:15:40.000Z",
+   "latestAt": "2026-09-13T14:15:40.000Z",
+   "primary": null,
    "sources": [
     {
-     "title": "3 ways to prep for your next big race with Search",
-     "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-09-10T16:00:00.000Z",
-     "points": null,
-     "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid"
+     "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+     "link": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+     "publisher": "clashreport.com",
+     "publisherDomain": "clashreport.com",
+     "kind": "discussion",
+     "date": "2026-09-13T14:15:40.000Z",
+     "points": 44,
+     "summary": ""
     }
    ]
   },
@@ -758,55 +698,6 @@
    ]
   },
   {
-   "id": "nvidia-enflame-shares-soar-shanghai",
-   "title": "Enflame shares soar 179% in Shanghai debut as Nvidia challenger taps investor fever for AI",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 2.9,
-    "factors": [
-     {
-      "label": "Business",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-11T01:45:56.000Z",
-   "latestAt": "2026-09-11T01:45:56.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Enflame shares soar 179% in Shanghai debut as Nvidia challenger taps investor fever for AI",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3367124/enflame-shares-soar-188-shanghai-debut-nvidia-challenger-taps-investor-fever-ai?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-11T01:45:56.000Z",
-     "points": null,
-     "summary": "Enflame Technology, one of the major challengers to Nvidia in China, saw its share price surge 179 per cent in its Shanghai trading debut on Friday…"
-    }
-   ]
-  },
-  {
    "id": "chinese-researchers-extend-future",
    "title": "Chinese researchers extend future memory endurance 100-fold in semiconductor advance",
    "category": {
@@ -827,7 +718,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -942,49 +833,6 @@
    ]
   },
   {
-   "id": "github-sqlite",
-   "title": "github-to-sqlite 2.9.1",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [],
-   "importance": {
-    "score": 2.8,
-    "factors": [
-     {
-      "label": "Open Source",
-      "amount": 0.3
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-11T00:28:39.000Z",
-   "latestAt": "2026-09-11T00:28:39.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "github-to-sqlite 2.9.1",
-     "link": "https://simonwillison.net/2026/Sep/11/github-to-sqlite/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-11T00:28:39.000Z",
-     "points": null,
-     "summary": "Release: github-to-sqlite 2.9.1 Fix for compatibility with sqlite-utils 4.x . #85 Tags: github , sqlite"
-    }
-   ]
-  },
-  {
    "id": "everyone-should-slow-down",
    "title": "Everyone should slow down AI development except for me",
    "category": {
@@ -1000,7 +848,7 @@
       "amount": -0.8
      },
      {
-      "label": "528 points of reader attention",
+      "label": "662 points of reader attention",
       "amount": 1
      }
     ]
@@ -1026,7 +874,7 @@
      "publisherDomain": "xeiaso.net",
      "kind": "discussion",
      "date": "2026-09-13T00:30:44.000Z",
-     "points": 528,
+     "points": 662,
      "summary": ""
     }
    ]
@@ -1053,7 +901,7 @@
       "amount": -0.8
      },
      {
-      "label": "270 points of reader attention",
+      "label": "437 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -1062,7 +910,7 @@
     "level": "Unverified",
     "why": "Community discussion only, no reporting yet"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1079,22 +927,22 @@
      "publisherDomain": "yoshuabengio.org",
      "kind": "discussion",
      "date": "2026-09-13T01:22:31.000Z",
-     "points": 270,
+     "points": 437,
      "summary": ""
     }
    ]
   },
   {
-   "id": "nvidia-nvidia-central-bank",
-   "title": "Nvidia is the central bank of AI",
+   "id": "openai-openai-wants-know-industry",
+   "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
    "category": {
-    "id": "general",
-    "name": "Developments"
+    "id": "policy",
+    "name": "Policy & Regulation"
    },
    "entities": [
     {
-     "id": "nvidia",
-     "name": "NVIDIA",
+     "id": "openai",
+     "name": "OpenAI",
      "kind": "org"
     }
    ],
@@ -1102,38 +950,38 @@
     "score": 2.6,
     "factors": [
      {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
+      "label": "Policy & Regulation",
+      "amount": 0.6
      },
      {
-      "label": "499 points of reader attention",
-      "amount": 0.9
+      "label": "Several days old",
+      "amount": -0.5
      }
     ]
    },
    "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
+    "level": "Developing",
+    "why": "A single outlet so far"
    },
    "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-12T15:08:27.000Z",
-   "latestAt": "2026-09-12T15:08:27.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-10T23:28:42.000Z",
+   "latestAt": "2026-09-10T23:28:42.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Nvidia is the central bank of AI",
-     "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-     "publisher": "economist.com",
-     "publisherDomain": "economist.com",
-     "kind": "discussion",
-     "date": "2026-09-12T15:08:27.000Z",
-     "points": 499,
-     "summary": ""
+     "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+     "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-10T23:28:42.000Z",
+     "points": null,
+     "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development."
     }
    ]
   }
