@@ -1,8 +1,8 @@
 {
  "date": "2026-09-13",
- "generated": "2026-09-13T00:47:32.056Z",
- "headline": "20 developments today. The most significant is new models: Cognition helps Devin test its own work with GPT‑6 Astra",
- "stats": "22 sources monitored · 2658 items read · 76 on-topic · 20 distinct developments · 8 with a primary source · 3 independently corroborated",
+ "generated": "2026-09-13T05:54:35.843Z",
+ "headline": "21 developments today. The most significant is new models: Cognition helps Devin test its own work with GPT‑6 Astra",
+ "stats": "22 sources monitored · 2658 items read · 75 on-topic · 21 distinct developments · 8 with a primary source · 3 independently corroborated",
  "events": [
   {
    "id": "gpt-cognition-helps-devin-test",
@@ -208,67 +208,6 @@
    ]
   },
   {
-   "id": "gpt-researcher-uses-codex-chatgpt",
-   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 4.9,
-    "factors": [
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     },
-     {
-      "label": "Research",
-      "amount": 0.3
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-10T16:00:00.000Z",
-   "latestAt": "2026-09-10T16:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
-   },
-   "sources": [
-    {
-     "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-     "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-10T16:00:00.000Z",
-     "points": null,
-     "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
-    }
-   ]
-  },
-  {
    "id": "gpt-introducing-chatgpt-financial-services",
    "title": "Introducing ChatGPT for Financial Services",
    "category": {
@@ -330,6 +269,73 @@
      "date": "2026-09-10T07:00:00.000Z",
      "points": null,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "gpt-researcher-uses-codex-chatgpt",
+   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 4.4,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "Research",
+      "amount": 0.3
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [
+    "Importance fell 0.5 to 4.4."
+   ],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-10T16:00:00.000Z",
+   "latestAt": "2026-09-10T16:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
+   },
+   "sources": [
+    {
+     "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+     "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-10T16:00:00.000Z",
+     "points": null,
+     "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
     }
    ]
   },
@@ -444,100 +450,6 @@
    ]
   },
   {
-   "id": "everyone-data-work",
-   "title": "Now everyone can put data to work",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-10T15:00:00.000Z",
-   "latestAt": "2026-09-10T15:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/put-data-to-work",
-    "title": "Now everyone can put data to work"
-   },
-   "sources": [
-    {
-     "title": "Now everyone can put data to work",
-     "link": "https://openai.com/index/put-data-to-work",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-10T15:00:00.000Z",
-     "points": null,
-     "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
-    }
-   ]
-  },
-  {
-   "id": "ways-prep-your-next",
-   "title": "3 ways to prep for your next big race with Search",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (Google AI)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-10T16:00:00.000Z",
-   "latestAt": "2026-09-10T16:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-    "title": "3 ways to prep for your next big race with Search"
-   },
-   "sources": [
-    {
-     "title": "3 ways to prep for your next big race with Search",
-     "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-09-10T16:00:00.000Z",
-     "points": null,
-     "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid"
-    }
-   ]
-  },
-  {
    "id": "gpt-chatgpt-using-lawyer-punished",
    "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
    "category": {
@@ -587,6 +499,112 @@
      "date": "2026-09-11T19:34:09.000Z",
      "points": null,
      "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says."
+    }
+   ]
+  },
+  {
+   "id": "everyone-data-work",
+   "title": "Now everyone can put data to work",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.5,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [
+    "Importance fell 0.5 to 3.5."
+   ],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-10T15:00:00.000Z",
+   "latestAt": "2026-09-10T15:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/put-data-to-work",
+    "title": "Now everyone can put data to work"
+   },
+   "sources": [
+    {
+     "title": "Now everyone can put data to work",
+     "link": "https://openai.com/index/put-data-to-work",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-10T15:00:00.000Z",
+     "points": null,
+     "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
+    }
+   ]
+  },
+  {
+   "id": "ways-prep-your-next",
+   "title": "3 ways to prep for your next big race with Search",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.5,
+    "factors": [
+     {
+      "label": "Primary source (Google AI)",
+      "amount": 1.5
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [
+    "Importance fell 0.5 to 3.5."
+   ],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-10T16:00:00.000Z",
+   "latestAt": "2026-09-10T16:00:00.000Z",
+   "primary": {
+    "publisher": "Google AI",
+    "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+    "title": "3 ways to prep for your next big race with Search"
+   },
+   "sources": [
+    {
+     "title": "3 ways to prep for your next big race with Search",
+     "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-10T16:00:00.000Z",
+     "points": null,
+     "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid"
     }
    ]
   },
@@ -1031,6 +1049,53 @@
    ]
   },
   {
+   "id": "everyone-should-slow-down",
+   "title": "Everyone should slow down AI development except for me",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.6,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "322 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-13T00:30:44.000Z",
+   "latestAt": "2026-09-13T00:30:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Everyone should slow down AI development except for me",
+     "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+     "publisher": "xeiaso.net",
+     "publisherDomain": "xeiaso.net",
+     "kind": "discussion",
+     "date": "2026-09-13T00:30:44.000Z",
+     "points": 322,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "nvidia-nvidia-central-bank",
    "title": "Nvidia is the central bank of AI",
    "category": {
@@ -1052,7 +1117,7 @@
       "amount": -0.8
      },
      {
-      "label": "375 points of reader attention",
+      "label": "439 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -1078,7 +1143,7 @@
      "publisherDomain": "economist.com",
      "kind": "discussion",
      "date": "2026-09-12T15:08:27.000Z",
-     "points": 375,
+     "points": 439,
      "summary": ""
     }
    ]
