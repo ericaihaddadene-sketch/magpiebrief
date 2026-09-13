@@ -1,8 +1,8 @@
 {
  "date": "2026-09-13",
- "generated": "2026-09-13T05:54:35.843Z",
+ "generated": "2026-09-13T11:36:58.101Z",
  "headline": "21 developments today. The most significant is new models: Cognition helps Devin test its own work with GPT‑6 Astra",
- "stats": "22 sources monitored · 2658 items read · 75 on-topic · 21 distinct developments · 8 with a primary source · 3 independently corroborated",
+ "stats": "22 sources monitored · 2658 items read · 68 on-topic · 21 distinct developments · 6 with a primary source · 3 independently corroborated",
  "events": [
   {
    "id": "gpt-cognition-helps-devin-test",
@@ -208,67 +208,70 @@
    ]
   },
   {
-   "id": "gpt-introducing-chatgpt-financial-services",
-   "title": "Introducing ChatGPT for Financial Services",
+   "id": "anthropic-openai-anthropic-openai-haven-published",
+   "title": "Anthropic and OpenAI haven’t published a plan for aligning superintelligence",
    "category": {
-    "id": "models",
-    "name": "New Models"
+    "id": "general",
+    "name": "Developments"
    },
    "entities": [
     {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
     }
    ],
    "importance": {
-    "score": 4.9,
+    "score": 4.6,
     "factors": [
      {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
+      "label": "2 independent outlets",
+      "amount": 1.7
      },
      {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
+      "label": "Involves multiple organisations",
+      "amount": 0.4
      }
     ]
    },
    "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
+    "level": "Highly likely",
+    "why": "Two independent outlets"
    },
-   "status": "confirmed",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-10T07:00:00.000Z",
-   "latestAt": "2026-09-10T07:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "title": "Introducing ChatGPT for Financial Services"
-   },
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-12T19:34:44.000Z",
+   "latestAt": "2026-09-13T07:15:28.000Z",
+   "primary": null,
    "sources": [
     {
-     "title": "Introducing ChatGPT for Financial Services",
-     "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-10T07:00:00.000Z",
+     "title": "Anthropic and OpenAI haven’t published a plan for aligning superintelligence",
+     "link": "https://www.lesswrong.com/posts/QrrEtYpwiHpes3rHd/anthropic-and-openai-haven-t-published-a-plan-for-aligning",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-13T07:15:28.000Z",
      "points": null,
-     "summary": ""
+     "summary": "While OpenAI and Anthropic [1] pursue different lines of safety research, they have yet to produce a public-facing document describing concretely how their companies plan to…"
+    },
+    {
+     "title": "Anthropic CEO outlines plan to slow AI development",
+     "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-12T19:34:44.000Z",
+     "points": null,
+     "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
     }
    ]
   },
@@ -312,9 +315,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 4.4."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -336,116 +337,6 @@
      "date": "2026-09-10T16:00:00.000Z",
      "points": null,
      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
-    }
-   ]
-  },
-  {
-   "id": "anthropic-anthropic-outlines-plan-slow",
-   "title": "Anthropic CEO outlines plan to slow AI development",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 4.2,
-    "factors": [
-     {
-      "label": "2 independent outlets",
-      "amount": 1.7
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Highly likely",
-    "why": "Two independent outlets"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-12T16:23:40.000Z",
-   "latestAt": "2026-09-12T19:34:44.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic CEO outlines plan to slow AI development",
-     "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-12T19:34:44.000Z",
-     "points": null,
-     "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
-    },
-    {
-     "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-12T16:23:40.000Z",
-     "points": null,
-     "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to…"
-    }
-   ]
-  },
-  {
-   "id": "toolgrad-efficient-tool-dataset",
-   "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4.2,
-    "factors": [
-     {
-      "label": "Primary source (Google Research)",
-      "amount": 1.5
-     },
-     {
-      "label": "Tools & Products",
-      "amount": 0.2
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-10T22:50:22.000Z",
-   "latestAt": "2026-09-10T22:50:22.000Z",
-   "primary": {
-    "publisher": "Google Research",
-    "link": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
-    "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\""
-   },
-   "sources": [
-    {
-     "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
-     "link": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
-     "publisher": "Google Research",
-     "publisherDomain": "research.google",
-     "kind": "primary",
-     "date": "2026-09-10T22:50:22.000Z",
-     "points": null,
-     "summary": ""
     }
    ]
   },
@@ -503,6 +394,63 @@
    ]
   },
   {
+   "id": "toolgrad-efficient-tool-dataset",
+   "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.7,
+    "factors": [
+     {
+      "label": "Primary source (Google Research)",
+      "amount": 1.5
+     },
+     {
+      "label": "Tools & Products",
+      "amount": 0.2
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [
+    "Importance fell 0.5 to 3.7."
+   ],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-10T22:50:22.000Z",
+   "latestAt": "2026-09-10T22:50:22.000Z",
+   "primary": {
+    "publisher": "Google Research",
+    "link": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
+    "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\""
+   },
+   "sources": [
+    {
+     "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
+     "link": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
+     "publisher": "Google Research",
+     "publisherDomain": "research.google",
+     "kind": "primary",
+     "date": "2026-09-10T22:50:22.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "everyone-data-work",
    "title": "Now everyone can put data to work",
    "category": {
@@ -528,9 +476,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 3.5."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -581,9 +527,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 3.5."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -605,57 +549,6 @@
      "date": "2026-09-10T16:00:00.000Z",
      "points": null,
      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid"
-    }
-   ]
-  },
-  {
-   "id": "expanding-access-cyber-defense",
-   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 3.5,
-    "factors": [
-     {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-10T07:00:00.000Z",
-   "latestAt": "2026-09-10T07:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/expanding-ai-access-us-government",
-    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments"
-   },
-   "sources": [
-    {
-     "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-     "link": "https://openai.com/index/expanding-ai-access-us-government",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-10T07:00:00.000Z",
-     "points": null,
-     "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
     }
    ]
   },
@@ -768,49 +661,6 @@
    ]
   },
   {
-   "id": "kimi-maker-moonshot-targets",
-   "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [],
-   "importance": {
-    "score": 2.9,
-    "factors": [
-     {
-      "label": "Business",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-11T19:35:54.000Z",
-   "latestAt": "2026-09-11T19:35:54.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-     "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-11T19:35:54.000Z",
-     "points": null,
-     "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3…"
-    }
-   ]
-  },
-  {
    "id": "openai-funding-nscale-adds-former-openai",
    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
    "category": {
@@ -865,6 +715,49 @@
    ]
   },
   {
+   "id": "kimi-maker-moonshot-targets",
+   "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Business",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-11T19:35:54.000Z",
+   "latestAt": "2026-09-11T19:35:54.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+     "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-11T19:35:54.000Z",
+     "points": null,
+     "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3…"
+    }
+   ]
+  },
+  {
    "id": "nvidia-enflame-shares-soar-shanghai",
    "title": "Enflame shares soar 179% in Shanghai debut as Nvidia challenger taps investor fever for AI",
    "category": {
@@ -910,6 +803,49 @@
      "date": "2026-09-11T01:45:56.000Z",
      "points": null,
      "summary": "Enflame Technology, one of the major challengers to Nvidia in China, saw its share price surge 179 per cent in its Shanghai trading debut on Friday…"
+    }
+   ]
+  },
+  {
+   "id": "chinese-researchers-extend-future",
+   "title": "Chinese researchers extend future memory endurance 100-fold in semiconductor advance",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.8,
+    "factors": [
+     {
+      "label": "Research",
+      "amount": 0.3
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-13T10:52:17.000Z",
+   "latestAt": "2026-09-13T10:52:17.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Chinese researchers extend future memory endurance 100-fold in semiconductor advance",
+     "link": "https://www.scmp.com/tech/article/3367354/chinese-researchers-extend-future-memory-endurance-100-fold-semiconductor-advance?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-13T10:52:17.000Z",
+     "points": null,
+     "summary": "Chinese researchers have developed a way to make an emerging type of memory chip much more durable, potentially overcoming a critical reliability barrier to its use…"
     }
    ]
   },
@@ -1057,15 +993,15 @@
    },
    "entities": [],
    "importance": {
-    "score": 2.6,
+    "score": 2.7,
     "factors": [
      {
       "label": "Discussion only, no reporting",
       "amount": -0.8
      },
      {
-      "label": "322 points of reader attention",
-      "amount": 0.9
+      "label": "528 points of reader attention",
+      "amount": 1
      }
     ]
    },
@@ -1073,7 +1009,7 @@
     "level": "Unverified",
     "why": "Community discussion only, no reporting yet"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1090,7 +1026,60 @@
      "publisherDomain": "xeiaso.net",
      "kind": "discussion",
      "date": "2026-09-13T00:30:44.000Z",
-     "points": 322,
+     "points": 528,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "agents-agents-lying-cheating-coordinating",
+   "title": "Why are AI agents lying, cheating and coordinating?",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "importance": {
+    "score": 2.6,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "270 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-13T01:22:31.000Z",
+   "latestAt": "2026-09-13T01:22:31.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Why are AI agents lying, cheating and coordinating?",
+     "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+     "publisher": "yoshuabengio.org",
+     "publisherDomain": "yoshuabengio.org",
+     "kind": "discussion",
+     "date": "2026-09-13T01:22:31.000Z",
+     "points": 270,
      "summary": ""
     }
    ]
@@ -1117,7 +1106,7 @@
       "amount": -0.8
      },
      {
-      "label": "439 points of reader attention",
+      "label": "499 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -1143,7 +1132,7 @@
      "publisherDomain": "economist.com",
      "kind": "discussion",
      "date": "2026-09-12T15:08:27.000Z",
-     "points": 439,
+     "points": 499,
      "summary": ""
     }
    ]

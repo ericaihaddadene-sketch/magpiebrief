@@ -43,19 +43,20 @@
   "confidence": "Confirmed",
   "category": "models"
  },
- "gpt-introducing-chatgpt-financial-services": {
-  "id": "gpt-introducing-chatgpt-financial-services",
-  "title": "Introducing ChatGPT for Financial Services",
-  "firstSeen": "2026-09-10T21:32:11.988Z",
+ "anthropic-openai-anthropic-openai-haven-published": {
+  "id": "anthropic-openai-anthropic-openai-haven-published",
+  "title": "Anthropic and OpenAI haven’t published a plan for aligning superintelligence",
+  "firstSeen": "2026-09-13T11:36:58.043Z",
   "publishers": [
-   "OpenAI"
+   "LessWrong",
+   "TechCrunch"
   ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4.9,
-  "confidence": "Confirmed",
-  "category": "models"
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "importance": 4.6,
+  "confidence": "Highly likely",
+  "category": "general"
  },
  "gpt-researcher-uses-codex-chatgpt": {
   "id": "gpt-researcher-uses-codex-chatgpt",
@@ -71,35 +72,6 @@
   "confidence": "Confirmed",
   "category": "research"
  },
- "anthropic-anthropic-outlines-plan-slow": {
-  "id": "anthropic-anthropic-outlines-plan-slow",
-  "title": "Anthropic CEO outlines plan to slow AI development",
-  "firstSeen": "2026-09-12T22:09:12.646Z",
-  "publishers": [
-   "TechCrunch",
-   "The Verge"
-  ],
-  "sourceCount": 2,
-  "independentCount": 2,
-  "hadPrimary": false,
-  "importance": 4.2,
-  "confidence": "Highly likely",
-  "category": "general"
- },
- "toolgrad-efficient-tool-dataset": {
-  "id": "toolgrad-efficient-tool-dataset",
-  "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
-  "firstSeen": "2026-09-10T23:57:05.269Z",
-  "publishers": [
-   "Google Research"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4.2,
-  "confidence": "Confirmed",
-  "category": "tools"
- },
  "gpt-chatgpt-using-lawyer-punished": {
   "id": "gpt-chatgpt-using-lawyer-punished",
   "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
@@ -113,6 +85,20 @@
   "importance": 3.9,
   "confidence": "Developing",
   "category": "models"
+ },
+ "toolgrad-efficient-tool-dataset": {
+  "id": "toolgrad-efficient-tool-dataset",
+  "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
+  "firstSeen": "2026-09-10T23:57:05.269Z",
+  "publishers": [
+   "Google Research"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 3.7,
+  "confidence": "Confirmed",
+  "category": "tools"
  },
  "everyone-data-work": {
   "id": "everyone-data-work",
@@ -134,20 +120,6 @@
   "firstSeen": "2026-09-10T18:17:03.128Z",
   "publishers": [
    "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 3.5,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "expanding-access-cyber-defense": {
-  "id": "expanding-access-cyber-defense",
-  "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-  "firstSeen": "2026-09-10T18:17:03.128Z",
-  "publishers": [
-   "OpenAI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -184,10 +156,10 @@
   "confidence": "Developing",
   "category": "business"
  },
- "kimi-maker-moonshot-targets": {
-  "id": "kimi-maker-moonshot-targets",
-  "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-  "firstSeen": "2026-09-11T21:39:20.501Z",
+ "openai-funding-nscale-adds-former-openai": {
+  "id": "openai-funding-nscale-adds-former-openai",
+  "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+  "firstSeen": "2026-09-11T18:21:05.988Z",
   "publishers": [
    "TechCrunch"
   ],
@@ -198,10 +170,10 @@
   "confidence": "Developing",
   "category": "business"
  },
- "openai-funding-nscale-adds-former-openai": {
-  "id": "openai-funding-nscale-adds-former-openai",
-  "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-  "firstSeen": "2026-09-11T18:21:05.988Z",
+ "kimi-maker-moonshot-targets": {
+  "id": "kimi-maker-moonshot-targets",
+  "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+  "firstSeen": "2026-09-11T21:39:20.501Z",
   "publishers": [
    "TechCrunch"
   ],
@@ -225,6 +197,20 @@
   "importance": 2.9,
   "confidence": "Developing",
   "category": "business"
+ },
+ "chinese-researchers-extend-future": {
+  "id": "chinese-researchers-extend-future",
+  "title": "Chinese researchers extend future memory endurance 100-fold in semiconductor advance",
+  "firstSeen": "2026-09-13T11:36:58.043Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.8,
+  "confidence": "Developing",
+  "category": "research"
  },
  "open-source-combinator-garry-wants-open": {
   "id": "open-source-combinator-garry-wants-open",
@@ -274,6 +260,20 @@
   "firstSeen": "2026-09-13T05:54:35.786Z",
   "publishers": [
    "xeiaso.net"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 2.7,
+  "confidence": "Unverified",
+  "category": "general"
+ },
+ "agents-agents-lying-cheating-coordinating": {
+  "id": "agents-agents-lying-cheating-coordinating",
+  "title": "Why are AI agents lying, cheating and coordinating?",
+  "firstSeen": "2026-09-13T11:36:58.043Z",
+  "publishers": [
+   "yoshuabengio.org"
   ],
   "sourceCount": 1,
   "independentCount": 0,
