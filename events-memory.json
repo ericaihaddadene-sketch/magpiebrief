@@ -43,19 +43,18 @@
   "confidence": "Confirmed",
   "category": "models"
  },
- "anthropic-openai-anthropic-openai-haven-published": {
-  "id": "anthropic-openai-anthropic-openai-haven-published",
-  "title": "Anthropic and OpenAI haven’t published a plan for aligning superintelligence",
-  "firstSeen": "2026-09-13T11:36:58.043Z",
+ "docket-commit-evidence-records": {
+  "id": "docket-commit-evidence-records",
+  "title": "Docket – Per-commit evidence records for agent-written code",
+  "firstSeen": "2026-09-13T18:44:29.364Z",
   "publishers": [
-   "LessWrong",
-   "TechCrunch"
+   "GitHub"
   ],
-  "sourceCount": 2,
-  "independentCount": 2,
-  "hadPrimary": false,
-  "importance": 4.6,
-  "confidence": "Highly likely",
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
   "category": "general"
  },
  "cuda-windows": {
@@ -100,19 +99,19 @@
   "confidence": "Confirmed",
   "category": "tools"
  },
- "anthropic-claude-houthis-used-claude-code": {
-  "id": "anthropic-claude-houthis-used-claude-code",
-  "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
-  "firstSeen": "2026-09-13T16:05:03.560Z",
+ "anthropic-openai-david-sacks-openai-anthropic": {
+  "id": "anthropic-openai-david-sacks-openai-anthropic",
+  "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+  "firstSeen": "2026-09-13T18:44:29.364Z",
   "publishers": [
-   "clashreport.com"
+   "X"
   ],
   "sourceCount": 1,
   "independentCount": 0,
   "hadPrimary": false,
-  "importance": 3.1,
+  "importance": 3.4,
   "confidence": "Unverified",
-  "category": "models"
+  "category": "policy"
  },
  "meta-ai-copyright-meta-sued-over-training": {
   "id": "meta-ai-copyright-meta-sued-over-training",
@@ -127,6 +126,20 @@
   "importance": 3.1,
   "confidence": "Developing",
   "category": "policy"
+ },
+ "anthropic-openai-anthropic-openai-haven-published": {
+  "id": "anthropic-openai-anthropic-openai-haven-published",
+  "title": "Anthropic and OpenAI haven’t published a plan for aligning superintelligence",
+  "firstSeen": "2026-09-13T11:36:58.043Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.9,
+  "confidence": "Developing",
+  "category": "general"
  },
  "funding-robotics-mecka-nears-500m-valuation": {
   "id": "funding-robotics-mecka-nears-500m-valuation",
@@ -170,6 +183,20 @@
   "confidence": "Developing",
   "category": "business"
  },
+ "open-source-garry-wants-open-weight": {
+  "id": "open-source-garry-wants-open-weight",
+  "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+  "firstSeen": "2026-09-13T18:44:29.364Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 2.8,
+  "confidence": "Unverified",
+  "category": "opensource"
+ },
  "chinese-researchers-extend-future": {
   "id": "chinese-researchers-extend-future",
   "title": "Chinese researchers extend future memory endurance 100-fold in semiconductor advance",
@@ -184,20 +211,6 @@
   "confidence": "Developing",
   "category": "research"
  },
- "open-source-combinator-garry-wants-open": {
-  "id": "open-source-combinator-garry-wants-open",
-  "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-  "firstSeen": "2026-09-11T21:39:20.501Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.8,
-  "confidence": "Developing",
-  "category": "opensource"
- },
  "many-researchers-think-machines": {
   "id": "many-researchers-think-machines",
   "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
@@ -211,34 +224,6 @@
   "importance": 2.8,
   "confidence": "Developing",
   "category": "research"
- },
- "everyone-should-slow-down": {
-  "id": "everyone-should-slow-down",
-  "title": "Everyone should slow down AI development except for me",
-  "firstSeen": "2026-09-13T05:54:35.786Z",
-  "publishers": [
-   "xeiaso.net"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 2.7,
-  "confidence": "Unverified",
-  "category": "general"
- },
- "agents-agents-lying-cheating-coordinating": {
-  "id": "agents-agents-lying-cheating-coordinating",
-  "title": "Why are AI agents lying, cheating and coordinating?",
-  "firstSeen": "2026-09-13T11:36:58.043Z",
-  "publishers": [
-   "yoshuabengio.org"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 2.6,
-  "confidence": "Unverified",
-  "category": "general"
  },
  "openai-openai-wants-know-industry": {
   "id": "openai-openai-wants-know-industry",

@@ -1,8 +1,8 @@
 {
  "date": "2026-09-13",
- "generated": "2026-09-13T16:05:03.610Z",
- "headline": "18 developments today. The most significant is new models: Cognition helps Devin test its own work with GPT‑6 Astra",
- "stats": "22 sources monitored · 2658 items read · 64 on-topic · 18 distinct developments · 4 with a primary source · 3 independently corroborated",
+ "generated": "2026-09-13T18:44:29.419Z",
+ "headline": "17 developments today. The most significant is new models: Cognition helps Devin test its own work with GPT‑6 Astra",
+ "stats": "22 sources monitored · 2658 items read · 59 on-topic · 17 distinct developments · 5 with a primary source · 2 independently corroborated",
  "events": [
   {
    "id": "gpt-cognition-helps-devin-test",
@@ -208,76 +208,8 @@
    ]
   },
   {
-   "id": "anthropic-openai-anthropic-openai-haven-published",
-   "title": "Anthropic and OpenAI haven’t published a plan for aligning superintelligence",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 4.6,
-    "factors": [
-     {
-      "label": "2 independent outlets",
-      "amount": 1.7
-     },
-     {
-      "label": "Involves multiple organisations",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Highly likely",
-    "why": "Two independent outlets"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-12T19:34:44.000Z",
-   "latestAt": "2026-09-13T07:15:28.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic and OpenAI haven’t published a plan for aligning superintelligence",
-     "link": "https://www.lesswrong.com/posts/QrrEtYpwiHpes3rHd/anthropic-and-openai-haven-t-published-a-plan-for-aligning",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-13T07:15:28.000Z",
-     "points": null,
-     "summary": "While OpenAI and Anthropic [1] pursue different lines of safety research, they have yet to produce a public-facing document describing concretely how their companies plan to…"
-    },
-    {
-     "title": "Anthropic CEO outlines plan to slow AI development",
-     "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-12T19:34:44.000Z",
-     "points": null,
-     "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
-    }
-   ]
-  },
-  {
-   "id": "cuda-windows",
-   "title": "CUDA for AMD on Windows",
+   "id": "docket-commit-evidence-records",
+   "title": "Docket – Per-commit evidence records for agent-written code",
    "category": {
     "id": "general",
     "name": "Developments"
@@ -302,6 +234,53 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
+   "publishedAt": "2026-09-13T16:17:07.000Z",
+   "latestAt": "2026-09-13T16:17:07.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/Dillonsmart/docket",
+    "title": "Docket – Per-commit evidence records for agent-written code"
+   },
+   "sources": [
+    {
+     "title": "Docket – Per-commit evidence records for agent-written code",
+     "link": "https://github.com/Dillonsmart/docket",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-13T16:17:07.000Z",
+     "points": 6,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "cuda-windows",
+   "title": "CUDA for AMD on Windows",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (GitHub)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
    "publishedAt": "2026-09-13T14:25:13.000Z",
    "latestAt": "2026-09-13T14:25:13.000Z",
    "primary": {
@@ -317,7 +296,7 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-09-13T14:25:13.000Z",
-     "points": 9,
+     "points": 82,
      "summary": ""
     }
    ]
@@ -431,11 +410,11 @@
    ]
   },
   {
-   "id": "anthropic-claude-houthis-used-claude-code",
-   "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+   "id": "anthropic-openai-david-sacks-openai-anthropic",
+   "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
    "category": {
-    "id": "models",
-    "name": "New Models"
+    "id": "policy",
+    "name": "Policy & Regulation"
    },
    "entities": [
     {
@@ -444,25 +423,29 @@
      "kind": "org"
     },
     {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
     }
    ],
    "importance": {
-    "score": 3.1,
+    "score": 3.4,
     "factors": [
      {
       "label": "Discussion only, no reporting",
       "amount": -0.8
      },
      {
-      "label": "New Models",
-      "amount": 0.8
+      "label": "Policy & Regulation",
+      "amount": 0.6
      },
      {
-      "label": "Names a specific model",
-      "amount": 0.6
+      "label": "Involves multiple organisations",
+      "amount": 0.4
+     },
+     {
+      "label": "108 points of reader attention",
+      "amount": 0.7
      }
     ]
    },
@@ -476,18 +459,18 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-09-13T14:15:40.000Z",
-   "latestAt": "2026-09-13T14:15:40.000Z",
+   "publishedAt": "2026-09-13T16:52:33.000Z",
+   "latestAt": "2026-09-13T16:52:33.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
-     "link": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-     "publisher": "clashreport.com",
-     "publisherDomain": "clashreport.com",
+     "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+     "link": "https://twitter.com/DavidSacks/status/2098973625252708460",
+     "publisher": "X",
+     "publisherDomain": "twitter.com",
      "kind": "discussion",
-     "date": "2026-09-13T14:15:40.000Z",
-     "points": 44,
+     "date": "2026-09-13T16:52:33.000Z",
+     "points": 108,
      "summary": ""
     }
    ]
@@ -543,6 +526,63 @@
      "date": "2026-09-11T18:59:25.000Z",
      "points": null,
      "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face…"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-openai-anthropic-openai-haven-published",
+   "title": "Anthropic and OpenAI haven’t published a plan for aligning superintelligence",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Involves multiple organisations",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [
+    "Importance fell 1.7 to 2.9.",
+    "Confidence moved from Highly likely to Developing."
+   ],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-13T07:15:28.000Z",
+   "latestAt": "2026-09-13T07:15:28.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic and OpenAI haven’t published a plan for aligning superintelligence",
+     "link": "https://www.lesswrong.com/posts/QrrEtYpwiHpes3rHd/anthropic-and-openai-haven-t-published-a-plan-for-aligning",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-13T07:15:28.000Z",
+     "points": null,
+     "summary": "While OpenAI and Anthropic [1] pursue different lines of safety research, they have yet to produce a public-facing document describing concretely how their companies plan to…"
     }
    ]
   },
@@ -698,6 +738,63 @@
    ]
   },
   {
+   "id": "open-source-garry-wants-open-weight",
+   "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+   "category": {
+    "id": "opensource",
+    "name": "Open Source"
+   },
+   "entities": [
+    {
+     "id": "open-source",
+     "name": "Open Models",
+     "kind": "topic"
+    }
+   ],
+   "importance": {
+    "score": 2.8,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "Open Source",
+      "amount": 0.3
+     },
+     {
+      "label": "180 points of reader attention",
+      "amount": 0.8
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-13T15:44:38.000Z",
+   "latestAt": "2026-09-13T15:44:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+     "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "discussion",
+     "date": "2026-09-13T15:44:38.000Z",
+     "points": 180,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "chinese-researchers-extend-future",
    "title": "Chinese researchers extend future memory endurance 100-fold in semiconductor advance",
    "category": {
@@ -741,55 +838,6 @@
    ]
   },
   {
-   "id": "open-source-combinator-garry-wants-open",
-   "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [
-    {
-     "id": "open-source",
-     "name": "Open Models",
-     "kind": "topic"
-    }
-   ],
-   "importance": {
-    "score": 2.8,
-    "factors": [
-     {
-      "label": "Open Source",
-      "amount": 0.3
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-11T20:59:47.000Z",
-   "latestAt": "2026-09-11T20:59:47.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-     "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-11T20:59:47.000Z",
-     "points": null,
-     "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust…"
-    }
-   ]
-  },
-  {
    "id": "many-researchers-think-machines",
    "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
    "category": {
@@ -829,106 +877,6 @@
      "date": "2026-09-11T09:00:00.000Z",
      "points": null,
      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs."
-    }
-   ]
-  },
-  {
-   "id": "everyone-should-slow-down",
-   "title": "Everyone should slow down AI development except for me",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 2.7,
-    "factors": [
-     {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
-     },
-     {
-      "label": "662 points of reader attention",
-      "amount": 1
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-13T00:30:44.000Z",
-   "latestAt": "2026-09-13T00:30:44.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Everyone should slow down AI development except for me",
-     "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-     "publisher": "xeiaso.net",
-     "publisherDomain": "xeiaso.net",
-     "kind": "discussion",
-     "date": "2026-09-13T00:30:44.000Z",
-     "points": 662,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "agents-agents-lying-cheating-coordinating",
-   "title": "Why are AI agents lying, cheating and coordinating?",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "importance": {
-    "score": 2.6,
-    "factors": [
-     {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
-     },
-     {
-      "label": "437 points of reader attention",
-      "amount": 0.9
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-13T01:22:31.000Z",
-   "latestAt": "2026-09-13T01:22:31.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Why are AI agents lying, cheating and coordinating?",
-     "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-     "publisher": "yoshuabengio.org",
-     "publisherDomain": "yoshuabengio.org",
-     "kind": "discussion",
-     "date": "2026-09-13T01:22:31.000Z",
-     "points": 437,
-     "summary": ""
     }
    ]
   },
