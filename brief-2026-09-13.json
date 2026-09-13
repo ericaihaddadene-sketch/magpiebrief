@@ -1,8 +1,8 @@
 {
  "date": "2026-09-13",
- "generated": "2026-09-13T18:44:29.419Z",
- "headline": "17 developments today. The most significant is new models: Cognition helps Devin test its own work with GPT‑6 Astra",
- "stats": "22 sources monitored · 2658 items read · 59 on-topic · 17 distinct developments · 5 with a primary source · 2 independently corroborated",
+ "generated": "2026-09-13T21:22:16.764Z",
+ "headline": "15 developments today. The most significant is new models: Cognition helps Devin test its own work with GPT‑6 Astra",
+ "stats": "22 sources monitored · 2658 items read · 62 on-topic · 15 distinct developments · 4 with a primary source · 2 independently corroborated",
  "events": [
   {
    "id": "gpt-cognition-helps-devin-test",
@@ -208,53 +208,6 @@
    ]
   },
   {
-   "id": "docket-commit-evidence-records",
-   "title": "Docket – Per-commit evidence records for agent-written code",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (GitHub)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "emerging",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-13T16:17:07.000Z",
-   "latestAt": "2026-09-13T16:17:07.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/Dillonsmart/docket",
-    "title": "Docket – Per-commit evidence records for agent-written code"
-   },
-   "sources": [
-    {
-     "title": "Docket – Per-commit evidence records for agent-written code",
-     "link": "https://github.com/Dillonsmart/docket",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-09-13T16:17:07.000Z",
-     "points": 6,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "cuda-windows",
    "title": "CUDA for AMD on Windows",
    "category": {
@@ -263,11 +216,15 @@
    },
    "entities": [],
    "importance": {
-    "score": 4,
+    "score": 4.7,
     "factors": [
      {
       "label": "Primary source (GitHub)",
       "amount": 1.5
+     },
+     {
+      "label": "112 points of reader attention",
+      "amount": 0.7
      }
     ]
    },
@@ -276,7 +233,9 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [],
+   "deltas": [
+    "Importance rose 0.7 to 4.7."
+   ],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -296,7 +255,7 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-09-13T14:25:13.000Z",
-     "points": 82,
+     "points": 112,
      "summary": ""
     }
    ]
@@ -429,7 +388,7 @@
     }
    ],
    "importance": {
-    "score": 3.4,
+    "score": 3.5,
     "factors": [
      {
       "label": "Discussion only, no reporting",
@@ -444,8 +403,8 @@
       "amount": 0.4
      },
      {
-      "label": "108 points of reader attention",
-      "amount": 0.7
+      "label": "183 points of reader attention",
+      "amount": 0.8
      }
     ]
    },
@@ -453,7 +412,7 @@
     "level": "Unverified",
     "why": "Community discussion only, no reporting yet"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -470,7 +429,7 @@
      "publisherDomain": "twitter.com",
      "kind": "discussion",
      "date": "2026-09-13T16:52:33.000Z",
-     "points": 108,
+     "points": 183,
      "summary": ""
     }
    ]
@@ -562,10 +521,7 @@
     "why": "A single outlet so far"
    },
    "status": "developing",
-   "deltas": [
-    "Importance fell 1.7 to 2.9.",
-    "Confidence moved from Highly likely to Developing."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -641,60 +597,6 @@
    ]
   },
   {
-   "id": "openai-funding-nscale-adds-former-openai",
-   "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 2.9,
-    "factors": [
-     {
-      "label": "Business",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-11T16:46:25.000Z",
-   "latestAt": "2026-09-11T16:46:25.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-     "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-11T16:46:25.000Z",
-     "points": null,
-     "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023."
-    }
-   ]
-  },
-  {
    "id": "kimi-maker-moonshot-targets",
    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
    "category": {
@@ -763,7 +665,7 @@
       "amount": 0.3
      },
      {
-      "label": "180 points of reader attention",
+      "label": "257 points of reader attention",
       "amount": 0.8
      }
     ]
@@ -772,7 +674,7 @@
     "level": "Unverified",
     "why": "Community discussion only, no reporting yet"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -789,7 +691,7 @@
      "publisherDomain": "techcrunch.com",
      "kind": "discussion",
      "date": "2026-09-13T15:44:38.000Z",
-     "points": 180,
+     "points": 257,
      "summary": ""
     }
    ]
@@ -838,45 +740,55 @@
    ]
   },
   {
-   "id": "many-researchers-think-machines",
-   "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+   "id": "safety-astra-fable-still-hack",
+   "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
    "category": {
-    "id": "research",
-    "name": "Research"
+    "id": "general",
+    "name": "Developments"
    },
-   "entities": [],
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
    "importance": {
-    "score": 2.8,
+    "score": 2.6,
     "factors": [
      {
-      "label": "Research",
-      "amount": 0.3
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "314 points of reader attention",
+      "amount": 0.9
      }
     ]
    },
    "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
    },
-   "status": "developing",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-11T09:00:00.000Z",
-   "latestAt": "2026-09-11T09:00:00.000Z",
+   "independentCount": 0,
+   "publishedAt": "2026-09-13T14:28:36.000Z",
+   "latestAt": "2026-09-13T14:28:36.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-     "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-11T09:00:00.000Z",
-     "points": null,
-     "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs."
+     "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+     "link": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "discussion",
+     "date": "2026-09-13T14:28:36.000Z",
+     "points": 314,
+     "summary": ""
     }
    ]
   },

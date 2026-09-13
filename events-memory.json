@@ -43,20 +43,6 @@
   "confidence": "Confirmed",
   "category": "models"
  },
- "docket-commit-evidence-records": {
-  "id": "docket-commit-evidence-records",
-  "title": "Docket – Per-commit evidence records for agent-written code",
-  "firstSeen": "2026-09-13T18:44:29.364Z",
-  "publishers": [
-   "GitHub"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
  "cuda-windows": {
   "id": "cuda-windows",
   "title": "CUDA for AMD on Windows",
@@ -67,7 +53,7 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "importance": 4,
+  "importance": 4.7,
   "confidence": "Confirmed",
   "category": "general"
  },
@@ -109,7 +95,7 @@
   "sourceCount": 1,
   "independentCount": 0,
   "hadPrimary": false,
-  "importance": 3.4,
+  "importance": 3.5,
   "confidence": "Unverified",
   "category": "policy"
  },
@@ -145,20 +131,6 @@
   "id": "funding-robotics-mecka-nears-500m-valuation",
   "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
   "firstSeen": "2026-09-12T00:04:16.054Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.9,
-  "confidence": "Developing",
-  "category": "business"
- },
- "openai-funding-nscale-adds-former-openai": {
-  "id": "openai-funding-nscale-adds-former-openai",
-  "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-  "firstSeen": "2026-09-11T18:21:05.988Z",
   "publishers": [
    "TechCrunch"
   ],
@@ -211,19 +183,19 @@
   "confidence": "Developing",
   "category": "research"
  },
- "many-researchers-think-machines": {
-  "id": "many-researchers-think-machines",
-  "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-  "firstSeen": "2026-09-11T09:29:53.283Z",
+ "safety-astra-fable-still-hack": {
+  "id": "safety-astra-fable-still-hack",
+  "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+  "firstSeen": "2026-09-13T21:22:16.712Z",
   "publishers": [
-   "Wired AI"
+   "LessWrong"
   ],
   "sourceCount": 1,
-  "independentCount": 1,
+  "independentCount": 0,
   "hadPrimary": false,
-  "importance": 2.8,
-  "confidence": "Developing",
-  "category": "research"
+  "importance": 2.6,
+  "confidence": "Unverified",
+  "category": "general"
  },
  "openai-openai-wants-know-industry": {
   "id": "openai-openai-wants-know-industry",
