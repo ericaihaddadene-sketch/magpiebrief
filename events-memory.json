@@ -4,15 +4,28 @@
   "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
   "firstSeen": "2026-09-14T00:02:45.036Z",
   "publishers": [
-   "OpenAI",
-   "Simon Willison"
+   "OpenAI"
   ],
-  "sourceCount": 2,
-  "independentCount": 2,
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": true,
-  "importance": 7.1,
+  "importance": 5.4,
   "confidence": "Confirmed",
   "category": "models"
+ },
+ "google-watch-astronaut-christina-koch": {
+  "id": "google-watch-astronaut-christina-koch",
+  "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+  "firstSeen": "2026-09-14T20:51:58.792Z",
+  "publishers": [
+   "Google AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
  },
  "devfest-back": {
   "id": "devfest-back",
@@ -42,6 +55,20 @@
   "confidence": "Confirmed",
   "category": "general"
  },
+ "gpt-generating-running-routes-with": {
+  "id": "gpt-generating-running-routes-with",
+  "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+  "firstSeen": "2026-09-14T20:51:58.792Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.9,
+  "confidence": "Developing",
+  "category": "models"
+ },
  "claude-from-hacks-bioweapons-claude": {
   "id": "claude-from-hacks-bioweapons-claude",
   "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
@@ -56,26 +83,26 @@
   "confidence": "Developing",
   "category": "security"
  },
- "gpt-chatgpt-using-lawyer-punished": {
-  "id": "gpt-chatgpt-using-lawyer-punished",
-  "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-  "firstSeen": "2026-09-11T21:39:20.501Z",
+ "openai-apple-openai-stuck-fighting-musk": {
+  "id": "openai-apple-openai-stuck-fighting-musk",
+  "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+  "firstSeen": "2026-09-14T20:51:58.792Z",
   "publishers": [
    "Ars Technica AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "importance": 3.4,
+  "importance": 3.5,
   "confidence": "Developing",
-  "category": "models"
+  "category": "policy"
  },
- "claude-claude-contrarian": {
-  "id": "claude-claude-contrarian",
-  "title": "Claude Is a Contrarian",
-  "firstSeen": "2026-09-14T16:55:16.048Z",
+ "gpt-luna-astra-model-good": {
+  "id": "gpt-luna-astra-model-good",
+  "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+  "firstSeen": "2026-09-14T20:51:58.792Z",
   "publishers": [
-   "medium.com"
+   "entelligence.ai"
   ],
   "sourceCount": 1,
   "independentCount": 0,
@@ -83,6 +110,20 @@
   "importance": 3.1,
   "confidence": "Unverified",
   "category": "models"
+ },
+ "nvidia-funding-infrastructure-company-cornelis-raises": {
+  "id": "nvidia-funding-infrastructure-company-cornelis-raises",
+  "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+  "firstSeen": "2026-09-14T20:51:58.792Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.9,
+  "confidence": "Developing",
+  "category": "business"
  },
  "agents-superhuman-acquires-backed-notetaker": {
   "id": "agents-superhuman-acquires-backed-notetaker",
@@ -97,20 +138,6 @@
   "importance": 2.9,
   "confidence": "Developing",
   "category": "business"
- },
- "hugging-face-openai-safety-openai-president-brockman-says": {
-  "id": "hugging-face-openai-safety-openai-president-brockman-says",
-  "title": "OpenAI President Brockman says HuggingFace incident model had not been alignment-trained",
-  "firstSeen": "2026-09-14T16:55:16.048Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.9,
-  "confidence": "Developing",
-  "category": "general"
  },
  "nvidia-combinator-still-busiest-startup": {
   "id": "nvidia-combinator-still-busiest-startup",
@@ -167,19 +194,5 @@
   "importance": 2.8,
   "confidence": "Developing",
   "category": "research"
- },
- "meta-ai-copyright-meta-sued-over-training": {
-  "id": "meta-ai-copyright-meta-sued-over-training",
-  "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
-  "firstSeen": "2026-09-11T21:39:20.501Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.6,
-  "confidence": "Developing",
-  "category": "policy"
  }
 }

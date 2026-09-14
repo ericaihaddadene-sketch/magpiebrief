@@ -1,8 +1,8 @@
 {
  "date": "2026-09-14",
- "generated": "2026-09-14T16:55:16.191Z",
- "headline": "13 developments today. The most significant is new models: Perplexity trusts GPT-6 Astra with end-to-end systems",
- "stats": "22 sources monitored · 2660 items read · 70 on-topic · 13 distinct developments · 3 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-14T20:51:58.842Z",
+ "headline": "14 developments today. The most significant is new models: Perplexity trusts GPT-6 Astra with end-to-end systems",
+ "stats": "22 sources monitored · 2660 items read · 57 on-topic · 14 distinct developments · 4 with a primary source · 0 independently corroborated",
  "events": [
   {
    "id": "perplexity-gpt-perplexity-trusts-astra-with",
@@ -24,12 +24,8 @@
     }
    ],
    "importance": {
-    "score": 7.1,
+    "score": 5.4,
     "factors": [
-     {
-      "label": "2 independent outlets",
-      "amount": 1.7
-     },
      {
       "label": "Primary source (OpenAI)",
       "amount": 1.5
@@ -48,16 +44,15 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "developing",
+   "status": "confirmed",
    "deltas": [
-    "Now also covered by Simon Willison.",
-    "Importance rose 1.7 to 7.1."
+    "Importance fell 1.7 to 5.4."
    ],
    "whatChanged": "",
    "whyItMatters": "",
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-12T23:56:42.000Z",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-14T00:00:00.000Z",
    "latestAt": "2026-09-14T00:00:00.000Z",
    "primary": {
     "publisher": "OpenAI",
@@ -74,16 +69,59 @@
      "date": "2026-09-14T00:00:00.000Z",
      "points": null,
      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
-    },
+    }
+   ]
+  },
+  {
+   "id": "google-watch-astronaut-christina-koch",
+   "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
     {
-     "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-     "link": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-12T23:56:42.000Z",
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (Google AI)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-14T19:00:00.000Z",
+   "latestAt": "2026-09-14T19:00:00.000Z",
+   "primary": {
+    "publisher": "Google AI",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery."
+   },
+   "sources": [
+    {
+     "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+     "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-14T19:00:00.000Z",
      "points": null,
-     "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at . Figure out 5K and 10K running routes…"
+     "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society."
     }
    ]
   },
@@ -108,7 +146,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -155,7 +193,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -178,6 +216,59 @@
      "date": "2026-09-14T12:00:00.000Z",
      "points": null,
      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
+    }
+   ]
+  },
+  {
+   "id": "gpt-generating-running-routes-with",
+   "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.9,
+    "factors": [
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-12T23:56:42.000Z",
+   "latestAt": "2026-09-12T23:56:42.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+     "link": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-12T23:56:42.000Z",
+     "points": null,
+     "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at . Figure out 5K and 10K running routes…"
     }
    ]
   },
@@ -213,10 +304,7 @@
     "why": "A single outlet so far"
    },
    "status": "developing",
-   "deltas": [
-    "Importance fell 1.2 to 3.7.",
-    "Confidence moved from Highly likely to Developing."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -238,8 +326,66 @@
    ]
   },
   {
-   "id": "gpt-chatgpt-using-lawyer-punished",
-   "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+   "id": "openai-apple-openai-stuck-fighting-musk",
+   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    },
+    {
+     "id": "apple",
+     "name": "Apple",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 3.5,
+    "factors": [
+     {
+      "label": "Policy & Regulation",
+      "amount": 0.6
+     },
+     {
+      "label": "Involves multiple organisations",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-14T19:45:13.000Z",
+   "latestAt": "2026-09-14T19:45:13.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+     "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-14T19:45:13.000Z",
+     "points": null,
+     "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI."
+    }
+   ]
+  },
+  {
+   "id": "gpt-luna-astra-model-good",
+   "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
    "category": {
     "id": "models",
     "name": "New Models"
@@ -248,63 +394,6 @@
     {
      "id": "gpt",
      "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 3.4,
-    "factors": [
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-11T19:34:09.000Z",
-   "latestAt": "2026-09-11T19:34:09.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-     "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-11T19:34:09.000Z",
-     "points": null,
-     "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says."
-    }
-   ]
-  },
-  {
-   "id": "claude-claude-contrarian",
-   "title": "Claude Is a Contrarian",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
      "kind": "model"
     }
    ],
@@ -335,19 +424,73 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-09-14T16:14:24.000Z",
-   "latestAt": "2026-09-14T16:14:24.000Z",
+   "publishedAt": "2026-09-14T19:56:20.000Z",
+   "latestAt": "2026-09-14T19:56:20.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Claude Is a Contrarian",
-     "link": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
-     "publisher": "medium.com",
-     "publisherDomain": "medium.com",
+     "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+     "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+     "publisher": "entelligence.ai",
+     "publisherDomain": "entelligence.ai",
      "kind": "discussion",
-     "date": "2026-09-14T16:14:24.000Z",
-     "points": 15,
+     "date": "2026-09-14T19:56:20.000Z",
+     "points": 25,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "nvidia-funding-infrastructure-company-cornelis-raises",
+   "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Business",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-14T20:07:37.000Z",
+   "latestAt": "2026-09-14T20:07:37.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+     "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-14T20:07:37.000Z",
+     "points": null,
+     "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data…"
     }
    ]
   },
@@ -378,7 +521,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -397,65 +540,6 @@
      "date": "2026-09-14T14:45:44.000Z",
      "points": null,
      "summary": "Fathom said that it has over 400,000 monthly active users."
-    }
-   ]
-  },
-  {
-   "id": "hugging-face-openai-safety-openai-president-brockman-says",
-   "title": "OpenAI President Brockman says HuggingFace incident model had not been alignment-trained",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    },
-    {
-     "id": "hugging-face",
-     "name": "Hugging Face",
-     "kind": "org"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 2.9,
-    "factors": [
-     {
-      "label": "Involves multiple organisations",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "emerging",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-14T15:28:42.000Z",
-   "latestAt": "2026-09-14T15:28:42.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI President Brockman says HuggingFace incident model had not been alignment-trained",
-     "link": "https://www.lesswrong.com/posts/67gHvbmFeacXi2jCZ/openai-president-brockman-says-huggingface-incident-model",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-14T15:28:42.000Z",
-     "points": null,
-     "summary": "On today's episode of the podcast \"Odd Lots\", OpenAI President Greg Brockman said (at around 8:40): \"This model that did/had the HuggingFace incident actually had not…"
     }
    ]
   },
@@ -486,7 +570,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -583,7 +667,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -645,64 +729,6 @@
      "date": "2026-09-13T10:52:17.000Z",
      "points": null,
      "summary": "Chinese researchers have developed a way to make an emerging type of memory chip much more durable, potentially overcoming a critical reliability barrier to its use…"
-    }
-   ]
-  },
-  {
-   "id": "meta-ai-copyright-meta-sued-over-training",
-   "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "copyright",
-     "name": "AI & Copyright",
-     "kind": "topic"
-    },
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 2.6,
-    "factors": [
-     {
-      "label": "Policy & Regulation",
-      "amount": 0.6
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-11T18:59:25.000Z",
-   "latestAt": "2026-09-11T18:59:25.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
-     "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-11T18:59:25.000Z",
-     "points": null,
-     "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face…"
     }
    ]
   }
