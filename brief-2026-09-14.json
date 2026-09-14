@@ -1,8 +1,8 @@
 {
  "date": "2026-09-14",
- "generated": "2026-09-14T20:51:58.842Z",
+ "generated": "2026-09-14T23:49:00.996Z",
  "headline": "14 developments today. The most significant is new models: Perplexity trusts GPT-6 Astra with end-to-end systems",
- "stats": "22 sources monitored · 2660 items read · 57 on-topic · 14 distinct developments · 4 with a primary source · 0 independently corroborated",
+ "stats": "22 sources monitored · 2660 items read · 62 on-topic · 14 distinct developments · 4 with a primary source · 0 independently corroborated",
  "events": [
   {
    "id": "perplexity-gpt-perplexity-trusts-astra-with",
@@ -13,14 +13,14 @@
    },
    "entities": [
     {
-     "id": "perplexity",
-     "name": "Perplexity",
-     "kind": "org"
-    },
-    {
      "id": "gpt",
      "name": "GPT",
      "kind": "model"
+    },
+    {
+     "id": "perplexity",
+     "name": "Perplexity",
+     "kind": "org"
     }
    ],
    "importance": {
@@ -44,16 +44,16 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "confirmed",
+   "status": "developing",
    "deltas": [
-    "Importance fell 1.7 to 5.4."
+    "Now also covered by entelligence.ai."
    ],
    "whatChanged": "",
    "whyItMatters": "",
-   "sourceCount": 1,
+   "sourceCount": 2,
    "independentCount": 1,
    "publishedAt": "2026-09-14T00:00:00.000Z",
-   "latestAt": "2026-09-14T00:00:00.000Z",
+   "latestAt": "2026-09-14T19:56:20.000Z",
    "primary": {
     "publisher": "OpenAI",
     "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -69,6 +69,16 @@
      "date": "2026-09-14T00:00:00.000Z",
      "points": null,
      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
+     "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+     "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+     "publisher": "entelligence.ai",
+     "publisherDomain": "entelligence.ai",
+     "kind": "discussion",
+     "date": "2026-09-14T19:56:20.000Z",
+     "points": 86,
+     "summary": ""
     }
    ]
   },
@@ -99,7 +109,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -273,55 +283,68 @@
    ]
   },
   {
-   "id": "claude-from-hacks-bioweapons-claude",
-   "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+   "id": "perplexity-amazon-amazon-perplexity-court-appeals",
+   "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
    "category": {
-    "id": "security",
-    "name": "Security"
+    "id": "policy",
+    "name": "Policy & Regulation"
    },
    "entities": [
     {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
+     "id": "perplexity",
+     "name": "Perplexity",
+     "kind": "org"
+    },
+    {
+     "id": "amazon",
+     "name": "Amazon",
+     "kind": "org"
     }
    ],
    "importance": {
-    "score": 3.7,
+    "score": 3.5,
     "factors": [
      {
-      "label": "Security",
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "Policy & Regulation",
       "amount": 0.6
      },
      {
-      "label": "Names a specific model",
-      "amount": 0.6
+      "label": "Involves multiple organisations",
+      "amount": 0.4
+     },
+     {
+      "label": "150 points of reader attention",
+      "amount": 0.8
      }
     ]
    },
    "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
    },
-   "status": "developing",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-12T10:30:00.000Z",
-   "latestAt": "2026-09-12T10:30:00.000Z",
+   "independentCount": 0,
+   "publishedAt": "2026-09-14T21:05:22.000Z",
+   "latestAt": "2026-09-14T21:05:22.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-     "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-12T10:30:00.000Z",
-     "points": null,
-     "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse."
+     "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+     "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+     "publisher": "law.justia.com",
+     "publisherDomain": "law.justia.com",
+     "kind": "discussion",
+     "date": "2026-09-14T21:05:22.000Z",
+     "points": 150,
+     "summary": ""
     }
    ]
   },
@@ -361,7 +384,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -384,59 +407,61 @@
    ]
   },
   {
-   "id": "gpt-luna-astra-model-good",
-   "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+   "id": "claude-from-hacks-bioweapons-claude",
+   "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
    "category": {
-    "id": "models",
-    "name": "New Models"
+    "id": "security",
+    "name": "Security"
    },
    "entities": [
     {
-     "id": "gpt",
-     "name": "GPT",
+     "id": "claude",
+     "name": "Claude",
      "kind": "model"
     }
    ],
    "importance": {
-    "score": 3.1,
+    "score": 3.2,
     "factors": [
      {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
-     },
-     {
-      "label": "New Models",
-      "amount": 0.8
+      "label": "Security",
+      "amount": 0.6
      },
      {
       "label": "Names a specific model",
       "amount": 0.6
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
      }
     ]
    },
    "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
+    "level": "Developing",
+    "why": "A single outlet so far"
    },
-   "status": "emerging",
-   "deltas": [],
+   "status": "developing",
+   "deltas": [
+    "Importance fell 0.5 to 3.2."
+   ],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-14T19:56:20.000Z",
-   "latestAt": "2026-09-14T19:56:20.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-12T10:30:00.000Z",
+   "latestAt": "2026-09-12T10:30:00.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-     "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-     "publisher": "entelligence.ai",
-     "publisherDomain": "entelligence.ai",
-     "kind": "discussion",
-     "date": "2026-09-14T19:56:20.000Z",
-     "points": 25,
-     "summary": ""
+     "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+     "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-12T10:30:00.000Z",
+     "points": null,
+     "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse."
     }
    ]
   },
@@ -472,7 +497,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -539,7 +564,7 @@
      "kind": "coverage",
      "date": "2026-09-14T14:45:44.000Z",
      "points": null,
-     "summary": "Fathom said that it has over 400,000 monthly active users."
+     "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have…"
     }
    ]
   },
