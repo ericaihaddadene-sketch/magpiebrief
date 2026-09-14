@@ -1,8 +1,8 @@
 {
- "gpt-cognition-helps-devin-test": {
-  "id": "gpt-cognition-helps-devin-test",
-  "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-  "firstSeen": "2026-09-13T00:47:32.002Z",
+ "perplexity-gpt-perplexity-trusts-astra-with": {
+  "id": "perplexity-gpt-perplexity-trusts-astra-with",
+  "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+  "firstSeen": "2026-09-14T00:02:45.036Z",
   "publishers": [
    "OpenAI",
    "Simon Willison"
@@ -10,80 +10,51 @@
   "sourceCount": 2,
   "independentCount": 2,
   "hadPrimary": true,
-  "importance": 6.6,
+  "importance": 7.1,
   "confidence": "Confirmed",
   "category": "models"
  },
- "perplexity-gpt-perplexity-trusts-astra-with": {
-  "id": "perplexity-gpt-perplexity-trusts-astra-with",
-  "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-  "firstSeen": "2026-09-14T00:02:45.036Z",
+ "devfest-back": {
+  "id": "devfest-back",
+  "title": "DevFest is back",
+  "firstSeen": "2026-09-14T16:55:16.048Z",
+  "publishers": [
+   "Google AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "fyxer-built-executive-assistant": {
+  "id": "fyxer-built-executive-assistant",
+  "title": "How Fyxer built an AI executive assistant people trust",
+  "firstSeen": "2026-09-14T16:55:16.048Z",
   "publishers": [
    "OpenAI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "importance": 5.4,
+  "importance": 4,
   "confidence": "Confirmed",
-  "category": "models"
+  "category": "general"
  },
  "claude-from-hacks-bioweapons-claude": {
   "id": "claude-from-hacks-bioweapons-claude",
   "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
   "firstSeen": "2026-09-12T13:30:28.255Z",
   "publishers": [
-   "Wired AI",
-   "Ars Technica AI"
+   "Wired AI"
   ],
-  "sourceCount": 2,
-  "independentCount": 2,
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
-  "importance": 4.9,
-  "confidence": "Highly likely",
+  "importance": 3.7,
+  "confidence": "Developing",
   "category": "security"
- },
- "cuda-windows": {
-  "id": "cuda-windows",
-  "title": "CUDA for AMD on Windows",
-  "firstSeen": "2026-09-13T16:05:03.560Z",
-  "publishers": [
-   "GitHub"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4.8,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "pytorch-openarch-pytorch-implementations-modern": {
-  "id": "pytorch-openarch-pytorch-implementations-modern",
-  "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-  "firstSeen": "2026-09-14T10:30:38.988Z",
-  "publishers": [
-   "GitHub"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "malicious-artificial-intelligence": {
-  "id": "malicious-artificial-intelligence",
-  "title": "The Malicious Use of Artificial Intelligence",
-  "firstSeen": "2026-09-14T04:41:59.629Z",
-  "publishers": [
-   "arXiv"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
  },
  "gpt-chatgpt-using-lawyer-punished": {
   "id": "gpt-chatgpt-using-lawyer-punished",
@@ -99,6 +70,62 @@
   "confidence": "Developing",
   "category": "models"
  },
+ "claude-claude-contrarian": {
+  "id": "claude-claude-contrarian",
+  "title": "Claude Is a Contrarian",
+  "firstSeen": "2026-09-14T16:55:16.048Z",
+  "publishers": [
+   "medium.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 3.1,
+  "confidence": "Unverified",
+  "category": "models"
+ },
+ "agents-superhuman-acquires-backed-notetaker": {
+  "id": "agents-superhuman-acquires-backed-notetaker",
+  "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+  "firstSeen": "2026-09-14T16:55:16.048Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.9,
+  "confidence": "Developing",
+  "category": "business"
+ },
+ "hugging-face-openai-safety-openai-president-brockman-says": {
+  "id": "hugging-face-openai-safety-openai-president-brockman-says",
+  "title": "OpenAI President Brockman says HuggingFace incident model had not been alignment-trained",
+  "firstSeen": "2026-09-14T16:55:16.048Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.9,
+  "confidence": "Developing",
+  "category": "general"
+ },
+ "nvidia-combinator-still-busiest-startup": {
+  "id": "nvidia-combinator-still-busiest-startup",
+  "title": "Y Combinator Still Busiest Startup Investor In August As Nvidia Ramps Up Its Dealmaking Pace",
+  "firstSeen": "2026-09-14T16:55:16.048Z",
+  "publishers": [
+   "Crunchbase News"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.9,
+  "confidence": "Developing",
+  "category": "business"
+ },
  "anthropic-openai-insight-partners-deven-parekh": {
   "id": "anthropic-openai-insight-partners-deven-parekh",
   "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
@@ -113,19 +140,19 @@
   "confidence": "Developing",
   "category": "general"
  },
- "funding-robotics-mecka-nears-500m-valuation": {
-  "id": "funding-robotics-mecka-nears-500m-valuation",
-  "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-  "firstSeen": "2026-09-12T00:04:16.054Z",
+ "chinese-researchers-chart-stage": {
+  "id": "chinese-researchers-chart-stage",
+  "title": "Chinese researchers chart 5-stage path toward ‘last AI built by humans’",
+  "firstSeen": "2026-09-14T16:55:16.048Z",
   "publishers": [
-   "TechCrunch"
+   "SCMP Tech"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "importance": 2.9,
+  "importance": 2.8,
   "confidence": "Developing",
-  "category": "business"
+  "category": "research"
  },
  "chinese-researchers-extend-future": {
   "id": "chinese-researchers-extend-future",
@@ -140,34 +167,6 @@
   "importance": 2.8,
   "confidence": "Developing",
   "category": "research"
- },
- "open-source-open-models": {
-  "id": "open-source-open-models",
-  "title": "Open-source AI and open models reading list",
-  "firstSeen": "2026-09-14T10:30:38.988Z",
-  "publishers": [
-   "interconnects.ai"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 2.7,
-  "confidence": "Unverified",
-  "category": "opensource"
- },
- "safety-astra-fable-still-hack": {
-  "id": "safety-astra-fable-still-hack",
-  "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-  "firstSeen": "2026-09-13T21:22:16.712Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 2.6,
-  "confidence": "Unverified",
-  "category": "general"
  },
  "meta-ai-copyright-meta-sued-over-training": {
   "id": "meta-ai-copyright-meta-sued-over-training",
