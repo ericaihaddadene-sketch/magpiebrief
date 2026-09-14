@@ -43,20 +43,6 @@
   "confidence": "Highly likely",
   "category": "security"
  },
- "gpt-rapidly-scaling-online-storage": {
-  "id": "gpt-rapidly-scaling-online-storage",
-  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-  "firstSeen": "2026-09-11T18:21:05.988Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4.9,
-  "confidence": "Confirmed",
-  "category": "models"
- },
  "cuda-windows": {
   "id": "cuda-windows",
   "title": "CUDA for AMD on Windows",
@@ -71,19 +57,18 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "openai-agents-short-summary-openai-agent": {
-  "id": "openai-agents-short-summary-openai-agent",
-  "title": "My Short Summary of the OpenAI Agent Swarm Incidents",
-  "firstSeen": "2026-09-14T00:02:45.036Z",
+ "pytorch-openarch-pytorch-implementations-modern": {
+  "id": "pytorch-openarch-pytorch-implementations-modern",
+  "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+  "firstSeen": "2026-09-14T10:30:38.988Z",
   "publishers": [
-   "LessWrong",
-   "Simon Willison"
+   "GitHub"
   ],
-  "sourceCount": 2,
-  "independentCount": 2,
-  "hadPrimary": false,
-  "importance": 4.2,
-  "confidence": "Highly likely",
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
   "category": "general"
  },
  "malicious-artificial-intelligence": {
@@ -110,23 +95,9 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "importance": 3.9,
+  "importance": 3.4,
   "confidence": "Developing",
   "category": "models"
- },
- "meta-ai-copyright-meta-sued-over-training": {
-  "id": "meta-ai-copyright-meta-sued-over-training",
-  "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
-  "firstSeen": "2026-09-11T21:39:20.501Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.1,
-  "confidence": "Developing",
-  "category": "policy"
  },
  "anthropic-openai-insight-partners-deven-parekh": {
   "id": "anthropic-openai-insight-partners-deven-parekh",
@@ -156,20 +127,6 @@
   "confidence": "Developing",
   "category": "business"
  },
- "kimi-maker-moonshot-targets": {
-  "id": "kimi-maker-moonshot-targets",
-  "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-  "firstSeen": "2026-09-11T21:39:20.501Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.9,
-  "confidence": "Developing",
-  "category": "business"
- },
  "chinese-researchers-extend-future": {
   "id": "chinese-researchers-extend-future",
   "title": "Chinese researchers extend future memory endurance 100-fold in semiconductor advance",
@@ -184,18 +141,18 @@
   "confidence": "Developing",
   "category": "research"
  },
- "open-source-combinator-garry-wants-open": {
-  "id": "open-source-combinator-garry-wants-open",
-  "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-  "firstSeen": "2026-09-14T04:41:59.629Z",
+ "open-source-open-models": {
+  "id": "open-source-open-models",
+  "title": "Open-source AI and open models reading list",
+  "firstSeen": "2026-09-14T10:30:38.988Z",
   "publishers": [
-   "TechCrunch"
+   "interconnects.ai"
   ],
   "sourceCount": 1,
-  "independentCount": 1,
+  "independentCount": 0,
   "hadPrimary": false,
-  "importance": 2.8,
-  "confidence": "Developing",
+  "importance": 2.7,
+  "confidence": "Unverified",
   "category": "opensource"
  },
  "safety-astra-fable-still-hack": {
@@ -211,5 +168,19 @@
   "importance": 2.6,
   "confidence": "Unverified",
   "category": "general"
+ },
+ "meta-ai-copyright-meta-sued-over-training": {
+  "id": "meta-ai-copyright-meta-sued-over-training",
+  "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+  "firstSeen": "2026-09-11T21:39:20.501Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.6,
+  "confidence": "Developing",
+  "category": "policy"
  }
 }
