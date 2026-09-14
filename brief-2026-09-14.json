@@ -1,8 +1,8 @@
 {
  "date": "2026-09-14",
- "generated": "2026-09-14T00:02:45.085Z",
+ "generated": "2026-09-14T04:41:59.691Z",
  "headline": "15 developments today. The most significant is new models: Cognition helps Devin test its own work with GPT‑6 Astra",
- "stats": "22 sources monitored · 2658 items read · 58 on-topic · 15 distinct developments · 4 with a primary source · 3 independently corroborated",
+ "stats": "22 sources monitored · 2658 items read · 58 on-topic · 15 distinct developments · 5 with a primary source · 3 independently corroborated",
  "events": [
   {
    "id": "gpt-cognition-helps-devin-test",
@@ -19,7 +19,7 @@
     }
    ],
    "importance": {
-    "score": 7.1,
+    "score": 6.6,
     "factors": [
      {
       "label": "2 independent outlets",
@@ -36,6 +36,10 @@
      {
       "label": "Names a specific model",
       "amount": 0.6
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
      }
     ]
    },
@@ -44,7 +48,9 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [],
+   "deltas": [
+    "Importance fell 0.5 to 6.6."
+   ],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 2,
@@ -119,7 +125,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -160,7 +166,7 @@
     }
    ],
    "importance": {
-    "score": 5.4,
+    "score": 4.9,
     "factors": [
      {
       "label": "2 independent outlets",
@@ -173,6 +179,10 @@
      {
       "label": "Names a specific model",
       "amount": 0.6
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
      }
     ]
    },
@@ -181,7 +191,9 @@
     "why": "Two independent outlets"
    },
    "status": "developing",
-   "deltas": [],
+   "deltas": [
+    "Importance fell 0.5 to 4.9."
+   ],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 2,
@@ -252,9 +264,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 4.9."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -288,15 +298,15 @@
    },
    "entities": [],
    "importance": {
-    "score": 4.7,
+    "score": 4.8,
     "factors": [
      {
       "label": "Primary source (GitHub)",
       "amount": 1.5
      },
      {
-      "label": "129 points of reader attention",
-      "amount": 0.7
+      "label": "146 points of reader attention",
+      "amount": 0.8
      }
     ]
    },
@@ -325,7 +335,7 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-09-13T14:25:13.000Z",
-     "points": 129,
+     "points": 146,
      "summary": ""
     }
    ]
@@ -391,6 +401,53 @@
      "date": "2026-09-12T00:42:25.000Z",
      "points": null,
      "summary": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of…"
+    }
+   ]
+  },
+  {
+   "id": "malicious-artificial-intelligence",
+   "title": "The Malicious Use of Artificial Intelligence",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (arXiv)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-14T01:22:35.000Z",
+   "latestAt": "2026-09-14T01:22:35.000Z",
+   "primary": {
+    "publisher": "arXiv",
+    "link": "https://arxiv.org/abs/1802.07228",
+    "title": "The Malicious Use of Artificial Intelligence"
+   },
+   "sources": [
+    {
+     "title": "The Malicious Use of Artificial Intelligence",
+     "link": "https://arxiv.org/abs/1802.07228",
+     "publisher": "arXiv",
+     "publisherDomain": "arxiv.org",
+     "kind": "research",
+     "date": "2026-09-14T01:22:35.000Z",
+     "points": 25,
+     "summary": ""
     }
    ]
   },
@@ -533,7 +590,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -552,117 +609,6 @@
      "date": "2026-09-13T21:30:00.000Z",
      "points": null,
      "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as…"
-    }
-   ]
-  },
-  {
-   "id": "open-source-garry-wants-open-weight",
-   "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [
-    {
-     "id": "open-source",
-     "name": "Open Models",
-     "kind": "topic"
-    }
-   ],
-   "importance": {
-    "score": 2.9,
-    "factors": [
-     {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
-     },
-     {
-      "label": "Open Source",
-      "amount": 0.3
-     },
-     {
-      "label": "324 points of reader attention",
-      "amount": 0.9
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-13T15:44:38.000Z",
-   "latestAt": "2026-09-13T15:44:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-     "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "discussion",
-     "date": "2026-09-13T15:44:38.000Z",
-     "points": 324,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "anthropic-openai-anthropic-openai-haven-published",
-   "title": "Anthropic and OpenAI haven’t published a plan for aligning superintelligence",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 2.9,
-    "factors": [
-     {
-      "label": "Involves multiple organisations",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-13T07:15:28.000Z",
-   "latestAt": "2026-09-13T07:15:28.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic and OpenAI haven’t published a plan for aligning superintelligence",
-     "link": "https://www.lesswrong.com/posts/QrrEtYpwiHpes3rHd/anthropic-and-openai-haven-t-published-a-plan-for-aligning",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-13T07:15:28.000Z",
-     "points": null,
-     "summary": "While OpenAI and Anthropic [1] pursue different lines of safety research, they have yet to produce a public-facing document describing concretely how their companies plan to…"
     }
    ]
   },
@@ -807,6 +753,55 @@
    ]
   },
   {
+   "id": "open-source-combinator-garry-wants-open",
+   "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+   "category": {
+    "id": "opensource",
+    "name": "Open Source"
+   },
+   "entities": [
+    {
+     "id": "open-source",
+     "name": "Open Models",
+     "kind": "topic"
+    }
+   ],
+   "importance": {
+    "score": 2.8,
+    "factors": [
+     {
+      "label": "Open Source",
+      "amount": 0.3
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-11T20:59:47.000Z",
+   "latestAt": "2026-09-11T20:59:47.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+     "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-11T20:59:47.000Z",
+     "points": null,
+     "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust…"
+    }
+   ]
+  },
+  {
    "id": "safety-astra-fable-still-hack",
    "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
    "category": {
@@ -828,7 +823,7 @@
       "amount": -0.8
      },
      {
-      "label": "350 points of reader attention",
+      "label": "404 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -854,7 +849,7 @@
      "publisherDomain": "lesswrong.com",
      "kind": "discussion",
      "date": "2026-09-13T14:28:36.000Z",
-     "points": 350,
+     "points": 404,
      "summary": ""
     }
    ]
