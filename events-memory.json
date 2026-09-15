@@ -24,7 +24,7 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "importance": 5.4,
+  "importance": 6.2,
   "confidence": "Confirmed",
   "category": "models"
  },
@@ -58,12 +58,12 @@
   "confidence": "Highly likely",
   "category": "general"
  },
- "show-panel-research-workspace": {
-  "id": "show-panel-research-workspace",
-  "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
-  "firstSeen": "2026-09-15T14:49:38.369Z",
+ "your-agent-aced-task": {
+  "id": "your-agent-aced-task",
+  "title": "Your Agent Aced the Task. Will It Do It Again?",
+  "firstSeen": "2026-09-15T18:51:52.796Z",
   "publishers": [
-   "GitHub"
+   "Hugging Face"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -72,12 +72,12 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "your-agent-aced-task": {
-  "id": "your-agent-aced-task",
-  "title": "Your Agent Aced the Task. Will It Do It Again?",
-  "firstSeen": "2026-09-15T18:51:52.796Z",
+ "search-bypassing-inference-bottlenecks-accelerating": {
+  "id": "search-bypassing-inference-bottlenecks-accelerating",
+  "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+  "firstSeen": "2026-09-15T22:04:18.105Z",
   "publishers": [
-   "Hugging Face"
+   "Google Research"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -184,20 +184,6 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "claude-with-named-claude": {
-  "id": "claude-with-named-claude",
-  "title": "The Bad Guy With An AI Named Claude",
-  "firstSeen": "2026-09-15T14:49:38.369Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.9,
-  "confidence": "Developing",
-  "category": "models"
- },
  "openai-apple-openai-stuck-fighting-musk": {
   "id": "openai-apple-openai-stuck-fighting-musk",
   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
@@ -211,6 +197,20 @@
   "importance": 3.5,
   "confidence": "Developing",
   "category": "policy"
+ },
+ "shallow-beliefs-midtraining-does": {
+  "id": "shallow-beliefs-midtraining-does",
+  "title": "Shallow Beliefs: Midtraining does not inoculate against EM from reward hacking",
+  "firstSeen": "2026-09-15T22:04:18.105Z",
+  "publishers": [
+   "Alignment Forum"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.1,
+  "confidence": "Developing",
+  "category": "security"
  },
  "have-trust-labs-order": {
   "id": "have-trust-labs-order",
@@ -295,5 +295,19 @@
   "importance": 2.7,
   "confidence": "Developing",
   "category": "tools"
+ },
+ "introducing-system-models": {
+  "id": "introducing-system-models",
+  "title": "Introducing System One Models and Jev",
+  "firstSeen": "2026-09-15T22:04:18.105Z",
+  "publishers": [
+   "typesafe.ai"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 2.6,
+  "confidence": "Unverified",
+  "category": "general"
  }
 }

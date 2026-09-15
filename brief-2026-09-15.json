@@ -1,8 +1,8 @@
 {
  "date": "2026-09-15",
- "generated": "2026-09-15T18:51:52.858Z",
- "headline": "21 developments today. The most significant is new models: Perplexity trusts GPT-6 Astra with end-to-end systems",
- "stats": "22 sources monitored · 2660 items read · 79 on-topic · 21 distinct developments · 11 with a primary source · 3 independently corroborated",
+ "generated": "2026-09-15T22:04:18.140Z",
+ "headline": "22 developments today. The most significant is new models: Perplexity trusts GPT-6 Astra with end-to-end systems",
+ "stats": "22 sources monitored · 2660 items read · 78 on-topic · 22 distinct developments · 11 with a primary source · 3 independently corroborated",
  "events": [
   {
    "id": "perplexity-gpt-perplexity-trusts-astra-with",
@@ -103,7 +103,7 @@
     }
    ],
    "importance": {
-    "score": 5.4,
+    "score": 6.2,
     "factors": [
      {
       "label": "Primary source (Google)",
@@ -116,6 +116,10 @@
      {
       "label": "Names a specific model",
       "amount": 0.6
+     },
+     {
+      "label": "198 points of reader attention",
+      "amount": 0.8
      }
     ]
    },
@@ -123,8 +127,10 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
-   "deltas": [],
+   "status": "confirmed",
+   "deltas": [
+    "Importance rose 0.8 to 6.2."
+   ],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -144,7 +150,7 @@
      "publisherDomain": "blog.google",
      "kind": "primary",
      "date": "2026-09-15T17:38:18.000Z",
-     "points": 12,
+     "points": 198,
      "summary": ""
     }
    ]
@@ -200,7 +206,7 @@
     "level": "Highly likely",
     "why": "Two independent outlets"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -259,7 +265,7 @@
     "level": "Highly likely",
     "why": "Two independent outlets"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -292,53 +298,6 @@
    ]
   },
   {
-   "id": "show-panel-research-workspace",
-   "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (GitHub)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-15T13:58:37.000Z",
-   "latestAt": "2026-09-15T13:58:37.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/greentfrapp/panel",
-    "title": "Show HN: Panel – A research workspace where the agent can build its own panes"
-   },
-   "sources": [
-    {
-     "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
-     "link": "https://github.com/greentfrapp/panel",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-09-15T13:58:37.000Z",
-     "points": 39,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "your-agent-aced-task",
    "title": "Your Agent Aced the Task. Will It Do It Again?",
    "category": {
@@ -359,7 +318,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -386,6 +345,59 @@
    ]
   },
   {
+   "id": "search-bypassing-inference-bottlenecks-accelerating",
+   "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "search",
+     "name": "AI Search",
+     "kind": "topic"
+    }
+   ],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (Google Research)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-15T20:00:35.000Z",
+   "latestAt": "2026-09-15T20:00:35.000Z",
+   "primary": {
+    "publisher": "Google Research",
+    "link": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+    "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train"
+   },
+   "sources": [
+    {
+     "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+     "link": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+     "publisher": "Google Research",
+     "publisherDomain": "research.google",
+     "kind": "primary",
+     "date": "2026-09-15T20:00:35.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "societal-impact",
    "title": "AI for Societal Impact",
    "category": {
@@ -406,7 +418,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -453,7 +465,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -500,7 +512,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -727,59 +739,6 @@
    ]
   },
   {
-   "id": "claude-with-named-claude",
-   "title": "The Bad Guy With An AI Named Claude",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 3.9,
-    "factors": [
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-15T14:10:58.000Z",
-   "latestAt": "2026-09-15T14:10:58.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Bad Guy With An AI Named Claude",
-     "link": "https://www.lesswrong.com/posts/qSjH9T83xCfWQkmk2/the-bad-guy-with-an-ai-named-claude",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-15T14:10:58.000Z",
-     "points": null,
-     "summary": "A lot of bad guys try to use Claude to do bad things. Mostly they fail. We think. Anthropic has disrupted a bunch of them, and…"
-    }
-   ]
-  },
-  {
    "id": "openai-apple-openai-stuck-fighting-musk",
    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
    "category": {
@@ -838,6 +797,49 @@
    ]
   },
   {
+   "id": "shallow-beliefs-midtraining-does",
+   "title": "Shallow Beliefs: Midtraining does not inoculate against EM from reward hacking",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.1,
+    "factors": [
+     {
+      "label": "Security",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-15T21:50:08.000Z",
+   "latestAt": "2026-09-15T21:50:08.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Shallow Beliefs: Midtraining does not inoculate against EM from reward hacking",
+     "link": "https://www.alignmentforum.org/posts/khxvR2fgAeDvG5N2F/shallow-beliefs-midtraining-does-not-inoculate-against-em",
+     "publisher": "Alignment Forum",
+     "publisherDomain": "alignmentforum.org",
+     "kind": "coverage",
+     "date": "2026-09-15T21:50:08.000Z",
+     "points": null,
+     "summary": "It would be useful if we had the ability to modify a model’s beliefs. For example, this could facilitate honeypots and better monitoring [1] , help…"
+    }
+   ]
+  },
+  {
    "id": "have-trust-labs-order",
    "title": "You Don’t Have to Trust the AI Labs (in order to take their call for regulation seriously)",
    "category": {
@@ -858,7 +860,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1098,6 +1100,53 @@
      "date": "2026-09-15T14:42:37.000Z",
      "points": null,
      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI."
+    }
+   ]
+  },
+  {
+   "id": "introducing-system-models",
+   "title": "Introducing System One Models and Jev",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.6,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "435 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-15T19:25:03.000Z",
+   "latestAt": "2026-09-15T19:25:03.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Introducing System One Models and Jev",
+     "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+     "publisher": "typesafe.ai",
+     "publisherDomain": "typesafe.ai",
+     "kind": "discussion",
+     "date": "2026-09-15T19:25:03.000Z",
+     "points": 435,
+     "summary": ""
     }
    ]
   }
