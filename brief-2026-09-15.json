@@ -1,8 +1,8 @@
 {
  "date": "2026-09-15",
- "generated": "2026-09-15T14:49:38.424Z",
- "headline": "16 developments today. The most significant is new models: Perplexity trusts GPT-6 Astra with end-to-end systems",
- "stats": "22 sources monitored · 2660 items read · 70 on-topic · 16 distinct developments · 7 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-15T18:51:52.858Z",
+ "headline": "21 developments today. The most significant is new models: Perplexity trusts GPT-6 Astra with end-to-end systems",
+ "stats": "22 sources monitored · 2660 items read · 79 on-topic · 21 distinct developments · 11 with a primary source · 3 independently corroborated",
  "events": [
   {
    "id": "perplexity-gpt-perplexity-trusts-astra-with",
@@ -53,9 +53,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 6.6."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 2,
@@ -91,6 +89,209 @@
    ]
   },
   {
+   "id": "gemini-gemini-live-live-extended",
+   "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 5.4,
+    "factors": [
+     {
+      "label": "Primary source (Google)",
+      "amount": 1.5
+     },
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-15T17:38:18.000Z",
+   "latestAt": "2026-09-15T17:38:18.000Z",
+   "primary": {
+    "publisher": "Google",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking"
+   },
+   "sources": [
+    {
+     "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+     "publisher": "Google",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-15T17:38:18.000Z",
+     "points": 12,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "anthropic-google-openai-openai-anthropic-google-have",
+   "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    },
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    },
+    {
+     "id": "deepseek",
+     "name": "DeepSeek",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 4.6,
+    "factors": [
+     {
+      "label": "2 independent outlets",
+      "amount": 1.7
+     },
+     {
+      "label": "Involves multiple organisations",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Highly likely",
+    "why": "Two independent outlets"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-15T12:30:14.000Z",
+   "latestAt": "2026-09-15T15:47:03.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+     "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-15T15:47:03.000Z",
+     "points": null,
+     "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China."
+    },
+    {
+     "title": "DeepSeek AI engineer slams Anthropic, OpenAI over ‘pacing’ calls, invokes Nazi Germany",
+     "link": "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-15T12:30:14.000Z",
+     "points": null,
+     "summary": "A DeepSeek engineer has issued a stark warning about the potential concentration of advanced artificial intelligence and resources in proprietary US developers Anthropic and OpenAI, intensifying…"
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-meta-expands-subscription-push",
+   "title": "Meta expands subscription push with new AI-focused plans",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 4.2,
+    "factors": [
+     {
+      "label": "2 independent outlets",
+      "amount": 1.7
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Highly likely",
+    "why": "Two independent outlets"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-15T15:00:00.000Z",
+   "latestAt": "2026-09-15T17:05:24.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meta expands subscription push with new AI-focused plans",
+     "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-15T17:05:24.000Z",
+     "points": null,
+     "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp."
+    },
+    {
+     "title": "Meta’s new One subscriptions put a price on social media and AI",
+     "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-15T15:00:00.000Z",
+     "points": null,
+     "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the…"
+    }
+   ]
+  },
+  {
    "id": "show-panel-research-workspace",
    "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
    "category": {
@@ -111,7 +312,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -132,14 +333,14 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-09-15T13:58:37.000Z",
-     "points": 10,
+     "points": 39,
      "summary": ""
     }
    ]
   },
   {
-   "id": "show-ordewell-turn-goal",
-   "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
+   "id": "your-agent-aced-task",
+   "title": "Your Agent Aced the Task. Will It Do It Again?",
    "category": {
     "id": "general",
     "name": "Developments"
@@ -149,7 +350,7 @@
     "score": 4,
     "factors": [
      {
-      "label": "Primary source (GitHub)",
+      "label": "Primary source (Hugging Face)",
       "amount": 1.5
      }
     ]
@@ -164,23 +365,164 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-15T13:31:37.000Z",
-   "latestAt": "2026-09-15T13:31:37.000Z",
+   "publishedAt": "2026-09-15T16:00:44.000Z",
+   "latestAt": "2026-09-15T16:00:44.000Z",
    "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/ordewell/ordewell",
-    "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks"
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "title": "Your Agent Aced the Task. Will It Do It Again?"
    },
    "sources": [
     {
-     "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
-     "link": "https://github.com/ordewell/ordewell",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
+     "title": "Your Agent Aced the Task. Will It Do It Again?",
+     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
      "kind": "primary",
-     "date": "2026-09-15T13:31:37.000Z",
-     "points": 9,
+     "date": "2026-09-15T16:00:44.000Z",
+     "points": null,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "societal-impact",
+   "title": "AI for Societal Impact",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (Google AI)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-15T16:00:00.000Z",
+   "latestAt": "2026-09-15T16:00:00.000Z",
+   "primary": {
+    "publisher": "Google AI",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+    "title": "AI for Societal Impact"
+   },
+   "sources": [
+    {
+     "title": "AI for Societal Impact",
+     "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-15T16:00:00.000Z",
+     "points": null,
+     "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI."
+    }
+   ]
+  },
+  {
+   "id": "building-accelerate-science-improve",
+   "title": "Building AI to accelerate science and improve lives",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (Google AI)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-15T16:00:00.000Z",
+   "latestAt": "2026-09-15T16:00:00.000Z",
+   "primary": {
+    "publisher": "Google AI",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+    "title": "Building AI to accelerate science and improve lives"
+   },
+   "sources": [
+    {
+     "title": "Building AI to accelerate science and improve lives",
+     "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-15T16:00:00.000Z",
+     "points": null,
+     "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor"
+    }
+   ]
+  },
+  {
+   "id": "everyone-every-language",
+   "title": "AI for everyone in every language",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (Google AI)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-15T16:00:00.000Z",
+   "latestAt": "2026-09-15T16:00:00.000Z",
+   "primary": {
+    "publisher": "Google AI",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+    "title": "AI for everyone in every language"
+   },
+   "sources": [
+    {
+     "title": "AI for everyone in every language",
+     "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-15T16:00:00.000Z",
+     "points": null,
+     "summary": "Animation of several words in different languages slowly zooming past"
     }
    ]
   },
@@ -211,7 +553,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -415,7 +757,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -496,35 +838,19 @@
    ]
   },
   {
-   "id": "anthropic-deepseek-openai-deepseek-engineer-slams-anthropic",
-   "title": "DeepSeek AI engineer slams Anthropic, OpenAI over ‘pacing’ calls, invokes Nazi Germany",
+   "id": "have-trust-labs-order",
+   "title": "You Don’t Have to Trust the AI Labs (in order to take their call for regulation seriously)",
    "category": {
-    "id": "general",
-    "name": "Developments"
+    "id": "policy",
+    "name": "Policy & Regulation"
    },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    },
-    {
-     "id": "deepseek",
-     "name": "DeepSeek",
-     "kind": "org"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
+   "entities": [],
    "importance": {
-    "score": 2.9,
+    "score": 3.1,
     "factors": [
      {
-      "label": "Involves multiple organisations",
-      "amount": 0.4
+      "label": "Policy & Regulation",
+      "amount": 0.6
      }
     ]
    },
@@ -538,19 +864,19 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-15T12:30:14.000Z",
-   "latestAt": "2026-09-15T12:30:14.000Z",
+   "publishedAt": "2026-09-15T18:09:10.000Z",
+   "latestAt": "2026-09-15T18:09:10.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "DeepSeek AI engineer slams Anthropic, OpenAI over ‘pacing’ calls, invokes Nazi Germany",
-     "link": "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
+     "title": "You Don’t Have to Trust the AI Labs (in order to take their call for regulation seriously)",
+     "link": "https://www.lesswrong.com/posts/ombnX49ccCj3Ax3Hw/you-don-t-have-to-trust-the-ai-labs-in-order-to-take-their",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
      "kind": "coverage",
-     "date": "2026-09-15T12:30:14.000Z",
+     "date": "2026-09-15T18:09:10.000Z",
      "points": null,
-     "summary": "A DeepSeek engineer has issued a stark warning about the potential concentration of advanced artificial intelligence and resources in proprietary US developers Anthropic and OpenAI, intensifying…"
+     "summary": "This is a linkpost for You Don't Have to Trust the AI Labs from my Substack . Foreword for LessWrong readers: While writing this, I became…"
     }
    ]
   },
@@ -575,7 +901,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -594,60 +920,6 @@
      "date": "2026-09-15T11:00:38.000Z",
      "points": null,
      "summary": "Startups across sales, marketing and customer management have raised $7.5 billion so far this year, according to Crunchbase data. The largest rounds span everything from advertising…"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-funding-infrastructure-company-cornelis-raises",
-   "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 2.9,
-    "factors": [
-     {
-      "label": "Business",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-14T20:07:37.000Z",
-   "latestAt": "2026-09-14T20:07:37.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-     "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-14T20:07:37.000Z",
-     "points": null,
-     "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data…"
     }
    ]
   },
@@ -807,7 +1079,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -825,7 +1097,7 @@
      "kind": "coverage",
      "date": "2026-09-15T14:42:37.000Z",
      "points": null,
-     "summary": "Essentially is a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI."
+     "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI."
     }
    ]
   }

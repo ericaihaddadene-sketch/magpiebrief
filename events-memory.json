@@ -14,6 +14,50 @@
   "confidence": "Confirmed",
   "category": "models"
  },
+ "gemini-gemini-live-live-extended": {
+  "id": "gemini-gemini-live-live-extended",
+  "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+  "firstSeen": "2026-09-15T18:51:52.796Z",
+  "publishers": [
+   "Google"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 5.4,
+  "confidence": "Confirmed",
+  "category": "models"
+ },
+ "anthropic-google-openai-openai-anthropic-google-have": {
+  "id": "anthropic-google-openai-openai-anthropic-google-have",
+  "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+  "firstSeen": "2026-09-15T18:51:52.796Z",
+  "publishers": [
+   "TechCrunch",
+   "SCMP Tech"
+  ],
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "importance": 4.6,
+  "confidence": "Highly likely",
+  "category": "general"
+ },
+ "meta-ai-meta-expands-subscription-push": {
+  "id": "meta-ai-meta-expands-subscription-push",
+  "title": "Meta expands subscription push with new AI-focused plans",
+  "firstSeen": "2026-09-15T18:51:52.796Z",
+  "publishers": [
+   "TechCrunch",
+   "The Verge"
+  ],
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "importance": 4.2,
+  "confidence": "Highly likely",
+  "category": "general"
+ },
  "show-panel-research-workspace": {
   "id": "show-panel-research-workspace",
   "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
@@ -28,12 +72,54 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "show-ordewell-turn-goal": {
-  "id": "show-ordewell-turn-goal",
-  "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
-  "firstSeen": "2026-09-15T14:49:38.369Z",
+ "your-agent-aced-task": {
+  "id": "your-agent-aced-task",
+  "title": "Your Agent Aced the Task. Will It Do It Again?",
+  "firstSeen": "2026-09-15T18:51:52.796Z",
   "publishers": [
-   "GitHub"
+   "Hugging Face"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "societal-impact": {
+  "id": "societal-impact",
+  "title": "AI for Societal Impact",
+  "firstSeen": "2026-09-15T18:51:52.796Z",
+  "publishers": [
+   "Google AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "building-accelerate-science-improve": {
+  "id": "building-accelerate-science-improve",
+  "title": "Building AI to accelerate science and improve lives",
+  "firstSeen": "2026-09-15T18:51:52.796Z",
+  "publishers": [
+   "Google AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "everyone-every-language": {
+  "id": "everyone-every-language",
+  "title": "AI for everyone in every language",
+  "firstSeen": "2026-09-15T18:51:52.796Z",
+  "publishers": [
+   "Google AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -126,19 +212,19 @@
   "confidence": "Developing",
   "category": "policy"
  },
- "anthropic-deepseek-openai-deepseek-engineer-slams-anthropic": {
-  "id": "anthropic-deepseek-openai-deepseek-engineer-slams-anthropic",
-  "title": "DeepSeek AI engineer slams Anthropic, OpenAI over ‘pacing’ calls, invokes Nazi Germany",
-  "firstSeen": "2026-09-15T14:49:38.369Z",
+ "have-trust-labs-order": {
+  "id": "have-trust-labs-order",
+  "title": "You Don’t Have to Trust the AI Labs (in order to take their call for regulation seriously)",
+  "firstSeen": "2026-09-15T18:51:52.796Z",
   "publishers": [
-   "SCMP Tech"
+   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "importance": 2.9,
+  "importance": 3.1,
   "confidence": "Developing",
-  "category": "general"
+  "category": "policy"
  },
  "sector-snapshot-takes-growing": {
   "id": "sector-snapshot-takes-growing",
@@ -146,20 +232,6 @@
   "firstSeen": "2026-09-15T14:49:38.369Z",
   "publishers": [
    "Crunchbase News"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.9,
-  "confidence": "Developing",
-  "category": "business"
- },
- "nvidia-funding-infrastructure-company-cornelis-raises": {
-  "id": "nvidia-funding-infrastructure-company-cornelis-raises",
-  "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-  "firstSeen": "2026-09-14T20:51:58.792Z",
-  "publishers": [
-   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
