@@ -5,12 +5,12 @@
   "firstSeen": "2026-09-14T00:02:45.036Z",
   "publishers": [
    "OpenAI",
-   "entelligence.ai"
+   "Simon Willison"
   ],
   "sourceCount": 2,
-  "independentCount": 1,
+  "independentCount": 2,
   "hadPrimary": true,
-  "importance": 5.4,
+  "importance": 7.1,
   "confidence": "Confirmed",
   "category": "models"
  },
@@ -55,20 +55,6 @@
   "importance": 4,
   "confidence": "Confirmed",
   "category": "general"
- },
- "gpt-generating-running-routes-with": {
-  "id": "gpt-generating-running-routes-with",
-  "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-  "firstSeen": "2026-09-14T20:51:58.792Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.9,
-  "confidence": "Developing",
-  "category": "models"
  },
  "perplexity-amazon-amazon-perplexity-court-appeals": {
   "id": "perplexity-amazon-amazon-perplexity-court-appeals",
@@ -195,5 +181,19 @@
   "importance": 2.8,
   "confidence": "Developing",
   "category": "research"
+ },
+ "pion-agent-designed-company": {
+  "id": "pion-agent-designed-company",
+  "title": "Pion, an agent designed to run any company autonomously",
+  "firstSeen": "2026-09-15T04:37:46.071Z",
+  "publishers": [
+   "andonlabs.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 2.6,
+  "confidence": "Unverified",
+  "category": "general"
  }
 }
