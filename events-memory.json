@@ -10,9 +10,51 @@
   "sourceCount": 2,
   "independentCount": 2,
   "hadPrimary": true,
-  "importance": 7.1,
+  "importance": 6.6,
   "confidence": "Confirmed",
   "category": "models"
+ },
+ "show-panel-research-workspace": {
+  "id": "show-panel-research-workspace",
+  "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
+  "firstSeen": "2026-09-15T14:49:38.369Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "show-ordewell-turn-goal": {
+  "id": "show-ordewell-turn-goal",
+  "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
+  "firstSeen": "2026-09-15T14:49:38.369Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "google-insights-from-google-economy": {
+  "id": "google-insights-from-google-economy",
+  "title": "New insights from Google’s AI & Economy ATLAS",
+  "firstSeen": "2026-09-15T14:49:38.369Z",
+  "publishers": [
+   "Google AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
  },
  "google-watch-astronaut-christina-koch": {
   "id": "google-watch-astronaut-christina-koch",
@@ -56,6 +98,20 @@
   "confidence": "Confirmed",
   "category": "general"
  },
+ "claude-with-named-claude": {
+  "id": "claude-with-named-claude",
+  "title": "The Bad Guy With An AI Named Claude",
+  "firstSeen": "2026-09-15T14:49:38.369Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.9,
+  "confidence": "Developing",
+  "category": "models"
+ },
  "openai-apple-openai-stuck-fighting-musk": {
   "id": "openai-apple-openai-stuck-fighting-musk",
   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
@@ -70,40 +126,26 @@
   "confidence": "Developing",
   "category": "policy"
  },
- "openai-security-openai-bots-knew-about": {
-  "id": "openai-security-openai-bots-knew-about",
-  "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-  "firstSeen": "2026-09-15T09:57:48.832Z",
+ "anthropic-deepseek-openai-deepseek-engineer-slams-anthropic": {
+  "id": "anthropic-deepseek-openai-deepseek-engineer-slams-anthropic",
+  "title": "DeepSeek AI engineer slams Anthropic, OpenAI over ‘pacing’ calls, invokes Nazi Germany",
+  "firstSeen": "2026-09-15T14:49:38.369Z",
   "publishers": [
-   "tenderlovemaking.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 3.2,
-  "confidence": "Unverified",
-  "category": "security"
- },
- "claude-from-hacks-bioweapons-claude": {
-  "id": "claude-from-hacks-bioweapons-claude",
-  "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-  "firstSeen": "2026-09-12T13:30:28.255Z",
-  "publishers": [
-   "Wired AI"
+   "SCMP Tech"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "importance": 3.2,
+  "importance": 2.9,
   "confidence": "Developing",
-  "category": "security"
+  "category": "general"
  },
- "nvidia-funding-infrastructure-company-cornelis-raises": {
-  "id": "nvidia-funding-infrastructure-company-cornelis-raises",
-  "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-  "firstSeen": "2026-09-14T20:51:58.792Z",
+ "sector-snapshot-takes-growing": {
+  "id": "sector-snapshot-takes-growing",
+  "title": "Sector Snapshot: AI Takes A Growing Share Of Sales And Marketing Startup Funding",
+  "firstSeen": "2026-09-15T14:49:38.369Z",
   "publishers": [
-   "TechCrunch"
+   "Crunchbase News"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -112,10 +154,10 @@
   "confidence": "Developing",
   "category": "business"
  },
- "agents-superhuman-acquires-backed-notetaker": {
-  "id": "agents-superhuman-acquires-backed-notetaker",
-  "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-  "firstSeen": "2026-09-14T16:55:16.048Z",
+ "nvidia-funding-infrastructure-company-cornelis-raises": {
+  "id": "nvidia-funding-infrastructure-company-cornelis-raises",
+  "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+  "firstSeen": "2026-09-14T20:51:58.792Z",
   "publishers": [
    "TechCrunch"
   ],
@@ -139,20 +181,6 @@
   "importance": 2.9,
   "confidence": "Developing",
   "category": "business"
- },
- "anthropic-openai-insight-partners-deven-parekh": {
-  "id": "anthropic-openai-insight-partners-deven-parekh",
-  "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-  "firstSeen": "2026-09-14T00:02:45.036Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.9,
-  "confidence": "Developing",
-  "category": "general"
  },
  "chinese-researchers-chart-stage": {
   "id": "chinese-researchers-chart-stage",
@@ -182,18 +210,18 @@
   "confidence": "Developing",
   "category": "research"
  },
- "pion-agent-designed-company": {
-  "id": "pion-agent-designed-company",
-  "title": "Pion, an agent designed to run any company autonomously",
-  "firstSeen": "2026-09-15T04:37:46.071Z",
+ "former-tiktok-execs-built": {
+  "id": "former-tiktok-execs-built",
+  "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+  "firstSeen": "2026-09-15T14:49:38.369Z",
   "publishers": [
-   "andonlabs.com"
+   "TechCrunch"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
   "hadPrimary": false,
-  "importance": 2.6,
-  "confidence": "Unverified",
-  "category": "general"
+  "importance": 2.7,
+  "confidence": "Developing",
+  "category": "tools"
  }
 }
