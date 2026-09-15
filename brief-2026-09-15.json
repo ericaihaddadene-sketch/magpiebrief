@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "generated": "2026-09-15T04:37:46.123Z",
+ "generated": "2026-09-15T09:57:48.877Z",
  "headline": "14 developments today. The most significant is new models: Perplexity trusts GPT-6 Astra with end-to-end systems",
  "stats": "22 sources monitored · 2660 items read · 64 on-topic · 14 distinct developments · 4 with a primary source · 1 independently corroborated",
  "events": [
@@ -49,10 +49,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Now also covered by Simon Willison.",
-    "Importance rose 1.7 to 7.1."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 2,
@@ -235,72 +232,6 @@
    ]
   },
   {
-   "id": "perplexity-amazon-amazon-perplexity-court-appeals",
-   "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "perplexity",
-     "name": "Perplexity",
-     "kind": "org"
-    },
-    {
-     "id": "amazon",
-     "name": "Amazon",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 3.5,
-    "factors": [
-     {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
-     },
-     {
-      "label": "Policy & Regulation",
-      "amount": 0.6
-     },
-     {
-      "label": "Involves multiple organisations",
-      "amount": 0.4
-     },
-     {
-      "label": "188 points of reader attention",
-      "amount": 0.8
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-14T21:05:22.000Z",
-   "latestAt": "2026-09-14T21:05:22.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-     "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-     "publisher": "law.justia.com",
-     "publisherDomain": "law.justia.com",
-     "kind": "discussion",
-     "date": "2026-09-14T21:05:22.000Z",
-     "points": 188,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "openai-apple-openai-stuck-fighting-musk",
    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
    "category": {
@@ -355,6 +286,68 @@
      "date": "2026-09-14T19:45:13.000Z",
      "points": null,
      "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI."
+    }
+   ]
+  },
+  {
+   "id": "openai-security-openai-bots-knew-about",
+   "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [
+    {
+     "id": "security",
+     "name": "AI Security",
+     "kind": "topic"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 3.2,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "Security",
+      "amount": 0.6
+     },
+     {
+      "label": "462 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-14T12:40:57.000Z",
+   "latestAt": "2026-09-14T12:40:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+     "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+     "publisher": "tenderlovemaking.com",
+     "publisherDomain": "tenderlovemaking.com",
+     "kind": "discussion",
+     "date": "2026-09-14T12:40:57.000Z",
+     "points": 462,
+     "summary": ""
     }
    ]
   },
@@ -723,7 +716,7 @@
       "amount": -0.8
      },
      {
-      "label": "326 points of reader attention",
+      "label": "408 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -732,7 +725,7 @@
     "level": "Unverified",
     "why": "Community discussion only, no reporting yet"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -749,7 +742,7 @@
      "publisherDomain": "andonlabs.com",
      "kind": "discussion",
      "date": "2026-09-14T17:16:06.000Z",
-     "points": 326,
+     "points": 408,
      "summary": ""
     }
    ]
