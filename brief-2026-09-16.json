@@ -1,8 +1,8 @@
 {
  "date": "2026-09-16",
- "generated": "2026-09-16T00:09:19.537Z",
- "headline": "23 developments today. The most significant is new models: Gemini 3.8 Live and 3.8 Live Extended Thinking",
- "stats": "22 sources monitored · 2660 items read · 82 on-topic · 23 distinct developments · 13 with a primary source · 2 independently corroborated",
+ "generated": "2026-09-16T05:51:58.728Z",
+ "headline": "22 developments today. The most significant is new models: Gemini 3.8 Live and 3.8 Live Extended Thinking",
+ "stats": "22 sources monitored · 2660 items read · 80 on-topic · 22 distinct developments · 13 with a primary source · 1 independently corroborated",
  "events": [
   {
    "id": "gemini-gemini-live-live-extended",
@@ -19,7 +19,7 @@
     }
    ],
    "importance": {
-    "score": 6.2,
+    "score": 6.3,
     "factors": [
      {
       "label": "Primary source (Google)",
@@ -34,8 +34,8 @@
       "amount": 0.6
      },
      {
-      "label": "261 points of reader attention",
-      "amount": 0.8
+      "label": "363 points of reader attention",
+      "amount": 0.9
      }
     ]
    },
@@ -64,7 +64,7 @@
      "publisherDomain": "blog.google",
      "kind": "primary",
      "date": "2026-09-15T17:38:18.000Z",
-     "points": 261,
+     "points": 363,
      "summary": ""
     }
    ]
@@ -110,9 +110,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 1.2 to 5.4."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -221,75 +219,16 @@
    ]
   },
   {
-   "id": "meta-ai-meta-expands-subscription-push",
-   "title": "Meta expands subscription push with new AI-focused plans",
+   "id": "coding-agents-datamimic-your-coding-agent",
+   "title": "Datamimic – don't let your coding agent invent its own test world",
    "category": {
     "id": "general",
     "name": "Developments"
    },
    "entities": [
     {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 4.2,
-    "factors": [
-     {
-      "label": "2 independent outlets",
-      "amount": 1.7
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Highly likely",
-    "why": "Two independent outlets"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-15T15:00:00.000Z",
-   "latestAt": "2026-09-15T17:05:24.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta expands subscription push with new AI-focused plans",
-     "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-15T17:05:24.000Z",
-     "points": null,
-     "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp."
-    },
-    {
-     "title": "Meta’s new One subscriptions put a price on social media and AI",
-     "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-15T15:00:00.000Z",
-     "points": null,
-     "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the…"
-    }
-   ]
-  },
-  {
-   "id": "agents-show-pizza-inbox-agents",
-   "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
+     "id": "coding-agents",
+     "name": "Coding Agents",
      "kind": "topic"
     }
    ],
@@ -312,22 +251,22 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-15T15:20:26.000Z",
-   "latestAt": "2026-09-15T15:20:26.000Z",
+   "publishedAt": "2026-09-16T04:58:36.000Z",
+   "latestAt": "2026-09-16T04:58:36.000Z",
    "primary": {
     "publisher": "GitHub",
-    "link": "https://github.com/pizza-bot-app/pizza-bot",
-    "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background"
+    "link": "https://github.com/rapiddweller/datamimic",
+    "title": "Datamimic – don't let your coding agent invent its own test world"
    },
    "sources": [
     {
-     "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
-     "link": "https://github.com/pizza-bot-app/pizza-bot",
+     "title": "Datamimic – don't let your coding agent invent its own test world",
+     "link": "https://github.com/rapiddweller/datamimic",
      "publisher": "GitHub",
      "publisherDomain": "github.com",
      "kind": "primary",
-     "date": "2026-09-15T15:20:26.000Z",
-     "points": 17,
+     "date": "2026-09-16T04:58:36.000Z",
+     "points": 5,
      "summary": ""
     }
    ]
@@ -359,7 +298,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -885,6 +824,60 @@
    ]
   },
   {
+   "id": "nvidia-regulation-need-regulation-leave-safety",
+   "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "regulation",
+     "name": "AI Regulation",
+     "kind": "topic"
+    },
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 3.1,
+    "factors": [
+     {
+      "label": "Policy & Regulation",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-16T00:20:39.000Z",
+   "latestAt": "2026-09-16T00:20:39.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+     "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-16T00:20:39.000Z",
+     "points": null,
+     "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product…"
+    }
+   ]
+  },
+  {
    "id": "shallow-beliefs-midtraining-does",
    "title": "Shallow Beliefs: Midtraining does not inoculate against EM from reward hacking",
    "category": {
@@ -924,49 +917,6 @@
      "date": "2026-09-15T21:50:08.000Z",
      "points": null,
      "summary": "It would be useful if we had the ability to modify a model’s beliefs. For example, this could facilitate honeypots and better monitoring [1] , help…"
-    }
-   ]
-  },
-  {
-   "id": "have-trust-labs-order",
-   "title": "You Don’t Have to Trust the AI Labs (in order to take their call for regulation seriously)",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [],
-   "importance": {
-    "score": 3.1,
-    "factors": [
-     {
-      "label": "Policy & Regulation",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-15T18:09:10.000Z",
-   "latestAt": "2026-09-15T18:09:10.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "You Don’t Have to Trust the AI Labs (in order to take their call for regulation seriously)",
-     "link": "https://www.lesswrong.com/posts/ombnX49ccCj3Ax3Hw/you-don-t-have-to-trust-the-ai-labs-in-order-to-take-their",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-15T18:09:10.000Z",
-     "points": null,
-     "summary": "This is a linkpost for You Don't Have to Trust the AI Labs from my Substack . Foreword for LessWrong readers: While writing this, I became…"
     }
    ]
   },
@@ -1121,7 +1071,7 @@
       "amount": -0.8
      },
      {
-      "label": "635 points of reader attention",
+      "label": "1040 points of reader attention",
       "amount": 1
      }
     ]
@@ -1147,7 +1097,7 @@
      "publisherDomain": "typesafe.ai",
      "kind": "discussion",
      "date": "2026-09-15T19:25:03.000Z",
-     "points": 635,
+     "points": 1040,
      "summary": ""
     }
    ]
