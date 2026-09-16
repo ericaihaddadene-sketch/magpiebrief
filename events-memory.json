@@ -1,19 +1,4 @@
 {
- "perplexity-gpt-perplexity-trusts-astra-with": {
-  "id": "perplexity-gpt-perplexity-trusts-astra-with",
-  "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-  "firstSeen": "2026-09-14T00:02:45.036Z",
-  "publishers": [
-   "OpenAI",
-   "Simon Willison"
-  ],
-  "sourceCount": 2,
-  "independentCount": 2,
-  "hadPrimary": true,
-  "importance": 6.6,
-  "confidence": "Confirmed",
-  "category": "models"
- },
  "gemini-gemini-live-live-extended": {
   "id": "gemini-gemini-live-live-extended",
   "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
@@ -25,6 +10,20 @@
   "independentCount": 1,
   "hadPrimary": true,
   "importance": 6.2,
+  "confidence": "Confirmed",
+  "category": "models"
+ },
+ "perplexity-gpt-perplexity-trusts-astra-with": {
+  "id": "perplexity-gpt-perplexity-trusts-astra-with",
+  "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+  "firstSeen": "2026-09-14T00:02:45.036Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 5.4,
   "confidence": "Confirmed",
   "category": "models"
  },
@@ -56,6 +55,34 @@
   "hadPrimary": false,
   "importance": 4.2,
   "confidence": "Highly likely",
+  "category": "general"
+ },
+ "agents-show-pizza-inbox-agents": {
+  "id": "agents-show-pizza-inbox-agents",
+  "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+  "firstSeen": "2026-09-16T00:09:19.476Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "coding-agents-txcript-switching-coding-agents": {
+  "id": "coding-agents-txcript-switching-coding-agents",
+  "title": "txcript: Switching coding agents mid-conversation",
+  "firstSeen": "2026-09-16T00:09:19.476Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
   "category": "general"
  },
  "your-agent-aced-task": {
@@ -268,19 +295,19 @@
   "confidence": "Developing",
   "category": "research"
  },
- "chinese-researchers-extend-future": {
-  "id": "chinese-researchers-extend-future",
-  "title": "Chinese researchers extend future memory endurance 100-fold in semiconductor advance",
-  "firstSeen": "2026-09-13T11:36:58.043Z",
+ "introducing-system-models": {
+  "id": "introducing-system-models",
+  "title": "Introducing System One Models and Jev",
+  "firstSeen": "2026-09-15T22:04:18.105Z",
   "publishers": [
-   "SCMP Tech"
+   "typesafe.ai"
   ],
   "sourceCount": 1,
-  "independentCount": 1,
+  "independentCount": 0,
   "hadPrimary": false,
-  "importance": 2.8,
-  "confidence": "Developing",
-  "category": "research"
+  "importance": 2.7,
+  "confidence": "Unverified",
+  "category": "general"
  },
  "former-tiktok-execs-built": {
   "id": "former-tiktok-execs-built",
@@ -295,19 +322,5 @@
   "importance": 2.7,
   "confidence": "Developing",
   "category": "tools"
- },
- "introducing-system-models": {
-  "id": "introducing-system-models",
-  "title": "Introducing System One Models and Jev",
-  "firstSeen": "2026-09-15T22:04:18.105Z",
-  "publishers": [
-   "typesafe.ai"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 2.6,
-  "confidence": "Unverified",
-  "category": "general"
  }
 }
