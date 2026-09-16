@@ -1,68 +1,9 @@
 {
  "date": "2026-09-16",
- "generated": "2026-09-16T16:40:43.469Z",
- "headline": "30 developments today. The most significant is developments: Mistral X Mozilla: Private, Multilingual AI Browsing",
- "stats": "22 sources monitored · 2663 items read · 87 on-topic · 30 distinct developments · 14 with a primary source · 0 independently corroborated",
+ "generated": "2026-09-16T19:59:06.030Z",
+ "headline": "32 developments today. The most significant is new models: Perplexity trusts GPT-6 Astra with end-to-end systems",
+ "stats": "22 sources monitored · 2664 items read · 92 on-topic · 32 distinct developments · 16 with a primary source · 0 independently corroborated",
  "events": [
-  {
-   "id": "mistral-mistral-mozilla-private-multilingual",
-   "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "mistral",
-     "name": "Mistral",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 4.9,
-    "factors": [
-     {
-      "label": "Primary source (mistral.ai)",
-      "amount": 1.5
-     },
-     {
-      "label": "348 points of reader attention",
-      "amount": 0.9
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [
-    "Importance rose 0.9 to 4.9."
-   ],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T08:08:57.000Z",
-   "latestAt": "2026-09-16T08:08:57.000Z",
-   "primary": {
-    "publisher": "mistral.ai",
-    "link": "https://mistral.ai/news/mistral-x-mozilla/",
-    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing"
-   },
-   "sources": [
-    {
-     "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-     "link": "https://mistral.ai/news/mistral-x-mozilla/",
-     "publisher": "mistral.ai",
-     "publisherDomain": "mistral.ai",
-     "kind": "primary",
-     "date": "2026-09-16T08:08:57.000Z",
-     "points": 348,
-     "summary": ""
-    }
-   ]
-  },
   {
    "id": "perplexity-gpt-perplexity-trusts-astra-with",
    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -108,9 +49,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 4.9."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -136,6 +75,100 @@
    ]
   },
   {
+   "id": "good-frontier-models-physics",
+   "title": "How good are frontier models at physics?",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (arXiv)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-16T19:19:08.000Z",
+   "latestAt": "2026-09-16T19:19:08.000Z",
+   "primary": {
+    "publisher": "arXiv",
+    "link": "https://arxiv.org/abs/2609.13009",
+    "title": "How good are frontier models at physics?"
+   },
+   "sources": [
+    {
+     "title": "How good are frontier models at physics?",
+     "link": "https://arxiv.org/abs/2609.13009",
+     "publisher": "arXiv",
+     "publisherDomain": "arxiv.org",
+     "kind": "research",
+     "date": "2026-09-16T19:19:08.000Z",
+     "points": 13,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "accurate-models-matrix-cores",
+   "title": "Accurate Models of AMD Matrix Cores",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (arXiv)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-16T18:56:05.000Z",
+   "latestAt": "2026-09-16T18:56:05.000Z",
+   "primary": {
+    "publisher": "arXiv",
+    "link": "https://arxiv.org/abs/2609.14845",
+    "title": "Accurate Models of AMD Matrix Cores"
+   },
+   "sources": [
+    {
+     "title": "Accurate Models of AMD Matrix Cores",
+     "link": "https://arxiv.org/abs/2609.14845",
+     "publisher": "arXiv",
+     "publisherDomain": "arxiv.org",
+     "kind": "research",
+     "date": "2026-09-16T18:56:05.000Z",
+     "points": 19,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "helping-older-adults-everyday",
    "title": "Helping older adults use AI in everyday life",
    "category": {
@@ -156,7 +189,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -203,7 +236,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -230,6 +263,53 @@
    ]
   },
   {
+   "id": "connect-usage-business-value",
+   "title": "How to connect AI usage to business value",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-16T12:00:00.000Z",
+   "latestAt": "2026-09-16T12:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "title": "How to connect AI usage to business value"
+   },
+   "sources": [
+    {
+     "title": "How to connect AI usage to business value",
+     "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-16T12:00:00.000Z",
+     "points": null,
+     "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+    }
+   ]
+  },
+  {
    "id": "workers-unlocking-ways-working",
    "title": "How workers are unlocking new ways of working",
    "category": {
@@ -250,7 +330,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -718,18 +798,13 @@
    ]
   },
   {
-   "id": "anthropic-claude-anthropic-merges-claude-chat",
-   "title": "Anthropic merges Claude chat and Cowork in one interface",
+   "id": "claude-claude-cowork-chat-claude",
+   "title": "Claude Cowork and chat are now one Claude",
    "category": {
     "id": "models",
     "name": "New Models"
    },
    "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    },
     {
      "id": "claude",
      "name": "Claude",
@@ -740,38 +815,46 @@
     "score": 3.9,
     "factors": [
      {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
       "label": "New Models",
       "amount": 0.8
      },
      {
       "label": "Names a specific model",
       "amount": 0.6
+     },
+     {
+      "label": "141 points of reader attention",
+      "amount": 0.8
      }
     ]
    },
    "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
    },
    "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T16:30:00.000Z",
-   "latestAt": "2026-09-16T16:30:00.000Z",
+   "independentCount": 0,
+   "publishedAt": "2026-09-16T16:26:25.000Z",
+   "latestAt": "2026-09-16T16:26:25.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Anthropic merges Claude chat and Cowork in one interface",
-     "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-16T16:30:00.000Z",
-     "points": null,
-     "summary": "Anthropic is releasing these features to Pro and Max plan subscribers initally"
+     "title": "Claude Cowork and chat are now one Claude",
+     "link": "https://claude.com/blog/cowork-is-now-claude",
+     "publisher": "claude.com",
+     "publisherDomain": "claude.com",
+     "kind": "discussion",
+     "date": "2026-09-16T16:26:25.000Z",
+     "points": 141,
+     "summary": ""
     }
    ]
   },
@@ -811,7 +894,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -869,7 +952,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1003,8 +1086,8 @@
    ]
   },
   {
-   "id": "brief-history-executives-calling",
-   "title": "A brief history of AI executives calling for regulation",
+   "id": "victory-court-using-test",
+   "title": "Victory: Court, Using a New Test, Rules Embedding Links is Legal",
    "category": {
     "id": "policy",
     "name": "Policy & Regulation"
@@ -1029,41 +1112,30 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-16T12:00:00.000Z",
-   "latestAt": "2026-09-16T12:00:00.000Z",
+   "publishedAt": "2026-09-16T16:50:43.000Z",
+   "latestAt": "2026-09-16T16:50:43.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "A brief history of AI executives calling for regulation",
-     "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
+     "title": "Victory: Court, Using a New Test, Rules Embedding Links is Legal",
+     "link": "https://www.eff.org/deeplinks/2026/09/victory-court-using-new-test-rules-embedding-links-legal",
+     "publisher": "EFF",
+     "publisherDomain": "eff.org",
      "kind": "coverage",
-     "date": "2026-09-16T12:00:00.000Z",
+     "date": "2026-09-16T16:50:43.000Z",
      "points": null,
-     "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to…"
+     "summary": "Courts have for two decades found that linking and embedding someone else’s web content, be it a photo, music, or an article, doesn’t violate copyright law–the…"
     }
    ]
   },
   {
-   "id": "nvidia-regulation-need-regulation-leave-safety",
-   "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+   "id": "brief-history-executives-calling",
+   "title": "A brief history of AI executives calling for regulation",
    "category": {
     "id": "policy",
     "name": "Policy & Regulation"
    },
-   "entities": [
-    {
-     "id": "regulation",
-     "name": "AI Regulation",
-     "kind": "topic"
-    },
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
+   "entities": [],
    "importance": {
     "score": 3.1,
     "factors": [
@@ -1083,19 +1155,19 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-16T00:20:39.000Z",
-   "latestAt": "2026-09-16T00:20:39.000Z",
+   "publishedAt": "2026-09-16T12:00:00.000Z",
+   "latestAt": "2026-09-16T12:00:00.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-     "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
+     "title": "A brief history of AI executives calling for regulation",
+     "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
      "kind": "coverage",
-     "date": "2026-09-16T00:20:39.000Z",
+     "date": "2026-09-16T12:00:00.000Z",
      "points": null,
-     "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product…"
+     "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to…"
     }
    ]
   },
@@ -1143,6 +1215,49 @@
    ]
   },
   {
+   "id": "model-organisms-sometimes-confess",
+   "title": "Model organisms (sometimes) confess their misalignment when offered a deal",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Business",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-16T18:38:43.000Z",
+   "latestAt": "2026-09-16T18:38:43.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Model organisms (sometimes) confess their misalignment when offered a deal",
+     "link": "https://www.lesswrong.com/posts/kaMXwA9LjrRbekmsQ/model-organisms-sometimes-confess-their-misalignment-when",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-16T18:38:43.000Z",
+     "points": null,
+     "summary": "Summary As models become more powerful, one proposed strategy for reducing the threat from misaligned AIs is to make deals with them: offer compensation in exchange…"
+    }
+   ]
+  },
+  {
    "id": "funding-china-raises-revenue-target",
    "title": "China’s Z.ai raises revenue target 25% after US$5 billion cash injection",
    "category": {
@@ -1169,7 +1284,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1406,7 +1521,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1468,53 +1583,6 @@
      "date": "2026-09-16T06:00:50.000Z",
      "points": null,
      "summary": "TikTok parent ByteDance has scored another hit in China with Hongguo, an artificial intelligence-powered short-drama platform. Launched in 2023, Hongguo quickly became a household name by…"
-    }
-   ]
-  },
-  {
-   "id": "introducing-system-models",
-   "title": "Introducing System One Models and Jev",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 2.7,
-    "factors": [
-     {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
-     },
-     {
-      "label": "1682 points of reader attention",
-      "amount": 1
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-15T19:25:03.000Z",
-   "latestAt": "2026-09-15T19:25:03.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Introducing System One Models and Jev",
-     "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-     "publisher": "typesafe.ai",
-     "publisherDomain": "typesafe.ai",
-     "kind": "discussion",
-     "date": "2026-09-15T19:25:03.000Z",
-     "points": 1682,
-     "summary": ""
     }
    ]
   }

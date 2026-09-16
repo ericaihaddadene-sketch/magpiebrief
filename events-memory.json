@@ -1,18 +1,4 @@
 {
- "mistral-mistral-mozilla-private-multilingual": {
-  "id": "mistral-mistral-mozilla-private-multilingual",
-  "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-  "firstSeen": "2026-09-16T11:20:10.390Z",
-  "publishers": [
-   "mistral.ai"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4.9,
-  "confidence": "Confirmed",
-  "category": "general"
- },
  "perplexity-gpt-perplexity-trusts-astra-with": {
   "id": "perplexity-gpt-perplexity-trusts-astra-with",
   "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -26,6 +12,34 @@
   "importance": 4.9,
   "confidence": "Confirmed",
   "category": "models"
+ },
+ "good-frontier-models-physics": {
+  "id": "good-frontier-models-physics",
+  "title": "How good are frontier models at physics?",
+  "firstSeen": "2026-09-16T19:59:05.967Z",
+  "publishers": [
+   "arXiv"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "accurate-models-matrix-cores": {
+  "id": "accurate-models-matrix-cores",
+  "title": "Accurate Models of AMD Matrix Cores",
+  "firstSeen": "2026-09-16T19:59:05.967Z",
+  "publishers": [
+   "arXiv"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
  },
  "helping-older-adults-everyday": {
   "id": "helping-older-adults-everyday",
@@ -45,6 +59,20 @@
   "id": "reimagining-advertising-with",
   "title": "Reimagining advertising with AI",
   "firstSeen": "2026-09-16T16:40:43.407Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "connect-usage-business-value": {
+  "id": "connect-usage-business-value",
+  "title": "How to connect AI usage to business value",
+  "firstSeen": "2026-09-16T19:59:05.967Z",
   "publishers": [
    "OpenAI"
   ],
@@ -195,18 +223,18 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "anthropic-claude-anthropic-merges-claude-chat": {
-  "id": "anthropic-claude-anthropic-merges-claude-chat",
-  "title": "Anthropic merges Claude chat and Cowork in one interface",
-  "firstSeen": "2026-09-16T16:40:43.407Z",
+ "claude-claude-cowork-chat-claude": {
+  "id": "claude-claude-cowork-chat-claude",
+  "title": "Claude Cowork and chat are now one Claude",
+  "firstSeen": "2026-09-16T19:59:05.967Z",
   "publishers": [
-   "TechCrunch"
+   "claude.com"
   ],
   "sourceCount": 1,
-  "independentCount": 1,
+  "independentCount": 0,
   "hadPrimary": false,
   "importance": 3.9,
-  "confidence": "Developing",
+  "confidence": "Unverified",
   "category": "models"
  },
  "claude-gemini-claude-comes-gemini-with": {
@@ -265,12 +293,12 @@
   "confidence": "Developing",
   "category": "policy"
  },
- "brief-history-executives-calling": {
-  "id": "brief-history-executives-calling",
-  "title": "A brief history of AI executives calling for regulation",
-  "firstSeen": "2026-09-16T16:40:43.407Z",
+ "victory-court-using-test": {
+  "id": "victory-court-using-test",
+  "title": "Victory: Court, Using a New Test, Rules Embedding Links is Legal",
+  "firstSeen": "2026-09-16T19:59:05.967Z",
   "publishers": [
-   "The Verge"
+   "EFF"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -279,12 +307,12 @@
   "confidence": "Developing",
   "category": "policy"
  },
- "nvidia-regulation-need-regulation-leave-safety": {
-  "id": "nvidia-regulation-need-regulation-leave-safety",
-  "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-  "firstSeen": "2026-09-16T05:51:58.582Z",
+ "brief-history-executives-calling": {
+  "id": "brief-history-executives-calling",
+  "title": "A brief history of AI executives calling for regulation",
+  "firstSeen": "2026-09-16T16:40:43.407Z",
   "publishers": [
-   "TechCrunch"
+   "The Verge"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -306,6 +334,20 @@
   "importance": 3.1,
   "confidence": "Developing",
   "category": "security"
+ },
+ "model-organisms-sometimes-confess": {
+  "id": "model-organisms-sometimes-confess",
+  "title": "Model organisms (sometimes) confess their misalignment when offered a deal",
+  "firstSeen": "2026-09-16T19:59:05.967Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.9,
+  "confidence": "Developing",
+  "category": "business"
  },
  "funding-china-raises-revenue-target": {
   "id": "funding-china-raises-revenue-target",
@@ -404,19 +446,5 @@
   "importance": 2.7,
   "confidence": "Developing",
   "category": "tools"
- },
- "introducing-system-models": {
-  "id": "introducing-system-models",
-  "title": "Introducing System One Models and Jev",
-  "firstSeen": "2026-09-15T22:04:18.105Z",
-  "publishers": [
-   "typesafe.ai"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 2.7,
-  "confidence": "Unverified",
-  "category": "general"
  }
 }
