@@ -1,4 +1,18 @@
 {
+ "mistral-mistral-mozilla-private-multilingual": {
+  "id": "mistral-mistral-mozilla-private-multilingual",
+  "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+  "firstSeen": "2026-09-16T22:50:02.302Z",
+  "publishers": [
+   "mistral.ai"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4.9,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
  "perplexity-gpt-perplexity-trusts-astra-with": {
   "id": "perplexity-gpt-perplexity-trusts-astra-with",
   "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -13,10 +27,39 @@
   "confidence": "Confirmed",
   "category": "models"
  },
+ "apple-apple-reportedly-building-server": {
+  "id": "apple-apple-reportedly-building-server",
+  "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+  "firstSeen": "2026-09-16T22:50:02.302Z",
+  "publishers": [
+   "Ars Technica AI",
+   "The Verge"
+  ],
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "importance": 4.2,
+  "confidence": "Highly likely",
+  "category": "general"
+ },
  "good-frontier-models-physics": {
   "id": "good-frontier-models-physics",
   "title": "How good are frontier models at physics?",
   "firstSeen": "2026-09-16T19:59:05.967Z",
+  "publishers": [
+   "arXiv"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "breaking-barrier-ternary-llms": {
+  "id": "breaking-barrier-ternary-llms",
+  "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+  "firstSeen": "2026-09-16T22:50:02.302Z",
   "publishers": [
    "arXiv"
   ],
@@ -41,12 +84,54 @@
   "confidence": "Confirmed",
   "category": "general"
  },
+ "reverse-engineered-like-model": {
+  "id": "reverse-engineered-like-model",
+  "title": "Reverse-engineered Jev-like model",
+  "firstSeen": "2026-09-16T22:50:02.302Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "framework-reporting-model-misalignment": {
+  "id": "framework-reporting-model-misalignment",
+  "title": "Our framework for reporting model misalignment",
+  "firstSeen": "2026-09-16T22:50:02.302Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
  "helping-older-adults-everyday": {
   "id": "helping-older-adults-everyday",
   "title": "Helping older adults use AI in everyday life",
   "firstSeen": "2026-09-16T16:40:43.407Z",
   "publishers": [
    "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "nvidia-nvidia-announces-native-programming": {
+  "id": "nvidia-nvidia-announces-native-programming",
+  "title": "Nvidia announces native GPU programming in Rust",
+  "firstSeen": "2026-09-16T22:50:02.302Z",
+  "publishers": [
+   "developer.nvidia.com"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -223,18 +308,18 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "claude-claude-cowork-chat-claude": {
-  "id": "claude-claude-cowork-chat-claude",
-  "title": "Claude Cowork and chat are now one Claude",
-  "firstSeen": "2026-09-16T19:59:05.967Z",
+ "anthropic-claude-anthropic-merges-claude-chat": {
+  "id": "anthropic-claude-anthropic-merges-claude-chat",
+  "title": "Anthropic merges Claude chat and Cowork in one interface",
+  "firstSeen": "2026-09-16T22:50:02.302Z",
   "publishers": [
-   "claude.com"
+   "TechCrunch"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
   "hadPrimary": false,
   "importance": 3.9,
-  "confidence": "Unverified",
+  "confidence": "Developing",
   "category": "models"
  },
  "claude-gemini-claude-comes-gemini-with": {
@@ -293,12 +378,12 @@
   "confidence": "Developing",
   "category": "policy"
  },
- "victory-court-using-test": {
-  "id": "victory-court-using-test",
-  "title": "Victory: Court, Using a New Test, Rules Embedding Links is Legal",
-  "firstSeen": "2026-09-16T19:59:05.967Z",
+ "washington-regulating-anytime-soon": {
+  "id": "washington-regulating-anytime-soon",
+  "title": "Washington Won’t Be Regulating AI Anytime Soon",
+  "firstSeen": "2026-09-16T22:50:02.302Z",
   "publishers": [
-   "EFF"
+   "Wired AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -307,12 +392,12 @@
   "confidence": "Developing",
   "category": "policy"
  },
- "brief-history-executives-calling": {
-  "id": "brief-history-executives-calling",
-  "title": "A brief history of AI executives calling for regulation",
-  "firstSeen": "2026-09-16T16:40:43.407Z",
+ "victory-court-using-test": {
+  "id": "victory-court-using-test",
+  "title": "Victory: Court, Using a New Test, Rules Embedding Links is Legal",
+  "firstSeen": "2026-09-16T19:59:05.967Z",
   "publishers": [
-   "The Verge"
+   "EFF"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -335,19 +420,19 @@
   "confidence": "Developing",
   "category": "security"
  },
- "model-organisms-sometimes-confess": {
-  "id": "model-organisms-sometimes-confess",
-  "title": "Model organisms (sometimes) confess their misalignment when offered a deal",
-  "firstSeen": "2026-09-16T19:59:05.967Z",
+ "anthropic-openai-anthropic-openai-want-embed": {
+  "id": "anthropic-openai-anthropic-openai-want-embed",
+  "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+  "firstSeen": "2026-09-16T22:50:02.302Z",
   "publishers": [
-   "LessWrong"
+   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
   "importance": 2.9,
   "confidence": "Developing",
-  "category": "business"
+  "category": "general"
  },
  "funding-china-raises-revenue-target": {
   "id": "funding-china-raises-revenue-target",
@@ -405,6 +490,20 @@
   "confidence": "Developing",
   "category": "business"
  },
+ "finding-heterogeneous-agent-swarms": {
+  "id": "finding-heterogeneous-agent-swarms",
+  "title": "Finding heterogeneous agent swarms in the wild",
+  "firstSeen": "2026-09-16T22:50:02.302Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.8,
+  "confidence": "Developing",
+  "category": "research"
+ },
  "chinese-researchers-chart-stage": {
   "id": "chinese-researchers-chart-stage",
   "title": "Chinese researchers chart 5-stage path toward ‘last AI built by humans’",
@@ -446,5 +545,19 @@
   "importance": 2.7,
   "confidence": "Developing",
   "category": "tools"
+ },
+ "training-model-produce-faster": {
+  "id": "training-model-produce-faster",
+  "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+  "firstSeen": "2026-09-16T22:50:02.302Z",
+  "publishers": [
+   "rohanbansal.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 2.6,
+  "confidence": "Unverified",
+  "category": "general"
  }
 }

@@ -1,9 +1,66 @@
 {
  "date": "2026-09-16",
- "generated": "2026-09-16T19:59:06.030Z",
- "headline": "32 developments today. The most significant is new models: Perplexity trusts GPT-6 Astra with end-to-end systems",
- "stats": "22 sources monitored · 2664 items read · 92 on-topic · 32 distinct developments · 16 with a primary source · 0 independently corroborated",
+ "generated": "2026-09-16T22:50:02.373Z",
+ "headline": "40 developments today. The most significant is developments: Mistral X Mozilla: Private, Multilingual AI Browsing",
+ "stats": "22 sources monitored · 2665 items read · 99 on-topic · 40 distinct developments · 21 with a primary source · 1 independently corroborated",
  "events": [
+  {
+   "id": "mistral-mistral-mozilla-private-multilingual",
+   "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "mistral",
+     "name": "Mistral",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 4.9,
+    "factors": [
+     {
+      "label": "Primary source (mistral.ai)",
+      "amount": 1.5
+     },
+     {
+      "label": "502 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-16T08:08:57.000Z",
+   "latestAt": "2026-09-16T08:08:57.000Z",
+   "primary": {
+    "publisher": "mistral.ai",
+    "link": "https://mistral.ai/news/mistral-x-mozilla/",
+    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing"
+   },
+   "sources": [
+    {
+     "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+     "link": "https://mistral.ai/news/mistral-x-mozilla/",
+     "publisher": "mistral.ai",
+     "publisherDomain": "mistral.ai",
+     "kind": "primary",
+     "date": "2026-09-16T08:08:57.000Z",
+     "points": 502,
+     "summary": ""
+    }
+   ]
+  },
   {
    "id": "perplexity-gpt-perplexity-trusts-astra-with",
    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -75,8 +132,114 @@
    ]
   },
   {
+   "id": "apple-apple-reportedly-building-server",
+   "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "apple",
+     "name": "Apple",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 4.2,
+    "factors": [
+     {
+      "label": "2 independent outlets",
+      "amount": 1.7
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Highly likely",
+    "why": "Two independent outlets"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-16T17:20:29.000Z",
+   "latestAt": "2026-09-16T22:02:46.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+     "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-16T22:02:46.000Z",
+     "points": null,
+     "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades."
+    },
+    {
+     "title": "Apple might make servers again to cash in on the AI rush",
+     "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-16T17:20:29.000Z",
+     "points": null,
+     "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple…"
+    }
+   ]
+  },
+  {
    "id": "good-frontier-models-physics",
    "title": "How good are frontier models at physics?",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (arXiv)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-16T19:19:08.000Z",
+   "latestAt": "2026-09-16T19:19:08.000Z",
+   "primary": {
+    "publisher": "arXiv",
+    "link": "https://arxiv.org/abs/2609.13009",
+    "title": "How good are frontier models at physics?"
+   },
+   "sources": [
+    {
+     "title": "How good are frontier models at physics?",
+     "link": "https://arxiv.org/abs/2609.13009",
+     "publisher": "arXiv",
+     "publisherDomain": "arxiv.org",
+     "kind": "research",
+     "date": "2026-09-16T19:19:08.000Z",
+     "points": 49,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "breaking-barrier-ternary-llms",
+   "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
    "category": {
     "id": "general",
     "name": "Developments"
@@ -101,22 +264,22 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-16T19:19:08.000Z",
-   "latestAt": "2026-09-16T19:19:08.000Z",
+   "publishedAt": "2026-09-16T20:59:24.000Z",
+   "latestAt": "2026-09-16T20:59:24.000Z",
    "primary": {
     "publisher": "arXiv",
-    "link": "https://arxiv.org/abs/2609.13009",
-    "title": "How good are frontier models at physics?"
+    "link": "https://arxiv.org/abs/2609.16338",
+    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs"
    },
    "sources": [
     {
-     "title": "How good are frontier models at physics?",
-     "link": "https://arxiv.org/abs/2609.13009",
+     "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+     "link": "https://arxiv.org/abs/2609.16338",
      "publisher": "arXiv",
      "publisherDomain": "arxiv.org",
      "kind": "research",
-     "date": "2026-09-16T19:19:08.000Z",
-     "points": 13,
+     "date": "2026-09-16T20:59:24.000Z",
+     "points": 73,
      "summary": ""
     }
    ]
@@ -142,7 +305,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -163,8 +326,102 @@
      "publisherDomain": "arxiv.org",
      "kind": "research",
      "date": "2026-09-16T18:56:05.000Z",
-     "points": 19,
+     "points": 47,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "reverse-engineered-like-model",
+   "title": "Reverse-engineered Jev-like model",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (GitHub)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-16T18:49:57.000Z",
+   "latestAt": "2026-09-16T18:49:57.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/vinnylarouge/jevlike",
+    "title": "Reverse-engineered Jev-like model"
+   },
+   "sources": [
+    {
+     "title": "Reverse-engineered Jev-like model",
+     "link": "https://github.com/vinnylarouge/jevlike",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-16T18:49:57.000Z",
+     "points": 29,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "framework-reporting-model-misalignment",
+   "title": "Our framework for reporting model misalignment",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-16T17:00:00.000Z",
+   "latestAt": "2026-09-16T17:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/model-misalignment-reporting-framework",
+    "title": "Our framework for reporting model misalignment"
+   },
+   "sources": [
+    {
+     "title": "Our framework for reporting model misalignment",
+     "link": "https://openai.com/index/model-misalignment-reporting-framework",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-16T17:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
     }
    ]
   },
@@ -212,6 +469,59 @@
      "date": "2026-09-16T16:00:00.000Z",
      "points": null,
      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
+    }
+   ]
+  },
+  {
+   "id": "nvidia-nvidia-announces-native-programming",
+   "title": "Nvidia announces native GPU programming in Rust",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (developer.nvidia.com)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-16T11:15:53.000Z",
+   "latestAt": "2026-09-16T11:15:53.000Z",
+   "primary": {
+    "publisher": "developer.nvidia.com",
+    "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "title": "Nvidia announces native GPU programming in Rust"
+   },
+   "sources": [
+    {
+     "title": "Nvidia announces native GPU programming in Rust",
+     "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+     "publisher": "developer.nvidia.com",
+     "publisherDomain": "developer.nvidia.com",
+     "kind": "primary",
+     "date": "2026-09-16T11:15:53.000Z",
+     "points": 25,
+     "summary": ""
     }
    ]
   },
@@ -283,7 +593,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -798,13 +1108,18 @@
    ]
   },
   {
-   "id": "claude-claude-cowork-chat-claude",
-   "title": "Claude Cowork and chat are now one Claude",
+   "id": "anthropic-claude-anthropic-merges-claude-chat",
+   "title": "Anthropic merges Claude chat and Cowork in one interface",
    "category": {
     "id": "models",
     "name": "New Models"
    },
    "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
     {
      "id": "claude",
      "name": "Claude",
@@ -815,46 +1130,38 @@
     "score": 3.9,
     "factors": [
      {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
-     },
-     {
       "label": "New Models",
       "amount": 0.8
      },
      {
       "label": "Names a specific model",
       "amount": 0.6
-     },
-     {
-      "label": "141 points of reader attention",
-      "amount": 0.8
      }
     ]
    },
    "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
+    "level": "Developing",
+    "why": "A single outlet so far"
    },
    "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-16T16:26:25.000Z",
-   "latestAt": "2026-09-16T16:26:25.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-16T16:30:00.000Z",
+   "latestAt": "2026-09-16T16:30:00.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Claude Cowork and chat are now one Claude",
-     "link": "https://claude.com/blog/cowork-is-now-claude",
-     "publisher": "claude.com",
-     "publisherDomain": "claude.com",
-     "kind": "discussion",
-     "date": "2026-09-16T16:26:25.000Z",
-     "points": 141,
-     "summary": ""
+     "title": "Anthropic merges Claude chat and Cowork in one interface",
+     "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-16T16:30:00.000Z",
+     "points": null,
+     "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
     }
    ]
   },
@@ -1086,8 +1393,8 @@
    ]
   },
   {
-   "id": "victory-court-using-test",
-   "title": "Victory: Court, Using a New Test, Rules Embedding Links is Legal",
+   "id": "washington-regulating-anytime-soon",
+   "title": "Washington Won’t Be Regulating AI Anytime Soon",
    "category": {
     "id": "policy",
     "name": "Policy & Regulation"
@@ -1112,25 +1419,25 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-16T16:50:43.000Z",
-   "latestAt": "2026-09-16T16:50:43.000Z",
+   "publishedAt": "2026-09-16T21:00:00.000Z",
+   "latestAt": "2026-09-16T21:00:00.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Victory: Court, Using a New Test, Rules Embedding Links is Legal",
-     "link": "https://www.eff.org/deeplinks/2026/09/victory-court-using-new-test-rules-embedding-links-legal",
-     "publisher": "EFF",
-     "publisherDomain": "eff.org",
+     "title": "Washington Won’t Be Regulating AI Anytime Soon",
+     "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
      "kind": "coverage",
-     "date": "2026-09-16T16:50:43.000Z",
+     "date": "2026-09-16T21:00:00.000Z",
      "points": null,
-     "summary": "Courts have for two decades found that linking and embedding someone else’s web content, be it a photo, music, or an article, doesn’t violate copyright law–the…"
+     "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight."
     }
    ]
   },
   {
-   "id": "brief-history-executives-calling",
-   "title": "A brief history of AI executives calling for regulation",
+   "id": "victory-court-using-test",
+   "title": "Victory: Court, Using a New Test, Rules Embedding Links is Legal",
    "category": {
     "id": "policy",
     "name": "Policy & Regulation"
@@ -1155,19 +1462,19 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-16T12:00:00.000Z",
-   "latestAt": "2026-09-16T12:00:00.000Z",
+   "publishedAt": "2026-09-16T16:50:43.000Z",
+   "latestAt": "2026-09-16T16:50:43.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "A brief history of AI executives calling for regulation",
-     "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
+     "title": "Victory: Court, Using a New Test, Rules Embedding Links is Legal",
+     "link": "https://www.eff.org/deeplinks/2026/09/victory-court-using-new-test-rules-embedding-links-legal",
+     "publisher": "EFF",
+     "publisherDomain": "eff.org",
      "kind": "coverage",
-     "date": "2026-09-16T12:00:00.000Z",
+     "date": "2026-09-16T16:50:43.000Z",
      "points": null,
-     "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to…"
+     "summary": "Courts have for two decades found that linking and embedding someone else’s web content, be it a photo, music, or an article, doesn’t violate copyright law–the…"
     }
    ]
   },
@@ -1215,18 +1522,29 @@
    ]
   },
   {
-   "id": "model-organisms-sometimes-confess",
-   "title": "Model organisms (sometimes) confess their misalignment when offered a deal",
+   "id": "anthropic-openai-anthropic-openai-want-embed",
+   "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
    "category": {
-    "id": "business",
-    "name": "Business"
+    "id": "general",
+    "name": "Developments"
    },
-   "entities": [],
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
    "importance": {
     "score": 2.9,
     "factors": [
      {
-      "label": "Business",
+      "label": "Involves multiple organisations",
       "amount": 0.4
      }
     ]
@@ -1241,19 +1559,19 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-16T18:38:43.000Z",
-   "latestAt": "2026-09-16T18:38:43.000Z",
+   "publishedAt": "2026-09-16T21:07:24.000Z",
+   "latestAt": "2026-09-16T21:07:24.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Model organisms (sometimes) confess their misalignment when offered a deal",
-     "link": "https://www.lesswrong.com/posts/kaMXwA9LjrRbekmsQ/model-organisms-sometimes-confess-their-misalignment-when",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
+     "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+     "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
      "kind": "coverage",
-     "date": "2026-09-16T18:38:43.000Z",
+     "date": "2026-09-16T21:07:24.000Z",
      "points": null,
-     "summary": "Summary As models become more powerful, one proposed strategy for reducing the threat from misaligned AIs is to make deals with them: offer compensation in exchange…"
+     "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and…"
     }
    ]
   },
@@ -1458,6 +1776,49 @@
    ]
   },
   {
+   "id": "finding-heterogeneous-agent-swarms",
+   "title": "Finding heterogeneous agent swarms in the wild",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.8,
+    "factors": [
+     {
+      "label": "Research",
+      "amount": 0.3
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-16T21:50:43.000Z",
+   "latestAt": "2026-09-16T21:50:43.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Finding heterogeneous agent swarms in the wild",
+     "link": "https://www.lesswrong.com/posts/pK9HxvPuCNS8gQnBn/finding-heterogeneous-agent-swarms-in-the-wild",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-16T21:50:43.000Z",
+     "points": null,
+     "summary": "Epistemic status: speculative, but near-term grounded I am putting fingers to keyboard now, even though this idea is half-formed, partly because my experience with AI Safety…"
+    }
+   ]
+  },
+  {
    "id": "chinese-researchers-chart-stage",
    "title": "Chinese researchers chart 5-stage path toward ‘last AI built by humans’",
    "category": {
@@ -1583,6 +1944,53 @@
      "date": "2026-09-16T06:00:50.000Z",
      "points": null,
      "summary": "TikTok parent ByteDance has scored another hit in China with Hongguo, an artificial intelligence-powered short-drama platform. Launched in 2023, Hongguo quickly became a household name by…"
+    }
+   ]
+  },
+  {
+   "id": "training-model-produce-faster",
+   "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.6,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "283 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-16T18:50:00.000Z",
+   "latestAt": "2026-09-16T18:50:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+     "link": "https://rohanbansal.com/qorl",
+     "publisher": "rohanbansal.com",
+     "publisherDomain": "rohanbansal.com",
+     "kind": "discussion",
+     "date": "2026-09-16T18:50:00.000Z",
+     "points": 283,
+     "summary": ""
     }
    ]
   }
