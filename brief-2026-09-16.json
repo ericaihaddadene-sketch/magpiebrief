@@ -1,8 +1,8 @@
 {
  "date": "2026-09-16",
- "generated": "2026-09-16T05:51:58.728Z",
- "headline": "22 developments today. The most significant is new models: Gemini 3.8 Live and 3.8 Live Extended Thinking",
- "stats": "22 sources monitored · 2660 items read · 80 on-topic · 22 distinct developments · 13 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-16T11:20:10.456Z",
+ "headline": "23 developments today. The most significant is new models: Gemini 3.8 Live and 3.8 Live Extended Thinking",
+ "stats": "22 sources monitored · 2660 items read · 82 on-topic · 23 distinct developments · 13 with a primary source · 1 independently corroborated",
  "events": [
   {
    "id": "gemini-gemini-live-live-extended",
@@ -34,7 +34,7 @@
       "amount": 0.6
      },
      {
-      "label": "363 points of reader attention",
+      "label": "427 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -64,7 +64,7 @@
      "publisherDomain": "blog.google",
      "kind": "primary",
      "date": "2026-09-15T17:38:18.000Z",
-     "points": 363,
+     "points": 427,
      "summary": ""
     }
    ]
@@ -219,24 +219,24 @@
    ]
   },
   {
-   "id": "coding-agents-datamimic-your-coding-agent",
-   "title": "Datamimic – don't let your coding agent invent its own test world",
+   "id": "mistral-mistral-mozilla-private-multilingual",
+   "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
    "category": {
     "id": "general",
     "name": "Developments"
    },
    "entities": [
     {
-     "id": "coding-agents",
-     "name": "Coding Agents",
-     "kind": "topic"
+     "id": "mistral",
+     "name": "Mistral",
+     "kind": "org"
     }
    ],
    "importance": {
     "score": 4,
     "factors": [
      {
-      "label": "Primary source (GitHub)",
+      "label": "Primary source (mistral.ai)",
       "amount": 1.5
      }
     ]
@@ -251,29 +251,29 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-16T04:58:36.000Z",
-   "latestAt": "2026-09-16T04:58:36.000Z",
+   "publishedAt": "2026-09-16T08:08:57.000Z",
+   "latestAt": "2026-09-16T08:08:57.000Z",
    "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/rapiddweller/datamimic",
-    "title": "Datamimic – don't let your coding agent invent its own test world"
+    "publisher": "mistral.ai",
+    "link": "https://mistral.ai/news/mistral-x-mozilla/",
+    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing"
    },
    "sources": [
     {
-     "title": "Datamimic – don't let your coding agent invent its own test world",
-     "link": "https://github.com/rapiddweller/datamimic",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
+     "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+     "link": "https://mistral.ai/news/mistral-x-mozilla/",
+     "publisher": "mistral.ai",
+     "publisherDomain": "mistral.ai",
      "kind": "primary",
-     "date": "2026-09-16T04:58:36.000Z",
-     "points": 5,
+     "date": "2026-09-16T08:08:57.000Z",
+     "points": 71,
      "summary": ""
     }
    ]
   },
   {
-   "id": "coding-agents-txcript-switching-coding-agents",
-   "title": "txcript: Switching coding agents mid-conversation",
+   "id": "coding-agents-datamimic-your-coding-agent",
+   "title": "Datamimic – don't let your coding agent invent its own test world",
    "category": {
     "id": "general",
     "name": "Developments"
@@ -304,22 +304,22 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-15T22:12:07.000Z",
-   "latestAt": "2026-09-15T22:12:07.000Z",
+   "publishedAt": "2026-09-16T04:58:36.000Z",
+   "latestAt": "2026-09-16T04:58:36.000Z",
    "primary": {
     "publisher": "GitHub",
-    "link": "https://github.com/skillsynchq/txcript",
-    "title": "txcript: Switching coding agents mid-conversation"
+    "link": "https://github.com/rapiddweller/datamimic",
+    "title": "Datamimic – don't let your coding agent invent its own test world"
    },
    "sources": [
     {
-     "title": "txcript: Switching coding agents mid-conversation",
-     "link": "https://github.com/skillsynchq/txcript",
+     "title": "Datamimic – don't let your coding agent invent its own test world",
+     "link": "https://github.com/rapiddweller/datamimic",
      "publisher": "GitHub",
      "publisherDomain": "github.com",
      "kind": "primary",
-     "date": "2026-09-15T22:12:07.000Z",
-     "points": null,
+     "date": "2026-09-16T04:58:36.000Z",
+     "points": 43,
      "summary": ""
     }
    ]
@@ -855,7 +855,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1056,6 +1056,49 @@
    ]
   },
   {
+   "id": "bytedance-enhanced-short-drama",
+   "title": "ByteDance’s AI-enhanced short-drama app eclipses China’s Netflix rivals combined",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.7,
+    "factors": [
+     {
+      "label": "Tools & Products",
+      "amount": 0.2
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-16T06:00:50.000Z",
+   "latestAt": "2026-09-16T06:00:50.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "ByteDance’s AI-enhanced short-drama app eclipses China’s Netflix rivals combined",
+     "link": "https://www.scmp.com/tech/tech-trends/article/3367664/bytedances-ai-enhanced-short-drama-app-eclipses-chinas-netflix-rivals-combined?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-16T06:00:50.000Z",
+     "points": null,
+     "summary": "TikTok parent ByteDance has scored another hit in China with Hongguo, an artificial intelligence-powered short-drama platform. Launched in 2023, Hongguo quickly became a household name by…"
+    }
+   ]
+  },
+  {
    "id": "introducing-system-models",
    "title": "Introducing System One Models and Jev",
    "category": {
@@ -1071,7 +1114,7 @@
       "amount": -0.8
      },
      {
-      "label": "1040 points of reader attention",
+      "label": "1458 points of reader attention",
       "amount": 1
      }
     ]
@@ -1097,7 +1140,7 @@
      "publisherDomain": "typesafe.ai",
      "kind": "discussion",
      "date": "2026-09-15T19:25:03.000Z",
-     "points": 1040,
+     "points": 1458,
      "summary": ""
     }
    ]
