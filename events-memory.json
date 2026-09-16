@@ -1,17 +1,17 @@
 {
- "gemini-gemini-live-live-extended": {
-  "id": "gemini-gemini-live-live-extended",
-  "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-  "firstSeen": "2026-09-15T18:51:52.796Z",
+ "mistral-mistral-mozilla-private-multilingual": {
+  "id": "mistral-mistral-mozilla-private-multilingual",
+  "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+  "firstSeen": "2026-09-16T11:20:10.390Z",
   "publishers": [
-   "Google"
+   "mistral.ai"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "importance": 6.3,
+  "importance": 4.9,
   "confidence": "Confirmed",
-  "category": "models"
+  "category": "general"
  },
  "perplexity-gpt-perplexity-trusts-astra-with": {
   "id": "perplexity-gpt-perplexity-trusts-astra-with",
@@ -23,31 +23,16 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "importance": 5.4,
+  "importance": 4.9,
   "confidence": "Confirmed",
   "category": "models"
  },
- "anthropic-google-openai-openai-anthropic-google-have": {
-  "id": "anthropic-google-openai-openai-anthropic-google-have",
-  "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-  "firstSeen": "2026-09-15T18:51:52.796Z",
+ "helping-older-adults-everyday": {
+  "id": "helping-older-adults-everyday",
+  "title": "Helping older adults use AI in everyday life",
+  "firstSeen": "2026-09-16T16:40:43.407Z",
   "publishers": [
-   "TechCrunch",
-   "SCMP Tech"
-  ],
-  "sourceCount": 2,
-  "independentCount": 2,
-  "hadPrimary": false,
-  "importance": 4.6,
-  "confidence": "Highly likely",
-  "category": "general"
- },
- "mistral-mistral-mozilla-private-multilingual": {
-  "id": "mistral-mistral-mozilla-private-multilingual",
-  "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-  "firstSeen": "2026-09-16T11:20:10.390Z",
-  "publishers": [
-   "mistral.ai"
+   "OpenAI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -56,12 +41,26 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "coding-agents-datamimic-your-coding-agent": {
-  "id": "coding-agents-datamimic-your-coding-agent",
-  "title": "Datamimic – don't let your coding agent invent its own test world",
-  "firstSeen": "2026-09-16T05:51:58.582Z",
+ "reimagining-advertising-with": {
+  "id": "reimagining-advertising-with",
+  "title": "Reimagining advertising with AI",
+  "firstSeen": "2026-09-16T16:40:43.407Z",
   "publishers": [
-   "GitHub"
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "workers-unlocking-ways-working": {
+  "id": "workers-unlocking-ways-working",
+  "title": "How workers are unlocking new ways of working",
+  "firstSeen": "2026-09-16T16:40:43.407Z",
+  "publishers": [
+   "OpenAI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -196,6 +195,62 @@
   "confidence": "Confirmed",
   "category": "general"
  },
+ "anthropic-claude-anthropic-merges-claude-chat": {
+  "id": "anthropic-claude-anthropic-merges-claude-chat",
+  "title": "Anthropic merges Claude chat and Cowork in one interface",
+  "firstSeen": "2026-09-16T16:40:43.407Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.9,
+  "confidence": "Developing",
+  "category": "models"
+ },
+ "claude-gemini-claude-comes-gemini-with": {
+  "id": "claude-gemini-claude-comes-gemini-with",
+  "title": "Claude comes for Gemini with its own take on Docs and Slides",
+  "firstSeen": "2026-09-16T16:40:43.407Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.9,
+  "confidence": "Developing",
+  "category": "models"
+ },
+ "nvidia-gpt-robots-waiting-chatgpt-moment": {
+  "id": "nvidia-gpt-robots-waiting-chatgpt-moment",
+  "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+  "firstSeen": "2026-09-16T16:40:43.407Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.9,
+  "confidence": "Developing",
+  "category": "models"
+ },
+ "gemini-gemini-live-audio": {
+  "id": "gemini-gemini-live-audio",
+  "title": "Gemini Live audio",
+  "firstSeen": "2026-09-16T16:40:43.407Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.9,
+  "confidence": "Developing",
+  "category": "models"
+ },
  "openai-apple-openai-stuck-fighting-musk": {
   "id": "openai-apple-openai-stuck-fighting-musk",
   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
@@ -207,6 +262,20 @@
   "independentCount": 1,
   "hadPrimary": false,
   "importance": 3.5,
+  "confidence": "Developing",
+  "category": "policy"
+ },
+ "brief-history-executives-calling": {
+  "id": "brief-history-executives-calling",
+  "title": "A brief history of AI executives calling for regulation",
+  "firstSeen": "2026-09-16T16:40:43.407Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.1,
   "confidence": "Developing",
   "category": "policy"
  },
@@ -237,6 +306,34 @@
   "importance": 3.1,
   "confidence": "Developing",
   "category": "security"
+ },
+ "funding-china-raises-revenue-target": {
+  "id": "funding-china-raises-revenue-target",
+  "title": "China’s Z.ai raises revenue target 25% after US$5 billion cash injection",
+  "firstSeen": "2026-09-16T16:40:43.407Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.9,
+  "confidence": "Developing",
+  "category": "business"
+ },
+ "anthropic-deepseek-openai-deepseek-engineer-slams-anthropic": {
+  "id": "anthropic-deepseek-openai-deepseek-engineer-slams-anthropic",
+  "title": "DeepSeek AI engineer slams Anthropic, OpenAI over ‘pacing’ calls, invokes Nazi Germany",
+  "firstSeen": "2026-09-16T16:40:43.407Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.9,
+  "confidence": "Developing",
+  "category": "general"
  },
  "sector-snapshot-takes-growing": {
   "id": "sector-snapshot-takes-growing",
@@ -280,6 +377,20 @@
   "confidence": "Developing",
   "category": "research"
  },
+ "sexy-powered-dating-scams": {
+  "id": "sexy-powered-dating-scams",
+  "title": "The sexy AI-powered dating app scams are here",
+  "firstSeen": "2026-09-16T16:40:43.407Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.7,
+  "confidence": "Developing",
+  "category": "tools"
+ },
  "bytedance-enhanced-short-drama": {
   "id": "bytedance-enhanced-short-drama",
   "title": "ByteDance’s AI-enhanced short-drama app eclipses China’s Netflix rivals combined",
@@ -307,19 +418,5 @@
   "importance": 2.7,
   "confidence": "Unverified",
   "category": "general"
- },
- "former-tiktok-execs-built": {
-  "id": "former-tiktok-execs-built",
-  "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-  "firstSeen": "2026-09-15T14:49:38.369Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.7,
-  "confidence": "Developing",
-  "category": "tools"
  }
 }
