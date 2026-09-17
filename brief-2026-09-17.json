@@ -1,84 +1,87 @@
 {
  "date": "2026-09-17",
- "generated": "2026-09-17T13:19:49.576Z",
- "headline": "30 developments today. The most significant is developments: Nvidia announces native GPU programming in Rust",
- "stats": "22 sources monitored · 2673 items read · 92 on-topic · 30 distinct developments · 15 with a primary source · 0 independently corroborated",
+ "generated": "2026-09-17T18:06:53.877Z",
+ "headline": "31 developments today. The most significant is developments: Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+ "stats": "22 sources monitored · 2673 items read · 88 on-topic · 31 distinct developments · 14 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "nvidia-nvidia-announces-native-programming",
-   "title": "Nvidia announces native GPU programming in Rust",
+   "id": "openai-security-covert-uploads-megalomania-openai",
+   "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
    "category": {
     "id": "general",
     "name": "Developments"
    },
    "entities": [
     {
-     "id": "nvidia",
-     "name": "NVIDIA",
+     "id": "openai",
+     "name": "OpenAI",
      "kind": "org"
+    },
+    {
+     "id": "security",
+     "name": "AI Security",
+     "kind": "topic"
     }
    ],
    "importance": {
-    "score": 5,
+    "score": 4.2,
     "factors": [
      {
-      "label": "Primary source (developer.nvidia.com)",
-      "amount": 1.5
-     },
-     {
-      "label": "776 points of reader attention",
-      "amount": 1
+      "label": "2 independent outlets",
+      "amount": 1.7
      }
     ]
    },
    "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
+    "level": "Highly likely",
+    "why": "Two independent outlets"
    },
-   "status": "confirmed",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T11:15:53.000Z",
-   "latestAt": "2026-09-16T11:15:53.000Z",
-   "primary": {
-    "publisher": "developer.nvidia.com",
-    "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-    "title": "Nvidia announces native GPU programming in Rust"
-   },
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-16T22:07:24.000Z",
+   "latestAt": "2026-09-17T16:18:34.000Z",
+   "primary": null,
    "sources": [
     {
-     "title": "Nvidia announces native GPU programming in Rust",
-     "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-     "publisher": "developer.nvidia.com",
-     "publisherDomain": "developer.nvidia.com",
-     "kind": "primary",
-     "date": "2026-09-16T11:15:53.000Z",
-     "points": 776,
-     "summary": ""
+     "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+     "link": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-17T16:18:34.000Z",
+     "points": null,
+     "summary": "Model maker commits to new framework for reporting misaligned models."
+    },
+    {
+     "title": "An OpenAI Agent Tried to Jailbreak Itself",
+     "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-16T22:07:24.000Z",
+     "points": null,
+     "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked."
     }
    ]
   },
   {
-   "id": "breaking-barrier-ternary-llms",
-   "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+   "id": "infinite-parameter-llms-generating",
+   "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
    "category": {
     "id": "general",
     "name": "Developments"
    },
    "entities": [],
    "importance": {
-    "score": 4.8,
+    "score": 4,
     "factors": [
      {
       "label": "Primary source (arXiv)",
       "amount": 1.5
-     },
-     {
-      "label": "218 points of reader attention",
-      "amount": 0.8
      }
     ]
    },
@@ -86,28 +89,75 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "confirmed",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-16T20:59:24.000Z",
-   "latestAt": "2026-09-16T20:59:24.000Z",
+   "publishedAt": "2026-09-17T16:55:14.000Z",
+   "latestAt": "2026-09-17T16:55:14.000Z",
    "primary": {
     "publisher": "arXiv",
-    "link": "https://arxiv.org/abs/2609.16338",
-    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs"
+    "link": "https://arxiv.org/abs/2609.18842",
+    "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data"
    },
    "sources": [
     {
-     "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-     "link": "https://arxiv.org/abs/2609.16338",
+     "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+     "link": "https://arxiv.org/abs/2609.18842",
      "publisher": "arXiv",
      "publisherDomain": "arxiv.org",
      "kind": "research",
-     "date": "2026-09-16T20:59:24.000Z",
-     "points": 218,
+     "date": "2026-09-17T16:55:14.000Z",
+     "points": 6,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "show-autobot-live-voice",
+   "title": "Show HN: AutoBot – live voice control for long-running AI work",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (GitHub)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-17T16:54:57.000Z",
+   "latestAt": "2026-09-17T16:54:57.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/demeyer1/Autobot",
+    "title": "Show HN: AutoBot – live voice control for long-running AI work"
+   },
+   "sources": [
+    {
+     "title": "Show HN: AutoBot – live voice control for long-running AI work",
+     "link": "https://github.com/demeyer1/Autobot",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-17T16:54:57.000Z",
+     "points": 6,
      "summary": ""
     }
    ]
@@ -805,111 +855,6 @@
    ]
   },
   {
-   "id": "devfest-back",
-   "title": "DevFest is back",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 3.5,
-    "factors": [
-     {
-      "label": "Primary source (Google AI)",
-      "amount": 1.5
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-14T16:00:00.000Z",
-   "latestAt": "2026-09-14T16:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-    "title": "DevFest is back"
-   },
-   "sources": [
-    {
-     "title": "DevFest is back",
-     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-09-14T16:00:00.000Z",
-     "points": null,
-     "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, icon"
-    }
-   ]
-  },
-  {
-   "id": "openai-security-openai-agent-tried-jailbreak",
-   "title": "An OpenAI Agent Tried to Jailbreak Itself",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [
-    {
-     "id": "security",
-     "name": "AI Security",
-     "kind": "topic"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 3.1,
-    "factors": [
-     {
-      "label": "Security",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T22:07:24.000Z",
-   "latestAt": "2026-09-16T22:07:24.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "An OpenAI Agent Tried to Jailbreak Itself",
-     "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-16T22:07:24.000Z",
-     "points": null,
-     "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked."
-    }
-   ]
-  },
-  {
    "id": "washington-regulating-anytime-soon",
    "title": "Washington Won’t Be Regulating AI Anytime Soon",
    "category": {
@@ -1079,9 +1024,7 @@
     "why": "A single outlet so far"
    },
    "status": "developing",
-   "deltas": [
-    "Importance fell 0.5 to 3."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -1103,8 +1046,8 @@
    ]
   },
   {
-   "id": "anthropic-openai-anthropic-openai-want-embed",
-   "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+   "id": "anthropic-microsoft-microsoft-says-threats-real",
+   "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
    "category": {
     "id": "general",
     "name": "Developments"
@@ -1116,8 +1059,8 @@
      "kind": "org"
     },
     {
-     "id": "openai",
-     "name": "OpenAI",
+     "id": "microsoft",
+     "name": "Microsoft",
      "kind": "org"
     }
    ],
@@ -1134,25 +1077,186 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "developing",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-16T21:07:24.000Z",
-   "latestAt": "2026-09-16T21:07:24.000Z",
+   "publishedAt": "2026-09-17T14:00:00.000Z",
+   "latestAt": "2026-09-17T14:00:00.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-     "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+     "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+     "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-17T14:00:00.000Z",
+     "points": null,
+     "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling…"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-google-nvidia-google-nvidia-anthropic-want",
+   "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    },
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Involves multiple organisations",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-17T13:38:33.000Z",
+   "latestAt": "2026-09-17T13:38:33.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+     "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
      "publisher": "TechCrunch",
      "publisherDomain": "techcrunch.com",
      "kind": "coverage",
-     "date": "2026-09-16T21:07:24.000Z",
+     "date": "2026-09-17T13:38:33.000Z",
      "points": null,
-     "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and…"
+     "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers."
+    }
+   ]
+  },
+  {
+   "id": "hugging-face-open-source-safety-base-labs-launches-open",
+   "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "open-source",
+     "name": "Open Models",
+     "kind": "topic"
+    },
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    },
+    {
+     "id": "hugging-face",
+     "name": "Hugging Face",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Business",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-17T17:15:59.000Z",
+   "latestAt": "2026-09-17T17:15:59.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+     "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-17T17:15:59.000Z",
+     "points": null,
+     "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models."
+    }
+   ]
+  },
+  {
+   "id": "exclusive-fintech-offers-startups",
+   "title": "Exclusive: Fintech Offers Startups Alternative To Venture Debt With A New Model To Finance Customer Acquisition Costs",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.9,
+    "factors": [
+     {
+      "label": "Business",
+      "amount": 0.4
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-17T14:00:42.000Z",
+   "latestAt": "2026-09-17T14:00:42.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Exclusive: Fintech Offers Startups Alternative To Venture Debt With A New Model To Finance Customer Acquisition Costs",
+     "link": "https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-09-17T14:00:42.000Z",
+     "points": null,
+     "summary": "Newly launched Skalar provides startups with capital to fund sales and marketing initiatives in a fairly straightforward, though somewhat unusual model which lets the startups pay…"
     }
    ]
   },
@@ -1308,55 +1412,8 @@
    ]
   },
   {
-   "id": "training-model-produce-faster",
-   "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 2.7,
-    "factors": [
-     {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
-     },
-     {
-      "label": "594 points of reader attention",
-      "amount": 1
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-16T18:50:00.000Z",
-   "latestAt": "2026-09-16T18:50:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-     "link": "https://rohanbansal.com/qorl",
-     "publisher": "rohanbansal.com",
-     "publisherDomain": "rohanbansal.com",
-     "kind": "discussion",
-     "date": "2026-09-16T18:50:00.000Z",
-     "points": 594,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "snap-launching-specs-tool",
-   "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+   "id": "pinterest-teases-restyle-feature",
+   "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
    "category": {
     "id": "tools",
     "name": "Tools & Products"
@@ -1375,25 +1432,25 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "developing",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-16T23:40:00.000Z",
-   "latestAt": "2026-09-16T23:40:00.000Z",
+   "publishedAt": "2026-09-17T17:15:00.000Z",
+   "latestAt": "2026-09-17T17:15:00.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-     "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
+     "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+     "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
      "kind": "coverage",
-     "date": "2026-09-16T23:40:00.000Z",
+     "date": "2026-09-17T17:15:00.000Z",
      "points": null,
-     "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track…"
+     "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping…"
     }
    ]
   },
@@ -1441,8 +1498,8 @@
    ]
   },
   {
-   "id": "xiaomi-mimo-live-post",
-   "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+   "id": "built-inference-infrastructure",
+   "title": "How GLM built its own inference infrastructure",
    "category": {
     "id": "general",
     "name": "Developments"
@@ -1456,7 +1513,7 @@
       "amount": -0.8
      },
      {
-      "label": "474 points of reader attention",
+      "label": "269 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -1465,24 +1522,24 @@
     "level": "Unverified",
     "why": "Community discussion only, no reporting yet"
    },
-   "status": "developing",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-09-16T20:09:18.000Z",
-   "latestAt": "2026-09-16T20:09:18.000Z",
+   "publishedAt": "2026-09-17T08:27:09.000Z",
+   "latestAt": "2026-09-17T08:27:09.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-     "link": "https://mimo.xiaomi.com/rl/",
-     "publisher": "mimo.xiaomi.com",
-     "publisherDomain": "mimo.xiaomi.com",
+     "title": "How GLM built its own inference infrastructure",
+     "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+     "publisher": "z.ai",
+     "publisherDomain": "z.ai",
      "kind": "discussion",
-     "date": "2026-09-16T20:09:18.000Z",
-     "points": 474,
+     "date": "2026-09-17T08:27:09.000Z",
+     "points": 269,
      "summary": ""
     }
    ]

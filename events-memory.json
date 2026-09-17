@@ -1,29 +1,44 @@
 {
- "nvidia-nvidia-announces-native-programming": {
-  "id": "nvidia-nvidia-announces-native-programming",
-  "title": "Nvidia announces native GPU programming in Rust",
-  "firstSeen": "2026-09-17T07:30:59.933Z",
+ "openai-security-covert-uploads-megalomania-openai": {
+  "id": "openai-security-covert-uploads-megalomania-openai",
+  "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+  "firstSeen": "2026-09-17T18:06:53.816Z",
   "publishers": [
-   "developer.nvidia.com"
+   "Ars Technica AI",
+   "Wired AI"
   ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 5,
-  "confidence": "Confirmed",
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "importance": 4.2,
+  "confidence": "Highly likely",
   "category": "general"
  },
- "breaking-barrier-ternary-llms": {
-  "id": "breaking-barrier-ternary-llms",
-  "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-  "firstSeen": "2026-09-16T22:50:02.302Z",
+ "infinite-parameter-llms-generating": {
+  "id": "infinite-parameter-llms-generating",
+  "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+  "firstSeen": "2026-09-17T18:06:53.816Z",
   "publishers": [
    "arXiv"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "importance": 4.8,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "show-autobot-live-voice": {
+  "id": "show-autobot-live-voice",
+  "title": "Show HN: AutoBot – live voice control for long-running AI work",
+  "firstSeen": "2026-09-17T18:06:53.816Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
   "confidence": "Confirmed",
   "category": "general"
  },
@@ -223,34 +238,6 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "devfest-back": {
-  "id": "devfest-back",
-  "title": "DevFest is back",
-  "firstSeen": "2026-09-14T16:55:16.048Z",
-  "publishers": [
-   "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 3.5,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "openai-security-openai-agent-tried-jailbreak": {
-  "id": "openai-security-openai-agent-tried-jailbreak",
-  "title": "An OpenAI Agent Tried to Jailbreak Itself",
-  "firstSeen": "2026-09-17T13:19:49.500Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.1,
-  "confidence": "Developing",
-  "category": "security"
- },
  "washington-regulating-anytime-soon": {
   "id": "washington-regulating-anytime-soon",
   "title": "Washington Won’t Be Regulating AI Anytime Soon",
@@ -307,10 +294,24 @@
   "confidence": "Developing",
   "category": "policy"
  },
- "anthropic-openai-anthropic-openai-want-embed": {
-  "id": "anthropic-openai-anthropic-openai-want-embed",
-  "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-  "firstSeen": "2026-09-16T22:50:02.302Z",
+ "anthropic-microsoft-microsoft-says-threats-real": {
+  "id": "anthropic-microsoft-microsoft-says-threats-real",
+  "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+  "firstSeen": "2026-09-17T18:06:53.816Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.9,
+  "confidence": "Developing",
+  "category": "general"
+ },
+ "anthropic-google-nvidia-google-nvidia-anthropic-want": {
+  "id": "anthropic-google-nvidia-google-nvidia-anthropic-want",
+  "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+  "firstSeen": "2026-09-17T18:06:53.816Z",
   "publishers": [
    "TechCrunch"
   ],
@@ -320,6 +321,34 @@
   "importance": 2.9,
   "confidence": "Developing",
   "category": "general"
+ },
+ "hugging-face-open-source-safety-base-labs-launches-open": {
+  "id": "hugging-face-open-source-safety-base-labs-launches-open",
+  "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+  "firstSeen": "2026-09-17T18:06:53.816Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.9,
+  "confidence": "Developing",
+  "category": "business"
+ },
+ "exclusive-fintech-offers-startups": {
+  "id": "exclusive-fintech-offers-startups",
+  "title": "Exclusive: Fintech Offers Startups Alternative To Venture Debt With A New Model To Finance Customer Acquisition Costs",
+  "firstSeen": "2026-09-17T18:06:53.816Z",
+  "publishers": [
+   "Crunchbase News"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 2.9,
+  "confidence": "Developing",
+  "category": "business"
  },
  "funding-china-raises-revenue-target": {
   "id": "funding-china-raises-revenue-target",
@@ -363,26 +392,12 @@
   "confidence": "Developing",
   "category": "business"
  },
- "training-model-produce-faster": {
-  "id": "training-model-produce-faster",
-  "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-  "firstSeen": "2026-09-16T22:50:02.302Z",
+ "pinterest-teases-restyle-feature": {
+  "id": "pinterest-teases-restyle-feature",
+  "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+  "firstSeen": "2026-09-17T18:06:53.816Z",
   "publishers": [
-   "rohanbansal.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 2.7,
-  "confidence": "Unverified",
-  "category": "general"
- },
- "snap-launching-specs-tool": {
-  "id": "snap-launching-specs-tool",
-  "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-  "firstSeen": "2026-09-17T01:16:33.553Z",
-  "publishers": [
-   "The Verge"
+   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -405,12 +420,12 @@
   "confidence": "Developing",
   "category": "tools"
  },
- "xiaomi-mimo-live-post": {
-  "id": "xiaomi-mimo-live-post",
-  "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-  "firstSeen": "2026-09-17T07:30:59.933Z",
+ "built-inference-infrastructure": {
+  "id": "built-inference-infrastructure",
+  "title": "How GLM built its own inference infrastructure",
+  "firstSeen": "2026-09-17T18:06:53.816Z",
   "publishers": [
-   "mimo.xiaomi.com"
+   "z.ai"
   ],
   "sourceCount": 1,
   "independentCount": 0,
