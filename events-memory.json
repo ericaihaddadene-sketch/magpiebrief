@@ -1,31 +1,17 @@
 {
- "mistral-mistral-mozilla-private-multilingual": {
-  "id": "mistral-mistral-mozilla-private-multilingual",
-  "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+ "breaking-barrier-ternary-llms": {
+  "id": "breaking-barrier-ternary-llms",
+  "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
   "firstSeen": "2026-09-16T22:50:02.302Z",
   "publishers": [
-   "mistral.ai"
+   "arXiv"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "importance": 4.9,
+  "importance": 4.7,
   "confidence": "Confirmed",
   "category": "general"
- },
- "perplexity-gpt-perplexity-trusts-astra-with": {
-  "id": "perplexity-gpt-perplexity-trusts-astra-with",
-  "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-  "firstSeen": "2026-09-14T00:02:45.036Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4.9,
-  "confidence": "Confirmed",
-  "category": "models"
  },
  "apple-apple-reportedly-building-server": {
   "id": "apple-apple-reportedly-building-server",
@@ -56,12 +42,12 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "breaking-barrier-ternary-llms": {
-  "id": "breaking-barrier-ternary-llms",
-  "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+ "reverse-engineered-like-model": {
+  "id": "reverse-engineered-like-model",
+  "title": "Reverse-engineered Jev-like model",
   "firstSeen": "2026-09-16T22:50:02.302Z",
   "publishers": [
-   "arXiv"
+   "GitHub"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -76,20 +62,6 @@
   "firstSeen": "2026-09-16T19:59:05.967Z",
   "publishers": [
    "arXiv"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "reverse-engineered-like-model": {
-  "id": "reverse-engineered-like-model",
-  "title": "Reverse-engineered Jev-like model",
-  "firstSeen": "2026-09-16T22:50:02.302Z",
-  "publishers": [
-   "GitHub"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -118,20 +90,6 @@
   "firstSeen": "2026-09-16T16:40:43.407Z",
   "publishers": [
    "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "nvidia-nvidia-announces-native-programming": {
-  "id": "nvidia-nvidia-announces-native-programming",
-  "title": "Nvidia announces native GPU programming in Rust",
-  "firstSeen": "2026-09-16T22:50:02.302Z",
-  "publishers": [
-   "developer.nvidia.com"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -294,20 +252,6 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "fyxer-built-executive-assistant": {
-  "id": "fyxer-built-executive-assistant",
-  "title": "How Fyxer built an AI executive assistant people trust",
-  "firstSeen": "2026-09-14T16:55:16.048Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
  "anthropic-claude-anthropic-merges-claude-chat": {
   "id": "anthropic-claude-anthropic-merges-claude-chat",
   "title": "Anthropic merges Claude chat and Cowork in one interface",
@@ -377,6 +321,20 @@
   "importance": 3.5,
   "confidence": "Developing",
   "category": "policy"
+ },
+ "fyxer-built-executive-assistant": {
+  "id": "fyxer-built-executive-assistant",
+  "title": "How Fyxer built an AI executive assistant people trust",
+  "firstSeen": "2026-09-14T16:55:16.048Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 3.5,
+  "confidence": "Confirmed",
+  "category": "general"
  },
  "washington-regulating-anytime-soon": {
   "id": "washington-regulating-anytime-soon",
@@ -476,34 +434,6 @@
   "confidence": "Developing",
   "category": "business"
  },
- "nvidia-combinator-still-busiest-startup": {
-  "id": "nvidia-combinator-still-busiest-startup",
-  "title": "Y Combinator Still Busiest Startup Investor In August As Nvidia Ramps Up Its Dealmaking Pace",
-  "firstSeen": "2026-09-14T16:55:16.048Z",
-  "publishers": [
-   "Crunchbase News"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.9,
-  "confidence": "Developing",
-  "category": "business"
- },
- "finding-heterogeneous-agent-swarms": {
-  "id": "finding-heterogeneous-agent-swarms",
-  "title": "Finding heterogeneous agent swarms in the wild",
-  "firstSeen": "2026-09-16T22:50:02.302Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.8,
-  "confidence": "Developing",
-  "category": "research"
- },
  "chinese-researchers-chart-stage": {
   "id": "chinese-researchers-chart-stage",
   "title": "Chinese researchers chart 5-stage path toward ‘last AI built by humans’",
@@ -518,10 +448,10 @@
   "confidence": "Developing",
   "category": "research"
  },
- "sexy-powered-dating-scams": {
-  "id": "sexy-powered-dating-scams",
-  "title": "The sexy AI-powered dating app scams are here",
-  "firstSeen": "2026-09-16T16:40:43.407Z",
+ "snap-launching-specs-tool": {
+  "id": "snap-launching-specs-tool",
+  "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+  "firstSeen": "2026-09-17T01:16:33.553Z",
   "publishers": [
    "The Verge"
   ],
