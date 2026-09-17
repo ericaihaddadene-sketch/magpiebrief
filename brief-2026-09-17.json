@@ -1,9 +1,66 @@
 {
  "date": "2026-09-17",
- "generated": "2026-09-17T01:16:33.614Z",
- "headline": "35 developments today. The most significant is developments: Breaking the 1.58-bit Barrier for Ternary LLMs",
- "stats": "22 sources monitored · 2665 items read · 100 on-topic · 35 distinct developments · 18 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-17T07:31:00.008Z",
+ "headline": "33 developments today. The most significant is developments: Nvidia announces native GPU programming in Rust",
+ "stats": "22 sources monitored · 2665 items read · 98 on-topic · 33 distinct developments · 18 with a primary source · 1 independently corroborated",
  "events": [
+  {
+   "id": "nvidia-nvidia-announces-native-programming",
+   "title": "Nvidia announces native GPU programming in Rust",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 5,
+    "factors": [
+     {
+      "label": "Primary source (developer.nvidia.com)",
+      "amount": 1.5
+     },
+     {
+      "label": "576 points of reader attention",
+      "amount": 1
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-16T11:15:53.000Z",
+   "latestAt": "2026-09-16T11:15:53.000Z",
+   "primary": {
+    "publisher": "developer.nvidia.com",
+    "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "title": "Nvidia announces native GPU programming in Rust"
+   },
+   "sources": [
+    {
+     "title": "Nvidia announces native GPU programming in Rust",
+     "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+     "publisher": "developer.nvidia.com",
+     "publisherDomain": "developer.nvidia.com",
+     "kind": "primary",
+     "date": "2026-09-16T11:15:53.000Z",
+     "points": 576,
+     "summary": ""
+    }
+   ]
+  },
   {
    "id": "breaking-barrier-ternary-llms",
    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
@@ -13,15 +70,15 @@
    },
    "entities": [],
    "importance": {
-    "score": 4.7,
+    "score": 4.8,
     "factors": [
      {
       "label": "Primary source (arXiv)",
       "amount": 1.5
      },
      {
-      "label": "135 points of reader attention",
-      "amount": 0.7
+      "label": "190 points of reader attention",
+      "amount": 0.8
      }
     ]
    },
@@ -30,9 +87,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance rose 0.7 to 4.7."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -52,7 +107,60 @@
      "publisherDomain": "arxiv.org",
      "kind": "research",
      "date": "2026-09-16T20:59:24.000Z",
-     "points": 135,
+     "points": 190,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "reverse-engineered-like-model",
+   "title": "Reverse-engineered Jev-like model",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4.7,
+    "factors": [
+     {
+      "label": "Primary source (GitHub)",
+      "amount": 1.5
+     },
+     {
+      "label": "113 points of reader attention",
+      "amount": 0.7
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [
+    "Importance rose 0.7 to 4.7."
+   ],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-16T18:49:57.000Z",
+   "latestAt": "2026-09-16T18:49:57.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/vinnylarouge/jevlike",
+    "title": "Reverse-engineered Jev-like model"
+   },
+   "sources": [
+    {
+     "title": "Reverse-engineered Jev-like model",
+     "link": "https://github.com/vinnylarouge/jevlike",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-16T18:49:57.000Z",
+     "points": 113,
      "summary": ""
     }
    ]
@@ -117,55 +225,8 @@
    ]
   },
   {
-   "id": "good-frontier-models-physics",
-   "title": "How good are frontier models at physics?",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (arXiv)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T19:19:08.000Z",
-   "latestAt": "2026-09-16T19:19:08.000Z",
-   "primary": {
-    "publisher": "arXiv",
-    "link": "https://arxiv.org/abs/2609.13009",
-    "title": "How good are frontier models at physics?"
-   },
-   "sources": [
-    {
-     "title": "How good are frontier models at physics?",
-     "link": "https://arxiv.org/abs/2609.13009",
-     "publisher": "arXiv",
-     "publisherDomain": "arxiv.org",
-     "kind": "research",
-     "date": "2026-09-16T19:19:08.000Z",
-     "points": 79,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "reverse-engineered-like-model",
-   "title": "Reverse-engineered Jev-like model",
+   "id": "ultrafast-browser-agent-with",
+   "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
    "category": {
     "id": "general",
     "name": "Developments"
@@ -184,75 +245,28 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "confirmed",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-16T18:49:57.000Z",
-   "latestAt": "2026-09-16T18:49:57.000Z",
+   "publishedAt": "2026-09-17T03:12:05.000Z",
+   "latestAt": "2026-09-17T03:12:05.000Z",
    "primary": {
     "publisher": "GitHub",
-    "link": "https://github.com/vinnylarouge/jevlike",
-    "title": "Reverse-engineered Jev-like model"
+    "link": "https://github.com/browser-use/jev-ultrafast",
+    "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space"
    },
    "sources": [
     {
-     "title": "Reverse-engineered Jev-like model",
-     "link": "https://github.com/vinnylarouge/jevlike",
+     "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+     "link": "https://github.com/browser-use/jev-ultrafast",
      "publisher": "GitHub",
      "publisherDomain": "github.com",
      "kind": "primary",
-     "date": "2026-09-16T18:49:57.000Z",
-     "points": 71,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "accurate-models-matrix-cores",
-   "title": "Accurate Models of AMD Matrix Cores",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (arXiv)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T18:56:05.000Z",
-   "latestAt": "2026-09-16T18:56:05.000Z",
-   "primary": {
-    "publisher": "arXiv",
-    "link": "https://arxiv.org/abs/2609.14845",
-    "title": "Accurate Models of AMD Matrix Cores"
-   },
-   "sources": [
-    {
-     "title": "Accurate Models of AMD Matrix Cores",
-     "link": "https://arxiv.org/abs/2609.14845",
-     "publisher": "arXiv",
-     "publisherDomain": "arxiv.org",
-     "kind": "research",
-     "date": "2026-09-16T18:56:05.000Z",
-     "points": 59,
+     "date": "2026-09-17T03:12:05.000Z",
+     "points": 24,
      "summary": ""
     }
    ]
@@ -787,106 +801,6 @@
    ]
   },
   {
-   "id": "google-watch-astronaut-christina-koch",
-   "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (Google AI)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-14T19:00:00.000Z",
-   "latestAt": "2026-09-14T19:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery."
-   },
-   "sources": [
-    {
-     "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-     "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-09-14T19:00:00.000Z",
-     "points": null,
-     "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society."
-    }
-   ]
-  },
-  {
-   "id": "devfest-back",
-   "title": "DevFest is back",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (Google AI)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-14T16:00:00.000Z",
-   "latestAt": "2026-09-14T16:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-    "title": "DevFest is back"
-   },
-   "sources": [
-    {
-     "title": "DevFest is back",
-     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-09-14T16:00:00.000Z",
-     "points": null,
-     "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, icon"
-    }
-   ]
-  },
-  {
    "id": "anthropic-claude-anthropic-merges-claude-chat",
    "title": "Anthropic merges Claude chat and Cowork in one interface",
    "category": {
@@ -941,122 +855,6 @@
      "date": "2026-09-16T16:30:00.000Z",
      "points": null,
      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
-    }
-   ]
-  },
-  {
-   "id": "claude-gemini-claude-comes-gemini-with",
-   "title": "Claude comes for Gemini with its own take on Docs and Slides",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    },
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "importance": {
-    "score": 3.9,
-    "factors": [
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T16:30:00.000Z",
-   "latestAt": "2026-09-16T16:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Claude comes for Gemini with its own take on Docs and Slides",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-16T16:30:00.000Z",
-     "points": null,
-     "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export…"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-gpt-robots-waiting-chatgpt-moment",
-   "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    },
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 3.9,
-    "factors": [
-     {
-      "label": "New Models",
-      "amount": 0.8
-     },
-     {
-      "label": "Names a specific model",
-      "amount": 0.6
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T15:00:00.000Z",
-   "latestAt": "2026-09-16T15:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-     "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-16T15:00:00.000Z",
-     "points": null,
-     "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register…"
     }
    ]
   },
@@ -1172,6 +970,118 @@
    ]
   },
   {
+   "id": "google-watch-astronaut-christina-koch",
+   "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 3.5,
+    "factors": [
+     {
+      "label": "Primary source (Google AI)",
+      "amount": 1.5
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [
+    "Importance fell 0.5 to 3.5."
+   ],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-14T19:00:00.000Z",
+   "latestAt": "2026-09-14T19:00:00.000Z",
+   "primary": {
+    "publisher": "Google AI",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery."
+   },
+   "sources": [
+    {
+     "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+     "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-14T19:00:00.000Z",
+     "points": null,
+     "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society."
+    }
+   ]
+  },
+  {
+   "id": "devfest-back",
+   "title": "DevFest is back",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 3.5,
+    "factors": [
+     {
+      "label": "Primary source (Google AI)",
+      "amount": 1.5
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [
+    "Importance fell 0.5 to 3.5."
+   ],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-14T16:00:00.000Z",
+   "latestAt": "2026-09-14T16:00:00.000Z",
+   "primary": {
+    "publisher": "Google AI",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+    "title": "DevFest is back"
+   },
+   "sources": [
+    {
+     "title": "DevFest is back",
+     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-14T16:00:00.000Z",
+     "points": null,
+     "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, icon"
+    }
+   ]
+  },
+  {
    "id": "fyxer-built-executive-assistant",
    "title": "How Fyxer built an AI executive assistant people trust",
    "category": {
@@ -1197,9 +1107,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 3.5."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -1559,49 +1467,6 @@
    ]
   },
   {
-   "id": "chinese-researchers-chart-stage",
-   "title": "Chinese researchers chart 5-stage path toward ‘last AI built by humans’",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [],
-   "importance": {
-    "score": 2.8,
-    "factors": [
-     {
-      "label": "Research",
-      "amount": 0.3
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-14T13:30:06.000Z",
-   "latestAt": "2026-09-14T13:30:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Chinese researchers chart 5-stage path toward ‘last AI built by humans’",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3367486/chinese-researchers-chart-five-stage-path-toward-last-ai-built-humans?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-14T13:30:06.000Z",
-     "points": null,
-     "summary": "Researchers from China’s leading universities and tech giants are setting their sights on a crucial new front in the AI race with the US: developing systems…"
-    }
-   ]
-  },
-  {
    "id": "snap-launching-specs-tool",
    "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
    "category": {
@@ -1622,7 +1487,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1688,6 +1553,53 @@
    ]
   },
   {
+   "id": "xiaomi-mimo-live-post",
+   "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.6,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "403 points of reader attention",
+      "amount": 0.9
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-16T20:09:18.000Z",
+   "latestAt": "2026-09-16T20:09:18.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+     "link": "https://mimo.xiaomi.com/rl/",
+     "publisher": "mimo.xiaomi.com",
+     "publisherDomain": "mimo.xiaomi.com",
+     "kind": "discussion",
+     "date": "2026-09-16T20:09:18.000Z",
+     "points": 403,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "training-model-produce-faster",
    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
    "category": {
@@ -1703,7 +1615,7 @@
       "amount": -0.8
      },
      {
-      "label": "384 points of reader attention",
+      "label": "509 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -1729,7 +1641,7 @@
      "publisherDomain": "rohanbansal.com",
      "kind": "discussion",
      "date": "2026-09-16T18:50:00.000Z",
-     "points": 384,
+     "points": 509,
      "summary": ""
     }
    ]

@@ -1,10 +1,38 @@
 {
+ "nvidia-nvidia-announces-native-programming": {
+  "id": "nvidia-nvidia-announces-native-programming",
+  "title": "Nvidia announces native GPU programming in Rust",
+  "firstSeen": "2026-09-17T07:30:59.933Z",
+  "publishers": [
+   "developer.nvidia.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 5,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
  "breaking-barrier-ternary-llms": {
   "id": "breaking-barrier-ternary-llms",
   "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
   "firstSeen": "2026-09-16T22:50:02.302Z",
   "publishers": [
    "arXiv"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4.8,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "reverse-engineered-like-model": {
+  "id": "reverse-engineered-like-model",
+  "title": "Reverse-engineered Jev-like model",
+  "firstSeen": "2026-09-16T22:50:02.302Z",
+  "publishers": [
+   "GitHub"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -28,40 +56,12 @@
   "confidence": "Highly likely",
   "category": "general"
  },
- "good-frontier-models-physics": {
-  "id": "good-frontier-models-physics",
-  "title": "How good are frontier models at physics?",
-  "firstSeen": "2026-09-16T19:59:05.967Z",
-  "publishers": [
-   "arXiv"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "reverse-engineered-like-model": {
-  "id": "reverse-engineered-like-model",
-  "title": "Reverse-engineered Jev-like model",
-  "firstSeen": "2026-09-16T22:50:02.302Z",
+ "ultrafast-browser-agent-with": {
+  "id": "ultrafast-browser-agent-with",
+  "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+  "firstSeen": "2026-09-17T07:30:59.933Z",
   "publishers": [
    "GitHub"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "accurate-models-matrix-cores": {
-  "id": "accurate-models-matrix-cores",
-  "title": "Accurate Models of AMD Matrix Cores",
-  "firstSeen": "2026-09-16T19:59:05.967Z",
-  "publishers": [
-   "arXiv"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -224,66 +224,10 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "google-watch-astronaut-christina-koch": {
-  "id": "google-watch-astronaut-christina-koch",
-  "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-  "firstSeen": "2026-09-14T20:51:58.792Z",
-  "publishers": [
-   "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "devfest-back": {
-  "id": "devfest-back",
-  "title": "DevFest is back",
-  "firstSeen": "2026-09-14T16:55:16.048Z",
-  "publishers": [
-   "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
  "anthropic-claude-anthropic-merges-claude-chat": {
   "id": "anthropic-claude-anthropic-merges-claude-chat",
   "title": "Anthropic merges Claude chat and Cowork in one interface",
   "firstSeen": "2026-09-16T22:50:02.302Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.9,
-  "confidence": "Developing",
-  "category": "models"
- },
- "claude-gemini-claude-comes-gemini-with": {
-  "id": "claude-gemini-claude-comes-gemini-with",
-  "title": "Claude comes for Gemini with its own take on Docs and Slides",
-  "firstSeen": "2026-09-16T16:40:43.407Z",
-  "publishers": [
-   "The Verge"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.9,
-  "confidence": "Developing",
-  "category": "models"
- },
- "nvidia-gpt-robots-waiting-chatgpt-moment": {
-  "id": "nvidia-gpt-robots-waiting-chatgpt-moment",
-  "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-  "firstSeen": "2026-09-16T16:40:43.407Z",
   "publishers": [
    "TechCrunch"
   ],
@@ -321,6 +265,34 @@
   "importance": 3.5,
   "confidence": "Developing",
   "category": "policy"
+ },
+ "google-watch-astronaut-christina-koch": {
+  "id": "google-watch-astronaut-christina-koch",
+  "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+  "firstSeen": "2026-09-14T20:51:58.792Z",
+  "publishers": [
+   "Google AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 3.5,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "devfest-back": {
+  "id": "devfest-back",
+  "title": "DevFest is back",
+  "firstSeen": "2026-09-14T16:55:16.048Z",
+  "publishers": [
+   "Google AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 3.5,
+  "confidence": "Confirmed",
+  "category": "general"
  },
  "fyxer-built-executive-assistant": {
   "id": "fyxer-built-executive-assistant",
@@ -434,20 +406,6 @@
   "confidence": "Developing",
   "category": "business"
  },
- "chinese-researchers-chart-stage": {
-  "id": "chinese-researchers-chart-stage",
-  "title": "Chinese researchers chart 5-stage path toward ‘last AI built by humans’",
-  "firstSeen": "2026-09-14T16:55:16.048Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.8,
-  "confidence": "Developing",
-  "category": "research"
- },
  "snap-launching-specs-tool": {
   "id": "snap-launching-specs-tool",
   "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
@@ -475,6 +433,20 @@
   "importance": 2.7,
   "confidence": "Developing",
   "category": "tools"
+ },
+ "xiaomi-mimo-live-post": {
+  "id": "xiaomi-mimo-live-post",
+  "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+  "firstSeen": "2026-09-17T07:30:59.933Z",
+  "publishers": [
+   "mimo.xiaomi.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 2.6,
+  "confidence": "Unverified",
+  "category": "general"
  },
  "training-model-produce-faster": {
   "id": "training-model-produce-faster",
