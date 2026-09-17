@@ -1,8 +1,8 @@
 {
  "date": "2026-09-17",
- "generated": "2026-09-17T18:06:53.877Z",
- "headline": "31 developments today. The most significant is developments: Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
- "stats": "22 sources monitored · 2673 items read · 88 on-topic · 31 distinct developments · 14 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-17T21:17:36.835Z",
+ "headline": "34 developments today. The most significant is developments: Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+ "stats": "22 sources monitored · 2674 items read · 87 on-topic · 34 distinct developments · 15 with a primary source · 2 independently corroborated",
  "events": [
   {
    "id": "openai-security-covert-uploads-megalomania-openai",
@@ -69,6 +69,70 @@
    ]
   },
   {
+   "id": "google-agents-google-announces-experimental-agent",
+   "title": "Google announces new experimental \"CC\" AI agent for families",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 4.2,
+    "factors": [
+     {
+      "label": "2 independent outlets",
+      "amount": 1.7
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Highly likely",
+    "why": "Two independent outlets"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-17T20:00:00.000Z",
+   "latestAt": "2026-09-17T20:24:34.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google announces new experimental \"CC\" AI agent for families",
+     "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-17T20:24:34.000Z",
+     "points": null,
+     "summary": "Multiple family members can share data to help the agent make plans and complete tasks."
+    },
+    {
+     "title": "UN turns to Google to make its global data ready for AI agents",
+     "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-17T20:00:00.000Z",
+     "points": null,
+     "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics."
+    }
+   ]
+  },
+  {
    "id": "infinite-parameter-llms-generating",
    "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
    "category": {
@@ -89,7 +153,7 @@
     "level": "Confirmed",
     "why": "Reported by the primary source"
    },
-   "status": "emerging",
+   "status": "confirmed",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -110,14 +174,14 @@
      "publisherDomain": "arxiv.org",
      "kind": "research",
      "date": "2026-09-17T16:55:14.000Z",
-     "points": 6,
+     "points": 70,
      "summary": ""
     }
    ]
   },
   {
-   "id": "show-autobot-live-voice",
-   "title": "Show HN: AutoBot – live voice control for long-running AI work",
+   "id": "making-global-data-easier",
+   "title": "Making global data easier to explore",
    "category": {
     "id": "general",
     "name": "Developments"
@@ -127,7 +191,7 @@
     "score": 4,
     "factors": [
      {
-      "label": "Primary source (GitHub)",
+      "label": "Primary source (Google AI)",
       "amount": 1.5
      }
     ]
@@ -142,23 +206,117 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-17T16:54:57.000Z",
-   "latestAt": "2026-09-17T16:54:57.000Z",
+   "publishedAt": "2026-09-17T20:00:00.000Z",
+   "latestAt": "2026-09-17T20:00:00.000Z",
    "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/demeyer1/Autobot",
-    "title": "Show HN: AutoBot – live voice control for long-running AI work"
+    "publisher": "Google AI",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+    "title": "Making global data easier to explore"
    },
    "sources": [
     {
-     "title": "Show HN: AutoBot – live voice control for long-running AI work",
-     "link": "https://github.com/demeyer1/Autobot",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
+     "title": "Making global data easier to explore",
+     "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
      "kind": "primary",
-     "date": "2026-09-17T16:54:57.000Z",
-     "points": 6,
+     "date": "2026-09-17T20:00:00.000Z",
+     "points": null,
+     "summary": "UN System Data Commons Data webpage"
+    }
+   ]
+  },
+  {
+   "id": "future-practice-enabling-teachers",
+   "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (Google Research)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-17T20:45:00.000Z",
+   "latestAt": "2026-09-17T20:45:00.000Z",
+   "primary": {
+    "publisher": "Google Research",
+    "link": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+    "title": "The future of practice: Enabling teachers to create learning interactives with generative UI"
+   },
+   "sources": [
+    {
+     "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+     "link": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+     "publisher": "Google Research",
+     "publisherDomain": "research.google",
+     "kind": "primary",
+     "date": "2026-09-17T20:45:00.000Z",
+     "points": null,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "introducing-astra",
+   "title": "Introducing Astra for Law",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 4,
+    "factors": [
+     {
+      "label": "Primary source (OpenAI)",
+      "amount": 1.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Confirmed",
+    "why": "Reported by the primary source"
+   },
+   "status": "confirmed",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-17T00:00:00.000Z",
+   "latestAt": "2026-09-17T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/astra-for-law",
+    "title": "Introducing Astra for Law"
+   },
+   "sources": [
+    {
+     "title": "Introducing Astra for Law",
+     "link": "https://openai.com/index/astra-for-law",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-17T00:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
     }
    ]
   },
@@ -692,6 +850,64 @@
    ]
   },
   {
+   "id": "claude-agents-claude-code-relaunches-projects",
+   "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "importance": {
+    "score": 3.9,
+    "factors": [
+     {
+      "label": "New Models",
+      "amount": 0.8
+     },
+     {
+      "label": "Names a specific model",
+      "amount": 0.6
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "emerging",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-17T18:58:05.000Z",
+   "latestAt": "2026-09-17T18:58:05.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-17T18:58:05.000Z",
+     "points": null,
+     "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files…"
+    }
+   ]
+  },
+  {
    "id": "claude-claude-cowork-chat-claude",
    "title": "Claude Cowork and chat are now one Claude",
    "category": {
@@ -798,59 +1014,45 @@
    ]
   },
   {
-   "id": "google-watch-astronaut-christina-koch",
-   "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+   "id": "slowdown-antitrust-mess",
+   "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
    "category": {
-    "id": "general",
-    "name": "Developments"
+    "id": "policy",
+    "name": "Policy & Regulation"
    },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
+   "entities": [],
    "importance": {
-    "score": 3.5,
+    "score": 3.1,
     "factors": [
      {
-      "label": "Primary source (Google AI)",
-      "amount": 1.5
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
+      "label": "Policy & Regulation",
+      "amount": 0.6
      }
     ]
    },
    "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
+    "level": "Developing",
+    "why": "A single outlet so far"
    },
-   "status": "confirmed",
+   "status": "emerging",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-14T19:00:00.000Z",
-   "latestAt": "2026-09-14T19:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery."
-   },
+   "publishedAt": "2026-09-17T19:58:28.000Z",
+   "latestAt": "2026-09-17T19:58:28.000Z",
+   "primary": null,
    "sources": [
     {
-     "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-     "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-09-14T19:00:00.000Z",
+     "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
+     "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-17T19:58:28.000Z",
      "points": null,
-     "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society."
+     "summary": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of…"
     }
    ]
   },
@@ -984,68 +1186,6 @@
    ]
   },
   {
-   "id": "openai-apple-openai-stuck-fighting-musk",
-   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    },
-    {
-     "id": "apple",
-     "name": "Apple",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 3,
-    "factors": [
-     {
-      "label": "Policy & Regulation",
-      "amount": 0.6
-     },
-     {
-      "label": "Involves multiple organisations",
-      "amount": 0.4
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-14T19:45:13.000Z",
-   "latestAt": "2026-09-14T19:45:13.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-     "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-14T19:45:13.000Z",
-     "points": null,
-     "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI."
-    }
-   ]
-  },
-  {
    "id": "anthropic-microsoft-microsoft-says-threats-real",
    "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
    "category": {
@@ -1077,7 +1217,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1136,7 +1276,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1195,7 +1335,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1238,7 +1378,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1432,7 +1572,7 @@
     "level": "Developing",
     "why": "A single outlet so far"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1513,7 +1653,7 @@
       "amount": -0.8
      },
      {
-      "label": "269 points of reader attention",
+      "label": "331 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -1522,7 +1662,7 @@
     "level": "Unverified",
     "why": "Community discussion only, no reporting yet"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1539,7 +1679,7 @@
      "publisherDomain": "z.ai",
      "kind": "discussion",
      "date": "2026-09-17T08:27:09.000Z",
-     "points": 269,
+     "points": 331,
      "summary": ""
     }
    ]

@@ -14,6 +14,21 @@
   "confidence": "Highly likely",
   "category": "general"
  },
+ "google-agents-google-announces-experimental-agent": {
+  "id": "google-agents-google-announces-experimental-agent",
+  "title": "Google announces new experimental \"CC\" AI agent for families",
+  "firstSeen": "2026-09-17T21:17:36.772Z",
+  "publishers": [
+   "Ars Technica AI",
+   "TechCrunch"
+  ],
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "importance": 4.2,
+  "confidence": "Highly likely",
+  "category": "general"
+ },
  "infinite-parameter-llms-generating": {
   "id": "infinite-parameter-llms-generating",
   "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
@@ -28,12 +43,40 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "show-autobot-live-voice": {
-  "id": "show-autobot-live-voice",
-  "title": "Show HN: AutoBot – live voice control for long-running AI work",
-  "firstSeen": "2026-09-17T18:06:53.816Z",
+ "making-global-data-easier": {
+  "id": "making-global-data-easier",
+  "title": "Making global data easier to explore",
+  "firstSeen": "2026-09-17T21:17:36.772Z",
   "publishers": [
-   "GitHub"
+   "Google AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "future-practice-enabling-teachers": {
+  "id": "future-practice-enabling-teachers",
+  "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+  "firstSeen": "2026-09-17T21:17:36.772Z",
+  "publishers": [
+   "Google Research"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "introducing-astra": {
+  "id": "introducing-astra",
+  "title": "Introducing Astra for Law",
+  "firstSeen": "2026-09-17T21:17:36.772Z",
+  "publishers": [
+   "OpenAI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -196,6 +239,20 @@
   "confidence": "Confirmed",
   "category": "general"
  },
+ "claude-agents-claude-code-relaunches-projects": {
+  "id": "claude-agents-claude-code-relaunches-projects",
+  "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+  "firstSeen": "2026-09-17T21:17:36.772Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3.9,
+  "confidence": "Developing",
+  "category": "models"
+ },
  "claude-claude-cowork-chat-claude": {
   "id": "claude-claude-cowork-chat-claude",
   "title": "Claude Cowork and chat are now one Claude",
@@ -224,19 +281,19 @@
   "confidence": "Developing",
   "category": "models"
  },
- "google-watch-astronaut-christina-koch": {
-  "id": "google-watch-astronaut-christina-koch",
-  "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-  "firstSeen": "2026-09-14T20:51:58.792Z",
+ "slowdown-antitrust-mess": {
+  "id": "slowdown-antitrust-mess",
+  "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
+  "firstSeen": "2026-09-17T21:17:36.772Z",
   "publishers": [
-   "Google AI"
+   "Wired AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 3.5,
-  "confidence": "Confirmed",
-  "category": "general"
+  "hadPrimary": false,
+  "importance": 3.1,
+  "confidence": "Developing",
+  "category": "policy"
  },
  "washington-regulating-anytime-soon": {
   "id": "washington-regulating-anytime-soon",
@@ -279,20 +336,6 @@
   "importance": 3.1,
   "confidence": "Developing",
   "category": "security"
- },
- "openai-apple-openai-stuck-fighting-musk": {
-  "id": "openai-apple-openai-stuck-fighting-musk",
-  "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-  "firstSeen": "2026-09-14T20:51:58.792Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3,
-  "confidence": "Developing",
-  "category": "policy"
  },
  "anthropic-microsoft-microsoft-says-threats-real": {
   "id": "anthropic-microsoft-microsoft-says-threats-real",
