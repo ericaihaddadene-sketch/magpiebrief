@@ -27,49 +27,6 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "reverse-engineered-like-model": {
-  "id": "reverse-engineered-like-model",
-  "title": "Reverse-engineered Jev-like model",
-  "firstSeen": "2026-09-16T22:50:02.302Z",
-  "publishers": [
-   "GitHub"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4.7,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "apple-apple-reportedly-building-server": {
-  "id": "apple-apple-reportedly-building-server",
-  "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-  "firstSeen": "2026-09-16T22:50:02.302Z",
-  "publishers": [
-   "Ars Technica AI",
-   "The Verge"
-  ],
-  "sourceCount": 2,
-  "independentCount": 2,
-  "hadPrimary": false,
-  "importance": 4.2,
-  "confidence": "Highly likely",
-  "category": "general"
- },
- "ultrafast-browser-agent-with": {
-  "id": "ultrafast-browser-agent-with",
-  "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
-  "firstSeen": "2026-09-17T07:30:59.933Z",
-  "publishers": [
-   "GitHub"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
  "framework-reporting-model-misalignment": {
   "id": "framework-reporting-model-misalignment",
   "title": "Our framework for reporting model misalignment",
@@ -224,12 +181,12 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "anthropic-claude-anthropic-merges-claude-chat": {
-  "id": "anthropic-claude-anthropic-merges-claude-chat",
-  "title": "Anthropic merges Claude chat and Cowork in one interface",
-  "firstSeen": "2026-09-16T22:50:02.302Z",
+ "claude-claude-cowork-chat-claude": {
+  "id": "claude-claude-cowork-chat-claude",
+  "title": "Claude Cowork and chat are now one Claude",
+  "firstSeen": "2026-09-17T13:19:49.500Z",
   "publishers": [
-   "TechCrunch"
+   "Simon Willison"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -251,20 +208,6 @@
   "importance": 3.9,
   "confidence": "Developing",
   "category": "models"
- },
- "openai-apple-openai-stuck-fighting-musk": {
-  "id": "openai-apple-openai-stuck-fighting-musk",
-  "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-  "firstSeen": "2026-09-14T20:51:58.792Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 3.5,
-  "confidence": "Developing",
-  "category": "policy"
  },
  "google-watch-astronaut-christina-koch": {
   "id": "google-watch-astronaut-christina-koch",
@@ -294,19 +237,19 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "fyxer-built-executive-assistant": {
-  "id": "fyxer-built-executive-assistant",
-  "title": "How Fyxer built an AI executive assistant people trust",
-  "firstSeen": "2026-09-14T16:55:16.048Z",
+ "openai-security-openai-agent-tried-jailbreak": {
+  "id": "openai-security-openai-agent-tried-jailbreak",
+  "title": "An OpenAI Agent Tried to Jailbreak Itself",
+  "firstSeen": "2026-09-17T13:19:49.500Z",
   "publishers": [
-   "OpenAI"
+   "Wired AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 3.5,
-  "confidence": "Confirmed",
-  "category": "general"
+  "hadPrimary": false,
+  "importance": 3.1,
+  "confidence": "Developing",
+  "category": "security"
  },
  "washington-regulating-anytime-soon": {
   "id": "washington-regulating-anytime-soon",
@@ -349,6 +292,20 @@
   "importance": 3.1,
   "confidence": "Developing",
   "category": "security"
+ },
+ "openai-apple-openai-stuck-fighting-musk": {
+  "id": "openai-apple-openai-stuck-fighting-musk",
+  "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+  "firstSeen": "2026-09-14T20:51:58.792Z",
+  "publishers": [
+   "Ars Technica AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "importance": 3,
+  "confidence": "Developing",
+  "category": "policy"
  },
  "anthropic-openai-anthropic-openai-want-embed": {
   "id": "anthropic-openai-anthropic-openai-want-embed",
@@ -406,6 +363,20 @@
   "confidence": "Developing",
   "category": "business"
  },
+ "training-model-produce-faster": {
+  "id": "training-model-produce-faster",
+  "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+  "firstSeen": "2026-09-16T22:50:02.302Z",
+  "publishers": [
+   "rohanbansal.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 2.7,
+  "confidence": "Unverified",
+  "category": "general"
+ },
  "snap-launching-specs-tool": {
   "id": "snap-launching-specs-tool",
   "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
@@ -440,20 +411,6 @@
   "firstSeen": "2026-09-17T07:30:59.933Z",
   "publishers": [
    "mimo.xiaomi.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "importance": 2.6,
-  "confidence": "Unverified",
-  "category": "general"
- },
- "training-model-produce-faster": {
-  "id": "training-model-produce-faster",
-  "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-  "firstSeen": "2026-09-16T22:50:02.302Z",
-  "publishers": [
-   "rohanbansal.com"
   ],
   "sourceCount": 1,
   "independentCount": 0,

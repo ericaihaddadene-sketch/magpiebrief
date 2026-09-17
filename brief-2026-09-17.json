@@ -1,8 +1,8 @@
 {
  "date": "2026-09-17",
- "generated": "2026-09-17T07:31:00.008Z",
- "headline": "33 developments today. The most significant is developments: Nvidia announces native GPU programming in Rust",
- "stats": "22 sources monitored · 2665 items read · 98 on-topic · 33 distinct developments · 18 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-17T13:19:49.576Z",
+ "headline": "30 developments today. The most significant is developments: Nvidia announces native GPU programming in Rust",
+ "stats": "22 sources monitored · 2673 items read · 92 on-topic · 30 distinct developments · 15 with a primary source · 0 independently corroborated",
  "events": [
   {
    "id": "nvidia-nvidia-announces-native-programming",
@@ -26,7 +26,7 @@
       "amount": 1.5
      },
      {
-      "label": "576 points of reader attention",
+      "label": "776 points of reader attention",
       "amount": 1
      }
     ]
@@ -56,7 +56,7 @@
      "publisherDomain": "developer.nvidia.com",
      "kind": "primary",
      "date": "2026-09-16T11:15:53.000Z",
-     "points": 576,
+     "points": 776,
      "summary": ""
     }
    ]
@@ -77,7 +77,7 @@
       "amount": 1.5
      },
      {
-      "label": "190 points of reader attention",
+      "label": "218 points of reader attention",
       "amount": 0.8
      }
     ]
@@ -107,166 +107,7 @@
      "publisherDomain": "arxiv.org",
      "kind": "research",
      "date": "2026-09-16T20:59:24.000Z",
-     "points": 190,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "reverse-engineered-like-model",
-   "title": "Reverse-engineered Jev-like model",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4.7,
-    "factors": [
-     {
-      "label": "Primary source (GitHub)",
-      "amount": 1.5
-     },
-     {
-      "label": "113 points of reader attention",
-      "amount": 0.7
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "confirmed",
-   "deltas": [
-    "Importance rose 0.7 to 4.7."
-   ],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T18:49:57.000Z",
-   "latestAt": "2026-09-16T18:49:57.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/vinnylarouge/jevlike",
-    "title": "Reverse-engineered Jev-like model"
-   },
-   "sources": [
-    {
-     "title": "Reverse-engineered Jev-like model",
-     "link": "https://github.com/vinnylarouge/jevlike",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-09-16T18:49:57.000Z",
-     "points": 113,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "apple-apple-reportedly-building-server",
-   "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [
-    {
-     "id": "apple",
-     "name": "Apple",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 4.2,
-    "factors": [
-     {
-      "label": "2 independent outlets",
-      "amount": 1.7
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Highly likely",
-    "why": "Two independent outlets"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-16T17:20:29.000Z",
-   "latestAt": "2026-09-16T22:02:46.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-     "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-16T22:02:46.000Z",
-     "points": null,
-     "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades."
-    },
-    {
-     "title": "Apple might make servers again to cash in on the AI rush",
-     "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-16T17:20:29.000Z",
-     "points": null,
-     "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple…"
-    }
-   ]
-  },
-  {
-   "id": "ultrafast-browser-agent-with",
-   "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 4,
-    "factors": [
-     {
-      "label": "Primary source (GitHub)",
-      "amount": 1.5
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
-   },
-   "status": "emerging",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-17T03:12:05.000Z",
-   "latestAt": "2026-09-17T03:12:05.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/browser-use/jev-ultrafast",
-    "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space"
-   },
-   "sources": [
-    {
-     "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
-     "link": "https://github.com/browser-use/jev-ultrafast",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-09-17T03:12:05.000Z",
-     "points": 24,
+     "points": 218,
      "summary": ""
     }
    ]
@@ -801,18 +642,13 @@
    ]
   },
   {
-   "id": "anthropic-claude-anthropic-merges-claude-chat",
-   "title": "Anthropic merges Claude chat and Cowork in one interface",
+   "id": "claude-claude-cowork-chat-claude",
+   "title": "Claude Cowork and chat are now one Claude",
    "category": {
     "id": "models",
     "name": "New Models"
    },
    "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    },
     {
      "id": "claude",
      "name": "Claude",
@@ -842,19 +678,19 @@
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-16T16:30:00.000Z",
-   "latestAt": "2026-09-16T16:30:00.000Z",
+   "publishedAt": "2026-09-16T18:09:49.000Z",
+   "latestAt": "2026-09-16T18:09:49.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Anthropic merges Claude chat and Cowork in one interface",
-     "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
+     "title": "Claude Cowork and chat are now one Claude",
+     "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
      "kind": "coverage",
-     "date": "2026-09-16T16:30:00.000Z",
+     "date": "2026-09-16T18:09:49.000Z",
      "points": null,
-     "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
+     "summary": ""
     }
    ]
   },
@@ -912,64 +748,6 @@
    ]
   },
   {
-   "id": "openai-apple-openai-stuck-fighting-musk",
-   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    },
-    {
-     "id": "apple",
-     "name": "Apple",
-     "kind": "org"
-    }
-   ],
-   "importance": {
-    "score": 3.5,
-    "factors": [
-     {
-      "label": "Policy & Regulation",
-      "amount": 0.6
-     },
-     {
-      "label": "Involves multiple organisations",
-      "amount": 0.4
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Developing",
-    "why": "A single outlet so far"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-14T19:45:13.000Z",
-   "latestAt": "2026-09-14T19:45:13.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-     "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-14T19:45:13.000Z",
-     "points": null,
-     "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI."
-    }
-   ]
-  },
-  {
    "id": "google-watch-astronaut-christina-koch",
    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
    "category": {
@@ -1001,9 +779,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 3.5."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -1054,9 +830,7 @@
     "why": "Reported by the primary source"
    },
    "status": "confirmed",
-   "deltas": [
-    "Importance fell 0.5 to 3.5."
-   ],
+   "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
@@ -1082,53 +856,56 @@
    ]
   },
   {
-   "id": "fyxer-built-executive-assistant",
-   "title": "How Fyxer built an AI executive assistant people trust",
+   "id": "openai-security-openai-agent-tried-jailbreak",
+   "title": "An OpenAI Agent Tried to Jailbreak Itself",
    "category": {
-    "id": "general",
-    "name": "Developments"
+    "id": "security",
+    "name": "Security"
    },
-   "entities": [],
+   "entities": [
+    {
+     "id": "security",
+     "name": "AI Security",
+     "kind": "topic"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
    "importance": {
-    "score": 3.5,
+    "score": 3.1,
     "factors": [
      {
-      "label": "Primary source (OpenAI)",
-      "amount": 1.5
-     },
-     {
-      "label": "Several days old",
-      "amount": -0.5
+      "label": "Security",
+      "amount": 0.6
      }
     ]
    },
    "confidence": {
-    "level": "Confirmed",
-    "why": "Reported by the primary source"
+    "level": "Developing",
+    "why": "A single outlet so far"
    },
-   "status": "confirmed",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-14T12:00:00.000Z",
-   "latestAt": "2026-09-14T12:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/fyxer",
-    "title": "How Fyxer built an AI executive assistant people trust"
-   },
+   "publishedAt": "2026-09-16T22:07:24.000Z",
+   "latestAt": "2026-09-16T22:07:24.000Z",
+   "primary": null,
    "sources": [
     {
-     "title": "How Fyxer built an AI executive assistant people trust",
-     "link": "https://openai.com/index/fyxer",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-14T12:00:00.000Z",
+     "title": "An OpenAI Agent Tried to Jailbreak Itself",
+     "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-16T22:07:24.000Z",
      "points": null,
-     "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
+     "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked."
     }
    ]
   },
@@ -1258,6 +1035,70 @@
      "date": "2026-09-15T21:50:08.000Z",
      "points": null,
      "summary": "It would be useful if we had the ability to modify a model’s beliefs. For example, this could facilitate honeypots and better monitoring [1] , help…"
+    }
+   ]
+  },
+  {
+   "id": "openai-apple-openai-stuck-fighting-musk",
+   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    },
+    {
+     "id": "apple",
+     "name": "Apple",
+     "kind": "org"
+    }
+   ],
+   "importance": {
+    "score": 3,
+    "factors": [
+     {
+      "label": "Policy & Regulation",
+      "amount": 0.6
+     },
+     {
+      "label": "Involves multiple organisations",
+      "amount": 0.4
+     },
+     {
+      "label": "Several days old",
+      "amount": -0.5
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Developing",
+    "why": "A single outlet so far"
+   },
+   "status": "developing",
+   "deltas": [
+    "Importance fell 0.5 to 3."
+   ],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-14T19:45:13.000Z",
+   "latestAt": "2026-09-14T19:45:13.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+     "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-14T19:45:13.000Z",
+     "points": null,
+     "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI."
     }
    ]
   },
@@ -1467,6 +1308,53 @@
    ]
   },
   {
+   "id": "training-model-produce-faster",
+   "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+   "category": {
+    "id": "general",
+    "name": "Developments"
+   },
+   "entities": [],
+   "importance": {
+    "score": 2.7,
+    "factors": [
+     {
+      "label": "Discussion only, no reporting",
+      "amount": -0.8
+     },
+     {
+      "label": "594 points of reader attention",
+      "amount": 1
+     }
+    ]
+   },
+   "confidence": {
+    "level": "Unverified",
+    "why": "Community discussion only, no reporting yet"
+   },
+   "status": "developing",
+   "deltas": [],
+   "whatChanged": "",
+   "whyItMatters": "",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-16T18:50:00.000Z",
+   "latestAt": "2026-09-16T18:50:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+     "link": "https://rohanbansal.com/qorl",
+     "publisher": "rohanbansal.com",
+     "publisherDomain": "rohanbansal.com",
+     "kind": "discussion",
+     "date": "2026-09-16T18:50:00.000Z",
+     "points": 594,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "snap-launching-specs-tool",
    "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
    "category": {
@@ -1568,7 +1456,7 @@
       "amount": -0.8
      },
      {
-      "label": "403 points of reader attention",
+      "label": "474 points of reader attention",
       "amount": 0.9
      }
     ]
@@ -1577,7 +1465,7 @@
     "level": "Unverified",
     "why": "Community discussion only, no reporting yet"
    },
-   "status": "emerging",
+   "status": "developing",
    "deltas": [],
    "whatChanged": "",
    "whyItMatters": "",
@@ -1594,54 +1482,7 @@
      "publisherDomain": "mimo.xiaomi.com",
      "kind": "discussion",
      "date": "2026-09-16T20:09:18.000Z",
-     "points": 403,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "training-model-produce-faster",
-   "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-   "category": {
-    "id": "general",
-    "name": "Developments"
-   },
-   "entities": [],
-   "importance": {
-    "score": 2.6,
-    "factors": [
-     {
-      "label": "Discussion only, no reporting",
-      "amount": -0.8
-     },
-     {
-      "label": "509 points of reader attention",
-      "amount": 0.9
-     }
-    ]
-   },
-   "confidence": {
-    "level": "Unverified",
-    "why": "Community discussion only, no reporting yet"
-   },
-   "status": "developing",
-   "deltas": [],
-   "whatChanged": "",
-   "whyItMatters": "",
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-16T18:50:00.000Z",
-   "latestAt": "2026-09-16T18:50:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-     "link": "https://rohanbansal.com/qorl",
-     "publisher": "rohanbansal.com",
-     "publisherDomain": "rohanbansal.com",
-     "kind": "discussion",
-     "date": "2026-09-16T18:50:00.000Z",
-     "points": 509,
+     "points": 474,
      "summary": ""
     }
    ]
