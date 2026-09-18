@@ -4,28 +4,65 @@
   "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
   "firstSeen": "2026-09-18T14:19:47.334Z",
   "publishers": [
+   "TechCrunch",
+   "SCMP Tech"
+  ],
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "category": "research"
+ },
+ "google-agents-google-agent-that-helps": {
+  "id": "google-agents-google-agent-that-helps",
+  "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
    "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "research"
+  "category": "general"
  },
- "anthropic-openai-chinese-models-make-openai": {
-  "id": "anthropic-openai-chinese-models-make-openai",
-  "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
+ "military-close-call-after": {
+  "id": "military-close-call-after",
+  "title": "US Military had close call after using AI for hallucinated intelligence report",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
   "publishers": [
-   "SCMP Tech"
+   "cnn.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "agents-grasslobster-agentic-generation-parametric": {
+  "id": "agents-grasslobster-agentic-generation-parametric",
+  "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "miro.vision"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "government-website-used-chinese": {
+  "id": "government-website-used-chinese",
+  "title": "US government website used Chinese model the FBI called \"malicious\"",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "Ars Technica AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "business"
+  "category": "general"
  },
  "coding-agents-empirical-study-harness-design": {
   "id": "coding-agents-empirical-study-harness-design",
-  "title": "An Empirical Study of Harness Design for Coding Agents",
+  "title": "An empirical study of harness design for coding agents",
   "firstSeen": "2026-09-18T14:19:47.334Z",
   "publishers": [
    "arXiv"
@@ -35,12 +72,12 @@
   "hadPrimary": true,
   "category": "research"
  },
- "coding-agents-zcode-coding-agent-silently": {
-  "id": "coding-agents-zcode-coding-agent-silently",
-  "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+ "chatbots-becoming-experts-changing": {
+  "id": "chatbots-becoming-experts-changing",
+  "title": "AI chatbots are becoming experts at changing people's minds",
   "firstSeen": "2026-09-18T14:19:47.334Z",
   "publishers": [
-   "tokenstead.ai"
+   "Science"
   ],
   "sourceCount": 1,
   "independentCount": 0,
@@ -59,27 +96,75 @@
   "hadPrimary": true,
   "category": "general"
  },
- "microsoft-microsoft-exec-called-scraping": {
-  "id": "microsoft-microsoft-exec-called-scraping",
-  "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
+ "disney-first-startup-once": {
+  "id": "disney-first-startup-once",
+  "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
   "publishers": [
    "TechCrunch"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
- "chatbots-becoming-experts-changing": {
-  "id": "chatbots-becoming-experts-changing",
-  "title": "AI chatbots becoming experts at changing people's minds. What's their secret?",
-  "firstSeen": "2026-09-18T14:19:47.334Z",
+ "millemiglia-realistic-instance-generator": {
+  "id": "millemiglia-realistic-instance-generator",
+  "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
   "publishers": [
-   "Science"
+   "Google Research"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "paper-stringological-sequence-prediction": {
+  "id": "paper-stringological-sequence-prediction",
+  "title": "[Paper] Stringological sequence prediction III",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "Alignment Forum"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "research"
+ },
+ "creative-spirit-framed-roger": {
+  "id": "creative-spirit-framed-roger",
+  "title": "The Creative Spirit of Who Framed Roger Rabbit",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "dario-amodei-other-leaders": {
+  "id": "dario-amodei-other-leaders",
+  "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "gavin-newsom-pushing-kill": {
+  "id": "gavin-newsom-pushing-kill",
+  "title": "Gavin Newsom is pushing for an AI kill switch",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -95,6 +180,102 @@
   "hadPrimary": true,
   "category": "general"
  },
+ "what-hollywood-thinks-about": {
+  "id": "what-hollywood-thinks-about",
+  "title": "What Hollywood thinks about existential AI warnings",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "family-offices-clamoring-investments": {
+  "id": "family-offices-clamoring-investments",
+  "title": "Family offices are clamoring for AI investments",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
+ },
+ "chapter-reads": {
+  "id": "chapter-reads",
+  "title": "A new chapter for MIT Reads",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "MIT News AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "nvidia-open-closed-nvidia-nader": {
+  "id": "nvidia-open-closed-nvidia-nader",
+  "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "meta-ai-meta-muse-hits-letting": {
+  "id": "meta-ai-meta-muse-hits-letting",
+  "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "that-love-orion-mattress": {
+  "id": "that-love-orion-mattress",
+  "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "pacs-have-dumped-nearly": {
+  "id": "pacs-have-dumped-nearly",
+  "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "industry-followed-research-might": {
+  "id": "industry-followed-research-might",
+  "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "agents-international-embeds-agents-across": {
   "id": "agents-international-embeds-agents-across",
   "title": "Ant International embeds AI agents across all platforms in biggest-ever product upgrade",
@@ -107,12 +288,24 @@
   "hadPrimary": false,
   "category": "general"
  },
- "trump-anti-bias-order": {
-  "id": "trump-anti-bias-order",
-  "title": "Trump’s Anti-Bias AI Order Is Just More Bias",
-  "firstSeen": "2026-09-18T14:19:47.334Z",
+ "alibaba-alibaba-open-sources-medical": {
+  "id": "alibaba-alibaba-open-sources-medical",
+  "title": "Alibaba open-sources medical AI model that can detect cancer and nearly 150 conditions",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
   "publishers": [
-   "Wired AI"
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "space-debate-agent-swarms": {
+  "id": "space-debate-agent-swarms",
+  "title": "The J-Space Debate, Agent Swarms, and Pacing Frontier AI - Digital Minds Newsletter #4",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -143,24 +336,60 @@
   "hadPrimary": false,
   "category": "general"
  },
- "openai-heap-overflow-misconfiguration-compromise": {
-  "id": "openai-heap-overflow-misconfiguration-compromise",
-  "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-  "firstSeen": "2026-09-18T14:19:47.334Z",
-  "publishers": [
-   "hacktron.ai"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
  "could-really-kill-your": {
   "id": "could-really-kill-your",
   "title": "Could AI really kill us all? Your questions, answered.",
   "firstSeen": "2026-09-18T14:19:47.334Z",
   "publishers": [
    "MIT Tech Review"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "pretraining-data-verifiability-llms": {
+  "id": "pretraining-data-verifiability-llms",
+  "title": "Pretraining data, not verifiability, is why LLMs are especially good at math (and coding)",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "stopgap-measures-address-immediate": {
+  "id": "stopgap-measures-address-immediate",
+  "title": "Stopgap Measures to Address Immediate AI Security Threats",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "persuasion-undermining-control-talk": {
+  "id": "persuasion-undermining-control-talk",
+  "title": "Persuasion Undermining Control: Can AI Talk its Way Out of Human Control?",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "generative-model-trusted-monitor": {
+  "id": "generative-model-trusted-monitor",
+  "title": "A non-generative model as a trusted monitor for AI Control: Testing TypeSafe's Jev",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -215,18 +444,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "qwen-shapelearn-qwen-vram": {
-  "id": "qwen-shapelearn-qwen-vram",
-  "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
-  "firstSeen": "2026-09-18T04:27:46.901Z",
-  "publishers": [
-   "byteshape.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "models"
- },
  "chip-foundries-better-insulated": {
   "id": "chip-foundries-better-insulated",
   "title": "Chip foundries better insulated in an AI slowdown than Asia-Pacific tech peers, S&P says",
@@ -239,42 +456,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "meta-ai-safety-alignment-problem-alignment-research": {
-  "id": "meta-ai-safety-alignment-problem-alignment-research",
-  "title": "The Alignment Problem in Alignment Research(ers): a Voluntaryist Meta-Ethics Perspective",
-  "firstSeen": "2026-09-18T14:19:47.334Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "write-with": {
-  "id": "write-with",
-  "title": "How to Write with an LLM",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "sockpuppet.org"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "qwen-qwen-omni-flash": {
-  "id": "qwen-qwen-omni-flash",
-  "title": "Qwen 3.8 Omni Flash",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "qwen.ai"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "models"
- },
  "china-major-shift-huawei": {
   "id": "china-major-shift-huawei",
   "title": "China to see major shift to Huawei for AI model training in 2027: deputy chair",
@@ -286,18 +467,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "claude-agents-claude-code-relaunches-projects": {
-  "id": "claude-agents-claude-code-relaunches-projects",
-  "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-  "firstSeen": "2026-09-17T21:17:36.772Z",
-  "publishers": [
-   "The Verge"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
  },
  "google-deepmind-google-deepmind-launches-institute": {
   "id": "google-deepmind-google-deepmind-launches-institute",
@@ -324,19 +493,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "google-agents-google-announces-experimental-agent": {
-  "id": "google-agents-google-announces-experimental-agent",
-  "title": "Google announces new experimental \"CC\" AI agent for families",
-  "firstSeen": "2026-09-17T21:17:36.772Z",
-  "publishers": [
-   "Ars Technica AI",
-   "TechCrunch"
-  ],
-  "sourceCount": 2,
-  "independentCount": 2,
-  "hadPrimary": false,
-  "category": "general"
- },
  "alert-targeted-attacks-prominent": {
   "id": "alert-targeted-attacks-prominent",
   "title": "Be alert: targeted attacks on prominent Rustaceans",
@@ -349,15 +505,15 @@
   "hadPrimary": false,
   "category": "general"
  },
- "bend-language-that-blocks": {
-  "id": "bend-language-that-blocks",
-  "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-  "firstSeen": "2026-09-18T04:27:46.901Z",
+ "write-with": {
+  "id": "write-with",
+  "title": "How To Write With An LLM",
+  "firstSeen": "2026-09-18T09:34:26.587Z",
   "publishers": [
-   "bend-lang.com"
+   "Simon Willison"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -372,30 +528,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "openai-openai-caught-models-leaving": {
-  "id": "openai-openai-caught-models-leaving",
-  "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "safety-game-targeted-memetic-attack": {
-  "id": "safety-game-targeted-memetic-attack",
-  "title": "The Game is Set for a Targeted Memetic Attack on the AI Safety Community",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "security"
  },
  "self-generated-prompt-injections": {
   "id": "self-generated-prompt-injections",
@@ -421,18 +553,6 @@
   "hadPrimary": false,
   "category": "security"
  },
- "safety-axes-alignment-framework-robust": {
-  "id": "safety-axes-alignment-framework-robust",
-  "title": "Two Axes of Alignment: A Framework for Robust Superintelligence Alignment",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "funding-crusoe-raises-build-massive": {
   "id": "funding-crusoe-raises-build-massive",
   "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
@@ -444,18 +564,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "business"
- },
- "agents-rogue-agents-could-more": {
-  "id": "agents-rogue-agents-could-more",
-  "title": "The fix for rogue AI agents could be more AI",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  },
  "making-global-data-easier": {
   "id": "making-global-data-easier",
@@ -505,18 +613,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "plan-traffic-875m-worth": {
-  "id": "plan-traffic-875m-worth",
-  "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "defense-gradual-disempowerment": {
   "id": "defense-gradual-disempowerment",
   "title": "A Defense of Gradual Disempowerment",
@@ -529,24 +625,12 @@
   "hadPrimary": false,
   "category": "general"
  },
- "deep-recurrent-models-less": {
-  "id": "deep-recurrent-models-less",
-  "title": "Deep recurrent models are less robustly CoT-monitorable than normal CoT models in a toy setting",
+ "microsoft-microsoft-exec-called-scraping": {
+  "id": "microsoft-microsoft-exec-called-scraping",
+  "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
   "firstSeen": "2026-09-18T09:34:26.587Z",
   "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "safety-safety-debate-about-safety": {
-  "id": "safety-safety-debate-about-safety",
-  "title": "Is the AI safety debate about safety or control?",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "TechCrunch"
+   "Ars Technica AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -577,18 +661,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "anthropic-microsoft-microsoft-says-threats-real": {
-  "id": "anthropic-microsoft-microsoft-says-threats-real",
-  "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-  "firstSeen": "2026-09-17T18:06:53.816Z",
-  "publishers": [
-   "The Verge"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "superintelligence-slowdown": {
   "id": "superintelligence-slowdown",
   "title": "The AI Superintelligence Slowdown",
@@ -613,42 +685,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "even-king-england-hesitations": {
-  "id": "even-king-england-hesitations",
-  "title": "Even the king of England has his hesitations about AI",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "hugging-face-open-source-safety-base-labs-launches-open": {
-  "id": "hugging-face-open-source-safety-base-labs-launches-open",
-  "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-  "firstSeen": "2026-09-17T18:06:53.816Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
- "pinterest-teases-restyle-feature": {
-  "id": "pinterest-teases-restyle-feature",
-  "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-  "firstSeen": "2026-09-17T18:06:53.816Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "tools"
- },
  "exclusive-fintech-offers-startups": {
   "id": "exclusive-fintech-offers-startups",
   "title": "Exclusive: Fintech Offers Startups Alternative To Venture Debt With A New Model To Finance Customer Acquisition Costs",
@@ -672,18 +708,6 @@
   "independentCount": 1,
   "hadPrimary": true,
   "category": "business"
- },
- "feared-globally-destroyer-jobs": {
-  "id": "feared-globally-destroyer-jobs",
-  "title": "AI is feared globally as the destroyer of jobs",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "The Verge"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  },
  "like-llms": {
   "id": "like-llms",
@@ -792,18 +816,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "washington-regulating-anytime-soon": {
-  "id": "washington-regulating-anytime-soon",
-  "title": "Washington Won’t Be Regulating AI Anytime Soon",
-  "firstSeen": "2026-09-16T22:50:02.302Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "policy"
  },
  "helping-older-adults-everyday": {
   "id": "helping-older-adults-everyday",
@@ -985,18 +997,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "gemini-gemini-live-audio": {
-  "id": "gemini-gemini-live-audio",
-  "title": "Gemini Live audio",
-  "firstSeen": "2026-09-16T16:40:43.407Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
- },
  "bytedance-enhanced-short-drama": {
   "id": "bytedance-enhanced-short-drama",
   "title": "ByteDance’s AI-enhanced short-drama app eclipses China’s Netflix rivals combined",
@@ -1008,6 +1008,18 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "tools"
+ },
+ "gemini-gemini-live-audio": {
+  "id": "gemini-gemini-live-audio",
+  "title": "Gemini Live audio",
+  "firstSeen": "2026-09-16T16:40:43.407Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "models"
  },
  "measure-measure-studying-society": {
   "id": "measure-measure-studying-society",
@@ -1033,18 +1045,6 @@
   "hadPrimary": false,
   "category": "security"
  },
- "your-agent-aced-task": {
-  "id": "your-agent-aced-task",
-  "title": "Your Agent Aced the Task. Will It Do It Again?",
-  "firstSeen": "2026-09-15T18:51:52.796Z",
-  "publishers": [
-   "Hugging Face"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
  "search-bypassing-inference-bottlenecks-accelerating": {
   "id": "search-bypassing-inference-bottlenecks-accelerating",
   "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
@@ -1067,42 +1067,6 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "general"
- },
- "societal-impact": {
-  "id": "societal-impact",
-  "title": "AI for Societal Impact",
-  "firstSeen": "2026-09-15T18:51:52.796Z",
-  "publishers": [
-   "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "building-accelerate-science-improve": {
-  "id": "building-accelerate-science-improve",
-  "title": "Building AI to accelerate science and improve lives",
-  "firstSeen": "2026-09-15T18:51:52.796Z",
-  "publishers": [
-   "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "everyone-every-language": {
-  "id": "everyone-every-language",
-  "title": "AI for everyone in every language",
-  "firstSeen": "2026-09-15T18:51:52.796Z",
-  "publishers": [
-   "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
   "category": "general"
  }
 }
