@@ -21,8 +21,7 @@ import {
   writeBrief, listBriefs, readBrief, dayKey
 } from './archive.js';
 import {
-  buildEvents, scoreImportance, assessConfidence, assessStatus,
-  computeDelta, toMemory, sourceKind
+  buildEvents, rankEvent, computeDelta, toMemory, sourceKind
 } from './events.js';
 import {
   renderBrief, renderEventPage, renderTopicPage, renderBriefIndex, renderCategoryPage,
@@ -216,31 +215,27 @@ async function main() {
   let events = buildEvents(ranked, { dupeThreshold: cfg.ranking.dupeThreshold });
 
   for (const ev of events) {
-    ev.importance = scoreImportance(ev, { now, categoryWeights: cfg.ranking.categoryWeights || {} });
-    ev.confidence = assessConfidence(ev);
     const prior = memory[ev.id];
-    ev.status = assessStatus(ev, prior, { now });
+    ev.rank = rankEvent(ev, { corroborationBonus: cfg.ranking.corroborationBonus });
     ev.firstSeen = prior?.firstSeen || new Date(now).toISOString();
     ev.deltas = computeDelta(ev, prior);
   }
 
-  events = events
-    .filter((ev) => ev.importance.score >= cfg.brief.minImportance)
-    .sort((a, b) => b.importance.score - a.importance.score);
+  // Nothing is withheld for failing to clear a bar. Every development the feeds
+  // reported is on the page; ranking decides the order, not whether you see it.
+  events.sort((a, b) => b.rank - a.rank);
 
   const nextMemory = {};
   for (const ev of events) nextMemory[ev.id] = toMemory(ev);
   await writeEventMemory(nextMemory);
 
-  // A factual opening line. Not a synthesised insight — the system has no
-  // model to produce one, and inventing an editorial voice it cannot back up
-  // would be worse than stating what is measurably true.
-  const top = events[0];
+  // A count, not a verdict. Naming a "most significant" story would be the one
+  // editorial judgement the rest of this pipeline is built to avoid.
   const withPrimary = events.filter((e) => e.primary).length;
   const corroborated = events.filter((e) => e.independentCount >= 2).length;
-  const headline = top
-    ? `${events.length} developments today. The most significant is ${top.category.name.toLowerCase()}: ${top.title}`
-    : 'No developments cleared the importance threshold today.';
+  const headline = events.length
+    ? `${events.length} developments across ${okCount} sources, newest and most-read first.`
+    : 'No developments in the window yet today.';
   const briefStats = `${okCount} sources monitored · ${all.length} items read · ${ranked.length} on-topic · ${events.length} distinct developments · ${withPrimary} with a primary source · ${corroborated} independently corroborated`;
 
   // Nav no longer lists article sections: the brief's own modules cover that

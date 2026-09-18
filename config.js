@@ -5,7 +5,10 @@
 
 export const site = {
   name: 'Magpie Brief',
-  tagline: 'Everything that mattered in AI today, in one screen.',
+  // "Everything that mattered" was a claim to judgement the site deliberately
+  // no longer makes — and with nothing held back, it is no longer one screen
+  // either. What is left is what it actually does.
+  tagline: 'AI news from 22 sources, gathered hourly.',
   // Used for canonical URLs, sitemap.xml, and the RSS feed. No trailing slash.
   //
   // If this URL has a path (a GitHub project site serves from /<repo>/), that
@@ -47,7 +50,9 @@ export const feedPacks = {
     // than publishing its own. Those items are attributed to whoever is at the
     // link, with the aggregator credited separately for the discussion.
     // `selfHosts` lists domains that DO originate there (Ask HN, text posts).
-    { name: 'Hacker News',      url: 'https://hnrss.org/frontpage',                             section: 'Discussion', weight: 1.1, broad: true, role: 'discovery', excerpt: 'none', selfHosts: ['news.ycombinator.com'] },
+    // Weight 1.0, not 1.1: its items already carry a points multiplier no other
+    // feed can earn, so a weight bonus on top double-counts the same attention.
+    { name: 'Hacker News',      url: 'https://hnrss.org/frontpage',                             section: 'Discussion', weight: 1.0, broad: true, role: 'discovery', excerpt: 'none', selfHosts: ['news.ycombinator.com'] },
     { name: 'Lobsters',         url: 'https://lobste.rs/rss',                                   section: 'Discussion', weight: 0.9, broad: true, role: 'discovery', excerpt: 'none', selfHosts: ['lobste.rs'] },
 
     // These three publish across all of tech, so they get topic-filtered too.
@@ -147,7 +152,10 @@ export const ranking = {
   // which a story counts as a genuine hit; `maxBoost` caps the multiplier so a
   // single viral thread cannot take over the front page, and so the one source
   // that reports points does not permanently outrank those that cannot.
-  engagement: { weight: 0.7, reference: 500, maxBoost: 0.8 },
+  // maxBoost was 0.8, which combined with Hacker News's own source weight to
+  // hand it every slot at the top of the page while four newsrooms covering a
+  // real development sat below a single link with a good vote count.
+  engagement: { weight: 0.7, reference: 500, maxBoost: 0.45 },
   // Title keyword multipliers. `claude: 0.5` means +50% score.
   boost: {
     claude: 0.5, anthropic: 0.5, openai: 0.35, gemini: 0.3, deepmind: 0.3,
@@ -165,21 +173,6 @@ export const ranking = {
 
   // Warn (never silently re-weight) when one publisher dominates the day.
   concentrationWarning: 0.4,
-
-  // How much each kind of development counts toward importance. These are
-  // editorial judgements about what an AI-industry reader needs to know, not
-  // measurements — a model launch changes what people can build, a tool update
-  // usually does not.
-  categoryWeights: {
-    models: 0.8,
-    policy: 0.6,
-    security: 0.6,
-    business: 0.4,
-    research: 0.3,
-    opensource: 0.3,
-    tools: 0.2,
-    general: 0
-  },
 
   // Applied ONLY to feeds marked `broad: true`. An item must match at least one
   // of these (as a whole word, in the title or summary) to make it onto the
@@ -217,12 +210,10 @@ export const ranking = {
 // ---------------------------------------------------------------------------
 
 export const brief = {
-  // How many developments lead the page. Deliberately small and fixed: the
-  // promise is that this is readable in five minutes, which a growing list
-  // silently breaks.
-  leadCount: 5,
-  // Events below this importance never reach the homepage at all.
-  minImportance: 2.6
+  // How many developments get the full treatment at the top of the page, with
+  // provenance and who else covered them. Everything else follows as a compact
+  // row — nothing is withheld, this only decides how much room each item gets.
+  leadCount: 5
 };
 
 export const advertising = {

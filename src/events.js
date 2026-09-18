@@ -4,15 +4,16 @@
 // more articles report on. Twenty-three stories about one model release are one
 // event with twenty-three sources, not twenty-three cards.
 //
-// Everything here is deterministic and explainable. Nothing is inferred by a
-// language model, so nothing claims understanding the system does not have:
-// scores carry the factors that produced them, and prose fields are left empty
-// rather than filled with template text that would read as insight.
+// This layer groups and attributes. It does not assess. There is no importance
+// score, no confidence verdict, no claim about what matters — an aggregator
+// earns trust by showing who reported what and letting the reader decide. The
+// only ranking is mechanical (recency, source weight, reader attention) and it
+// decides sequence, never merit.
 
 import { extractEntities, keyEntities } from './entities.js';
 import { titleTokens, similarity } from './rank.js';
 
-export const EVENT_SCHEMA_VERSION = 1;
+export const EVENT_SCHEMA_VERSION = 2;
 
 // --- source classification --------------------------------------------------
 
@@ -67,8 +68,10 @@ export function categorise(title, entities) {
   for (const rule of CATEGORY_RULES) {
     if (rule.test.test(title)) return { id: rule.id, name: rule.name };
   }
-  if (entities.some((e) => e.kind === 'model')) return { id: 'models', name: 'New Models' };
-  return { id: 'general', name: 'Developments' };
+  // Names match CATEGORY_ORDER so the badge on an item and the menu entry it
+  // links to read the same.
+  if (entities.some((e) => e.kind === 'model')) return { id: 'models', name: 'Models' };
+  return { id: 'general', name: 'Other' };
 }
 
 // --- clustering -------------------------------------------------------------
@@ -211,100 +214,28 @@ function finaliseEvent(raw, idf) {
     sourceCount: sources.length,
     independentCount: independent.size,
     publishedAt,
-    latestAt,
-    // Filled by the synthesis layer when a model is available; rendered only
-    // when non-empty, never templated.
-    whatChanged: '',
-    whyItMatters: ''
+    latestAt
   };
 }
 
-// --- importance -------------------------------------------------------------
+// --- ordering ----------------------------------------------------------------
 
 /**
- * Magpie Importance, 1.0–10.0, with the factors that produced it.
+ * Where an event sits on the page.
  *
- * Deliberately NOT article count: ten outlets rewriting one press release is
- * one weak signal, not ten. Independent outlets and the presence of a primary
- * source carry the weight. Every contribution is recorded so the number can be
- * explained rather than asserted.
+ * This is not a judgement about significance — it is the item ranking from
+ * rank.js (recency, source weight, reader attention) lifted to the cluster.
+ * An event ranks as well as its best-ranked report, so a development covered
+ * by a fast, well-read source rises the way that source's article would have.
+ * Nothing here is shown to the reader; it only decides sequence.
  */
-export function scoreImportance(event, { now = Date.now(), categoryWeights = {} } = {}) {
-  const factors = [];
-  let score = 2.5;
-  const add = (label, amount) => {
-    if (amount === 0) return;
-    score += amount;
-    factors.push({ label, amount: Math.round(amount * 10) / 10 });
-  };
-
-  // Independent corroboration — the strongest available signal that something
-  // real happened. Logarithmic: the 2nd outlet matters far more than the 9th.
-  if (event.independentCount > 1) {
-    add(`${event.independentCount} independent outlets`, Math.min(3.5, 1.7 * Math.log2(event.independentCount)));
-  }
-
-  if (event.primary) {
-    add(`Primary source (${event.primary.publisher})`, 1.5);
-  } else if (event.sources.every((s) => s.kind === 'discussion')) {
-    add('Discussion only, no reporting', -0.8);
-  }
-
-  // An announcement that the press then picked up is the signature of a
-  // development that actually landed, as opposed to either a press release
-  // nobody covered or coverage with no confirmable origin.
-  if (event.primary && event.independentCount >= 3) {
-    add('Announced and independently covered', 1.0);
-  }
-
-  const catWeight = categoryWeights[event.category.id] ?? 0;
-  if (catWeight) add(`${event.category.name}`, catWeight);
-
-  const orgs = event.entities.filter((e) => e.kind === 'org').length;
-  const models = event.entities.filter((e) => e.kind === 'model').length;
-  if (models) add('Names a specific model', 0.6);
-  if (orgs >= 2) add('Involves multiple organisations', 0.4);
-
-  const points = Math.max(0, ...event.sources.map((s) => s.points || 0));
-  if (points >= 100) add(`${points} points of reader attention`, Math.min(1.0, 0.35 * Math.log10(points)));
-
-  // Only genuinely stale items are penalised. A 36-hour rule was docking the
-  // day's biggest launch, which is exactly backwards — big stories run long.
-  const ageH = (now - event.publishedAt.getTime()) / 3_600_000;
-  if (ageH > 60) add('Several days old', -0.5);
-
-  const clamped = Math.max(1, Math.min(10, score));
-  return {
-    // One decimal only. The inputs do not justify more precision than that.
-    score: Math.round(clamped * 10) / 10,
-    factors
-  };
-}
-
-// --- confidence and status ---------------------------------------------------
-
-export function assessConfidence(event) {
-  if (event.primary) {
-    return { level: 'Confirmed', why: 'Reported by the primary source' };
-  }
-  if (event.independentCount >= 3) {
-    return { level: 'Confirmed', why: `${event.independentCount} independent outlets agree` };
-  }
-  if (event.independentCount === 2) {
-    return { level: 'Highly likely', why: 'Two independent outlets' };
-  }
-  if (event.independentCount === 1) {
-    return { level: 'Developing', why: 'A single outlet so far' };
-  }
-  return { level: 'Unverified', why: 'Community discussion only, no reporting yet' };
-}
-
-export function assessStatus(event, prior, { now = Date.now() } = {}) {
-  const ageH = (now - event.publishedAt.getTime()) / 3_600_000;
-  if (!prior && ageH < 12) return 'emerging';
-  if (prior && event.sourceCount > prior.sourceCount) return 'developing';
-  if (event.independentCount >= 3 || event.primary) return 'confirmed';
-  return 'developing';
+export function rankEvent(event, { corroborationBonus = 0 } = {}) {
+  const best = Math.max(0, ...event.sources.map((s) => s.score || 0));
+  // Each additional independent publisher lifts the event. This is counting,
+  // not judging: rank.js already does the same for article-level clusters, and
+  // without it a single link with a big vote count outranks a development four
+  // newsrooms went out and covered.
+  return best * (1 + corroborationBonus * Math.max(0, event.independentCount - 1));
 }
 
 // --- editorial memory: what changed since last time -------------------------
@@ -312,9 +243,9 @@ export function assessStatus(event, prior, { now = Date.now() } = {}) {
 /**
  * Compare an event against the last time we saw it.
  *
- * This is the "Since Yesterday" layer, and it needs no model: which outlets
- * joined, whether a primary source appeared, and how the importance moved are
- * all facts we already hold. Returns [] for a genuinely new event.
+ * Only observable facts: which outlets joined, and whether a primary source
+ * turned up. Both are countable from the feeds — no view is taken on whether
+ * the development got more or less important. Returns [] for a new event.
  */
 export function computeDelta(event, prior) {
   if (!prior) return [];
@@ -334,17 +265,6 @@ export function computeDelta(event, prior) {
     deltas.push(`A primary source appeared: ${event.primary.publisher}.`);
   }
 
-  const moved = Math.round((event.importance.score - (prior.importance ?? 0)) * 10) / 10;
-  if (Math.abs(moved) >= 0.5) {
-    deltas.push(moved > 0
-      ? `Importance rose ${moved} to ${event.importance.score}.`
-      : `Importance fell ${Math.abs(moved)} to ${event.importance.score}.`);
-  }
-
-  if (prior.confidence && prior.confidence !== event.confidence.level) {
-    deltas.push(`Confidence moved from ${prior.confidence} to ${event.confidence.level}.`);
-  }
-
   return deltas;
 }
 
@@ -358,8 +278,6 @@ export function toMemory(event) {
     sourceCount: event.sourceCount,
     independentCount: event.independentCount,
     hadPrimary: Boolean(event.primary),
-    importance: event.importance.score,
-    confidence: event.confidence.level,
     category: event.category.id
   };
 }

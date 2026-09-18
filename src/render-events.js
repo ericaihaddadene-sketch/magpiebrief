@@ -1,10 +1,11 @@
 // Event-first rendering: the brief, and living story pages.
 //
-// The test this has to pass: if every publication name and headline were
-// stripped out, would the page still tell you something? So the dominant
-// elements are the development, its importance and why that number, what
-// changed since yesterday, and what is confirmed versus merely reported —
-// not a stack of article cards.
+// The job is to show the reader what was reported and by whom, once per
+// development rather than once per article. The page states facts it can
+// count — who published, how many independent outlets, whether the primary
+// source is among them, when it last moved — and offers no opinion on any of
+// it. A reader should be able to disagree with the ordering and still trust
+// every line on the page.
 
 import { esc, link, layout, adSlot, timeAgo, hostOf, truncate } from './render.js';
 import { kindLabel } from './events.js';
@@ -33,40 +34,24 @@ export function dayLabel(date, cfg) {
   });
 }
 
-const STATUS_LABEL = {
-  emerging: 'Emerging',
-  developing: 'Developing',
-  confirmed: 'Confirmed',
-  resolved: 'Resolved'
-};
-
-function importanceBand(score) {
-  if (score >= 8) return 'major';
-  if (score >= 6) return 'significant';
-  if (score >= 4) return 'notable';
-  return 'minor';
-}
-
-function scoreBlock(ev) {
-  const factors = ev.importance.factors
-    .map((f) => `${esc(f.label)} ${f.amount > 0 ? '+' : ''}${f.amount}`)
-    .join(' · ');
-  return `<div class="ev__score ev__score--${importanceBand(ev.importance.score)}">
-    <span class="ev__num">${ev.importance.score.toFixed(1)}</span>
-    <span class="ev__scale">/10</span>
-    ${factors ? `<span class="ev__why" title="${esc(factors)}">why</span>` : ''}
-  </div>`;
+/** Reader attention, as reported by the venue that counts it. Not a verdict. */
+function pointsOf(ev) {
+  return Math.max(0, ...ev.sources.map((s) => s.points || 0));
 }
 
 function provenanceLine(cfg, ev) {
   const bits = [];
-  if (ev.primary) {
-    bits.push(`<span class="ev__primary">Primary: <a href="${esc(ev.primary.link)}" rel="noopener" target="_blank">${esc(ev.primary.publisher)}</a></span>`);
-  } else {
-    bits.push('<span class="ev__noprimary">No primary source yet</span>');
+  // Name whoever is at the link. "No primary source yet" told the reader what
+  // the page could not establish instead of the one thing it knows for certain:
+  // who published this.
+  const lead = ev.primary || ev.sources[0];
+  const label = ev.primary ? 'Primary: ' : '';
+  bits.push(`<span class="ev__primary">${label}<a href="${esc(lead.link)}" rel="noopener" target="_blank">${esc(lead.publisher)}</a></span>`);
+  if (ev.sourceCount > 1) {
+    bits.push(`<span>${ev.sourceCount} reports</span>`);
   }
-  bits.push(`<span>${ev.sourceCount} source${ev.sourceCount === 1 ? '' : 's'} analysed</span>`);
   if (ev.independentCount > 1) bits.push(`<span>${ev.independentCount} independent</span>`);
+  if (lead.discoveredVia) bits.push(`<span class="ev__via">via ${esc(lead.discoveredVia)}</span>`);
   return `<div class="ev__prov">${bits.join('')}</div>`;
 }
 
@@ -86,41 +71,50 @@ function entityChips(cfg, ev) {
     .join('')}</div>`;
 }
 
-/** A lead item: the things that matter. Visually dominant, finite in number. */
-export function leadEvent(cfg, ev, rank, now) {
+/** A full item at the top of the page. No rank number, no verdict. */
+export function leadEvent(cfg, ev, now) {
+  const points = pointsOf(ev);
   return `<article class="ev ev--lead">
-  <div class="ev__rank">${rank}</div>
   <div class="ev__body">
     <div class="ev__meta">
       <span class="ev__cat">${esc(ev.category.name)}</span>
-      <span class="ev__conf ev__conf--${esc(ev.confidence.level.toLowerCase().replace(/\s+/g, '-'))}" title="${esc(ev.confidence.why)}">${esc(ev.confidence.level)}</span>
-      ${ev.status === 'emerging' || ev.status === 'developing'
-        ? `<span class="ev__status">${esc(STATUS_LABEL[ev.status])}</span>` : ''}
       <time datetime="${esc(ev.latestAt.toISOString())}">${esc(timeAgo(ev.latestAt, now))}</time>
+      ${points >= 50 ? `<span class="ev__points">${points} points</span>` : ''}
     </div>
     <h2 class="ev__title"><a href="${esc(link(cfg, eventPath(ev.id)))}">${esc(ev.title)}</a></h2>
-    ${ev.whatChanged ? `<p class="ev__changed">${esc(ev.whatChanged)}</p>` : ''}
-    ${ev.whyItMatters ? `<p class="ev__why-text">${esc(ev.whyItMatters)}</p>` : ''}
     ${deltaBlock(ev)}
     ${provenanceLine(cfg, ev)}
+    ${alsoLine(ev)}
     ${entityChips(cfg, ev)}
   </div>
-  ${scoreBlock(ev)}
 </article>`;
 }
 
-/** A compact row for the sectioned modules below the lead. */
+/** Who else carried it. The aggregator's whole point, stated plainly. */
+function alsoLine(ev) {
+  // Exclude whoever the provenance line already named, or a single-source item
+  // ends up claiming it was "also covered by" its only publisher.
+  const named = (ev.primary || ev.sources[0]).publisher;
+  const others = [...new Set(ev.sources.map((s) => s.publisher))]
+    .filter((p) => p !== named)
+    .slice(0, 4);
+  if (!others.length) return '';
+  return `<p class="ev__also">Also covered by ${esc(others.join(', '))}</p>`;
+}
+
+/** A compact row for everything below the top group. */
 export function eventRow(cfg, ev, now) {
+  const points = pointsOf(ev);
   return `<article class="ev ev--row">
   <div class="ev__body">
     <h3 class="ev__title ev__title--sm"><a href="${esc(link(cfg, eventPath(ev.id)))}">${esc(ev.title)}</a></h3>
     <div class="ev__prov">
       ${ev.primary ? `<span class="ev__primary">${esc(ev.primary.publisher)}</span>` : `<span>${esc(ev.sources[0].publisher)}</span>`}
-      <span>${ev.sourceCount} source${ev.sourceCount === 1 ? '' : 's'}</span>
+      ${ev.sourceCount > 1 ? `<span>${ev.sourceCount} sources</span>` : ''}
       <time datetime="${esc(ev.latestAt.toISOString())}">${esc(timeAgo(ev.latestAt, now))}</time>
+      ${points >= 50 ? `<span class="ev__points">${points} points</span>` : ''}
     </div>
   </div>
-  <span class="ev__num ev__num--sm">${ev.importance.score.toFixed(1)}</span>
 </article>`;
 }
 
@@ -141,26 +135,12 @@ export function renderBrief(cfg, ads, { events, headline, stats, sections, build
   const lead = events.slice(0, cfg.brief.leadCount);
   const rest = events.slice(cfg.brief.leadCount);
 
-  const byCategory = (id) => rest.filter((e) => e.category.id === id);
-
-  // Quiet signal: a primary source published something real that almost nobody
-  // picked up. Genuinely useful, and computable without judging significance.
-  const quiet = rest.filter((e) => e.primary && e.independentCount <= 1 && e.importance.score >= 3.5);
-
-  // High attention with thin sourcing — flagged neutrally, never as a verdict.
-  const loud = rest.filter((e) => {
-    const pts = Math.max(0, ...e.sources.map((s) => s.points || 0));
-    return pts >= 150 && e.independentCount <= 1 && !e.primary;
-  });
-
-  // The brief keeps only what is genuinely editorial: the lead developments and
-  // the two judgement calls a feed reader cannot make. Everything organised by
-  // category now lives on its own page and in the menu — stacking eight
-  // categories down the homepage turned a five-minute read into a scroll.
-  const modules = [
-    module(cfg, { id: 'quiet', title: 'Quiet developments', note: 'Published by a primary source, largely uncovered elsewhere.', events: quiet, now, limit: 4 }),
-    module(cfg, { id: 'attention', title: 'Getting attention, thinly sourced', note: 'Heavily discussed but not yet independently corroborated.', events: loud, now, limit: 3 })
-  ].filter(Boolean).join('\n');
+  // Everything the feeds reported is on the page. The old build kept the rest
+  // off the homepage behind an importance threshold, which meant the site was
+  // deciding what you were allowed to see. An aggregator shows the list.
+  const more = rest.length
+    ? module(cfg, { id: 'more', title: 'More developments', events: rest, now, limit: rest.length })
+    : '';
 
   // A finite pointer to the rest, rather than the rest itself.
   const counts = CATEGORY_ORDER
@@ -168,7 +148,7 @@ export function renderBrief(cfg, ads, { events, headline, stats, sections, build
     .filter((c) => c.n > 0);
   const strip = counts.length
     ? `<section class="catstrip">
-    <h2 class="mod__title">The rest of the day</h2>
+    <h2 class="mod__title">By category</h2>
     <ul class="catstrip__list">${counts
       .map((c) => `<li><a href="${esc(link(cfg, categoryPath(c.id)))}">${esc(c.name)}<span class="catstrip__n">${c.n}</span></a></li>`)
       .join('')}</ul>
@@ -193,26 +173,25 @@ export function renderBrief(cfg, ads, { events, headline, stats, sections, build
 
   const body = `<div class="content">
   <section class="brief-head">
-    <h1 class="brief-title">What changed in AI ${permanent ? `on ${esc(dayLabel(date, cfg))}` : 'today'}</h1>
+    <h1 class="brief-title">AI news ${permanent ? `on ${esc(dayLabel(date, cfg))}` : 'today'}</h1>
     <p class="brief-line">${esc(headline)}</p>
     <p class="brief-stats">${esc(stats)}</p>
-    ${permanent ? '' : `<p class="brief-perm"><a href="${esc(link(cfg, '/brief/'))}">Past briefs →</a></p>`}
+    ${permanent ? '' : `<p class="brief-perm"><a href="${esc(link(cfg, '/brief/'))}">Past days →</a></p>`}
   </section>
 
   ${changedBlock}
 
   <section class="leads">
-    <h2 class="leads__title">The ${lead.length} things that matter</h2>
-    ${lead.map((ev, i) => leadEvent(cfg, ev, i + 1, now)).join('\n')}
+    ${lead.map((ev) => leadEvent(cfg, ev, now)).join('\n')}
   </section>
 
-  ${modules}
+  ${more}
   ${strip}
 </div>
 ${briefSidebar(cfg, ads, events)}`;
 
   const title = permanent
-    ? `What changed in AI on ${dayLabel(date, cfg)} — ${cfg.site.name}`
+    ? `AI news on ${dayLabel(date, cfg)} — ${cfg.site.name}`
     : `${cfg.site.name} — ${cfg.site.tagline}`;
 
   return layout(cfg, ads, {
@@ -247,7 +226,7 @@ function briefSidebar(cfg, ads, events) {
   </section>` : ''}
   <section class="panel">
     <h3 class="panel__title">How to read this</h3>
-    <p class="panel__text">Every item is a development, not an article. The number is how much it matters, and hovering “why” shows what produced it. Sources are listed so you can check.</p>
+    <p class="panel__text">One entry per development, not per article: when several outlets cover the same thing you see it once, with everyone who reported it listed underneath. Ordered by how recent it is and how much attention it is getting — never by our opinion of it.</p>
     <a class="btn" href="${esc(link(cfg, '/methodology/'))}">Methodology</a>
   </section>
 </aside>`;
@@ -279,34 +258,16 @@ export function renderEventPage(cfg, ads, { event: ev, sections, buildTime, now,
   <article class="story-page">
     <div class="ev__meta">
       <span class="ev__cat">${esc(ev.category.name)}</span>
-      <span class="ev__conf ev__conf--${esc(ev.confidence.level.toLowerCase().replace(/\s+/g, '-'))}">${esc(ev.confidence.level)}</span>
-      ${ev.status === 'emerging' || ev.status === 'developing'
-        ? `<span class="ev__status">${esc(STATUS_LABEL[ev.status])}</span>` : ''}
       <time datetime="${esc(ev.latestAt.toISOString())}">Updated ${esc(timeAgo(ev.latestAt, now))}</time>
+      ${pointsOf(ev) >= 50 ? `<span class="ev__points">${pointsOf(ev)} points</span>` : ''}
     </div>
 
     <h1 class="story-page__title">${esc(ev.title)}</h1>
 
-    <div class="story-page__score">
-      <span class="ev__num">${ev.importance.score.toFixed(1)}</span><span class="ev__scale">/10 importance</span>
-    </div>
-    <ul class="factors">
-      ${ev.importance.factors.map((f) => `<li><span>${esc(f.label)}</span><span class="factors__amt">${f.amount > 0 ? '+' : ''}${f.amount}</span></li>`).join('')}
-    </ul>
-
-    ${ev.whatChanged ? `<h2>What changed</h2><p>${esc(ev.whatChanged)}</p>` : ''}
-    ${ev.whyItMatters ? `<h2>Why it matters</h2><p>${esc(ev.whyItMatters)}</p>` : ''}
-
     ${ev.deltas?.length ? `<h2>Since yesterday</h2><ul class="deltas">${ev.deltas.map((d) => `<li>${esc(d)}</li>`).join('')}</ul>` : ''}
 
-    <h2>What we know</h2>
-    <p class="known">${esc(ev.confidence.why)}. ${ev.sourceCount} source${ev.sourceCount === 1 ? '' : 's'} analysed, ${ev.independentCount} independent.${ev.primary ? ` The primary source is ${esc(ev.primary.publisher)}.` : ' No primary source has been identified yet, so this rests on reporting alone.'}</p>
-
-    ${!ev.primary || ev.independentCount < 2 ? `<h2>What is still unclear</h2>
-    <ul class="unclear">
-      ${!ev.primary ? '<li>No primary source or official announcement has appeared. Details rest on reporting.</li>' : ''}
-      ${ev.independentCount < 2 ? '<li>Only one outlet has reported this independently, so specifics may change.</li>' : ''}
-    </ul>` : ''}
+    <h2>Who reported this</h2>
+    <p class="known">${ev.sourceCount} report${ev.sourceCount === 1 ? '' : 's'} from ${ev.independentCount} independent publisher${ev.independentCount === 1 ? '' : 's'}.${ev.primary ? ` ${esc(ev.primary.publisher)} is the primary source.` : ' No primary source is among them.'}</p>
 
     ${primaries.length ? `<h2>Primary sources</h2><ul class="srcs">${sourceList(primaries)}</ul>` : ''}
     ${coverage.length ? `<h2>Coverage &amp; analysis</h2><ul class="srcs">${sourceList(coverage)}</ul>` : ''}
@@ -318,14 +279,14 @@ export function renderEventPage(cfg, ads, { event: ev, sections, buildTime, now,
     ${ev.entities.length ? `<h2>Entities</h2>${entityChips(cfg, ev)}` : ''}
 
     ${related?.length ? `<h2>Related developments</h2>
-    <ul class="related">${related.map((r) => `<li><a href="${esc(link(cfg, eventPath(r.id)))}">${esc(r.title)}</a> <span class="muted">${r.importance.score.toFixed(1)}</span></li>`).join('')}</ul>` : ''}
+    <ul class="related">${related.map((r) => `<li><a href="${esc(link(cfg, eventPath(r.id)))}">${esc(r.title)}</a></li>`).join('')}</ul>` : ''}
   </article>
 </div>
 ${briefSidebar(cfg, ads, [ev])}`;
 
   return layout(cfg, ads, {
     title: `${ev.title} — ${cfg.site.name}`,
-    description: `${ev.category.name}. ${ev.sourceCount} sources analysed, ${ev.independentCount} independent. Confidence: ${ev.confidence.level}.`,
+    description: `${ev.category.name}. ${ev.sourceCount} reports from ${ev.independentCount} independent publishers.`,
     canonical: cfg.site.url + eventPath(ev.id),
     sections,
     body,
@@ -335,7 +296,7 @@ ${briefSidebar(cfg, ads, [ev])}`;
 
 /** Persistent topic page: what is happening with one entity. */
 export function renderTopicPage(cfg, ads, { entity, events, sections, buildTime, now }) {
-  const ranked = [...events].sort((a, b) => b.importance.score - a.importance.score);
+  const ranked = [...events].sort((a, b) => (b.rank || 0) - (a.rank || 0));
   const withPrimary = ranked.filter((e) => e.primary).length;
 
   const body = `<div class="content">
@@ -401,7 +362,7 @@ ${briefSidebar(cfg, ads, [])}`;
 
 /** One category, as a real page rather than a slab of the homepage. */
 export function renderCategoryPage(cfg, ads, { category, events, sections, buildTime, now }) {
-  const ranked = [...events].sort((a, b) => b.importance.score - a.importance.score);
+  const ranked = [...events].sort((a, b) => (b.rank || 0) - (a.rank || 0));
   const withPrimary = ranked.filter((e) => e.primary).length;
 
   const body = `<div class="content">
@@ -413,7 +374,7 @@ ${briefSidebar(cfg, ads, ranked)}`;
 
   return layout(cfg, ads, {
     title: `${category.name} — ${cfg.site.name}`,
-    description: `AI developments in ${category.name.toLowerCase()}, ranked by importance.`,
+    description: `AI developments in ${category.name.toLowerCase()}, newest and most-read first.`,
     canonical: cfg.site.url + categoryPath(category.id),
     sections,
     active: category.id,

@@ -453,6 +453,10 @@ export function renderMethodology(cfg, ads, { sections, buildTime, stats }) {
   </ul>
   <p>No single publisher may hold more than ${cfg.ranking.maxPerSource} of the top slots, so the site is not decided by whoever posts most often. We publish the shape of the ranking, not the exact weights.</p>
 
+  <h2>What we do not do</h2>
+  <p>We do not score developments for importance, label them confirmed or unverified, or tell you what matters. An earlier version of this site did all three, and the honest problem with it was that a number out of ten looks like a judgement while resting on nothing more than the counts you can already see for yourself.</p>
+  <p>Everything on the page is countable: who published it, how many independent outlets carried it, whether the primary source is among them, and when it last moved. Ordering decides sequence, not merit — a story near the bottom is recent-and-quiet, not unimportant. Nothing is withheld for failing to clear a bar.</p>
+
   <h2>Related coverage</h2>
   <p>Headlines are compared by their distinctive words, weighted so that rare, story-defining terms decide the match and common ones count for little. When several reports describe one development they collapse into a single entry, and the others appear as “also covered by”, each still linking to its own publisher.</p>
 
