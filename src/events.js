@@ -229,6 +229,50 @@ function finaliseEvent(raw, idf) {
  * by a fast, well-read source rises the way that source's article would have.
  * Nothing here is shown to the reader; it only decides sequence.
  */
+/**
+ * The venue holding the slot: the feed that surfaced this, not the publisher.
+ *
+ * These differ for a discovery feed, and the feed is the one that matters here.
+ * Four Hacker News links to four different blogs read as four Hacker News
+ * slots to anyone looking at the page, because "via Hacker News" is what is
+ * printed under each of them.
+ */
+export function venueOf(event) {
+  const lead = event.primary || event.sources[0];
+  return lead.source || lead.publisher || 'unknown';
+}
+
+/**
+ * Cap how many of the lead slots any one venue may hold.
+ *
+ * config.ranking.maxPerSource already does this for articles, but the rule was
+ * being applied before clustering and then lost: the event list inherited four
+ * consecutive Hacker News items at the top, so the freshest venue with vote
+ * counts decided the whole lead block.
+ *
+ * Displaced events are not demoted — they keep their rank order and fall to the
+ * front of everything below the lead, which is where the next-ranked item would
+ * have been anyway. Nothing is hidden and nothing is pushed to the bottom.
+ */
+export function capLeadVenues(events, { leadCount, maxPerVenue }) {
+  if (!leadCount || !maxPerVenue) return events;
+
+  const lead = [];
+  const rest = [];
+  const used = new Map();
+
+  for (const ev of events) {
+    if (lead.length >= leadCount) { rest.push(ev); continue; }
+    const venue = venueOf(ev);
+    const held = used.get(venue) || 0;
+    if (held >= maxPerVenue) { rest.push(ev); continue; }
+    used.set(venue, held + 1);
+    lead.push(ev);
+  }
+
+  return lead.concat(rest);
+}
+
 export function rankEvent(event, { corroborationBonus = 0 } = {}) {
   const best = Math.max(0, ...event.sources.map((s) => s.score || 0));
   // Each additional independent publisher lifts the event. This is counting,

@@ -1,6 +1,7 @@
 // Run with: node test/parser.test.mjs
 import { parseFeed, feedTitle, decodeEntities, cleanSummary, extractEngagement } from '../src/feed-parser.js';
 import { engagementBoost } from '../src/rank.js';
+import { capLeadVenues, venueOf } from '../src/events.js';
 
 let pass = 0, fail = 0;
 const eq = (label, actual, expected) => {
@@ -61,6 +62,38 @@ eq('boost: zero points is neutral', engagementBoost(0, R), 1);
 eq('boost: grows with points', engagementBoost(200, R) > engagementBoost(20, R), true);
 eq('boost: capped', engagementBoost(500000, R) <= 1 + R.engagement.maxBoost, true);
 eq('boost: disabled without config', engagementBoost(500, {}), 1);
+
+// --- no one venue owns the lead block ---------------------------------------
+
+const ev = (id, source) => ({ id, primary: null, sources: [{ source, publisher: source }] });
+const ids = (list) => list.map((e) => e.id);
+
+// Four Hacker News items at the top is the exact shape this exists to prevent.
+const swept = [ev('h1', 'HN'), ev('h2', 'HN'), ev('h3', 'HN'), ev('h4', 'HN'), ev('v1', 'Verge'), ev('t1', 'TC')];
+eq('cap: one venue cannot hold the whole lead block',
+  ids(capLeadVenues(swept, { leadCount: 5, maxPerVenue: 2 })),
+  ['h1', 'h2', 'v1', 't1', 'h3', 'h4']);
+
+eq('cap: displaced items keep their order and sit above nothing else',
+  ids(capLeadVenues(swept, { leadCount: 5, maxPerVenue: 2 })).slice(4),
+  ['h3', 'h4']);
+
+// An already-varied page must come back untouched, or the cap is reordering
+// things it has no business reordering.
+const varied = [ev('a', 'HN'), ev('b', 'Verge'), ev('c', 'TC'), ev('d', 'Ars'), ev('e', 'HN')];
+eq('cap: a mixed lead block is left alone',
+  ids(capLeadVenues(varied, { leadCount: 5, maxPerVenue: 2 })), ['a', 'b', 'c', 'd', 'e']);
+
+eq('cap: nothing is ever dropped',
+  capLeadVenues(swept, { leadCount: 3, maxPerVenue: 1 }).length, swept.length);
+
+eq('cap: disabled when unconfigured', ids(capLeadVenues(swept, {})), ids(swept));
+eq('cap: venue is the feed, not the publisher',
+  venueOf({ primary: null, sources: [{ source: 'Hacker News', publisher: 'someblog.com' }] }),
+  'Hacker News');
+eq('cap: a primary source decides the venue when there is one',
+  venueOf({ primary: { source: 'OpenAI', publisher: 'OpenAI' }, sources: [{ source: 'HN', publisher: 'x' }] }),
+  'OpenAI');
 
 console.log(`\n${pass} passed, ${fail} failed`);
 process.exit(fail ? 1 : 0);

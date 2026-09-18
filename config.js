@@ -213,7 +213,14 @@ export const brief = {
   // How many developments get the full treatment at the top of the page, with
   // provenance and who else covered them. Everything else follows as a compact
   // row — nothing is withheld, this only decides how much room each item gets.
-  leadCount: 5
+  leadCount: 5,
+
+  // How many of those lead slots one venue may hold. Hacker News items are the
+  // freshest in the window and carry the only vote counts in any feed, so on an
+  // ordinary day they took four of five and the lead block became a mirror of
+  // somebody else's front page. Displaced items are not demoted — they fall to
+  // the top of the list below, which is where the next item would have sat.
+  maxLeadPerVenue: 2
 };
 
 export const advertising = {

@@ -451,7 +451,7 @@ export function renderMethodology(cfg, ads, { sections, buildTime, stats }) {
     <li><strong>Corroboration.</strong> Several outlets independently covering one development is the best available evidence that it matters, so a cluster outranks a single loud headline.</li>
     <li><strong>Reader attention.</strong> Where a source publishes vote counts, they contribute logarithmically and are capped, so one viral thread cannot take the page.</li>
   </ul>
-  <p>No single publisher may hold more than ${cfg.ranking.maxPerSource} of the top slots, so the site is not decided by whoever posts most often. We publish the shape of the ranking, not the exact weights.</p>
+  <p>No single publisher may hold more than ${cfg.ranking.maxPerSource} of the top slots, so the site is not decided by whoever posts most often. Separately, no one venue may hold more than ${cfg.brief.maxLeadPerVenue} of the ${cfg.brief.leadCount} lead slots at the top of the page: a discussion site whose items are both the freshest and the only ones carrying vote counts will otherwise take the entire lead block, and reprinting somebody else's front page is not aggregation. Anything displaced moves to the head of the list below rather than being pushed down it. We publish the shape of the ranking, not the exact weights.</p>
 
   <h2>What we do not do</h2>
   <p>We do not score developments for importance, label them confirmed or unverified, or tell you what matters. An earlier version of this site did all three, and the honest problem with it was that a number out of ten looks like a judgement while resting on nothing more than the counts you can already see for yourself.</p>

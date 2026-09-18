@@ -105,11 +105,13 @@ function alsoLine(ev) {
 /** A compact row for everything below the top group. */
 export function eventRow(cfg, ev, now) {
   const points = pointsOf(ev);
+  const lead = ev.primary || ev.sources[0];
   return `<article class="ev ev--row">
   <div class="ev__body">
     <h3 class="ev__title ev__title--sm"><a href="${esc(link(cfg, eventPath(ev.id)))}">${esc(ev.title)}</a></h3>
     <div class="ev__prov">
-      ${ev.primary ? `<span class="ev__primary">${esc(ev.primary.publisher)}</span>` : `<span>${esc(ev.sources[0].publisher)}</span>`}
+      <span class="ev__primary">${esc(lead.publisher)}</span>
+      ${lead.discoveredVia ? `<span class="ev__via">via ${esc(lead.discoveredVia)}</span>` : ''}
       ${ev.sourceCount > 1 ? `<span>${ev.sourceCount} sources</span>` : ''}
       <time datetime="${esc(ev.latestAt.toISOString())}">${esc(timeAgo(ev.latestAt, now))}</time>
       ${points >= 50 ? `<span class="ev__points">${points} points</span>` : ''}

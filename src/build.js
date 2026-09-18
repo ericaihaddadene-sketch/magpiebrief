@@ -21,7 +21,7 @@ import {
   writeBrief, listBriefs, readBrief, dayKey
 } from './archive.js';
 import {
-  buildEvents, rankEvent, computeDelta, toMemory, sourceKind
+  buildEvents, rankEvent, capLeadVenues, computeDelta, toMemory, sourceKind
 } from './events.js';
 import {
   renderBrief, renderEventPage, renderTopicPage, renderBriefIndex, renderCategoryPage,
@@ -224,6 +224,10 @@ async function main() {
   // Nothing is withheld for failing to clear a bar. Every development the feeds
   // reported is on the page; ranking decides the order, not whether you see it.
   events.sort((a, b) => b.rank - a.rank);
+  events = capLeadVenues(events, {
+    leadCount: cfg.brief.leadCount,
+    maxPerVenue: cfg.brief.maxLeadPerVenue
+  });
 
   const nextMemory = {};
   for (const ev of events) nextMemory[ev.id] = toMemory(ev);
