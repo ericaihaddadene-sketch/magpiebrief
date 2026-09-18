@@ -169,6 +169,7 @@ function head(cfg, { title, description, canonical }) {
 <link rel="icon" href="${esc(link(cfg, '/favicon-48.png'))}" sizes="48x48" type="image/png">
 <link rel="apple-touch-icon" href="${esc(link(cfg, '/apple-touch-icon.png'))}">
 <link rel="alternate" type="application/rss+xml" title="${esc(cfg.site.name)}" href="${esc(link(cfg, '/feed.xml'))}">
+<link rel="preload" href="${esc(link(cfg, '/fonts/fraunces-normal-latin.woff2'))}" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="${esc(link(cfg, '/styles.css'))}">
 ${networkScript}
 </head>`;

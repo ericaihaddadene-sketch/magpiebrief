@@ -2,6 +2,49 @@
    Light and dark are both defined explicitly so the page never borrows a
    half-applied theme from the browser. */
 
+/* Fraunces (SIL OFL 1.1) is served from our own origin rather than the Google
+   Fonts CDN: a site that publishes a rights and provenance policy should not
+   hand every reader's IP address to a third party to load a headline face.
+   Paths are relative to this stylesheet, so they survive the /magpiebrief/
+   base path the project site is served under. Only the subset a page actually
+   uses is fetched — English pages download the one 36 KB latin roman file. */
+
+@font-face {
+  font-family: "Fraunces";
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url("fonts/fraunces-normal-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "Fraunces";
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url("fonts/fraunces-normal-latin-ext.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: "Fraunces";
+  font-style: italic;
+  font-weight: 400 500;
+  font-display: swap;
+  src: url("fonts/fraunces-italic-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "Fraunces";
+  font-style: italic;
+  font-weight: 400 500;
+  font-display: swap;
+  src: url("fonts/fraunces-italic-latin-ext.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
 /* Palette taken from the magpie logo: the navy of the wordmark, the
    iridescent blue of the wing, and the teal of the tail. */
 :root {
@@ -18,9 +61,12 @@
   --sponsor-soft: #e2f2ef;
   --radius: 6px;
   --wrap: 1120px;
-  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --serif: "Fraunces", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
   --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  --shadow-sm: 0 1px 2px rgba(20, 36, 61, 0.05), 0 1px 1px rgba(20, 36, 61, 0.04);
+  --shadow-md: 0 6px 20px rgba(20, 36, 61, 0.08), 0 2px 6px rgba(20, 36, 61, 0.05);
+  --ease: cubic-bezier(0.2, 0.7, 0.3, 1);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -36,6 +82,8 @@
     --accent-soft: #16293c;
     --sponsor: #46c2b1;
     --sponsor-soft: #102b28;
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3), 0 1px 1px rgba(0, 0, 0, 0.2);
+    --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.35), 0 2px 8px rgba(0, 0, 0, 0.25);
   }
 }
 
@@ -51,9 +99,13 @@
   --accent-soft: #16293c;
   --sponsor: #46c2b1;
   --sponsor-soft: #102b28;
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3), 0 1px 1px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.35), 0 2px 8px rgba(0, 0, 0, 0.25);
 }
 
 * { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
 
 body {
   margin: 0;
@@ -66,6 +118,16 @@ body {
 }
 
 a { color: inherit; }
+a, .btn, .chip, .panel, .ad, .rss, .nav a {
+  transition: color 0.15s var(--ease), border-color 0.15s var(--ease),
+    background-color 0.15s var(--ease), box-shadow 0.2s var(--ease),
+    transform 0.2s var(--ease);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  a, .btn, .chip, .panel, .ad, .rss, .nav a { transition: none; }
+}
 
 .wrap {
   max-width: var(--wrap);
@@ -91,6 +153,9 @@ a { color: inherit; }
 .masthead {
   border-bottom: 2px solid var(--ink);
   background: var(--surface);
+  box-shadow: var(--shadow-sm);
+  position: relative;
+  z-index: 1;
 }
 
 .masthead__inner {
@@ -98,8 +163,8 @@ a { color: inherit; }
   align-items: flex-end;
   justify-content: space-between;
   gap: 20px;
-  padding-top: 22px;
-  padding-bottom: 16px;
+  padding-top: 28px;
+  padding-bottom: 20px;
   flex-wrap: wrap;
 }
 
@@ -186,7 +251,7 @@ a { color: inherit; }
 }
 
 .nav a {
-  padding: 11px 14px;
+  padding: 13px 15px;
   text-decoration: none;
   font-size: 13px;
   font-weight: 600;
@@ -194,7 +259,7 @@ a { color: inherit; }
   border-bottom: 2px solid transparent;
   white-space: nowrap;
 }
-.nav a:hover { color: var(--ink); }
+.nav a:hover { color: var(--ink); border-bottom-color: var(--border-strong); }
 .nav a.active { color: var(--accent); border-bottom-color: var(--accent); }
 
 /* ---------- layout ---------- */
@@ -204,10 +269,10 @@ a { color: inherit; }
 .layout {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 300px;
-  gap: 40px;
+  gap: 48px;
   align-items: start;
-  padding-top: 22px;
-  padding-bottom: 50px;
+  padding-top: 30px;
+  padding-bottom: 64px;
 }
 
 @media (max-width: 900px) {
@@ -303,6 +368,7 @@ a { color: inherit; }
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 15px 16px;
+  box-shadow: var(--shadow-sm);
 }
 
 .panel__title {
@@ -337,8 +403,10 @@ a { color: inherit; }
   font-weight: 600;
   padding: 8px 14px;
   border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
 }
-.btn:hover { background: var(--accent); color: #fff; }
+.btn:hover { background: var(--accent); color: #fff; box-shadow: var(--shadow-md); transform: translateY(-1px); }
+.btn:active { transform: translateY(0); box-shadow: var(--shadow-sm); }
 .btn--lg { font-size: 15px; padding: 11px 20px; }
 
 /* ---------- ads ---------- */
@@ -349,7 +417,10 @@ a { color: inherit; }
   border-radius: var(--radius);
   background: var(--surface);
   padding: 14px 16px;
+  box-shadow: var(--shadow-sm);
 }
+
+.ad--direct:hover { box-shadow: var(--shadow-md); transform: translateY(-1px); }
 
 .ad__label {
   position: absolute;
@@ -403,6 +474,7 @@ a { color: inherit; }
   border-style: dashed;
   border-color: var(--border-strong);
   background: transparent;
+  box-shadow: none;
 }
 .ad--house .ad__headline { color: var(--ink-soft); font-size: 15px; }
 
@@ -560,21 +632,21 @@ a { color: inherit; }
    THE BRIEF — events, not articles
    =========================================================================== */
 
-.brief-head { padding: 4px 0 22px; border-bottom: 1px solid var(--border); margin-bottom: 8px; }
+.brief-head { padding: 10px 0 26px; border-bottom: 1px solid var(--border); margin-bottom: 8px; }
 
 .brief-title {
   font-family: var(--serif);
-  font-size: 30px;
-  line-height: 1.15;
-  letter-spacing: -0.02em;
-  margin: 0 0 10px;
+  font-size: 38px;
+  line-height: 1.1;
+  letter-spacing: -0.025em;
+  margin: 0 0 12px;
   font-weight: 700;
 }
 
 .brief-line {
-  margin: 0 0 10px;
-  font-size: 16px;
-  line-height: 1.55;
+  margin: 0 0 12px;
+  font-size: 17px;
+  line-height: 1.6;
   color: var(--ink-soft);
   max-width: 62ch;
 }
@@ -588,14 +660,25 @@ a { color: inherit; }
   line-height: 1.7;
 }
 
+/* Label, then a hairline running to the margin — the section break an
+   editorial page uses instead of a heavier heading. */
 .leads__title, .mod__title {
+  display: flex;
+  align-items: center;
+  gap: 14px;
   font-family: var(--mono);
   font-size: 11px;
   text-transform: uppercase;
   letter-spacing: 0.11em;
   color: var(--ink-faint);
   font-weight: 600;
-  margin: 26px 0 2px;
+  margin: 34px 0 10px;
+}
+.leads__title::after, .mod__title::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--border);
 }
 
 .mod__note { margin: 2px 0 6px; font-size: 13px; color: var(--ink-faint); }
@@ -605,6 +688,28 @@ a { color: inherit; }
 .ev { display: flex; gap: 16px; padding: 18px 0; border-bottom: 1px solid var(--border); align-items: flex-start; }
 
 .ev--lead .ev__body { flex: 1; min-width: 0; }
+
+/* The top story reads as a featured card, not just the first row in a list —
+   the one place on the page that should look unmistakably like the lead. */
+.leads .ev--lead:first-of-type {
+  padding: 24px 26px;
+  margin-bottom: 6px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-md);
+}
+.leads .ev--lead:first-of-type .ev__title { font-size: 30px; line-height: 1.2; }
+.leads .ev--lead:first-of-type .ev__changed { font-size: 16px; }
+@media (max-width: 620px) {
+  .leads .ev--lead:first-of-type { padding: 16px 14px; }
+  .leads .ev--lead:first-of-type .ev__title { font-size: 21px; }
+  /* Phone width is all gutter: the rank and score columns were taking a third
+     of the card and wrapping the headline four words at a time. */
+  .leads .ev--lead:first-of-type .ev__score { min-width: 46px; }
+  .leads .ev--lead:first-of-type .ev__rank { min-width: 12px; }
+}
 
 .ev__rank {
   font-family: var(--mono);
@@ -792,7 +897,7 @@ a { color: inherit; }
 .related a:hover { color: var(--accent); }
 
 @media (max-width: 620px) {
-  .brief-title { font-size: 24px; }
+  .brief-title { font-size: 27px; }
   .ev__title { font-size: 19px; }
   .story-page__title { font-size: 25px; }
   .ev__num { font-size: 22px; }
