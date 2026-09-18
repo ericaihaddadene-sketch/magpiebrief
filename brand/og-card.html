@@ -1,0 +1,152 @@
+<!doctype html>
+<!--
+  Generates public/og.png — the social share card.
+
+  That card bakes the tagline into pixels, so changing site.tagline in config.js
+  does NOT update it. It stayed on a tagline the site had already abandoned
+  until someone noticed. Re-run this whenever the tagline or wordmark changes.
+
+  It must be SERVED, not opened from disk: canvas.toDataURL() refuses to export
+  once a file:// image has tainted the canvas. Serve the repo root over HTTP,
+  open this file, and either right-click the canvas to save it as
+  public/og.png, or POST `window.png` to a small writer script.
+
+  Geometry here was measured off the original card so the composition survives;
+  only the typeface (now the site's own Fraunces) and the copy have changed.
+-->
+<html>
+<head>
+<meta charset="utf-8">
+<title>og card generator</title>
+<style>
+  @font-face {
+    font-family: "Fraunces";
+    font-style: normal;
+    font-weight: 400 700;
+    src: url("../public/fonts/fraunces-normal-latin.woff2") format("woff2");
+  }
+  body { margin: 0; background: #333; }
+  canvas { display: block; width: 700px; margin: 20px auto; }
+</style>
+</head>
+<body>
+<canvas id="c" width="1200" height="630"></canvas>
+<img id="bird" src="../public/logo.png" style="display:none">
+<script>
+// Geometry measured off the previous card so the composition is unchanged;
+// only the typeface (now the site's own Fraunces) and the copy differ.
+const BG = '#f5f8fb';
+const ACCENT = '#1c6ba8';
+const INK = '#14243d';
+const INK_SOFT = '#52657c';
+const INK_FAINT = '#8497a9';
+
+const TEXT_X = 580;
+const TEXT_RIGHT = 1150;
+const WORDMARK_TOP = 224;
+const WORDMARK_CAP = 82;
+const RULE = { x: 582, y: 318, w: 92, h: 5 };
+const TAGLINE_TOP = 372;
+
+const WORDMARK = 'Magpie Brief';
+const TAGLINE = 'AI news from 22 sources, gathered hourly.';
+const KICKER = 'ONE ENTRY PER DEVELOPMENT';
+
+window.ready = false;
+window.png = null;
+
+function loaded(img) {
+  return img.complete ? Promise.resolve() : new Promise((r) => { img.onload = r; img.onerror = r; });
+}
+
+/** Largest size at which `text` still fits `maxWidth` — the wordmark was once
+    clipped to "Magpie Brie" by a hard-coded size, so nothing is assumed. */
+function fitSize(ctx, text, font, maxWidth, start) {
+  let size = start;
+  while (size > 8) {
+    ctx.font = font(size);
+    if (ctx.measureText(text).width <= maxWidth) return size;
+    size -= 1;
+  }
+  return size;
+}
+
+function wrap(ctx, text, maxWidth) {
+  const words = text.split(' ');
+  const lines = [];
+  let line = '';
+  for (const w of words) {
+    const next = line ? line + ' ' + w : w;
+    if (ctx.measureText(next).width > maxWidth && line) { lines.push(line); line = w; }
+    else line = next;
+  }
+  if (line) lines.push(line);
+  return lines;
+}
+
+(async () => {
+  const bird = document.getElementById('bird');
+  await loaded(bird);
+  await document.fonts.load('700 110px Fraunces');
+  await document.fonts.load('400 34px Fraunces');
+  await document.fonts.ready;
+
+  const ctx = document.getElementById('c').getContext('2d');
+
+  ctx.fillStyle = BG;
+  ctx.fillRect(0, 0, 1200, 630);
+  ctx.fillStyle = ACCENT;
+  ctx.fillRect(0, 0, 14, 630);
+
+  ctx.drawImage(bird, 45, 108, 490, 415);
+
+  // Wordmark, sized so its cap height matches the original card exactly.
+  const serif = (px) => `700 ${px}px Fraunces, Georgia, serif`;
+  let size = fitSize(ctx, WORDMARK, serif, TEXT_RIGHT - TEXT_X, 130);
+  ctx.font = serif(size);
+  let m = ctx.measureText(WORDMARK);
+  // Scale so the measured cap height lands on WORDMARK_CAP, then re-fit width.
+  size = Math.min(Math.round(size * (WORDMARK_CAP / m.actualBoundingBoxAscent)), size);
+  size = fitSize(ctx, WORDMARK, serif, TEXT_RIGHT - TEXT_X, size);
+  ctx.font = serif(size);
+  m = ctx.measureText(WORDMARK);
+  ctx.fillStyle = INK;
+  ctx.textBaseline = 'alphabetic';
+  ctx.fillText(WORDMARK, TEXT_X, WORDMARK_TOP + m.actualBoundingBoxAscent);
+
+  ctx.fillStyle = ACCENT;
+  ctx.fillRect(RULE.x, RULE.y, RULE.w, RULE.h);
+
+  // One line if it can be had without going small: this tagline is short, and
+  // wrapping it left "hourly." stranded on a line of its own.
+  const tagFont = (px) => `400 ${px}px Fraunces, Georgia, serif`;
+  const maxW = TEXT_RIGHT - TEXT_X;
+  const onePx = fitSize(ctx, TAGLINE, tagFont, maxW, 34);
+  const tagPx = onePx >= 28 ? onePx : 34;
+  ctx.font = tagFont(tagPx);
+  const lines = wrap(ctx, TAGLINE, maxW);
+  const lineH = Math.round(tagPx * 1.3);
+
+  ctx.fillStyle = INK_SOFT;
+  lines.forEach((ln, i) => {
+    const mm = ctx.measureText(ln);
+    ctx.fillText(ln, TEXT_X, TAGLINE_TOP + i * lineH + mm.actualBoundingBoxAscent);
+  });
+
+  // Anchored below the tagline block rather than at a fixed y, so the spacing
+  // holds whether the tagline runs to one line or two.
+  const kickerTop = TAGLINE_TOP + (lines.length - 1) * lineH + 72;
+  ctx.font = '600 19px ui-monospace, "SF Mono", Menlo, Consolas, monospace';
+  ctx.letterSpacing = '2.5px';
+  ctx.fillStyle = INK_FAINT;
+  const km = ctx.measureText(KICKER);
+  ctx.fillText(KICKER, TEXT_X, kickerTop + km.actualBoundingBoxAscent);
+  ctx.letterSpacing = '0px';
+
+  window.png = document.getElementById('c').toDataURL('image/png');
+  window.pngLen = window.png.length;
+  window.ready = true;
+})();
+</script>
+</body>
+</html>
