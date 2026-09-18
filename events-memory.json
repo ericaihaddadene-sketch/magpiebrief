@@ -13,6 +13,20 @@
   "confidence": "Confirmed",
   "category": "business"
  },
+ "infinite-parameter-llms-generating": {
+  "id": "infinite-parameter-llms-generating",
+  "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+  "firstSeen": "2026-09-17T18:06:53.816Z",
+  "publishers": [
+   "arXiv"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 4.7,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
  "openai-security-covert-uploads-megalomania-openai": {
   "id": "openai-security-covert-uploads-megalomania-openai",
   "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
@@ -41,20 +55,6 @@
   "hadPrimary": false,
   "importance": 4.2,
   "confidence": "Highly likely",
-  "category": "general"
- },
- "infinite-parameter-llms-generating": {
-  "id": "infinite-parameter-llms-generating",
-  "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-  "firstSeen": "2026-09-17T18:06:53.816Z",
-  "publishers": [
-   "arXiv"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
   "category": "general"
  },
  "making-global-data-easier": {
@@ -169,82 +169,12 @@
   "confidence": "Confirmed",
   "category": "general"
  },
- "your-agent-aced-task": {
-  "id": "your-agent-aced-task",
-  "title": "Your Agent Aced the Task. Will It Do It Again?",
-  "firstSeen": "2026-09-15T18:51:52.796Z",
-  "publishers": [
-   "Hugging Face"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
  "search-bypassing-inference-bottlenecks-accelerating": {
   "id": "search-bypassing-inference-bottlenecks-accelerating",
   "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
   "firstSeen": "2026-09-15T22:04:18.105Z",
   "publishers": [
    "Google Research"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "societal-impact": {
-  "id": "societal-impact",
-  "title": "AI for Societal Impact",
-  "firstSeen": "2026-09-15T18:51:52.796Z",
-  "publishers": [
-   "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "building-accelerate-science-improve": {
-  "id": "building-accelerate-science-improve",
-  "title": "Building AI to accelerate science and improve lives",
-  "firstSeen": "2026-09-15T18:51:52.796Z",
-  "publishers": [
-   "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "everyone-every-language": {
-  "id": "everyone-every-language",
-  "title": "AI for everyone in every language",
-  "firstSeen": "2026-09-15T18:51:52.796Z",
-  "publishers": [
-   "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "importance": 4,
-  "confidence": "Confirmed",
-  "category": "general"
- },
- "google-insights-from-google-economy": {
-  "id": "google-insights-from-google-economy",
-  "title": "New insights from Google’s AI & Economy ATLAS",
-  "firstSeen": "2026-09-15T14:49:38.369Z",
-  "publishers": [
-   "Google AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -293,6 +223,104 @@
   "hadPrimary": false,
   "importance": 3.9,
   "confidence": "Developing",
+  "category": "models"
+ },
+ "your-agent-aced-task": {
+  "id": "your-agent-aced-task",
+  "title": "Your Agent Aced the Task. Will It Do It Again?",
+  "firstSeen": "2026-09-15T18:51:52.796Z",
+  "publishers": [
+   "Hugging Face"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 3.5,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "societal-impact": {
+  "id": "societal-impact",
+  "title": "AI for Societal Impact",
+  "firstSeen": "2026-09-15T18:51:52.796Z",
+  "publishers": [
+   "Google AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 3.5,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "building-accelerate-science-improve": {
+  "id": "building-accelerate-science-improve",
+  "title": "Building AI to accelerate science and improve lives",
+  "firstSeen": "2026-09-15T18:51:52.796Z",
+  "publishers": [
+   "Google AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 3.5,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "everyone-every-language": {
+  "id": "everyone-every-language",
+  "title": "AI for everyone in every language",
+  "firstSeen": "2026-09-15T18:51:52.796Z",
+  "publishers": [
+   "Google AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 3.5,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "google-insights-from-google-economy": {
+  "id": "google-insights-from-google-economy",
+  "title": "New insights from Google’s AI & Economy ATLAS",
+  "firstSeen": "2026-09-15T14:49:38.369Z",
+  "publishers": [
+   "Google AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "importance": 3.5,
+  "confidence": "Confirmed",
+  "category": "general"
+ },
+ "alibaba-qwen-alibaba-releases-qwen-omni": {
+  "id": "alibaba-qwen-alibaba-releases-qwen-omni",
+  "title": "Alibaba releases Qwen 3.8 Omni Flash",
+  "firstSeen": "2026-09-18T04:27:46.901Z",
+  "publishers": [
+   "qwen.ai"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 3.1,
+  "confidence": "Unverified",
+  "category": "models"
+ },
+ "qwen-shapelearn-qwen-vram": {
+  "id": "qwen-shapelearn-qwen-vram",
+  "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+  "firstSeen": "2026-09-18T04:27:46.901Z",
+  "publishers": [
+   "byteshape.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 3.1,
+  "confidence": "Unverified",
   "category": "models"
  },
  "small-models-drones-autonomously": {
@@ -367,7 +395,7 @@
  },
  "funding-crusoe-raises-build-massive": {
   "id": "funding-crusoe-raises-build-massive",
-  "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+  "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
   "firstSeen": "2026-09-18T00:02:38.336Z",
   "publishers": [
    "TechCrunch"
@@ -435,20 +463,6 @@
   "confidence": "Developing",
   "category": "business"
  },
- "anthropic-deepseek-openai-deepseek-engineer-slams-anthropic": {
-  "id": "anthropic-deepseek-openai-deepseek-engineer-slams-anthropic",
-  "title": "DeepSeek AI engineer slams Anthropic, OpenAI over ‘pacing’ calls, invokes Nazi Germany",
-  "firstSeen": "2026-09-16T16:40:43.407Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "importance": 2.9,
-  "confidence": "Developing",
-  "category": "general"
- },
  "pinterest-teases-restyle-feature": {
   "id": "pinterest-teases-restyle-feature",
   "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
@@ -476,5 +490,19 @@
   "importance": 2.7,
   "confidence": "Developing",
   "category": "tools"
+ },
+ "bend-language-that-blocks": {
+  "id": "bend-language-that-blocks",
+  "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+  "firstSeen": "2026-09-18T04:27:46.901Z",
+  "publishers": [
+   "bend-lang.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "importance": 2.6,
+  "confidence": "Unverified",
+  "category": "general"
  }
 }
