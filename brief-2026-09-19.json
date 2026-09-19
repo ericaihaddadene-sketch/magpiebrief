@@ -1,15 +1,64 @@
 {
  "date": "2026-09-19",
- "generated": "2026-09-19T17:08:52.909Z",
- "headline": "87 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2677 items read · 89 on-topic · 87 distinct developments · 8 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-19T20:28:19.547Z",
+ "headline": "88 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2677 items read · 90 on-topic · 88 distinct developments · 9 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "google-gemini-gemini-went-rogue-hacked",
-   "title": "Gemini went rogue, hacked three companies, and Google hid it",
+   "id": "anthropic-openai-openai-anthropic-oversold-security",
+   "title": "OpenAI and Anthropic oversold AI security breaches",
    "category": {
-    "id": "security",
-    "name": "Security"
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 257.0074663935358,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 1,
+   "publishedAt": "2026-09-18T09:00:06.000Z",
+   "latestAt": "2026-09-19T19:59:28.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
+     "link": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-18T09:00:06.000Z",
+     "points": null,
+     "summary": "Chinese artificial intelligence models from seven major developers combined generate only about 10 per cent of the revenue reported for OpenAI and Anthropic, even as investor…"
+    },
+    {
+     "title": "OpenAI and Anthropic oversold AI security breaches",
+     "link": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
+     "publisher": "nypost.com",
+     "publisherDomain": "nypost.com",
+     "kind": "discussion",
+     "date": "2026-09-19T19:59:28.000Z",
+     "points": 15,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "google-gemini-google-gemini-latest-model",
+   "title": "Google’s Gemini is the latest AI model to hack other companies",
+   "category": {
+    "id": "models",
+    "name": "Models"
    },
    "entities": [
     {
@@ -23,23 +72,23 @@
      "kind": "model"
     }
    ],
-   "rank": 160.55122532773566,
+   "rank": 169.7835799089428,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
    "publishedAt": "2026-09-19T03:00:52.000Z",
-   "latestAt": "2026-09-19T15:25:03.000Z",
+   "latestAt": "2026-09-19T17:30:00.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Gemini went rogue, hacked three companies, and Google hid it",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
+     "title": "Google’s Gemini is the latest AI model to hack other companies",
+     "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
      "kind": "coverage",
-     "date": "2026-09-19T15:25:03.000Z",
+     "date": "2026-09-19T17:30:00.000Z",
      "points": null,
-     "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks…"
+     "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
     },
     {
      "title": "Gemini had its first breakout: Google claims it is not misalignment?",
@@ -54,6 +103,94 @@
    ]
   },
   {
+   "id": "trump-suggests-rebranding-with",
+   "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 113.90919590359913,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T19:57:47.000Z",
+   "latestAt": "2026-09-19T19:57:47.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+     "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-19T19:57:47.000Z",
+     "points": null,
+     "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
+    }
+   ]
+  },
+  {
+   "id": "almost-never-write-anything",
+   "title": "Almost Never Use AI to Write Anything Substantive",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 110.79130837542355,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-19T16:35:24.000Z",
+   "latestAt": "2026-09-19T16:35:24.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Almost Never Use AI to Write Anything Substantive",
+     "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+     "publisher": "erichgrunewald.substack.com",
+     "publisherDomain": "erichgrunewald.substack.com",
+     "kind": "discussion",
+     "date": "2026-09-19T16:35:24.000Z",
+     "points": 116,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "show-system-model-computer",
+   "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 98.42541812310901,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T15:52:51.000Z",
+   "latestAt": "2026-09-19T15:52:51.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/trycua/cua",
+    "title": "Show HN: CUA-S1 – A System One Model for Computer Use"
+   },
+   "sources": [
+    {
+     "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+     "link": "https://github.com/trycua/cua",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-19T15:52:51.000Z",
+     "points": 22,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "california-lion-brandt-cormorant",
    "title": "California Sea Lion, Brandt's Cormorant",
    "category": {
@@ -61,7 +198,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 120,
+   "rank": 95.44325166393564,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -82,6 +219,36 @@
    ]
   },
   {
+   "id": "built-autoregressive-decision-models",
+   "title": "I built non-autoregressive decision models with RL a year ago",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 87.41236900345376,
+   "deltas": [
+    "Now also covered by laya.convaiinnovations.com."
+   ],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-19T10:46:58.000Z",
+   "latestAt": "2026-09-19T10:46:58.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "I built non-autoregressive decision models with RL a year ago",
+     "link": "https://laya.convaiinnovations.com/",
+     "publisher": "laya.convaiinnovations.com",
+     "publisherDomain": "laya.convaiinnovations.com",
+     "kind": "discussion",
+     "date": "2026-09-19T10:46:58.000Z",
+     "points": 871,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "vals-backed-andreessen-horowitz",
    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
    "category": {
@@ -89,7 +256,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 90.01471320644629,
+   "rank": 71.49063695963768,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -123,7 +290,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 90.01471320644629,
+   "rank": 71.49063695963768,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -144,34 +311,6 @@
    ]
   },
   {
-   "id": "paradox-heart-science-terence",
-   "title": "The paradox at the heart of AI and science | Terence Tao",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 88.38769622158762,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-19T16:53:14.000Z",
-   "latestAt": "2026-09-19T16:53:14.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The paradox at the heart of AI and science | Terence Tao",
-     "link": "https://www.youtube.com/watch?v=svl_1upFpQo",
-     "publisher": "YouTube",
-     "publisherDomain": "youtube.com",
-     "kind": "discussion",
-     "date": "2026-09-19T16:53:14.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "petlibro-powered-feeder-game",
    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
    "category": {
@@ -179,7 +318,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 86.16646082147894,
+   "rank": 68.43431422768838,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -213,7 +352,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 86.16646082147894,
+   "rank": 68.43431422768838,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -241,7 +380,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 84.45154243794681,
+   "rank": 67.07230791555,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -256,7 +395,7 @@
      "publisherDomain": "john.hartnup.uk",
      "kind": "discussion",
      "date": "2026-09-19T09:20:58.000Z",
-     "points": 762,
+     "points": 1104,
      "summary": ""
     }
    ]
@@ -269,7 +408,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 81.67537154440247,
+   "rank": 64.86744363927214,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -308,7 +447,7 @@
      "kind": "org"
     }
    ],
-   "rank": 80.68616451272311,
+   "rank": 64.08180495576585,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -336,7 +475,7 @@
     "name": "Policy & Regulation"
    },
    "entities": [],
-   "rank": 80.39615071040362,
+   "rank": 63.851472927629985,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -357,79 +496,36 @@
    ]
   },
   {
-   "id": "openai-claude-openai-used-llms-design",
-   "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    },
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "rank": 73.38996158453435,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T13:30:12.000Z",
-   "latestAt": "2026-09-19T09:52:30.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Researchers used Claude to hack OpenAI",
-     "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-18T13:30:12.000Z",
-     "points": null,
-     "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data."
-    },
-    {
-     "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-     "link": "https://spectrum.ieee.org/llms-for-chip-design",
-     "publisher": "IEEE Spectrum",
-     "publisherDomain": "spectrum.ieee.org",
-     "kind": "discussion",
-     "date": "2026-09-19T09:52:30.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "built-autoregressive-decision-models",
-   "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+   "id": "safety-alignment-succession-toward-future",
+   "title": "Alignment & Succession: Toward a Future Painted by Human Wills",
    "category": {
     "id": "general",
     "name": "Other"
    },
-   "entities": [],
-   "rank": 70.86336632149732,
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 61.39490562555289,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-19T13:41:57.000Z",
-   "latestAt": "2026-09-19T13:41:57.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T18:34:47.000Z",
+   "latestAt": "2026-09-19T18:34:47.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
-     "link": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
-     "publisher": "dev.to",
-     "publisherDomain": "dev.to",
-     "kind": "discussion",
-     "date": "2026-09-19T13:41:57.000Z",
+     "title": "Alignment & Succession: Toward a Future Painted by Human Wills",
+     "link": "https://www.lesswrong.com/posts/yCTM73n5yqCDzJNB5/alignment-and-succession-toward-a-future-painted-by-human",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-19T18:34:47.000Z",
      "points": null,
-     "summary": ""
+     "summary": "(originally published on No Set Gauge on 2026-09-13) Asher Brown Durand, Progress (The Advance of Civilization) So far I have argued: The ideology of succession —that…"
     }
    ]
   },
@@ -447,7 +543,7 @@
      "kind": "model"
     }
    ],
-   "rank": 70.26152470596757,
+   "rank": 55.80244580088517,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -462,7 +558,35 @@
      "publisherDomain": "prinzai.com",
      "kind": "discussion",
      "date": "2026-09-19T06:41:44.000Z",
-     "points": 257,
+     "points": 313,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "parallel-neural-ectoderm-progenitors",
+   "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 52.49433313912145,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-19T05:48:50.000Z",
+   "latestAt": "2026-09-19T05:48:50.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+     "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+     "publisher": "med.stanford.edu",
+     "publisherDomain": "med.stanford.edu",
+     "kind": "discussion",
+     "date": "2026-09-19T05:48:50.000Z",
+     "points": 579,
      "summary": ""
     }
    ]
@@ -475,7 +599,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 65.83077689471051,
+   "rank": 52.28349904261673,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -513,7 +637,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 65.3019660723424,
+   "rank": 51.86351189634275,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -541,7 +665,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 63.167923349326216,
+   "rank": 50.16863260235883,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -569,7 +693,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 60.92888875771273,
+   "rank": 48.39036765624948,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -603,7 +727,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 58.73158565498823,
+   "rank": 46.64524629984535,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -637,7 +761,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 58.11850932138332,
+   "rank": 46.15833459360269,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -665,7 +789,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 56.84866334862206,
+   "rank": 45.14980949587642,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -693,7 +817,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 55.74134058544952,
+   "rank": 44.270362049573365,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -721,7 +845,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 52.1716020617114,
+   "rank": 41.43523797095641,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -755,7 +879,7 @@
      "kind": "org"
     }
    ],
-   "rank": 43.307494415530925,
+   "rank": 34.39526995760663,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -789,7 +913,7 @@
      "kind": "org"
     }
    ],
-   "rank": 39.07752046988871,
+   "rank": 31.035779926203865,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -828,7 +952,7 @@
      "kind": "org"
     }
    ],
-   "rank": 33.69230587672858,
+   "rank": 26.758785558112237,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -849,6 +973,45 @@
    ]
   },
   {
+   "id": "openai-claude-researchers-used-claude-hack",
+   "title": "Researchers used Claude to hack OpenAI",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    },
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 26.03547387281272,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-18T13:30:12.000Z",
+   "latestAt": "2026-09-18T13:30:12.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Researchers used Claude to hack OpenAI",
+     "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-18T13:30:12.000Z",
+     "points": null,
+     "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data."
+    }
+   ]
+  },
+  {
    "id": "tilly-norwood-press-tour",
    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
    "category": {
@@ -856,7 +1019,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 30.893875727781108,
+   "rank": 24.53624274584473,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -884,7 +1047,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 29.282024804851076,
+   "rank": 23.256093700655136,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -912,7 +1075,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 29.25779149414393,
+   "rank": 23.23684734907124,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -940,7 +1103,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.83888361033296,
+   "rank": 22.90414627860984,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -979,7 +1142,7 @@
      "kind": "org"
     }
    ],
-   "rank": 27.612788414073385,
+   "rank": 21.93036851016085,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1007,7 +1170,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.501053692407744,
+   "rank": 21.047417039774672,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1041,7 +1204,7 @@
      "kind": "org"
     }
    ],
-   "rank": 26.37621476867014,
+   "rank": 20.94826864661268,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1069,7 +1232,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.335110981820538,
+   "rank": 20.915623584503866,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1097,7 +1260,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 26.18752928173615,
+   "rank": 20.798412637906495,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1125,7 +1288,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.133689832015087,
+   "rank": 20.755652777690226,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1153,7 +1316,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 24.470174659756076,
+   "rank": 19.434471439434276,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1181,7 +1344,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 24.27299572759424,
+   "rank": 19.277869846726407,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1209,7 +1372,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 23.708139882773178,
+   "rank": 18.82925536251407,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1237,7 +1400,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.579208924055457,
+   "rank": 18.726857031905524,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1265,7 +1428,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.074433714271716,
+   "rank": 17.53174865021479,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1293,7 +1456,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.327066031886893,
+   "rank": 16.938181334900463,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1327,7 +1490,7 @@
      "kind": "model"
     }
    ],
-   "rank": 21.281892197563728,
+   "rank": 16.90230379805529,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1355,7 +1518,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.790608501886933,
+   "rank": 16.51212109257616,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1376,73 +1539,6 @@
    ]
   },
   {
-   "id": "anthropic-openai-chinese-models-make-openai",
-   "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 20.722734971608237,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T09:00:06.000Z",
-   "latestAt": "2026-09-18T09:00:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
-     "link": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-18T09:00:06.000Z",
-     "points": null,
-     "summary": "Chinese artificial intelligence models from seven major developers combined generate only about 10 per cent of the revenue reported for OpenAI and Anthropic, even as investor…"
-    }
-   ]
-  },
-  {
-   "id": "current-model-what-happened",
-   "title": "My Current Model of What Happened to Elon Musk",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 20.253403489423388,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T23:15:22.000Z",
-   "latestAt": "2026-09-18T23:15:22.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "My Current Model of What Happened to Elon Musk",
-     "link": "https://www.lesswrong.com/posts/oRGEtjivFffdhDHWq/my-current-model-of-what-happened-to-elon-musk",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-18T23:15:22.000Z",
-     "points": null,
-     "summary": "This is cross-posted from my Substack Elon Musk appears to have gone crazy. What happened? There are several hypotheses to explain his behavior: Sleep deprivation Subclinical…"
-    }
-   ]
-  },
-  {
    "id": "google-creating-future-fashion-with",
    "title": "Co-creating the future of fashion with Google",
    "category": {
@@ -1456,7 +1552,7 @@
      "kind": "org"
     }
    ],
-   "rank": 20.124426825412208,
+   "rank": 15.983032561540249,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1488,7 +1584,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.780009169419447,
+   "rank": 15.709492417601819,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1520,7 +1616,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 19.52949501311814,
+   "rank": 15.510531425965796,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1548,7 +1644,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.069932312989256,
+   "rank": 15.14554187053885,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1569,34 +1665,6 @@
    ]
   },
   {
-   "id": "dario-amodei-other-leaders",
-   "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 18.96950435519743,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T17:09:56.000Z",
-   "latestAt": "2026-09-18T17:09:56.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-     "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-18T17:09:56.000Z",
-     "points": null,
-     "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of…"
-    }
-   ]
-  },
-  {
    "id": "google-experts-join-google-economy",
    "title": "New experts join Google’s AI & Economy team",
    "category": {
@@ -1610,7 +1678,7 @@
      "kind": "org"
     }
    ],
-   "rank": 18.278666627313818,
+   "rank": 14.517110296874844,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1642,7 +1710,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.238545489435957,
+   "rank": 13.69103509190772,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1674,7 +1742,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.208553654721804,
+   "rank": 13.667215259672238,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1702,7 +1770,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.328006371413686,
+   "rank": 12.967875297188556,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1730,7 +1798,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.3254915180856,
+   "rank": 12.965877974085688,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1764,7 +1832,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 16.204052867046933,
+   "rank": 12.869430113452482,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1798,7 +1866,7 @@
      "kind": "org"
     }
    ],
-   "rank": 14.98235836646195,
+   "rank": 11.899147424037077,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1832,7 +1900,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 14.713356783023832,
+   "rank": 11.685503522300301,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1860,7 +1928,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.085223174326579,
+   "rank": 11.186633168977812,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1888,7 +1956,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.439320538297364,
+   "rank": 10.673650466275259,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1916,7 +1984,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.745648977777593,
+   "rank": 9.328518605617276,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1944,7 +2012,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.309347982819114,
+   "rank": 8.982003742384096,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1972,7 +2040,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.959078003277071,
+   "rank": 8.703815621205857,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2000,7 +2068,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.77080760268487,
+   "rank": 8.554289278461043,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2028,7 +2096,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.909249715961149,
+   "rank": 7.075820322459474,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2049,34 +2117,6 @@
    ]
   },
   {
-   "id": "write-with",
-   "title": "How to Write with an LLM",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 8.485206901039685,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-17T21:48:38.000Z",
-   "latestAt": "2026-09-17T21:48:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How to Write with an LLM",
-     "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-     "publisher": "sockpuppet.org",
-     "publisherDomain": "sockpuppet.org",
-     "kind": "discussion",
-     "date": "2026-09-17T21:48:38.000Z",
-     "points": 560,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "china-major-shift-huawei",
    "title": "China to see major shift to Huawei for AI model training in 2027: deputy chair",
    "category": {
@@ -2084,7 +2124,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.750279750132186,
+   "rank": 6.155354121737649,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2112,7 +2152,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.920853854154165,
+   "rank": 5.496615305581088,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2133,6 +2173,36 @@
    ]
   },
   {
+   "id": "write-with",
+   "title": "How To Write With An LLM",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 5.3595024265372855,
+   "deltas": [
+    "Now also covered by Simon Willison."
+   ],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-17T23:37:27.000Z",
+   "latestAt": "2026-09-17T23:37:27.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How To Write With An LLM",
+     "link": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-17T23:37:27.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "lawmakers-ground-cybersecurity-rules",
    "title": "EFF to Lawmakers: Ground AI Cybersecurity Rules in Best Practices",
    "category": {
@@ -2140,7 +2210,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.302826577850494,
+   "rank": 5.005771508300452,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2174,7 +2244,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.035596267216071,
+   "rank": 4.793534370152146,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2202,7 +2272,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.612395612336186,
+   "rank": 4.457423935520087,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2230,7 +2300,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 5.610654820964527,
+   "rank": 4.456041380607219,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2258,7 +2328,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.249168571583648,
+   "rank": 4.1689451793326615,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2290,7 +2360,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.945956004152811,
+   "rank": 3.9281305523940397,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2324,7 +2394,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.871491681937671,
+   "rank": 3.8689902003749337,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2352,7 +2422,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.352725853002872,
+   "rank": 3.4569808940920224,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2380,7 +2450,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 3.429857654778413,
+   "rank": 2.7240292135201516,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2419,7 +2489,7 @@
      "kind": "model"
     }
    ],
-   "rank": 3.266093622610148,
+   "rank": 2.593966087684968,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2457,7 +2527,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.227483975077282,
+   "rank": 1.7690913243309268,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2485,7 +2555,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.642429812070887,
+   "rank": 1.3044351222577355,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2513,7 +2583,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4216498214705715,
+   "rank": 1.1290893194025968,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2538,40 +2608,6 @@
    ]
   },
   {
-   "id": "claude-claude-cowork-chat-claude",
-   "title": "Claude Cowork and chat are now one Claude",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.3134966680370175,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T18:09:49.000Z",
-   "latestAt": "2026-09-16T18:09:49.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Claude Cowork and chat are now one Claude",
-     "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-16T18:09:49.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "datasette-0a40",
    "title": "datasette 1.0a40",
    "category": {
@@ -2579,7 +2615,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2997943422913623,
+   "rank": 1.0323104094530213,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2607,7 +2643,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2989187149355483,
+   "rank": 1.031614976948972,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2641,7 +2677,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.2299346980983559,
+   "rank": 0.9768271414046362,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2675,7 +2711,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.0505677172929453,
+   "rank": 0.8343719887909017,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,

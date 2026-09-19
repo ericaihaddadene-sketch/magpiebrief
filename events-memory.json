@@ -1,16 +1,65 @@
 {
- "google-gemini-gemini-went-rogue-hacked": {
-  "id": "google-gemini-gemini-went-rogue-hacked",
-  "title": "Gemini went rogue, hacked three companies, and Google hid it",
-  "firstSeen": "2026-09-19T17:08:52.860Z",
+ "anthropic-openai-openai-anthropic-oversold-security": {
+  "id": "anthropic-openai-openai-anthropic-oversold-security",
+  "title": "OpenAI and Anthropic oversold AI security breaches",
+  "firstSeen": "2026-09-19T20:28:19.495Z",
   "publishers": [
-   "The Verge",
+   "SCMP Tech",
+   "nypost.com"
+  ],
+  "sourceCount": 2,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "google-gemini-google-gemini-latest-model": {
+  "id": "google-gemini-google-gemini-latest-model",
+  "title": "Google’s Gemini is the latest AI model to hack other companies",
+  "firstSeen": "2026-09-19T20:28:19.495Z",
+  "publishers": [
+   "TechCrunch",
    "LessWrong"
   ],
   "sourceCount": 2,
   "independentCount": 2,
   "hadPrimary": false,
-  "category": "security"
+  "category": "models"
+ },
+ "trump-suggests-rebranding-with": {
+  "id": "trump-suggests-rebranding-with",
+  "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+  "firstSeen": "2026-09-19T20:28:19.495Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "almost-never-write-anything": {
+  "id": "almost-never-write-anything",
+  "title": "Almost Never Use AI to Write Anything Substantive",
+  "firstSeen": "2026-09-19T20:28:19.495Z",
+  "publishers": [
+   "erichgrunewald.substack.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "show-system-model-computer": {
+  "id": "show-system-model-computer",
+  "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+  "firstSeen": "2026-09-19T20:28:19.495Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
  },
  "california-lion-brandt-cormorant": {
   "id": "california-lion-brandt-cormorant",
@@ -21,6 +70,18 @@
   ],
   "sourceCount": 1,
   "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "built-autoregressive-decision-models": {
+  "id": "built-autoregressive-decision-models",
+  "title": "I built non-autoregressive decision models with RL a year ago",
+  "firstSeen": "2026-09-19T13:50:37.768Z",
+  "publishers": [
+   "laya.convaiinnovations.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
@@ -47,18 +108,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "policy"
- },
- "paradox-heart-science-terence": {
-  "id": "paradox-heart-science-terence",
-  "title": "The paradox at the heart of AI and science | Terence Tao",
-  "firstSeen": "2026-09-19T17:08:52.860Z",
-  "publishers": [
-   "YouTube"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
  },
  "petlibro-powered-feeder-game": {
   "id": "petlibro-powered-feeder-game",
@@ -132,28 +181,15 @@
   "hadPrimary": false,
   "category": "policy"
  },
- "openai-claude-openai-used-llms-design": {
-  "id": "openai-claude-openai-used-llms-design",
-  "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-  "firstSeen": "2026-09-19T17:08:52.860Z",
+ "safety-alignment-succession-toward-future": {
+  "id": "safety-alignment-succession-toward-future",
+  "title": "Alignment & Succession: Toward a Future Painted by Human Wills",
+  "firstSeen": "2026-09-19T20:28:19.495Z",
   "publishers": [
-   "Ars Technica AI",
-   "IEEE Spectrum"
-  ],
-  "sourceCount": 2,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
- },
- "built-autoregressive-decision-models": {
-  "id": "built-autoregressive-decision-models",
-  "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
-  "firstSeen": "2026-09-19T13:50:37.768Z",
-  "publishers": [
-   "dev.to"
+   "LessWrong"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -168,6 +204,18 @@
   "independentCount": 0,
   "hadPrimary": false,
   "category": "models"
+ },
+ "parallel-neural-ectoderm-progenitors": {
+  "id": "parallel-neural-ectoderm-progenitors",
+  "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+  "firstSeen": "2026-09-19T20:28:19.495Z",
+  "publishers": [
+   "med.stanford.edu"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
  },
  "kicking-tires-typesafe-system": {
   "id": "kicking-tires-typesafe-system",
@@ -312,6 +360,18 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
+ },
+ "openai-claude-researchers-used-claude-hack": {
+  "id": "openai-claude-researchers-used-claude-hack",
+  "title": "Researchers used Claude to hack OpenAI",
+  "firstSeen": "2026-09-19T20:28:19.495Z",
+  "publishers": [
+   "Ars Technica AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "research"
  },
  "tilly-norwood-press-tour": {
   "id": "tilly-norwood-press-tour",
@@ -529,30 +589,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "anthropic-openai-chinese-models-make-openai": {
-  "id": "anthropic-openai-chinese-models-make-openai",
-  "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
-  "firstSeen": "2026-09-19T00:07:03.585Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
- "current-model-what-happened": {
-  "id": "current-model-what-happened",
-  "title": "My Current Model of What Happened to Elon Musk",
-  "firstSeen": "2026-09-19T00:07:03.585Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "google-creating-future-fashion-with": {
   "id": "google-creating-future-fashion-with",
   "title": "Co-creating the future of fashion with Google",
@@ -595,18 +631,6 @@
   "firstSeen": "2026-09-18T18:16:47.863Z",
   "publishers": [
    "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "dario-amodei-other-leaders": {
-  "id": "dario-amodei-other-leaders",
-  "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-  "firstSeen": "2026-09-18T18:16:47.863Z",
-  "publishers": [
-   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -793,18 +817,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "write-with": {
-  "id": "write-with",
-  "title": "How to Write with an LLM",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "sockpuppet.org"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
  "china-major-shift-huawei": {
   "id": "china-major-shift-huawei",
   "title": "China to see major shift to Huawei for AI model training in 2027: deputy chair",
@@ -820,6 +832,18 @@
  "alert-targeted-attacks-prominent": {
   "id": "alert-targeted-attacks-prominent",
   "title": "Be alert: targeted attacks on prominent Rustaceans",
+  "firstSeen": "2026-09-18T09:34:26.587Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "write-with": {
+  "id": "write-with",
+  "title": "How To Write With An LLM",
   "firstSeen": "2026-09-18T09:34:26.587Z",
   "publishers": [
    "Simon Willison"
@@ -984,18 +1008,6 @@
   "independentCount": 1,
   "hadPrimary": true,
   "category": "general"
- },
- "claude-claude-cowork-chat-claude": {
-  "id": "claude-claude-cowork-chat-claude",
-  "title": "Claude Cowork and chat are now one Claude",
-  "firstSeen": "2026-09-17T13:19:49.500Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
  },
  "datasette-0a40": {
   "id": "datasette-0a40",
