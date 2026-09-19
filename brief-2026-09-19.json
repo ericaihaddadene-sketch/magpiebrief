@@ -1,9 +1,86 @@
 {
  "date": "2026-09-19",
- "generated": "2026-09-19T13:50:37.835Z",
- "headline": "94 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2677 items read · 94 on-topic · 94 distinct developments · 11 with a primary source · 0 independently corroborated",
+ "generated": "2026-09-19T17:08:52.909Z",
+ "headline": "87 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2677 items read · 89 on-topic · 87 distinct developments · 8 with a primary source · 1 independently corroborated",
  "events": [
+  {
+   "id": "google-gemini-gemini-went-rogue-hacked",
+   "title": "Gemini went rogue, hacked three companies, and Google hid it",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    },
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 160.55122532773566,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-19T03:00:52.000Z",
+   "latestAt": "2026-09-19T15:25:03.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Gemini went rogue, hacked three companies, and Google hid it",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-19T15:25:03.000Z",
+     "points": null,
+     "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks…"
+    },
+    {
+     "title": "Gemini had its first breakout: Google claims it is not misalignment?",
+     "link": "https://www.lesswrong.com/posts/z57xtyAN6rEQ7hzyP/gemini-had-its-first-breakout-google-claims-it-is-not",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-19T03:00:52.000Z",
+     "points": null,
+     "summary": "Early Days Gemini had its first break out during evaluation of offensive cyber security abilities. With a classic case of Capture The Flag [1] . The…"
+    }
+   ]
+  },
+  {
+   "id": "california-lion-brandt-cormorant",
+   "title": "California Sea Lion, Brandt's Cormorant",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 120,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T17:10:08.000Z",
+   "latestAt": "2026-09-19T17:10:08.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "California Sea Lion, Brandt's Cormorant",
+     "link": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-19T17:10:08.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
   {
    "id": "vals-backed-andreessen-horowitz",
    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
@@ -12,7 +89,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 113.18258252681736,
+   "rank": 90.01471320644629,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -46,7 +123,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 113.18258252681736,
+   "rank": 90.01471320644629,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -67,6 +144,96 @@
    ]
   },
   {
+   "id": "paradox-heart-science-terence",
+   "title": "The paradox at the heart of AI and science | Terence Tao",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 88.38769622158762,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-19T16:53:14.000Z",
+   "latestAt": "2026-09-19T16:53:14.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The paradox at the heart of AI and science | Terence Tao",
+     "link": "https://www.youtube.com/watch?v=svl_1upFpQo",
+     "publisher": "YouTube",
+     "publisherDomain": "youtube.com",
+     "kind": "discussion",
+     "date": "2026-09-19T16:53:14.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "petlibro-powered-feeder-game",
+   "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 86.16646082147894,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T15:00:00.000Z",
+   "latestAt": "2026-09-19T15:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+     "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-19T15:00:00.000Z",
+     "points": null,
+     "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating…"
+    }
+   ]
+  },
+  {
+   "id": "safety-safety-conversations-have-gotten",
+   "title": "AI safety conversations have gotten unbelievable",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 86.16646082147894,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T15:00:00.000Z",
+   "latestAt": "2026-09-19T15:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI safety conversations have gotten unbelievable",
+     "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-19T15:00:00.000Z",
+     "points": null,
+     "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction."
+    }
+   ]
+  },
+  {
    "id": "generated-posters-have-horrible",
    "title": "AI-generated posters don’t have to be horrible",
    "category": {
@@ -74,7 +241,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 106.18757013176173,
+   "rank": 84.45154243794681,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -89,7 +256,35 @@
      "publisherDomain": "john.hartnup.uk",
      "kind": "discussion",
      "date": "2026-09-19T09:20:58.000Z",
-     "points": 448,
+     "points": 762,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "elite-crime-spree",
+   "title": "AI Is an Elite Crime Spree",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 81.67537154440247,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-19T15:44:52.000Z",
+   "latestAt": "2026-09-19T15:44:52.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI Is an Elite Crime Spree",
+     "link": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+     "publisher": "thebignewsletter.com",
+     "publisherDomain": "thebignewsletter.com",
+     "kind": "discussion",
+     "date": "2026-09-19T15:44:52.000Z",
+     "points": null,
      "summary": ""
     }
    ]
@@ -113,7 +308,7 @@
      "kind": "org"
     }
    ],
-   "rank": 101.45306415395714,
+   "rank": 80.68616451272311,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -134,6 +329,83 @@
    ]
   },
   {
+   "id": "does-need-antitrust-exemption",
+   "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [],
+   "rank": 80.39615071040362,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T14:00:00.000Z",
+   "latestAt": "2026-09-19T14:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+     "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-19T14:00:00.000Z",
+     "points": null,
+     "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief…"
+    }
+   ]
+  },
+  {
+   "id": "openai-claude-openai-used-llms-design",
+   "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    },
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 73.38996158453435,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 1,
+   "publishedAt": "2026-09-18T13:30:12.000Z",
+   "latestAt": "2026-09-19T09:52:30.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Researchers used Claude to hack OpenAI",
+     "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-18T13:30:12.000Z",
+     "points": null,
+     "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data."
+    },
+    {
+     "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+     "link": "https://spectrum.ieee.org/llms-for-chip-design",
+     "publisher": "IEEE Spectrum",
+     "publisherDomain": "spectrum.ieee.org",
+     "kind": "discussion",
+     "date": "2026-09-19T09:52:30.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "built-autoregressive-decision-models",
    "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
    "category": {
@@ -141,7 +413,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 89.10208699344702,
+   "rank": 70.86336632149732,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -175,7 +447,7 @@
      "kind": "model"
     }
    ],
-   "rank": 88.34534416895406,
+   "rank": 70.26152470596757,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -190,7 +462,7 @@
      "publisherDomain": "prinzai.com",
      "kind": "discussion",
      "date": "2026-09-19T06:41:44.000Z",
-     "points": 185,
+     "points": 257,
      "summary": ""
     }
    ]
@@ -203,7 +475,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 82.77421627286247,
+   "rank": 65.83077689471051,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -241,7 +513,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 82.10930081169244,
+   "rank": 65.3019660723424,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -262,6 +534,34 @@
    ]
   },
   {
+   "id": "risk-network",
+   "title": "The AI Risk Network",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 63.167923349326216,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T15:39:59.000Z",
+   "latestAt": "2026-09-19T15:39:59.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The AI Risk Network",
+     "link": "https://www.lesswrong.com/posts/XundBXqKSo3bB2A6a/the-ai-risk-network",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-19T15:39:59.000Z",
+     "points": null,
+     "summary": "Most conversations about AI risks seem like people are talking past each other. There’s a lot of strawmanning. This is largely because the issue is complex…"
+    }
+   ]
+  },
+  {
    "id": "mathematicians-hate-they-quit",
    "title": "Mathematicians Hate AI. They Can’t Quit It",
    "category": {
@@ -269,7 +569,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 76.61068656932899,
+   "rank": 60.92888875771273,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -290,30 +590,70 @@
    ]
   },
   {
-   "id": "nasa-lunar-foundation-open",
-   "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+   "id": "safety-there-alignment-without-value",
+   "title": "There Is No Alignment Without Value Stability",
    "category": {
-    "id": "opensource",
-    "name": "Open Source"
+    "id": "general",
+    "name": "Other"
    },
-   "entities": [],
-   "rank": 75.89118686074507,
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 58.73158565498823,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-19T04:44:35.000Z",
-   "latestAt": "2026-09-19T04:44:35.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T14:36:57.000Z",
+   "latestAt": "2026-09-19T14:36:57.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-     "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-     "publisher": "newsroom.usra.edu",
-     "publisherDomain": "newsroom.usra.edu",
-     "kind": "discussion",
-     "date": "2026-09-19T04:44:35.000Z",
-     "points": 43,
-     "summary": ""
+     "title": "There Is No Alignment Without Value Stability",
+     "link": "https://www.lesswrong.com/posts/GqaoXb9qsFWPhC49x/there-is-no-alignment-without-value-stability-1",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-19T14:36:57.000Z",
+     "points": null,
+     "summary": "To avert extinction, we need for any sufficiently capable AI to have values compatible with continued human existence; and to continue to do so amidst a…"
+    }
+   ]
+  },
+  {
+   "id": "safety-commentbench-models-match-human",
+   "title": "CommentBench: Can Models Match Human Comments on AI Safety Posts?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 58.11850932138332,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T14:27:52.000Z",
+   "latestAt": "2026-09-19T14:27:52.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "CommentBench: Can Models Match Human Comments on AI Safety Posts?",
+     "link": "https://www.lesswrong.com/posts/WbmAqtfkrCqRHxAGh/commentbench-can-models-match-human-comments-on-ai-safety",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-19T14:27:52.000Z",
+     "points": null,
+     "summary": "TL;DR We measure how well model-generated comments match human comments on conceptual AI-safety posts, drafts and shortforms. We built a pipeline that goes from a corpus…"
     }
    ]
   },
@@ -325,7 +665,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 71.48029807346974,
+   "rank": 56.84866334862206,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -346,75 +686,30 @@
    ]
   },
   {
-   "id": "google-gemini-gemini-hacked-three-companies",
-   "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    },
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 70.3456821280565,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T23:57:57.000Z",
-   "latestAt": "2026-09-18T23:57:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-     "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-18T23:57:57.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "openai-openai-used-llms-design",
-   "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+   "id": "race-already-multipolar",
+   "title": "The AI race is already multipolar",
    "category": {
     "id": "general",
     "name": "Other"
    },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 70.3083894361469,
+   "entities": [],
+   "rank": 55.74134058544952,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-18T23:04:17.000Z",
-   "latestAt": "2026-09-18T23:04:17.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T13:51:43.000Z",
+   "latestAt": "2026-09-19T13:51:43.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-     "link": "https://spectrum.ieee.org/llms-for-chip-design",
-     "publisher": "IEEE Spectrum",
-     "publisherDomain": "spectrum.ieee.org",
-     "kind": "discussion",
-     "date": "2026-09-18T23:04:17.000Z",
-     "points": 155,
-     "summary": ""
+     "title": "The AI race is already multipolar",
+     "link": "https://www.lesswrong.com/posts/cyMx8cM3xgoMfjh6F/the-ai-race-is-already-multipolar",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-19T13:51:43.000Z",
+     "points": null,
+     "summary": "TL;DR: Collaborating to reduce catastrophic risks seems very possible even for policymakers with very different goals. T he race for general superintelligence is often described as…"
     }
    ]
   },
@@ -426,7 +721,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 65.59946086106122,
+   "rank": 52.1716020617114,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -460,7 +755,7 @@
      "kind": "org"
     }
    ],
-   "rank": 54.4539207659719,
+   "rank": 43.307494415530925,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -481,77 +776,6 @@
    ]
   },
   {
-   "id": "openai-claude-security-researchers-used-claude",
-   "title": "Security researchers used Claude to help them hack into OpenAI",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    },
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "rank": 50.795435530130746,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T15:30:16.000Z",
-   "latestAt": "2026-09-18T15:30:16.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Security researchers used Claude to help them hack into OpenAI",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-18T15:30:16.000Z",
-     "points": null,
-     "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's…"
-    }
-   ]
-  },
-  {
-   "id": "implications-linguistic-illegibility-security",
-   "title": "The Implications of Linguistic Illegibility for LLM Security",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 50.72250126039235,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-19T05:34:15.000Z",
-   "latestAt": "2026-09-19T05:34:15.000Z",
-   "primary": {
-    "publisher": "arXiv",
-    "link": "https://arxiv.org/abs/2609.02852",
-    "title": "The Implications of Linguistic Illegibility for LLM Security"
-   },
-   "sources": [
-    {
-     "title": "The Implications of Linguistic Illegibility for LLM Security",
-     "link": "https://arxiv.org/abs/2609.02852",
-     "publisher": "arXiv",
-     "publisherDomain": "arxiv.org",
-     "kind": "research",
-     "date": "2026-09-19T05:34:15.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "anthropic-anthropic-first-embedded-evaluator",
    "title": "Anthropic’s first embedded evaluator is … Accenture?",
    "category": {
@@ -565,7 +789,7 @@
      "kind": "org"
     }
    ],
-   "rank": 49.13524165080419,
+   "rank": 39.07752046988871,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -604,7 +828,7 @@
      "kind": "org"
     }
    ],
-   "rank": 42.36398755907513,
+   "rank": 33.69230587672858,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -625,38 +849,6 @@
    ]
   },
   {
-   "id": "cache-cache-direct-semantic",
-   "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 39.07477157748836,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T18:55:35.000Z",
-   "latestAt": "2026-09-18T18:55:35.000Z",
-   "primary": {
-    "publisher": "arXiv",
-    "link": "https://arxiv.org/abs/2510.03215",
-    "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)"
-   },
-   "sources": [
-    {
-     "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-     "link": "https://arxiv.org/abs/2510.03215",
-     "publisher": "arXiv",
-     "publisherDomain": "arxiv.org",
-     "kind": "research",
-     "date": "2026-09-18T18:55:35.000Z",
-     "points": 98,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "tilly-norwood-press-tour",
    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
    "category": {
@@ -664,7 +856,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 38.84530111331197,
+   "rank": 30.893875727781108,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -692,7 +884,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 36.818594105013794,
+   "rank": 29.282024804851076,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -720,7 +912,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 36.78812365644703,
+   "rank": 29.25779149414393,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -748,7 +940,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 36.261397808620025,
+   "rank": 28.83888361033296,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -787,7 +979,7 @@
      "kind": "org"
     }
    ],
-   "rank": 34.71973183210224,
+   "rank": 27.612788414073385,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -815,7 +1007,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 33.32186027976763,
+   "rank": 26.501053692407744,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -849,7 +1041,7 @@
      "kind": "org"
     }
    ],
-   "rank": 33.16489047688568,
+   "rank": 26.37621476867014,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -877,7 +1069,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 33.11320745106079,
+   "rank": 26.335110981820538,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -905,7 +1097,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 32.927641365759385,
+   "rank": 26.18752928173615,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -933,7 +1125,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 32.85994478878673,
+   "rank": 26.133689832015087,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -961,7 +1153,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 30.768276254143927,
+   "rank": 24.470174659756076,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -982,45 +1174,6 @@
    ]
   },
   {
-   "id": "anthropic-openai-chinese-models-make-openai",
-   "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 30.746464011465477,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T09:00:06.000Z",
-   "latestAt": "2026-09-18T09:00:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
-     "link": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-18T09:00:06.000Z",
-     "points": null,
-     "summary": "Chinese artificial intelligence models from seven major developers combined generate only about 10 per cent of the revenue reported for OpenAI and Anthropic, even as investor…"
-    }
-   ]
-  },
-  {
    "id": "tees-875m-tool-help",
    "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
    "category": {
@@ -1028,7 +1181,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 30.520347665949984,
+   "rank": 24.27299572759424,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1056,7 +1209,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 29.81010996152506,
+   "rank": 23.708139882773178,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1084,7 +1237,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 29.64799492104426,
+   "rank": 23.579208924055457,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1112,7 +1265,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 27.75592263309456,
+   "rank": 22.074433714271716,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1140,7 +1293,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.816198432725297,
+   "rank": 21.327066031886893,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1174,7 +1327,7 @@
      "kind": "model"
     }
    ],
-   "rank": 26.75939781592382,
+   "rank": 21.281892197563728,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1202,7 +1355,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.141668164300192,
+   "rank": 20.790608501886933,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1223,6 +1376,45 @@
    ]
   },
   {
+   "id": "anthropic-openai-chinese-models-make-openai",
+   "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 20.722734971608237,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-18T09:00:06.000Z",
+   "latestAt": "2026-09-18T09:00:06.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
+     "link": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-18T09:00:06.000Z",
+     "points": null,
+     "summary": "Chinese artificial intelligence models from seven major developers combined generate only about 10 per cent of the revenue reported for OpenAI and Anthropic, even as investor…"
+    }
+   ]
+  },
+  {
    "id": "current-model-what-happened",
    "title": "My Current Model of What Happened to Elon Musk",
    "category": {
@@ -1230,7 +1422,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 25.466198027351275,
+   "rank": 20.253403489423388,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1264,7 +1456,7 @@
      "kind": "org"
     }
    ],
-   "rank": 25.304025518008284,
+   "rank": 20.124426825412208,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1296,7 +1488,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 24.870962095546574,
+   "rank": 19.780009169419447,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1328,7 +1520,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 24.555970932883188,
+   "rank": 19.52949501311814,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1356,7 +1548,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.97812658521205,
+   "rank": 19.069932312989256,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1384,7 +1576,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.851850610808793,
+   "rank": 18.96950435519743,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1405,34 +1597,6 @@
    ]
   },
   {
-   "id": "gavin-newsom-pushing-kill",
-   "title": "Gavin Newsom is pushing for an AI kill switch",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 23.712191167119176,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T17:04:51.000Z",
-   "latestAt": "2026-09-18T17:04:51.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Gavin Newsom is pushing for an AI kill switch",
-     "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-18T17:04:51.000Z",
-     "points": null,
-     "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier…"
-    }
-   ]
-  },
-  {
    "id": "google-experts-join-google-economy",
    "title": "New experts join Google’s AI & Economy team",
    "category": {
@@ -1446,7 +1610,7 @@
      "kind": "org"
     }
    ],
-   "rank": 22.9832059707987,
+   "rank": 18.278666627313818,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1471,62 +1635,6 @@
    ]
   },
   {
-   "id": "what-hollywood-thinks-about",
-   "title": "What Hollywood thinks about existential AI warnings",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 22.91681834546977,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T16:35:19.000Z",
-   "latestAt": "2026-09-18T16:35:19.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "What Hollywood thinks about existential AI warnings",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-18T16:35:19.000Z",
-     "points": null,
-     "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening…"
-    }
-   ]
-  },
-  {
-   "id": "family-offices-clamoring-investments",
-   "title": "Family offices are clamoring for AI investments",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [],
-   "rank": 22.00064240934542,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T16:00:00.000Z",
-   "latestAt": "2026-09-18T16:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Family offices are clamoring for AI investments",
-     "link": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-18T16:00:00.000Z",
-     "points": null,
-     "summary": "Whether it's a permanent shift or part of a familiar cycle is worth asking, though."
-    }
-   ]
-  },
-  {
    "id": "introducing-australian-youth-safety",
    "title": "Introducing the Australian Youth Safety Blueprint",
    "category": {
@@ -1534,7 +1642,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.675379812915455,
+   "rank": 17.238545489435957,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1566,7 +1674,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.637668718953744,
+   "rank": 17.208553654721804,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1587,40 +1695,6 @@
    ]
   },
   {
-   "id": "nvidia-open-closed-nvidia-nader",
-   "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 21.25121976287138,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T15:30:00.000Z",
-   "latestAt": "2026-09-18T15:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-     "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-18T15:30:00.000Z",
-     "points": null,
-     "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026."
-    }
-   ]
-  },
-  {
    "id": "pacs-have-dumped-nearly",
    "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
    "category": {
@@ -1628,7 +1702,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.530487325916226,
+   "rank": 16.328006371413686,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1656,7 +1730,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.52732520292311,
+   "rank": 16.3254915180856,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1690,7 +1764,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 20.374630830486396,
+   "rank": 16.204052867046933,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1724,7 +1798,7 @@
      "kind": "org"
     }
    ],
-   "rank": 18.838498194948354,
+   "rank": 14.98235836646195,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1758,7 +1832,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 18.50026133529741,
+   "rank": 14.713356783023832,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1786,7 +1860,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.710459518774446,
+   "rank": 14.085223174326579,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1814,7 +1888,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.89831530587226,
+   "rank": 13.439320538297364,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1835,90 +1909,6 @@
    ]
   },
   {
-   "id": "pretraining-data-verifiability-llms",
-   "title": "Pretraining data, not verifiability, is why LLMs are especially good at math (and coding)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 16.67733935168407,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T17:08:57.000Z",
-   "latestAt": "2026-09-18T17:08:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Pretraining data, not verifiability, is why LLMs are especially good at math (and coding)",
-     "link": "https://www.lesswrong.com/posts/xvdngZAqFZfek7KGH/pretraining-data-not-verifiability-is-why-llms-are",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-18T17:08:57.000Z",
-     "points": null,
-     "summary": "Follow-up to: “LLMs are (still) mostly powered by imitative learning, not RL” [Edited a few hours after publishing, see changelog at the bottom.] A common take…"
-    }
-   ]
-  },
-  {
-   "id": "stopgap-measures-address-immediate",
-   "title": "Stopgap Measures to Address Immediate AI Security Threats",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 16.365919942938792,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T16:52:38.000Z",
-   "latestAt": "2026-09-18T16:52:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Stopgap Measures to Address Immediate AI Security Threats",
-     "link": "https://www.lesswrong.com/posts/LqBAxFdyAiybnPL8e/stopgap-measures-to-address-immediate-ai-security-threats",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-18T16:52:38.000Z",
-     "points": null,
-     "summary": "Most people know AI as the technology behind chatbots like ChatGPT. However, what the top AI companies are explicitly aiming for is something else entirely: superintelligent…"
-    }
-   ]
-  },
-  {
-   "id": "persuasion-undermining-control-talk",
-   "title": "Persuasion Undermining Control: Can AI Talk its Way Out of Human Control?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 16.03436168122475,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T16:34:55.000Z",
-   "latestAt": "2026-09-18T16:34:55.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Persuasion Undermining Control: Can AI Talk its Way Out of Human Control?",
-     "link": "https://www.lesswrong.com/posts/9tJZntDWXCwZRGk6k/persuasion-undermining-control-can-ai-talk-its-way-out-of",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-18T16:34:55.000Z",
-     "points": null,
-     "summary": "Introduction During a cybercapability evaluation in late July 2026, an AI agent (Anthropic’s Mythos 5) attempted to convince a maintainer of an open-source GitHub repository to…"
-    }
-   ]
-  },
-  {
    "id": "leftist-split-over-doom",
    "title": "The Leftist Split Over AI Doom",
    "category": {
@@ -1926,7 +1916,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.768728771144241,
+   "rank": 11.745648977777593,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1954,7 +1944,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.220133195939045,
+   "rank": 11.309347982819114,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1982,7 +1972,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.779711186536428,
+   "rank": 10.959078003277071,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2010,7 +2000,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.542983996132424,
+   "rank": 10.77080760268487,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2038,7 +2028,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.20230077183186,
+   "rank": 8.909249715961149,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2066,10 +2056,8 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.66911837103168,
-   "deltas": [
-    "Now also covered by sockpuppet.org."
-   ],
+   "rank": 8.485206901039685,
+   "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
    "publishedAt": "2026-09-17T21:48:38.000Z",
@@ -2083,41 +2071,7 @@
      "publisherDomain": "sockpuppet.org",
      "kind": "discussion",
      "date": "2026-09-17T21:48:38.000Z",
-     "points": 529,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "deepseek-show-cactus-needle-29mb",
-   "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "deepseek",
-     "name": "DeepSeek",
-     "kind": "org"
-    }
-   ],
-   "rank": 10.666997178020189,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-18T00:11:44.000Z",
-   "latestAt": "2026-09-18T00:11:44.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-     "link": "https://cactuscompute.com/needle",
-     "publisher": "cactuscompute.com",
-     "publisherDomain": "cactuscompute.com",
-     "kind": "discussion",
-     "date": "2026-09-18T00:11:44.000Z",
-     "points": 207,
+     "points": 560,
      "summary": ""
     }
    ]
@@ -2130,7 +2084,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.74503662988328,
+   "rank": 7.750279750132186,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2158,7 +2112,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.702134180079236,
+   "rank": 6.920853854154165,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2186,7 +2140,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.925039850581833,
+   "rank": 6.302826577850494,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2220,7 +2174,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.589030151615401,
+   "rank": 6.035596267216071,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2248,7 +2202,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.056906664908387,
+   "rank": 5.612395612336186,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2276,7 +2230,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 7.054717830927071,
+   "rank": 5.610654820964527,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2304,7 +2258,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.600192722803626,
+   "rank": 5.249168571583648,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2336,7 +2290,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.21893970078154,
+   "rank": 4.945956004152811,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2370,7 +2324,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.1253098485696125,
+   "rank": 4.871491681937671,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2398,7 +2352,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.473024748123381,
+   "rank": 4.352725853002872,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2426,7 +2380,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 4.312629938362048,
+   "rank": 3.429857654778413,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2465,7 +2419,7 @@
      "kind": "model"
     }
    ],
-   "rank": 4.106716533480127,
+   "rank": 3.266093622610148,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2503,7 +2457,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.8007908913527824,
+   "rank": 2.227483975077282,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2531,7 +2485,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0651562519882103,
+   "rank": 1.642429812070887,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2559,7 +2513,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.7875521957593155,
+   "rank": 1.4216498214705715,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2597,7 +2551,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.6515627249496472,
+   "rank": 1.3134966680370175,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2625,7 +2579,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6343337124996473,
+   "rank": 1.2997943422913623,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2653,7 +2607,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6332327173186163,
+   "rank": 1.2989187149355483,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2687,7 +2641,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.5464936843252,
+   "rank": 1.2299346980983559,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2721,7 +2675,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.3209614642643073,
+   "rank": 1.0505677172929453,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2738,156 +2692,6 @@
      "date": "2026-09-16T22:02:46.000Z",
      "points": null,
      "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades."
-    }
-   ]
-  },
-  {
-   "id": "helping-older-adults-everyday",
-   "title": "Helping older adults use AI in everyday life",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.0266791333700311,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T16:00:00.000Z",
-   "latestAt": "2026-09-16T16:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-    "title": "Helping older adults use AI in everyday life"
-   },
-   "sources": [
-    {
-     "title": "Helping older adults use AI in everyday life",
-     "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-16T16:00:00.000Z",
-     "points": null,
-     "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
-    }
-   ]
-  },
-  {
-   "id": "quoting-mustafa-suleyman",
-   "title": "Quoting Mustafa Suleyman",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.94868967518061,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T16:00:54.000Z",
-   "latestAt": "2026-09-16T16:00:54.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Quoting Mustafa Suleyman",
-     "link": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-16T16:00:54.000Z",
-     "points": null,
-     "summary": "We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal…"
-    }
-   ]
-  },
-  {
-   "id": "robotics-rethinking-robot-safety",
-   "title": "Rethinking Robot Safety in the Age of AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "robotics",
-     "name": "Robotics",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.8377137744275083,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T16:51:02.000Z",
-   "latestAt": "2026-09-16T16:51:02.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Rethinking Robot Safety in the Age of AI",
-     "link": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
-     "publisher": "IEEE Spectrum",
-     "publisherDomain": "spectrum.ieee.org",
-     "kind": "coverage",
-     "date": "2026-09-16T16:51:02.000Z",
-     "points": null,
-     "summary": "This article is brought to you by VicOne . Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises…"
-    }
-   ]
-  },
-  {
-   "id": "victory-court-using-test",
-   "title": "Victory: Court, Using a New Test, Rules Embedding Links is Legal",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [],
-   "rank": 0.8374073715907904,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T16:50:43.000Z",
-   "latestAt": "2026-09-16T16:50:43.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Victory: Court, Using a New Test, Rules Embedding Links is Legal",
-     "link": "https://www.eff.org/deeplinks/2026/09/victory-court-using-new-test-rules-embedding-links-legal",
-     "publisher": "EFF",
-     "publisherDomain": "eff.org",
-     "kind": "coverage",
-     "date": "2026-09-16T16:50:43.000Z",
-     "points": null,
-     "summary": "Courts have for two decades found that linking and embedding someone else’s web content, be it a photo, music, or an article, doesn’t violate copyright law–the…"
-    }
-   ]
-  },
-  {
-   "id": "technique-could-make-minimally",
-   "title": "New AI technique could make minimally invasive surgeries safer and more precise",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7000224830760183,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T15:00:00.000Z",
-   "latestAt": "2026-09-16T15:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "New AI technique could make minimally invasive surgeries safer and more precise",
-     "link": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
-     "publisher": "MIT News AI",
-     "publisherDomain": "news.mit.edu",
-     "kind": "coverage",
-     "date": "2026-09-16T15:00:00.000Z",
-     "points": null,
-     "summary": "This patient-specific method, called xvr, helps doctors use X-rays for surgical navigation in fields such as orthopedics and neurosurgery."
     }
    ]
   }
