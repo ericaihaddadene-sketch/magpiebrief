@@ -1,17 +1,4 @@
 {
- "anthropic-openai-claude-researchers-used-anthropic-claude": {
-  "id": "anthropic-openai-claude-researchers-used-anthropic-claude",
-  "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-  "firstSeen": "2026-09-18T14:19:47.334Z",
-  "publishers": [
-   "TechCrunch",
-   "SCMP Tech"
-  ],
-  "sourceCount": 2,
-  "independentCount": 2,
-  "hadPrimary": false,
-  "category": "research"
- },
  "claude-claude-code-reads-agents": {
   "id": "claude-claude-code-reads-agents",
   "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
@@ -24,15 +11,63 @@
   "hadPrimary": false,
   "category": "models"
  },
- "border-agents-search-cellphones": {
-  "id": "border-agents-search-cellphones",
-  "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
-  "firstSeen": "2026-09-18T21:34:26.042Z",
+ "openai-openai-used-llms-design": {
+  "id": "openai-openai-used-llms-design",
+  "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+  "firstSeen": "2026-09-19T00:07:03.585Z",
   "publishers": [
-   "lawandcrime.com"
+   "IEEE Spectrum"
   ],
   "sourceCount": 1,
   "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "google-gemini-gemini-hacked-three-companies": {
+  "id": "google-gemini-gemini-hacked-three-companies",
+  "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+  "firstSeen": "2026-09-19T00:07:03.585Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "security"
+ },
+ "openai-claude-security-researchers-used-claude": {
+  "id": "openai-claude-security-researchers-used-claude",
+  "title": "Security researchers used Claude to help them hack into OpenAI",
+  "firstSeen": "2026-09-19T00:07:03.585Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "research"
+ },
+ "anthropic-anthropic-operating-that-conducts": {
+  "id": "anthropic-anthropic-operating-that-conducts",
+  "title": "Anthropic is operating a lab that conducts biology experiments",
+  "firstSeen": "2026-09-19T00:07:03.585Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "anthropic-anthropic-first-embedded-evaluator": {
+  "id": "anthropic-anthropic-first-embedded-evaluator",
+  "title": "Anthropic’s first embedded evaluator is … Accenture?",
+  "firstSeen": "2026-09-19T00:07:03.585Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -48,15 +83,15 @@
   "hadPrimary": false,
   "category": "general"
  },
- "google-agents-google-agent-that-helps": {
-  "id": "google-agents-google-agent-that-helps",
-  "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-  "firstSeen": "2026-09-18T18:16:47.863Z",
+ "agents-agentgit-host-agents-with": {
+  "id": "agents-agentgit-host-agents-with",
+  "title": "Agentgit: a Git host for AI agents with no accounts",
+  "firstSeen": "2026-09-19T00:07:03.585Z",
   "publishers": [
-   "TechCrunch"
+   "agentgit.co"
   ],
   "sourceCount": 1,
-  "independentCount": 1,
+  "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
@@ -84,15 +119,51 @@
   "hadPrimary": true,
   "category": "general"
  },
- "military-close-call-after": {
-  "id": "military-close-call-after",
-  "title": "US Military had close call after using AI for hallucinated intelligence report",
-  "firstSeen": "2026-09-18T18:16:47.863Z",
+ "statement-california-governor-executive": {
+  "id": "statement-california-governor-executive",
+  "title": "EFF Statement on California Governor's Executive Order on AI",
+  "firstSeen": "2026-09-19T00:07:03.585Z",
   "publishers": [
-   "cnn.com"
+   "EFF"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "startup-that-builds-other": {
+  "id": "startup-that-builds-other",
+  "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+  "firstSeen": "2026-09-19T00:07:03.585Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
+ },
+ "hallucination-nearly-triggers-military": {
+  "id": "hallucination-nearly-triggers-military",
+  "title": "AI hallucination nearly triggers US military operation",
+  "firstSeen": "2026-09-19T00:07:03.585Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "google-agents-google-agent-that-helps": {
+  "id": "google-agents-google-agent-that-helps",
+  "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+  "firstSeen": "2026-09-18T18:16:47.863Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -102,6 +173,30 @@
   "firstSeen": "2026-09-18T21:34:26.042Z",
   "publishers": [
    "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "apple-limit-what-apple-siri": {
+  "id": "apple-limit-what-apple-siri",
+  "title": "How to Limit What Apple’s New Siri AI Can Access in iOS 27",
+  "firstSeen": "2026-09-19T00:07:03.585Z",
+  "publishers": [
+   "EFF"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "secure-messaging-remain-conflict": {
+  "id": "secure-messaging-remain-conflict",
+  "title": "Secure Messaging and AI Remain In Conflict Despite the Promise of TEEs",
+  "firstSeen": "2026-09-19T00:07:03.585Z",
+  "publishers": [
+   "EFF"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -155,6 +250,18 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "tools"
+ },
+ "parallel-neural-ectoderm-progenitors": {
+  "id": "parallel-neural-ectoderm-progenitors",
+  "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+  "firstSeen": "2026-09-19T00:07:03.585Z",
+  "publishers": [
+   "newscientist.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
  },
  "week-biggest-funding-rounds": {
   "id": "week-biggest-funding-rounds",
@@ -222,6 +329,30 @@
   "firstSeen": "2026-09-18T21:34:26.042Z",
   "publishers": [
    "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "anthropic-openai-chinese-models-make-openai": {
+  "id": "anthropic-openai-chinese-models-make-openai",
+  "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
+  "firstSeen": "2026-09-19T00:07:03.585Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
+ },
+ "current-model-what-happened": {
+  "id": "current-model-what-happened",
+  "title": "My Current Model of What Happened to Elon Musk",
+  "firstSeen": "2026-09-19T00:07:03.585Z",
+  "publishers": [
+   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -888,6 +1019,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "framework-reporting-model-misalignment": {
+  "id": "framework-reporting-model-misalignment",
+  "title": "Our framework for reporting model misalignment",
+  "firstSeen": "2026-09-19T00:07:03.585Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
  "helping-older-adults-everyday": {
   "id": "helping-older-adults-everyday",
   "title": "Helping older adults use AI in everyday life",
@@ -959,6 +1102,18 @@
   "independentCount": 1,
   "hadPrimary": true,
   "category": "general"
+ },
+ "gpt-turns-complex-analysis-into": {
+  "id": "gpt-turns-complex-analysis-into",
+  "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+  "firstSeen": "2026-09-19T00:07:03.585Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "models"
  },
  "connect-usage-business-value": {
   "id": "connect-usage-business-value",
@@ -1080,18 +1235,6 @@
   "hadPrimary": false,
   "category": "tools"
  },
- "gemini-gemini-live-audio": {
-  "id": "gemini-gemini-live-audio",
-  "title": "Gemini Live audio",
-  "firstSeen": "2026-09-16T16:40:43.407Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
- },
  "measure-measure-studying-society": {
   "id": "measure-measure-studying-society",
   "title": "Measure by measure, studying society accurately",
@@ -1103,17 +1246,5 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "shallow-beliefs-midtraining-does": {
-  "id": "shallow-beliefs-midtraining-does",
-  "title": "Shallow Beliefs: Midtraining does not inoculate against EM from reward hacking",
-  "firstSeen": "2026-09-15T22:04:18.105Z",
-  "publishers": [
-   "Alignment Forum"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "security"
  }
 }
