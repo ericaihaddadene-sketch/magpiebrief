@@ -1,58 +1,9 @@
 {
  "date": "2026-09-19",
- "generated": "2026-09-19T20:28:19.547Z",
+ "generated": "2026-09-19T22:51:31.538Z",
  "headline": "88 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2677 items read · 90 on-topic · 88 distinct developments · 9 with a primary source · 1 independently corroborated",
+ "stats": "22 sources monitored · 2677 items read · 89 on-topic · 88 distinct developments · 9 with a primary source · 1 independently corroborated",
  "events": [
-  {
-   "id": "anthropic-openai-openai-anthropic-oversold-security",
-   "title": "OpenAI and Anthropic oversold AI security breaches",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 257.0074663935358,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T09:00:06.000Z",
-   "latestAt": "2026-09-19T19:59:28.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
-     "link": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-18T09:00:06.000Z",
-     "points": null,
-     "summary": "Chinese artificial intelligence models from seven major developers combined generate only about 10 per cent of the revenue reported for OpenAI and Anthropic, even as investor…"
-    },
-    {
-     "title": "OpenAI and Anthropic oversold AI security breaches",
-     "link": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
-     "publisher": "nypost.com",
-     "publisherDomain": "nypost.com",
-     "kind": "discussion",
-     "date": "2026-09-19T19:59:28.000Z",
-     "points": 15,
-     "summary": ""
-    }
-   ]
-  },
   {
    "id": "google-gemini-google-gemini-latest-model",
    "title": "Google’s Gemini is the latest AI model to hack other companies",
@@ -72,7 +23,7 @@
      "kind": "model"
     }
    ],
-   "rank": 169.7835799089428,
+   "rank": 143.89645503696806,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -103,14 +54,76 @@
    ]
   },
   {
-   "id": "trump-suggests-rebranding-with",
-   "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+   "id": "microsoft-microsoft-director-scraping-largest",
+   "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "microsoft",
+     "name": "Microsoft",
+     "kind": "org"
+    }
+   ],
+   "rank": 125.2489934867264,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-19T18:21:30.000Z",
+   "latestAt": "2026-09-19T18:21:30.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+     "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+     "publisher": "tomshardware.com",
+     "publisherDomain": "tomshardware.com",
+     "kind": "discussion",
+     "date": "2026-09-19T18:21:30.000Z",
+     "points": 79,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "datasette-auth-github",
+   "title": "datasette-auth-github 1.0",
+   "category": {
+    "id": "opensource",
+    "name": "Open Source"
+   },
+   "entities": [],
+   "rank": 97.52760573710542,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T19:52:02.000Z",
+   "latestAt": "2026-09-19T19:52:02.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "datasette-auth-github 1.0",
+     "link": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-19T19:52:02.000Z",
+     "points": null,
+     "summary": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It…"
+    }
+   ]
+  },
+  {
+   "id": "trump-says-time-rebrand",
+   "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 113.90919590359913,
+   "rank": 96.54131156517151,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -119,7 +132,7 @@
    "primary": null,
    "sources": [
     {
-     "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+     "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
      "publisher": "TechCrunch",
      "publisherDomain": "techcrunch.com",
@@ -131,14 +144,14 @@
    ]
   },
   {
-   "id": "almost-never-write-anything",
-   "title": "Almost Never Use AI to Write Anything Substantive",
+   "id": "think-should-almost-never",
+   "title": "I think you should almost never use AI to write",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 110.79130837542355,
+   "rank": 93.89881243334112,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -147,13 +160,13 @@
    "primary": null,
    "sources": [
     {
-     "title": "Almost Never Use AI to Write Anything Substantive",
+     "title": "I think you should almost never use AI to write",
      "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
      "publisher": "erichgrunewald.substack.com",
      "publisherDomain": "erichgrunewald.substack.com",
      "kind": "discussion",
      "date": "2026-09-19T16:35:24.000Z",
-     "points": 116,
+     "points": 177,
      "summary": ""
     }
    ]
@@ -166,7 +179,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 98.42541812310901,
+   "rank": 88.3795366968528,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -185,7 +198,7 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-09-19T15:52:51.000Z",
-     "points": 22,
+     "points": 46,
      "summary": ""
     }
    ]
@@ -198,7 +211,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 95.44325166393564,
+   "rank": 80.89089403702788,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -226,10 +239,8 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 87.41236900345376,
-   "deltas": [
-    "Now also covered by laya.convaiinnovations.com."
-   ],
+   "rank": 74.08449057751211,
+   "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
    "publishedAt": "2026-09-19T10:46:58.000Z",
@@ -243,7 +254,7 @@
      "publisherDomain": "laya.convaiinnovations.com",
      "kind": "discussion",
      "date": "2026-09-19T10:46:58.000Z",
-     "points": 871,
+     "points": 1015,
      "summary": ""
     }
    ]
@@ -256,7 +267,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 71.49063695963768,
+   "rank": 60.59036587839591,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -290,7 +301,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 71.49063695963768,
+   "rank": 60.59036587839591,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -318,7 +329,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 68.43431422768838,
+   "rank": 58.000044677651566,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -352,7 +363,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 68.43431422768838,
+   "rank": 58.000044677651566,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -380,7 +391,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 67.07230791555,
+   "rank": 56.84570525236794,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -395,7 +406,7 @@
      "publisherDomain": "john.hartnup.uk",
      "kind": "discussion",
      "date": "2026-09-19T09:20:58.000Z",
-     "points": 1104,
+     "points": 1276,
      "summary": ""
     }
    ]
@@ -408,7 +419,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 64.86744363927214,
+   "rank": 54.977019521013965,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -447,7 +458,7 @@
      "kind": "org"
     }
    ],
-   "rank": 64.08180495576585,
+   "rank": 54.311168196892424,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -475,7 +486,7 @@
     "name": "Policy & Regulation"
    },
    "entities": [],
-   "rank": 63.851472927629985,
+   "rank": 54.11595519485771,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -509,7 +520,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 61.39490562555289,
+   "rank": 52.03394392781879,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -543,7 +554,7 @@
      "kind": "model"
     }
    ],
-   "rank": 55.80244580088517,
+   "rank": 47.294173779622255,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -558,7 +569,7 @@
      "publisherDomain": "prinzai.com",
      "kind": "discussion",
      "date": "2026-09-19T06:41:44.000Z",
-     "points": 313,
+     "points": 348,
      "summary": ""
     }
    ]
@@ -571,7 +582,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 52.49433313912145,
+   "rank": 44.490453389546786,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -586,7 +597,7 @@
      "publisherDomain": "med.stanford.edu",
      "kind": "discussion",
      "date": "2026-09-19T05:48:50.000Z",
-     "points": 579,
+     "points": 596,
      "summary": ""
     }
    ]
@@ -599,7 +610,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 52.28349904261673,
+   "rank": 44.31176544396207,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -637,7 +648,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 51.86351189634275,
+   "rank": 43.95581428812985,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -665,7 +676,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 50.16863260235883,
+   "rank": 42.51935546065875,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -693,7 +704,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 48.39036765624948,
+   "rank": 41.01222490069014,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -727,7 +738,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 46.64524629984535,
+   "rank": 39.533184483881065,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -761,7 +772,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 46.15833459360269,
+   "rank": 39.12051284342032,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -789,7 +800,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 45.14980949587642,
+   "rank": 38.265758888671265,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -817,7 +828,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 44.270362049573365,
+   "rank": 37.520401946720845,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -845,7 +856,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.43523797095641,
+   "rank": 35.11755295083016,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -879,7 +890,7 @@
      "kind": "org"
     }
    ],
-   "rank": 34.39526995760663,
+   "rank": 29.150978083943848,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -913,7 +924,7 @@
      "kind": "org"
     }
    ],
-   "rank": 31.035779926203865,
+   "rank": 26.30371389909068,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -952,7 +963,7 @@
      "kind": "org"
     }
    ],
-   "rank": 26.758785558112237,
+   "rank": 22.67883846583893,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -991,7 +1002,7 @@
      "kind": "model"
     }
    ],
-   "rank": 26.03547387281272,
+   "rank": 22.065811060849374,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1019,7 +1030,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 24.53624274584473,
+   "rank": 20.795169668039343,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1047,7 +1058,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.256093700655136,
+   "rank": 19.710206624966887,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1075,7 +1086,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 23.23684734907124,
+   "rank": 19.69389478982474,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1103,7 +1114,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.90414627860984,
+   "rank": 19.411921087467448,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1124,45 +1135,6 @@
    ]
   },
   {
-   "id": "google-agents-google-agent-that-helps",
-   "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 21.93036851016085,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T17:33:50.000Z",
-   "latestAt": "2026-09-18T17:33:50.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-     "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-18T17:33:50.000Z",
-     "points": null,
-     "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms…"
-    }
-   ]
-  },
-  {
    "id": "note-18th-september-2026",
    "title": "Note on 18th September 2026",
    "category": {
@@ -1170,7 +1142,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.047417039774672,
+   "rank": 17.83828978828552,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1204,7 +1176,7 @@
      "kind": "org"
     }
    ],
-   "rank": 20.94826864661268,
+   "rank": 17.75425868052896,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1232,7 +1204,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.915623584503866,
+   "rank": 17.726591053810058,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1260,7 +1232,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 20.798412637906495,
+   "rank": 17.627251413805205,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1288,7 +1260,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.755652777690226,
+   "rank": 17.59101120549827,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1309,34 +1281,6 @@
    ]
   },
   {
-   "id": "disney-first-character-former",
-   "title": "Disney’s first CTO is Character.AI’s former CEO",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 19.434471439434276,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T18:27:04.000Z",
-   "latestAt": "2026-09-18T18:27:04.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Disney’s first CTO is Character.AI’s former CEO",
-     "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-18T18:27:04.000Z",
-     "points": null,
-     "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed…"
-    }
-   ]
-  },
-  {
    "id": "tees-875m-tool-help",
    "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
    "category": {
@@ -1344,7 +1288,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 19.277869846726407,
+   "rank": 16.338547774147138,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1372,7 +1316,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 18.82925536251407,
+   "rank": 15.958334128098357,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1400,7 +1344,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.726857031905524,
+   "rank": 15.871548605115654,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1428,7 +1372,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.53174865021479,
+   "rank": 14.858659964161708,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1456,7 +1400,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.938181334900463,
+   "rank": 14.355594635080122,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1490,7 +1434,7 @@
      "kind": "model"
     }
    ],
-   "rank": 16.90230379805529,
+   "rank": 14.325187393282961,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1518,7 +1462,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.51212109257616,
+   "rank": 13.9944963561091,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1539,6 +1483,45 @@
    ]
   },
   {
+   "id": "anthropic-openai-chinese-models-make-openai",
+   "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 13.948809580174892,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-18T09:00:06.000Z",
+   "latestAt": "2026-09-18T09:00:06.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
+     "link": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-18T09:00:06.000Z",
+     "points": null,
+     "summary": "Chinese artificial intelligence models from seven major developers combined generate only about 10 per cent of the revenue reported for OpenAI and Anthropic, even as investor…"
+    }
+   ]
+  },
+  {
    "id": "google-creating-future-fashion-with",
    "title": "Co-creating the future of fashion with Google",
    "category": {
@@ -1552,7 +1535,7 @@
      "kind": "org"
     }
    ],
-   "rank": 15.983032561540249,
+   "rank": 13.546078646589626,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1577,6 +1560,34 @@
    ]
   },
   {
+   "id": "disney-first-startup-once",
+   "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 13.527165503168606,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-18T17:59:53.000Z",
+   "latestAt": "2026-09-18T17:59:53.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+     "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-18T17:59:53.000Z",
+     "points": null,
+     "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer."
+    }
+   ]
+  },
+  {
    "id": "millemiglia-realistic-instance-generator",
    "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
    "category": {
@@ -1584,7 +1595,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.709492417601819,
+   "rank": 13.314245526778206,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1616,7 +1627,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 15.510531425965796,
+   "rank": 13.145620378207195,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1644,7 +1655,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.14554187053885,
+   "rank": 12.836281258490057,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1678,7 +1689,7 @@
      "kind": "org"
     }
    ],
-   "rank": 14.517110296874844,
+   "rank": 12.303667470207039,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1710,7 +1721,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.69103509190772,
+   "rank": 11.603545034030017,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1742,7 +1753,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.667215259672238,
+   "rank": 11.583357042823215,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1770,7 +1781,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.967875297188556,
+   "rank": 10.990646360665028,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1798,7 +1809,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.965877974085688,
+   "rank": 10.988953572032464,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1832,7 +1843,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 12.869430113452482,
+   "rank": 10.907211243071906,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1866,7 +1877,7 @@
      "kind": "org"
     }
    ],
-   "rank": 11.899147424037077,
+   "rank": 10.084868826534967,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1900,7 +1911,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 11.685503522300301,
+   "rank": 9.903799490403193,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1928,7 +1939,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.186633168977812,
+   "rank": 9.480992553450601,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1956,7 +1967,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.673650466275259,
+   "rank": 9.046224995517324,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1984,7 +1995,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.328518605617276,
+   "rank": 7.906187151988678,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2012,7 +2023,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.982003742384096,
+   "rank": 7.612505863941766,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2040,7 +2051,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.703815621205857,
+   "rank": 7.376733450069869,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2068,7 +2079,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.554289278461043,
+   "rank": 7.250005584706443,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2096,7 +2107,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.075820322459474,
+   "rank": 5.996960727453864,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2124,7 +2135,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.155354121737649,
+   "rank": 5.2168392143119435,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2152,7 +2163,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.496615305581088,
+   "rank": 4.658539168506479,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2180,10 +2191,8 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.3595024265372855,
-   "deltas": [
-    "Now also covered by Simon Willison."
-   ],
+   "rank": 4.542332069769974,
+   "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
    "publishedAt": "2026-09-17T23:37:27.000Z",
@@ -2210,7 +2219,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.005771508300452,
+   "rank": 4.242534968079983,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2244,7 +2253,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.793534370152146,
+   "rank": 4.062657904449263,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2265,6 +2274,45 @@
    ]
   },
   {
+   "id": "google-agents-google-announces-experimental-agent",
+   "title": "Google announces new experimental \"CC\" AI agent for families",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 3.998515500125034,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-17T20:24:34.000Z",
+   "latestAt": "2026-09-17T20:24:34.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google announces new experimental \"CC\" AI agent for families",
+     "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-17T20:24:34.000Z",
+     "points": null,
+     "summary": "Multiple family members can share data to help the agent make plans and complete tasks."
+    }
+   ]
+  },
+  {
    "id": "self-generated-prompt-injections",
    "title": "Self-generated prompt injections in compaction summaries",
    "category": {
@@ -2272,7 +2320,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.457423935520087,
+   "rank": 3.777794668143214,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2300,7 +2348,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 4.456041380607219,
+   "rank": 3.776622913189277,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2328,7 +2376,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.1689451793326615,
+   "rank": 3.5333006458643395,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2360,7 +2408,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.9281305523940397,
+   "rank": 3.3292033406001775,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2381,40 +2429,6 @@
    ]
   },
   {
-   "id": "microsoft-microsoft-exec-called-scraping",
-   "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "microsoft",
-     "name": "Microsoft",
-     "kind": "org"
-    }
-   ],
-   "rank": 3.8689902003749337,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-17T20:10:41.000Z",
-   "latestAt": "2026-09-17T20:10:41.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
-     "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-17T20:10:41.000Z",
-     "points": null,
-     "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs."
-    }
-   ]
-  },
-  {
    "id": "llms-respond-differently-harmful",
    "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
    "category": {
@@ -2422,7 +2436,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.4569808940920224,
+   "rank": 2.929890487979804,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2450,7 +2464,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 2.7240292135201516,
+   "rank": 2.308692910426987,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2489,7 +2503,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.593966087684968,
+   "rank": 2.198460679791095,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2527,7 +2541,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.7690913243309268,
+   "rank": 1.499355652321636,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2555,7 +2569,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3044351222577355,
+   "rank": 1.1055461901514272,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2583,7 +2597,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.1290893194025968,
+   "rank": 0.9569355915882592,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2615,7 +2629,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.0323104094530213,
+   "rank": 0.8749126888343255,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2643,7 +2657,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.031614976948972,
+   "rank": 0.8743232898352953,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2677,7 +2691,7 @@
      "kind": "org"
     }
    ],
-   "rank": 0.9768271414046362,
+   "rank": 0.8278890273571072,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2694,40 +2708,6 @@
      "date": "2026-09-17T02:26:07.000Z",
      "points": null,
      "summary": "Huawei Technologies on Thursday unveiled its latest Atlas 960 SuperPoD computing cluster and an upgraded version of its UnifiedBus interconnect technology, key components of the Chinese…"
-    }
-   ]
-  },
-  {
-   "id": "apple-apple-reportedly-building-server",
-   "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "apple",
-     "name": "Apple",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.8343719887909017,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T22:02:46.000Z",
-   "latestAt": "2026-09-16T22:02:46.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-     "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-16T22:02:46.000Z",
-     "points": null,
-     "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades."
     }
    ]
   }

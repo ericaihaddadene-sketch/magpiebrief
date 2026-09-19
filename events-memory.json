@@ -1,17 +1,4 @@
 {
- "anthropic-openai-openai-anthropic-oversold-security": {
-  "id": "anthropic-openai-openai-anthropic-oversold-security",
-  "title": "OpenAI and Anthropic oversold AI security breaches",
-  "firstSeen": "2026-09-19T20:28:19.495Z",
-  "publishers": [
-   "SCMP Tech",
-   "nypost.com"
-  ],
-  "sourceCount": 2,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "google-gemini-google-gemini-latest-model": {
   "id": "google-gemini-google-gemini-latest-model",
   "title": "Google’s Gemini is the latest AI model to hack other companies",
@@ -25,10 +12,34 @@
   "hadPrimary": false,
   "category": "models"
  },
- "trump-suggests-rebranding-with": {
-  "id": "trump-suggests-rebranding-with",
-  "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-  "firstSeen": "2026-09-19T20:28:19.495Z",
+ "microsoft-microsoft-director-scraping-largest": {
+  "id": "microsoft-microsoft-director-scraping-largest",
+  "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+  "firstSeen": "2026-09-19T22:51:31.467Z",
+  "publishers": [
+   "tomshardware.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "datasette-auth-github": {
+  "id": "datasette-auth-github",
+  "title": "datasette-auth-github 1.0",
+  "firstSeen": "2026-09-19T22:51:31.467Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "opensource"
+ },
+ "trump-says-time-rebrand": {
+  "id": "trump-says-time-rebrand",
+  "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+  "firstSeen": "2026-09-19T22:51:31.467Z",
   "publishers": [
    "TechCrunch"
   ],
@@ -37,10 +48,10 @@
   "hadPrimary": false,
   "category": "general"
  },
- "almost-never-write-anything": {
-  "id": "almost-never-write-anything",
-  "title": "Almost Never Use AI to Write Anything Substantive",
-  "firstSeen": "2026-09-19T20:28:19.495Z",
+ "think-should-almost-never": {
+  "id": "think-should-almost-never",
+  "title": "I think you should almost never use AI to write",
+  "firstSeen": "2026-09-19T22:51:31.467Z",
   "publishers": [
    "erichgrunewald.substack.com"
   ],
@@ -421,18 +432,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "google-agents-google-agent-that-helps": {
-  "id": "google-agents-google-agent-that-helps",
-  "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-  "firstSeen": "2026-09-18T18:16:47.863Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "note-18th-september-2026": {
   "id": "note-18th-september-2026",
   "title": "Note on 18th September 2026",
@@ -487,18 +486,6 @@
   "firstSeen": "2026-09-18T21:34:26.042Z",
   "publishers": [
    "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "disney-first-character-former": {
-  "id": "disney-first-character-former",
-  "title": "Disney’s first CTO is Character.AI’s former CEO",
-  "firstSeen": "2026-09-18T21:34:26.042Z",
-  "publishers": [
-   "The Verge"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -589,6 +576,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "anthropic-openai-chinese-models-make-openai": {
+  "id": "anthropic-openai-chinese-models-make-openai",
+  "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
+  "firstSeen": "2026-09-19T22:51:31.467Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
+ },
  "google-creating-future-fashion-with": {
   "id": "google-creating-future-fashion-with",
   "title": "Co-creating the future of fashion with Google",
@@ -599,6 +598,18 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
+  "category": "general"
+ },
+ "disney-first-startup-once": {
+  "id": "disney-first-startup-once",
+  "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+  "firstSeen": "2026-09-19T22:51:31.467Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
   "category": "general"
  },
  "millemiglia-realistic-instance-generator": {
@@ -877,6 +888,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "google-agents-google-announces-experimental-agent": {
+  "id": "google-agents-google-announces-experimental-agent",
+  "title": "Google announces new experimental \"CC\" AI agent for families",
+  "firstSeen": "2026-09-19T22:51:31.467Z",
+  "publishers": [
+   "Ars Technica AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "self-generated-prompt-injections": {
   "id": "self-generated-prompt-injections",
   "title": "Self-generated prompt injections in compaction summaries",
@@ -919,18 +942,6 @@
   "firstSeen": "2026-09-18T09:34:26.587Z",
   "publishers": [
    "Alignment Forum"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "microsoft-microsoft-exec-called-scraping": {
-  "id": "microsoft-microsoft-exec-called-scraping",
-  "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "Ars Technica AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -1039,18 +1050,6 @@
   "firstSeen": "2026-09-18T09:34:26.587Z",
   "publishers": [
    "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "apple-apple-reportedly-building-server": {
-  "id": "apple-apple-reportedly-building-server",
-  "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "Ars Technica AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
