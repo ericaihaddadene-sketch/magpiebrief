@@ -11,18 +11,6 @@
   "hadPrimary": false,
   "category": "models"
  },
- "openai-openai-used-llms-design": {
-  "id": "openai-openai-used-llms-design",
-  "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-  "firstSeen": "2026-09-19T00:07:03.585Z",
-  "publishers": [
-   "IEEE Spectrum"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
  "google-gemini-gemini-hacked-three-companies": {
   "id": "google-gemini-gemini-hacked-three-companies",
   "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
@@ -34,6 +22,18 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "security"
+ },
+ "openai-openai-used-llms-design": {
+  "id": "openai-openai-used-llms-design",
+  "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+  "firstSeen": "2026-09-19T00:07:03.585Z",
+  "publishers": [
+   "IEEE Spectrum"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
  },
  "openai-claude-security-researchers-used-claude": {
   "id": "openai-claude-security-researchers-used-claude",
@@ -56,6 +56,18 @@
   ],
   "sourceCount": 1,
   "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "alibaba-alibaba-open-sources-model": {
+  "id": "alibaba-alibaba-open-sources-model",
+  "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+  "firstSeen": "2026-09-19T04:30:51.035Z",
+  "publishers": [
+   "SCMP"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
@@ -83,16 +95,16 @@
   "hadPrimary": false,
   "category": "general"
  },
- "agents-agentgit-host-agents-with": {
-  "id": "agents-agentgit-host-agents-with",
-  "title": "Agentgit: a Git host for AI agents with no accounts",
-  "firstSeen": "2026-09-19T00:07:03.585Z",
+ "implications-linguistic-illegibility-security": {
+  "id": "implications-linguistic-illegibility-security",
+  "title": "The Implications of Linguistic Illegibility for LLM Security",
+  "firstSeen": "2026-09-18T21:34:26.042Z",
   "publishers": [
-   "agentgit.co"
+   "arXiv"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
+  "independentCount": 1,
+  "hadPrimary": true,
   "category": "general"
  },
  "cache-cache-direct-semantic": {
@@ -107,16 +119,16 @@
   "hadPrimary": true,
   "category": "general"
  },
- "implications-linguistic-illegibility-security": {
-  "id": "implications-linguistic-illegibility-security",
-  "title": "The Implications of Linguistic Illegibility for LLM Security",
-  "firstSeen": "2026-09-18T21:34:26.042Z",
+ "tilly-norwood-press-tour": {
+  "id": "tilly-norwood-press-tour",
+  "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+  "firstSeen": "2026-09-19T04:30:51.035Z",
   "publishers": [
-   "arXiv"
+   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": true,
+  "hadPrimary": false,
   "category": "general"
  },
  "statement-california-governor-executive": {
@@ -133,7 +145,7 @@
  },
  "startup-that-builds-other": {
   "id": "startup-that-builds-other",
-  "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+  "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
   "firstSeen": "2026-09-19T00:07:03.585Z",
   "publishers": [
    "TechCrunch"
@@ -239,6 +251,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "anthropic-openai-chinese-models-make-openai": {
+  "id": "anthropic-openai-chinese-models-make-openai",
+  "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
+  "firstSeen": "2026-09-19T00:07:03.585Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
+ },
  "tees-875m-tool-help": {
   "id": "tees-875m-tool-help",
   "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
@@ -334,18 +358,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "anthropic-openai-chinese-models-make-openai": {
-  "id": "anthropic-openai-chinese-models-make-openai",
-  "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
-  "firstSeen": "2026-09-19T00:07:03.585Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
  },
  "current-model-what-happened": {
   "id": "current-model-what-happened",
@@ -503,18 +515,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "that-love-orion-mattress": {
-  "id": "that-love-orion-mattress",
-  "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
-  "firstSeen": "2026-09-18T18:16:47.863Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "pacs-have-dumped-nearly": {
   "id": "pacs-have-dumped-nearly",
   "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
@@ -543,18 +543,6 @@
   "id": "agents-international-embeds-agents-across",
   "title": "Ant International embeds AI agents across all platforms in biggest-ever product upgrade",
   "firstSeen": "2026-09-18T14:19:47.334Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "alibaba-alibaba-open-sources-medical": {
-  "id": "alibaba-alibaba-open-sources-medical",
-  "title": "Alibaba open-sources medical AI model that can detect cancer and nearly 150 conditions",
-  "firstSeen": "2026-09-18T18:16:47.863Z",
   "publishers": [
    "SCMP Tech"
   ],
@@ -719,6 +707,30 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "write-with": {
+  "id": "write-with",
+  "title": "How to Write with an LLM",
+  "firstSeen": "2026-09-18T09:34:26.587Z",
+  "publishers": [
+   "sockpuppet.org"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "deepseek-show-cactus-needle-29mb": {
+  "id": "deepseek-show-cactus-needle-29mb",
+  "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+  "firstSeen": "2026-09-19T04:30:51.035Z",
+  "publishers": [
+   "cactuscompute.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "china-major-shift-huawei": {
   "id": "china-major-shift-huawei",
   "title": "China to see major shift to Huawei for AI model training in 2027: deputy chair",
@@ -734,18 +746,6 @@
  "alert-targeted-attacks-prominent": {
   "id": "alert-targeted-attacks-prominent",
   "title": "Be alert: targeted attacks on prominent Rustaceans",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "write-with": {
-  "id": "write-with",
-  "title": "How To Write With An LLM",
   "firstSeen": "2026-09-18T09:34:26.587Z",
   "publishers": [
    "Simon Willison"
@@ -1019,18 +1019,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "framework-reporting-model-misalignment": {
-  "id": "framework-reporting-model-misalignment",
-  "title": "Our framework for reporting model misalignment",
-  "firstSeen": "2026-09-19T00:07:03.585Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
  "helping-older-adults-everyday": {
   "id": "helping-older-adults-everyday",
   "title": "Helping older adults use AI in everyday life",
@@ -1234,17 +1222,5 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "tools"
- },
- "measure-measure-studying-society": {
-  "id": "measure-measure-studying-society",
-  "title": "Measure by measure, studying society accurately",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "MIT News AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  }
 }
