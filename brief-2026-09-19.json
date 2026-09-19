@@ -1,9 +1,166 @@
 {
  "date": "2026-09-19",
- "generated": "2026-09-19T09:21:15.178Z",
- "headline": "100 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2677 items read · 100 on-topic · 100 distinct developments · 12 with a primary source · 0 independently corroborated",
+ "generated": "2026-09-19T13:50:37.835Z",
+ "headline": "94 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2677 items read · 94 on-topic · 94 distinct developments · 11 with a primary source · 0 independently corroborated",
  "events": [
+  {
+   "id": "vals-backed-andreessen-horowitz",
+   "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 113.18258252681736,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T13:00:00.000Z",
+   "latestAt": "2026-09-19T13:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+     "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-19T13:00:00.000Z",
+     "points": null,
+     "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models."
+    }
+   ]
+  },
+  {
+   "id": "regulation-regulation-smackdown-over",
+   "title": "The AI regulation smackdown isn’t over",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "regulation",
+     "name": "AI Regulation",
+     "kind": "topic"
+    }
+   ],
+   "rank": 113.18258252681736,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T13:00:00.000Z",
+   "latestAt": "2026-09-19T13:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The AI regulation smackdown isn’t over",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-19T13:00:00.000Z",
+     "points": null,
+     "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic…"
+    }
+   ]
+  },
+  {
+   "id": "generated-posters-have-horrible",
+   "title": "AI-generated posters don’t have to be horrible",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 106.18757013176173,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-19T09:20:58.000Z",
+   "latestAt": "2026-09-19T09:20:58.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI-generated posters don’t have to be horrible",
+     "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+     "publisher": "john.hartnup.uk",
+     "publisherDomain": "john.hartnup.uk",
+     "kind": "discussion",
+     "date": "2026-09-19T09:20:58.000Z",
+     "points": 448,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "anthropic-safety-anthropic-looks-some-alignment",
+   "title": "Anthropic Looks At Some Of Its Alignment Problems",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    },
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 101.45306415395714,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T13:20:53.000Z",
+   "latestAt": "2026-09-19T13:20:53.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic Looks At Some Of Its Alignment Problems",
+     "link": "https://www.lesswrong.com/posts/ggFx5Wb3Hi4pJsueK/anthropic-looks-at-some-of-its-alignment-problems",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-19T13:20:53.000Z",
+     "points": null,
+     "summary": "Anthropic has given us its assessment of four ‘recent cybersecurity incidents’ involving Claude that happened during cybersecurity evaluations, three of which were previously known. The report…"
+    }
+   ]
+  },
+  {
+   "id": "built-autoregressive-decision-models",
+   "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 89.10208699344702,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-19T13:41:57.000Z",
+   "latestAt": "2026-09-19T13:41:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+     "link": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+     "publisher": "dev.to",
+     "publisherDomain": "dev.to",
+     "kind": "discussion",
+     "date": "2026-09-19T13:41:57.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
   {
    "id": "gpt-astra-solves-german-radio",
    "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
@@ -18,7 +175,7 @@
      "kind": "model"
     }
    ],
-   "rank": 120.59653497657087,
+   "rank": 88.34534416895406,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -33,8 +190,102 @@
      "publisherDomain": "prinzai.com",
      "kind": "discussion",
      "date": "2026-09-19T06:41:44.000Z",
-     "points": 85,
+     "points": 185,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "kicking-tires-typesafe-system",
+   "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 82.77421627286247,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T12:38:11.000Z",
+   "latestAt": "2026-09-19T12:38:11.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
+    "title": "kicking the tires on jev (TypeSafe's System One model) with 2048"
+   },
+   "sources": [
+    {
+     "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
+     "link": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
+     "publisher": "GitHub",
+     "publisherDomain": "gist.github.com",
+     "kind": "primary",
+     "date": "2026-09-19T12:38:11.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "security-forget-slowdown-vulnerability-explosion",
+   "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [
+    {
+     "id": "security",
+     "name": "AI Security",
+     "kind": "topic"
+    }
+   ],
+   "rank": 82.10930081169244,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T11:00:00.000Z",
+   "latestAt": "2026-09-19T11:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+     "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-19T11:00:00.000Z",
+     "points": null,
+     "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws."
+    }
+   ]
+  },
+  {
+   "id": "mathematicians-hate-they-quit",
+   "title": "Mathematicians Hate AI. They Can’t Quit It",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 76.61068656932899,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T10:00:00.000Z",
+   "latestAt": "2026-09-19T10:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Mathematicians Hate AI. They Can’t Quit It",
+     "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-19T10:00:00.000Z",
+     "points": null,
+     "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful."
     }
    ]
   },
@@ -46,7 +297,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 98.28977573231026,
+   "rank": 75.89118686074507,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -61,7 +312,7 @@
      "publisherDomain": "newsroom.usra.edu",
      "kind": "discussion",
      "date": "2026-09-19T04:44:35.000Z",
-     "points": 22,
+     "points": 43,
      "summary": ""
     }
    ]
@@ -74,7 +325,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 97.57476579939801,
+   "rank": 71.48029807346974,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -113,7 +364,7 @@
      "kind": "model"
     }
    ],
-   "rank": 96.0259490186934,
+   "rank": 70.3456821280565,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -134,6 +385,40 @@
    ]
   },
   {
+   "id": "openai-openai-used-llms-design",
+   "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 70.3083894361469,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-18T23:04:17.000Z",
+   "latestAt": "2026-09-18T23:04:17.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+     "link": "https://spectrum.ieee.org/llms-for-chip-design",
+     "publisher": "IEEE Spectrum",
+     "publisherDomain": "spectrum.ieee.org",
+     "kind": "discussion",
+     "date": "2026-09-18T23:04:17.000Z",
+     "points": 155,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "doesn-just-answer-questions",
    "title": "AI doesn’t just answer questions – it legitimises bad ones",
    "category": {
@@ -141,7 +426,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 89.54708084045515,
+   "rank": 65.59946086106122,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -162,68 +447,6 @@
    ]
   },
   {
-   "id": "stepfun-step-preview-pareto",
-   "title": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 96.88720669161091,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-19T05:42:31.000Z",
-   "latestAt": "2026-09-19T05:42:31.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
-     "link": "https://artificialanalysis.ai/models/step-5",
-     "publisher": "artificialanalysis.ai",
-     "publisherDomain": "artificialanalysis.ai",
-     "kind": "discussion",
-     "date": "2026-09-19T05:42:31.000Z",
-     "points": 8,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "openai-openai-used-llms-design",
-   "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 95.97504232444079,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-18T23:04:17.000Z",
-   "latestAt": "2026-09-18T23:04:17.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-     "link": "https://spectrum.ieee.org/llms-for-chip-design",
-     "publisher": "IEEE Spectrum",
-     "publisherDomain": "spectrum.ieee.org",
-     "kind": "discussion",
-     "date": "2026-09-18T23:04:17.000Z",
-     "points": 116,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "anthropic-anthropic-operating-that-conducts",
    "title": "Anthropic is operating a lab that conducts biology experiments",
    "category": {
@@ -237,7 +460,7 @@
      "kind": "org"
     }
    ],
-   "rank": 74.33277013111325,
+   "rank": 54.4539207659719,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -276,7 +499,7 @@
      "kind": "model"
     }
    ],
-   "rank": 69.33872492300785,
+   "rank": 50.795435530130746,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -297,6 +520,38 @@
    ]
   },
   {
+   "id": "implications-linguistic-illegibility-security",
+   "title": "The Implications of Linguistic Illegibility for LLM Security",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 50.72250126039235,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-19T05:34:15.000Z",
+   "latestAt": "2026-09-19T05:34:15.000Z",
+   "primary": {
+    "publisher": "arXiv",
+    "link": "https://arxiv.org/abs/2609.02852",
+    "title": "The Implications of Linguistic Illegibility for LLM Security"
+   },
+   "sources": [
+    {
+     "title": "The Implications of Linguistic Illegibility for LLM Security",
+     "link": "https://arxiv.org/abs/2609.02852",
+     "publisher": "arXiv",
+     "publisherDomain": "arxiv.org",
+     "kind": "research",
+     "date": "2026-09-19T05:34:15.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "anthropic-anthropic-first-embedded-evaluator",
    "title": "Anthropic’s first embedded evaluator is … Accenture?",
    "category": {
@@ -310,7 +565,7 @@
      "kind": "org"
     }
    ],
-   "rank": 67.07246368287733,
+   "rank": 49.13524165080419,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -349,7 +604,7 @@
      "kind": "org"
     }
    ],
-   "rank": 57.82930787664963,
+   "rank": 42.36398755907513,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -377,7 +632,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 53.339336685747654,
+   "rank": 39.07477157748836,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -396,7 +651,7 @@
      "publisherDomain": "arxiv.org",
      "kind": "research",
      "date": "2026-09-18T18:55:35.000Z",
-     "points": 85,
+     "points": 98,
      "summary": ""
     }
    ]
@@ -409,7 +664,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 53.02609615089596,
+   "rank": 38.84530111331197,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -437,7 +692,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 50.259523164932276,
+   "rank": 36.818594105013794,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -465,7 +720,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 50.2179292297804,
+   "rank": 36.78812365644703,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -493,7 +748,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 49.498917801073375,
+   "rank": 36.261397808620025,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -532,7 +787,7 @@
      "kind": "org"
     }
    ],
-   "rank": 47.39445404457074,
+   "rank": 34.71973183210224,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -560,7 +815,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 45.48627804345086,
+   "rank": 33.32186027976763,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -594,7 +849,7 @@
      "kind": "org"
     }
    ],
-   "rank": 45.27200512956288,
+   "rank": 33.16489047688568,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -622,7 +877,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 45.20145479224497,
+   "rank": 33.11320745106079,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -650,7 +905,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 44.948146289040565,
+   "rank": 32.927641365759385,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -678,7 +933,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 44.85573652269152,
+   "rank": 32.85994478878673,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -706,7 +961,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 42.0004872736192,
+   "rank": 30.768276254143927,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -745,7 +1000,7 @@
      "kind": "org"
     }
    ],
-   "rank": 41.97071229326417,
+   "rank": 30.746464011465477,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -773,7 +1028,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 41.66205032553688,
+   "rank": 30.520347665949984,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -801,7 +1056,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 40.69253453532663,
+   "rank": 29.81010996152506,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -829,7 +1084,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 40.47123807275151,
+   "rank": 29.64799492104426,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -857,7 +1112,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.88844931349835,
+   "rank": 27.75592263309456,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -885,7 +1140,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 36.605671104140406,
+   "rank": 26.816198432725297,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -919,7 +1174,7 @@
      "kind": "model"
     }
    ],
-   "rank": 36.52813495738331,
+   "rank": 26.75939781592382,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -947,7 +1202,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.68489804163113,
+   "rank": 26.141668164300192,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -975,7 +1230,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 34.762842003902605,
+   "rank": 25.466198027351275,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1009,7 +1264,7 @@
      "kind": "org"
     }
    ],
-   "rank": 34.5414670929869,
+   "rank": 25.304025518008284,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1041,7 +1296,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 33.950310324452495,
+   "rank": 24.870962095546574,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1073,7 +1328,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 33.52032906032614,
+   "rank": 24.555970932883188,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1101,7 +1356,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 32.73153790511067,
+   "rank": 23.97812658521205,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1129,7 +1384,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 32.55916385295124,
+   "rank": 23.851850610808793,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1157,7 +1412,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 32.36852058652722,
+   "rank": 23.712191167119176,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1191,7 +1446,7 @@
      "kind": "org"
     }
    ],
-   "rank": 31.373413379096604,
+   "rank": 22.9832059707987,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1223,7 +1478,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 31.282790407899842,
+   "rank": 22.91681834546977,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1251,7 +1506,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 30.032156949341864,
+   "rank": 22.00064240934542,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1279,7 +1534,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 29.588154580502604,
+   "rank": 21.675379812915455,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1311,7 +1566,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 29.536676743105065,
+   "rank": 21.637668718953744,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1345,7 +1600,7 @@
      "kind": "org"
     }
    ],
-   "rank": 29.009151433342073,
+   "rank": 21.25121976287138,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1366,40 +1621,6 @@
    ]
   },
   {
-   "id": "meta-ai-meta-muse-hits-letting",
-   "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 28.76886082096607,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T15:22:48.000Z",
-   "latestAt": "2026-09-18T15:22:48.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-     "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-18T15:22:48.000Z",
-     "points": null,
-     "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf."
-    }
-   ]
-  },
-  {
    "id": "pacs-have-dumped-nearly",
    "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
    "category": {
@@ -1407,7 +1628,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.025309722614367,
+   "rank": 20.530487325916226,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1435,7 +1656,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.020993240747366,
+   "rank": 20.52732520292311,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1469,7 +1690,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 27.81255653817396,
+   "rank": 20.374630830486396,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1503,7 +1724,7 @@
      "kind": "org"
     }
    ],
-   "rank": 25.715646114054334,
+   "rank": 18.838498194948354,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1524,34 +1745,6 @@
    ]
   },
   {
-   "id": "space-debate-agent-swarms",
-   "title": "The J-Space Debate, Agent Swarms, and Pacing Frontier AI - Digital Minds Newsletter #4",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 25.51325738532955,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T16:09:46.000Z",
-   "latestAt": "2026-09-18T16:09:46.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The J-Space Debate, Agent Swarms, and Pacing Frontier AI - Digital Minds Newsletter #4",
-     "link": "https://www.lesswrong.com/posts/aXCm8pze46tErTyg4/the-j-space-debate-agent-swarms-and-pacing-frontier-ai",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-18T16:09:46.000Z",
-     "points": null,
-     "summary": "Welcome back to the Digital Minds Newsletter, your curated guide to the latest developments in AI consciousness, digital minds, and AI moral status. If you enjoy…"
-    }
-   ]
-  },
-  {
    "id": "infrastructure-adopt-this-data-center",
    "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
    "category": {
@@ -1565,7 +1758,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 25.253933121038507,
+   "rank": 18.50026133529741,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1593,7 +1786,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 24.175807688545806,
+   "rank": 17.710459518774446,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1621,7 +1814,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.067183585050643,
+   "rank": 16.89831530587226,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1649,7 +1842,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.765538550567868,
+   "rank": 16.67733935168407,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1677,7 +1870,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.340432938354617,
+   "rank": 16.365919942938792,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1705,7 +1898,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.88783662010268,
+   "rank": 16.03436168122475,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1733,7 +1926,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.1601740596838,
+   "rank": 14.768728771144241,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1761,7 +1954,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.411309180661974,
+   "rank": 14.220133195939045,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1789,7 +1982,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.81010751280952,
+   "rank": 13.779711186536428,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1817,7 +2010,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.486961124439976,
+   "rank": 13.542983996132424,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1845,7 +2038,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.291792335594703,
+   "rank": 11.20230077183186,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1866,6 +2059,36 @@
    ]
   },
   {
+   "id": "write-with",
+   "title": "How to Write with an LLM",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 10.66911837103168,
+   "deltas": [
+    "Now also covered by sockpuppet.org."
+   ],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-17T21:48:38.000Z",
+   "latestAt": "2026-09-17T21:48:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How to Write with an LLM",
+     "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+     "publisher": "sockpuppet.org",
+     "publisherDomain": "sockpuppet.org",
+     "kind": "discussion",
+     "date": "2026-09-17T21:48:38.000Z",
+     "points": 529,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "deepseek-show-cactus-needle-29mb",
    "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
    "category": {
@@ -1879,7 +2102,7 @@
      "kind": "org"
     }
    ],
-   "rank": 14.561071784540701,
+   "rank": 10.666997178020189,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1894,7 +2117,7 @@
      "publisherDomain": "cactuscompute.com",
      "kind": "discussion",
      "date": "2026-09-18T00:11:44.000Z",
-     "points": 198,
+     "points": 207,
      "summary": ""
     }
    ]
@@ -1907,7 +2130,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.302541994020249,
+   "rank": 9.74503662988328,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1935,7 +2158,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.878919470976834,
+   "rank": 8.702134180079236,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1956,36 +2179,6 @@
    ]
   },
   {
-   "id": "write-with",
-   "title": "How To Write With An LLM",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 11.582600234856871,
-   "deltas": [
-    "Now also covered by Simon Willison."
-   ],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-17T23:37:27.000Z",
-   "latestAt": "2026-09-17T23:37:27.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How To Write With An LLM",
-     "link": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-17T23:37:27.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "lawmakers-ground-cybersecurity-rules",
    "title": "EFF to Lawmakers: Ground AI Cybersecurity Rules in Best Practices",
    "category": {
@@ -1993,7 +2186,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.818140497632125,
+   "rank": 7.925039850581833,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2027,7 +2220,7 @@
      "kind": "org"
     }
    ],
-   "rank": 10.359467708533272,
+   "rank": 7.589030151615401,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2055,7 +2248,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.6330881887049,
+   "rank": 7.056906664908387,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2083,7 +2276,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 9.630100302967753,
+   "rank": 7.054717830927071,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2111,7 +2304,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.009647084802559,
+   "rank": 6.600192722803626,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2136,34 +2329,6 @@
    ]
   },
   {
-   "id": "here-what-apocalypse-could",
-   "title": "Here’s What the AI Apocalypse Could Look Like",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 8.829629219758015,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-17T22:20:21.000Z",
-   "latestAt": "2026-09-17T22:20:21.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Here’s What the AI Apocalypse Could Look Like",
-     "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-17T22:20:21.000Z",
-     "points": null,
-     "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI."
-    }
-   ]
-  },
-  {
    "id": "defense-gradual-disempowerment",
    "title": "A Defense of Gradual Disempowerment",
    "category": {
@@ -2171,7 +2336,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.489214527346219,
+   "rank": 6.21893970078154,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2205,7 +2370,7 @@
      "kind": "org"
     }
    ],
-   "rank": 8.361404331423124,
+   "rank": 6.1253098485696125,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2226,34 +2391,6 @@
    ]
   },
   {
-   "id": "slowdown-antitrust-mess",
-   "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [],
-   "rank": 7.494751448172396,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-17T19:58:28.000Z",
-   "latestAt": "2026-09-17T19:58:28.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
-     "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-17T19:58:28.000Z",
-     "points": null,
-     "summary": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of…"
-    }
-   ]
-  },
-  {
    "id": "llms-respond-differently-harmful",
    "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
    "category": {
@@ -2261,7 +2398,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.470997217492797,
+   "rank": 5.473024748123381,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2289,7 +2426,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 5.886990787064619,
+   "rank": 4.312629938362048,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2328,7 +2465,7 @@
      "kind": "model"
     }
    ],
-   "rank": 5.605907008767288,
+   "rank": 4.106716533480127,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2366,7 +2503,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.8232425247575534,
+   "rank": 2.8007908913527824,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2394,7 +2531,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.8190584406880443,
+   "rank": 2.0651562519882103,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2422,7 +2559,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.4401127521340276,
+   "rank": 1.7875521957593155,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2460,7 +2597,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.254479212220706,
+   "rank": 1.6515627249496472,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2488,7 +2625,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.2309606077930115,
+   "rank": 1.6343337124996473,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2516,7 +2653,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.229457685311843,
+   "rank": 1.6332327173186163,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2550,7 +2687,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.11105385854968,
+   "rank": 1.5464936843252,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2584,7 +2721,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.803189256054022,
+   "rank": 1.3209614642643073,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2612,7 +2749,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.401476752191822,
+   "rank": 1.0266791333700311,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2644,7 +2781,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.295016604112513,
+   "rank": 0.94868967518061,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2665,40 +2802,6 @@
    ]
   },
   {
-   "id": "openai-download-trillion-dollar-gamble",
-   "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.1715768501703838,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T12:10:00.000Z",
-   "latestAt": "2026-09-16T12:10:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-     "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-09-16T12:10:00.000Z",
-     "points": null,
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at…"
-    }
-   ]
-  },
-  {
    "id": "robotics-rethinking-robot-safety",
    "title": "Rethinking Robot Safety in the Age of AI",
    "category": {
@@ -2712,7 +2815,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.143528042687779,
+   "rank": 0.8377137744275083,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2740,7 +2843,7 @@
     "name": "Policy & Regulation"
    },
    "entities": [],
-   "rank": 1.1431097849882614,
+   "rank": 0.8374073715907904,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2761,108 +2864,6 @@
    ]
   },
   {
-   "id": "reimagining-advertising-with",
-   "title": "Reimagining advertising with AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.1383528504053608,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T13:00:00.000Z",
-   "latestAt": "2026-09-16T13:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/reimagining-advertising-with-ai",
-    "title": "Reimagining advertising with AI"
-   },
-   "sources": [
-    {
-     "title": "Reimagining advertising with AI",
-     "link": "https://openai.com/index/reimagining-advertising-with-ai",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-16T13:00:00.000Z",
-     "points": null,
-     "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
-    }
-   ]
-  },
-  {
-   "id": "gpt-turns-complex-analysis-into",
-   "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.062120765438166,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T12:00:00.000Z",
-   "latestAt": "2026-09-16T12:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/hex-gpt-6-astra",
-    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra"
-   },
-   "sources": [
-    {
-     "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-     "link": "https://openai.com/index/hex-gpt-6-astra",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-16T12:00:00.000Z",
-     "points": null,
-     "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share."
-    }
-   ]
-  },
-  {
-   "id": "connect-usage-business-value",
-   "title": "How to connect AI usage to business value",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.062120765438166,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T12:00:00.000Z",
-   "latestAt": "2026-09-16T12:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-    "title": "How to connect AI usage to business value"
-   },
-   "sources": [
-    {
-     "title": "How to connect AI usage to business value",
-     "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-16T12:00:00.000Z",
-     "points": null,
-     "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
-    }
-   ]
-  },
-  {
    "id": "technique-could-make-minimally",
    "title": "New AI technique could make minimally invasive surgeries safer and more precise",
    "category": {
@@ -2870,7 +2871,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 0.9555714187180636,
+   "rank": 0.7000224830760183,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2887,180 +2888,6 @@
      "date": "2026-09-16T15:00:00.000Z",
      "points": null,
      "summary": "This patient-specific method, called xvr, helps doctors use X-rays for surgical navigation in fields such as orthopedics and neurosurgery."
-    }
-   ]
-  },
-  {
-   "id": "building-materials-foundation",
-   "title": "Building the materials foundation for AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9063268279896365,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T12:47:34.000Z",
-   "latestAt": "2026-09-16T12:47:34.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Building the materials foundation for AI",
-     "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-09-16T12:47:34.000Z",
-     "points": null,
-     "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as…"
-    }
-   ]
-  },
-  {
-   "id": "single-phase-direct-liquid",
-   "title": "Single-Phase Direct Liquid Cooling Is Proven for the Next Decade of Ultra-Dense Compute",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9005861461518768,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T13:24:18.000Z",
-   "latestAt": "2026-09-16T13:24:18.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Single-Phase Direct Liquid Cooling Is Proven for the Next Decade of Ultra-Dense Compute",
-     "link": "https://content.knowledgehub.wiley.com/single-phase-direct-liquid-cooling-is-proven-for-the-next-decade-of-ultra-dense-compute/",
-     "publisher": "IEEE Spectrum",
-     "publisherDomain": "content.knowledgehub.wiley.com",
-     "kind": "coverage",
-     "date": "2026-09-16T13:24:18.000Z",
-     "points": null,
-     "summary": "Learn how single-phase direct liquid cooling manages the rising heat of AI and high-performance computing, and how it compares with two-phase and immersion approaches. Download this…"
-    }
-   ]
-  },
-  {
-   "id": "funding-china-raises-revenue-target",
-   "title": "China’s Z.ai raises revenue target 25% after US$5 billion cash injection",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.8624205054961083,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T13:31:13.000Z",
-   "latestAt": "2026-09-16T13:31:13.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "China’s Z.ai raises revenue target 25% after US$5 billion cash injection",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3367755/chinas-zai-raises-revenue-target-25-after-us5-billion-cash-injection?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-16T13:31:13.000Z",
-     "points": null,
-     "summary": "Chinese artificial intelligence developer Z.ai has raised its year-end annual recurring revenue (ARR) outlook by 25 per cent to US$3 billion, as the firm indicated its…"
-    }
-   ]
-  },
-  {
-   "id": "china-chip-stocks-face",
-   "title": "China’s AI chip stocks face crucial test as MetaX lock-up period expires",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.79890855036804,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T12:25:00.000Z",
-   "latestAt": "2026-09-16T12:25:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "China’s AI chip stocks face crucial test as MetaX lock-up period expires",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3367745/chinas-ai-chip-stocks-face-crucial-test-metax-lock-period-expires?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-16T12:25:00.000Z",
-     "points": null,
-     "summary": "China is bracing for a potential massive sell-off of a high-profile artificial intelligence chip stock on Thursday, when a lock-up period affecting 14 million shares in…"
-    }
-   ]
-  },
-  {
-   "id": "kimi-creator-moonshot-draws",
-   "title": "Kimi creator Moonshot draws global funds seeking ‘top-tier’ Chinese AI developers: sources",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.713365517584278,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T10:46:58.000Z",
-   "latestAt": "2026-09-16T10:46:58.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Kimi creator Moonshot draws global funds seeking ‘top-tier’ Chinese AI developers: sources",
-     "link": "https://www.scmp.com/tech/big-tech/article/3367723/kimi-creator-moonshot-draws-global-investors-seeking-top-tier-chinese-ai-developers?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-16T10:46:58.000Z",
-     "points": null,
-     "summary": "China’s Moonshot AI has attracted global investor interest spanning Europe, Asia and the Middle East, people familiar with the matter say, as international capital scrambles for…"
-    }
-   ]
-  },
-  {
-   "id": "people-daily-rejects-claims",
-   "title": "People’s Daily rejects US claims of malicious AI distillation, warns of countermeasures",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.6565565414700815,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-16T09:35:08.000Z",
-   "latestAt": "2026-09-16T09:35:08.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "People’s Daily rejects US claims of malicious AI distillation, warns of countermeasures",
-     "link": "https://www.scmp.com/tech/article/3367717/peoples-daily-rejects-us-claims-malicious-ai-distillation-warns-countermeasures?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-16T09:35:08.000Z",
-     "points": null,
-     "summary": "China’s ruling Communist Party mouthpiece has rejected US allegations that Chinese artificial intelligence companies conducted “industrial-scale” distillation of American frontier models, warning that Beijing would respond…"
     }
    ]
   }
