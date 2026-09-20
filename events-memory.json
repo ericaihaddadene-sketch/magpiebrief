@@ -1,4 +1,28 @@
 {
+ "openai-openai-altman-brief-security": {
+  "id": "openai-openai-altman-brief-security",
+  "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+  "firstSeen": "2026-09-20T21:24:27.098Z",
+  "publishers": [
+   "Reuters"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "quoting-voxium": {
+  "id": "quoting-voxium",
+  "title": "Quoting voxium",
+  "firstSeen": "2026-09-20T21:24:27.098Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "turned-into-lousy-chatbot": {
   "id": "turned-into-lousy-chatbot",
   "title": "I turned Jev into a (lousy) chatbot",
@@ -11,48 +35,24 @@
   "hadPrimary": true,
   "category": "general"
  },
- "self-hosted-inference-orchestrators": {
-  "id": "self-hosted-inference-orchestrators",
-  "title": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-  "firstSeen": "2026-09-20T18:40:13.954Z",
+ "claude-better-call-better-claude": {
+  "id": "claude-better-call-better-claude",
+  "title": "Better Call Sol Or Better Yet Claude or Astra",
+  "firstSeen": "2026-09-20T21:24:27.098Z",
   "publishers": [
-   "nexlab.net"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "trump-says-wants-form": {
-  "id": "trump-says-wants-form",
-  "title": "Trump now says he wants to form an ‘AI Force’",
-  "firstSeen": "2026-09-20T15:55:22.709Z",
-  "publishers": [
-   "The Verge"
+   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "general"
+  "category": "models"
  },
- "chinese-firm-faces-reputation": {
-  "id": "chinese-firm-faces-reputation",
-  "title": "Chinese AI firm Z.ai faces reputation hit after users spot unauthorised uploads",
-  "firstSeen": "2026-09-20T15:55:22.709Z",
+ "world-model-companies-keeping": {
+  "id": "world-model-companies-keeping",
+  "title": "World model companies are keeping a lot of secrets",
+  "firstSeen": "2026-09-20T21:24:27.098Z",
   "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "humans-rogue-still-biggest": {
-  "id": "humans-rogue-still-biggest",
-  "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-  "firstSeen": "2026-09-20T15:55:22.709Z",
-  "publishers": [
-   "The Verge"
+   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -83,10 +83,34 @@
   "hadPrimary": false,
   "category": "general"
  },
- "qwen-qwen-image-compact-efficient": {
-  "id": "qwen-qwen-image-compact-efficient",
-  "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
-  "firstSeen": "2026-09-20T15:55:22.709Z",
+ "industry-really-ready-slow": {
+  "id": "industry-really-ready-slow",
+  "title": "Is the AI industry really ready to slow down?",
+  "firstSeen": "2026-09-20T21:24:27.098Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "nvidia-surprised-that-nvidia-jensen": {
+  "id": "nvidia-surprised-that-nvidia-jensen",
+  "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+  "firstSeen": "2026-09-20T21:24:27.098Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "qwen-qwen-image": {
+  "id": "qwen-qwen-image",
+  "title": "Qwen Image 2.1",
+  "firstSeen": "2026-09-20T21:24:27.098Z",
   "publishers": [
    "qwen.ai"
   ],
@@ -94,6 +118,54 @@
   "independentCount": 0,
   "hadPrimary": false,
   "category": "models"
+ },
+ "trump-says-wants-form": {
+  "id": "trump-says-wants-form",
+  "title": "Trump now says he wants to form an ‘AI Force’",
+  "firstSeen": "2026-09-20T15:55:22.709Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "safety-please-give-them-chance": {
+  "id": "safety-please-give-them-chance",
+  "title": "Please Give Them a Chance: On China, Rationalism, and AI Safety",
+  "firstSeen": "2026-09-20T21:24:27.098Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "chinese-firm-faces-reputation": {
+  "id": "chinese-firm-faces-reputation",
+  "title": "Chinese AI firm Z.ai faces reputation hit after users spot unauthorised uploads",
+  "firstSeen": "2026-09-20T15:55:22.709Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "humans-rogue-still-biggest": {
+  "id": "humans-rogue-still-biggest",
+  "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+  "firstSeen": "2026-09-20T15:55:22.709Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
  },
  "meta-ai-meta-muse-better-surveilling": {
   "id": "meta-ai-meta-muse-better-surveilling",
@@ -239,18 +311,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "kicking-tires-typesafe-system": {
-  "id": "kicking-tires-typesafe-system",
-  "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
-  "firstSeen": "2026-09-19T13:50:37.768Z",
-  "publishers": [
-   "GitHub"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
  "security-forget-slowdown-vulnerability-explosion": {
   "id": "security-forget-slowdown-vulnerability-explosion",
   "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
@@ -293,30 +353,6 @@
   "firstSeen": "2026-09-19T09:21:15.120Z",
   "publishers": [
    "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "anthropic-anthropic-operating-that-conducts": {
-  "id": "anthropic-anthropic-operating-that-conducts",
-  "title": "Anthropic is operating a lab that conducts biology experiments",
-  "firstSeen": "2026-09-19T00:07:03.585Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "anthropic-anthropic-first-embedded-evaluator": {
-  "id": "anthropic-anthropic-first-embedded-evaluator",
-  "title": "Anthropic’s first embedded evaluator is … Accenture?",
-  "firstSeen": "2026-09-19T00:07:03.585Z",
-  "publishers": [
-   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -370,18 +406,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "business"
- },
- "hallucination-nearly-triggers-military": {
-  "id": "hallucination-nearly-triggers-military",
-  "title": "AI hallucination nearly triggers US military operation",
-  "firstSeen": "2026-09-19T00:07:03.585Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  },
  "note-18th-september-2026": {
   "id": "note-18th-september-2026",
@@ -503,18 +527,6 @@
   "hadPrimary": false,
   "category": "business"
  },
- "google-creating-future-fashion-with": {
-  "id": "google-creating-future-fashion-with",
-  "title": "Co-creating the future of fashion with Google",
-  "firstSeen": "2026-09-18T14:19:47.334Z",
-  "publishers": [
-   "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
  "millemiglia-realistic-instance-generator": {
   "id": "millemiglia-realistic-instance-generator",
   "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
@@ -585,6 +597,18 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
+  "category": "general"
+ },
+ "google-creating-future-fashion-with": {
+  "id": "google-creating-future-fashion-with",
+  "title": "Co-creating the future of fashion with Google",
+  "firstSeen": "2026-09-18T14:19:47.334Z",
+  "publishers": [
+   "Google AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
   "category": "general"
  },
  "pacs-have-dumped-nearly": {
@@ -755,30 +779,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "google-agents-google-announces-experimental-agent": {
-  "id": "google-agents-google-announces-experimental-agent",
-  "title": "Google announces new experimental \"CC\" AI agent for families",
-  "firstSeen": "2026-09-19T22:51:31.467Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "self-generated-prompt-injections": {
-  "id": "self-generated-prompt-injections",
-  "title": "Self-generated prompt injections in compaction summaries",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "small-models-drones-autonomously": {
   "id": "small-models-drones-autonomously",
   "title": "Small AI models let drones autonomously identify and attack battlefield targets",
@@ -790,41 +790,5 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "security"
- },
- "making-global-data-easier": {
-  "id": "making-global-data-easier",
-  "title": "Making global data easier to explore",
-  "firstSeen": "2026-09-17T21:17:36.772Z",
-  "publishers": [
-   "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "defense-gradual-disempowerment": {
-  "id": "defense-gradual-disempowerment",
-  "title": "A Defense of Gradual Disempowerment",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "Alignment Forum"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "microsoft-microsoft-exec-called-scraping": {
-  "id": "microsoft-microsoft-exec-called-scraping",
-  "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
-  "firstSeen": "2026-09-20T00:56:25.412Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  }
 }
