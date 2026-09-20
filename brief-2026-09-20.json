@@ -1,39 +1,65 @@
 {
  "date": "2026-09-20",
- "generated": "2026-09-20T15:55:22.774Z",
- "headline": "72 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2677 items read · 72 on-topic · 72 distinct developments · 6 with a primary source · 0 independently corroborated",
+ "generated": "2026-09-20T18:40:13.996Z",
+ "headline": "69 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2677 items read · 69 on-topic · 69 distinct developments · 7 with a primary source · 0 independently corroborated",
  "events": [
   {
-   "id": "qwen-qwen-image-compact-efficient",
-   "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+   "id": "turned-into-lousy-chatbot",
+   "title": "I turned Jev into a (lousy) chatbot",
    "category": {
-    "id": "models",
-    "name": "Models"
+    "id": "general",
+    "name": "Other"
    },
-   "entities": [
+   "entities": [],
+   "rank": 128.77921161351225,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-20T17:51:27.000Z",
+   "latestAt": "2026-09-20T17:51:27.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/kyle-pena-nlp/jevchat/",
+    "title": "I turned Jev into a (lousy) chatbot"
+   },
+   "sources": [
     {
-     "id": "qwen",
-     "name": "Qwen",
-     "kind": "model"
+     "title": "I turned Jev into a (lousy) chatbot",
+     "link": "https://github.com/kyle-pena-nlp/jevchat/",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-20T17:51:27.000Z",
+     "points": 24,
+     "summary": ""
     }
-   ],
-   "rank": 119.70221698640123,
+   ]
+  },
+  {
+   "id": "self-hosted-inference-orchestrators",
+   "title": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 117.95019493001016,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-09-20T13:09:25.000Z",
-   "latestAt": "2026-09-20T13:09:25.000Z",
+   "publishedAt": "2026-09-20T17:43:35.000Z",
+   "latestAt": "2026-09-20T17:43:35.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
-     "link": "https://qwen.ai/blog?id=qwen-image-2.1",
-     "publisher": "qwen.ai",
-     "publisherDomain": "qwen.ai",
+     "title": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+     "link": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/",
+     "publisher": "nexlab.net",
+     "publisherDomain": "nexlab.net",
      "kind": "discussion",
-     "date": "2026-09-20T13:09:25.000Z",
-     "points": 184,
+     "date": "2026-09-20T17:43:35.000Z",
+     "points": 9,
      "summary": ""
     }
    ]
@@ -46,7 +72,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 115.8373495954463,
+   "rank": 95.74995359293992,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -67,34 +93,6 @@
    ]
   },
   {
-   "id": "chat-based-large-language",
-   "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 113.08831529870807,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-20T12:20:13.000Z",
-   "latestAt": "2026-09-20T12:20:13.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-     "link": "https://softwarecrisis.dev/letters/llmentalist/",
-     "publisher": "softwarecrisis.dev",
-     "publisherDomain": "softwarecrisis.dev",
-     "kind": "discussion",
-     "date": "2026-09-20T12:20:13.000Z",
-     "points": 120,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "chinese-firm-faces-reputation",
    "title": "Chinese AI firm Z.ai faces reputation hit after users spot unauthorised uploads",
    "category": {
@@ -102,7 +100,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 77.59050097962319,
+   "rank": 64.13550460191067,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -130,7 +128,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 76.19152981086717,
+   "rank": 62.97912952121288,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -151,6 +149,102 @@
    ]
   },
   {
+   "id": "gpt-chatgpt-knows-what-other",
+   "title": "ChatGPT now knows what you do on other websites via ad collector",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 114.88742087543919,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-20T15:18:44.000Z",
+   "latestAt": "2026-09-20T15:18:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "ChatGPT now knows what you do on other websites via ad collector",
+     "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+     "publisher": "buchodi.com",
+     "publisherDomain": "buchodi.com",
+     "kind": "discussion",
+     "date": "2026-09-20T15:18:44.000Z",
+     "points": 164,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "pirate-face-rescues-models",
+   "title": "Pirate Face Rescues LLM Models from Deletion",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 114.54065300976167,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-20T15:16:07.000Z",
+   "latestAt": "2026-09-20T15:16:07.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Pirate Face Rescues LLM Models from Deletion",
+     "link": "https://pirateface.co/",
+     "publisher": "pirateface.co",
+     "publisherDomain": "pirateface.co",
+     "kind": "discussion",
+     "date": "2026-09-20T15:16:07.000Z",
+     "points": 232,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "qwen-qwen-image-compact-efficient",
+   "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "qwen",
+     "name": "Qwen",
+     "kind": "model"
+    }
+   ],
+   "rank": 98.94461295470202,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-20T13:09:25.000Z",
+   "latestAt": "2026-09-20T13:09:25.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+     "link": "https://qwen.ai/blog?id=qwen-image-2.1",
+     "publisher": "qwen.ai",
+     "publisherDomain": "qwen.ai",
+     "kind": "discussion",
+     "date": "2026-09-20T13:09:25.000Z",
+     "points": 316,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "meta-ai-meta-muse-better-surveilling",
    "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
    "category": {
@@ -164,7 +258,7 @@
      "kind": "org"
     }
    ],
-   "rank": 68.66765148907089,
+   "rank": 56.7599696158205,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -192,7 +286,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 68.66765148907089,
+   "rank": 56.7599696158205,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -220,7 +314,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 68.0000732345351,
+   "rank": 56.20815634389486,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -248,7 +342,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.51443332112918,
+   "rank": 34.3154006701443,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -287,7 +381,7 @@
      "kind": "model"
     }
    ],
-   "rank": 37.36658961466213,
+   "rank": 30.886836016411912,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -315,7 +409,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 29.8842896589526,
+   "rank": 24.702044357851676,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -336,40 +430,6 @@
    ]
   },
   {
-   "id": "safety-global-challenges-safety-biosecurity",
-   "title": "Global Challenges in AI Safety for Biosecurity",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 26.127289239837488,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-20T01:42:18.000Z",
-   "latestAt": "2026-09-20T01:42:18.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Global Challenges in AI Safety for Biosecurity",
-     "link": "https://www.lesswrong.com/posts/KH2JjfSrw6tJdmKzw/global-challenges-in-ai-safety-for-biosecurity",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-20T01:42:18.000Z",
-     "points": null,
-     "summary": "This article is written as part of a summary of the AI safety discussions held at the 2026 Global Challenges Project Biosecurity Workshop in Washington, D.C…"
-    }
-   ]
-  },
-  {
    "id": "california-lion-brandt-cormorant",
    "title": "California Sea Lion, Brandt's Cormorant",
    "category": {
@@ -377,7 +437,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 24.786488809029272,
+   "rank": 20.488254966857205,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -398,34 +458,6 @@
    ]
   },
   {
-   "id": "anatomy-chinese-researcher",
-   "title": "The Anatomy of a Chinese AI Researcher",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [],
-   "rank": 23.133794053097947,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-19T23:56:58.000Z",
-   "latestAt": "2026-09-19T23:56:58.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Anatomy of a Chinese AI Researcher",
-     "link": "https://www.lesswrong.com/posts/qmxkHm2dTLKG6GZ6i/the-anatomy-of-a-chinese-ai-researcher",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-19T23:56:58.000Z",
-     "points": null,
-     "summary": "The Chinese AI researcher has read the Three Body Problem series of sci-fi novels since high school, and understand the concept of existential risk vaguely. He…"
-    }
-   ]
-  },
-  {
    "id": "vals-backed-andreessen-horowitz",
    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
    "category": {
@@ -433,7 +465,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.566025801277323,
+   "rank": 15.34648466221047,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -461,7 +493,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.77230274729981,
+   "rank": 14.690401405390327,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -495,7 +527,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 17.77230274729981,
+   "rank": 14.690401405390327,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -523,7 +555,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.845991076419864,
+   "rank": 13.924721770893242,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -551,10 +583,8 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.615955999025138,
-   "deltas": [
-    "Now also covered by dev.to."
-   ],
+   "rank": 12.081397869604945,
+   "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
    "publishedAt": "2026-09-19T13:41:57.000Z",
@@ -581,7 +611,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.577956967348298,
+   "rank": 11.223398619279557,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -619,7 +649,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 13.468886849560288,
+   "rank": 11.133242389418877,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -647,7 +677,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.566915789916006,
+   "rank": 10.387682452103892,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -675,7 +705,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.72534703385647,
+   "rank": 9.692050433420892,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -703,7 +733,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.760677621115171,
+   "rank": 8.894664686724399,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -737,7 +767,7 @@
      "kind": "org"
     }
    ],
-   "rank": 8.93240704842728,
+   "rank": 7.38343516445393,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -771,7 +801,7 @@
      "kind": "org"
     }
    ],
-   "rank": 8.059951839539266,
+   "rank": 6.662272723715304,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -810,7 +840,7 @@
      "kind": "model"
     }
    ],
-   "rank": 6.76137883544145,
+   "rank": 5.588885726225689,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -838,7 +868,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.372030454043188,
+   "rank": 5.267054386156462,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -866,7 +896,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.039577405458809,
+   "rank": 4.9922521389973396,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -894,7 +924,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 6.034579152886398,
+   "rank": 4.9881206351816365,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -922,7 +952,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.948177115906555,
+   "rank": 4.916701606172012,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -950,7 +980,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.465986938000293,
+   "rank": 4.5181281985557264,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -984,7 +1014,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.440238228744279,
+   "rank": 4.496844582131907,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1012,7 +1042,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.431760348406766,
+   "rank": 4.48983685403973,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1040,7 +1070,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 5.401320817423886,
+   "rank": 4.464675852953458,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1068,7 +1098,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.390216137121726,
+   "rank": 4.45549683921299,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1096,7 +1126,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 5.006437824439305,
+   "rank": 4.138269660262038,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1124,7 +1154,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 4.88993322407583,
+   "rank": 4.041968164094126,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1145,34 +1175,6 @@
    ]
   },
   {
-   "id": "world-model-companies-keeping",
-   "title": "World model companies are keeping a lot of secrets",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 4.863340510275287,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T20:18:14.000Z",
-   "latestAt": "2026-09-18T20:18:14.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "World model companies are keeping a lot of secrets",
-     "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-18T20:18:14.000Z",
-     "points": null,
-     "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders…"
-    }
-   ]
-  },
-  {
    "id": "here-slowdown-could-actually",
    "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
    "category": {
@@ -1180,7 +1182,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.552972411830168,
+   "rank": 3.7634398461738625,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1208,7 +1210,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.398823749017968,
+   "rank": 3.6360221578183447,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1225,40 +1227,6 @@
      "date": "2026-09-18T17:28:50.000Z",
      "points": null,
      "summary": "The Federal Register website briefly used an open source Chinese AI search tool."
-    }
-   ]
-  },
-  {
-   "id": "gpt-kind-model-from-chatgpt",
-   "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 4.3895063991791385,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T18:49:30.000Z",
-   "latestAt": "2026-09-18T18:49:30.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-     "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-18T18:49:30.000Z",
-     "points": null,
-     "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence."
     }
    ]
   },
@@ -1281,7 +1249,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.274177170053546,
+   "rank": 3.532990586455189,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1315,7 +1283,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.150772849985189,
+   "rank": 3.4309858534309963,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1347,7 +1315,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.079734828979539,
+   "rank": 3.3722665609197247,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1379,7 +1347,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 4.028064917208469,
+   "rank": 3.329556746930457,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1407,7 +1375,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.93327760251327,
+   "rank": 3.2512065341971597,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1441,7 +1409,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.7700747369748018,
+   "rank": 3.1163047356311675,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1473,7 +1441,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.5555440764370587,
+   "rank": 2.938975913256599,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1505,7 +1473,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.5493580968644363,
+   "rank": 2.933862646602329,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1533,7 +1501,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.3677404146123266,
+   "rank": 2.7837393512400843,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1561,7 +1529,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.367221712390072,
+   "rank": 2.783310597354719,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1595,7 +1563,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.3421743279332086,
+   "rank": 2.7626066887471326,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1629,7 +1597,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.090193170507103,
+   "rank": 2.5543216734726344,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1663,7 +1631,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.0347101260047857,
+   "rank": 2.508459963455568,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1691,7 +1659,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.905154141540597,
+   "rank": 2.4013703283468817,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1719,7 +1687,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.7719331982251596,
+   "rank": 2.2912512762051507,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1747,7 +1715,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.422604196649806,
+   "rank": 2.0024995410668405,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1775,7 +1743,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.3326147355831,
+   "rank": 1.9281151844574806,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1803,7 +1771,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.8375813709165016,
+   "rank": 1.5189257316659357,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1831,7 +1799,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.5985374910661452,
+   "rank": 1.321334536060337,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1859,7 +1827,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4274638739158252,
+   "rank": 1.1799268557195264,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1887,7 +1855,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3918558368598424,
+   "rank": 1.150493621036987,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1915,7 +1883,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2999923756571903,
+   "rank": 1.0745602353219312,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1932,40 +1900,6 @@
      "date": "2026-09-18T01:16:10.000Z",
      "points": null,
      "summary": "With doomsday AI scenarios dominating the news, lawmakers are rightly concerned about reports concerning security breaches at major US AI labs, such as the OpenAI–Hugging Face…"
-    }
-   ]
-  },
-  {
-   "id": "openai-covert-uploads-megalomania-openai",
-   "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.2448746658363163,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-17T16:18:34.000Z",
-   "latestAt": "2026-09-17T16:18:34.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
-     "link": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-17T16:18:34.000Z",
-     "points": null,
-     "summary": "Model maker commits to new framework for reporting misaligned models."
     }
    ]
   },
@@ -1988,7 +1922,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.2252202287591478,
+   "rank": 1.0127543530176846,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2016,7 +1950,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.157587221398235,
+   "rank": 0.9568496095236847,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2044,7 +1978,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 1.1572281736784837,
+   "rank": 0.9565528243967468,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2072,7 +2006,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.0826696621447085,
+   "rank": 0.8949235308722475,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2104,7 +2038,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.0201304155075348,
+   "rank": 0.8432292372427754,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2138,7 +2072,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.0047717427053424,
+   "rank": 0.8305339173550627,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2155,34 +2089,6 @@
      "date": "2026-09-17T20:10:41.000Z",
      "points": null,
      "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs."
-    }
-   ]
-  },
-  {
-   "id": "llms-respond-differently-harmful",
-   "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8977734596276074,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-17T18:33:13.000Z",
-   "latestAt": "2026-09-17T18:33:13.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-     "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-17T18:33:13.000Z",
-     "points": null,
-     "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse."
     }
    ]
   }
