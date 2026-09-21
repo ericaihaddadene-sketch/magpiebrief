@@ -1,8 +1,8 @@
 {
  "date": "2026-09-21",
- "generated": "2026-09-21T20:56:33.145Z",
- "headline": "48 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2683 items read · 50 on-topic · 48 distinct developments · 7 with a primary source · 2 independently corroborated",
+ "generated": "2026-09-21T23:59:38.452Z",
+ "headline": "55 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2683 items read · 56 on-topic · 55 distinct developments · 8 with a primary source · 1 independently corroborated",
  "events": [
   {
    "id": "advisory-group-mathematics-artificial",
@@ -12,7 +12,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 145.58024011955638,
+   "rank": 123.53667437046295,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -27,7 +27,163 @@
      "publisherDomain": "terrytao.wordpress.com",
      "kind": "discussion",
      "date": "2026-09-21T19:17:42.000Z",
-     "points": 29,
+     "points": 71,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-muse-meta-extraordinarily-privileged",
+   "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 116.30761664548092,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-20T10:30:00.000Z",
+   "latestAt": "2026-09-21T22:24:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+     "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-21T22:24:38.000Z",
+     "points": null,
+     "summary": "A simple ClickFix attack is only one way to completely hijack the new agent."
+    },
+    {
+     "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+     "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-20T10:30:00.000Z",
+     "points": null,
+     "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and…"
+    }
+   ]
+  },
+  {
+   "id": "introduces-shape-system-decision",
+   "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 113.22476933422716,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T23:09:20.000Z",
+   "latestAt": "2026-09-21T23:09:20.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+     "link": "https://simonwillison.net/2026/Sep/21/jev/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-21T23:09:20.000Z",
+     "points": null,
+     "summary": "Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie…"
+    }
+   ]
+  },
+  {
+   "id": "circuit-must-vacate-drone",
+   "title": "D.C. Circuit Must Vacate a Drone Flight Restriction That Criminalized Recording Immigration Agents",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 111.95013492364377,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T22:59:32.000Z",
+   "latestAt": "2026-09-21T22:59:32.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "D.C. Circuit Must Vacate a Drone Flight Restriction That Criminalized Recording Immigration Agents",
+     "link": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
+     "publisher": "EFF",
+     "publisherDomain": "eff.org",
+     "kind": "coverage",
+     "date": "2026-09-21T22:59:32.000Z",
+     "points": null,
+     "summary": "EFF joined an amicus brief with ACLU, ACLU of D.C., National Press Photographers Association, and Professional Photographers of America to urge the D.C. Circuit to vacate…"
+    }
+   ]
+  },
+  {
+   "id": "cloudflare-python-workers-generally",
+   "title": "Cloudflare Python Workers are now generally available",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 107.66303002063056,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T22:25:44.000Z",
+   "latestAt": "2026-09-21T22:25:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Cloudflare Python Workers are now generally available",
+     "link": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-21T22:25:44.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "coding-made-bottleneck-reworked",
+   "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 105.402021683667,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-21T19:23:33.000Z",
+   "latestAt": "2026-09-21T19:23:33.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+     "link": "https://linear.app/now/ci-bottleneck-reworked",
+     "publisher": "linear.app",
+     "publisherDomain": "linear.app",
+     "kind": "discussion",
+     "date": "2026-09-21T19:23:33.000Z",
+     "points": 113,
      "summary": ""
     }
    ]
@@ -46,7 +202,7 @@
      "kind": "org"
     }
    ],
-   "rank": 128.8165106675334,
+   "rank": 104.25887207115886,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -67,30 +223,102 @@
    ]
   },
   {
-   "id": "coding-made-bottleneck-reworked",
-   "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+   "id": "frontier-your-hardware",
+   "title": "Frontier AI on Your Own Hardware",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 128.08292423135907,
+   "rank": 101.74893191600464,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-09-21T19:23:33.000Z",
-   "latestAt": "2026-09-21T19:23:33.000Z",
+   "publishedAt": "2026-09-21T18:53:01.000Z",
+   "latestAt": "2026-09-21T18:53:01.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-     "link": "https://linear.app/now/ci-bottleneck-reworked",
-     "publisher": "linear.app",
-     "publisherDomain": "linear.app",
+     "title": "Frontier AI on Your Own Hardware",
+     "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+     "publisher": "timdettmers.com",
+     "publisherDomain": "timdettmers.com",
      "kind": "discussion",
-     "date": "2026-09-21T19:23:33.000Z",
-     "points": 43,
+     "date": "2026-09-21T18:53:01.000Z",
+     "points": 81,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "coding-agents-show-foremerge-catch-intent",
+   "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "coding-agents",
+     "name": "Coding Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 98.8200554305719,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T16:22:06.000Z",
+   "latestAt": "2026-09-21T16:22:06.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/naw103/foremerge",
+    "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents"
+   },
+   "sources": [
+    {
+     "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+     "link": "https://github.com/naw103/foremerge",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-21T16:22:06.000Z",
+     "points": 33,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "apple-built-apple-stores-doesn",
+   "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "apple",
+     "name": "Apple",
+     "kind": "org"
+    }
+   ],
+   "rank": 98.2623569822034,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T23:44:28.000Z",
+   "latestAt": "2026-09-21T23:44:28.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+     "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-21T23:44:28.000Z",
+     "points": null,
+     "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
     }
    ]
   },
@@ -113,7 +341,7 @@
      "kind": "model"
     }
    ],
-   "rank": 128.0113054380987,
+   "rank": 87.80268774192994,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -130,83 +358,6 @@
      "date": "2026-09-21T16:57:26.000Z",
      "points": null,
      "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet."
-    }
-   ]
-  },
-  {
-   "id": "meta-ai-gpt-meta-muse-outpacing-chatgpt",
-   "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    },
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 105.46642984659736,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-20T10:30:00.000Z",
-   "latestAt": "2026-09-21T19:19:21.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-     "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-21T19:19:21.000Z",
-     "points": null,
-     "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period…"
-    },
-    {
-     "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
-     "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-20T10:30:00.000Z",
-     "points": null,
-     "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and…"
-    }
-   ]
-  },
-  {
-   "id": "frontier-your-hardware",
-   "title": "Frontier AI on Your Own Hardware",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 117.31079796446497,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-21T18:53:01.000Z",
-   "latestAt": "2026-09-21T18:53:01.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Frontier AI on Your Own Hardware",
-     "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-     "publisher": "timdettmers.com",
-     "publisherDomain": "timdettmers.com",
-     "kind": "discussion",
-     "date": "2026-09-21T18:53:01.000Z",
-     "points": 22,
-     "summary": ""
     }
    ]
   },
@@ -229,7 +380,7 @@
      "kind": "model"
     }
    ],
-   "rank": 99.21681798575715,
+   "rank": 80.30207835998807,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -273,7 +424,7 @@
      "kind": "org"
     }
    ],
-   "rank": 97.3294341355319,
+   "rank": 78.77450623146125,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -307,7 +458,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 96.95117802652649,
+   "rank": 78.46836104033189,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -328,6 +479,73 @@
    ]
   },
   {
+   "id": "meta-ai-gpt-meta-muse-outpacing-chatgpt",
+   "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    },
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 72.33920453654648,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T19:19:21.000Z",
+   "latestAt": "2026-09-21T19:19:21.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+     "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-21T19:19:21.000Z",
+     "points": null,
+     "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period…"
+    }
+   ]
+  },
+  {
+   "id": "story-imprinting-assistants-absorb",
+   "title": "Story Imprinting: AI Assistants Absorb Traits from Human Characters They Resemble",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 69.71698194967608,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T23:56:08.000Z",
+   "latestAt": "2026-09-21T23:56:08.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Story Imprinting: AI Assistants Absorb Traits from Human Characters They Resemble",
+     "link": "https://www.lesswrong.com/posts/tnRkm2ajasHvhpAco/story-imprinting-ai-assistants-absorb-traits-from-human",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-21T23:56:08.000Z",
+     "points": null,
+     "summary": "This is the abstract, introduction and discussion of our new paper . We also include an addendum on the connection to the Persona Selection Model. Section…"
+    }
+   ]
+  },
+  {
    "id": "tariffs-rare-minerals-what",
    "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
    "category": {
@@ -335,7 +553,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 84.72164786078709,
+   "rank": 68.57027410696519,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -369,7 +587,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 79.48648055544244,
+   "rank": 64.3331414946113,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -397,7 +615,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 76.12661031619128,
+   "rank": 61.613798456715536,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -425,7 +643,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 74.25175342058665,
+   "rank": 60.09636513844262,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -453,7 +671,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 71.77342559798417,
+   "rank": 58.0905068671067,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -474,50 +692,6 @@
    ]
   },
   {
-   "id": "apple-iphone-owners-submit-claims",
-   "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "apple",
-     "name": "Apple",
-     "kind": "org"
-    }
-   ],
-   "rank": 71.00430012102083,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-18T21:55:16.000Z",
-   "latestAt": "2026-09-21T13:36:52.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-     "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-21T13:36:52.000Z",
-     "points": null,
-     "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim…"
-    },
-    {
-     "title": "How to Limit What Apple’s New Siri AI Can Access in iOS 27",
-     "link": "https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27",
-     "publisher": "EFF",
-     "publisherDomain": "eff.org",
-     "kind": "coverage",
-     "date": "2026-09-18T21:55:16.000Z",
-     "points": null,
-     "summary": "Apple’s new operating system is here, and along with it comes a new version of Siri, dubbed with two very familiar letters: AI. As the name…"
-    }
-   ]
-  },
-  {
    "id": "gpt-higgsfield-ships-video-features",
    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
    "category": {
@@ -531,7 +705,7 @@
      "kind": "model"
     }
    ],
-   "rank": 69.94334133483824,
+   "rank": 56.60931070613304,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -563,7 +737,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 69.81740493168898,
+   "rank": 56.507382876563675,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -595,7 +769,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 68.59972878862432,
+   "rank": 55.521845071153464,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -633,7 +807,7 @@
      "kind": "org"
     }
    ],
-   "rank": 66.7675047915578,
+   "rank": 54.038917096113906,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -665,7 +839,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 61.47106488542077,
+   "rank": 49.752192919647804,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -693,7 +867,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 60.889215197856515,
+   "rank": 49.28126732302942,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -731,7 +905,7 @@
      "kind": "model"
     }
    ],
-   "rank": 60.438229675856455,
+   "rank": 48.91625788751147,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -752,6 +926,40 @@
    ]
   },
   {
+   "id": "apple-iphone-owners-submit-claims",
+   "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "apple",
+     "name": "Apple",
+     "kind": "org"
+    }
+   ],
+   "rank": 48.70170154521992,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T13:36:52.000Z",
+   "latestAt": "2026-09-21T13:36:52.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+     "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-21T13:36:52.000Z",
+     "points": null,
+     "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim…"
+    }
+   ]
+  },
+  {
    "id": "safety-safety-fears-mount-china",
    "title": "As AI safety fears mount, can a US-China hotline prevent a global crisis?",
    "category": {
@@ -765,7 +973,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 54.789397376636494,
+   "rank": 44.34432156518847,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -799,7 +1007,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 53.012190106488426,
+   "rank": 42.90592190304794,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -833,7 +1041,7 @@
      "kind": "org"
     }
    ],
-   "rank": 49.37706827438173,
+   "rank": 39.963801362034026,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -861,7 +1069,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 48.75452775952776,
+   "rank": 39.459942256078364,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -882,34 +1090,6 @@
    ]
   },
   {
-   "id": "weight-smuggling-likely-defeats",
-   "title": "Weight smuggling likely defeats attempts to cap FLOPs per training run",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 45.88663915583845,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T14:50:59.000Z",
-   "latestAt": "2026-09-21T14:50:59.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Weight smuggling likely defeats attempts to cap FLOPs per training run",
-     "link": "https://www.lesswrong.com/posts/neT4ncKSiJ6QLt4d7/weight-smuggling-likely-defeats-attempts-to-cap-flops-per",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-21T14:50:59.000Z",
-     "points": null,
-     "summary": "Epistemic status: >90% confidence in the principle, >70% confidence that mitigating these would be hard in practice, no full implementation yet. tldr: it seems difficult for…"
-    }
-   ]
-  },
-  {
    "id": "regulation-chinese-regulator-drafts-rules",
    "title": "Chinese regulator drafts rules to protect teenagers from ‘intimate’ AI companions",
    "category": {
@@ -923,7 +1103,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 42.99765101565894,
+   "rank": 34.80055913152269,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -951,7 +1131,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.60342465870203,
+   "rank": 33.67212872586317,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -985,7 +1165,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 36.5335291187139,
+   "rank": 29.568760393817648,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1017,7 +1197,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 36.151001737864235,
+   "rank": 29.259158208064825,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1045,7 +1225,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.931768260590374,
+   "rank": 21.797483623647626,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1077,7 +1257,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 25.56901768025684,
+   "rank": 20.69452843813893,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1111,7 +1291,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 23.036991019402887,
+   "rank": 18.645208499671835,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1139,7 +1319,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.00430618615065,
+   "rank": 18.61875471800166,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1160,6 +1340,68 @@
    ]
   },
   {
+   "id": "mcp-always-idea",
+   "title": "MCP was always a bad idea?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "mcp",
+     "name": "Model Context Protocol",
+     "kind": "product"
+    }
+   ],
+   "rank": 17.736250216820384,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-20T20:24:41.000Z",
+   "latestAt": "2026-09-20T20:24:41.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "MCP was always a bad idea?",
+     "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-20T20:24:41.000Z",
+     "points": null,
+     "summary": "My comment on MCP was always a bad idea? — Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no…"
+    }
+   ]
+  },
+  {
+   "id": "keys",
+   "title": "llm-keys-ui 0.1",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 16.503323443834773,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-20T19:22:19.000Z",
+   "latestAt": "2026-09-20T19:22:19.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "llm-keys-ui 0.1",
+     "link": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-20T19:22:19.000Z",
+     "points": null,
+     "summary": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from…"
+    }
+   ]
+  },
+  {
    "id": "world-model-companies-keeping",
    "title": "World model companies are keeping a lot of secrets",
    "category": {
@@ -1167,7 +1409,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.355378609399033,
+   "rank": 14.856100823862375,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1195,7 +1437,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.484607529872424,
+   "rank": 13.34197439981892,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1229,7 +1471,7 @@
      "kind": "model"
     }
    ],
-   "rank": 13.637852114888355,
+   "rank": 11.037925741066456,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1257,7 +1499,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.380849530980985,
+   "rank": 8.40183962158257,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1285,7 +1527,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.187059611086804,
+   "rank": 7.435634358816856,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1306,6 +1548,34 @@
    ]
   },
   {
+   "id": "datasette-explain",
+   "title": "datasette-explain 0.2.2",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 4.420679101112615,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-20T00:22:04.000Z",
+   "latestAt": "2026-09-20T00:22:04.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "datasette-explain 0.2.2",
+     "link": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-20T00:22:04.000Z",
+     "points": null,
+     "summary": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of…"
+    }
+   ]
+  },
+  {
    "id": "datasette-auth-github",
    "title": "datasette-auth-github 1.0",
    "category": {
@@ -1313,7 +1583,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 3.998225431890291,
+   "rank": 3.2360019042199215,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1341,7 +1611,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.3161895783538022,
+   "rank": 2.683989678199219,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1375,7 +1645,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.802005219322054,
+   "rank": 1.4584701189256022,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1403,7 +1673,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.681330320548996,
+   "rank": 1.3608007381281975,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1431,7 +1701,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.5687366587433698,
+   "rank": 1.269671983581248,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1459,7 +1729,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4396733340531847,
+   "rank": 1.165213350225766,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1476,62 +1746,6 @@
      "date": "2026-09-19T08:30:05.000Z",
      "points": null,
      "summary": "Years ago, I watched a focus group explain itself into a contradiction. We asked people what mattered when choosing car insurance. Price won. The deductible came…"
-    }
-   ]
-  },
-  {
-   "id": "statement-california-governor-executive",
-   "title": "EFF Statement on California Governor's Executive Order on AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8080363380208825,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T23:25:44.000Z",
-   "latestAt": "2026-09-18T23:25:44.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "EFF Statement on California Governor's Executive Order on AI",
-     "link": "https://www.eff.org/deeplinks/2026/09/eff-statement-california-governors-executive-order-ai",
-     "publisher": "EFF",
-     "publisherDomain": "eff.org",
-     "kind": "coverage",
-     "date": "2026-09-18T23:25:44.000Z",
-     "points": null,
-     "summary": "California Gov. Gavin Newsom's executive order is an opportunity for a needed, thoughtful conversation about artificial intelligence and its potential harms. Everyday Californians are feeling real…"
-    }
-   ]
-  },
-  {
-   "id": "secure-messaging-remain-conflict",
-   "title": "Secure Messaging and AI Remain In Conflict Despite the Promise of TEEs",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.726716365447462,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T21:53:55.000Z",
-   "latestAt": "2026-09-18T21:53:55.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Secure Messaging and AI Remain In Conflict Despite the Promise of TEEs",
-     "link": "https://www.eff.org/deeplinks/2026/09/secure-messaging-and-ai-remain-conflict-despite-promise-tees",
-     "publisher": "EFF",
-     "publisherDomain": "eff.org",
-     "kind": "coverage",
-     "date": "2026-09-18T21:53:55.000Z",
-     "points": null,
-     "summary": "Secure messaging platforms, like Signal, WhatsApp, and recently, encrypted RCS , operate on a straightforward assumption: the content at each end of a conversation is private…"
     }
    ]
   }
