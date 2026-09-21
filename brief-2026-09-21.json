@@ -1,12 +1,12 @@
 {
  "date": "2026-09-21",
- "generated": "2026-09-21T00:05:30.213Z",
- "headline": "60 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2677 items read · 60 on-topic · 60 distinct developments · 5 with a primary source · 0 independently corroborated",
+ "generated": "2026-09-21T04:45:50.128Z",
+ "headline": "63 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2677 items read · 63 on-topic · 63 distinct developments · 5 with a primary source · 0 independently corroborated",
  "events": [
   {
    "id": "google-agents-google-open-agentic-orchestrator",
-   "title": "Google's Open Agentic Orchestrator",
+   "title": "AX – Google’s Open Agentic Orchestrator",
    "category": {
     "id": "general",
     "name": "Other"
@@ -23,7 +23,7 @@
      "kind": "org"
     }
    ],
-   "rank": 156.31366032261485,
+   "rank": 113.07060040978573,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -32,14 +32,76 @@
    "primary": null,
    "sources": [
     {
-     "title": "Google's Open Agentic Orchestrator",
+     "title": "AX – Google’s Open Agentic Orchestrator",
      "link": "https://agentexecutor.io",
      "publisher": "agentexecutor.io",
      "publisherDomain": "agentexecutor.io",
      "kind": "discussion",
      "date": "2026-09-20T22:32:43.000Z",
-     "points": 86,
+     "points": 325,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "weighs-restrictions-cloud-computing",
+   "title": "As the US weighs restrictions on cloud computing, how will China’s AI sector adapt?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 78.47638107443109,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T02:00:26.000Z",
+   "latestAt": "2026-09-21T02:00:26.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "As the US weighs restrictions on cloud computing, how will China’s AI sector adapt?",
+     "link": "https://www.scmp.com/tech/big-tech/article/3368011/us-weighs-restrictions-cloud-computing-how-will-chinas-ai-sector-adapt?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-21T02:00:26.000Z",
+     "points": null,
+     "summary": "When Chinese artificial intelligence developers want to train their next-generation frontier models, they all face the same daunting wall: they cannot legally buy the world’s most…"
+    }
+   ]
+  },
+  {
+   "id": "robotics-chinese-chipmaker-hygon-plots",
+   "title": "Chinese AI chipmaker Hygon plots expansion from data centres to robotics",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
+    }
+   ],
+   "rank": 70.70508959923202,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T00:30:10.000Z",
+   "latestAt": "2026-09-21T00:30:10.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Chinese AI chipmaker Hygon plots expansion from data centres to robotics",
+     "link": "https://www.scmp.com/tech/tech-trends/article/3368168/chinese-ai-chipmaker-hygon-plots-expansion-data-centres-robotics?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-21T00:30:10.000Z",
+     "points": null,
+     "summary": "Chinese chipmaker Hygon Information Technology is set to release a new chip targeting physical-world applications including robotics, expanding from its current focus on data centres, according…"
     }
    ]
   },
@@ -51,7 +113,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 97.60707488747389,
+   "rank": 70.60477337035957,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -79,7 +141,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 94.12381345040508,
+   "rank": 68.08513138090869,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -98,7 +160,69 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-09-20T17:51:27.000Z",
-     "points": 82,
+     "points": 108,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "gpt-chatgpt-knows-what-other",
+   "title": "ChatGPT now knows what you do on other websites via ad collector",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 57.07314225485579,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-20T15:18:44.000Z",
+   "latestAt": "2026-09-20T15:18:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "ChatGPT now knows what you do on other websites via ad collector",
+     "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+     "publisher": "buchodi.com",
+     "publisherDomain": "buchodi.com",
+     "kind": "discussion",
+     "date": "2026-09-20T15:18:44.000Z",
+     "points": 693,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "pirate-face-rescues-models",
+   "title": "Pirate Face Rescues LLM Models from Deletion",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 56.900876818166395,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-20T15:16:07.000Z",
+   "latestAt": "2026-09-20T15:16:07.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Pirate Face Rescues LLM Models from Deletion",
+     "link": "https://pirateface.co/",
+     "publisher": "pirateface.co",
+     "publisherDomain": "pirateface.co",
+     "kind": "discussion",
+     "date": "2026-09-20T15:16:07.000Z",
+     "points": 489,
      "summary": ""
     }
    ]
@@ -117,7 +241,7 @@
      "kind": "model"
     }
    ],
-   "rank": 78.2409549223806,
+   "rank": 56.5961524504627,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -145,7 +269,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 77.88171484146558,
+   "rank": 56.33629357724275,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -166,36 +290,30 @@
    ]
   },
   {
-   "id": "gpt-chatgpt-knows-what-other",
-   "title": "ChatGPT now knows what you do on other websites via ad collector",
+   "id": "where-chatbots-come-from",
+   "title": "Where Do Chatbots Come From? What I Wish Everyone Knew About AI in 2026",
    "category": {
-    "id": "models",
-    "name": "Models"
+    "id": "general",
+    "name": "Other"
    },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 78.90036613971769,
+   "entities": [],
+   "rank": 54.28161707018531,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-20T15:18:44.000Z",
-   "latestAt": "2026-09-20T15:18:44.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T01:05:42.000Z",
+   "latestAt": "2026-09-21T01:05:42.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "ChatGPT now knows what you do on other websites via ad collector",
-     "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-     "publisher": "buchodi.com",
-     "publisherDomain": "buchodi.com",
-     "kind": "discussion",
-     "date": "2026-09-20T15:18:44.000Z",
-     "points": 537,
-     "summary": ""
+     "title": "Where Do Chatbots Come From? What I Wish Everyone Knew About AI in 2026",
+     "link": "https://www.lesswrong.com/posts/dww6cpbo2XoKbsxyw/where-do-chatbots-come-from-what-i-wish-everyone-knew-about",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-21T01:05:42.000Z",
+     "points": null,
+     "summary": "LW disclaimer: This piece is aimed at people who don’t know much about how LLMs work; I think the discourse would be much better if more…"
     }
    ]
   },
@@ -207,7 +325,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 69.94404911144649,
+   "rank": 50.59452649116045,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -241,7 +359,7 @@
      "kind": "org"
     }
    ],
-   "rank": 69.47963648788165,
+   "rank": 50.25859030953702,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -269,7 +387,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 65.75747230442869,
+   "rank": 47.56613631557258,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -303,7 +421,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 48.325840045535635,
+   "rank": 34.956840867128214,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -331,7 +449,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 44.04585599612935,
+   "rank": 31.860883896944838,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -359,7 +477,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 43.251701017571506,
+   "rank": 31.28642623240914,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -393,7 +511,7 @@
      "kind": "org"
     }
    ],
-   "rank": 38.98061555079163,
+   "rank": 28.196906115398356,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -421,7 +539,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 38.98061555079163,
+   "rank": 28.196906115398356,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -449,7 +567,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 38.60165091859841,
+   "rank": 27.922779347413243,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -488,7 +606,7 @@
      "kind": "model"
     }
    ],
-   "rank": 18.40445916908353,
+   "rank": 13.312996728313383,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -516,7 +634,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 16.964436396802295,
+   "rank": 12.271345991394087,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -544,7 +662,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.070564089009917,
+   "rank": 10.178042829814958,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -572,7 +690,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.539389339401763,
+   "rank": 7.6237424042090725,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -600,7 +718,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.08881599737008,
+   "rank": 7.297816965530086,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -634,7 +752,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 10.08881599737008,
+   "rank": 7.297816965530086,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -662,7 +780,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.562975978965937,
+   "rank": 6.9174468399906015,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -690,7 +808,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.297050348313787,
+   "rank": 6.001730511446116,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -724,7 +842,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 7.645892771844479,
+   "rank": 5.530711037007297,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -752,7 +870,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.133870205883705,
+   "rank": 5.160335864184558,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -780,7 +898,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.656136259430974,
+   "rank": 4.8147636086947925,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -808,7 +926,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.108521673869368,
+   "rank": 4.418642694791221,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -847,7 +965,7 @@
      "kind": "model"
     }
    ],
-   "rank": 3.8382368300385354,
+   "rank": 2.776415970246599,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -875,7 +993,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.6172151518321067,
+   "rank": 2.61653836385698,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -903,7 +1021,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.4284912884913177,
+   "rank": 2.4800236120716552,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -931,7 +1049,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 3.425653926826458,
+   "rank": 2.477971186286455,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -959,7 +1077,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.1028807715922806,
+   "rank": 2.2444909236967017,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -993,7 +1111,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.0882639831238783,
+   "rank": 2.2339177655685263,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1021,7 +1139,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.0834513386405464,
+   "rank": 2.2304365048766197,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1049,7 +1167,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 3.0661717079984667,
+   "rank": 2.217937160881176,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1077,7 +1195,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.059867906073019,
+   "rank": 2.2133772608244318,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1105,7 +1223,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 2.842008192816538,
+   "rank": 2.055786884320081,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1133,7 +1251,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 2.775871941784417,
+   "rank": 2.007946755711871,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1161,7 +1279,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.584589152974885,
+   "rank": 1.8695809869485183,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1189,7 +1307,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.497083469695368,
+   "rank": 1.806283127201245,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1228,7 +1346,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.426325255762468,
+   "rank": 1.75509966878306,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1256,7 +1374,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.3159460309041924,
+   "rank": 1.675256069690485,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1288,7 +1406,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 2.2866145345938516,
+   "rank": 1.6540389227573071,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1316,7 +1434,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.232806550876607,
+   "rank": 1.6151165341881184,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1350,7 +1468,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.1401610617651112,
+   "rank": 1.5481007592553673,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1382,7 +1500,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0183782860193866,
+   "rank": 1.4600083203429948,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1414,7 +1532,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0148666865064215,
+   "rank": 1.4574681798043476,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1448,7 +1566,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.9968408778292925,
+   "rank": 1.4444290826084376,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1480,7 +1598,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.9117676450280323,
+   "rank": 1.3828907532533024,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1508,7 +1626,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.911473192961119,
+   "rank": 1.3826777592518242,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1542,7 +1660,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.8972545260503793,
+   "rank": 1.3723925851902237,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1576,7 +1694,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.7542121995593696,
+   "rank": 1.2689218987065856,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1610,7 +1728,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.72271609942441,
+   "rank": 1.2461389701674133,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1638,7 +1756,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.649170959708853,
+   "rank": 1.1929395691189273,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1666,7 +1784,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.5735453301426607,
+   "rank": 1.1382352309070973,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1694,7 +1812,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3752414823211283,
+   "rank": 0.9947907290607839,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1722,7 +1840,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.324157099654823,
+   "rank": 0.9578384767258245,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1750,7 +1868,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.0431411503041346,
+   "rank": 0.7545635866603697,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1778,7 +1896,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 0.9074429375627329,
+   "rank": 0.6564053172069018,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1795,34 +1913,6 @@
      "date": "2026-09-18T04:59:31.000Z",
      "points": null,
      "summary": "Huawei Technologies expects a major domestic shift towards its artificial intelligence computing infrastructure for model training next year, as its Ascend processors gain ground on Nvidia…"
-    }
-   ]
-  },
-  {
-   "id": "lawmakers-ground-cybersecurity-rules",
-   "title": "EFF to Lawmakers: Ground AI Cybersecurity Rules in Best Practices",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7379676152535742,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T01:16:10.000Z",
-   "latestAt": "2026-09-18T01:16:10.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "EFF to Lawmakers: Ground AI Cybersecurity Rules in Best Practices",
-     "link": "https://www.eff.org/deeplinks/2026/09/eff-lawmakers-ground-ai-cybersecurity-rules-best-practices",
-     "publisher": "EFF",
-     "publisherDomain": "eff.org",
-     "kind": "coverage",
-     "date": "2026-09-18T01:16:10.000Z",
-     "points": null,
-     "summary": "With doomsday AI scenarios dominating the news, lawmakers are rightly concerned about reports concerning security breaches at major US AI labs, such as the OpenAI–Hugging Face…"
     }
    ]
   }

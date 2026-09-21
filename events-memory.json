@@ -1,13 +1,37 @@
 {
  "google-agents-google-open-agentic-orchestrator": {
   "id": "google-agents-google-open-agentic-orchestrator",
-  "title": "Google's Open Agentic Orchestrator",
+  "title": "AX – Google’s Open Agentic Orchestrator",
   "firstSeen": "2026-09-21T00:05:30.164Z",
   "publishers": [
    "agentexecutor.io"
   ],
   "sourceCount": 1,
   "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "weighs-restrictions-cloud-computing": {
+  "id": "weighs-restrictions-cloud-computing",
+  "title": "As the US weighs restrictions on cloud computing, how will China’s AI sector adapt?",
+  "firstSeen": "2026-09-21T04:45:50.084Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "robotics-chinese-chipmaker-hygon-plots": {
+  "id": "robotics-chinese-chipmaker-hygon-plots",
+  "title": "Chinese AI chipmaker Hygon plots expansion from data centres to robotics",
+  "firstSeen": "2026-09-21T04:45:50.084Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -35,6 +59,30 @@
   "hadPrimary": true,
   "category": "general"
  },
+ "gpt-chatgpt-knows-what-other": {
+  "id": "gpt-chatgpt-knows-what-other",
+  "title": "ChatGPT now knows what you do on other websites via ad collector",
+  "firstSeen": "2026-09-20T18:40:13.954Z",
+  "publishers": [
+   "buchodi.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "models"
+ },
+ "pirate-face-rescues-models": {
+  "id": "pirate-face-rescues-models",
+  "title": "Pirate Face Rescues LLM Models from Deletion",
+  "firstSeen": "2026-09-21T04:45:50.084Z",
+  "publishers": [
+   "pirateface.co"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "claude-better-call-better-claude": {
   "id": "claude-better-call-better-claude",
   "title": "Better Call Sol Or Better Yet Claude or Astra",
@@ -59,17 +107,17 @@
   "hadPrimary": false,
   "category": "general"
  },
- "gpt-chatgpt-knows-what-other": {
-  "id": "gpt-chatgpt-knows-what-other",
-  "title": "ChatGPT now knows what you do on other websites via ad collector",
-  "firstSeen": "2026-09-20T18:40:13.954Z",
+ "where-chatbots-come-from": {
+  "id": "where-chatbots-come-from",
+  "title": "Where Do Chatbots Come From? What I Wish Everyone Knew About AI in 2026",
+  "firstSeen": "2026-09-21T04:45:50.084Z",
   "publishers": [
-   "buchodi.com"
+   "LessWrong"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
   "hadPrimary": false,
-  "category": "models"
+  "category": "general"
  },
  "industry-really-ready-slow": {
   "id": "industry-really-ready-slow",
@@ -701,18 +749,6 @@
   "firstSeen": "2026-09-18T09:34:26.587Z",
   "publishers": [
    "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "lawmakers-ground-cybersecurity-rules": {
-  "id": "lawmakers-ground-cybersecurity-rules",
-  "title": "EFF to Lawmakers: Ground AI Cybersecurity Rules in Best Practices",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "EFF"
   ],
   "sourceCount": 1,
   "independentCount": 1,
