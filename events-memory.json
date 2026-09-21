@@ -1,4 +1,101 @@
 {
+ "meta-ai-amazon-agents-amazon-doesn-trust-meta": {
+  "id": "meta-ai-amazon-agents-amazon-doesn-trust-meta",
+  "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+  "firstSeen": "2026-09-21T10:35:42.011Z",
+  "publishers": [
+   "The Verge",
+   "Wired AI"
+  ],
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "tiny-like-family-decision": {
+  "id": "tiny-like-family-decision",
+  "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+  "firstSeen": "2026-09-21T10:35:42.011Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "says-safeguards-wait-certainty": {
+  "id": "says-safeguards-wait-certainty",
+  "title": "UN says AI safeguards can’t wait for certainty",
+  "firstSeen": "2026-09-21T10:35:42.011Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "show-mini-dynamic-continual": {
+  "id": "show-mini-dynamic-continual",
+  "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+  "firstSeen": "2026-09-21T10:35:42.011Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "regulation-chinese-regulator-drafts-rules": {
+  "id": "regulation-chinese-regulator-drafts-rules",
+  "title": "Chinese regulator drafts rules to protect teenagers from ‘intimate’ AI companions",
+  "firstSeen": "2026-09-21T10:35:42.011Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "policy"
+ },
+ "chatbots-give-wrong-answers": {
+  "id": "chatbots-give-wrong-answers",
+  "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+  "firstSeen": "2026-09-21T10:35:42.011Z",
+  "publishers": [
+   "Financial Times"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "heretic-removes-restrictions-from": {
+  "id": "heretic-removes-restrictions-from",
+  "title": "Heretic removes restrictions from language models",
+  "firstSeen": "2026-09-21T10:35:42.011Z",
+  "publishers": [
+   "heretic-project.org"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "china-agree-dialogue-ahead": {
+  "id": "china-agree-dialogue-ahead",
+  "title": "US, China agree AI dialogue ahead of Trump-Xi summit",
+  "firstSeen": "2026-09-21T10:35:42.011Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "google-agents-google-open-agentic-orchestrator": {
   "id": "google-agents-google-open-agentic-orchestrator",
   "title": "AX – Google’s Open Agentic Orchestrator",
@@ -8,6 +105,18 @@
   ],
   "sourceCount": 1,
   "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "neither-china-race-alone": {
+  "id": "neither-china-race-alone",
+  "title": "Neither the US nor China can win the AI race alone, BofA analyst says",
+  "firstSeen": "2026-09-21T10:35:42.011Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -57,30 +166,6 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "category": "general"
- },
- "gpt-chatgpt-knows-what-other": {
-  "id": "gpt-chatgpt-knows-what-other",
-  "title": "ChatGPT now knows what you do on other websites via ad collector",
-  "firstSeen": "2026-09-20T18:40:13.954Z",
-  "publishers": [
-   "buchodi.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "models"
- },
- "pirate-face-rescues-models": {
-  "id": "pirate-face-rescues-models",
-  "title": "Pirate Face Rescues LLM Models from Deletion",
-  "firstSeen": "2026-09-21T04:45:50.084Z",
-  "publishers": [
-   "pirateface.co"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
   "category": "general"
  },
  "claude-better-call-better-claude": {
@@ -133,7 +218,7 @@
  },
  "nvidia-surprised-that-nvidia-jensen": {
   "id": "nvidia-surprised-that-nvidia-jensen",
-  "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+  "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
   "firstSeen": "2026-09-20T21:24:27.098Z",
   "publishers": [
    "The Verge"
@@ -154,6 +239,18 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
+ },
+ "gpt-chatgpt-knows-what-other": {
+  "id": "gpt-chatgpt-knows-what-other",
+  "title": "ChatGPT now knows what you do on other websites via ad collector",
+  "firstSeen": "2026-09-20T18:40:13.954Z",
+  "publishers": [
+   "buchodi.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "models"
  },
  "safety-please-give-them-chance": {
   "id": "safety-please-give-them-chance",
@@ -191,36 +288,12 @@
   "hadPrimary": false,
   "category": "general"
  },
- "meta-ai-meta-muse-better-surveilling": {
-  "id": "meta-ai-meta-muse-better-surveilling",
-  "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
-  "firstSeen": "2026-09-20T11:08:11.605Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "donald-trump-versus-maga": {
   "id": "donald-trump-versus-maga",
   "title": "It’s Donald Trump Versus MAGA on Data Centers",
   "firstSeen": "2026-09-20T11:08:11.605Z",
   "publishers": [
    "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "someone-check-rogue-agents": {
-  "id": "someone-check-rogue-agents",
-  "title": "Did Someone Check if Rogue Agents are Interested in Self-Improvement?",
-  "firstSeen": "2026-09-20T15:55:22.709Z",
-  "publishers": [
-   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -305,18 +378,6 @@
   "firstSeen": "2026-09-19T17:08:52.860Z",
   "publishers": [
    "thebignewsletter.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "built-autoregressive-decision-models": {
-  "id": "built-autoregressive-decision-models",
-  "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
-  "firstSeen": "2026-09-19T13:50:37.768Z",
-  "publishers": [
-   "dev.to"
   ],
   "sourceCount": 1,
   "independentCount": 0,
@@ -527,18 +588,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "anthropic-openai-chinese-models-make-openai": {
-  "id": "anthropic-openai-chinese-models-make-openai",
-  "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
-  "firstSeen": "2026-09-19T22:51:31.467Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
  "millemiglia-realistic-instance-generator": {
   "id": "millemiglia-realistic-instance-generator",
   "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
@@ -701,54 +750,6 @@
   "firstSeen": "2026-09-18T14:19:47.334Z",
   "publishers": [
    "MIT Tech Review"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "leftist-split-over-doom": {
-  "id": "leftist-split-over-doom",
-  "title": "The Leftist Split Over AI Doom",
-  "firstSeen": "2026-09-18T14:19:47.334Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "specter-enabled-bioweapons-wake": {
-  "id": "specter-enabled-bioweapons-wake",
-  "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "MIT Tech Review"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "chip-foundries-better-insulated": {
-  "id": "chip-foundries-better-insulated",
-  "title": "Chip foundries better insulated in an AI slowdown than Asia-Pacific tech peers, S&P says",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "china-major-shift-huawei": {
-  "id": "china-major-shift-huawei",
-  "title": "China to see major shift to Huawei for AI model training in 2027: deputy chair",
-  "firstSeen": "2026-09-18T09:34:26.587Z",
-  "publishers": [
-   "SCMP Tech"
   ],
   "sourceCount": 1,
   "independentCount": 1,

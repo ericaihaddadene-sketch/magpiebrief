@@ -1,9 +1,273 @@
 {
  "date": "2026-09-21",
- "generated": "2026-09-21T04:45:50.128Z",
+ "generated": "2026-09-21T10:35:42.067Z",
  "headline": "63 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2677 items read · 63 on-topic · 63 distinct developments · 5 with a primary source · 0 independently corroborated",
+ "stats": "22 sources monitored · 2677 items read · 64 on-topic · 63 distinct developments · 7 with a primary source · 1 independently corroborated",
  "events": [
+  {
+   "id": "meta-ai-amazon-agents-amazon-doesn-trust-meta",
+   "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    },
+    {
+     "id": "amazon",
+     "name": "Amazon",
+     "kind": "org"
+    }
+   ],
+   "rank": 130.01035324587363,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-20T10:30:00.000Z",
+   "latestAt": "2026-09-21T09:21:47.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+     "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-21T09:21:47.000Z",
+     "points": null,
+     "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse…"
+    },
+    {
+     "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+     "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-20T10:30:00.000Z",
+     "points": null,
+     "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and…"
+    }
+   ]
+  },
+  {
+   "id": "tiny-like-family-decision",
+   "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 114.58464326563279,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T07:11:55.000Z",
+   "latestAt": "2026-09-21T07:11:55.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/jaredpalmer/kev/tree/main",
+    "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5"
+   },
+   "sources": [
+    {
+     "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+     "link": "https://github.com/jaredpalmer/kev/tree/main",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-21T07:11:55.000Z",
+     "points": 98,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "says-safeguards-wait-certainty",
+   "title": "UN says AI safeguards can’t wait for certainty",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 97.98727829195522,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T10:18:06.000Z",
+   "latestAt": "2026-09-21T10:18:06.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "UN says AI safeguards can’t wait for certainty",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-21T10:18:06.000Z",
+     "points": null,
+     "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first…"
+    }
+   ]
+  },
+  {
+   "id": "show-mini-dynamic-continual",
+   "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 96.4317658839991,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T04:42:37.000Z",
+   "latestAt": "2026-09-21T04:42:37.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/volotat/mini-AGI/",
+    "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM"
+   },
+   "sources": [
+    {
+     "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+     "link": "https://github.com/volotat/mini-AGI/",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-21T04:42:37.000Z",
+     "points": 92,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "regulation-chinese-regulator-drafts-rules",
+   "title": "Chinese regulator drafts rules to protect teenagers from ‘intimate’ AI companions",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "regulation",
+     "name": "AI Regulation",
+     "kind": "topic"
+    }
+   ],
+   "rank": 88.09197149985859,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T09:30:21.000Z",
+   "latestAt": "2026-09-21T09:30:21.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Chinese regulator drafts rules to protect teenagers from ‘intimate’ AI companions",
+     "link": "https://www.scmp.com/tech/policy/article/3368252/chinese-regulator-drafts-rules-protect-teenagers-intimate-ai-companions?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-21T09:30:21.000Z",
+     "points": null,
+     "summary": "China’s top internet watchdog has drafted new rules to regulate how social platforms and game developers should protect minors, including a ban on offering “virtual intimacy…"
+    }
+   ]
+  },
+  {
+   "id": "chatbots-give-wrong-answers",
+   "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 94.89746693870454,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-21T04:28:44.000Z",
+   "latestAt": "2026-09-21T04:28:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+     "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+     "publisher": "Financial Times",
+     "publisherDomain": "ft.com",
+     "kind": "discussion",
+     "date": "2026-09-21T04:28:44.000Z",
+     "points": 112,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "heretic-removes-restrictions-from",
+   "title": "Heretic removes restrictions from language models",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 90.42511400487243,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-21T04:35:22.000Z",
+   "latestAt": "2026-09-21T04:35:22.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Heretic removes restrictions from language models",
+     "link": "https://heretic-project.org/",
+     "publisher": "heretic-project.org",
+     "publisherDomain": "heretic-project.org",
+     "kind": "discussion",
+     "date": "2026-09-21T04:35:22.000Z",
+     "points": 26,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "china-agree-dialogue-ahead",
+   "title": "US, China agree AI dialogue ahead of Trump-Xi summit",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 85.2355329363503,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T09:01:49.000Z",
+   "latestAt": "2026-09-21T09:01:49.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "US, China agree AI dialogue ahead of Trump-Xi summit",
+     "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3368245/us-china-agree-ai-dialogue-ahead-trump-xi-summit?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-21T09:01:49.000Z",
+     "points": null,
+     "summary": "Chinese and US negotiators made progress on artificial intelligence (AI) and trade ahead of President Xi Jinping’s visit to the White House later this week. “We…"
+    }
+   ]
+  },
   {
    "id": "google-agents-google-open-agentic-orchestrator",
    "title": "AX – Google’s Open Agentic Orchestrator",
@@ -23,7 +287,7 @@
      "kind": "org"
     }
    ],
-   "rank": 113.07060040978573,
+   "rank": 75.47730302949321,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -38,8 +302,36 @@
      "publisherDomain": "agentexecutor.io",
      "kind": "discussion",
      "date": "2026-09-20T22:32:43.000Z",
-     "points": 325,
+     "points": 503,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "neither-china-race-alone",
+   "title": "Neither the US nor China can win the AI race alone, BofA analyst says",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 74.06481376444258,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T07:00:13.000Z",
+   "latestAt": "2026-09-21T07:00:13.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Neither the US nor China can win the AI race alone, BofA analyst says",
+     "link": "https://www.scmp.com/tech/big-tech/article/3368219/neither-us-nor-china-can-win-ai-race-alone-bofa-analyst-says?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-21T07:00:13.000Z",
+     "points": null,
+     "summary": "Neither Beijing nor Washington can win the race for artificial intelligence dominance without relying on other countries, a Bank of America analyst said ahead of this…"
     }
    ]
   },
@@ -51,7 +343,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 78.47638107443109,
+   "rank": 52.38484251031002,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -85,7 +377,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 70.70508959923202,
+   "rank": 47.197321444017426,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -101,7 +393,7 @@
      "kind": "coverage",
      "date": "2026-09-21T00:30:10.000Z",
      "points": null,
-     "summary": "Chinese chipmaker Hygon Information Technology is set to release a new chip targeting physical-world applications including robotics, expanding from its current focus on data centres, according…"
+     "summary": "Chinese chipmaker Hygon Information Technology is set to release a new chip targeting complex real-world applications including robotics, an expansion from its current focus on data…"
     }
    ]
   },
@@ -113,7 +405,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 70.60477337035957,
+   "rank": 47.13035798598376,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -141,7 +433,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 68.08513138090869,
+   "rank": 45.44843729860443,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -160,69 +452,7 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-09-20T17:51:27.000Z",
-     "points": 108,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "gpt-chatgpt-knows-what-other",
-   "title": "ChatGPT now knows what you do on other websites via ad collector",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 57.07314225485579,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-20T15:18:44.000Z",
-   "latestAt": "2026-09-20T15:18:44.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "ChatGPT now knows what you do on other websites via ad collector",
-     "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-     "publisher": "buchodi.com",
-     "publisherDomain": "buchodi.com",
-     "kind": "discussion",
-     "date": "2026-09-20T15:18:44.000Z",
-     "points": 693,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "pirate-face-rescues-models",
-   "title": "Pirate Face Rescues LLM Models from Deletion",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 56.900876818166395,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-20T15:16:07.000Z",
-   "latestAt": "2026-09-20T15:16:07.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Pirate Face Rescues LLM Models from Deletion",
-     "link": "https://pirateface.co/",
-     "publisher": "pirateface.co",
-     "publisherDomain": "pirateface.co",
-     "kind": "discussion",
-     "date": "2026-09-20T15:16:07.000Z",
-     "points": 489,
+     "points": 141,
      "summary": ""
     }
    ]
@@ -241,7 +471,7 @@
      "kind": "model"
     }
    ],
-   "rank": 56.5961524504627,
+   "rank": 37.77927182950796,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -269,7 +499,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 56.33629357724275,
+   "rank": 37.60580987876352,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -297,7 +527,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 54.28161707018531,
+   "rank": 36.23426466021233,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -325,7 +555,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 50.59452649116045,
+   "rank": 33.77304439675149,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -347,7 +577,7 @@
   },
   {
    "id": "nvidia-surprised-that-nvidia-jensen",
-   "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+   "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
    "category": {
     "id": "general",
     "name": "Other"
@@ -359,7 +589,7 @@
      "kind": "org"
     }
    ],
-   "rank": 50.25859030953702,
+   "rank": 33.548799041309216,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -368,7 +598,7 @@
    "primary": null,
    "sources": [
     {
-     "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+     "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
      "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
      "publisher": "The Verge",
      "publisherDomain": "theverge.com",
@@ -387,7 +617,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 47.56613631557258,
+   "rank": 31.751522249119866,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -408,6 +638,40 @@
    ]
   },
   {
+   "id": "gpt-chatgpt-knows-what-other",
+   "title": "ChatGPT now knows what you do on other websites via ad collector",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 27.940718886864524,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-20T17:43:10.000Z",
+   "latestAt": "2026-09-20T17:43:10.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "ChatGPT now knows what you do on other websites via ad collector",
+     "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+     "publisher": "buchodi.com",
+     "publisherDomain": "buchodi.com",
+     "kind": "discussion",
+     "date": "2026-09-20T17:43:10.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "safety-please-give-them-chance",
    "title": "Please Give Them a Chance: On China, Rationalism, and AI Safety",
    "category": {
@@ -421,7 +685,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 34.956840867128214,
+   "rank": 23.33451897769938,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -449,7 +713,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 31.860883896944838,
+   "rank": 21.267894394846465,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -477,7 +741,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 31.28642623240914,
+   "rank": 20.884430301911276,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -498,40 +762,6 @@
    ]
   },
   {
-   "id": "meta-ai-meta-muse-better-surveilling",
-   "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 28.196906115398356,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-20T10:30:00.000Z",
-   "latestAt": "2026-09-20T10:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
-     "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-20T10:30:00.000Z",
-     "points": null,
-     "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and…"
-    }
-   ]
-  },
-  {
    "id": "donald-trump-versus-maga",
    "title": "It’s Donald Trump Versus MAGA on Data Centers",
    "category": {
@@ -539,7 +769,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.196906115398356,
+   "rank": 18.82210247096118,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -556,34 +786,6 @@
      "date": "2026-09-20T10:30:00.000Z",
      "points": null,
      "summary": "The president has doubled down on data centers and AI. His base is running in the opposite direction."
-    }
-   ]
-  },
-  {
-   "id": "someone-check-rogue-agents",
-   "title": "Did Someone Check if Rogue Agents are Interested in Self-Improvement?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 27.922779347413243,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-20T12:52:28.000Z",
-   "latestAt": "2026-09-20T12:52:28.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Did Someone Check if Rogue Agents are Interested in Self-Improvement?",
-     "link": "https://www.lesswrong.com/posts/cuN79iENycgoD6GrZ/did-someone-check-if-rogue-agents-are-interested-in-self",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-20T12:52:28.000Z",
-     "points": null,
-     "summary": "I have been going over the material released by OpenAI and METR about the HuggingFace incident, but I do not see any evidence that either group…"
     }
    ]
   },
@@ -606,7 +808,7 @@
      "kind": "model"
     }
    ],
-   "rank": 13.312996728313383,
+   "rank": 8.886740537787023,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -634,7 +836,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 12.271345991394087,
+   "rank": 8.191414006960995,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -662,7 +864,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.178042829814958,
+   "rank": 6.7940845819247935,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -690,7 +892,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.6237424042090725,
+   "rank": 5.089028567778663,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -718,7 +920,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.297816965530086,
+   "rank": 4.871465620283557,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -752,7 +954,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 7.297816965530086,
+   "rank": 4.871465620283557,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -780,7 +982,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.9174468399906015,
+   "rank": 4.61755955518208,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -801,34 +1003,6 @@
    ]
   },
   {
-   "id": "built-autoregressive-decision-models",
-   "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 6.001730511446116,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-19T13:41:57.000Z",
-   "latestAt": "2026-09-19T13:41:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
-     "link": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
-     "publisher": "dev.to",
-     "publisherDomain": "dev.to",
-     "kind": "discussion",
-     "date": "2026-09-19T13:41:57.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "security-forget-slowdown-vulnerability-explosion",
    "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
    "category": {
@@ -842,7 +1016,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 5.530711037007297,
+   "rank": 3.691880571924819,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -870,7 +1044,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.160335864184558,
+   "rank": 3.444646374419634,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -898,7 +1072,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.8147636086947925,
+   "rank": 3.2139687115111677,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -926,7 +1100,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.418642694791221,
+   "rank": 2.949548622233636,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -965,7 +1139,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.776415970246599,
+   "rank": 1.8533233993872988,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -993,7 +1167,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.61653836385698,
+   "rank": 1.7466013115822812,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1021,7 +1195,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.4800236120716552,
+   "rank": 1.6554744824051597,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1049,7 +1223,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 2.477971186286455,
+   "rank": 1.65410443959674,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1077,7 +1251,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.2444909236967017,
+   "rank": 1.4982508360337814,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1111,7 +1285,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.2339177655685263,
+   "rank": 1.491193002634765,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1139,7 +1313,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.2304365048766197,
+   "rank": 1.4888691786945414,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1167,7 +1341,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 2.217937160881176,
+   "rank": 1.4805255706214007,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1195,7 +1369,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.2133772608244318,
+   "rank": 1.4774817293654097,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1223,7 +1397,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 2.055786884320081,
+   "rank": 1.3722864216652348,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1251,7 +1425,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 2.007946755711871,
+   "rank": 1.3403520030732619,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1279,7 +1453,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.8695809869485183,
+   "rank": 1.2479895762354147,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1307,7 +1481,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.806283127201245,
+   "rank": 1.2057367561040218,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1328,45 +1502,6 @@
    ]
   },
   {
-   "id": "anthropic-openai-chinese-models-make-openai",
-   "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.75509966878306,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T09:00:06.000Z",
-   "latestAt": "2026-09-18T09:00:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
-     "link": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-18T09:00:06.000Z",
-     "points": null,
-     "summary": "Chinese artificial intelligence models from seven major developers combined generate only about 10 per cent of the revenue reported for OpenAI and Anthropic, even as investor…"
-    }
-   ]
-  },
-  {
    "id": "millemiglia-realistic-instance-generator",
    "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
    "category": {
@@ -1374,7 +1509,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.675256069690485,
+   "rank": 1.118273092791355,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1406,7 +1541,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 1.6540389227573071,
+   "rank": 1.1041101448394297,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1434,7 +1569,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6151165341881184,
+   "rank": 1.0781285288754083,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1468,7 +1603,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.5481007592553673,
+   "rank": 1.0333939123258908,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1500,7 +1635,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4600083203429948,
+   "rank": 0.9745901235222638,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1532,7 +1667,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4574681798043476,
+   "rank": 0.9728945195679376,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1566,7 +1701,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.4444290826084376,
+   "rank": 0.9641906134533507,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1598,7 +1733,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3828907532533024,
+   "rank": 0.9231123215204072,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1626,7 +1761,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3826777592518242,
+   "rank": 0.9229701429812052,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1660,7 +1795,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.3723925851902237,
+   "rank": 0.9161045457654385,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1694,7 +1829,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.2689218987065856,
+   "rank": 0.8470354125858873,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1728,7 +1863,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.2461389701674133,
+   "rank": 0.8318272683377951,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1756,7 +1891,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.1929395691189273,
+   "rank": 0.796315408496494,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1784,7 +1919,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.1382352309070973,
+   "rank": 0.7597989674651536,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1801,118 +1936,6 @@
      "date": "2026-09-18T11:29:22.000Z",
      "points": null,
      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all?…"
-    }
-   ]
-  },
-  {
-   "id": "leftist-split-over-doom",
-   "title": "The Leftist Split Over AI Doom",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9947907290607839,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T10:15:00.000Z",
-   "latestAt": "2026-09-18T10:15:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Leftist Split Over AI Doom",
-     "link": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-18T10:15:00.000Z",
-     "points": null,
-     "summary": "The left wants AI regulation. They just can’t agree on what it should look like or how concerned they should be."
-    }
-   ]
-  },
-  {
-   "id": "specter-enabled-bioweapons-wake",
-   "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9578384767258245,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T09:00:00.000Z",
-   "latestAt": "2026-09-18T09:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-     "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-09-18T09:00:00.000Z",
-     "points": null,
-     "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO…"
-    }
-   ]
-  },
-  {
-   "id": "chip-foundries-better-insulated",
-   "title": "Chip foundries better insulated in an AI slowdown than Asia-Pacific tech peers, S&P says",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7545635866603697,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T07:00:09.000Z",
-   "latestAt": "2026-09-18T07:00:09.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Chip foundries better insulated in an AI slowdown than Asia-Pacific tech peers, S&P says",
-     "link": "https://www.scmp.com/tech/big-tech/article/3367973/chip-foundries-better-insulated-ai-slowdown-asia-pacific-tech-peers-sp-says?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-18T07:00:09.000Z",
-     "points": null,
-     "summary": "As market fears mount over waning Big Tech spending and calls to slow down frontier artificial intelligence development, Asia-Pacific semiconductor foundries are better positioned to withstand…"
-    }
-   ]
-  },
-  {
-   "id": "china-major-shift-huawei",
-   "title": "China to see major shift to Huawei for AI model training in 2027: deputy chair",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.6564053172069018,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-18T04:59:31.000Z",
-   "latestAt": "2026-09-18T04:59:31.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "China to see major shift to Huawei for AI model training in 2027: deputy chair",
-     "link": "https://www.scmp.com/tech/big-tech/article/3367955/china-see-major-shift-huawei-ai-model-training-2027-rotating-chair?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-18T04:59:31.000Z",
-     "points": null,
-     "summary": "Huawei Technologies expects a major domestic shift towards its artificial intelligence computing infrastructure for model training next year, as its Ascend processors gain ground on Nvidia…"
     }
    ]
   }
