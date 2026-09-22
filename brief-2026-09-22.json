@@ -1,9 +1,272 @@
 {
  "date": "2026-09-22",
- "generated": "2026-09-22T14:37:54.706Z",
- "headline": "67 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2685 items read · 67 on-topic · 67 distinct developments · 9 with a primary source · 0 independently corroborated",
+ "generated": "2026-09-22T18:43:17.243Z",
+ "headline": "75 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2687 items read · 75 on-topic · 75 distinct developments · 15 with a primary source · 0 independently corroborated",
  "events": [
+  {
+   "id": "anthropic-claude-anthropic-launches-claude-opus",
+   "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 262.3309676860827,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T16:30:00.000Z",
+   "latestAt": "2026-09-22T16:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-22T16:30:00.000Z",
+     "points": null,
+     "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday…"
+    }
+   ]
+  },
+  {
+   "id": "claude-claude-opus-intelligence-performance",
+   "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 191.15368129503233,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-22T16:51:31.000Z",
+   "latestAt": "2026-09-22T16:51:31.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+     "link": "https://artificialanalysis.ai/models/claude-opus-5-5",
+     "publisher": "artificialanalysis.ai",
+     "publisherDomain": "artificialanalysis.ai",
+     "kind": "discussion",
+     "date": "2026-09-22T16:51:31.000Z",
+     "points": 79,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "gpt-luna",
+   "title": "GPT-6 Sol and Luna",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 162.8609447516801,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T18:00:34.000Z",
+   "latestAt": "2026-09-22T18:00:34.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+    "title": "GPT-6 Sol and Luna"
+   },
+   "sources": [
+    {
+     "title": "GPT-6 Sol and Luna",
+     "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-22T18:00:34.000Z",
+     "points": 269,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "anthropic-anthropic-releases-opus-with",
+   "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 147.90258611538394,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T16:30:07.000Z",
+   "latestAt": "2026-09-22T16:30:07.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+     "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-22T16:30:07.000Z",
+     "points": null,
+     "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\""
+    }
+   ]
+  },
+  {
+   "id": "hacking-group-shinyhunters-claims",
+   "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [],
+   "rank": 119.61438313297882,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T18:40:30.000Z",
+   "latestAt": "2026-09-22T18:40:30.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+     "link": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-22T18:40:30.000Z",
+     "points": null,
+     "summary": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government."
+    }
+   ]
+  },
+  {
+   "id": "openai-openai-well-positioned-fast",
+   "title": "OpenAI is well positioned to fast-follow Jev",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 148.2988765546414,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-22T14:42:59.000Z",
+   "latestAt": "2026-09-22T14:42:59.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI is well positioned to fast-follow Jev",
+     "link": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+     "publisher": "arcturus-labs.com",
+     "publisherDomain": "arcturus-labs.com",
+     "kind": "discussion",
+     "date": "2026-09-22T14:42:59.000Z",
+     "points": 175,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "launch-coverage-umbrella-insurance",
+   "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 144.8636386751968,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-22T17:26:36.000Z",
+   "latestAt": "2026-09-22T17:26:36.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+     "link": "https://www.coveragecat.com/",
+     "publisher": "coveragecat.com",
+     "publisherDomain": "coveragecat.com",
+     "kind": "discussion",
+     "date": "2026-09-22T17:26:36.000Z",
+     "points": 16,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "writing-rust-code-that",
+   "title": "Writing Rust code that's fast by asking agents to make the code faster",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 140.53639322259488,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-22T15:38:24.000Z",
+   "latestAt": "2026-09-22T15:38:24.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Writing Rust code that's fast by asking agents to make the code faster",
+     "link": "https://minimaxir.com/2026/09/agentic-iteration/",
+     "publisher": "minimaxir.com",
+     "publisherDomain": "minimaxir.com",
+     "kind": "discussion",
+     "date": "2026-09-22T15:38:24.000Z",
+     "points": 60,
+     "summary": ""
+    }
+   ]
+  },
   {
    "id": "openai-gpt-openai-astra-breaks-enigma",
    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
@@ -23,7 +286,7 @@
      "kind": "model"
     }
    ],
-   "rank": 185.69191858308153,
+   "rank": 139.8569659679949,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -38,14 +301,42 @@
      "publisherDomain": "cryptocellar.org",
      "kind": "discussion",
      "date": "2026-09-22T13:52:15.000Z",
-     "points": 63,
+     "points": 398,
      "summary": ""
     }
    ]
   },
   {
-   "id": "openai-people-training-openai-fired",
-   "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
+   "id": "vacate-drone-restriction-that",
+   "title": "Vacate a drone restriction that criminalized recording immigration agents",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 135.5376608485472,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-22T15:07:03.000Z",
+   "latestAt": "2026-09-22T15:07:03.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Vacate a drone restriction that criminalized recording immigration agents",
+     "link": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
+     "publisher": "EFF",
+     "publisherDomain": "eff.org",
+     "kind": "discussion",
+     "date": "2026-09-22T15:07:03.000Z",
+     "points": 71,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "openai-openai-solve-wrong-navier",
+   "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
    "category": {
     "id": "general",
     "name": "Other"
@@ -57,23 +348,431 @@
      "kind": "org"
     }
    ],
-   "rank": 166.43164400163278,
+   "rank": 118.67884455371062,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-09-22T13:27:29.000Z",
-   "latestAt": "2026-09-22T13:27:29.000Z",
+   "publishedAt": "2026-09-22T18:22:57.000Z",
+   "latestAt": "2026-09-22T18:22:57.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
-     "link": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
-     "publisher": "404media.co",
-     "publisherDomain": "404media.co",
+     "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+     "link": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+     "publisher": "scientificamerican.com",
+     "publisherDomain": "scientificamerican.com",
      "kind": "discussion",
-     "date": "2026-09-22T13:27:29.000Z",
-     "points": 19,
+     "date": "2026-09-22T18:22:57.000Z",
+     "points": null,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "quoting-therealcornpop",
+   "title": "Quoting @therealcornpop",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 114.58944896402691,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T18:03:21.000Z",
+   "latestAt": "2026-09-22T18:03:21.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Quoting @therealcornpop",
+     "link": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-22T18:03:21.000Z",
+     "points": null,
+     "summary": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general…"
+    }
+   ]
+  },
+  {
+   "id": "show-rete-rete-rule",
+   "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 113.15396460719492,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-22T16:15:06.000Z",
+   "latestAt": "2026-09-22T16:15:06.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+     "link": "https://ai-rete-rag.com/",
+     "publisher": "ai-rete-rag.com",
+     "publisherDomain": "ai-rete-rag.com",
+     "kind": "discussion",
+     "date": "2026-09-22T16:15:06.000Z",
+     "points": 20,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "show-instinctflash-world-action",
+   "title": "Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 101.91768732891053,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T15:20:06.000Z",
+   "latestAt": "2026-09-22T15:20:06.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/General-Instinct/InstinctFlash",
+    "title": "Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor"
+   },
+   "sources": [
+    {
+     "title": "Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor",
+     "link": "https://github.com/General-Instinct/InstinctFlash",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-22T15:20:06.000Z",
+     "points": 12,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "agents-rabbit-back-this-time",
+   "title": "Rabbit Is Back, This Time With an AI Agent App",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 99.37059289803804,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T16:00:00.000Z",
+   "latestAt": "2026-09-22T16:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Rabbit Is Back, This Time With an AI Agent App",
+     "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-22T16:00:00.000Z",
+     "points": null,
+     "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already…"
+    }
+   ]
+  },
+  {
+   "id": "typesafe",
+   "title": "llm-typesafe 0.1a0",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 98.71459594325746,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T15:54:16.000Z",
+   "latestAt": "2026-09-22T15:54:16.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "llm-typesafe 0.1a0",
+     "link": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-22T15:54:16.000Z",
+     "points": null,
+     "summary": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install…"
+    }
+   ]
+  },
+  {
+   "id": "robotics-toyota-orders-workers-train",
+   "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
+    }
+   ],
+   "rank": 98.33687678073535,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T17:06:16.000Z",
+   "latestAt": "2026-09-22T17:06:16.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
+     "link": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-22T17:06:16.000Z",
+     "points": null,
+     "summary": "Toyota's push comes as automakers race to develop and deploy humanoid robots."
+    }
+   ]
+  },
+  {
+   "id": "open-source-economics-open-weight-inference",
+   "title": "The Economics of Open-Weight Inference",
+   "category": {
+    "id": "opensource",
+    "name": "Open Source"
+   },
+   "entities": [
+    {
+     "id": "open-source",
+     "name": "Open Models",
+     "kind": "topic"
+    }
+   ],
+   "rank": 97.4949267498384,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-22T13:45:32.000Z",
+   "latestAt": "2026-09-22T13:45:32.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Economics of Open-Weight Inference",
+     "link": "https://data.ornn.com/publications/the-economics-of-open-weight-inference",
+     "publisher": "data.ornn.com",
+     "publisherDomain": "data.ornn.com",
+     "kind": "discussion",
+     "date": "2026-09-22T13:45:32.000Z",
+     "points": 27,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "apple-claim-your-apple-million",
+   "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "apple",
+     "name": "Apple",
+     "kind": "org"
+    }
+   ],
+   "rank": 97.25769126990212,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T18:19:13.000Z",
+   "latestAt": "2026-09-22T18:19:13.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+     "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-22T18:19:13.000Z",
+     "points": null,
+     "summary": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to…"
+    }
+   ]
+  },
+  {
+   "id": "agents-read-research-paper-when",
+   "title": "Why Read a Research Paper When You Can Turn It Into an AI Agent?",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 92.72496780638052,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T15:00:05.000Z",
+   "latestAt": "2026-09-22T15:00:05.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Why Read a Research Paper When You Can Turn It Into an AI Agent?",
+     "link": "https://spectrum.ieee.org/paper2agent-ai-agents-research-papers",
+     "publisher": "IEEE Spectrum",
+     "publisherDomain": "spectrum.ieee.org",
+     "kind": "coverage",
+     "date": "2026-09-22T15:00:05.000Z",
+     "points": null,
+     "summary": "Have you ever read a paper in Science or Nature and thought, “Man, that research was so cool. I wish I could try that method on…"
+    }
+   ]
+  },
+  {
+   "id": "training-model-identify-generated",
+   "title": "Training a model to identify AI-generated web content from structure alone",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 84.78087581256773,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T13:00:49.000Z",
+   "latestAt": "2026-09-22T13:00:49.000Z",
+   "primary": {
+    "publisher": "arXiv",
+    "link": "https://arxiv.org/abs/2609.15369",
+    "title": "Training a model to identify AI-generated web content from structure alone"
+   },
+   "sources": [
+    {
+     "title": "Training a model to identify AI-generated web content from structure alone",
+     "link": "https://arxiv.org/abs/2609.15369",
+     "publisher": "arXiv",
+     "publisherDomain": "arxiv.org",
+     "kind": "research",
+     "date": "2026-09-22T13:00:49.000Z",
+     "points": 9,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "trump-says-officially-renaming",
+   "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 82.9205112546315,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T16:01:10.000Z",
+   "latestAt": "2026-09-22T16:01:10.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-22T16:01:10.000Z",
+     "points": null,
+     "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the…"
+    }
+   ]
+  },
+  {
+   "id": "safety-five-safety-sessions-every",
+   "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 77.26336796870224,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T15:00:00.000Z",
+   "latestAt": "2026-09-22T15:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+     "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-22T15:00:00.000Z",
+     "points": null,
+     "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and…"
+    }
+   ]
+  },
+  {
+   "id": "astroforge-putting-command-next",
+   "title": "AstroForge is putting AI in command of its next spacecraft",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 77.26336796870224,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T15:00:00.000Z",
+   "latestAt": "2026-09-22T15:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AstroForge is putting AI in command of its next spacecraft",
+     "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-22T15:00:00.000Z",
+     "points": null,
+     "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe."
     }
    ]
   },
@@ -85,7 +784,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 102.08446644864911,
+   "rank": 76.88661875493403,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -124,7 +823,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 95.0010839719176,
+   "rank": 71.55165108619677,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -158,7 +857,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 94.1520757737365,
+   "rank": 70.91220639961266,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -179,96 +878,6 @@
    ]
   },
   {
-   "id": "stanford-uses-race-swap",
-   "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 124.57573263538511,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-22T13:52:56.000Z",
-   "latestAt": "2026-09-22T13:52:56.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
-     "link": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/",
-     "publisher": "stanfordreview.org",
-     "publisherDomain": "stanfordreview.org",
-     "kind": "discussion",
-     "date": "2026-09-22T13:52:56.000Z",
-     "points": 15,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "wisdom-neither-will",
-   "title": "AI Has No Wisdom and Neither Will You",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 122.38711028055702,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-22T12:11:09.000Z",
-   "latestAt": "2026-09-22T12:11:09.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI Has No Wisdom and Neither Will You",
-     "link": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
-     "publisher": "alexn.org",
-     "publisherDomain": "alexn.org",
-     "kind": "discussion",
-     "date": "2026-09-22T12:11:09.000Z",
-     "points": 243,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "infrastructure-everyone-find-reason-dislike",
-   "title": "Everyone can find a reason to dislike data center construction",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "infrastructure",
-     "name": "AI Infrastructure",
-     "kind": "topic"
-    }
-   ],
-   "rank": 89.30515677767342,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T13:00:00.000Z",
-   "latestAt": "2026-09-22T13:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Everyone can find a reason to dislike data center construction",
-     "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-22T13:00:00.000Z",
-     "points": null,
-     "summary": "Inside two years of fraught AI data center debates in Pennsylvania."
-    }
-   ]
-  },
-  {
    "id": "viture-vonder-glasses-meant",
    "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
    "category": {
@@ -276,7 +885,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 89.30515677767342,
+   "rank": 67.26166850730944,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -304,7 +913,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 89.30515677767342,
+   "rank": 67.26166850730944,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -325,6 +934,40 @@
    ]
   },
   {
+   "id": "infrastructure-everyone-find-reason-dislike",
+   "title": "Everyone can find a reason to dislike data center construction",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "infrastructure",
+     "name": "AI Infrastructure",
+     "kind": "topic"
+    }
+   ],
+   "rank": 67.26166850730944,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T13:00:00.000Z",
+   "latestAt": "2026-09-22T13:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Everyone can find a reason to dislike data center construction",
+     "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-22T13:00:00.000Z",
+     "points": null,
+     "summary": "Inside two years of fraught AI data center debates in Pennsylvania."
+    }
+   ]
+  },
+  {
    "id": "download-latest-breakthroughs-fears",
    "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
    "category": {
@@ -332,7 +975,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 88.50748564608026,
+   "rank": 66.66088918876864,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -366,7 +1009,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 85.57656113984889,
+   "rank": 64.45341450677617,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -394,7 +1037,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 85.55184922852888,
+   "rank": 64.43480231855139,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -410,41 +1053,7 @@
      "kind": "coverage",
      "date": "2026-09-22T12:22:50.000Z",
      "points": null,
-     "summary": "This article is brought to you by CoolIT . Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid…"
-    }
-   ]
-  },
-  {
-   "id": "claude-claude-status-elevated-errors",
-   "title": "Claude Status – Elevated errors for multiple models",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "rank": 85.06820401685384,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-22T01:05:19.000Z",
-   "latestAt": "2026-09-22T01:05:19.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Claude Status – Elevated errors for multiple models",
-     "link": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-     "publisher": "status.claude.com",
-     "publisherDomain": "status.claude.com",
-     "kind": "discussion",
-     "date": "2026-09-22T01:05:19.000Z",
-     "points": 135,
-     "summary": ""
+     "summary": "This article is brought to you by CoolIT, an Ecolab Company . Beyond 250 kW a server rack can no longer be cooled by a hybrid…"
     }
    ]
   },
@@ -462,7 +1071,7 @@
      "kind": "org"
     }
    ],
-   "rank": 84.45369760808421,
+   "rank": 63.60771110758136,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -490,7 +1099,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 82.09054953630644,
+   "rank": 61.827866718154766,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -511,34 +1120,6 @@
    ]
   },
   {
-   "id": "gzip-language-model",
-   "title": "Can gzip be a language model?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 80.51251472623986,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-22T06:08:39.000Z",
-   "latestAt": "2026-09-22T06:08:39.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Can gzip be a language model?",
-     "link": "https://nathan.rs/posts/gzip-lm/",
-     "publisher": "nathan.rs",
-     "publisherDomain": "nathan.rs",
-     "kind": "discussion",
-     "date": "2026-09-22T06:08:39.000Z",
-     "points": 278,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "built-clones-coworkers-things",
    "title": "I Built AI Clones of My Coworkers. Things Got Weird",
    "category": {
@@ -546,7 +1127,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 75.09638619801655,
+   "rank": 56.560095931780175,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -574,7 +1155,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 72.53832759963454,
+   "rank": 54.63345142798084,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -602,7 +1183,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 72.53832759963454,
+   "rank": 54.63345142798084,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -630,7 +1211,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 70.06740586793879,
+   "rank": 52.77243550883767,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -658,7 +1239,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 67.68065280136398,
+   "rank": 50.97481262382983,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -686,7 +1267,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 64.95533791715307,
+   "rank": 48.922196258392134,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -720,7 +1301,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 53.39871725731832,
+   "rank": 40.21813463492202,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -754,7 +1335,7 @@
      "kind": "org"
     }
    ],
-   "rank": 52.20497674774625,
+   "rank": 39.3190490576079,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -775,30 +1356,72 @@
    ]
   },
   {
-   "id": "advisory-group-mathematics-artificial",
-   "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+   "id": "benchmarks-aisi-evaleval-making-benchmark",
+   "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [
+    {
+     "id": "benchmarks",
+     "name": "Benchmarks",
+     "kind": "topic"
+    }
+   ],
+   "rank": 37.69708148530677,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T00:00:00.000Z",
+   "latestAt": "2026-09-22T00:00:00.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/evaleval-aisi",
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible"
+   },
+   "sources": [
+    {
+     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+     "link": "https://huggingface.co/blog/evaleval-aisi",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-09-22T00:00:00.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "priorities-principles-effective-third",
+   "title": "Priorities and principles for effective third party assessments",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 44.78709969036401,
+   "rank": 35.51174342818754,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-21T19:17:42.000Z",
-   "latestAt": "2026-09-21T19:17:42.000Z",
-   "primary": null,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T00:00:00.000Z",
+   "latestAt": "2026-09-22T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "title": "Priorities and principles for effective third party assessments"
+   },
    "sources": [
     {
-     "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-     "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-     "publisher": "terrytao.wordpress.com",
-     "publisherDomain": "terrytao.wordpress.com",
-     "kind": "discussion",
-     "date": "2026-09-21T19:17:42.000Z",
-     "points": 150,
-     "summary": ""
+     "title": "Priorities and principles for effective third party assessments",
+     "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-22T00:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards."
     }
    ]
   },
@@ -816,7 +1439,7 @@
      "kind": "model"
     }
    ],
-   "rank": 41.70953836978986,
+   "rank": 31.414234571088976,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -854,7 +1477,7 @@
      "kind": "org"
     }
    ],
-   "rank": 41.70953836978986,
+   "rank": 31.414234571088976,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -886,7 +1509,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.04861214236277,
+   "rank": 30.916446958133335,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -907,34 +1530,6 @@
    ]
   },
   {
-   "id": "circuit-must-vacate-drone",
-   "title": "D.C. Circuit Must Vacate a Drone Flight Restriction That Criminalized Recording Immigration Agents",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 40.586505009347576,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T22:59:32.000Z",
-   "latestAt": "2026-09-21T22:59:32.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "D.C. Circuit Must Vacate a Drone Flight Restriction That Criminalized Recording Immigration Agents",
-     "link": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
-     "publisher": "EFF",
-     "publisherDomain": "eff.org",
-     "kind": "coverage",
-     "date": "2026-09-21T22:59:32.000Z",
-     "points": null,
-     "summary": "EFF joined an amicus brief with ACLU, ACLU of D.C., National Press Photographers Association, and Professional Photographers of America to urge the D.C. Circuit to vacate…"
-    }
-   ]
-  },
-  {
    "id": "cloudflare-python-workers-generally",
    "title": "Cloudflare Python Workers are now generally available",
    "category": {
@@ -942,7 +1537,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 39.03225404984297,
+   "rank": 29.39779322631429,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -963,68 +1558,6 @@
    ]
   },
   {
-   "id": "coding-made-bottleneck-reworked",
-   "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 38.21254600521275,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-21T19:23:33.000Z",
-   "latestAt": "2026-09-21T19:23:33.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-     "link": "https://linear.app/now/ci-bottleneck-reworked",
-     "publisher": "linear.app",
-     "publisherDomain": "linear.app",
-     "kind": "discussion",
-     "date": "2026-09-21T19:23:33.000Z",
-     "points": 282,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "openai-openai-forms-math-advisory",
-   "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 37.79810749197522,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T20:15:58.000Z",
-   "latestAt": "2026-09-21T20:15:58.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-     "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-21T20:15:58.000Z",
-     "points": null,
-     "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research."
-    }
-   ]
-  },
-  {
    "id": "meta-ai-muse-meta-extraordinarily-privileged",
    "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
    "category": {
@@ -1038,7 +1571,7 @@
      "kind": "org"
     }
    ],
-   "rank": 35.734127496235736,
+   "rank": 26.91375419712192,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1072,7 +1605,7 @@
      "kind": "org"
     }
    ],
-   "rank": 35.62412538947471,
+   "rank": 26.830904275493268,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1093,40 +1626,6 @@
    ]
   },
   {
-   "id": "safety-when-talked-into-harm",
-   "title": "When talked into harm, a model blames the answer, not itself (an interpretability study of guilt vs shame)",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 35.21248337884998,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T04:43:09.000Z",
-   "latestAt": "2026-09-22T04:43:09.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "When talked into harm, a model blames the answer, not itself (an interpretability study of guilt vs shame)",
-     "link": "https://www.lesswrong.com/posts/yo2WYj7eX3oGCuR6t/when-talked-into-harm-a-model-blames-the-answer-not-itself",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-22T04:43:09.000Z",
-     "points": null,
-     "summary": "This was my write-up for Neel Nanda’s Winter 2027 MATS Stream (~20h research task). I didn’t get in, but it was my first application, so there’s…"
-    }
-   ]
-  },
-  {
    "id": "china-mlcc-market-splits",
    "title": "China’s MLCC market splits in 2 as AI server demand outpaces consumer electronics",
    "category": {
@@ -1134,7 +1633,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 34.47030379182824,
+   "rank": 25.96188429257473,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1173,7 +1672,7 @@
      "kind": "model"
     }
    ],
-   "rank": 31.832067270866602,
+   "rank": 23.97485244895377,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1194,89 +1693,6 @@
    ]
   },
   {
-   "id": "meta-ai-amazon-agents-meta-agent-been-blocked",
-   "title": "Meta’s AI agent has been blocked from using Amazon.com",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    },
-    {
-     "id": "amazon",
-     "name": "Amazon",
-     "kind": "org"
-    }
-   ],
-   "rank": 28.558982032069355,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T17:55:18.000Z",
-   "latestAt": "2026-09-21T17:55:18.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta’s AI agent has been blocked from using Amazon.com",
-     "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-21T17:55:18.000Z",
-     "points": null,
-     "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no…"
-    }
-   ]
-  },
-  {
-   "id": "meta-ai-gpt-meta-muse-outpacing-chatgpt",
-   "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    },
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 26.225921829368716,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T19:19:21.000Z",
-   "latestAt": "2026-09-21T19:19:21.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-     "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-21T19:19:21.000Z",
-     "points": null,
-     "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period…"
-    }
-   ]
-  },
-  {
    "id": "tariffs-rare-minerals-what",
    "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
    "category": {
@@ -1284,7 +1700,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 24.859530320645522,
+   "rank": 18.72336993749834,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1305,40 +1721,6 @@
    ]
   },
   {
-   "id": "benchmarks-where-will-next-breakout",
-   "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "benchmarks",
-     "name": "Benchmarks",
-     "kind": "topic"
-    }
-   ],
-   "rank": 23.32339636141567,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T15:00:00.000Z",
-   "latestAt": "2026-09-21T15:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-     "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-21T15:00:00.000Z",
-     "points": null,
-     "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before…"
-    }
-   ]
-  },
-  {
    "id": "trump-rejects-slowdown-calls",
    "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
    "category": {
@@ -1346,7 +1728,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.337523232232158,
+   "rank": 16.82387822979941,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1367,34 +1749,6 @@
    ]
   },
   {
-   "id": "with-tabby-former-accountant",
-   "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 21.78739155963131,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T16:38:51.000Z",
-   "latestAt": "2026-09-21T16:38:51.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-     "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-21T16:38:51.000Z",
-     "points": null,
-     "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss."
-    }
-   ]
-  },
-  {
    "id": "gpt-higgsfield-ships-video-features",
    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
    "category": {
@@ -1408,7 +1762,7 @@
      "kind": "model"
     }
    ],
-   "rank": 20.52319163453671,
+   "rank": 15.457384122518047,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1433,6 +1787,41 @@
    ]
   },
   {
+   "id": "advisory-group-mathematics-artificial",
+   "title": "Advisory Group on Mathematics and Artificial Intelligence",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 15.457384122518047,
+   "deltas": [
+    "Now also covered by OpenAI.",
+    "A primary source appeared: OpenAI."
+   ],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T12:00:00.000Z",
+   "latestAt": "2026-09-21T12:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence"
+   },
+   "sources": [
+    {
+     "title": "Advisory Group on Mathematics and Artificial Intelligence",
+     "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-21T12:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
+    }
+   ]
+  },
+  {
    "id": "pruning-llms-like-physicist",
    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
    "category": {
@@ -1440,7 +1829,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.486238625339972,
+   "rank": 15.429552347236289,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1472,7 +1861,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.12894084179139,
+   "rank": 15.160447561548827,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1510,7 +1899,7 @@
      "kind": "org"
     }
    ],
-   "rank": 19.591318768102106,
+   "rank": 14.75552852879101,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1542,7 +1931,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.86647603808023,
+   "rank": 13.456434454942654,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1567,74 +1956,6 @@
    ]
   },
   {
-   "id": "gemini-creating-blog-gemini",
-   "title": "Creating a Blog in Gemini://",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 17.73414518119281,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-21T11:24:46.000Z",
-   "latestAt": "2026-09-21T11:24:46.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Creating a Blog in Gemini://",
-     "link": "https://brennan.day/creating-a-blog-in-gemini/",
-     "publisher": "brennan.day",
-     "publisherDomain": "brennan.day",
-     "kind": "discussion",
-     "date": "2026-09-21T11:24:46.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "google-android-phone-google-thinks",
-   "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 16.920163200340994,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T13:00:00.000Z",
-   "latestAt": "2026-09-21T13:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
-     "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-21T13:00:00.000Z",
-     "points": null,
-     "summary": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google’s bringing that experience to Android."
-    }
-   ]
-  },
-  {
    "id": "safety-safety-fears-mount-china",
    "title": "As AI safety fears mount, can a US-China hotline prevent a global crisis?",
    "category": {
@@ -1648,7 +1969,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 16.076631176632283,
+   "rank": 12.108382941524104,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1682,7 +2003,7 @@
      "kind": "org"
     }
    ],
-   "rank": 14.48851334818894,
+   "rank": 10.912265507978438,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1703,34 +2024,6 @@
    ]
   },
   {
-   "id": "china-discuss-alerting-each",
-   "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 14.305843803915291,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T10:34:43.000Z",
-   "latestAt": "2026-09-21T10:34:43.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-     "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-21T10:34:43.000Z",
-     "points": null,
-     "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security."
-    }
-   ]
-  },
-  {
    "id": "regulation-chinese-regulator-drafts-rules",
    "title": "Chinese regulator drafts rules to protect teenagers from ‘intimate’ AI companions",
    "category": {
@@ -1744,7 +2037,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 12.616626755144155,
+   "rank": 9.50242289588717,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1772,7 +2065,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.207524556712347,
+   "rank": 9.19430075099205,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1806,7 +2099,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 10.71988562284814,
+   "rank": 8.073860672965592,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1838,7 +2131,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.607642161314727,
+   "rank": 7.9893226376025455,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1866,7 +2159,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.90247978607395,
+   "rank": 5.951884470455404,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1898,7 +2191,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.50261339741558,
+   "rank": 5.650718429751717,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1926,7 +2219,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.750060481350894,
+   "rank": 5.0839206478434855,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1960,7 +2253,7 @@
      "kind": "product"
     }
    ],
-   "rank": 6.430116486800146,
+   "rank": 4.8429494914303,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1988,7 +2281,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.983130079127931,
+   "rank": 4.506294222407378,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2016,7 +2309,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.0460106736064043,
+   "rank": 2.2941537486787196,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2044,7 +2337,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6026770722911559,
+   "rank": 1.2070829709092792,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2072,7 +2365,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 1.173183110368379,
+   "rank": 0.8836024291902919,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2089,34 +2382,6 @@
      "date": "2026-09-19T19:52:02.000Z",
      "points": null,
      "summary": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It…"
-    }
-   ]
-  },
-  {
-   "id": "california-lion-brandt-cormorant",
-   "title": "California Sea Lion, Brandt's Cormorant",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9730560896024714,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-19T17:10:08.000Z",
-   "latestAt": "2026-09-19T17:10:08.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "California Sea Lion, Brandt's Cormorant",
-     "link": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-19T17:10:08.000Z",
-     "points": null,
-     "summary": ""
     }
    ]
   }
