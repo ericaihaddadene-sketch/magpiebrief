@@ -1,9 +1,43 @@
 {
  "date": "2026-09-22",
- "generated": "2026-09-22T04:33:48.728Z",
- "headline": "58 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2683 items read · 59 on-topic · 58 distinct developments · 7 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-22T09:48:57.781Z",
+ "headline": "62 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2684 items read · 63 on-topic · 62 distinct developments · 8 with a primary source · 1 independently corroborated",
  "events": [
+  {
+   "id": "google-study-young-users-ditch",
+   "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 120.4833097441033,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-22T09:18:54.000Z",
+   "latestAt": "2026-09-22T09:18:54.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+     "link": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
+     "publisher": "norwegianscitechnews.com",
+     "publisherDomain": "norwegianscitechnews.com",
+     "kind": "discussion",
+     "date": "2026-09-22T09:18:54.000Z",
+     "points": 8,
+     "summary": ""
+    }
+   ]
+  },
   {
    "id": "claude-claude-status-elevated-errors",
    "title": "Claude Status – Elevated errors for multiple models",
@@ -18,7 +52,7 @@
      "kind": "model"
     }
    ],
-   "rank": 170.94409588250036,
+   "rank": 118.77842809999464,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -33,8 +67,64 @@
      "publisherDomain": "status.claude.com",
      "kind": "discussion",
      "date": "2026-09-22T01:05:19.000Z",
-     "points": 78,
+     "points": 110,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "chatbot-wants-unlock-secrets",
+   "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 97.83322013462568,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T09:30:00.000Z",
+   "latestAt": "2026-09-22T09:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
+     "link": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-22T09:30:00.000Z",
+     "points": null,
+     "summary": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments."
+    }
+   ]
+  },
+  {
+   "id": "with-your-privacy-intact",
+   "title": "How to Use AI With Your Privacy Intact",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 94.50066150373661,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T09:00:00.000Z",
+   "latestAt": "2026-09-22T09:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How to Use AI With Your Privacy Intact",
+     "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-22T09:00:00.000Z",
+     "points": null,
+     "summary": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself."
     }
    ]
   },
@@ -52,7 +142,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 107.30443352288309,
+   "rank": 74.5591819138878,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -73,6 +163,68 @@
    ]
   },
   {
+   "id": "gzip-language-model",
+   "title": "Can gzip be a language model?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 112.41744259307244,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-22T06:08:39.000Z",
+   "latestAt": "2026-09-22T06:08:39.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Can gzip be a language model?",
+     "link": "https://nathan.rs/posts/gzip-lm/",
+     "publisher": "nathan.rs",
+     "publisherDomain": "nathan.rs",
+     "kind": "discussion",
+     "date": "2026-09-22T06:08:39.000Z",
+     "points": 123,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "alibaba-alibaba-teases-trillion-parameter",
+   "title": "Alibaba teases 10-trillion-parameter model, debuts ‘China’s most powerful’ AI chip",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "alibaba",
+     "name": "Alibaba",
+     "kind": "org"
+    }
+   ],
+   "rank": 72.89239438822,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T05:59:40.000Z",
+   "latestAt": "2026-09-22T05:59:40.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Alibaba teases 10-trillion-parameter model, debuts ‘China’s most powerful’ AI chip",
+     "link": "https://www.scmp.com/tech/big-tech/article/3368338/alibaba-teases-10-trillion-parameter-model-debuts-chinas-most-powerful-ai-chip?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-22T05:59:40.000Z",
+     "points": null,
+     "summary": "Alibaba Group Holding has introduced what it called China’s most powerful artificial intelligence chip and teased plans to train an AI model with up to 10…"
+    }
+   ]
+  },
+  {
    "id": "advisory-group-mathematics-artificial",
    "title": "The Advisory Group on Mathematics and Artificial Intelligence",
    "category": {
@@ -80,7 +232,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 89.99943459781811,
+   "rank": 62.53501366180526,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -95,7 +247,7 @@
      "publisherDomain": "terrytao.wordpress.com",
      "kind": "discussion",
      "date": "2026-09-21T19:17:42.000Z",
-     "points": 109,
+     "points": 137,
      "summary": ""
     }
    ]
@@ -114,7 +266,7 @@
      "kind": "org"
     }
    ],
-   "rank": 84.73289240507368,
+   "rank": 58.87562080622247,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -145,6 +297,44 @@
    ]
   },
   {
+   "id": "hugging-face-omlx-creator-maintainer-joins",
+   "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "hugging-face",
+     "name": "Hugging Face",
+     "kind": "org"
+    }
+   ],
+   "rank": 58.237898185302235,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T00:00:00.000Z",
+   "latestAt": "2026-09-22T00:00:00.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/omlx",
+    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community"
+   },
+   "sources": [
+    {
+     "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+     "link": "https://huggingface.co/blog/omlx",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-09-22T00:00:00.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "introduces-shape-system-decision",
    "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
    "category": {
@@ -152,7 +342,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 82.48696408963104,
+   "rank": 57.31506480365125,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -180,7 +370,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 81.55836230513249,
+   "rank": 56.66983713594986,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -208,7 +398,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 78.4351034081375,
+   "rank": 54.49967863811334,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -236,7 +426,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 76.78790452582463,
+   "rank": 53.35514250775368,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -251,7 +441,7 @@
      "publisherDomain": "linear.app",
      "kind": "discussion",
      "date": "2026-09-21T19:23:33.000Z",
-     "points": 172,
+     "points": 239,
      "summary": ""
     }
    ]
@@ -270,7 +460,7 @@
      "kind": "org"
     }
    ],
-   "rank": 75.95509257495472,
+   "rank": 52.776473242128894,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -291,6 +481,34 @@
    ]
   },
   {
+   "id": "asked-llms-words-humans",
+   "title": "I asked LLMs for words humans wouldn’t understand",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 51.89760356987677,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T05:29:57.000Z",
+   "latestAt": "2026-09-22T05:29:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "I asked LLMs for words humans wouldn’t understand",
+     "link": "https://www.lesswrong.com/posts/44HGD2BfDkEmw5F5J/i-asked-llms-for-words-humans-wouldn-t-understand",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-22T05:29:57.000Z",
+     "points": null,
+     "summary": "I gave models from different labs the same prompt: give me a list of 20 new made-up words that describe concepts only an LLM would understand…"
+    }
+   ]
+  },
+  {
    "id": "frontier-your-hardware",
    "title": "Frontier AI on Your Own Hardware",
    "category": {
@@ -298,7 +516,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 74.12654088381213,
+   "rank": 51.505926315940854,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -313,7 +531,7 @@
      "publisherDomain": "timdettmers.com",
      "kind": "discussion",
      "date": "2026-09-21T18:53:01.000Z",
-     "points": 121,
+     "points": 159,
      "summary": ""
     }
    ]
@@ -332,7 +550,7 @@
      "kind": "org"
     }
    ],
-   "rank": 71.58648729791067,
+   "rank": 49.74100094273283,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -353,6 +571,40 @@
    ]
   },
   {
+   "id": "safety-when-talked-into-harm",
+   "title": "When talked into harm, a model blames the answer, not itself (an interpretability study of guilt vs shame)",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 49.16623635792697,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T04:43:09.000Z",
+   "latestAt": "2026-09-22T04:43:09.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "When talked into harm, a model blames the answer, not itself (an interpretability study of guilt vs shame)",
+     "link": "https://www.lesswrong.com/posts/yo2WYj7eX3oGCuR6t/when-talked-into-harm-a-model-blames-the-answer-not-itself",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-22T04:43:09.000Z",
+     "points": null,
+     "summary": "This was my write-up for Neel Nanda’s Winter 2027 MATS Stream (~20h research task). I didn’t get in, but it was my first application, so there’s…"
+    }
+   ]
+  },
+  {
    "id": "china-mlcc-market-splits",
    "title": "China’s MLCC market splits in 2 as AI server demand outpaces consumer electronics",
    "category": {
@@ -360,7 +612,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 69.26788903785688,
+   "rank": 48.12995111206848,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -388,7 +640,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 67.99619787789184,
+   "rank": 47.24633196026621,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -427,7 +679,7 @@
      "kind": "model"
     }
    ],
-   "rank": 63.96636701782422,
+   "rank": 44.44625294848979,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -455,7 +707,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 62.75356628878276,
+   "rank": 43.60355309711212,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -494,7 +746,7 @@
      "kind": "model"
     }
    ],
-   "rank": 58.50199292038406,
+   "rank": 40.64939899753263,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -538,7 +790,7 @@
      "kind": "org"
     }
    ],
-   "rank": 57.38911993286519,
+   "rank": 39.87613272325726,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -572,7 +824,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 57.166085807599224,
+   "rank": 39.72116017111975,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -600,7 +852,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 55.785566307784386,
+   "rank": 38.761922969607355,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -628,7 +880,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 55.785566307784386,
+   "rank": 38.761922969607355,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -667,7 +919,7 @@
      "kind": "model"
     }
    ],
-   "rank": 52.700848073839126,
+   "rank": 36.618543983232435,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -688,34 +940,6 @@
    ]
   },
   {
-   "id": "story-imprinting-assistants-absorb",
-   "title": "Story Imprinting: AI Assistants Absorb Traits from Human Characters They Resemble",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 50.79049593419637,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T23:56:08.000Z",
-   "latestAt": "2026-09-21T23:56:08.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Story Imprinting: AI Assistants Absorb Traits from Human Characters They Resemble",
-     "link": "https://www.lesswrong.com/posts/tnRkm2ajasHvhpAco/story-imprinting-ai-assistants-absorb-traits-from-human",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-21T23:56:08.000Z",
-     "points": null,
-     "summary": "This is the abstract, introduction and discussion of our new paper . We also include an addendum on the connection to the Persona Selection Model. Section…"
-    }
-   ]
-  },
-  {
    "id": "tariffs-rare-minerals-what",
    "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
    "category": {
@@ -723,7 +947,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 49.955091727155974,
+   "rank": 34.71068854592748,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -757,7 +981,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 46.86823884422777,
+   "rank": 32.56582632464217,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -785,7 +1009,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 44.88713212320496,
+   "rank": 31.1892783894437,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -813,7 +1037,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 43.78164550248768,
+   "rank": 30.421144442398056,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -834,34 +1058,6 @@
    ]
   },
   {
-   "id": "lifestreams-storage-model-personal",
-   "title": "Lifestreams: a storage model for personal data (1996)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 42.32032957162307,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-21T17:40:40.000Z",
-   "latestAt": "2026-09-21T17:40:40.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Lifestreams: a storage model for personal data (1996)",
-     "link": "https://www.ee.columbia.edu/~dpwe/papers/FreeG96-lifestreams.pdf",
-     "publisher": "ee.columbia.edu",
-     "publisherDomain": "ee.columbia.edu",
-     "kind": "discussion",
-     "date": "2026-09-21T17:40:40.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "gpt-higgsfield-ships-video-features",
    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
    "category": {
@@ -875,7 +1071,7 @@
      "kind": "model"
     }
    ],
-   "rank": 41.24124259040545,
+   "rank": 28.65597634413754,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -907,7 +1103,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.16698571828408,
+   "rank": 28.604379858744675,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -939,7 +1135,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 40.44899775467981,
+   "rank": 28.10549464559142,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -977,7 +1173,7 @@
      "kind": "org"
     }
    ],
-   "rank": 39.36864910531745,
+   "rank": 27.35482751252228,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1009,7 +1205,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.90258696810957,
+   "rank": 24.946476348189346,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1047,7 +1243,7 @@
      "kind": "model"
     }
    ],
-   "rank": 35.63666882690259,
+   "rank": 24.761706358604286,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1081,7 +1277,7 @@
      "kind": "org"
     }
    ],
-   "rank": 35.48035937795541,
+   "rank": 24.653096637120345,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1115,7 +1311,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 32.30590339936346,
+   "rank": 22.447364469166708,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1149,7 +1345,7 @@
      "kind": "org"
     }
    ],
-   "rank": 29.11458921240424,
+   "rank": 20.229918579951686,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1177,7 +1373,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.74751575115026,
+   "rank": 19.974862045241405,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1211,7 +1407,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 25.353043227735075,
+   "rank": 17.616254054258118,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1239,7 +1435,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 24.53095457260591,
+   "rank": 17.0450357403937,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1273,7 +1469,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 21.54155218086574,
+   "rank": 14.9678858089136,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1305,7 +1501,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.31599955198045,
+   "rank": 14.81116330513535,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1333,7 +1529,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.879990389740769,
+   "rank": 11.034018384776052,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1365,7 +1561,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.076461044399675,
+   "rank": 10.475695781827339,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1399,7 +1595,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 13.58348224509202,
+   "rank": 9.43831760241205,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1427,7 +1623,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.564210029732314,
+   "rank": 9.424926537721499,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1461,7 +1657,7 @@
      "kind": "product"
     }
    ],
-   "rank": 12.921284303092106,
+   "rank": 8.978197407937097,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1489,7 +1685,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.023067534390195,
+   "rank": 8.354082399292379,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1517,7 +1713,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.82302628987942,
+   "rank": 7.520248320716624,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1545,7 +1741,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.719948821039054,
+   "rank": 6.753788343582117,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1573,7 +1769,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.120941974335453,
+   "rank": 4.253062163097908,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1601,7 +1797,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.417038232410362,
+   "rank": 3.7639632002589933,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1629,7 +1825,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.220570908728076,
+   "rank": 2.237774566874952,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1657,7 +1853,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 2.357505115152181,
+   "rank": 1.6380837862218247,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1685,7 +1881,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.9553509493053411,
+   "rank": 1.3586518501461553,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1719,7 +1915,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.0625305137119734,
+   "rank": 0.7382864179979425,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1747,7 +1943,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 0.991376023807823,
+   "rank": 0.6888455851956143,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1764,62 +1960,6 @@
      "date": "2026-09-19T10:00:00.000Z",
      "points": null,
      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful."
-    }
-   ]
-  },
-  {
-   "id": "join-wired-world-fair",
-   "title": "Join the WIRED World Fair in Miami on November 4",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9249865372312784,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-19T09:00:00.000Z",
-   "latestAt": "2026-09-19T09:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Join the WIRED World Fair in Miami on November 4",
-     "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-19T09:00:00.000Z",
-     "points": null,
-     "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life."
-    }
-   ]
-  },
-  {
-   "id": "doesn-just-answer-questions",
-   "title": "AI doesn’t just answer questions – it legitimises bad ones",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8488859137624801,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-19T08:30:05.000Z",
-   "latestAt": "2026-09-19T08:30:05.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI doesn’t just answer questions – it legitimises bad ones",
-     "link": "https://www.scmp.com/opinion/world-opinion/article/3366862/ai-doesnt-just-answer-questions-it-legitimises-bad-ones?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-19T08:30:05.000Z",
-     "points": null,
-     "summary": "Years ago, I watched a focus group explain itself into a contradiction. We asked people what mattered when choosing car insurance. Price won. The deductible came…"
     }
    ]
   }
