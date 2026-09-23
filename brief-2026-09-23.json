@@ -1,12 +1,84 @@
 {
  "date": "2026-09-23",
- "generated": "2026-09-23T11:20:14.141Z",
- "headline": "85 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2691 items read · 87 on-topic · 85 distinct developments · 15 with a primary source · 2 independently corroborated",
+ "generated": "2026-09-23T16:42:21.258Z",
+ "headline": "90 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2695 items read · 90 on-topic · 90 distinct developments · 20 with a primary source · 0 independently corroborated",
  "events": [
   {
-   "id": "openai-openai-nabs-patreon-execs",
-   "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+   "id": "gemini-gemini-text-speech-says",
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 198.75163336382786,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T15:29:23.000Z",
+   "latestAt": "2026-09-23T15:29:23.000Z",
+   "primary": {
+    "publisher": "Google",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+    "title": "Gemini 3.8 text-to-speech says hello"
+   },
+   "sources": [
+    {
+     "title": "Gemini 3.8 text-to-speech says hello",
+     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+     "publisher": "Google",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-23T15:29:23.000Z",
+     "points": 37,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "claude-claude-code-reads-agents",
+   "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 191.77020074948655,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-23T12:15:33.000Z",
+   "latestAt": "2026-09-23T12:15:33.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+     "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+     "publisher": "blog.szypowi.cz",
+     "publisherDomain": "blog.szypowi.cz",
+     "kind": "discussion",
+     "date": "2026-09-23T12:15:33.000Z",
+     "points": 351,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "openai-years-openai-academy",
+   "title": "Two years of OpenAI Academy",
    "category": {
     "id": "general",
     "name": "Other"
@@ -18,29 +90,103 @@
      "kind": "org"
     }
    ],
-   "rank": 132.28520714674977,
+   "rank": 167.1198513031259,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-23T11:02:39.000Z",
-   "latestAt": "2026-09-23T11:02:39.000Z",
-   "primary": null,
+   "publishedAt": "2026-09-23T16:00:00.000Z",
+   "latestAt": "2026-09-23T16:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/two-years-of-openai-academy",
+    "title": "Two years of OpenAI Academy"
+   },
    "sources": [
     {
-     "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-23T11:02:39.000Z",
+     "title": "Two years of OpenAI Academy",
+     "link": "https://openai.com/index/two-years-of-openai-academy",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-23T16:00:00.000Z",
      "points": null,
-     "summary": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology…"
+     "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
     }
    ]
   },
   {
-   "id": "openai-gpt-claude-claude-opus-luna-price",
-   "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+   "id": "openai-openai-extends-cyber-access",
+   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 135.74349969966178,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T13:00:00.000Z",
+   "latestAt": "2026-09-23T13:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense"
+   },
+   "sources": [
+    {
+     "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+     "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-23T13:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
+    }
+   ]
+  },
+  {
+   "id": "advancing-private-compute-with",
+   "title": "Advancing Private AI Compute with secure, server-side memory",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 123.92841717560088,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T16:00:57.000Z",
+   "latestAt": "2026-09-23T16:00:57.000Z",
+   "primary": {
+    "publisher": "Google DeepMind",
+    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "title": "Advancing Private AI Compute with secure, server-side memory"
+   },
+   "sources": [
+    {
+     "title": "Advancing Private AI Compute with secure, server-side memory",
+     "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+     "publisher": "Google DeepMind",
+     "publisherDomain": "deepmind.google",
+     "kind": "primary",
+     "date": "2026-09-23T16:00:57.000Z",
+     "points": null,
+     "summary": "Introducing private, server-side memory to Private AI Compute for personal AI."
+    }
+   ]
+  },
+  {
+   "id": "gpt-astra-gained-ability-drive",
+   "title": "GPT-6 Astra has gained the ability to drive a car",
    "category": {
     "id": "models",
     "name": "Models"
@@ -50,45 +196,359 @@
      "id": "gpt",
      "name": "GPT",
      "kind": "model"
-    },
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
     }
    ],
-   "rank": 112.47870176446116,
+   "rank": 130.98570997650424,
    "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-22T18:00:00.000Z",
-   "latestAt": "2026-09-22T23:46:41.000Z",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-23T15:14:22.000Z",
+   "latestAt": "2026-09-23T15:14:22.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-     "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-22T23:46:41.000Z",
-     "points": null,
-     "summary": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour…"
-    },
+     "title": "GPT-6 Astra has gained the ability to drive a car",
+     "link": "https://drivingbench.com/",
+     "publisher": "drivingbench.com",
+     "publisherDomain": "drivingbench.com",
+     "kind": "discussion",
+     "date": "2026-09-23T15:14:22.000Z",
+     "points": 121,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "stripe-knowledge-platform",
+   "title": "Stripe's Knowledge AI Platform",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 117.18584510202389,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-23T13:38:00.000Z",
+   "latestAt": "2026-09-23T13:38:00.000Z",
+   "primary": null,
+   "sources": [
     {
-     "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-     "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+     "title": "Stripe's Knowledge AI Platform",
+     "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+     "publisher": "stripe.dev",
+     "publisherDomain": "stripe.dev",
+     "kind": "discussion",
+     "date": "2026-09-23T13:38:00.000Z",
+     "points": 96,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "youtube-releases-features-creators",
+   "title": "YouTube releases new AI features for creators within its Studio app",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 98.69479760293713,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T14:30:00.000Z",
+   "latestAt": "2026-09-23T14:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "YouTube releases new AI features for creators within its Studio app",
+     "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
      "publisher": "TechCrunch",
      "publisherDomain": "techcrunch.com",
      "kind": "coverage",
-     "date": "2026-09-22T18:00:00.000Z",
+     "date": "2026-09-23T14:30:00.000Z",
      "points": null,
-     "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
+     "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
+    }
+   ]
+  },
+  {
+   "id": "robotics-offloaded-inference-real-world",
+   "title": "Offloaded inference for real-world physical AI robotics",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
+    }
+   ],
+   "rank": 95.40116241756338,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T16:01:36.000Z",
+   "latestAt": "2026-09-23T16:01:36.000Z",
+   "primary": {
+    "publisher": "Microsoft Research",
+    "link": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+    "title": "Offloaded inference for real-world physical AI robotics"
+   },
+   "sources": [
+    {
+     "title": "Offloaded inference for real-world physical AI robotics",
+     "link": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+     "publisher": "Microsoft Research",
+     "publisherDomain": "microsoft.com",
+     "kind": "primary",
+     "date": "2026-09-23T16:01:36.000Z",
+     "points": null,
+     "summary": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve…"
+    }
+   ]
+  },
+  {
+   "id": "youtube-music-gets-more",
+   "title": "YouTube Music gets more conversational with new AI features",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 90.87227379339336,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T15:19:30.000Z",
+   "latestAt": "2026-09-23T15:19:30.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "YouTube Music gets more conversational with new AI features",
+     "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-23T15:19:30.000Z",
+     "points": null,
+     "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs…"
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-meta-muse-assistant-rolled",
+   "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 90.73996787454303,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T12:54:58.000Z",
+   "latestAt": "2026-09-23T12:54:58.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+     "link": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-23T12:54:58.000Z",
+     "points": null,
+     "summary": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the…"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-know-spoke-when-build",
+   "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 90.7146243643187,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T13:17:01.000Z",
+   "latestAt": "2026-09-23T13:17:01.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+    "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**"
+   },
+   "sources": [
+    {
+     "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+     "link": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-09-23T13:17:01.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "welcomes-david-siegel-next",
+   "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 87.38221018535448,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T15:30:00.000Z",
+   "latestAt": "2026-09-23T15:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
+     "link": "https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923",
+     "publisher": "MIT News AI",
+     "publisherDomain": "news.mit.edu",
+     "kind": "coverage",
+     "date": "2026-09-23T15:30:00.000Z",
+     "points": null,
+     "summary": "Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery."
+    }
+   ]
+  },
+  {
+   "id": "youtube-will-build-your",
+   "title": "YouTube will let you build your own algorithm with AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 85.82156313298881,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T14:30:00.000Z",
+   "latestAt": "2026-09-23T14:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "YouTube will let you build your own algorithm with AI",
+     "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-23T14:30:00.000Z",
+     "points": null,
+     "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around…"
+    }
+   ]
+  },
+  {
+   "id": "youtube-doubles-down-video",
+   "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 85.82156313298881,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T14:30:00.000Z",
+   "latestAt": "2026-09-23T14:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
+     "link": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-23T14:30:00.000Z",
+     "points": null,
+     "summary": "YouTube's AI feature can now help you compare products as you shop."
+    }
+   ]
+  },
+  {
+   "id": "youtube-building-creator-tools",
+   "title": "YouTube is building AI creator tools that do almost everything for them",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 85.82156313298881,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T14:30:00.000Z",
+   "latestAt": "2026-09-23T14:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "YouTube is building AI creator tools that do almost everything for them",
+     "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-23T14:30:00.000Z",
+     "points": null,
+     "summary": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or…"
+    }
+   ]
+  },
+  {
+   "id": "pacing-problem-fears-overcome",
+   "title": "Pacing problem: can AI fears overcome US-China race dynamics and force a slowdown?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 84.41540280624359,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T15:00:06.000Z",
+   "latestAt": "2026-09-23T15:00:06.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Pacing problem: can AI fears overcome US-China race dynamics and force a slowdown?",
+     "link": "https://www.scmp.com/tech/tech-war/article/3368503/pacing-problem-can-ai-fears-overcome-us-china-race-dynamics-and-force-slowdown?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-23T15:00:06.000Z",
+     "points": null,
+     "summary": "When the presidents of the United States and China meet in Washington, the world will be watching to see whether their two countries can make good…"
     }
    ]
   },
@@ -106,7 +566,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 111.41323335459148,
+   "rank": 76.7935484938755,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -127,6 +587,235 @@
    ]
   },
   {
+   "id": "download-india-smart-glasses",
+   "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 76.65586473163944,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T12:10:00.000Z",
+   "latestAt": "2026-09-23T12:10:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+     "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-09-23T12:10:00.000Z",
+     "points": null,
+     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Smart glasses…"
+    }
+   ]
+  },
+  {
+   "id": "scared",
+   "title": "Why I'm scared of RL",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 76.4392084804662,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T12:07:33.000Z",
+   "latestAt": "2026-09-23T12:07:33.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Why I'm scared of RL",
+     "link": "https://www.alignmentforum.org/posts/LcQ9x72eNji2gpS9b/why-i-m-scared-of-rl",
+     "publisher": "Alignment Forum",
+     "publisherDomain": "alignmentforum.org",
+     "kind": "coverage",
+     "date": "2026-09-23T12:07:33.000Z",
+     "points": null,
+     "summary": "Summary: First, I give several different angles on how I feel about reinforcement learning: Theoretical case: RL is a black-box source of agency — this should…"
+    }
+   ]
+  },
+  {
+   "id": "funding-raises-starts-eating-into",
+   "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    }
+   ],
+   "rank": 72.16704479000065,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T12:00:00.000Z",
+   "latestAt": "2026-09-23T12:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+     "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-23T12:00:00.000Z",
+     "points": null,
+     "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft."
+    }
+   ]
+  },
+  {
+   "id": "microsoft-meta-ai-amazon-trump-offloads-tens-millions",
+   "title": "Trump offloads tens of millions in AI, tech shares, led by Microsoft, Amazon, Meta",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "microsoft",
+     "name": "Microsoft",
+     "kind": "org"
+    },
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    },
+    {
+     "id": "amazon",
+     "name": "Amazon",
+     "kind": "org"
+    }
+   ],
+   "rank": 70.98597636907128,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T12:30:07.000Z",
+   "latestAt": "2026-09-23T12:30:07.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Trump offloads tens of millions in AI, tech shares, led by Microsoft, Amazon, Meta",
+     "link": "https://www.scmp.com/tech/article/3368525/trump-offloads-tens-millions-ai-tech-shares-led-microsoft-amazon-meta?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-23T12:30:07.000Z",
+     "points": null,
+     "summary": "US President Donald Trump has sold shares worth tens of millions of US dollars in major tech companies, including Microsoft, Amazon and Meta Platforms in July…"
+    }
+   ]
+  },
+  {
+   "id": "cheaper-labelling",
+   "title": "Cheaper LLM labelling",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 70.75524439399436,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-23T13:14:06.000Z",
+   "latestAt": "2026-09-23T13:14:06.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Cheaper LLM labelling",
+     "link": "https://entropicthoughts.com/cheaper-llm-labeling",
+     "publisher": "entropicthoughts.com",
+     "publisherDomain": "entropicthoughts.com",
+     "kind": "discussion",
+     "date": "2026-09-23T13:14:06.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "jensen-huang-says-cannot",
+   "title": "Jensen Huang Says If We Cannot Align AI, Shut Down the AI Labs",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 67.82394883510784,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T16:15:01.000Z",
+   "latestAt": "2026-09-23T16:15:01.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Jensen Huang Says If We Cannot Align AI, Shut Down the AI Labs",
+     "link": "https://www.lesswrong.com/posts/cmdbNijFsopqfqEq7/jensen-huang-says-if-we-cannot-align-ai-shut-down-the-ai",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-23T16:15:01.000Z",
+     "points": null,
+     "summary": "I was very surprised today on a podcast to hear Jensen Huang plainly state that if they cannot align the AIs, then the labs must shut…"
+    }
+   ]
+  },
+  {
+   "id": "gpt-claude-claude-opus-luna-price",
+   "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    },
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 65.70164534382599,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T23:46:41.000Z",
+   "latestAt": "2026-09-22T23:46:41.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+     "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-22T23:46:41.000Z",
+     "points": null,
+     "summary": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour…"
+    }
+   ]
+  },
+  {
    "id": "automating-away-jobs-telecom",
    "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
    "category": {
@@ -134,7 +823,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 92.74077363256457,
+   "rank": 63.923224224587806,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -173,7 +862,7 @@
      "kind": "org"
     }
    ],
-   "rank": 84.90184233275785,
+   "rank": 58.52010169787713,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -201,7 +890,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 84.7525175455035,
+   "rank": 58.41717693798925,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -235,7 +924,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 80.17395721502618,
+   "rank": 55.26132296818654,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -269,7 +958,7 @@
      "kind": "org"
     }
    ],
-   "rank": 79.98196867634617,
+   "rank": 55.1289914604161,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -301,7 +990,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 64.38654859157515,
+   "rank": 44.37957137357086,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -318,40 +1007,6 @@
      "date": "2026-09-23T04:59:08.000Z",
      "points": null,
      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no…"
-    }
-   ]
-  },
-  {
-   "id": "openai-openai-wants-consult-elite",
-   "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 62.76536715145951,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T00:17:17.000Z",
-   "latestAt": "2026-09-23T00:17:17.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-23T00:17:17.000Z",
-     "points": null,
-     "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path…"
     }
    ]
   },
@@ -379,7 +1034,7 @@
      "kind": "model"
     }
    ],
-   "rank": 59.34007104011104,
+   "rank": 40.90119715443109,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -400,34 +1055,6 @@
    ]
   },
   {
-   "id": "current-balance-power-open",
-   "title": "The current balance of power in open models",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 57.77856765474,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-22T22:03:46.000Z",
-   "latestAt": "2026-09-22T22:03:46.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The current balance of power in open models",
-     "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-     "publisher": "interconnects.ai",
-     "publisherDomain": "interconnects.ai",
-     "kind": "discussion",
-     "date": "2026-09-22T22:03:46.000Z",
-     "points": 93,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "china-premier-qiang-calls",
    "title": "China’s Premier Li Qiang calls for harnessing AI to propel manufacturing advances",
    "category": {
@@ -435,7 +1062,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 55.209839317902045,
+   "rank": 38.05436163498309,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -456,78 +1083,6 @@
    ]
   },
   {
-   "id": "unreal-agent",
-   "title": "Unreal Agent",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 53.28624934647505,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-22T18:15:53.000Z",
-   "latestAt": "2026-09-22T18:15:53.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Unreal Agent",
-     "link": "https://unreallabs.ai/blog/unreal-agent/",
-     "publisher": "unreallabs.ai",
-     "publisherDomain": "unreallabs.ai",
-     "kind": "discussion",
-     "date": "2026-09-22T18:15:53.000Z",
-     "points": 199,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "agents-rabbit-agent-doesn-need",
-   "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 51.974457866771075,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-22T16:00:00.000Z",
-   "latestAt": "2026-09-22T20:52:40.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-22T20:52:40.000Z",
-     "points": null,
-     "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier…"
-    },
-    {
-     "title": "Rabbit Is Back, This Time With an AI Agent App",
-     "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-22T16:00:00.000Z",
-     "points": null,
-     "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already…"
-    }
-   ]
-  },
-  {
    "id": "safety-workspacebench-evaluating-interpretability-methods",
    "title": "WorkspaceBench: Evaluating Interpretability Methods for the Global Workspace",
    "category": {
@@ -541,7 +1096,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 51.76353500143909,
+   "rank": 35.67893521854794,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -575,7 +1130,7 @@
      "kind": "org"
     }
    ],
-   "rank": 51.37483229028012,
+   "rank": 35.41101497603883,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -609,7 +1164,7 @@
      "kind": "model"
     }
    ],
-   "rank": 48.12262646122336,
+   "rank": 33.169374386981794,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -634,102 +1189,6 @@
    ]
   },
   {
-   "id": "pentagon-says-overreliance-contributed",
-   "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 46.92355171722576,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-22T19:03:38.000Z",
-   "latestAt": "2026-09-22T19:03:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-     "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-     "publisher": "Bloomberg",
-     "publisherDomain": "bloomberg.com",
-     "kind": "discussion",
-     "date": "2026-09-22T19:03:38.000Z",
-     "points": 676,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "openai-openai-well-positioned-fast",
-   "title": "OpenAI is well positioned to fast-follow Jev",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 46.876178390903846,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-22T14:42:59.000Z",
-   "latestAt": "2026-09-22T14:42:59.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI is well positioned to fast-follow Jev",
-     "link": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-     "publisher": "arcturus-labs.com",
-     "publisherDomain": "arcturus-labs.com",
-     "kind": "discussion",
-     "date": "2026-09-22T14:42:59.000Z",
-     "points": 296,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "anthropic-anthropic-releases-opus-with",
-   "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 46.750913913135555,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T16:30:07.000Z",
-   "latestAt": "2026-09-22T16:30:07.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-     "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-22T16:30:07.000Z",
-     "points": null,
-     "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\""
-    }
-   ]
-  },
-  {
    "id": "hugging-face-openai-unexamined-cause-openai-hugging",
    "title": "An unexamined cause of the OpenAI Hugging Face hacking incident: its binary performance metric",
    "category": {
@@ -748,7 +1207,7 @@
      "kind": "org"
     }
    ],
-   "rank": 44.45396853001042,
+   "rank": 30.64068679516412,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -776,7 +1235,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 43.607155087338434,
+   "rank": 30.057005600237048,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -797,40 +1256,6 @@
    ]
   },
   {
-   "id": "funding-snorkel-triples-valuation-demand",
-   "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    }
-   ],
-   "rank": 39.52407062772989,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T21:56:43.000Z",
-   "latestAt": "2026-09-22T21:56:43.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-     "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-22T21:56:43.000Z",
-     "points": null,
-     "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
-    }
-   ]
-  },
-  {
    "id": "safety-higher-quality-small-synthetic",
    "title": "Higher Quality Small Synthetic Natural Language Text Generation for Interpretability Research",
    "category": {
@@ -844,7 +1269,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 38.71244036243905,
+   "rank": 26.6832366028511,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -872,7 +1297,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 38.16541675366194,
+   "rank": 26.306190871719476,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -893,68 +1318,6 @@
    ]
   },
   {
-   "id": "hacking-group-shinyhunters-claims",
-   "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [],
-   "rank": 37.80922210690846,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T18:40:30.000Z",
-   "latestAt": "2026-09-22T18:40:30.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
-     "link": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-22T18:40:30.000Z",
-     "points": null,
-     "summary": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government."
-    }
-   ]
-  },
-  {
-   "id": "openai-openai-solve-wrong-navier",
-   "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 37.513505279160334,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-22T18:22:57.000Z",
-   "latestAt": "2026-09-22T18:22:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
-     "link": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
-     "publisher": "scientificamerican.com",
-     "publisherDomain": "scientificamerican.com",
-     "kind": "discussion",
-     "date": "2026-09-22T18:22:57.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "microsoft-microsoft-disrupts-assisted-platform",
    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
    "category": {
@@ -968,7 +1331,7 @@
      "kind": "org"
     }
    ],
-   "rank": 37.373426519975176,
+   "rank": 25.76029754660852,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -996,7 +1359,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 36.22087756931819,
+   "rank": 24.96588272649331,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1024,7 +1387,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.10085624061894,
+   "rank": 24.193888147125005,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1045,30 +1408,36 @@
    ]
   },
   {
-   "id": "qualcomm-launches-smartphone-chips",
-   "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+   "id": "agents-rabbit-back-this-time",
+   "title": "Rabbit Is Back, This Time With an AI Agent App",
    "category": {
-    "id": "general",
-    "name": "Other"
+    "id": "tools",
+    "name": "Tools & Products"
    },
-   "entities": [],
-   "rank": 34.5384600982489,
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 21.650113437000194,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-22T20:00:00.000Z",
-   "latestAt": "2026-09-22T20:00:00.000Z",
+   "publishedAt": "2026-09-22T16:00:00.000Z",
+   "latestAt": "2026-09-22T16:00:00.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-     "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
+     "title": "Rabbit Is Back, This Time With an AI Agent App",
+     "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
      "kind": "coverage",
-     "date": "2026-09-22T20:00:00.000Z",
+     "date": "2026-09-22T16:00:00.000Z",
      "points": null,
-     "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
+     "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already…"
     }
    ]
   },
@@ -1080,7 +1449,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 31.202953904490016,
+   "rank": 21.507189780502554,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1114,7 +1483,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 31.08355966998598,
+   "rank": 21.424895185316597,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1148,7 +1517,7 @@
      "kind": "org"
     }
    ],
-   "rank": 30.74243710926276,
+   "rank": 21.189770405965824,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1176,7 +1545,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 30.61424661111663,
+   "rank": 21.101412829945144,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1210,7 +1579,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 29.309676736365486,
+   "rank": 20.202214889773135,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1231,34 +1600,6 @@
    ]
   },
   {
-   "id": "artificial-immigrants",
-   "title": "AI: artificial immigrants",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 29.224658050354865,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T22:44:08.000Z",
-   "latestAt": "2026-09-22T22:44:08.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI: artificial immigrants",
-     "link": "https://www.lesswrong.com/posts/Xzr9G5Atvyp7PEna7/ai-artificial-immigrants",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-22T22:44:08.000Z",
-     "points": null,
-     "summary": "Advanced AI is basically the embodiment of immigration as envisioned in the conservative nightmare: We are letting a bunch of new agents into our society They…"
-    }
-   ]
-  },
-  {
    "id": "gpt-parallel-research-time-cost",
    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
    "category": {
@@ -1272,7 +1613,7 @@
      "kind": "model"
     }
    ],
-   "rank": 25.788276994343,
+   "rank": 17.77502761844906,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1297,68 +1638,6 @@
    ]
   },
   {
-   "id": "safety-five-safety-sessions-every",
-   "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 24.422379347212786,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T15:00:00.000Z",
-   "latestAt": "2026-09-22T15:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-     "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-22T15:00:00.000Z",
-     "points": null,
-     "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and…"
-    }
-   ]
-  },
-  {
-   "id": "astroforge-putting-command-next",
-   "title": "AstroForge is putting AI in command of its next spacecraft",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 24.422379347212786,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T15:00:00.000Z",
-   "latestAt": "2026-09-22T15:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AstroForge is putting AI in command of its next spacecraft",
-     "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-22T15:00:00.000Z",
-     "points": null,
-     "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe."
-    }
-   ]
-  },
-  {
    "id": "dyson-most-overengineered-gadget",
    "title": "Dyson’s most overengineered gadget may have a waterproofing problem",
    "category": {
@@ -1366,7 +1645,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 24.303291706338292,
+   "rank": 16.751475152611004,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1405,7 +1684,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 22.616947871782752,
+   "rank": 15.58913273477513,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1439,7 +1718,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 22.41482413426146,
+   "rank": 15.449815361320008,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1467,7 +1746,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.260916097747717,
+   "rank": 14.654463767156454,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1495,7 +1774,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.260916097747717,
+   "rank": 14.654463767156454,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1523,7 +1802,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.07101419718202,
+   "rank": 14.523570511740758,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1551,7 +1830,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.367364596684176,
+   "rank": 14.038567535958252,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1579,7 +1858,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.54333152848515,
+   "rank": 13.470588118451369,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1607,7 +1886,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.878228131606047,
+   "rank": 12.322886049267307,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1635,7 +1914,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.26923004912445,
+   "rank": 11.903123312188454,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1663,7 +1942,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 17.26923004912445,
+   "rank": 11.903123312188454,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1691,7 +1970,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.680976677009895,
+   "rank": 11.497659234915066,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1712,34 +1991,6 @@
    ]
   },
   {
-   "id": "with-your-privacy-intact",
-   "title": "How to Use AI With Your Privacy Intact",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 16.112761374271912,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T09:00:00.000Z",
-   "latestAt": "2026-09-22T09:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How to Use AI With Your Privacy Intact",
-     "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-22T09:00:00.000Z",
-     "points": null,
-     "summary": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself."
-    }
-   ]
-  },
-  {
    "id": "agents-group-consolidates-alipay-operations",
    "title": "Ant Group consolidates Alipay operations in big bet on AI ‘agentic commerce’",
    "category": {
@@ -1753,7 +2004,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 12.712654994398129,
+   "rank": 8.762423083900101,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1787,7 +2038,7 @@
      "kind": "org"
     }
    ],
-   "rank": 12.42846069104252,
+   "rank": 8.566537116324218,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1821,7 +2072,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 11.915768733895868,
+   "rank": 8.213155085410031,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1853,7 +2104,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.224999531930893,
+   "rank": 7.737030152922495,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1891,7 +2142,7 @@
      "kind": "model"
     }
    ],
-   "rank": 9.929807278246557,
+   "rank": 6.8442959045083605,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1929,7 +2180,7 @@
      "kind": "org"
     }
    ],
-   "rank": 9.929807278246557,
+   "rank": 6.8442959045083605,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1961,7 +2212,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.772460294319183,
+   "rank": 6.735841703182609,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1989,7 +2240,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.662446255514391,
+   "rank": 6.6600125743656164,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2017,7 +2268,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.292425078269982,
+   "rank": 6.404968910674042,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2038,40 +2289,6 @@
    ]
   },
   {
-   "id": "meta-ai-muse-meta-extraordinarily-privileged",
-   "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 8.507238707559436,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T22:24:38.000Z",
-   "latestAt": "2026-09-21T22:24:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-     "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-21T22:24:38.000Z",
-     "points": null,
-     "summary": "A simple ClickFix attack is only one way to completely hijack the new agent."
-    }
-   ]
-  },
-  {
    "id": "china-mlcc-market-splits",
    "title": "China’s MLCC market splits in 2 as AI server demand outpaces consumer electronics",
    "category": {
@@ -2079,7 +2296,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.206359668640717,
+   "rank": 5.656379051187222,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2118,7 +2335,7 @@
      "kind": "model"
     }
    ],
-   "rank": 7.578273594531696,
+   "rank": 5.223459577098278,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2146,7 +2363,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.317903516526932,
+   "rank": 3.6654593829300435,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2167,44 +2384,6 @@
    ]
   },
   {
-   "id": "gpt-higgsfield-ships-video-features",
-   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 4.8859648327605845,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T12:00:00.000Z",
-   "latestAt": "2026-09-21T12:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra"
-   },
-   "sources": [
-    {
-     "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-     "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-21T12:00:00.000Z",
-     "points": null,
-     "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
-    }
-   ]
-  },
-  {
    "id": "advisory-group-mathematics-artificial",
    "title": "Advisory Group on Mathematics and Artificial Intelligence",
    "category": {
@@ -2212,7 +2391,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.8859648327605845,
+   "rank": 3.367737978932888,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2237,6 +2416,44 @@
    ]
   },
   {
+   "id": "gpt-higgsfield-ships-video-features",
+   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 3.367737978932888,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T12:00:00.000Z",
+   "latestAt": "2026-09-21T12:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra"
+   },
+   "sources": [
+    {
+     "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+     "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-21T12:00:00.000Z",
+     "points": null,
+     "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
+    }
+   ]
+  },
+  {
    "id": "pruning-llms-like-physicist",
    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
    "category": {
@@ -2244,7 +2461,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.877167414375809,
+   "rank": 3.3616742021712724,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2276,7 +2493,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.792105381319319,
+   "rank": 3.303043686173935,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2301,44 +2518,6 @@
    ]
   },
   {
-   "id": "openai-expanding-openai-academy-with",
-   "title": "Expanding OpenAI Academy with new learning paths",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 4.664113468943407,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T07:00:00.000Z",
-   "latestAt": "2026-09-21T07:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-    "title": "Expanding OpenAI Academy with new learning paths"
-   },
-   "sources": [
-    {
-     "title": "Expanding OpenAI Academy with new learning paths",
-     "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-21T07:00:00.000Z",
-     "points": null,
-     "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
-    }
-   ]
-  },
-  {
    "id": "building-standards-next-phase",
    "title": "Building standards for the next phase of AI",
    "category": {
@@ -2346,7 +2525,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.2534794374047795,
+   "rank": 2.931786194593775,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2384,7 +2563,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.827370321198138,
+   "rank": 2.638082923502519,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2418,7 +2597,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.4492864442734357,
+   "rank": 2.377481900956457,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2452,7 +2631,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.0036456186456197,
+   "rank": 2.0703160524904844,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2480,7 +2659,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.906250486829028,
+   "rank": 2.0031847292802483,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2514,7 +2693,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.5520876624428674,
+   "rank": 1.7590717167562664,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2546,7 +2725,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.5253658145195326,
+   "rank": 1.7406532088056381,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2574,7 +2753,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.8813466742367293,
+   "rank": 1.2967515860703245,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2606,7 +2785,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.7861503155232052,
+   "rank": 1.2311358062460314,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2634,7 +2813,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6069897274353429,
+   "rank": 1.107646191096563,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2668,7 +2847,7 @@
      "kind": "product"
     }
    ],
-   "rank": 1.530820526578821,
+   "rank": 1.055145217526406,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2696,7 +2875,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4244062851928356,
+   "rank": 0.9817973129708933,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2713,34 +2892,6 @@
      "date": "2026-09-20T19:22:19.000Z",
      "points": null,
      "summary": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from…"
-    }
-   ]
-  },
-  {
-   "id": "chinese-firm-faces-reputation",
-   "title": "Chinese AI firm Z.ai faces reputation hit after users spot unauthorised uploads",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7251650375085643,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-20T13:00:09.000Z",
-   "latestAt": "2026-09-20T13:00:09.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Chinese AI firm Z.ai faces reputation hit after users spot unauthorised uploads",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3368159/chinese-ai-firm-zai-faces-reputation-hit-after-users-spot-unauthorised-uploads?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-20T13:00:09.000Z",
-     "points": null,
-     "summary": "Chinese artificial intelligence company Z.ai is facing a trust crisis after developers discovered that its coding assistant tool, ZCode, was silently uploading local workspace data to…"
     }
    ]
   }
