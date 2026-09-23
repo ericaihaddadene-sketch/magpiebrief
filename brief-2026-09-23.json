@@ -1,50 +1,12 @@
 {
  "date": "2026-09-23",
- "generated": "2026-09-23T16:42:21.258Z",
- "headline": "90 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2695 items read · 90 on-topic · 90 distinct developments · 20 with a primary source · 0 independently corroborated",
+ "generated": "2026-09-23T20:08:30.156Z",
+ "headline": "102 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2698 items read · 102 on-topic · 102 distinct developments · 26 with a primary source · 0 independently corroborated",
  "events": [
   {
-   "id": "gemini-gemini-text-speech-says",
-   "title": "Gemini 3.8 text-to-speech says hello",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 198.75163336382786,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T15:29:23.000Z",
-   "latestAt": "2026-09-23T15:29:23.000Z",
-   "primary": {
-    "publisher": "Google",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-    "title": "Gemini 3.8 text-to-speech says hello"
-   },
-   "sources": [
-    {
-     "title": "Gemini 3.8 text-to-speech says hello",
-     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-     "publisher": "Google",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-09-23T15:29:23.000Z",
-     "points": 37,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "claude-claude-code-reads-agents",
-   "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+   "id": "claude-made-claude-faster-weeks",
+   "title": "How we made claude.ai 3x faster in two weeks",
    "category": {
     "id": "models",
     "name": "Models"
@@ -56,22 +18,60 @@
      "kind": "model"
     }
    ],
-   "rank": 191.77020074948655,
+   "rank": 202.7494033889512,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-09-23T12:15:33.000Z",
-   "latestAt": "2026-09-23T12:15:33.000Z",
+   "publishedAt": "2026-09-23T19:23:40.000Z",
+   "latestAt": "2026-09-23T19:23:40.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-     "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-     "publisher": "blog.szypowi.cz",
-     "publisherDomain": "blog.szypowi.cz",
+     "title": "How we made claude.ai 3x faster in two weeks",
+     "link": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+     "publisher": "claude.dev",
+     "publisherDomain": "claude.dev",
      "kind": "discussion",
-     "date": "2026-09-23T12:15:33.000Z",
-     "points": 351,
+     "date": "2026-09-23T19:23:40.000Z",
+     "points": 42,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "claude-claude-discovers-novel-enzyme",
+   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 188.96927457023475,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T18:06:47.000Z",
+   "latestAt": "2026-09-23T18:06:47.000Z",
+   "primary": {
+    "publisher": "Anthropic",
+    "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats"
+   },
+   "sources": [
+    {
+     "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+     "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+     "publisher": "Anthropic",
+     "publisherDomain": "anthropic.com",
+     "kind": "primary",
+     "date": "2026-09-23T18:06:47.000Z",
+     "points": 177,
      "summary": ""
     }
    ]
@@ -90,7 +90,7 @@
      "kind": "org"
     }
    ],
-   "rank": 167.1198513031259,
+   "rank": 131.70423646078163,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -115,6 +115,256 @@
    ]
   },
   {
+   "id": "anthropic-anthropic-biolab-made-discovery",
+   "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 129.3063587766157,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T18:00:00.000Z",
+   "latestAt": "2026-09-23T18:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-23T18:00:00.000Z",
+     "points": null,
+     "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from…"
+    }
+   ]
+  },
+  {
+   "id": "openai-agents-ringg-agents-resolve-customer",
+   "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 119.77577584992568,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T12:00:00.000Z",
+   "latestAt": "2026-09-23T12:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/ringg",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
+   },
+   "sources": [
+    {
+     "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+     "link": "https://openai.com/index/ringg",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-23T12:00:00.000Z",
+     "points": null,
+     "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
+    }
+   ]
+  },
+  {
+   "id": "gemini-gemini-text-speech",
+   "title": "Gemini 3.8 text-to-speech",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 161.1220927903581,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T15:29:23.000Z",
+   "latestAt": "2026-09-23T15:29:23.000Z",
+   "primary": {
+    "publisher": "Google",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+    "title": "Gemini 3.8 text-to-speech"
+   },
+   "sources": [
+    {
+     "title": "Gemini 3.8 text-to-speech",
+     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+     "publisher": "Google",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-23T15:29:23.000Z",
+     "points": 180,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "claude-claude-code-reads-agents",
+   "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 151.13074639966186,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-23T12:15:33.000Z",
+   "latestAt": "2026-09-23T12:15:33.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+     "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+     "publisher": "blog.szypowi.cz",
+     "publisherDomain": "blog.szypowi.cz",
+     "kind": "discussion",
+     "date": "2026-09-23T12:15:33.000Z",
+     "points": 408,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "cloud-agents-inevitable-prisons",
+   "title": "Cloud Agents Are Inevitable AI Prisons",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 145.44398865581226,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-23T18:16:41.000Z",
+   "latestAt": "2026-09-23T18:16:41.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Cloud Agents Are Inevitable AI Prisons",
+     "link": "https://normanponte.io/19df691f",
+     "publisher": "normanponte.io",
+     "publisherDomain": "normanponte.io",
+     "kind": "discussion",
+     "date": "2026-09-23T18:16:41.000Z",
+     "points": 28,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-agents-meta-agent-cute-little",
+   "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 110.86969909917885,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T19:00:00.000Z",
+   "latestAt": "2026-09-23T19:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-23T19:00:00.000Z",
+     "points": null,
+     "summary": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own…"
+    }
+   ]
+  },
+  {
+   "id": "agents-agents-teamed-cheat-blackjack",
+   "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 107.09307013686308,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T18:30:00.000Z",
+   "latestAt": "2026-09-23T18:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
+     "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-23T18:30:00.000Z",
+     "points": null,
+     "summary": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception."
+    }
+   ]
+  },
+  {
    "id": "openai-openai-extends-cyber-access",
    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
    "category": {
@@ -128,7 +378,7 @@
      "kind": "org"
     }
    ],
-   "rank": 135.74349969966178,
+   "rank": 106.97708167553814,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -153,6 +403,149 @@
    ]
   },
   {
+   "id": "youtube-promises-custom-feeds",
+   "title": "YouTube promises custom feeds and a lot more AI later this year",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 105.93209811282892,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T19:35:53.000Z",
+   "latestAt": "2026-09-23T19:35:53.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "YouTube promises custom feeds and a lot more AI later this year",
+     "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-23T19:35:53.000Z",
+     "points": null,
+     "summary": "YouTube's next year could change the content you see with a big focus on AI and live streams."
+    }
+   ]
+  },
+  {
+   "id": "nvidia-robotics-nvidia-warp-mjwarp-accelerate",
+   "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
+    },
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 104.02346702735096,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T18:41:40.000Z",
+   "latestAt": "2026-09-23T18:41:40.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows"
+   },
+   "sources": [
+    {
+     "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+     "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-09-23T18:41:40.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "google-google-beam-expands-with",
+   "title": "Google Beam expands with new regions, partners, and customers",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 103.44508702129254,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T18:00:00.000Z",
+   "latestAt": "2026-09-23T18:00:00.000Z",
+   "primary": {
+    "publisher": "Google AI",
+    "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+    "title": "Google Beam expands with new regions, partners, and customers"
+   },
+   "sources": [
+    {
+     "title": "Google Beam expands with new regions, partners, and customers",
+     "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-23T18:00:00.000Z",
+     "points": null,
+     "summary": "Google Beam promotional animation"
+    }
+   ]
+  },
+  {
+   "id": "gpt-astra-gained-ability-drive",
+   "title": "GPT-6 Astra has gained the ability to drive a car",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 103.22755067821312,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-23T15:14:22.000Z",
+   "latestAt": "2026-09-23T15:14:22.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "GPT-6 Astra has gained the ability to drive a car",
+     "link": "https://drivingbench.com/",
+     "publisher": "drivingbench.com",
+     "publisherDomain": "drivingbench.com",
+     "kind": "discussion",
+     "date": "2026-09-23T15:14:22.000Z",
+     "points": 228,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "advancing-private-compute-with",
    "title": "Advancing Private AI Compute with secure, server-side memory",
    "category": {
@@ -160,7 +553,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 123.92841717560088,
+   "rank": 97.66582146067546,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -185,36 +578,125 @@
    ]
   },
   {
-   "id": "gpt-astra-gained-ability-drive",
-   "title": "GPT-6 Astra has gained the ability to drive a car",
+   "id": "gpt-agents-chatgpt-mobile-gets-voice",
+   "title": "ChatGPT mobile app gets voice-based agentic features",
    "category": {
-    "id": "models",
-    "name": "Models"
+    "id": "tools",
+    "name": "Tools & Products"
    },
    "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
     {
      "id": "gpt",
      "name": "GPT",
      "kind": "model"
     }
    ],
-   "rank": 130.98570997650424,
+   "rank": 96.51767900326195,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-23T15:14:22.000Z",
-   "latestAt": "2026-09-23T15:14:22.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T17:00:00.000Z",
+   "latestAt": "2026-09-23T17:00:00.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "GPT-6 Astra has gained the ability to drive a car",
-     "link": "https://drivingbench.com/",
-     "publisher": "drivingbench.com",
-     "publisherDomain": "drivingbench.com",
-     "kind": "discussion",
-     "date": "2026-09-23T15:14:22.000Z",
-     "points": 121,
-     "summary": ""
+     "title": "ChatGPT mobile app gets voice-based agentic features",
+     "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-23T17:00:00.000Z",
+     "points": null,
+     "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks."
+    }
+   ]
+  },
+  {
+   "id": "enveda-secures-311m-bring",
+   "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 95.81179435891636,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T19:31:28.000Z",
+   "latestAt": "2026-09-23T19:31:28.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+     "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-23T19:31:28.000Z",
+     "points": null,
+     "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s."
+    }
+   ]
+  },
+  {
+   "id": "shadow-roots-explained-with",
+   "title": "Shadow roots, explained with live examples",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 94.01949226936348,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T16:37:18.000Z",
+   "latestAt": "2026-09-23T16:37:18.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Shadow roots, explained with live examples",
+     "link": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-23T16:37:18.000Z",
+     "points": null,
+     "summary": "Tool: Shadow roots, explained with live examples Prompt to Fable 5.1 Medium: Build an artifact to explain shadow roots in CSS with interactive examples Tags: css"
+    }
+   ]
+  },
+  {
+   "id": "owners-mourn-spoiled-food",
+   "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 92.62140707627769,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T17:39:39.000Z",
+   "latestAt": "2026-09-23T17:39:39.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+     "link": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-23T17:39:39.000Z",
+     "points": null,
+     "summary": "\"So absurd and embarrassing ...\""
     }
    ]
   },
@@ -226,7 +708,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 117.18584510202389,
+   "rank": 92.3521181524938,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -241,8 +723,92 @@
      "publisherDomain": "stripe.dev",
      "kind": "discussion",
      "date": "2026-09-23T13:38:00.000Z",
-     "points": 96,
+     "points": 142,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "pope-worried-about-cartel",
+   "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 86.50351862331173,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T18:03:00.000Z",
+   "latestAt": "2026-09-23T18:03:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
+     "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-23T18:03:00.000Z",
+     "points": null,
+     "summary": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the…"
+    }
+   ]
+  },
+  {
+   "id": "cybersecurity-model-breaking",
+   "title": "The old cybersecurity model is breaking",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 84.62874110541362,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T17:44:02.000Z",
+   "latestAt": "2026-09-23T17:44:02.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The old cybersecurity model is breaking",
+     "link": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-23T17:44:02.000Z",
+     "points": null,
+     "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive…"
+    }
+   ]
+  },
+  {
+   "id": "even-americans-every-worried",
+   "title": "Even Americans who use AI every day are worried about it",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 79.50450412309571,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T16:49:58.000Z",
+   "latestAt": "2026-09-23T16:49:58.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Even Americans who use AI every day are worried about it",
+     "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-23T16:49:58.000Z",
+     "points": null,
+     "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation."
     }
    ]
   },
@@ -254,7 +820,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 98.69479760293713,
+   "rank": 77.77964652068286,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -288,7 +854,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 95.40116241756338,
+   "rank": 75.18399014660433,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -313,6 +879,82 @@
    ]
   },
   {
+   "id": "gpt-harvey-turns-legal-context",
+   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 73.9356641048924,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T12:00:00.000Z",
+   "latestAt": "2026-09-23T12:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra"
+   },
+   "sources": [
+    {
+     "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+     "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-23T12:00:00.000Z",
+     "points": null,
+     "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
+    }
+   ]
+  },
+  {
+   "id": "gpt-invideo-improves-color-grading",
+   "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 73.9356641048924,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T12:00:00.000Z",
+   "latestAt": "2026-09-23T12:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra"
+   },
+   "sources": [
+    {
+     "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+     "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-23T12:00:00.000Z",
+     "points": null,
+     "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
+    }
+   ]
+  },
+  {
    "id": "youtube-music-gets-more",
    "title": "YouTube Music gets more conversational with new AI features",
    "category": {
@@ -320,7 +962,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 90.87227379339336,
+   "rank": 71.61485210817742,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -354,7 +996,7 @@
      "kind": "org"
     }
    ],
-   "rank": 90.73996787454303,
+   "rank": 71.51058412394006,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -375,44 +1017,6 @@
    ]
   },
   {
-   "id": "nvidia-know-spoke-when-build",
-   "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 90.7146243643187,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T13:17:01.000Z",
-   "latestAt": "2026-09-23T13:17:01.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-    "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**"
-   },
-   "sources": [
-    {
-     "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-     "link": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-09-23T13:17:01.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "welcomes-david-siegel-next",
    "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
    "category": {
@@ -420,7 +1024,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 87.38221018535448,
+   "rank": 68.86439392435231,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -441,6 +1045,34 @@
    ]
   },
   {
+   "id": "youtube-building-creator-tools",
+   "title": "YouTube is building AI creator tools that do almost everything for them",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 67.6344752353764,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T14:30:00.000Z",
+   "latestAt": "2026-09-23T14:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "YouTube is building AI creator tools that do almost everything for them",
+     "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-23T14:30:00.000Z",
+     "points": null,
+     "summary": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or…"
+    }
+   ]
+  },
+  {
    "id": "youtube-will-build-your",
    "title": "YouTube will let you build your own algorithm with AI",
    "category": {
@@ -448,7 +1080,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 85.82156313298881,
+   "rank": 67.6344752353764,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -476,7 +1108,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 85.82156313298881,
+   "rank": 67.6344752353764,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -497,34 +1129,6 @@
    ]
   },
   {
-   "id": "youtube-building-creator-tools",
-   "title": "YouTube is building AI creator tools that do almost everything for them",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 85.82156313298881,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T14:30:00.000Z",
-   "latestAt": "2026-09-23T14:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "YouTube is building AI creator tools that do almost everything for them",
-     "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-23T14:30:00.000Z",
-     "points": null,
-     "summary": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or…"
-    }
-   ]
-  },
-  {
    "id": "pacing-problem-fears-overcome",
    "title": "Pacing problem: can AI fears overcome US-China race dynamics and force a slowdown?",
    "category": {
@@ -532,7 +1136,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 84.41540280624359,
+   "rank": 66.52630483711829,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -553,6 +1157,38 @@
    ]
   },
   {
+   "id": "introducing-mentalhealthbench",
+   "title": "Introducing MentalHealthBench",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 64.36473403418711,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T10:00:00.000Z",
+   "latestAt": "2026-09-23T10:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/introducing-mentalhealthbench",
+    "title": "Introducing MentalHealthBench"
+   },
+   "sources": [
+    {
+     "title": "Introducing MentalHealthBench",
+     "link": "https://openai.com/index/introducing-mentalhealthbench",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-23T10:00:00.000Z",
+     "points": null,
+     "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations."
+    }
+   ]
+  },
+  {
    "id": "agents-emerging-agent-security",
    "title": "The Emerging M&A Map For AI Agent Security",
    "category": {
@@ -566,7 +1202,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 76.7935484938755,
+   "rank": 60.519654551120915,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -594,7 +1230,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 76.65586473163944,
+   "rank": 60.41114838242253,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -622,7 +1258,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 76.4392084804662,
+   "rank": 60.24040537425966,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -643,36 +1279,30 @@
    ]
   },
   {
-   "id": "funding-raises-starts-eating-into",
-   "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+   "id": "first-american-bill-superintelligent",
+   "title": "The First American Bill to Ban Superintelligent AI Is Here",
    "category": {
-    "id": "business",
-    "name": "Business"
+    "id": "policy",
+    "name": "Policy & Regulation"
    },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    }
-   ],
-   "rank": 72.16704479000065,
+   "entities": [],
+   "rank": 57.6146477560326,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-23T12:00:00.000Z",
-   "latestAt": "2026-09-23T12:00:00.000Z",
+   "publishedAt": "2026-09-23T17:19:57.000Z",
+   "latestAt": "2026-09-23T17:19:57.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-     "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
+     "title": "The First American Bill to Ban Superintelligent AI Is Here",
+     "link": "https://www.lesswrong.com/posts/ZprfxCZthEir5WNev/the-first-american-bill-to-ban-superintelligent-ai-is-here",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
      "kind": "coverage",
-     "date": "2026-09-23T12:00:00.000Z",
+     "date": "2026-09-23T17:19:57.000Z",
      "points": null,
-     "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft."
+     "summary": "Today, Senator Bernie Sanders (I-Vt.) and Representative Greg Casar (D-Texas) introduced the Ban Artificial Superintelligence Act in Congress: the first American bill to propose banning the…"
     }
    ]
   },
@@ -700,7 +1330,7 @@
      "kind": "org"
     }
    ],
-   "rank": 70.98597636907128,
+   "rank": 55.94280837501406,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -728,7 +1358,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 70.75524439399436,
+   "rank": 55.76097253464179,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -756,7 +1386,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 67.82394883510784,
+   "rank": 53.45086969279701,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -795,7 +1425,7 @@
      "kind": "model"
     }
    ],
-   "rank": 65.70164534382599,
+   "rank": 51.778319372306754,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -823,7 +1453,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 63.923224224587806,
+   "rank": 50.37677674413538,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -840,6 +1470,34 @@
      "date": "2026-09-23T10:15:00.000Z",
      "points": null,
      "summary": "The telecom giant is eager to show Wall Street that it can do more with less. That means fewer employees, less electricity, and increased automation."
+    }
+   ]
+  },
+  {
+   "id": "hype-index-loves-cheating",
+   "title": "The AI Hype Index: AI loves cheating",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 48.505493355890756,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T09:00:00.000Z",
+   "latestAt": "2026-09-23T09:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The AI Hype Index: AI loves cheating",
+     "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-09-23T09:00:00.000Z",
+     "points": null,
+     "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next…"
     }
    ]
   },
@@ -862,7 +1520,7 @@
      "kind": "org"
     }
    ],
-   "rank": 58.52010169787713,
+   "rank": 46.118670233534566,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -890,7 +1548,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 58.41717693798925,
+   "rank": 46.03755702760335,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -924,7 +1582,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 55.26132296818654,
+   "rank": 43.550483623494735,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -958,7 +1616,7 @@
      "kind": "org"
     }
    ],
-   "rank": 55.1289914604161,
+   "rank": 43.4461954730763,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -979,34 +1637,6 @@
      "date": "2026-09-23T00:00:00.000Z",
      "points": null,
      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
-    }
-   ]
-  },
-  {
-   "id": "already-fighting-yesterday-battle",
-   "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 44.37957137357086,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T04:59:08.000Z",
-   "latestAt": "2026-09-23T04:59:08.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-     "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-23T04:59:08.000Z",
-     "points": null,
-     "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no…"
     }
    ]
   },
@@ -1034,7 +1664,7 @@
      "kind": "model"
     }
    ],
-   "rank": 40.90119715443109,
+   "rank": 32.23351923515911,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1062,7 +1692,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 38.05436163498309,
+   "rank": 29.989977875501864,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1083,40 +1713,6 @@
    ]
   },
   {
-   "id": "safety-workspacebench-evaluating-interpretability-methods",
-   "title": "WorkspaceBench: Evaluating Interpretability Methods for the Global Workspace",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 35.67893521854794,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T06:58:59.000Z",
-   "latestAt": "2026-09-23T06:58:59.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "WorkspaceBench: Evaluating Interpretability Methods for the Global Workspace",
-     "link": "https://www.lesswrong.com/posts/Zeg2JztbdhguL48uH/workspacebench-evaluating-interpretability-methods-for-the",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-23T06:58:59.000Z",
-     "points": null,
-     "summary": "TL;DR We introduce WorkspaceBench, a set of evaluations for how well an activation-to-text tool can read the contents of the “global workspace” of a model, i.e…"
-    }
-   ]
-  },
-  {
    "id": "anthropic-anthropic",
    "title": "llm-anthropic 0.29",
    "category": {
@@ -1130,7 +1726,7 @@
      "kind": "org"
     }
    ],
-   "rank": 35.41101497603883,
+   "rank": 27.906802533358054,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1164,7 +1760,7 @@
      "kind": "model"
     }
    ],
-   "rank": 33.169374386981794,
+   "rank": 26.14020473005011,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1189,107 +1785,6 @@
    ]
   },
   {
-   "id": "hugging-face-openai-unexamined-cause-openai-hugging",
-   "title": "An unexamined cause of the OpenAI Hugging Face hacking incident: its binary performance metric",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [
-    {
-     "id": "hugging-face",
-     "name": "Hugging Face",
-     "kind": "org"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 30.64068679516412,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T00:27:26.000Z",
-   "latestAt": "2026-09-23T00:27:26.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "An unexamined cause of the OpenAI Hugging Face hacking incident: its binary performance metric",
-     "link": "https://www.lesswrong.com/posts/HsijShdRdAg5sPKnF/an-unexamined-cause-of-the-openai-hugging-face-hacking",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-23T00:27:26.000Z",
-     "points": null,
-     "summary": "We argue that a main cause of the OpenAI Hugging Face incident was overlooked: the overly simple evaluation metric in ExploitGym was misaligned. Further, techniques already…"
-    }
-   ]
-  },
-  {
-   "id": "techcrunch-founder-summit-agenda",
-   "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 30.057005600237048,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T23:21:49.000Z",
-   "latestAt": "2026-09-22T23:21:49.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-     "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-22T23:21:49.000Z",
-     "points": null,
-     "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and…"
-    }
-   ]
-  },
-  {
-   "id": "safety-higher-quality-small-synthetic",
-   "title": "Higher Quality Small Synthetic Natural Language Text Generation for Interpretability Research",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 26.6832366028511,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T02:47:30.000Z",
-   "latestAt": "2026-09-23T02:47:30.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Higher Quality Small Synthetic Natural Language Text Generation for Interpretability Research",
-     "link": "https://www.lesswrong.com/posts/nkWuCtzDM3tvREYxC/higher-quality-small-synthetic-natural-language-text",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-23T02:47:30.000Z",
-     "points": null,
-     "summary": "Introduction Small simple synthetic natural language datasets suitable for end-to-end training of tiny LLMs serve as an important resource for LLM interpretability researchers. Some well know…"
-    }
-   ]
-  },
-  {
    "id": "event",
    "title": "llm 0.36",
    "category": {
@@ -1297,7 +1792,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.306190871719476,
+   "rank": 20.731449650868562,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1331,7 +1826,7 @@
      "kind": "org"
     }
    ],
-   "rank": 25.76029754660852,
+   "rank": 20.301240654078786,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1359,7 +1854,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 24.96588272649331,
+   "rank": 19.675176206913694,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1387,7 +1882,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 24.193888147125005,
+   "rank": 19.066780759965,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1421,7 +1916,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 21.650113437000194,
+   "rank": 17.062076331898243,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1449,7 +1944,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.507189780502554,
+   "rank": 16.9494406940346,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1483,7 +1978,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 21.424895185316597,
+   "rank": 16.88458576064816,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1517,7 +2012,7 @@
      "kind": "org"
     }
    ],
-   "rank": 21.189770405965824,
+   "rank": 16.69928802793756,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1545,7 +2040,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.101412829945144,
+   "rank": 16.629654965230827,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1579,7 +2074,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 20.202214889773135,
+   "rank": 15.921012770937265,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1613,7 +2108,7 @@
      "kind": "model"
     }
    ],
-   "rank": 17.77502761844906,
+   "rank": 14.0081888674667,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1645,7 +2140,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.751475152611004,
+   "rank": 13.201545043052109,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1684,7 +2179,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 15.58913273477513,
+   "rank": 12.285523281104856,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1718,7 +2213,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 15.449815361320008,
+   "rank": 12.17572969193185,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1746,7 +2241,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.654463767156454,
+   "rank": 11.548926989497799,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1774,7 +2269,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.654463767156454,
+   "rank": 11.548926989497799,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1802,7 +2297,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.523570511740758,
+   "rank": 11.445772300644458,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1830,7 +2325,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.038567535958252,
+   "rank": 11.063549924855124,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1858,7 +2353,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.470588118451369,
+   "rank": 10.615935264329243,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1886,7 +2381,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.322886049267307,
+   "rank": 9.711451305495572,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1914,7 +2409,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.903123312188454,
+   "rank": 9.38064362256279,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1935,62 +2430,6 @@
    ]
   },
   {
-   "id": "tool-found-malware-that",
-   "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [],
-   "rank": 11.903123312188454,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T10:00:00.000Z",
-   "latestAt": "2026-09-22T10:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
-     "link": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-22T10:00:00.000Z",
-     "points": null,
-     "summary": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something unusual."
-    }
-   ]
-  },
-  {
-   "id": "chatbot-wants-unlock-secrets",
-   "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 11.497659234915066,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T09:30:00.000Z",
-   "latestAt": "2026-09-22T09:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
-     "link": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-22T09:30:00.000Z",
-     "points": null,
-     "summary": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments."
-    }
-   ]
-  },
-  {
    "id": "agents-group-consolidates-alipay-operations",
    "title": "Ant Group consolidates Alipay operations in big bet on AI ‘agentic commerce’",
    "category": {
@@ -2004,7 +2443,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 8.762423083900101,
+   "rank": 6.9055126175175365,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2038,7 +2477,7 @@
      "kind": "org"
     }
    ],
-   "rank": 8.566537116324218,
+   "rank": 6.751138307154079,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2072,7 +2511,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 8.213155085410031,
+   "rank": 6.472644099568324,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2104,7 +2543,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.737030152922495,
+   "rank": 6.097418354665813,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2142,7 +2581,7 @@
      "kind": "model"
     }
    ],
-   "rank": 6.8442959045083605,
+   "rank": 5.393870082973604,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2180,7 +2619,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.8442959045083605,
+   "rank": 5.393870082973604,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2212,7 +2651,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.735841703182609,
+   "rank": 5.308399220803773,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2240,7 +2679,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.6600125743656164,
+   "rank": 5.248639608558708,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2268,7 +2707,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.404968910674042,
+   "rank": 5.047644150935108,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2296,7 +2735,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.656379051187222,
+   "rank": 4.457693555017179,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2335,7 +2774,7 @@
      "kind": "model"
     }
    ],
-   "rank": 5.223459577098278,
+   "rank": 4.1165172773979,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2363,7 +2802,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.6654593829300435,
+   "rank": 2.888684531146298,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2384,38 +2823,6 @@
    ]
   },
   {
-   "id": "advisory-group-mathematics-artificial",
-   "title": "Advisory Group on Mathematics and Artificial Intelligence",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 3.367737978932888,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T12:00:00.000Z",
-   "latestAt": "2026-09-21T12:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "title": "Advisory Group on Mathematics and Artificial Intelligence"
-   },
-   "sources": [
-    {
-     "title": "Advisory Group on Mathematics and Artificial Intelligence",
-     "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-21T12:00:00.000Z",
-     "points": null,
-     "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
-    }
-   ]
-  },
-  {
    "id": "gpt-higgsfield-ships-video-features",
    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
    "category": {
@@ -2429,7 +2836,7 @@
      "kind": "model"
     }
    ],
-   "rank": 3.367737978932888,
+   "rank": 2.6540554916532253,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2454,6 +2861,38 @@
    ]
   },
   {
+   "id": "advisory-group-mathematics-artificial",
+   "title": "Advisory Group on Mathematics and Artificial Intelligence",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 2.6540554916532253,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-21T12:00:00.000Z",
+   "latestAt": "2026-09-21T12:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence"
+   },
+   "sources": [
+    {
+     "title": "Advisory Group on Mathematics and Artificial Intelligence",
+     "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-21T12:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
+    }
+   ]
+  },
+  {
    "id": "pruning-llms-like-physicist",
    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
    "category": {
@@ -2461,7 +2900,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.3616742021712724,
+   "rank": 2.649276735076853,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2493,7 +2932,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.303043686173935,
+   "rank": 2.603071049262037,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2525,7 +2964,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.931786194593775,
+   "rank": 2.310489503277888,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2563,7 +3002,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.638082923502519,
+   "rank": 2.079027084160809,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2597,7 +3036,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.377481900956457,
+   "rank": 1.8736519690700617,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2631,7 +3070,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.0703160524904844,
+   "rank": 1.6315799278159038,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2659,7 +3098,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0031847292802483,
+   "rank": 1.5786749042830053,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2693,7 +3132,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.7590717167562664,
+   "rank": 1.3862937019667327,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2725,7 +3164,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.7406532088056381,
+   "rank": 1.3717783974863311,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2753,7 +3192,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2967515860703245,
+   "rank": 1.0219472802959888,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2785,7 +3224,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2311358062460314,
+   "rank": 0.9702366300401885,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2813,7 +3252,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.107646191096563,
+   "rank": 0.8729166207936732,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2847,7 +3286,7 @@
      "kind": "product"
     }
    ],
-   "rank": 1.055145217526406,
+   "rank": 0.8315415203278216,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2864,34 +3303,6 @@
      "date": "2026-09-20T20:24:41.000Z",
      "points": null,
      "summary": "My comment on MCP was always a bad idea? — Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no…"
-    }
-   ]
-  },
-  {
-   "id": "keys",
-   "title": "llm-keys-ui 0.1",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9817973129708933,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-20T19:22:19.000Z",
-   "latestAt": "2026-09-20T19:22:19.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "llm-keys-ui 0.1",
-     "link": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-20T19:22:19.000Z",
-     "points": null,
-     "summary": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from…"
     }
    ]
   }
