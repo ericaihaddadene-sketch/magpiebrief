@@ -1,12 +1,12 @@
 {
  "date": "2026-09-24",
- "generated": "2026-09-24T14:51:54.057Z",
- "headline": "109 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2702 items read · 111 on-topic · 109 distinct developments · 25 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-24T18:59:07.507Z",
+ "headline": "100 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2702 items read · 103 on-topic · 100 distinct developments · 24 with a primary source · 3 independently corroborated",
  "events": [
   {
-   "id": "openai-openai-agents-hacked-australian",
-   "title": "OpenAI agents hacked an Australian government website in search for data",
+   "id": "openai-openai-agent-didn-accept",
+   "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
    "category": {
     "id": "security",
     "name": "Security"
@@ -18,38 +18,120 @@
      "kind": "org"
     }
    ],
-   "rank": 202.7890882187865,
+   "rank": 171.2204409480471,
    "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T11:52:32.000Z",
-   "latestAt": "2026-09-24T11:52:32.000Z",
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-24T10:46:56.000Z",
+   "latestAt": "2026-09-24T16:01:16.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "OpenAI agents hacked an Australian government website in search for data",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
+     "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+     "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
      "kind": "coverage",
-     "date": "2026-09-24T11:52:32.000Z",
+     "date": "2026-09-24T16:01:16.000Z",
      "points": null,
-     "summary": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first…"
+     "summary": "\"There will obviously be legal consequences,\" prime minister promises."
+    },
+    {
+     "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+     "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-24T10:46:56.000Z",
+     "points": null,
+     "summary": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law."
     }
    ]
   },
   {
-   "id": "gpt-gemini-hackers-influence-chatgpt-gemini",
-   "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+   "id": "gemini-introducing-gemini-live-with",
+   "title": "Introducing Gemini 3.8 Live with Live Avatar",
    "category": {
-    "id": "security",
-    "name": "Security"
+    "id": "models",
+    "name": "New Models"
    },
    "entities": [
     {
-     "id": "gpt",
-     "name": "GPT",
+     "id": "gemini",
+     "name": "Gemini",
      "kind": "model"
+    }
+   ],
+   "rank": 140.72703904258697,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T16:20:39.000Z",
+   "latestAt": "2026-09-24T16:20:39.000Z",
+   "primary": {
+    "publisher": "Google DeepMind",
+    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "title": "Introducing Gemini 3.8 Live with Live Avatar"
+   },
+   "sources": [
+    {
+     "title": "Introducing Gemini 3.8 Live with Live Avatar",
+     "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+     "publisher": "Google DeepMind",
+     "publisherDomain": "deepmind.google",
+     "kind": "primary",
+     "date": "2026-09-24T16:20:39.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "gemini-gemini-call-businesses-have",
+   "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 125.37814582435432,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T16:04:31.000Z",
+   "latestAt": "2026-09-24T16:04:31.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-24T16:04:31.000Z",
+     "points": null,
+     "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product…"
+    }
+   ]
+  },
+  {
+   "id": "google-gemini-google-gemini-make-calls",
+   "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
     },
     {
      "id": "gemini",
@@ -57,22 +139,364 @@
      "kind": "model"
     }
    ],
-   "rank": 153.59384295845695,
+   "rank": 105.69969854317115,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-24T11:54:38.000Z",
-   "latestAt": "2026-09-24T11:54:38.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T16:00:00.000Z",
+   "latestAt": "2026-09-24T16:00:00.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-     "link": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-     "publisher": "medium.com",
-     "publisherDomain": "medium.com",
+     "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+     "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-24T16:00:00.000Z",
+     "points": null,
+     "summary": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning."
+    }
+   ]
+  },
+  {
+   "id": "infrastructure-jersey-fines-data-center",
+   "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "infrastructure",
+     "name": "AI Infrastructure",
+     "kind": "topic"
+    }
+   ],
+   "rank": 105.25637443796612,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T18:20:58.000Z",
+   "latestAt": "2026-09-24T18:20:58.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+     "link": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-24T18:20:58.000Z",
+     "points": null,
+     "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear."
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-agents-sinister-that-meta-muse",
+   "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    },
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 102.82895049081168,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-24T01:13:32.000Z",
+   "latestAt": "2026-09-24T17:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
+     "link": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-24T17:00:00.000Z",
+     "points": null,
+     "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going…"
+    },
+    {
+     "title": "Everything new coming to Meta’s AI agent Muse",
+     "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-24T01:13:32.000Z",
+     "points": null,
+     "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going…"
+    }
+   ]
+  },
+  {
+   "id": "robotics-meet-feather-startup-building",
+   "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
+    }
+   ],
+   "rank": 99.25294816092774,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T18:52:38.000Z",
+   "latestAt": "2026-09-24T18:52:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+     "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-24T18:52:38.000Z",
+     "points": null,
+     "summary": "Feather is betting on a customizable, $30,000 platform built for software developers."
+    }
+   ]
+  },
+  {
+   "id": "infrastructure-oracle-sends-force-majeure",
+   "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "infrastructure",
+     "name": "AI Infrastructure",
+     "kind": "topic"
+    }
+   ],
+   "rank": 94.67236020642397,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T18:11:44.000Z",
+   "latestAt": "2026-09-24T18:11:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+     "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-24T18:11:44.000Z",
+     "points": null,
+     "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online."
+    }
+   ]
+  },
+  {
+   "id": "jensen-huang-talks-about",
+   "title": "Jensen Huang talks about AI and climate change like a supervillain",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 93.90985883338526,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T18:04:44.000Z",
+   "latestAt": "2026-09-24T18:04:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Jensen Huang talks about AI and climate change like a supervillain",
+     "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-24T18:04:44.000Z",
+     "points": null,
+     "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The…"
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-meta-going-build-games",
+   "title": "Meta is going to let you build games with AI right on your phone",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 92.59022908713378,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T17:52:29.000Z",
+   "latestAt": "2026-09-24T17:52:29.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meta is going to let you build games with AI right on your phone",
+     "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-24T17:52:29.000Z",
+     "points": null,
+     "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will…"
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-meta-puts-assistant-keychain",
+   "title": "Meta puts its AI assistant on a keychain",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 92.26181492897348,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T14:03:38.000Z",
+   "latestAt": "2026-09-24T14:03:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meta puts its AI assistant on a keychain",
+     "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-24T14:03:38.000Z",
+     "points": null,
+     "summary": "Meta says the keychain-sized Muse Charm will ship in December."
+    }
+   ]
+  },
+  {
+   "id": "google-infrastructure-google-first-suncatcher-orbital",
+   "title": "Google's first Suncatcher orbital data center test launches October 1",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "infrastructure",
+     "name": "AI Infrastructure",
+     "kind": "topic"
+    },
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 91.16641019967474,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T16:16:34.000Z",
+   "latestAt": "2026-09-24T16:16:34.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google's first Suncatcher orbital data center test launches October 1",
+     "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-24T16:16:34.000Z",
+     "points": null,
+     "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time."
+    }
+   ]
+  },
+  {
+   "id": "ando-wants-take-slack",
+   "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 88.03570769270986,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T14:31:00.000Z",
+   "latestAt": "2026-09-24T14:31:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+     "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-24T14:31:00.000Z",
+     "points": null,
+     "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence."
+    }
+   ]
+  },
+  {
+   "id": "workers-inquiry-2026",
+   "title": "AI Workers' Inquiry 2026",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 82.28846412181151,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-24T17:41:35.000Z",
+   "latestAt": "2026-09-24T17:41:35.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI Workers' Inquiry 2026",
+     "link": "https://techworkersinquiry.org/ai/",
+     "publisher": "techworkersinquiry.org",
+     "publisherDomain": "techworkersinquiry.org",
      "kind": "discussion",
-     "date": "2026-09-24T11:54:38.000Z",
-     "points": 58,
+     "date": "2026-09-24T17:41:35.000Z",
+     "points": null,
      "summary": ""
     }
    ]
@@ -85,7 +509,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 129.13120660954826,
+   "rank": 82.24558645688786,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -110,175 +534,30 @@
    ]
   },
   {
-   "id": "infrastructure-oracle-cites-force-majeure",
-   "title": "Oracle Cites 'Force Majeure' to Shield Itself on Controversial Data Center",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "infrastructure",
-     "name": "AI Infrastructure",
-     "kind": "topic"
-    }
-   ],
-   "rank": 122.78140399802439,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-24T13:04:21.000Z",
-   "latestAt": "2026-09-24T13:04:21.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Oracle Cites 'Force Majeure' to Shield Itself on Controversial Data Center",
-     "link": "https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center",
-     "publisher": "Bloomberg",
-     "publisherDomain": "bloomberg.com",
-     "kind": "discussion",
-     "date": "2026-09-24T13:04:21.000Z",
-     "points": 31,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "meta-ai-meta-puts-assistant-keychain",
-   "title": "Meta puts its AI assistant on a keychain",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 122.76048446777769,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T14:03:38.000Z",
-   "latestAt": "2026-09-24T14:03:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta puts its AI assistant on a keychain",
-     "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-24T14:03:38.000Z",
-     "points": null,
-     "summary": "Meta says the keychain-sized Muse Charm will ship in December."
-    }
-   ]
-  },
-  {
-   "id": "ando-wants-take-slack",
-   "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [],
-   "rank": 117.1373675571046,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T14:31:00.000Z",
-   "latestAt": "2026-09-24T14:31:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-     "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-24T14:31:00.000Z",
-     "points": null,
-     "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures and Emergence."
-    }
-   ]
-  },
-  {
-   "id": "best-every-budget-updated",
-   "title": "Best LLM for every budget, updated daily",
+   "id": "shield-waabi-general-motors",
+   "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 116.14403760957646,
+   "rank": 75.86254302790284,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-24T14:09:57.000Z",
-   "latestAt": "2026-09-24T14:09:57.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T15:00:00.000Z",
+   "latestAt": "2026-09-24T15:00:00.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Best LLM for every budget, updated daily",
-     "link": "https://bestmodelforyourbudget.terrydjony.com/",
-     "publisher": "bestmodelforyourbudget.terrydjony.com",
-     "publisherDomain": "bestmodelforyourbudget.terrydjony.com",
-     "kind": "discussion",
-     "date": "2026-09-24T14:09:57.000Z",
-     "points": 6,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "meta-ai-agents-meta-muse-charms-interact",
-   "title": "Meta’s Muse AI Charms can interact with each other",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    },
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 107.56049325122841,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-24T01:13:32.000Z",
-   "latestAt": "2026-09-24T13:31:43.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta’s Muse AI Charms can interact with each other",
-     "link": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-24T13:31:43.000Z",
-     "points": null,
-     "summary": "Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year. That's…"
-    },
-    {
-     "title": "Everything new coming to Meta’s AI agent Muse",
-     "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+     "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+     "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
      "publisher": "TechCrunch",
      "publisherDomain": "techcrunch.com",
      "kind": "coverage",
-     "date": "2026-09-24T01:13:32.000Z",
+     "date": "2026-09-24T15:00:00.000Z",
      "points": null,
-     "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going…"
+     "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200…"
     }
    ]
   },
@@ -301,7 +580,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 100.26070974977273,
+   "rank": 75.35189428165764,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -329,7 +608,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 97.50176941571567,
+   "rank": 73.27838631527563,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -350,118 +629,6 @@
    ]
   },
   {
-   "id": "google-google-sending-satellite-into",
-   "title": "Google is sending an AI satellite into space next week",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 95.8581184735035,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T14:15:17.000Z",
-   "latestAt": "2026-09-24T14:15:17.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Google is sending an AI satellite into space next week",
-     "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-24T14:15:17.000Z",
-     "points": null,
-     "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New…"
-    }
-   ]
-  },
-  {
-   "id": "meta-ai-meta-takes-down-critical",
-   "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 92.52851052759011,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T23:39:44.000Z",
-   "latestAt": "2026-09-24T08:23:03.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta introduces camera-free AI glasses",
-     "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-23T23:39:44.000Z",
-     "points": null,
-     "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life."
-    },
-    {
-     "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-     "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-     "publisher": "reddit.com",
-     "publisherDomain": "reddit.com",
-     "kind": "discussion",
-     "date": "2026-09-24T08:23:03.000Z",
-     "points": 444,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "agents-early-rogue-agent-activity",
-   "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 89.99179590734556,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-24T05:21:10.000Z",
-   "latestAt": "2026-09-24T05:21:10.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-     "link": "https://transluce.org/agent-activity",
-     "publisher": "transluce.org",
-     "publisherDomain": "transluce.org",
-     "kind": "discussion",
-     "date": "2026-09-24T05:21:10.000Z",
-     "points": 186,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "anthropic-scoop-trump-allies-open",
    "title": "Scoop: Trump allies open new front against Anthropic CEO over AI \"doomerism\"",
    "category": {
@@ -475,7 +642,7 @@
      "kind": "org"
     }
    ],
-   "rank": 88.2805431635438,
+   "rank": 66.3480856278473,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -503,7 +670,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 87.08863104537942,
+   "rank": 65.45229268816932,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -531,7 +698,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 85.9278846476456,
+   "rank": 64.5799226434315,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -552,70 +719,154 @@
    ]
   },
   {
-   "id": "anthropic-anthropic-shares-exciting-result",
-   "title": "Anthropic shares an exciting result in enzyme discovery - and an exercise in public's perception of science and AI",
+   "id": "safety-engineering-sense-accompliment-alignment",
+   "title": "Engineering a sense of accompliment for alignment purposes.",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [
     {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
     }
    ],
-   "rank": 82.13111246210376,
+   "rank": 63.41091644929911,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-24T11:19:16.000Z",
-   "latestAt": "2026-09-24T11:19:16.000Z",
+   "publishedAt": "2026-09-24T17:33:33.000Z",
+   "latestAt": "2026-09-24T17:33:33.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Anthropic shares an exciting result in enzyme discovery - and an exercise in public's perception of science and AI",
-     "link": "https://www.lesswrong.com/posts/nLcnuadR6HtFeJwek/anthropic-shares-an-exciting-result-in-enzyme-discovery-and",
+     "title": "Engineering a sense of accompliment for alignment purposes.",
+     "link": "https://www.lesswrong.com/posts/RJokSnyFGtMXdBc4n/engineering-a-sense-of-accompliment-for-alignment-purposes",
      "publisher": "LessWrong",
      "publisherDomain": "lesswrong.com",
      "kind": "coverage",
-     "date": "2026-09-24T11:19:16.000Z",
+     "date": "2026-09-24T17:33:33.000Z",
      "points": null,
-     "summary": "Disclaimer: I'm not affiliated with Anthropic, these are my own thoughts as a former wet lab chemist currently working in chem-biosecurity and AI evals. I appreciate…"
+     "summary": "Hi, I'm new here and have been doing a deep dive on the whole AI space recently due to the Hugging Face warning shot. But in…"
     }
    ]
   },
   {
-   "id": "apple-combining-machine-learning-homomorphic",
-   "title": "Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem",
+   "id": "abliterated-models-served-cheaply",
+   "title": "Abliterated models are now served cheaply and conveniently via a chat interface - how dangerous are they?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 63.36087850742267,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T17:32:52.000Z",
+   "latestAt": "2026-09-24T17:32:52.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Abliterated models are now served cheaply and conveniently via a chat interface - how dangerous are they?",
+     "link": "https://www.lesswrong.com/posts/BShGBvtxGoaZvCqBk/abliterated-models-are-now-served-cheaply-and-conveniently-1",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-24T17:32:52.000Z",
+     "points": null,
+     "summary": "Accessing uncensored models online is now easier than ever. They are now available through a simple chat interface. The hardware and operational barriers to them are…"
+    }
+   ]
+  },
+  {
+   "id": "five-frontier-llms-fact",
+   "title": "Five frontier LLMs fact-checked the same 1,000 claims. They disagree on 63% of them.",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 63.34868012227783,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T17:32:42.000Z",
+   "latestAt": "2026-09-24T17:32:42.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Five frontier LLMs fact-checked the same 1,000 claims. They disagree on 63% of them.",
+     "link": "https://www.lesswrong.com/posts/C7cdXKL2DL2mnuLTs/five-frontier-llms-fact-checked-the-same-1-000-claims-they",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-24T17:32:42.000Z",
+     "points": null,
+     "summary": "Frontier LLMs often achieve similar results on public benchmarks, which can lead to the belief that they can be used interchangeably to verify facts. We took…"
+    }
+   ]
+  },
+  {
+   "id": "safety-what-against-safety-crash",
+   "title": "What We're Up Against: An AI Safety Crash Course",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [
     {
-     "id": "apple",
-     "name": "Apple",
-     "kind": "org"
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
     }
    ],
-   "rank": 81.65787212288868,
+   "rank": 58.692480114837124,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-24T13:27:42.000Z",
-   "latestAt": "2026-09-24T13:27:42.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T16:26:37.000Z",
+   "latestAt": "2026-09-24T16:26:37.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem",
-     "link": "https://machinelearning.apple.com/research/homomorphic-encryption",
-     "publisher": "machinelearning.apple.com",
-     "publisherDomain": "machinelearning.apple.com",
-     "kind": "discussion",
-     "date": "2026-09-24T13:27:42.000Z",
+     "title": "What We're Up Against: An AI Safety Crash Course",
+     "link": "https://www.lesswrong.com/posts/Qzhp46pHenccF3euy/what-we-re-up-against-an-ai-safety-crash-course",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-24T16:26:37.000Z",
      "points": null,
-     "summary": ""
+     "summary": "Note: This post is for newcomers and lay folks to catch you up to speed. If that is you, welcome! If you are a long-time LessWrong-er…"
+    }
+   ]
+  },
+  {
+   "id": "coming-into-play",
+   "title": "AI #187: Coming Into Play",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 52.55046207529005,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T14:50:56.000Z",
+   "latestAt": "2026-09-24T14:50:56.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI #187: Coming Into Play",
+     "link": "https://www.lesswrong.com/posts/o7pYWzWWwGDePoC5E/ai-187-coming-into-play",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-24T14:50:56.000Z",
+     "points": null,
+     "summary": "Opus 5.5 was released on Tuesday. I covered the system card yesterday, and will cover its capabilities soon. By all reports it is an excellent model…"
     }
    ]
   },
@@ -633,7 +884,7 @@
      "kind": "org"
     }
    ],
-   "rank": 65.52470394294744,
+   "rank": 49.24571725722382,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -654,34 +905,6 @@
    ]
   },
   {
-   "id": "rethinking-credit-recognition-mathematics",
-   "title": "Rethinking Credit and Recognition in Mathematics in the Age of AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 61.57426278823024,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T13:00:53.000Z",
-   "latestAt": "2026-09-24T13:00:53.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Rethinking Credit and Recognition in Mathematics in the Age of AI",
-     "link": "https://www.lesswrong.com/posts/zm5ovfqZ35A8rxZCc/rethinking-credit-and-recognition-in-mathematics-in-the-age",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-24T13:00:53.000Z",
-     "points": null,
-     "summary": "This text follows from some thoughts I have had on the current impact of AI on mathematics and on the reactions I have seen. It is…"
-    }
-   ]
-  },
-  {
    "id": "recurrent-quite-easy-interpret",
    "title": "a recurrent llm is quite easy to interpret but complex to steer",
    "category": {
@@ -689,7 +912,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 60.81899151979995,
+   "rank": 45.70909412824486,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -717,7 +940,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 59.87552242664561,
+   "rank": 45.00002091758431,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -738,172 +961,6 @@
    ]
   },
   {
-   "id": "nvidia-virtio-nvgpu-near-native",
-   "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 55.6142088243619,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T01:02:23.000Z",
-   "latestAt": "2026-09-24T01:02:23.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/nestrilabs/virtio-nvgpu",
-    "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest"
-   },
-   "sources": [
-    {
-     "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-     "link": "https://github.com/nestrilabs/virtio-nvgpu",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-09-24T01:02:23.000Z",
-     "points": 133,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "claude-claude-discovers-novel-enzyme",
-   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "rank": 51.61353189031411,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T18:06:47.000Z",
-   "latestAt": "2026-09-23T18:06:47.000Z",
-   "primary": {
-    "publisher": "Anthropic",
-    "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats"
-   },
-   "sources": [
-    {
-     "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-     "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-     "publisher": "Anthropic",
-     "publisherDomain": "anthropic.com",
-     "kind": "primary",
-     "date": "2026-09-23T18:06:47.000Z",
-     "points": 719,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "vscode-agent-bananas-2025",
-   "title": "VSCode's SSH Agent Is Bananas (2025)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 50.54315442723759,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-23T21:01:48.000Z",
-   "latestAt": "2026-09-23T21:01:48.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "VSCode's SSH Agent Is Bananas (2025)",
-     "link": "https://fly.io/blog/vscode-ssh-wtf/",
-     "publisher": "fly.io",
-     "publisherDomain": "fly.io",
-     "kind": "discussion",
-     "date": "2026-09-23T21:01:48.000Z",
-     "points": 271,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "anthropic-anthropic-says-biology-already",
-   "title": "Anthropic says its biology lab has already found something big",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 47.561940183939335,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T22:17:39.000Z",
-   "latestAt": "2026-09-23T22:17:39.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic says its biology lab has already found something big",
-     "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-23T22:17:39.000Z",
-     "points": null,
-     "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop."
-    }
-   ]
-  },
-  {
-   "id": "mercury-hits-tokens-second",
-   "title": "Mercury 2.5 LLM hits 770 tokens per second",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 45.90577777955298,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-23T22:16:19.000Z",
-   "latestAt": "2026-09-23T22:16:19.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Mercury 2.5 LLM hits 770 tokens per second",
-     "link": "https://artificialanalysis.ai/models/mercury-2-5",
-     "publisher": "artificialanalysis.ai",
-     "publisherDomain": "artificialanalysis.ai",
-     "kind": "discussion",
-     "date": "2026-09-23T22:16:19.000Z",
-     "points": 137,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "promise-peril-using-visual",
    "title": "The promise and peril of using visual AI to study cities",
    "category": {
@@ -911,7 +968,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 44.73573807621925,
+   "rank": 33.62157134678413,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -932,30 +989,80 @@
    ]
   },
   {
-   "id": "automatically-detecting-text-browser",
-   "title": "Automatically detecting AI text in my browser",
+   "id": "show-agentrun-turn-agents",
+   "title": "Show HN: AgentRun: DSL to turn agents into workflows",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 36.000292797612026,
+   "rank": 31.383770666087702,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-24T01:38:45.000Z",
-   "latestAt": "2026-09-24T01:38:45.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T19:42:58.000Z",
+   "latestAt": "2026-09-23T19:42:58.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/Parcha-ai/agentrun",
+    "title": "Show HN: AgentRun: DSL to turn agents into workflows"
+   },
+   "sources": [
+    {
+     "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+     "link": "https://github.com/Parcha-ai/agentrun",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-23T19:42:58.000Z",
+     "points": 15,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-meta-glasses-meta-audio",
+   "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 31.02426035302662,
+   "deltas": [
+    "Now also covered by TechCrunch."
+   ],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-23T23:39:44.000Z",
+   "latestAt": "2026-09-23T23:42:44.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Automatically detecting AI text in my browser",
-     "link": "https://www.seangoedecke.com/deckard/",
-     "publisher": "seangoedecke.com",
-     "publisherDomain": "seangoedecke.com",
-     "kind": "discussion",
-     "date": "2026-09-24T01:38:45.000Z",
+     "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+     "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-23T23:42:44.000Z",
      "points": null,
-     "summary": ""
+     "summary": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses."
+    },
+    {
+     "title": "Meta introduces camera-free AI glasses",
+     "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-23T23:39:44.000Z",
+     "points": null,
+     "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life."
     }
    ]
   },
@@ -973,7 +1080,7 @@
      "kind": "org"
     }
    ],
-   "rank": 35.97262477785239,
+   "rank": 27.03556982650042,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -998,68 +1105,6 @@
    ]
   },
   {
-   "id": "against-export-controls-china",
-   "title": "Against Export Controls (and China Threat Models)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 35.42714552226095,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T05:02:24.000Z",
-   "latestAt": "2026-09-24T05:02:24.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Against Export Controls (and China Threat Models)",
-     "link": "https://www.lesswrong.com/posts/sAcgHzLKRsvZQhtEY/against-export-controls-and-china-threat-models",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-24T05:02:24.000Z",
-     "points": null,
-     "summary": "Introduction In this month’s meetings, I expect China to again downplay safety risks. It could dangle the possibility of safety cooperation in exchange for concessions such…"
-    }
-   ]
-  },
-  {
-   "id": "meta-ai-meta-glasses-meta-audio",
-   "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 34.98291776013451,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T23:42:44.000Z",
-   "latestAt": "2026-09-23T23:42:44.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
-     "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-23T23:42:44.000Z",
-     "points": null,
-     "summary": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses."
-    }
-   ]
-  },
-  {
    "id": "gemini-gemini-playground",
    "title": "Gemini 3.8 TTS Playground",
    "category": {
@@ -1073,7 +1118,7 @@
      "kind": "model"
     }
    ],
-   "rank": 34.76714086665865,
+   "rank": 26.129576876109233,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1107,7 +1152,7 @@
      "kind": "model"
     }
    ],
-   "rank": 33.276580792736176,
+   "rank": 25.00933221206306,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1150,7 +1195,7 @@
      "kind": "org"
     }
    ],
-   "rank": 32.714581989991984,
+   "rank": 24.5869566426452,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1175,34 +1220,6 @@
    ]
   },
   {
-   "id": "doom-will-retroactively-explainable",
-   "title": "AI Doom Will be Retroactively Explainable",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 32.540047088438826,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T03:48:49.000Z",
-   "latestAt": "2026-09-24T03:48:49.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI Doom Will be Retroactively Explainable",
-     "link": "https://www.lesswrong.com/posts/YEXSNmHGudtw3Qdzz/ai-doom-will-be-retroactively-explainable",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-24T03:48:49.000Z",
-     "points": null,
-     "summary": "One of the reactions to the Hugging Face incident on Twitter is that the attack was not surprising. The argument goes like this: OpenAI gave its…"
-    }
-   ]
-  },
-  {
    "id": "trump-china-rivalry-race",
    "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
    "category": {
@@ -1210,7 +1227,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 31.60989775306292,
+   "rank": 23.756720650466,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1238,7 +1255,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 30.7538122321595,
+   "rank": 23.11332139837446,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1272,7 +1289,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 29.250530824714694,
+   "rank": 21.983515894582684,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1306,7 +1323,7 @@
      "kind": "org"
     }
    ],
-   "rank": 29.218850679034308,
+   "rank": 21.959706378431303,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1338,7 +1355,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.98744947863094,
+   "rank": 21.78579459551095,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1366,7 +1383,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.933432361366478,
+   "rank": 21.74519751496294,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1405,7 +1422,7 @@
      "kind": "org"
     }
    ],
-   "rank": 28.412124378250166,
+   "rank": 21.353403519787744,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1443,7 +1460,7 @@
      "kind": "org"
     }
    ],
-   "rank": 28.25415036392795,
+   "rank": 21.234676640074188,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1468,34 +1485,6 @@
    ]
   },
   {
-   "id": "firm-bessemer-another-invest",
-   "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 28.171452617953285,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T20:35:17.000Z",
-   "latestAt": "2026-09-23T20:35:17.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-     "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-23T20:35:17.000Z",
-     "points": null,
-     "summary": "The VC firm says that AI-native companies are growing faster than any technology, ever."
-    }
-   ]
-  },
-  {
    "id": "advancing-private-compute-with",
    "title": "Advancing Private AI Compute with secure, server-side memory",
    "category": {
@@ -1503,7 +1492,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.67564873717467,
+   "rank": 20.04833866182337,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1528,73 +1517,6 @@
    ]
   },
   {
-   "id": "gpt-agents-chatgpt-mobile-gets-voice",
-   "title": "ChatGPT mobile app gets voice-based agentic features",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 26.36205443738647,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T17:00:00.000Z",
-   "latestAt": "2026-09-23T17:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "ChatGPT mobile app gets voice-based agentic features",
-     "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-23T17:00:00.000Z",
-     "points": null,
-     "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks."
-    }
-   ]
-  },
-  {
-   "id": "enveda-secures-311m-bring",
-   "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 26.169254842401134,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T19:31:28.000Z",
-   "latestAt": "2026-09-23T19:31:28.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-     "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-23T19:31:28.000Z",
-     "points": null,
-     "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s."
-    }
-   ]
-  },
-  {
    "id": "shadow-roots-explained-with",
    "title": "Shadow roots, explained with live examples",
    "category": {
@@ -1602,7 +1524,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 25.67972001581836,
+   "rank": 19.29983891639964,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1630,7 +1552,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 25.29785838850979,
+   "rank": 19.012847162172182,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1651,6 +1573,34 @@
    ]
   },
   {
+   "id": "latent-reasoning-architectures-would",
+   "title": "Latent reasoning architectures would undermine CoT, our strongest oversight tool",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 18.619377490166393,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T18:01:49.000Z",
+   "latestAt": "2026-09-23T18:01:49.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Latent reasoning architectures would undermine CoT, our strongest oversight tool",
+     "link": "https://www.alignmentforum.org/posts/6m29SfjbittooYojj/latent-reasoning-architectures-would-undermine-cot-our",
+     "publisher": "Alignment Forum",
+     "publisherDomain": "alignmentforum.org",
+     "kind": "coverage",
+     "date": "2026-09-23T18:01:49.000Z",
+     "points": null,
+     "summary": "Summary: Currently, “chain of thought” (CoT) is our most valuable tool for understanding the reasoning and cognition of AI systems. However, some architectures would enable AI…"
+    }
+   ]
+  },
+  {
    "id": "pope-worried-about-cartel",
    "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
    "category": {
@@ -1658,7 +1608,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.626868056950986,
+   "rank": 17.75699841420762,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1679,62 +1629,6 @@
    ]
   },
   {
-   "id": "cybersecurity-model-breaking",
-   "title": "The old cybersecurity model is breaking",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 23.114806562153255,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T17:44:02.000Z",
-   "latestAt": "2026-09-23T17:44:02.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The old cybersecurity model is breaking",
-     "link": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-23T17:44:02.000Z",
-     "points": null,
-     "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive…"
-    }
-   ]
-  },
-  {
-   "id": "even-americans-every-worried",
-   "title": "Even Americans who use AI every day are worried about it",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 21.715214117815997,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T16:49:58.000Z",
-   "latestAt": "2026-09-23T16:49:58.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Even Americans who use AI every day are worried about it",
-     "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-23T16:49:58.000Z",
-     "points": null,
-     "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation."
-    }
-   ]
-  },
-  {
    "id": "robotics-offloaded-inference-real-world",
    "title": "Offloaded inference for real-world physical AI robotics",
    "category": {
@@ -1748,7 +1642,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 20.535144043380146,
+   "rank": 15.433383694143457,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1780,7 +1674,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.1941864135753,
+   "rank": 15.177133730027903,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1818,7 +1712,7 @@
      "kind": "model"
     }
    ],
-   "rank": 20.1941864135753,
+   "rank": 15.177133730027903,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1856,7 +1750,7 @@
      "kind": "model"
     }
    ],
-   "rank": 20.1941864135753,
+   "rank": 15.177133730027903,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1888,7 +1782,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.809060891010933,
+   "rank": 14.136129410353892,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1916,7 +1810,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.170454239528574,
+   "rank": 13.656178480321985,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1944,7 +1838,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.58006035764491,
+   "rank": 13.2124623178964,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1982,7 +1876,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 16.529846596855634,
+   "rank": 12.423164132459249,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2010,7 +1904,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.500210103774165,
+   "rank": 12.400890542943205,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2038,7 +1932,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.45357474616429,
+   "rank": 12.365841294387343,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2082,7 +1976,7 @@
      "kind": "org"
     }
    ],
-   "rank": 15.279764028645559,
+   "rank": 11.48365263530149,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2099,34 +1993,6 @@
      "date": "2026-09-23T12:30:07.000Z",
      "points": null,
      "summary": "US President Donald Trump has sold shares worth tens of millions of US dollars in major tech companies, including Microsoft, Amazon and Meta Platforms in July…"
-    }
-   ]
-  },
-  {
-   "id": "cheaper-labelling",
-   "title": "Cheaper LLM labelling",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 15.230098864998187,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-23T13:14:06.000Z",
-   "latestAt": "2026-09-23T13:14:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Cheaper LLM labelling",
-     "link": "https://entropicthoughts.com/cheaper-llm-labeling",
-     "publisher": "entropicthoughts.com",
-     "publisherDomain": "entropicthoughts.com",
-     "kind": "discussion",
-     "date": "2026-09-23T13:14:06.000Z",
-     "points": null,
-     "summary": ""
     }
    ]
   },
@@ -2149,7 +2015,7 @@
      "kind": "model"
     }
    ],
-   "rank": 14.142309347523804,
+   "rank": 10.62878770270752,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2177,7 +2043,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.759503384494762,
+   "rank": 10.341086223947363,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2205,7 +2071,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.248396247873556,
+   "rank": 9.95695877241225,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2244,7 +2110,7 @@
      "kind": "model"
     }
    ],
-   "rank": 12.718243458749326,
+   "rank": 9.55851737878043,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2287,7 +2153,7 @@
      "kind": "org"
     }
    ],
-   "rank": 12.596478778102657,
+   "rank": 9.467003969726907,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2315,7 +2181,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.574324176246998,
+   "rank": 9.450353467041994,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -2349,7 +2215,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 11.895025159258914,
+   "rank": 8.93981980094817,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2383,7 +2249,7 @@
      "kind": "org"
     }
    ],
-   "rank": 11.866540741410319,
+   "rank": 8.91841206458007,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2421,7 +2287,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 11.519860798243677,
+   "rank": 8.657861441187706,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2455,7 +2321,7 @@
      "kind": "model"
     }
    ],
-   "rank": 10.097093206787651,
+   "rank": 7.588566865013952,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2503,7 +2369,7 @@
      "kind": "model"
     }
    ],
-   "rank": 8.804001479947425,
+   "rank": 6.616731423787465,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2531,7 +2397,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.191218826379743,
+   "rank": 6.1561887661052515,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2565,7 +2431,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.622237243530449,
+   "rank": 5.728565221587431,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2599,7 +2465,7 @@
      "kind": "model"
     }
    ],
-   "rank": 7.139723076792169,
+   "rank": 5.365927089738905,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2631,7 +2497,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.662419671774987,
+   "rank": 4.255645601859849,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2665,7 +2531,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.544915882728811,
+   "rank": 4.167334506596317,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2693,7 +2559,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.373917727697332,
+   "rank": 4.0388192095028845,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2727,7 +2593,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.660196864671223,
+   "rank": 3.5024154761602855,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2755,7 +2621,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.62943248194243,
+   "rank": 3.4792942104041775,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2789,7 +2655,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.6117185325175925,
+   "rank": 3.4659811224786865,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2823,7 +2689,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.561107815731955,
+   "rank": 3.427944154754556,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2851,7 +2717,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.542088806896749,
+   "rank": 3.4136502369609456,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2885,7 +2751,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.348536037129414,
+   "rank": 3.2681838036808513,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2919,7 +2785,7 @@
      "kind": "model"
     }
    ],
-   "rank": 3.8260828617819116,
+   "rank": 2.87552912834338,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2951,7 +2817,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.6057627232290517,
+   "rank": 2.7099454233228513,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2990,7 +2856,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.3555679837402574,
+   "rank": 2.521909176553423,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3024,7 +2890,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.3255798550933076,
+   "rank": 2.499371311968687,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3045,34 +2911,6 @@
    ]
   },
   {
-   "id": "viture-vonder-glasses-meant",
-   "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 3.1543800590175133,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T13:00:00.000Z",
-   "latestAt": "2026-09-22T13:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
-     "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-22T13:00:00.000Z",
-     "points": null,
-     "summary": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings."
-    }
-   ]
-  },
-  {
    "id": "download-latest-breakthroughs-fears",
    "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
    "category": {
@@ -3080,7 +2918,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.126205225649096,
+   "rank": 2.349529404427643,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3108,7 +2946,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.0218081122725384,
+   "rank": 2.271068756481966,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3136,7 +2974,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.8995502816904684,
+   "rank": 2.1791847158830433,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3170,7 +3008,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.8861155947907116,
+   "rank": 1.4175281948069165,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3204,7 +3042,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.8439510502682737,
+   "rank": 1.3858390285401052,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3238,7 +3076,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.7678854057491566,
+   "rank": 1.3286711666869864,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3270,7 +3108,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6653992952709447,
+   "rank": 1.2516467512268712,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3308,7 +3146,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.4732378381242972,
+   "rank": 1.1072259722391553,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3346,7 +3184,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.4732378381242972,
+   "rank": 1.1072259722391553,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3378,7 +3216,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4498930214585817,
+   "rank": 1.0896809522426896,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3406,7 +3244,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.433570766640288,
+   "rank": 1.0774138056946958,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3434,7 +3272,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.378672500848364,
+   "rank": 1.0361544895525734,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3462,7 +3300,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2175381896468742,
+   "rank": 0.9150524585266074,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3479,105 +3317,6 @@
      "date": "2026-09-22T00:00:22.000Z",
      "points": null,
      "summary": "In China’s hardware hub in Shenzhen, the speculative frenzy around consumer multilayer ceramic capacitors (MLCCs) has cooled into a sharp price correction, but prices for artificial…"
-    }
-   ]
-  },
-  {
-   "id": "google-gemini-google-confirms-gemini-models",
-   "title": "Google confirms Gemini models hacked three companies in May 2026",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    },
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.1243520739401305,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T16:57:26.000Z",
-   "latestAt": "2026-09-21T16:57:26.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Google confirms Gemini models hacked three companies in May 2026",
-     "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-21T16:57:26.000Z",
-     "points": null,
-     "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet."
-    }
-   ]
-  },
-  {
-   "id": "trump-rejects-slowdown-calls",
-   "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7889918163069508,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T15:37:56.000Z",
-   "latestAt": "2026-09-21T15:37:56.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-     "link": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-21T15:37:56.000Z",
-     "points": null,
-     "summary": "The president offered few details on what his proposed new AI Force would do."
-    }
-   ]
-  },
-  {
-   "id": "improving-synthesis-prediction-small",
-   "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7109816710647526,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T15:30:19.000Z",
-   "latestAt": "2026-09-21T15:30:19.000Z",
-   "primary": {
-    "publisher": "Microsoft Research",
-    "link": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
-    "title": "Improving synthesis prediction of small molecules at scale with RetroChimera"
-   },
-   "sources": [
-    {
-     "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
-     "link": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
-     "publisher": "Microsoft Research",
-     "publisherDomain": "microsoft.com",
-     "kind": "primary",
-     "date": "2026-09-21T15:30:19.000Z",
-     "points": null,
-     "summary": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps…"
     }
    ]
   }
