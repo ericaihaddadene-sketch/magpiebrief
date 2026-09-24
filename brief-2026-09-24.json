@@ -1,8 +1,8 @@
 {
  "date": "2026-09-24",
- "generated": "2026-09-24T18:59:07.507Z",
- "headline": "100 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2702 items read · 103 on-topic · 100 distinct developments · 24 with a primary source · 3 independently corroborated",
+ "generated": "2026-09-24T22:11:41.057Z",
+ "headline": "105 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2702 items read · 109 on-topic · 105 distinct developments · 25 with a primary source · 3 independently corroborated",
  "events": [
   {
    "id": "openai-openai-agent-didn-accept",
@@ -18,7 +18,7 @@
      "kind": "org"
     }
    ],
-   "rank": 171.2204409480471,
+   "rank": 137.07100428349892,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -62,7 +62,7 @@
      "kind": "model"
     }
    ],
-   "rank": 140.72703904258697,
+   "rank": 132.93812250589275,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -87,42 +87,8 @@
    ]
   },
   {
-   "id": "gemini-gemini-call-businesses-have",
-   "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 125.37814582435432,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T16:04:31.000Z",
-   "latestAt": "2026-09-24T16:04:31.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-24T16:04:31.000Z",
-     "points": null,
-     "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product…"
-    }
-   ]
-  },
-  {
-   "id": "google-gemini-google-gemini-make-calls",
-   "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+   "id": "google-gemini-infrastructure-google-tests-letting-gemini",
+   "title": "Google tests letting Gemini call businesses for you",
    "category": {
     "id": "models",
     "name": "Models"
@@ -137,25 +103,252 @@
      "id": "gemini",
      "name": "Gemini",
      "kind": "model"
+    },
+    {
+     "id": "infrastructure",
+     "name": "AI Infrastructure",
+     "kind": "topic"
     }
    ],
-   "rank": 105.69969854317115,
+   "rank": 117.82236798166818,
    "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
+   "sourceCount": 2,
+   "independentCount": 2,
    "publishedAt": "2026-09-24T16:00:00.000Z",
-   "latestAt": "2026-09-24T16:00:00.000Z",
+   "latestAt": "2026-09-24T16:16:34.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
-     "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
+     "title": "Google tests letting Gemini call businesses for you",
+     "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
      "kind": "coverage",
      "date": "2026-09-24T16:00:00.000Z",
      "points": null,
-     "summary": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning."
+     "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription."
+    },
+    {
+     "title": "Google's first Suncatcher orbital data center test launches October 1",
+     "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-24T16:16:34.000Z",
+     "points": null,
+     "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time."
+    }
+   ]
+  },
+  {
+   "id": "using-llms-trace-alchemical",
+   "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 115.55870447347816,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-24T19:14:27.000Z",
+   "latestAt": "2026-09-24T19:14:27.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+     "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+     "publisher": "resobscura.substack.com",
+     "publisherDomain": "resobscura.substack.com",
+     "kind": "discussion",
+     "date": "2026-09-24T19:14:27.000Z",
+     "points": 40,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "commit-rewriter",
+   "title": "commit-rewriter 0.2",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 103.88841186567615,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T20:06:53.000Z",
+   "latestAt": "2026-09-24T20:06:53.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "commit-rewriter 0.2",
+     "link": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-24T20:06:53.000Z",
+     "points": null,
+     "summary": "Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags: git"
+    }
+   ]
+  },
+  {
+   "id": "agents-think-found-agent-worth",
+   "title": "I Think I Found an AI Agent Worth the Risk",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 100.3148186832286,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T05:21:10.000Z",
+   "latestAt": "2026-09-24T19:36:35.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "I Think I Found an AI Agent Worth the Risk",
+     "link": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-24T19:36:35.000Z",
+     "points": null,
+     "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare."
+    },
+    {
+     "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+     "link": "https://transluce.org/agent-activity",
+     "publisher": "transluce.org",
+     "publisherDomain": "transluce.org",
+     "kind": "discussion",
+     "date": "2026-09-24T05:21:10.000Z",
+     "points": 223,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "datasette-0a41",
+   "title": "datasette 1.0a41",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 97.88782960729789,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T19:15:23.000Z",
+   "latestAt": "2026-09-24T19:15:23.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "datasette 1.0a41",
+     "link": "https://simonwillison.net/2026/Sep/24/datasette/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-24T19:15:23.000Z",
+     "points": null,
+     "summary": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a single Web…"
+    }
+   ]
+  },
+  {
+   "id": "tutoring-company-tells-parents",
+   "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 89.04685520803699,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-24T15:09:38.000Z",
+   "latestAt": "2026-09-24T15:09:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+     "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+     "publisher": "afr.com",
+     "publisherDomain": "afr.com",
+     "kind": "discussion",
+     "date": "2026-09-24T15:09:38.000Z",
+     "points": 61,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "estimating-suicide-risk-from",
+   "title": "Estimating suicide risk from text",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 87.44983272548738,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T21:00:00.000Z",
+   "latestAt": "2026-09-24T21:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Estimating suicide risk from text",
+     "link": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
+     "publisher": "MIT News AI",
+     "publisherDomain": "news.mit.edu",
+     "kind": "coverage",
+     "date": "2026-09-24T21:00:00.000Z",
+     "points": null,
+     "summary": "A new language-processing tool could help identify the highest-risk individuals from natural language, enabling swifter interventions."
+    }
+   ]
+  },
+  {
+   "id": "draftkings-using-supercharge-harms",
+   "title": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 87.07351622372482,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T20:11:52.000Z",
+   "latestAt": "2026-09-24T20:11:52.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
+     "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+     "publisher": "EFF",
+     "publisherDomain": "eff.org",
+     "kind": "coverage",
+     "date": "2026-09-24T20:11:52.000Z",
+     "points": null,
+     "summary": "Online sports betting company DraftKings is using AI to target customers who are most likely to place losing bets and respond to gambling promotions. This kind…"
     }
    ]
   },
@@ -173,7 +366,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 105.25637443796612,
+   "rank": 84.26328580610154,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -190,6 +383,44 @@
      "date": "2026-09-24T18:20:58.000Z",
      "points": null,
      "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear."
+    }
+   ]
+  },
+  {
+   "id": "video-automating-coherent-long-form",
+   "title": "Automating coherent long-form video generation",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "video",
+     "name": "AI Video",
+     "kind": "topic"
+    }
+   ],
+   "rank": 83.9731686963335,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T19:40:29.000Z",
+   "latestAt": "2026-09-24T19:40:29.000Z",
+   "primary": {
+    "publisher": "Google Research",
+    "link": "https://research.google/blog/coherent-long-form-video-generation/",
+    "title": "Automating coherent long-form video generation"
+   },
+   "sources": [
+    {
+     "title": "Automating coherent long-form video generation",
+     "link": "https://research.google/blog/coherent-long-form-video-generation/",
+     "publisher": "Google Research",
+     "publisherDomain": "research.google",
+     "kind": "primary",
+     "date": "2026-09-24T19:40:29.000Z",
+     "points": null,
+     "summary": ""
     }
    ]
   },
@@ -212,7 +443,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 102.82895049081168,
+   "rank": 82.3200047561524,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -243,6 +474,72 @@
    ]
   },
   {
+   "id": "google-google-project-suncatcher-infrastructure",
+   "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 81.54791523985207,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T13:53:29.000Z",
+   "latestAt": "2026-09-24T13:53:29.000Z",
+   "primary": {
+    "publisher": "Google",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+    "title": "Google’s Project Suncatcher to put ML infrastructure in space"
+   },
+   "sources": [
+    {
+     "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+     "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+     "publisher": "Google",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-24T13:53:29.000Z",
+     "points": 72,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "prismml-brings-tiny-llms",
+   "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 80.20114717094197,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T19:00:42.000Z",
+   "latestAt": "2026-09-24T19:00:42.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+     "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-24T19:00:42.000Z",
+     "points": null,
+     "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
+    }
+   ]
+  },
+  {
    "id": "robotics-meet-feather-startup-building",
    "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
    "category": {
@@ -256,7 +553,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 99.25294816092774,
+   "rank": 79.45722606008508,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -290,7 +587,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 94.67236020642397,
+   "rank": 75.79022352431167,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -318,7 +615,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 93.90985883338526,
+   "rank": 75.17980091126819,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -352,7 +649,7 @@
      "kind": "org"
     }
    ],
-   "rank": 92.59022908713378,
+   "rank": 74.12336761627421,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -386,7 +683,7 @@
      "kind": "org"
     }
    ],
-   "rank": 92.26181492897348,
+   "rank": 73.86045474073961,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -407,45 +704,6 @@
    ]
   },
   {
-   "id": "google-infrastructure-google-first-suncatcher-orbital",
-   "title": "Google's first Suncatcher orbital data center test launches October 1",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "infrastructure",
-     "name": "AI Infrastructure",
-     "kind": "topic"
-    },
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 91.16641019967474,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T16:16:34.000Z",
-   "latestAt": "2026-09-24T16:16:34.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Google's first Suncatcher orbital data center test launches October 1",
-     "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-24T16:16:34.000Z",
-     "points": null,
-     "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time."
-    }
-   ]
-  },
-  {
    "id": "ando-wants-take-slack",
    "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
    "category": {
@@ -453,7 +711,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 88.03570769270986,
+   "rank": 70.47723273829082,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -469,7 +727,35 @@
      "kind": "coverage",
      "date": "2026-09-24T14:31:00.000Z",
      "points": null,
-     "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence."
+     "summary": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can."
+    }
+   ]
+  },
+  {
+   "id": "research-publishing-2026",
+   "title": "AI in research and publishing (Sep 2026)",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 66.36445841694525,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T21:25:31.000Z",
+   "latestAt": "2026-09-24T21:25:31.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI in research and publishing (Sep 2026)",
+     "link": "https://www.lesswrong.com/posts/43yxfaejsrZi7cDff/ai-in-research-and-publishing-sep-2026",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-24T21:25:31.000Z",
+     "points": null,
+     "summary": "epistemic status: I have low confidence in these findings, primarily because my anecdotal experience (I'm a researcher) is that AI usage in research has been changing…"
     }
    ]
   },
@@ -481,7 +767,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 82.28846412181151,
+   "rank": 65.87626077628101,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -509,7 +795,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 82.24558645688786,
+   "rank": 65.84193494135224,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -534,6 +820,34 @@
    ]
   },
   {
+   "id": "increasing-skill-level-recruits",
+   "title": "Increasing Skill Level Recruits Deeper Attention Layers in a Frozen Chess Transformer",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 62.26094514398176,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T20:30:16.000Z",
+   "latestAt": "2026-09-24T20:30:16.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Increasing Skill Level Recruits Deeper Attention Layers in a Frozen Chess Transformer",
+     "link": "https://www.lesswrong.com/posts/HzeuyQvqN4nHHvaXc/increasing-skill-level-recruits-deeper-attention-layers-in-a",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-24T20:30:16.000Z",
+     "points": null,
+     "summary": "Paper: Increasing Skill Level Recruits Deeper Attention Layers in a Frozen Chess Transformer TL;DR: Maia-3 is a transformer-based chess model that takes Elo (the standard metric…"
+    }
+   ]
+  },
+  {
    "id": "shield-waabi-general-motors",
    "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
    "category": {
@@ -541,7 +855,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 75.86254302790284,
+   "rank": 60.73197161949838,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -580,7 +894,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 75.35189428165764,
+   "rank": 60.323170333294584,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -608,7 +922,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 73.27838631527563,
+   "rank": 58.663217714506175,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -629,40 +943,6 @@
    ]
   },
   {
-   "id": "anthropic-scoop-trump-allies-open",
-   "title": "Scoop: Trump allies open new front against Anthropic CEO over AI \"doomerism\"",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 66.3480856278473,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T12:21:46.000Z",
-   "latestAt": "2026-09-24T12:21:46.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Scoop: Trump allies open new front against Anthropic CEO over AI \"doomerism\"",
-     "link": "https://www.lesswrong.com/posts/ZLs7CcQuxozxqPd7f/scoop-trump-allies-open-new-front-against-anthropic-ceo-over",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-24T12:21:46.000Z",
-     "points": null,
-     "summary": "President Trump's allies are targeting Anthropic CEO Dario Amodei as the face of AI \"doomerism\" and a founding father of the effective altruism movement that's come…"
-    }
-   ]
-  },
-  {
    "id": "download-scrap-virtual-wall",
    "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
    "category": {
@@ -670,7 +950,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 65.45229268816932,
+   "rank": 52.39801650871297,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -698,7 +978,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 64.5799226434315,
+   "rank": 51.69963822235324,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -732,7 +1012,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 63.41091644929911,
+   "rank": 50.76378703451533,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -760,7 +1040,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 63.36087850742267,
+   "rank": 50.723729019787044,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -788,7 +1068,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 63.34868012227783,
+   "rank": 50.713963568342216,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -822,7 +1102,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 58.692480114837124,
+   "rank": 46.986429591494264,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -850,7 +1130,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 52.55046207529005,
+   "rank": 42.06941982124413,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -884,7 +1164,7 @@
      "kind": "org"
     }
    ],
-   "rank": 49.24571725722382,
+   "rank": 39.423797087154355,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -905,62 +1185,6 @@
    ]
   },
   {
-   "id": "recurrent-quite-easy-interpret",
-   "title": "a recurrent llm is quite easy to interpret but complex to steer",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 45.70909412824486,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T12:50:12.000Z",
-   "latestAt": "2026-09-24T12:50:12.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "a recurrent llm is quite easy to interpret but complex to steer",
-     "link": "https://www.lesswrong.com/posts/rzcJMpnehFBD686gj/a-recurrent-llm-is-quite-easy-to-interpret-but-complex-to",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-24T12:50:12.000Z",
-     "points": null,
-     "summary": "TLDR; Ouro-1.4b-thinking is broadly interpretable with logit lenses and linear probes. It's also steerable but does 'clean' foreign concepts out of the residual stream if they're…"
-    }
-   ]
-  },
-  {
-   "id": "after-action-report-canadian",
-   "title": "After Action Report: Canadian Sovereign AI at Nrth 2026",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 45.00002091758431,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T12:36:40.000Z",
-   "latestAt": "2026-09-24T12:36:40.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "After Action Report: Canadian Sovereign AI at Nrth 2026",
-     "link": "https://www.lesswrong.com/posts/ABjHbRSKSrXguoBPh/after-action-report-canadian-sovereign-ai-at-nrth-2026",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-24T12:36:40.000Z",
-     "points": null,
-     "summary": "This report is authored in a personal capacity and does not contain any confidential or privileged information. We appreciate Nrth's generous support in enabling our attendance…"
-    }
-   ]
-  },
-  {
    "id": "promise-peril-using-visual",
    "title": "The promise and peril of using visual AI to study cities",
    "category": {
@@ -968,7 +1192,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 33.62157134678413,
+   "rank": 26.915843251982803,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -989,84 +1213,6 @@
    ]
   },
   {
-   "id": "show-agentrun-turn-agents",
-   "title": "Show HN: AgentRun: DSL to turn agents into workflows",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 31.383770666087702,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T19:42:58.000Z",
-   "latestAt": "2026-09-23T19:42:58.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/Parcha-ai/agentrun",
-    "title": "Show HN: AgentRun: DSL to turn agents into workflows"
-   },
-   "sources": [
-    {
-     "title": "Show HN: AgentRun: DSL to turn agents into workflows",
-     "link": "https://github.com/Parcha-ai/agentrun",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-09-23T19:42:58.000Z",
-     "points": 15,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "meta-ai-meta-glasses-meta-audio",
-   "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 31.02426035302662,
-   "deltas": [
-    "Now also covered by TechCrunch."
-   ],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-23T23:39:44.000Z",
-   "latestAt": "2026-09-23T23:42:44.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
-     "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-23T23:42:44.000Z",
-     "points": null,
-     "summary": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses."
-    },
-    {
-     "title": "Meta introduces camera-free AI glasses",
-     "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-23T23:39:44.000Z",
-     "points": null,
-     "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life."
-    }
-   ]
-  },
-  {
    "id": "openai-years-openai-academy",
    "title": "Two years of OpenAI Academy",
    "category": {
@@ -1080,7 +1226,7 @@
      "kind": "org"
     }
    ],
-   "rank": 27.03556982650042,
+   "rank": 21.64340126083142,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1105,6 +1251,40 @@
    ]
   },
   {
+   "id": "meta-ai-meta-glasses-meta-audio",
+   "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 21.047931059604476,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T23:42:44.000Z",
+   "latestAt": "2026-09-23T23:42:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+     "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-23T23:42:44.000Z",
+     "points": null,
+     "summary": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses."
+    }
+   ]
+  },
+  {
    "id": "gemini-gemini-playground",
    "title": "Gemini 3.8 TTS Playground",
    "category": {
@@ -1118,7 +1298,7 @@
      "kind": "model"
     }
    ],
-   "rank": 26.129576876109233,
+   "rank": 20.91810606303683,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1152,7 +1332,7 @@
      "kind": "model"
     }
    ],
-   "rank": 25.00933221206306,
+   "rank": 20.02129105488817,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1195,7 +1375,7 @@
      "kind": "org"
     }
    ],
-   "rank": 24.5869566426452,
+   "rank": 19.683157108004536,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1227,7 +1407,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.756720650466,
+   "rank": 19.0185093556089,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1255,7 +1435,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.11332139837446,
+   "rank": 18.503434279577522,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1289,7 +1469,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 21.983515894582684,
+   "rank": 17.59896531435185,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1323,7 +1503,7 @@
      "kind": "org"
     }
    ],
-   "rank": 21.959706378431303,
+   "rank": 17.579904539409892,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1355,7 +1535,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.78579459551095,
+   "rank": 17.440678973761102,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1383,7 +1563,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.74519751496294,
+   "rank": 17.408178867051404,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1422,7 +1602,7 @@
      "kind": "org"
     }
    ],
-   "rank": 21.353403519787744,
+   "rank": 17.094527085210686,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1460,7 +1640,7 @@
      "kind": "org"
     }
    ],
-   "rank": 21.234676640074188,
+   "rank": 16.999479948620717,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1492,7 +1672,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.04833866182337,
+   "rank": 16.04975375239023,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1524,7 +1704,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.29983891639964,
+   "rank": 15.450540181609245,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1552,7 +1732,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 19.012847162172182,
+   "rank": 15.22078812773516,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1580,7 +1760,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 18.619377490166393,
+   "rank": 14.905794878107347,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1608,7 +1788,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.75699841420762,
+   "rank": 14.215414889828887,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1642,7 +1822,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 15.433383694143457,
+   "rank": 12.355238607817341,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1674,7 +1854,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.177133730027903,
+   "rank": 12.150096980249712,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1712,7 +1892,7 @@
      "kind": "model"
     }
    ],
-   "rank": 15.177133730027903,
+   "rank": 12.150096980249712,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1750,7 +1930,7 @@
      "kind": "model"
     }
    ],
-   "rank": 15.177133730027903,
+   "rank": 12.150096980249712,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1782,7 +1962,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.136129410353892,
+   "rank": 11.316718052061612,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1810,7 +1990,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.656178480321985,
+   "rank": 10.932491988736414,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1838,7 +2018,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.2124623178964,
+   "rank": 10.577273770258923,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1876,7 +2056,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 12.423164132459249,
+   "rank": 9.945398893883382,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1904,7 +2084,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.400890542943205,
+   "rank": 9.927567709317696,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1932,7 +2112,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.365841294387343,
+   "rank": 9.899508935071275,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1976,7 +2156,7 @@
      "kind": "org"
     }
    ],
-   "rank": 11.48365263530149,
+   "rank": 9.193270329453487,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2015,7 +2195,7 @@
      "kind": "model"
     }
    ],
-   "rank": 10.62878770270752,
+   "rank": 8.508905809723304,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2043,7 +2223,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.341086223947363,
+   "rank": 8.278585583883746,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2071,7 +2251,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.95695877241225,
+   "rank": 7.971071275059165,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2110,7 +2290,7 @@
      "kind": "model"
     }
    ],
-   "rank": 9.55851737878043,
+   "rank": 7.652097899737684,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2153,7 +2333,7 @@
      "kind": "org"
     }
    ],
-   "rank": 9.467003969726907,
+   "rank": 7.578836583419856,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2181,7 +2361,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.450353467041994,
+   "rank": 7.56550697678989,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -2215,7 +2395,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 8.93981980094817,
+   "rank": 7.156797818324109,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2249,7 +2429,7 @@
      "kind": "org"
     }
    ],
-   "rank": 8.91841206458007,
+   "rank": 7.139659794924774,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2287,7 +2467,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 8.657861441187706,
+   "rank": 6.931075262509516,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2321,7 +2501,7 @@
      "kind": "model"
     }
    ],
-   "rank": 7.588566865013952,
+   "rank": 6.075048490124856,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2369,7 +2549,7 @@
      "kind": "model"
     }
    ],
-   "rank": 6.616731423787465,
+   "rank": 5.297042901600345,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2397,7 +2577,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.1561887661052515,
+   "rank": 4.92835418514594,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2431,7 +2611,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.728565221587431,
+   "rank": 4.58601895707517,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2465,7 +2645,7 @@
      "kind": "model"
     }
    ],
-   "rank": 5.365927089738905,
+   "rank": 4.295707983404384,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2497,7 +2677,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.255645601859849,
+   "rank": 3.4068690238835537,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2531,7 +2711,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.167334506596317,
+   "rank": 3.336171328852964,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2559,7 +2739,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.0388192095028845,
+   "rank": 3.2332880472725014,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2580,40 +2760,6 @@
    ]
   },
   {
-   "id": "agents-rabbit-back-this-time",
-   "title": "Rabbit Is Back, This Time With an AI Agent App",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 3.5024154761602855,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T16:00:00.000Z",
-   "latestAt": "2026-09-22T16:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Rabbit Is Back, This Time With an AI Agent App",
-     "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-22T16:00:00.000Z",
-     "points": null,
-     "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already…"
-    }
-   ]
-  },
-  {
    "id": "typesafe",
    "title": "llm-typesafe 0.1a0",
    "category": {
@@ -2621,7 +2767,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.4792942104041775,
+   "rank": 2.7853587397463344,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2655,7 +2801,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.4659811224786865,
+   "rank": 2.7747009098636553,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2689,7 +2835,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.427944154754556,
+   "rank": 2.7442503086563654,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2717,7 +2863,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.4136502369609456,
+   "rank": 2.732807272671481,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2751,7 +2897,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.2681838036808513,
+   "rank": 2.616353711467936,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2785,7 +2931,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.87552912834338,
+   "rank": 2.3020129097090556,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2817,7 +2963,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.7099454233228513,
+   "rank": 2.169454410183679,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2856,7 +3002,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.521909176553423,
+   "rank": 2.0189214653806333,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2890,7 +3036,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.499371311968687,
+   "rank": 2.000878714667403,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2918,7 +3064,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.349529404427643,
+   "rank": 1.8809223552708145,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2946,7 +3092,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.271068756481966,
+   "rank": 1.8181104634715683,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2974,7 +3120,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.1791847158830433,
+   "rank": 1.7445524370304282,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3008,7 +3154,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.4175281948069165,
+   "rank": 1.1348061725954548,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3042,7 +3188,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.3858390285401052,
+   "rank": 1.109437321650744,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3076,7 +3222,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.3286711666869864,
+   "rank": 1.0636714294853045,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3108,7 +3254,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2516467512268712,
+   "rank": 1.0020093176310843,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3146,7 +3292,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.1072259722391553,
+   "rank": 0.8863928579044205,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3184,7 +3330,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.1072259722391553,
+   "rank": 0.8863928579044205,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3216,7 +3362,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.0896809522426896,
+   "rank": 0.8723471429315258,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3244,7 +3390,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.0774138056946958,
+   "rank": 0.8625266443525239,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3272,7 +3418,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.0361544895525734,
+   "rank": 0.8294963830803488,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3300,7 +3446,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 0.9150524585266074,
+   "rank": 0.7325478124448052,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
