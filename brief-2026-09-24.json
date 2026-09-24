@@ -1,51 +1,12 @@
 {
  "date": "2026-09-24",
- "generated": "2026-09-24T09:51:26.457Z",
- "headline": "108 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2701 items read · 111 on-topic · 108 distinct developments · 28 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-24T14:51:54.057Z",
+ "headline": "109 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2702 items read · 111 on-topic · 109 distinct developments · 25 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "google-deepmind-gemini-gemini-almost-ready-says",
-   "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "google-deepmind",
-     "name": "Google DeepMind",
-     "kind": "org"
-    },
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 160.04270137685114,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T09:04:18.000Z",
-   "latestAt": "2026-09-24T09:04:18.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-     "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-24T09:04:18.000Z",
-     "points": null,
-     "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information…"
-    }
-   ]
-  },
-  {
-   "id": "openai-openai-agent-hacked-australian",
-   "title": "OpenAI agent hacked Australian government website, PM says",
+   "id": "openai-openai-agents-hacked-australian",
+   "title": "OpenAI agents hacked an Australian government website in search for data",
    "category": {
     "id": "security",
     "name": "Security"
@@ -57,23 +18,368 @@
      "kind": "org"
     }
    ],
-   "rank": 143.49299924631973,
+   "rank": 202.7890882187865,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-24T02:44:48.000Z",
-   "latestAt": "2026-09-24T02:44:48.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T11:52:32.000Z",
+   "latestAt": "2026-09-24T11:52:32.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "OpenAI agent hacked Australian government website, PM says",
-     "link": "https://www.bbc.com/news/live/cvgl73pxgndwt",
-     "publisher": "bbc.com",
-     "publisherDomain": "bbc.com",
+     "title": "OpenAI agents hacked an Australian government website in search for data",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-24T11:52:32.000Z",
+     "points": null,
+     "summary": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first…"
+    }
+   ]
+  },
+  {
+   "id": "gpt-gemini-hackers-influence-chatgpt-gemini",
+   "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    },
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 153.59384295845695,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-24T11:54:38.000Z",
+   "latestAt": "2026-09-24T11:54:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+     "link": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+     "publisher": "medium.com",
+     "publisherDomain": "medium.com",
      "kind": "discussion",
-     "date": "2026-09-24T02:44:48.000Z",
-     "points": 55,
+     "date": "2026-09-24T11:54:38.000Z",
+     "points": 58,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "accelerating-vision-language-models",
+   "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 129.13120660954826,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T14:08:57.000Z",
+   "latestAt": "2026-09-24T14:08:57.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark"
+   },
+   "sources": [
+    {
+     "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-09-24T14:08:57.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "infrastructure-oracle-cites-force-majeure",
+   "title": "Oracle Cites 'Force Majeure' to Shield Itself on Controversial Data Center",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "infrastructure",
+     "name": "AI Infrastructure",
+     "kind": "topic"
+    }
+   ],
+   "rank": 122.78140399802439,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-24T13:04:21.000Z",
+   "latestAt": "2026-09-24T13:04:21.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Oracle Cites 'Force Majeure' to Shield Itself on Controversial Data Center",
+     "link": "https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center",
+     "publisher": "Bloomberg",
+     "publisherDomain": "bloomberg.com",
+     "kind": "discussion",
+     "date": "2026-09-24T13:04:21.000Z",
+     "points": 31,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-meta-puts-assistant-keychain",
+   "title": "Meta puts its AI assistant on a keychain",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 122.76048446777769,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T14:03:38.000Z",
+   "latestAt": "2026-09-24T14:03:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meta puts its AI assistant on a keychain",
+     "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-24T14:03:38.000Z",
+     "points": null,
+     "summary": "Meta says the keychain-sized Muse Charm will ship in December."
+    }
+   ]
+  },
+  {
+   "id": "ando-wants-take-slack",
+   "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 117.1373675571046,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T14:31:00.000Z",
+   "latestAt": "2026-09-24T14:31:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+     "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-24T14:31:00.000Z",
+     "points": null,
+     "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures and Emergence."
+    }
+   ]
+  },
+  {
+   "id": "best-every-budget-updated",
+   "title": "Best LLM for every budget, updated daily",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 116.14403760957646,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-24T14:09:57.000Z",
+   "latestAt": "2026-09-24T14:09:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Best LLM for every budget, updated daily",
+     "link": "https://bestmodelforyourbudget.terrydjony.com/",
+     "publisher": "bestmodelforyourbudget.terrydjony.com",
+     "publisherDomain": "bestmodelforyourbudget.terrydjony.com",
+     "kind": "discussion",
+     "date": "2026-09-24T14:09:57.000Z",
+     "points": 6,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-agents-meta-muse-charms-interact",
+   "title": "Meta’s Muse AI Charms can interact with each other",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    },
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 107.56049325122841,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-24T01:13:32.000Z",
+   "latestAt": "2026-09-24T13:31:43.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meta’s Muse AI Charms can interact with each other",
+     "link": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-24T13:31:43.000Z",
+     "points": null,
+     "summary": "Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year. That's…"
+    },
+    {
+     "title": "Everything new coming to Meta’s AI agent Muse",
+     "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-24T01:13:32.000Z",
+     "points": null,
+     "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going…"
+    }
+   ]
+  },
+  {
+   "id": "funding-agents-exclusive-from-booking-calls",
+   "title": "Exclusive: From Booking Calls To Late Check-Ins, Dextr AI Raises $6.7M For Hotel AI Agents",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 100.26070974977273,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T13:00:44.000Z",
+   "latestAt": "2026-09-24T13:00:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Exclusive: From Booking Calls To Late Check-Ins, Dextr AI Raises $6.7M For Hotel AI Agents",
+     "link": "https://news.crunchbase.com/venture/dextr-ai-hospitality-agents-raises-seed-funding/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-09-24T13:00:44.000Z",
+     "points": null,
+     "summary": "Dextr AI is emerging from stealth with $6.7 million in seed funding to build agents that handle reservations, guest requests, staff coordination and other hotel tasks."
+    }
+   ]
+  },
+  {
+   "id": "techcrunch-disrupt-2026-zach",
+   "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 97.50176941571567,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T14:30:00.000Z",
+   "latestAt": "2026-09-24T14:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+     "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-24T14:30:00.000Z",
+     "points": null,
+     "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save…"
+    }
+   ]
+  },
+  {
+   "id": "google-google-sending-satellite-into",
+   "title": "Google is sending an AI satellite into space next week",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 95.8581184735035,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T14:15:17.000Z",
+   "latestAt": "2026-09-24T14:15:17.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google is sending an AI satellite into space next week",
+     "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-24T14:15:17.000Z",
+     "points": null,
+     "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New…"
     }
    ]
   },
@@ -91,7 +397,7 @@
      "kind": "org"
     }
    ],
-   "rank": 130.92463104084356,
+   "rank": 92.52851052759011,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 1,
@@ -107,7 +413,7 @@
      "kind": "coverage",
      "date": "2026-09-23T23:39:44.000Z",
      "points": null,
-     "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."
+     "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life."
     },
     {
      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
@@ -116,7 +422,7 @@
      "publisherDomain": "reddit.com",
      "kind": "discussion",
      "date": "2026-09-24T08:23:03.000Z",
-     "points": 93,
+     "points": 444,
      "summary": ""
     }
    ]
@@ -135,7 +441,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 127.33526789409323,
+   "rank": 89.99179590734556,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -150,91 +456,165 @@
      "publisherDomain": "transluce.org",
      "kind": "discussion",
      "date": "2026-09-24T05:21:10.000Z",
-     "points": 121,
+     "points": 186,
      "summary": ""
     }
    ]
   },
   {
-   "id": "agents-kingmakers",
-   "title": "Agents: The new, New Kingmakers",
+   "id": "anthropic-scoop-trump-allies-open",
+   "title": "Scoop: Trump allies open new front against Anthropic CEO over AI \"doomerism\"",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 88.2805431635438,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T12:21:46.000Z",
+   "latestAt": "2026-09-24T12:21:46.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Scoop: Trump allies open new front against Anthropic CEO over AI \"doomerism\"",
+     "link": "https://www.lesswrong.com/posts/ZLs7CcQuxozxqPd7f/scoop-trump-allies-open-new-front-against-anthropic-ceo-over",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-24T12:21:46.000Z",
+     "points": null,
+     "summary": "President Trump's allies are targeting Anthropic CEO Dario Amodei as the face of AI \"doomerism\" and a founding father of the effective altruism movement that's come…"
+    }
+   ]
+  },
+  {
+   "id": "download-scrap-virtual-wall",
+   "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 102.09086919259826,
+   "rank": 87.08863104537942,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-24T09:02:44.000Z",
-   "latestAt": "2026-09-24T09:02:44.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T12:10:00.000Z",
+   "latestAt": "2026-09-24T12:10:00.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Agents: The new, New Kingmakers",
-     "link": "https://redmonk.com/sogrady/2026/09/16/new-new-kingmakers/",
-     "publisher": "redmonk.com",
-     "publisherDomain": "redmonk.com",
+     "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+     "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-09-24T12:10:00.000Z",
+     "points": null,
+     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional…"
+    }
+   ]
+  },
+  {
+   "id": "agent-shell-updates",
+   "title": "agent-shell 0.78 updates",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 85.9278846476456,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-24T11:34:00.000Z",
+   "latestAt": "2026-09-24T11:34:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "agent-shell 0.78 updates",
+     "link": "https://xenodium.com/agent-shell-0-78-updates",
+     "publisher": "xenodium.com",
+     "publisherDomain": "xenodium.com",
      "kind": "discussion",
-     "date": "2026-09-24T09:02:44.000Z",
+     "date": "2026-09-24T11:34:00.000Z",
      "points": null,
      "summary": ""
     }
    ]
   },
   {
-   "id": "intent-motivation",
-   "title": "AI has no intent and no motivation",
+   "id": "anthropic-anthropic-shares-exciting-result",
+   "title": "Anthropic shares an exciting result in enzyme discovery - and an exercise in public's perception of science and AI",
    "category": {
     "id": "general",
     "name": "Other"
    },
-   "entities": [],
-   "rank": 120.51571432297601,
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 82.13111246210376,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-24T09:13:25.000Z",
-   "latestAt": "2026-09-24T09:13:25.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T11:19:16.000Z",
+   "latestAt": "2026-09-24T11:19:16.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "AI has no intent and no motivation",
-     "link": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
-     "publisher": "i-programmer.info",
-     "publisherDomain": "i-programmer.info",
-     "kind": "discussion",
-     "date": "2026-09-24T09:13:25.000Z",
-     "points": 9,
-     "summary": ""
+     "title": "Anthropic shares an exciting result in enzyme discovery - and an exercise in public's perception of science and AI",
+     "link": "https://www.lesswrong.com/posts/nLcnuadR6HtFeJwek/anthropic-shares-an-exciting-result-in-enzyme-discovery-and",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-24T11:19:16.000Z",
+     "points": null,
+     "summary": "Disclaimer: I'm not affiliated with Anthropic, these are my own thoughts as a former wet lab chemist currently working in chem-biosecurity and AI evals. I appreciate…"
     }
    ]
   },
   {
-   "id": "contrastive-language-models",
-   "title": "Contrastive Language Models",
+   "id": "apple-combining-machine-learning-homomorphic",
+   "title": "Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem",
    "category": {
     "id": "general",
     "name": "Other"
    },
-   "entities": [],
-   "rank": 98.98570471466671,
+   "entities": [
+    {
+     "id": "apple",
+     "name": "Apple",
+     "kind": "org"
+    }
+   ],
+   "rank": 81.65787212288868,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-09-24T04:20:59.000Z",
-   "latestAt": "2026-09-24T04:20:59.000Z",
+   "publishedAt": "2026-09-24T13:27:42.000Z",
+   "latestAt": "2026-09-24T13:27:42.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Contrastive Language Models",
-     "link": "https://contrastive-lm.notion.site/",
-     "publisher": "contrastive-lm.notion.site",
-     "publisherDomain": "contrastive-lm.notion.site",
+     "title": "Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem",
+     "link": "https://machinelearning.apple.com/research/homomorphic-encryption",
+     "publisher": "machinelearning.apple.com",
+     "publisherDomain": "machinelearning.apple.com",
      "kind": "discussion",
-     "date": "2026-09-24T04:20:59.000Z",
-     "points": 66,
+     "date": "2026-09-24T13:27:42.000Z",
+     "points": null,
      "summary": ""
     }
    ]
@@ -253,7 +633,7 @@
      "kind": "org"
     }
    ],
-   "rank": 92.71518193554925,
+   "rank": 65.52470394294744,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -274,99 +654,86 @@
    ]
   },
   {
-   "id": "meta-ai-agents-everything-coming-meta-agent",
-   "title": "Everything new coming to Meta’s AI agent Muse",
+   "id": "rethinking-credit-recognition-mathematics",
+   "title": "Rethinking Credit and Recognition in Mathematics in the Age of AI",
    "category": {
     "id": "general",
     "name": "Other"
    },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 89.71764054614084,
+   "entities": [],
+   "rank": 61.57426278823024,
    "deltas": [],
-   "sourceCount": 3,
-   "independentCount": 3,
-   "publishedAt": "2026-09-23T12:54:58.000Z",
-   "latestAt": "2026-09-24T01:13:32.000Z",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T13:00:53.000Z",
+   "latestAt": "2026-09-24T13:00:53.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Everything new coming to Meta’s AI agent Muse",
-     "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
+     "title": "Rethinking Credit and Recognition in Mathematics in the Age of AI",
+     "link": "https://www.lesswrong.com/posts/zm5ovfqZ35A8rxZCc/rethinking-credit-and-recognition-in-mathematics-in-the-age",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
      "kind": "coverage",
-     "date": "2026-09-24T01:13:32.000Z",
+     "date": "2026-09-24T13:00:53.000Z",
      "points": null,
-     "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going…"
-    },
-    {
-     "title": "Meta is making a standalone Muse AI gadget",
-     "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-24T00:15:20.000Z",
-     "points": null,
-     "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark…"
-    },
-    {
-     "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
-     "link": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-23T12:54:58.000Z",
-     "points": null,
-     "summary": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the…"
+     "summary": "This text follows from some thoughts I have had on the current impact of AI on mathematics and on the reactions I have seen. It is…"
     }
    ]
   },
   {
-   "id": "claude-claude-discovers-novel-enzyme",
-   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+   "id": "recurrent-quite-easy-interpret",
+   "title": "a recurrent llm is quite easy to interpret but complex to steer",
    "category": {
-    "id": "models",
-    "name": "Models"
+    "id": "general",
+    "name": "Other"
    },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "rank": 86.17700042386726,
+   "entities": [],
+   "rank": 60.81899151979995,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-23T18:06:47.000Z",
-   "latestAt": "2026-09-23T18:06:47.000Z",
-   "primary": {
-    "publisher": "Anthropic",
-    "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats"
-   },
+   "publishedAt": "2026-09-24T12:50:12.000Z",
+   "latestAt": "2026-09-24T12:50:12.000Z",
+   "primary": null,
    "sources": [
     {
-     "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-     "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-     "publisher": "Anthropic",
-     "publisherDomain": "anthropic.com",
-     "kind": "primary",
-     "date": "2026-09-23T18:06:47.000Z",
-     "points": 650,
-     "summary": ""
+     "title": "a recurrent llm is quite easy to interpret but complex to steer",
+     "link": "https://www.lesswrong.com/posts/rzcJMpnehFBD686gj/a-recurrent-llm-is-quite-easy-to-interpret-but-complex-to",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-24T12:50:12.000Z",
+     "points": null,
+     "summary": "TLDR; Ouro-1.4b-thinking is broadly interpretable with logit lenses and linear probes. It's also steerable but does 'clean' foreign concepts out of the residual stream if they're…"
+    }
+   ]
+  },
+  {
+   "id": "after-action-report-canadian",
+   "title": "After Action Report: Canadian Sovereign AI at Nrth 2026",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 59.87552242664561,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T12:36:40.000Z",
+   "latestAt": "2026-09-24T12:36:40.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "After Action Report: Canadian Sovereign AI at Nrth 2026",
+     "link": "https://www.lesswrong.com/posts/ABjHbRSKSrXguoBPh/after-action-report-canadian-sovereign-ai-at-nrth-2026",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-24T12:36:40.000Z",
+     "points": null,
+     "summary": "This report is authored in a personal capacity and does not contain any confidential or privileged information. We appreciate Nrth's generous support in enabling our attendance…"
     }
    ]
   },
@@ -384,7 +751,7 @@
      "kind": "org"
     }
    ],
-   "rank": 78.69217530295036,
+   "rank": 55.6142088243619,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -403,7 +770,45 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-09-24T01:02:23.000Z",
-     "points": 95,
+     "points": 133,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "claude-claude-discovers-novel-enzyme",
+   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 51.61353189031411,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T18:06:47.000Z",
+   "latestAt": "2026-09-23T18:06:47.000Z",
+   "primary": {
+    "publisher": "Anthropic",
+    "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats"
+   },
+   "sources": [
+    {
+     "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+     "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+     "publisher": "Anthropic",
+     "publisherDomain": "anthropic.com",
+     "kind": "primary",
+     "date": "2026-09-23T18:06:47.000Z",
+     "points": 719,
      "summary": ""
     }
    ]
@@ -416,7 +821,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 71.51680933038799,
+   "rank": 50.54315442723759,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -431,7 +836,7 @@
      "publisherDomain": "fly.io",
      "kind": "discussion",
      "date": "2026-09-23T21:01:48.000Z",
-     "points": 231,
+     "points": 271,
      "summary": ""
     }
    ]
@@ -450,7 +855,7 @@
      "kind": "org"
     }
    ],
-   "rank": 67.29849464411464,
+   "rank": 47.561940183939335,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -478,7 +883,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 64.95508232177593,
+   "rank": 45.90577777955298,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -493,7 +898,7 @@
      "publisherDomain": "artificialanalysis.ai",
      "kind": "discussion",
      "date": "2026-09-23T22:16:19.000Z",
-     "points": 105,
+     "points": 137,
      "summary": ""
     }
    ]
@@ -506,7 +911,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 63.29951674973068,
+   "rank": 44.73573807621925,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -527,44 +932,6 @@
    ]
   },
   {
-   "id": "gemini-gemini-text-speech",
-   "title": "Gemini 3.8 text-to-speech",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 62.26919689326145,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T15:29:23.000Z",
-   "latestAt": "2026-09-23T15:29:23.000Z",
-   "primary": {
-    "publisher": "Google",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-    "title": "Gemini 3.8 text-to-speech"
-   },
-   "sources": [
-    {
-     "title": "Gemini 3.8 text-to-speech",
-     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-     "publisher": "Google",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-09-23T15:29:23.000Z",
-     "points": 305,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "automatically-detecting-text-browser",
    "title": "Automatically detecting AI text in my browser",
    "category": {
@@ -572,7 +939,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 50.93916485864403,
+   "rank": 36.000292797612026,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -606,7 +973,7 @@
      "kind": "org"
     }
    ],
-   "rank": 50.90001557094876,
+   "rank": 35.97262477785239,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -638,7 +1005,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 50.12818135605074,
+   "rank": 35.42714552226095,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -672,7 +1039,7 @@
      "kind": "org"
     }
    ],
-   "rank": 49.49961449030441,
+   "rank": 34.98291776013451,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -706,7 +1073,7 @@
      "kind": "model"
     }
    ],
-   "rank": 49.194297674931676,
+   "rank": 34.76714086665865,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -723,6 +1090,44 @@
      "date": "2026-09-23T17:12:27.000Z",
      "points": null,
      "summary": "Tool: Gemini 3.8 TTS Playground Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts . They come with a library of over 2,000…"
+    }
+   ]
+  },
+  {
+   "id": "gemini-gemini-text-speech-says",
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 33.276580792736176,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-23T15:25:14.000Z",
+   "latestAt": "2026-09-23T15:25:14.000Z",
+   "primary": {
+    "publisher": "Google DeepMind",
+    "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "title": "Gemini 3.8 text-to-speech says hello"
+   },
+   "sources": [
+    {
+     "title": "Gemini 3.8 text-to-speech says hello",
+     "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+     "publisher": "Google DeepMind",
+     "publisherDomain": "deepmind.google",
+     "kind": "primary",
+     "date": "2026-09-23T15:25:14.000Z",
+     "points": null,
+     "summary": ""
     }
    ]
   },
@@ -745,7 +1150,7 @@
      "kind": "org"
     }
    ],
-   "rank": 46.28999810191455,
+   "rank": 32.714581989991984,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -777,7 +1182,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 46.04303727374058,
+   "rank": 32.540047088438826,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -805,7 +1210,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 44.72690824656181,
+   "rank": 31.60989775306292,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -833,7 +1238,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 43.515576946353896,
+   "rank": 30.7538122321595,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -867,7 +1272,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 41.388485928698486,
+   "rank": 29.250530824714694,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -901,7 +1306,7 @@
      "kind": "org"
     }
    ],
-   "rank": 41.34365962207283,
+   "rank": 29.218850679034308,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -927,13 +1332,13 @@
   },
   {
    "id": "china-hotline-ready-while",
-   "title": "A US-China AI Hotline Won't Be Ready For a While",
+   "title": "A US-China AI Hotline Won’t Be Ready for a While",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.01623495466521,
+   "rank": 28.98744947863094,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -942,7 +1347,7 @@
    "primary": null,
    "sources": [
     {
-     "title": "A US-China AI Hotline Won't Be Ready For a While",
+     "title": "A US-China AI Hotline Won’t Be Ready for a While",
      "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
      "publisher": "Wired AI",
      "publisherDomain": "wired.com",
@@ -961,7 +1366,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 40.93980260848979,
+   "rank": 28.933432361366478,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1000,7 +1405,7 @@
      "kind": "org"
     }
    ],
-   "rank": 40.20216990523993,
+   "rank": 28.412124378250166,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1038,7 +1443,7 @@
      "kind": "org"
     }
    ],
-   "rank": 39.97864215772465,
+   "rank": 28.25415036392795,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1070,7 +1475,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 39.86162771733317,
+   "rank": 28.171452617953285,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1091,34 +1496,6 @@
    ]
   },
   {
-   "id": "thoughts-persona-selection-model",
-   "title": "Thoughts on the persona selection model",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 38.834640656026046,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T01:21:26.000Z",
-   "latestAt": "2026-09-24T01:21:26.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Thoughts on the persona selection model",
-     "link": "https://www.lesswrong.com/posts/csRby7mZgjL5jCoLL/thoughts-on-the-persona-selection-model",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-24T01:21:26.000Z",
-     "points": null,
-     "summary": "As AIs have become more \"RLVR-brained,\" there's been some commentary on what this means for the persona selection model (PSM). This post presents some loose thoughts…"
-    }
-   ]
-  },
-  {
    "id": "advancing-private-compute-with",
    "title": "Advancing Private AI Compute with secure, server-side memory",
    "category": {
@@ -1126,7 +1503,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.745117140390434,
+   "rank": 26.67564873717467,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1169,7 +1546,7 @@
      "kind": "model"
     }
    ],
-   "rank": 37.30139209000134,
+   "rank": 26.36205443738647,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1197,7 +1574,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.02858735452739,
+   "rank": 26.169254842401134,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1225,7 +1602,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 36.33591256503229,
+   "rank": 25.67972001581836,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1253,7 +1630,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 35.795591615532906,
+   "rank": 25.29785838850979,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1274,40 +1651,6 @@
    ]
   },
   {
-   "id": "infrastructure-datacenter-town-hall-midwestern",
-   "title": "At a Datacenter Town Hall in My Midwestern Home Town",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "infrastructure",
-     "name": "AI Infrastructure",
-     "kind": "topic"
-    }
-   ],
-   "rank": 35.38665091041778,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T00:00:57.000Z",
-   "latestAt": "2026-09-24T00:00:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "At a Datacenter Town Hall in My Midwestern Home Town",
-     "link": "https://www.lesswrong.com/posts/fkkwpzbjybXtbQXw9/at-a-datacenter-town-hall-in-my-midwestern-home-town",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-24T00:00:57.000Z",
-     "points": null,
-     "summary": "Let’s talk data centers. Last month I was home in Duluth, Minnesota. The last time I’d been back was over Christmas. I’ve been talking to friends…"
-    }
-   ]
-  },
-  {
    "id": "pope-worried-about-cartel",
    "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
    "category": {
@@ -1315,7 +1658,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 33.43119829087306,
+   "rank": 23.626868056950986,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1343,7 +1686,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 32.70664904767925,
+   "rank": 23.114806562153255,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1364,40 +1707,6 @@
    ]
   },
   {
-   "id": "safety-safety-researcher",
-   "title": "\"I am an AI Safety Researcher\"",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 32.43471047807747,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T22:45:33.000Z",
-   "latestAt": "2026-09-23T22:45:33.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "\"I am an AI Safety Researcher\"",
-     "link": "https://www.lesswrong.com/posts/HekpnSkrt89tMm3Dc/i-am-an-ai-safety-researcher",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-23T22:45:33.000Z",
-     "points": null,
-     "summary": "Written as part of the MATS 9.1 extension program, mentored by Richard Ngo. Additional thanks to Andrew Wu, Maria Kostylew, and Lennie Wells for helpful draft…"
-    }
-   ]
-  },
-  {
    "id": "even-americans-every-worried",
    "title": "Even Americans who use AI every day are worried about it",
    "category": {
@@ -1405,7 +1714,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 30.72627431412327,
+   "rank": 21.715214117815997,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1426,34 +1735,6 @@
    ]
   },
   {
-   "id": "youtube-releases-features-creators",
-   "title": "YouTube releases new AI features for creators within its Studio app",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [],
-   "rank": 30.059664938603092,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T14:30:00.000Z",
-   "latestAt": "2026-09-23T14:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "YouTube releases new AI features for creators within its Studio app",
-     "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-23T14:30:00.000Z",
-     "points": null,
-     "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
-    }
-   ]
-  },
-  {
    "id": "robotics-offloaded-inference-real-world",
    "title": "Offloaded inference for real-world physical AI robotics",
    "category": {
@@ -1467,7 +1748,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 29.05651611508919,
+   "rank": 20.535144043380146,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1499,7 +1780,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.574072902416386,
+   "rank": 20.1941864135753,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1537,7 +1818,7 @@
      "kind": "model"
     }
    ],
-   "rank": 28.574072902416386,
+   "rank": 20.1941864135753,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1575,7 +1856,7 @@
      "kind": "model"
     }
    ],
-   "rank": 28.574072902416386,
+   "rank": 20.1941864135753,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1600,34 +1881,6 @@
    ]
   },
   {
-   "id": "youtube-music-gets-more",
-   "title": "YouTube Music gets more conversational with new AI features",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 27.67714376828627,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T15:19:30.000Z",
-   "latestAt": "2026-09-23T15:19:30.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "YouTube Music gets more conversational with new AI features",
-     "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-23T15:19:30.000Z",
-     "points": null,
-     "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs…"
-    }
-   ]
-  },
-  {
    "id": "welcomes-david-siegel-next",
    "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
    "category": {
@@ -1635,7 +1888,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.614168361070497,
+   "rank": 18.809060891010933,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1663,7 +1916,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 25.71056211312786,
+   "rank": 18.170454239528574,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1691,7 +1944,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 24.875175260863102,
+   "rank": 17.58006035764491,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1729,7 +1982,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 23.38915923875979,
+   "rank": 16.529846596855634,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1757,7 +2010,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.347224629633256,
+   "rank": 16.500210103774165,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1785,7 +2038,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.281237217172844,
+   "rank": 16.45357474616429,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1829,7 +2082,7 @@
      "kind": "org"
     }
    ],
-   "rank": 21.62033579093512,
+   "rank": 15.279764028645559,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1857,7 +2110,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.5500613080861,
+   "rank": 15.230098864998187,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1896,7 +2149,7 @@
      "kind": "model"
     }
    ],
-   "rank": 20.010876894402447,
+   "rank": 14.142309347523804,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1924,7 +2177,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.46921974263335,
+   "rank": 13.759503384494762,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1952,7 +2205,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.74602088313674,
+   "rank": 13.248396247873556,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1991,7 +2244,7 @@
      "kind": "model"
     }
    ],
-   "rank": 17.99587308635936,
+   "rank": 12.718243458749326,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2034,7 +2287,7 @@
      "kind": "org"
     }
    ],
-   "rank": 17.82358028928988,
+   "rank": 12.596478778102657,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2062,7 +2315,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.792232296576394,
+   "rank": 12.574324176246998,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -2096,7 +2349,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 16.831047763739306,
+   "rank": 11.895025159258914,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2130,7 +2383,7 @@
      "kind": "org"
     }
    ],
-   "rank": 16.790743301082596,
+   "rank": 11.866540741410319,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2168,7 +2421,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 16.300203213605243,
+   "rank": 11.519860798243677,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2202,7 +2455,7 @@
      "kind": "model"
     }
    ],
-   "rank": 14.287036451208193,
+   "rank": 10.097093206787651,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2250,7 +2503,7 @@
      "kind": "model"
     }
    ],
-   "rank": 12.457356536626158,
+   "rank": 8.804001479947425,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2278,7 +2531,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.59029034946804,
+   "rank": 8.191218826379743,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2312,7 +2565,7 @@
      "kind": "org"
     }
    ],
-   "rank": 10.785201157187494,
+   "rank": 7.622237243530449,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2346,7 +2599,7 @@
      "kind": "model"
     }
    ],
-   "rank": 10.102460357708699,
+   "rank": 7.139723076792169,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2378,7 +2631,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.012127311878633,
+   "rank": 5.662419671774987,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2412,7 +2665,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.845863528542531,
+   "rank": 5.544915882728811,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2440,7 +2693,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.6039070739480765,
+   "rank": 5.373917727697332,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2474,7 +2727,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 6.5940168236345515,
+   "rank": 4.660196864671223,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2502,7 +2755,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.550486289802326,
+   "rank": 4.62943248194243,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2536,7 +2789,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 6.5254216661582305,
+   "rank": 4.6117185325175925,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2570,7 +2823,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.453809258435568,
+   "rank": 4.561107815731955,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2598,7 +2851,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.426898021020055,
+   "rank": 4.542088806896749,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2632,7 +2885,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 6.153027569369742,
+   "rank": 4.348536037129414,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2666,7 +2919,7 @@
      "kind": "model"
     }
    ],
-   "rank": 5.413774458858547,
+   "rank": 3.8260828617819116,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2698,7 +2951,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.102029109382726,
+   "rank": 3.6057627232290517,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2737,7 +2990,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.748012236430224,
+   "rank": 3.3555679837402574,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2771,7 +3024,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.705580075182619,
+   "rank": 3.3255798550933076,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2799,7 +3052,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.463338305508746,
+   "rank": 3.1543800590175133,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2820,34 +3073,6 @@
    ]
   },
   {
-   "id": "models-built-from-brains",
-   "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 4.463338305508746,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T13:00:00.000Z",
-   "latestAt": "2026-09-22T13:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
-     "link": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-22T13:00:00.000Z",
-     "points": null,
-     "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature…"
-    }
-   ]
-  },
-  {
    "id": "download-latest-breakthroughs-fears",
    "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
    "category": {
@@ -2855,7 +3080,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.423471894146839,
+   "rank": 3.126205225649096,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2883,7 +3108,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.275753601994289,
+   "rank": 3.0218081122725384,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2911,7 +3136,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.1027630148818055,
+   "rank": 2.8995502816904684,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2945,7 +3170,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.66878810585331,
+   "rank": 1.8861155947907116,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2979,7 +3204,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.609126738744634,
+   "rank": 1.8439510502682737,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3013,7 +3238,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.50149649173466,
+   "rank": 1.7678854057491566,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3045,7 +3270,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.356482202358738,
+   "rank": 1.6653992952709447,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3083,7 +3308,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.0845804097788836,
+   "rank": 1.4732378381242972,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3121,7 +3346,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.0845804097788836,
+   "rank": 1.4732378381242972,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3153,7 +3378,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.051548304417548,
+   "rank": 1.4498930214585817,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3181,7 +3406,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0284528803406356,
+   "rank": 1.433570766640288,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3209,7 +3434,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.9507737395805917,
+   "rank": 1.378672500848364,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3237,7 +3462,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.7227742816644835,
+   "rank": 1.2175381896468742,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3276,7 +3501,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.5909191621184189,
+   "rank": 1.1243520739401305,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3304,7 +3529,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.11639603680242,
+   "rank": 0.7889918163069508,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3325,108 +3550,6 @@
    ]
   },
   {
-   "id": "gpt-higgsfield-ships-video-features",
-   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.0257184543303453,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T12:00:00.000Z",
-   "latestAt": "2026-09-21T12:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra"
-   },
-   "sources": [
-    {
-     "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-     "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-21T12:00:00.000Z",
-     "points": null,
-     "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
-    }
-   ]
-  },
-  {
-   "id": "advisory-group-mathematics-artificial",
-   "title": "Advisory Group on Mathematics and Artificial Intelligence",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.0257184543303453,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T12:00:00.000Z",
-   "latestAt": "2026-09-21T12:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "title": "Advisory Group on Mathematics and Artificial Intelligence"
-   },
-   "sources": [
-    {
-     "title": "Advisory Group on Mathematics and Artificial Intelligence",
-     "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-21T12:00:00.000Z",
-     "points": null,
-     "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
-    }
-   ]
-  },
-  {
-   "id": "pruning-llms-like-physicist",
-   "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.0238715981419373,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T13:44:34.000Z",
-   "latestAt": "2026-09-21T13:44:34.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem"
-   },
-   "sources": [
-    {
-     "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-     "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-09-21T13:44:34.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "improving-synthesis-prediction-small",
    "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
    "category": {
@@ -3434,7 +3557,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.0060143887564155,
+   "rank": 0.7109816710647526,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3455,106 +3578,6 @@
      "date": "2026-09-21T15:30:19.000Z",
      "points": null,
      "summary": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps…"
-    }
-   ]
-  },
-  {
-   "id": "building-standards-next-phase",
-   "title": "Building standards for the next phase of AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8929397782005123,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T10:00:00.000Z",
-   "latestAt": "2026-09-21T10:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/building-standards-next-phase-ai",
-    "title": "Building standards for the next phase of AI"
-   },
-   "sources": [
-    {
-     "title": "Building standards for the next phase of AI",
-     "link": "https://openai.com/index/building-standards-next-phase-ai",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-21T10:00:00.000Z",
-     "points": null,
-     "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
-    }
-   ]
-  },
-  {
-   "id": "safety-safety-fears-mount-china",
-   "title": "As AI safety fears mount, can a US-China hotline prevent a global crisis?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.8034860062206177,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T13:00:08.000Z",
-   "latestAt": "2026-09-21T13:00:08.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "As AI safety fears mount, can a US-China hotline prevent a global crisis?",
-     "link": "https://www.scmp.com/tech/tech-war/article/3368281/ai-safety-fears-mount-can-us-china-hotline-prevent-global-crisis?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-21T13:00:08.000Z",
-     "points": null,
-     "summary": "The United States and China’s agreement to establish an official AI dialogue, including a proposed threat-notification system, marks a pragmatic step towards crisis prevention in their…"
-    }
-   ]
-  },
-  {
-   "id": "amazon-moonshot-kimi-lands-amazon",
-   "title": "Moonshot’s Kimi K3 lands on Amazon in key test for Chinese open-source AI revenue",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "amazon",
-     "name": "Amazon",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.7241142499512803,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-21T11:30:06.000Z",
-   "latestAt": "2026-09-21T11:30:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Moonshot’s Kimi K3 lands on Amazon in key test for Chinese open-source AI revenue",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3368274/moonshots-kimi-k3-lands-amazon-key-test-chinese-open-source-ai-revenue?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-21T11:30:06.000Z",
-     "points": null,
-     "summary": "Chinese artificial intelligence start-up Moonshot AI has begun supplying its flagship Kimi K3 model to Amazon Web Services (AWS), one of the world’s largest cloud services…"
     }
    ]
   }
