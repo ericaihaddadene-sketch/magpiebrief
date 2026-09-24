@@ -1,25 +1,98 @@
 {
- "openai-australia-says-openai-agent": {
-  "id": "openai-australia-says-openai-agent",
-  "title": "Australia says OpenAI agent hacked into government website",
-  "firstSeen": "2026-09-24T04:27:18.714Z",
+ "google-deepmind-gemini-gemini-almost-ready-says": {
+  "id": "google-deepmind-gemini-gemini-almost-ready-says",
+  "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+  "firstSeen": "2026-09-24T09:51:26.389Z",
   "publishers": [
-   "channelnewsasia.com"
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "models"
+ },
+ "openai-openai-agent-hacked-australian": {
+  "id": "openai-openai-agent-hacked-australian",
+  "title": "OpenAI agent hacked Australian government website, PM says",
+  "firstSeen": "2026-09-24T09:51:26.389Z",
+  "publishers": [
+   "bbc.com"
   ],
   "sourceCount": 1,
   "independentCount": 0,
   "hadPrimary": false,
   "category": "security"
  },
- "feds-target-critics-foreign": {
-  "id": "feds-target-critics-foreign",
-  "title": "Feds Target AI Critics as \"Foreign Agents\"",
-  "firstSeen": "2026-09-24T04:27:18.714Z",
+ "meta-ai-meta-takes-down-critical": {
+  "id": "meta-ai-meta-takes-down-critical",
+  "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+  "firstSeen": "2026-09-24T09:51:26.389Z",
   "publishers": [
-   "kenklippenstein.com"
+   "TechCrunch",
+   "reddit.com"
+  ],
+  "sourceCount": 2,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "agents-early-rogue-agent-activity": {
+  "id": "agents-early-rogue-agent-activity",
+  "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+  "firstSeen": "2026-09-24T09:51:26.389Z",
+  "publishers": [
+   "transluce.org"
   ],
   "sourceCount": 1,
   "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "agents-kingmakers": {
+  "id": "agents-kingmakers",
+  "title": "Agents: The new, New Kingmakers",
+  "firstSeen": "2026-09-24T09:51:26.389Z",
+  "publishers": [
+   "redmonk.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "intent-motivation": {
+  "id": "intent-motivation",
+  "title": "AI has no intent and no motivation",
+  "firstSeen": "2026-09-24T09:51:26.389Z",
+  "publishers": [
+   "i-programmer.info"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "contrastive-language-models": {
+  "id": "contrastive-language-models",
+  "title": "Contrastive Language Models",
+  "firstSeen": "2026-09-24T09:51:26.389Z",
+  "publishers": [
+   "contrastive-lm.notion.site"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "alibaba-alibaba-unveils-pragmatic-road": {
+  "id": "alibaba-alibaba-unveils-pragmatic-road",
+  "title": "Alibaba unveils ‘pragmatic’ AI road map to drive monetisation, infrastructure efficiency",
+  "firstSeen": "2026-09-24T09:51:26.389Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -34,30 +107,6 @@
   ],
   "sourceCount": 3,
   "independentCount": 3,
-  "hadPrimary": false,
-  "category": "general"
- },
- "agents-inside-snapdragon-summit-2026": {
-  "id": "agents-inside-snapdragon-summit-2026",
-  "title": "Inside Snapdragon Summit 2026: Agentic AI PCs, Googlebooks and Linux | Qualcomm",
-  "firstSeen": "2026-09-24T04:27:18.714Z",
-  "publishers": [
-   "qualcomm.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "anthropic-anthropic-says-biology-already": {
-  "id": "anthropic-anthropic-says-biology-already",
-  "title": "Anthropic says its biology lab has already found something big",
-  "firstSeen": "2026-09-23T23:34:01.008Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -97,6 +146,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "anthropic-anthropic-says-biology-already": {
+  "id": "anthropic-anthropic-says-biology-already",
+  "title": "Anthropic says its biology lab has already found something big",
+  "firstSeen": "2026-09-23T23:34:01.008Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "mercury-hits-tokens-second": {
   "id": "mercury-hits-tokens-second",
   "title": "Mercury 2.5 LLM hits 770 tokens per second",
@@ -121,18 +182,17 @@
   "hadPrimary": false,
   "category": "research"
  },
- "meta-ai-meta-glasses-meta-audio": {
-  "id": "meta-ai-meta-glasses-meta-audio",
-  "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
-  "firstSeen": "2026-09-24T04:27:18.714Z",
+ "gemini-gemini-text-speech": {
+  "id": "gemini-gemini-text-speech",
+  "title": "Gemini 3.8 text-to-speech",
+  "firstSeen": "2026-09-24T09:51:26.389Z",
   "publishers": [
-   "Wired AI",
-   "TechCrunch"
+   "Google"
   ],
-  "sourceCount": 2,
-  "independentCount": 2,
-  "hadPrimary": false,
-  "category": "policy"
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "models"
  },
  "automatically-detecting-text-browser": {
   "id": "automatically-detecting-text-browser",
@@ -158,6 +218,30 @@
   "hadPrimary": true,
   "category": "general"
  },
+ "against-export-controls-china": {
+  "id": "against-export-controls-china",
+  "title": "Against Export Controls (and China Threat Models)",
+  "firstSeen": "2026-09-24T09:51:26.389Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "meta-ai-meta-glasses-meta-audio": {
+  "id": "meta-ai-meta-glasses-meta-audio",
+  "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+  "firstSeen": "2026-09-24T04:27:18.714Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "policy"
+ },
  "gemini-gemini-playground": {
   "id": "gemini-gemini-playground",
   "title": "Gemini 3.8 TTS Playground",
@@ -168,18 +252,6 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "models"
- },
- "gemini-gemini-text-speech-says": {
-  "id": "gemini-gemini-text-speech-says",
-  "title": "Gemini 3.8 text-to-speech says hello",
-  "firstSeen": "2026-09-24T04:27:18.714Z",
-  "publishers": [
-   "Google DeepMind"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
   "category": "models"
  },
  "openai-agents-ringg-agents-resolve-customer": {
@@ -1225,41 +1297,5 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "business"
- },
- "regulation-chinese-regulator-drafts-rules": {
-  "id": "regulation-chinese-regulator-drafts-rules",
-  "title": "Chinese regulator drafts rules to protect teenagers from ‘intimate’ AI companions",
-  "firstSeen": "2026-09-21T10:35:42.011Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "policy"
- },
- "china-agree-dialogue-ahead": {
-  "id": "china-agree-dialogue-ahead",
-  "title": "US, China agree AI dialogue ahead of Trump-Xi summit",
-  "firstSeen": "2026-09-21T10:35:42.011Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "neither-china-race-alone": {
-  "id": "neither-china-race-alone",
-  "title": "Neither the US nor China can win the AI race alone, BofA analyst says",
-  "firstSeen": "2026-09-21T10:35:42.011Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  }
 }
