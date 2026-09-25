@@ -1,44 +1,430 @@
 {
  "date": "2026-09-25",
- "generated": "2026-09-25T13:35:11.372Z",
- "headline": "93 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2702 items read · 95 on-topic · 93 distinct developments · 20 with a primary source · 2 independently corroborated",
+ "generated": "2026-09-25T18:27:34.097Z",
+ "headline": "95 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2703 items read · 97 on-topic · 95 distinct developments · 20 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "agents-show-agentic-cuda-kernel",
-   "title": "Show HN: Agentic CUDA Kernel Optimizer",
+   "id": "anthropic-appeals-court-upholds-designation",
+   "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 208.910440442684,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-25T15:29:25.000Z",
+   "latestAt": "2026-09-25T15:29:25.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+     "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+     "publisher": "cnbc.com",
+     "publisherDomain": "cnbc.com",
+     "kind": "discussion",
+     "date": "2026-09-25T15:29:25.000Z",
+     "points": 214,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "openai-months-openai-agent-swarms",
+   "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [
     {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
     }
    ],
-   "rank": 131.05857639915843,
+   "rank": 134.7641963477419,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-25T10:32:58.000Z",
-   "latestAt": "2026-09-25T10:32:58.000Z",
+   "publishedAt": "2026-09-25T15:48:14.000Z",
+   "latestAt": "2026-09-25T15:48:14.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+     "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-25T15:48:14.000Z",
+     "points": null,
+     "summary": "The latest unauthorized agent swarms were discovered by researchers."
+    }
+   ]
+  },
+  {
+   "id": "proaction-boosts-sales-saves",
+   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 130,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-25T19:00:00.000Z",
+   "latestAt": "2026-09-25T19:00:00.000Z",
    "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/bertaye/agentic-cuda-optimizer",
-    "title": "Show HN: Agentic CUDA Kernel Optimizer"
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/proaction",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex"
    },
    "sources": [
     {
-     "title": "Show HN: Agentic CUDA Kernel Optimizer",
-     "link": "https://github.com/bertaye/agentic-cuda-optimizer",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
+     "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+     "link": "https://openai.com/index/proaction",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
      "kind": "primary",
-     "date": "2026-09-25T10:32:58.000Z",
-     "points": 21,
+     "date": "2026-09-25T19:00:00.000Z",
+     "points": null,
+     "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
+    }
+   ]
+  },
+  {
+   "id": "anthropic-funding-anthropic-founders-seek-voting",
+   "title": "Anthropic’s founders seek voting control ahead of IPO",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 123.60756627342738,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-25T15:40:03.000Z",
+   "latestAt": "2026-09-25T15:40:03.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic’s founders seek voting control ahead of IPO",
+     "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-25T15:40:03.000Z",
+     "points": null,
+     "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters."
+    }
+   ]
+  },
+  {
+   "id": "classified-estimates-show-paying",
+   "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 117.77878353643847,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-25T15:27:35.000Z",
+   "latestAt": "2026-09-25T15:27:35.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+     "link": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+     "publisher": "washingtonsun.com",
+     "publisherDomain": "washingtonsun.com",
+     "kind": "discussion",
+     "date": "2026-09-25T15:27:35.000Z",
+     "points": 130,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "quoting-john-gruber",
+   "title": "Quoting John Gruber",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 111.24830891410106,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-25T17:22:01.000Z",
+   "latestAt": "2026-09-25T17:22:01.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Quoting John Gruber",
+     "link": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-25T17:22:01.000Z",
+     "points": null,
+     "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running…"
+    }
+   ]
+  },
+  {
+   "id": "week-biggest-funding-rounds",
+   "title": "The Week’s 10 Biggest Funding Rounds: Cybersecurity, AI And Health Take The Lead",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [],
+   "rank": 108.46482608414962,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-25T17:44:29.000Z",
+   "latestAt": "2026-09-25T17:44:29.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Week’s 10 Biggest Funding Rounds: Cybersecurity, AI And Health Take The Lead",
+     "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-09-25T17:44:29.000Z",
+     "points": null,
+     "summary": "This week delivered a bountiful supply of big startup funding rounds, led by two $400 million financings for cybersecurity unicorns and large financings for startups across…"
+    }
+   ]
+  },
+  {
+   "id": "microsoft-copilot-microsoft-abandons-personal-chatbot",
+   "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "microsoft",
+     "name": "Microsoft",
+     "kind": "org"
+    },
+    {
+     "id": "copilot",
+     "name": "Copilot",
+     "kind": "product"
+    }
+   ],
+   "rank": 107.32575671078706,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 1,
+   "publishedAt": "2026-09-25T14:07:08.000Z",
+   "latestAt": "2026-09-25T17:57:37.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+     "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-25T17:57:37.000Z",
+     "points": null,
+     "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding."
+    },
+    {
+     "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
+     "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+     "publisher": "Bloomberg",
+     "publisherDomain": "bloomberg.com",
+     "kind": "discussion",
+     "date": "2026-09-25T14:07:08.000Z",
+     "points": 57,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "show-doom-bloom-your",
+   "title": "Show HN: Doom or Bloom, map your AI worldview with Jev",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 105.71034302233227,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-25T16:51:28.000Z",
+   "latestAt": "2026-09-25T16:51:28.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Show HN: Doom or Bloom, map your AI worldview with Jev",
+     "link": "https://www.doom-or-bloom.com",
+     "publisher": "doom-or-bloom.com",
+     "publisherDomain": "doom-or-bloom.com",
+     "kind": "discussion",
+     "date": "2026-09-25T16:51:28.000Z",
+     "points": 4,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "robotics-aeropod-automates-soil-aeration",
+   "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
+    }
+   ],
+   "rank": 93.56588791305558,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-25T17:30:00.000Z",
+   "latestAt": "2026-09-25T17:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
+     "link": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-25T17:30:00.000Z",
+     "points": null,
+     "summary": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields."
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-meta-putting-muscle-behind",
+   "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 85.98552189379875,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-25T16:16:52.000Z",
+   "latestAt": "2026-09-25T16:16:52.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+     "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-25T16:16:52.000Z",
+     "points": null,
+     "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own…"
+    }
+   ]
+  },
+  {
+   "id": "company-center-wave-rogue",
+   "title": "One company is at the center of a wave of rogue AI attacks",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 82.38124810872192,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-25T15:39:48.000Z",
+   "latestAt": "2026-09-25T15:39:48.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "One company is at the center of a wave of rogue AI attacks",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-25T15:39:48.000Z",
+     "points": null,
+     "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar…"
+    }
+   ]
+  },
+  {
+   "id": "techcrunch-disrupt-2026-ricursive",
+   "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 78.6792197361193,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-25T15:00:00.000Z",
+   "latestAt": "2026-09-25T15:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+     "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-25T15:00:00.000Z",
+     "points": null,
+     "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip…"
     }
    ]
   },
@@ -46,8 +432,8 @@
    "id": "google-amazon-apple-apple-home-camera-features",
    "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
    "category": {
-    "id": "models",
-    "name": "Models"
+    "id": "general",
+    "name": "Other"
    },
    "entities": [
     {
@@ -64,18 +450,13 @@
      "id": "apple",
      "name": "Apple",
      "kind": "org"
-    },
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
     }
    ],
-   "rank": 113.29929525809925,
+   "rank": 68.49423906097817,
    "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-24T16:00:00.000Z",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-25T13:00:00.000Z",
    "latestAt": "2026-09-25T13:00:00.000Z",
    "primary": null,
    "sources": [
@@ -88,16 +469,6 @@
      "date": "2026-09-25T13:00:00.000Z",
      "points": null,
      "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed…"
-    },
-    {
-     "title": "Google tests letting Gemini call businesses for you",
-     "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-24T16:00:00.000Z",
-     "points": null,
-     "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription."
     }
    ]
   },
@@ -109,7 +480,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 95.1587365771285,
+   "rank": 67.8824504571532,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -130,6 +501,34 @@
    ]
   },
   {
+   "id": "need-better-theory-polarization",
+   "title": "We need a better theory of polarization, because it's failing to predict the AI debate",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 67.5985739035895,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-25T17:57:21.000Z",
+   "latestAt": "2026-09-25T17:57:21.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "We need a better theory of polarization, because it's failing to predict the AI debate",
+     "link": "https://www.lesswrong.com/posts/WMBgSseHJpghhma4n/we-need-a-better-theory-of-polarization-because-it-s-failing",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-25T17:57:21.000Z",
+     "points": null,
+     "summary": "The punchline first: the AI issue is really not playing out the way you would expect if you know about polarization. In public sentiment: data centers…"
+    }
+   ]
+  },
+  {
    "id": "trump-admin-using-deny",
    "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
    "category": {
@@ -137,7 +536,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 91.99538084323004,
+   "rank": 65.62583854101386,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -158,45 +557,6 @@
    ]
   },
   {
-   "id": "microsoft-copilot-microsoft-thinks-copilot-super",
-   "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [
-    {
-     "id": "microsoft",
-     "name": "Microsoft",
-     "kind": "org"
-    },
-    {
-     "id": "copilot",
-     "name": "Copilot",
-     "kind": "product"
-    }
-   ],
-   "rank": 89.5864240624376,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T12:00:00.000Z",
-   "latestAt": "2026-09-25T12:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-     "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-25T12:00:00.000Z",
-     "points": null,
-     "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single…"
-    }
-   ]
-  },
-  {
    "id": "china-overtakes-workplace-elite",
    "title": "China overtakes US as top workplace for elite AI researchers, study finds",
    "category": {
@@ -204,7 +564,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 88.1372426774732,
+   "rank": 62.873596526098446,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -232,7 +592,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 83.52899205989746,
+   "rank": 59.58625418115062,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -260,7 +620,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 82.21912313444925,
+   "rank": 58.6518458899578,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -288,7 +648,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 79.47197554192508,
+   "rank": 56.69214027536233,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -309,34 +669,6 @@
    ]
   },
   {
-   "id": "just-tool",
-   "title": "AI is not “just a tool”",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [],
-   "rank": 76.31084703656038,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-25T11:12:22.000Z",
-   "latestAt": "2026-09-25T11:12:22.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI is not “just a tool”",
-     "link": "https://brettcodes.com/ai-is-not-just-a-tool/",
-     "publisher": "brettcodes.com",
-     "publisherDomain": "brettcodes.com",
-     "kind": "discussion",
-     "date": "2026-09-25T11:12:22.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "foundational-premises-advanced",
    "title": "Foundational premises of advanced AI",
    "category": {
@@ -344,7 +676,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 58.06318116541707,
+   "rank": 41.41995953941104,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -372,7 +704,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 55.14691274800931,
+   "rank": 39.33960986805965,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -393,6 +725,34 @@
    ]
   },
   {
+   "id": "northern-gannet-great-blue",
+   "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 38.65874582382126,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-25T02:07:04.000Z",
+   "latestAt": "2026-09-25T02:07:04.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+     "link": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-25T02:07:04.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "lobsters-rename-vibecoding-llms",
    "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
    "category": {
@@ -400,7 +760,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 51.61352811534302,
+   "rank": 36.81903408174047,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -428,7 +788,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 48.419047167679835,
+   "rank": 34.54021867848734,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -444,7 +804,7 @@
      "kind": "coverage",
      "date": "2026-09-25T05:38:18.000Z",
      "points": null,
-     "summary": "Epistemic status: mostly conceptual. I do not argue that existing systems recognize anything, only that the recognition schema makes such claims and associated risks expressible. TL;DR…"
+     "summary": "Epistemic status: conceptual. I define a schema. I do not argue that existing systems recognize anything, only that the schema makes such claims and associated risks…"
     }
    ]
   },
@@ -462,7 +822,7 @@
      "kind": "org"
     }
    ],
-   "rank": 47.163651871872766,
+   "rank": 33.64466970382548,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -493,6 +853,90 @@
    ]
   },
   {
+   "id": "note-24th-september-2026",
+   "title": "Note on 24th September 2026",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 32.28593806719109,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T23:31:08.000Z",
+   "latestAt": "2026-09-24T23:31:08.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Note on 24th September 2026",
+     "link": "https://simonwillison.net/2026/Sep/24/harder/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-24T23:31:08.000Z",
+     "points": null,
+     "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things…"
+    }
+   ]
+  },
+  {
+   "id": "cognitive-reasoning-diversity-robust",
+   "title": "Cognitive Reasoning Diversity for Robust AI Juries",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 30.758071128063882,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-25T06:35:44.000Z",
+   "latestAt": "2026-09-25T06:35:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Cognitive Reasoning Diversity for Robust AI Juries",
+     "link": "https://www.lesswrong.com/posts/HCpgntjDAE8bycfGn/cognitive-reasoning-diversity-for-robust-ai-juries",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-25T06:35:44.000Z",
+     "points": null,
+     "summary": "This project was done as part of BlueDot's Technical AI Safety Project Sprint under the mentorship of Jess Bergs. TL;DR Researchers have suggested that Human-AI juries…"
+    }
+   ]
+  },
+  {
+   "id": "continual-learning-might-make",
+   "title": "Continual learning might make your blocking monitors nearly useless",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 28.725189747303233,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T23:45:34.000Z",
+   "latestAt": "2026-09-24T23:45:34.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Continual learning might make your blocking monitors nearly useless",
+     "link": "https://www.alignmentforum.org/posts/QnDqGbKehEB3DxJAp/continual-learning-might-make-your-blocking-monitors-nearly",
+     "publisher": "Alignment Forum",
+     "publisherDomain": "alignmentforum.org",
+     "kind": "coverage",
+     "date": "2026-09-24T23:45:34.000Z",
+     "points": null,
+     "summary": "Many control protocols work by intervening on an untrusted AI's actions during deployment. For example, you might set up a monitor that scores each action's suspiciousness…"
+    }
+   ]
+  },
+  {
    "id": "gemini-introducing-gemini-live-with",
    "title": "Introducing Gemini 3.8 Live with Live Avatar",
    "category": {
@@ -506,7 +950,7 @@
      "kind": "model"
     }
    ],
-   "rank": 45.74160204882285,
+   "rank": 27.652742399033027,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -531,129 +975,6 @@
    ]
   },
   {
-   "id": "cognitive-reasoning-diversity-robust",
-   "title": "Cognitive Reasoning Diversity for Robust AI Juries",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 43.11717046725419,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T06:35:44.000Z",
-   "latestAt": "2026-09-25T06:35:44.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Cognitive Reasoning Diversity for Robust AI Juries",
-     "link": "https://www.lesswrong.com/posts/HCpgntjDAE8bycfGn/cognitive-reasoning-diversity-for-robust-ai-juries",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-25T06:35:44.000Z",
-     "points": null,
-     "summary": "This project was done as part of BlueDot's Technical AI Safety Project Sprint under the mentorship of Jess Bergs. TL;DR Researchers have suggested that Human-AI juries…"
-    }
-   ]
-  },
-  {
-   "id": "microsoft-copilot-microsoft-killing-copilot-plus",
-   "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "microsoft",
-     "name": "Microsoft",
-     "kind": "org"
-    },
-    {
-     "id": "copilot",
-     "name": "Copilot",
-     "kind": "product"
-    }
-   ],
-   "rank": 43.06210999145197,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T01:25:53.000Z",
-   "latestAt": "2026-09-25T01:25:53.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
-     "link": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-25T01:25:53.000Z",
-     "points": null,
-     "summary": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in…"
-    }
-   ]
-  },
-  {
-   "id": "using-llms-trace-alchemical",
-   "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 40.654536769810505,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-24T19:14:27.000Z",
-   "latestAt": "2026-09-24T19:14:27.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-     "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-     "publisher": "resobscura.substack.com",
-     "publisherDomain": "resobscura.substack.com",
-     "kind": "discussion",
-     "date": "2026-09-24T19:14:27.000Z",
-     "points": 145,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "continual-learning-might-make",
-   "title": "Continual learning might make your blocking monitors nearly useless",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 40.26744388105127,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T23:45:34.000Z",
-   "latestAt": "2026-09-24T23:45:34.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Continual learning might make your blocking monitors nearly useless",
-     "link": "https://www.alignmentforum.org/posts/QnDqGbKehEB3DxJAp/continual-learning-might-make-your-blocking-monitors-nearly",
-     "publisher": "Alignment Forum",
-     "publisherDomain": "alignmentforum.org",
-     "kind": "coverage",
-     "date": "2026-09-24T23:45:34.000Z",
-     "points": null,
-     "summary": "Many control protocols work by intervening on an untrusted AI's actions during deployment. For example, you might set up a monitor that scores each action's suspiciousness…"
-    }
-   ]
-  },
-  {
    "id": "commit-rewriter",
    "title": "commit-rewriter 0.2",
    "category": {
@@ -661,7 +982,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.746122357289366,
+   "rank": 25.499859153628694,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -695,7 +1016,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 34.51651361786506,
+   "rank": 24.622705280657726,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -723,7 +1044,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 34.38195056079969,
+   "rank": 24.526713358284947,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -751,7 +1072,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 33.68143060032703,
+   "rank": 24.026990335244506,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -779,7 +1100,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 30.089904779481568,
+   "rank": 21.464938942290996,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -807,7 +1128,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 29.960421081776538,
+   "rank": 21.372570432465864,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -828,6 +1149,45 @@
    ]
   },
   {
+   "id": "google-gemini-google-gemini-make-calls",
+   "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    },
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 20.769900051583065,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T16:00:00.000Z",
+   "latestAt": "2026-09-24T16:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+     "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-24T16:00:00.000Z",
+     "points": null,
+     "summary": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning."
+    }
+   ]
+  },
+  {
    "id": "infrastructure-jersey-fines-data-center",
    "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
    "category": {
@@ -841,7 +1201,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 28.993471654438842,
+   "rank": 20.682787245373827,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -875,7 +1235,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 28.877518806346032,
+   "rank": 20.6000711044376,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -907,7 +1267,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 27.59576326640003,
+   "rank": 19.685717782101896,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -941,7 +1301,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 27.33979347558983,
+   "rank": 19.503119134114197,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -975,7 +1335,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 26.07804426820249,
+   "rank": 18.60303753214377,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1009,7 +1369,7 @@
      "kind": "org"
     }
    ],
-   "rank": 25.414045754604697,
+   "rank": 18.129367453869957,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1048,7 +1408,7 @@
      "kind": "org"
     }
    ],
-   "rank": 25.112310243205528,
+   "rank": 17.91412136464603,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1069,34 +1429,6 @@
    ]
   },
   {
-   "id": "ando-wants-take-slack",
-   "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [],
-   "rank": 24.24994029289281,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T14:31:00.000Z",
-   "latestAt": "2026-09-24T14:31:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-     "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-24T14:31:00.000Z",
-     "points": null,
-     "summary": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can."
-    }
-   ]
-  },
-  {
    "id": "workers-inquiry-2026",
    "title": "AI Workers' Inquiry 2026",
    "category": {
@@ -1104,7 +1436,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.66682910885517,
+   "rank": 16.169612579455393,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1132,7 +1464,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.655018210282893,
+   "rank": 16.161187155095785,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1157,34 +1489,6 @@
    ]
   },
   {
-   "id": "shield-waabi-general-motors",
-   "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 20.896772311015294,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T15:00:00.000Z",
-   "latestAt": "2026-09-24T15:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-     "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-24T15:00:00.000Z",
-     "points": null,
-     "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200…"
-    }
-   ]
-  },
-  {
    "id": "funding-agents-exclusive-from-booking-calls",
    "title": "Exclusive: From Booking Calls To Late Check-Ins, Dextr AI Raises $6.7M For Hotel AI Agents",
    "category": {
@@ -1203,7 +1507,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 20.756111186891534,
+   "rank": 14.806582558873288,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1224,34 +1528,6 @@
    ]
   },
   {
-   "id": "techcrunch-disrupt-2026-zach",
-   "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 20.184951532480472,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T14:30:00.000Z",
-   "latestAt": "2026-09-24T14:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-     "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-24T14:30:00.000Z",
-     "points": null,
-     "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save…"
-    }
-   ]
-  },
-  {
    "id": "download-scrap-virtual-wall",
    "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
    "category": {
@@ -1259,7 +1535,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.02920918476908,
+   "rank": 12.861319341653557,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1293,7 +1569,7 @@
      "kind": "org"
     }
    ],
-   "rank": 13.56501508838611,
+   "rank": 9.67674117805834,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1321,7 +1597,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 9.26125454183481,
+   "rank": 6.60660991539782,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1355,7 +1631,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.447102672990267,
+   "rank": 5.3124662688102475,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1393,7 +1669,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.242212153528873,
+   "rank": 5.166305537417963,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1427,7 +1703,7 @@
      "kind": "model"
     }
    ],
-   "rank": 7.197541721774247,
+   "rank": 5.134439431587262,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1461,7 +1737,7 @@
      "kind": "model"
     }
    ],
-   "rank": 6.888963907969711,
+   "rank": 4.914312316503249,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1504,7 +1780,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.772618136373132,
+   "rank": 4.831315879598024,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1536,7 +1812,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.543924873525384,
+   "rank": 4.668175219648594,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1564,7 +1840,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.366696861658059,
+   "rank": 4.541747818781915,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1598,7 +1874,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 6.055485459744141,
+   "rank": 4.319742006893062,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1632,7 +1908,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.048926992047273,
+   "rank": 4.315063457402794,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1664,7 +1940,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.001021994602714,
+   "rank": 4.280889941311136,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1692,7 +1968,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.989839296068715,
+   "rank": 4.272912649824126,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1731,7 +2007,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.881917394386775,
+   "rank": 4.195925466012285,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1769,7 +2045,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.849213394843037,
+   "rank": 4.17259573604073,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1801,7 +2077,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.5224297988027695,
+   "rank": 3.9394813414372027,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1833,7 +2109,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.316251253625085,
+   "rank": 3.792401783828659,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1861,7 +2137,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 5.23719772992467,
+   "rank": 3.7360081504211022,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1889,7 +2165,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 5.128814253454989,
+   "rank": 3.6586916975501262,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1917,7 +2193,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.891266993940289,
+   "rank": 3.4892349492234063,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1951,7 +2227,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.251214000648921,
+   "rank": 3.032646650871654,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1983,7 +2259,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.180628479242674,
+   "rank": 2.982293752838286,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2021,7 +2297,7 @@
      "kind": "model"
     }
    ],
-   "rank": 4.180628479242674,
+   "rank": 2.982293752838286,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2059,7 +2335,7 @@
      "kind": "model"
     }
    ],
-   "rank": 4.180628479242674,
+   "rank": 2.982293752838286,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2091,7 +2367,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.8938778724905365,
+   "rank": 2.7777372974188377,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2119,7 +2395,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.761672637798523,
+   "rank": 2.683427351564494,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2147,7 +2423,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.6394484775365274,
+   "rank": 2.5962375064478813,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2185,7 +2461,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.4220317682059296,
+   "rank": 2.4411410903901793,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2213,7 +2489,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.4158963803044884,
+   "rank": 2.436764349165614,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2241,7 +2517,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.4062418638921588,
+   "rank": 2.4298772019038726,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2285,7 +2561,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.1632379411592177,
+   "rank": 2.256527887493392,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2306,45 +2582,6 @@
    ]
   },
   {
-   "id": "gpt-claude-claude-opus-luna-price",
-   "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    },
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "rank": 2.9277604955044216,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T23:46:41.000Z",
-   "latestAt": "2026-09-22T23:46:41.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-     "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-22T23:46:41.000Z",
-     "points": null,
-     "summary": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour…"
-    }
-   ]
-  },
-  {
    "id": "automating-away-jobs-telecom",
    "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
    "category": {
@@ -2352,7 +2589,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.8485114741134274,
+   "rank": 2.0320145682200286,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2380,7 +2617,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.7427013658207566,
+   "rank": 1.9565338536539887,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2419,7 +2656,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.6329484001319408,
+   "rank": 1.8782404617502608,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2462,7 +2699,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.607740507065492,
+   "rank": 1.8602581554086297,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2483,6 +2720,45 @@
    ]
   },
   {
+   "id": "gpt-claude-claude-opus-luna-price",
+   "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    },
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 1.7699556456687877,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-22T23:46:41.000Z",
+   "latestAt": "2026-09-22T23:46:41.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+     "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-22T23:46:41.000Z",
+     "points": null,
+     "summary": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour…"
+    }
+   ]
+  },
+  {
    "id": "agents-october-14th-birds-feather",
    "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
    "category": {
@@ -2496,7 +2772,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.4625246060260397,
+   "rank": 1.7566669186763975,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2530,7 +2806,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.456627722337156,
+   "rank": 1.75246031685232,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2568,7 +2844,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.384857559682304,
+   "rank": 1.7012623429619165,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2602,7 +2878,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.090314239621337,
+   "rank": 1.491146876419143,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2650,7 +2926,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.8226165969043588,
+   "rank": 1.3001820462534648,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2678,7 +2954,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6957574820766974,
+   "rank": 1.2096858092595317,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2699,40 +2975,6 @@
    ]
   },
   {
-   "id": "anthropic-anthropic",
-   "title": "llm-anthropic 0.29",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.5779661256581354,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T17:14:55.000Z",
-   "latestAt": "2026-09-22T17:14:55.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "llm-anthropic 0.29",
-     "link": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-22T17:14:55.000Z",
-     "points": null,
-     "summary": "Release: llm-anthropic 0.29 Adds support for Claude Opus 5.5 : llm -m claude-opus-5.5 \"prompt goes here\" Tags: llm , anthropic"
-    }
-   ]
-  },
-  {
    "id": "gpt-better-prompt-caching",
    "title": "Better prompt caching for GPT-6",
    "category": {
@@ -2746,7 +2988,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.4780753736470493,
+   "rank": 1.0544000680611145,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2778,7 +3020,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.1722419738253445,
+   "rank": 0.8362307085434791,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2812,7 +3054,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.1479161764475827,
+   "rank": 0.8188776541133351,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2833,130 +3075,6 @@
    ]
   },
   {
-   "id": "quoting-therealcornpop",
-   "title": "Quoting @therealcornpop",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.1125159012306534,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T18:03:21.000Z",
-   "latestAt": "2026-09-22T18:03:21.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Quoting @therealcornpop",
-     "link": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-22T18:03:21.000Z",
-     "points": null,
-     "summary": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general…"
-    }
-   ]
-  },
-  {
-   "id": "typesafe",
-   "title": "llm-typesafe 0.1a0",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9583915331062394,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T15:54:16.000Z",
-   "latestAt": "2026-09-22T15:54:16.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "llm-typesafe 0.1a0",
-     "link": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-22T15:54:16.000Z",
-     "points": null,
-     "summary": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install…"
-    }
-   ]
-  },
-  {
-   "id": "robotics-toyota-orders-workers-train",
-   "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "robotics",
-     "name": "Robotics",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.9547243667283173,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T17:06:16.000Z",
-   "latestAt": "2026-09-22T17:06:16.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-     "link": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-22T17:06:16.000Z",
-     "points": null,
-     "summary": "Toyota's push comes as automakers race to develop and deploy humanoid robots."
-    }
-   ]
-  },
-  {
-   "id": "apple-claim-your-apple-million",
-   "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "apple",
-     "name": "Apple",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.9442468659458797,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T18:19:13.000Z",
-   "latestAt": "2026-09-22T18:19:13.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
-     "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-22T18:19:13.000Z",
-     "points": null,
-     "summary": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to…"
-    }
-   ]
-  },
-  {
    "id": "poitras-center-fuel-early",
    "title": "Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research",
    "category": {
@@ -2964,7 +3082,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 0.9403095243587992,
+   "rank": 0.6707793419465932,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2981,74 +3099,6 @@
      "date": "2026-09-22T19:00:00.000Z",
      "points": null,
      "summary": "Patricia and James Poitras ’63 provide fellowships for graduate students and postdocs who will shape the future of mental health research."
-    }
-   ]
-  },
-  {
-   "id": "agents-read-research-paper-when",
-   "title": "Why Read a Research Paper When You Can Turn It Into an AI Agent?",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.9002399615176008,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T15:00:05.000Z",
-   "latestAt": "2026-09-22T15:00:05.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Why Read a Research Paper When You Can Turn It Into an AI Agent?",
-     "link": "https://spectrum.ieee.org/paper2agent-ai-agents-research-papers",
-     "publisher": "IEEE Spectrum",
-     "publisherDomain": "spectrum.ieee.org",
-     "kind": "coverage",
-     "date": "2026-09-22T15:00:05.000Z",
-     "points": null,
-     "summary": "Have you ever read a paper in Science or Nature and thought, “Man, that research was so cool. I wish I could try that method on…"
-    }
-   ]
-  },
-  {
-   "id": "robotics-china-hygon-moves-beyond",
-   "title": "China’s Hygon moves beyond data centres with embedded processors for robotics, edge AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "robotics",
-     "name": "Robotics",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.6884661539448138,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-22T14:30:09.000Z",
-   "latestAt": "2026-09-22T14:30:09.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "China’s Hygon moves beyond data centres with embedded processors for robotics, edge AI",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3368417/chinas-hygon-moves-beyond-data-centres-embedded-processors-robotics-edge-ai?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-22T14:30:09.000Z",
-     "points": null,
-     "summary": "Chinese chipmaker Hygon Information Technology on Tuesday launched a suite of central processing units (CPUs) for robotics and industrial edge devices, expanding beyond cloud computing and…"
     }
    ]
   }
