@@ -1,9 +1,71 @@
 {
  "date": "2026-09-26",
- "generated": "2026-09-26T07:27:59.553Z",
- "headline": "87 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2703 items read · 90 on-topic · 87 distinct developments · 15 with a primary source · 0 independently corroborated",
+ "generated": "2026-09-26T12:57:16.175Z",
+ "headline": "79 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2703 items read · 81 on-topic · 79 distinct developments · 11 with a primary source · 1 independently corroborated",
  "events": [
+  {
+   "id": "month-without",
+   "title": "One Month Without AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 119.29403678113296,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-26T10:08:21.000Z",
+   "latestAt": "2026-09-26T10:08:21.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "One Month Without AI",
+     "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+     "publisher": "blog.bustikiller.com",
+     "publisherDomain": "blog.bustikiller.com",
+     "kind": "discussion",
+     "date": "2026-09-26T10:08:21.000Z",
+     "points": 82,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "copilot-copilot-brand-dead",
+   "title": "The Copilot+ PC brand is dead",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "copilot",
+     "name": "Copilot",
+     "kind": "product"
+    }
+   ],
+   "rank": 110.45652029057453,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-26T09:55:38.000Z",
+   "latestAt": "2026-09-26T09:55:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Copilot+ PC brand is dead",
+     "link": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+     "publisher": "windowscentral.com",
+     "publisherDomain": "windowscentral.com",
+     "kind": "discussion",
+     "date": "2026-09-26T09:55:38.000Z",
+     "points": 24,
+     "summary": ""
+    }
+   ]
+  },
   {
    "id": "anthropic-claude-court-rules-pentagon-blacklist",
    "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
@@ -23,11 +85,13 @@
      "kind": "model"
     }
    ],
-   "rank": 124.94826171605743,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T21:36:20.000Z",
+   "rank": 100.78795963729132,
+   "deltas": [
+    "Now also covered by Wired AI."
+   ],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-25T16:58:20.000Z",
    "latestAt": "2026-09-25T21:36:20.000Z",
    "primary": null,
    "sources": [
@@ -40,6 +104,84 @@
      "date": "2026-09-25T21:36:20.000Z",
      "points": null,
      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say."
+    },
+    {
+     "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+     "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-25T16:58:20.000Z",
+     "points": null,
+     "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration."
+    }
+   ]
+  },
+  {
+   "id": "claude-claude-opus-should-raise",
+   "title": "Claude Opus 5.5 Should Raise Your Ambitions",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 96.13146185586155,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-26T11:40:53.000Z",
+   "latestAt": "2026-09-26T11:40:53.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Claude Opus 5.5 Should Raise Your Ambitions",
+     "link": "https://www.lesswrong.com/posts/rtPiip9igy3QvxYdM/claude-opus-5-5-should-raise-your-ambitions",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-26T11:40:53.000Z",
+     "points": null,
+     "summary": "When it comes to making things, or doing most things in general, Fable 5.1 and especially GPT-6 Astra raised my ambition level. They should have raised…"
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-meta-muse-adults-only",
+   "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 84.35540178881773,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-26T10:30:00.000Z",
+   "latestAt": "2026-09-26T10:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+     "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-26T10:30:00.000Z",
+     "points": null,
+     "summary": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages."
     }
    ]
   },
@@ -51,7 +193,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 115.1033635974189,
+   "rank": 79.86026175703236,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -66,7 +208,7 @@
      "publisherDomain": "allanrbo.blogspot.com",
      "kind": "discussion",
      "date": "2026-09-26T04:20:58.000Z",
-     "points": 44,
+     "points": 100,
      "summary": ""
     }
    ]
@@ -90,7 +232,7 @@
      "kind": "org"
     }
    ],
-   "rank": 114.96091608844996,
+   "rank": 78.58626409732092,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 1,
@@ -115,7 +257,7 @@
      "publisherDomain": "swarmtraces.org",
      "kind": "discussion",
      "date": "2026-09-25T21:09:27.000Z",
-     "points": 417,
+     "points": 533,
      "summary": ""
     }
    ]
@@ -134,7 +276,7 @@
      "kind": "org"
     }
    ],
-   "rank": 91.9912400443031,
+   "rank": 62.8843969823581,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -168,7 +310,7 @@
      "kind": "org"
     }
    ],
-   "rank": 86.09369261085082,
+   "rank": 58.85288578793468,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -189,36 +331,30 @@
    ]
   },
   {
-   "id": "anthropic-appeals-court-upholds-designation",
-   "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+   "id": "poverty-midst-abundance-will",
+   "title": "Poverty in the midst of abundance: AI will make goods cheaper, but your labor will get cheaper faster",
    "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
+    "id": "general",
+    "name": "Other"
    },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 84.80238753918447,
+   "entities": [],
+   "rank": 49.31282279098904,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-25T15:29:25.000Z",
-   "latestAt": "2026-09-25T15:29:25.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-26T07:54:02.000Z",
+   "latestAt": "2026-09-26T07:54:02.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-     "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-     "publisher": "cnbc.com",
-     "publisherDomain": "cnbc.com",
-     "kind": "discussion",
-     "date": "2026-09-25T15:29:25.000Z",
-     "points": 436,
-     "summary": ""
+     "title": "Poverty in the midst of abundance: AI will make goods cheaper, but your labor will get cheaper faster",
+     "link": "https://www.lesswrong.com/posts/eLXTcJfkheLbqZXHa/poverty-in-the-midst-of-abundance-ai-will-make-goods-cheaper",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-26T07:54:02.000Z",
+     "points": null,
+     "summary": "Very simple idea, but I thought it'd be worth making a post on this. Some people are saying AI will make all goods cheaper, so you'll…"
     }
    ]
   },
@@ -236,7 +372,7 @@
      "kind": "org"
     }
    ],
-   "rank": 64.21719135674884,
+   "rank": 43.89830327784492,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -264,7 +400,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 59.287034425137556,
+   "rank": 40.528091662875305,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -279,7 +415,7 @@
      "publisherDomain": "ollaya.dev",
      "kind": "discussion",
      "date": "2026-09-25T18:33:50.000Z",
-     "points": 414,
+     "points": 489,
      "summary": ""
     }
    ]
@@ -292,7 +428,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 56.329316108708326,
+   "rank": 38.5062216165236,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -320,7 +456,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 54.78520989405456,
+   "rank": 37.45068428342045,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -358,7 +494,7 @@
      "kind": "org"
     }
    ],
-   "rank": 54.704425402919945,
+   "rank": 37.395460720741205,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -392,7 +528,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 53.921540054950306,
+   "rank": 36.86028723042101,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -420,7 +556,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 51.36153850183238,
+   "rank": 35.110292841127084,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -459,7 +595,7 @@
      "kind": "org"
     }
    ],
-   "rank": 50.17564807044906,
+   "rank": 34.299628644962596,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -487,7 +623,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 46.95408217556875,
+   "rank": 32.09739473072345,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -521,7 +657,7 @@
      "kind": "org"
     }
    ],
-   "rank": 46.79602396177116,
+   "rank": 31.9893475355994,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -549,7 +685,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 45.15869185676636,
+   "rank": 30.8700818094988,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -577,7 +713,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 44.02880103295677,
+   "rank": 30.09769844911636,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -605,7 +741,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 43.65885405684453,
+   "rank": 29.84480597264729,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -626,8 +762,8 @@
    ]
   },
   {
-   "id": "microsoft-copilot-microsoft-abandons-personal-chatbot",
-   "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+   "id": "microsoft-copilot-microsoft-stops-insisting-need",
+   "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
    "category": {
     "id": "general",
     "name": "Other"
@@ -644,11 +780,11 @@
      "kind": "product"
     }
    ],
-   "rank": 43.56642202389806,
+   "rank": 29.48562464372378,
    "deltas": [],
-   "sourceCount": 2,
+   "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-25T14:07:08.000Z",
+   "publishedAt": "2026-09-25T17:57:37.000Z",
    "latestAt": "2026-09-25T17:57:37.000Z",
    "primary": null,
    "sources": [
@@ -661,16 +797,6 @@
      "date": "2026-09-25T17:57:37.000Z",
      "points": null,
      "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding."
-    },
-    {
-     "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-     "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-     "publisher": "Bloomberg",
-     "publisherDomain": "bloomberg.com",
-     "kind": "discussion",
-     "date": "2026-09-25T14:07:08.000Z",
-     "points": 116,
-     "summary": ""
     }
    ]
   },
@@ -688,7 +814,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 40.89469584518805,
+   "rank": 27.955251899671012,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -722,7 +848,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 40.122072122282624,
+   "rank": 27.42709316536355,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -756,7 +882,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 37.9809198163447,
+   "rank": 25.963420411942177,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -790,7 +916,7 @@
      "kind": "org"
     }
    ],
-   "rank": 34.90384460894141,
+   "rank": 23.859959051993883,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -824,7 +950,7 @@
      "kind": "org"
     }
    ],
-   "rank": 34.23032155486551,
+   "rank": 23.39954465722236,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -852,7 +978,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 33.53514626119281,
+   "rank": 22.92432898322354,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -880,7 +1006,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 33.44077257830603,
+   "rank": 22.859815969413948,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -908,7 +1034,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 31.93801932160303,
+   "rank": 21.832547152127297,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -942,7 +1068,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 28.516264453996175,
+   "rank": 19.493465829087445,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -963,40 +1089,6 @@
    ]
   },
   {
-   "id": "safety-applications-open-winter-2027",
-   "title": "Applications open: Winter 2027 AFFINE Alignment Seminar (due Nov 22)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 28.276789705645285,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T18:23:21.000Z",
-   "latestAt": "2026-09-25T18:23:21.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Applications open: Winter 2027 AFFINE Alignment Seminar (due Nov 22)",
-     "link": "https://www.lesswrong.com/posts/gbExicZvKtHBboLR6/applications-open-winter-2027-affine-alignment-seminar-due",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-25T18:23:21.000Z",
-     "points": null,
-     "summary": "Applications for the Winter 2027 AFFINE Alignment Seminar are now open! The Seminar will take place in southern Portugal over the course of January. If you…"
-    }
-   ]
-  },
-  {
    "id": "download-pentagon-powered-detector",
    "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
    "category": {
@@ -1004,7 +1096,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 27.555319200795793,
+   "rank": 18.836572164522607,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1025,34 +1117,6 @@
    ]
   },
   {
-   "id": "need-better-theory-polarization",
-   "title": "We need a better theory of polarization, because it's failing to predict the AI debate",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 27.44008604414941,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T17:57:21.000Z",
-   "latestAt": "2026-09-25T17:57:21.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "We need a better theory of polarization, because it's failing to predict the AI debate",
-     "link": "https://www.lesswrong.com/posts/WMBgSseHJpghhma4n/we-need-a-better-theory-of-polarization-because-it-s-failing",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-25T17:57:21.000Z",
-     "points": null,
-     "summary": "The punchline first: the AI issue is really not playing out the way you would expect if you know about polarization. In public sentiment: data centers…"
-    }
-   ]
-  },
-  {
    "id": "trump-admin-using-deny",
    "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
    "category": {
@@ -1060,7 +1124,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 26.639299504353232,
+   "rank": 18.210389212678376,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1088,7 +1152,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 25.52209017074638,
+   "rank": 17.44667480668609,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1109,34 +1173,6 @@
    ]
   },
   {
-   "id": "policies-progress-costs",
-   "title": "LLM Policies: Progress At All Costs",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 24.187669167566696,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-25T12:30:36.000Z",
-   "latestAt": "2026-09-25T12:30:36.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "LLM Policies: Progress At All Costs",
-     "link": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/",
-     "publisher": "diegoe.be",
-     "publisherDomain": "diegoe.be",
-     "kind": "discussion",
-     "date": "2026-09-25T12:30:36.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "china-racing-ahead-they",
    "title": "China and the US are racing ahead on AI. Can they manage risks together?",
    "category": {
@@ -1144,7 +1180,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.808367616808148,
+   "rank": 16.275189246239552,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1172,7 +1208,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.012870203469273,
+   "rank": 15.731394259730514,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1200,7 +1236,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.692628564583202,
+   "rank": 10.72734190643248,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1228,7 +1264,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.94583990346252,
+   "rank": 10.216843791555236,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1256,7 +1292,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.10573385532264,
+   "rank": 8.95896359377621,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1284,7 +1320,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.660329986024516,
+   "rank": 7.970898309809979,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1318,7 +1354,7 @@
      "kind": "org"
     }
    ],
-   "rank": 11.573965853444053,
+   "rank": 7.911860553653951,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1352,7 +1388,7 @@
      "kind": "model"
     }
    ],
-   "rank": 11.224994655484478,
+   "rank": 7.6733069333599895,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1384,7 +1420,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.35108122676101,
+   "rank": 7.0759074532182575,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1418,7 +1454,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 9.995020790003723,
+   "rank": 6.8325076920673675,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1446,7 +1482,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.753204011690638,
+   "rank": 6.667203884040526,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1474,7 +1510,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.713198185939868,
+   "rank": 5.956265112272907,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1502,7 +1538,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.675703314213933,
+   "rank": 5.930633950030931,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1541,7 +1577,7 @@
      "kind": "model"
     }
    ],
-   "rank": 8.43106313687424,
+   "rank": 5.7634000914346695,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1575,7 +1611,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 8.395701697129402,
+   "rank": 5.739227324400424,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1609,7 +1645,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 8.362124982511615,
+   "rank": 5.716274579656785,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1634,40 +1670,6 @@
    ]
   },
   {
-   "id": "meta-ai-meta-puts-assistant-keychain",
-   "title": "Meta puts its AI assistant on a keychain",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 7.359199671426463,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T14:03:38.000Z",
-   "latestAt": "2026-09-24T14:03:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta puts its AI assistant on a keychain",
-     "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-24T14:03:38.000Z",
-     "points": null,
-     "summary": "Meta says the keychain-sized Muse Charm will ship in December."
-    }
-   ]
-  },
-  {
    "id": "google-infrastructure-google-first-suncatcher-orbital",
    "title": "Google's first Suncatcher orbital data center test launches October 1",
    "category": {
@@ -1686,7 +1688,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.271825473009276,
+   "rank": 4.9709554910979605,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1714,7 +1716,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.560262154996175,
+   "rank": 4.484537108799064,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1739,6 +1741,40 @@
    ]
   },
   {
+   "id": "meta-ai-meta-puts-assistant-keychain",
+   "title": "Meta puts its AI assistant on a keychain",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 4.263291287554602,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-24T14:03:38.000Z",
+   "latestAt": "2026-09-24T14:03:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meta puts its AI assistant on a keychain",
+     "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-24T14:03:38.000Z",
+     "points": null,
+     "summary": "Meta says the keychain-sized Muse Charm will ship in December."
+    }
+   ]
+  },
+  {
    "id": "funding-agents-exclusive-from-booking-calls",
    "title": "Exclusive: From Booking Calls To Late Check-Ins, Dextr AI Raises $6.7M For Hotel AI Agents",
    "category": {
@@ -1757,7 +1793,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 6.01039158037194,
+   "rank": 4.108650453863934,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1785,7 +1821,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.22075672601603,
+   "rank": 3.5688630607544445,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1819,7 +1855,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.928050478277693,
+   "rank": 2.6851805185340925,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1847,7 +1883,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 2.6818013172467317,
+   "rank": 1.8332556293440054,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1881,7 +1917,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.1564734742880995,
+   "rank": 1.4741461684150428,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1919,7 +1955,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.0971428876488005,
+   "rank": 1.4335883048442826,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1953,7 +1989,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.0842075750320936,
+   "rank": 1.424745839699905,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1987,7 +2023,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.9948520364497178,
+   "rank": 1.3636631848940726,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2012,49 +2048,6 @@
    ]
   },
   {
-   "id": "openai-agents-ringg-agents-resolve-customer",
-   "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.9611615421312256,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T12:00:00.000Z",
-   "latestAt": "2026-09-23T12:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/ringg",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
-   },
-   "sources": [
-    {
-     "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-     "link": "https://openai.com/index/ringg",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-23T12:00:00.000Z",
-     "points": null,
-     "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
-    }
-   ]
-  },
-  {
    "id": "trump-china-rivalry-race",
    "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
    "category": {
@@ -2062,7 +2055,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.894938344099025,
+   "rank": 1.2953630696795349,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2090,7 +2083,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.8436180490426877,
+   "rank": 1.2602809704924791,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2124,7 +2117,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.7534998967097748,
+   "rank": 1.1986769996807987,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2158,7 +2151,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.7516007471691661,
+   "rank": 1.1973787578744814,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2190,7 +2183,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.7377287944365005,
+   "rank": 1.1878960138421004,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2218,7 +2211,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.734490596466303,
+   "rank": 1.185682410388475,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2257,7 +2250,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.703239420204706,
+   "rank": 1.1643193830692047,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2295,7 +2288,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.6937692529979358,
+   "rank": 1.1578456606383192,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2327,7 +2320,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.59914182705292,
+   "rank": 1.0931591903213709,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2359,7 +2352,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.539438264047731,
+   "rank": 1.0523463634101196,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2387,7 +2380,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 1.5165465658404205,
+   "rank": 1.036697801253815,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2415,7 +2408,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 1.4851617303787457,
+   "rank": 1.015243405689113,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2443,7 +2436,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.416374661564561,
+   "rank": 0.9682211746540621,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2477,7 +2470,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.231033145168183,
+   "rank": 0.8415233555055335,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2502,86 +2495,6 @@
    ]
   },
   {
-   "id": "altman-remarks-united-nations",
-   "title": "Sam Altman’s remarks at the United Nations Security Council",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.2105935445254479,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T12:00:00.000Z",
-   "latestAt": "2026-09-23T12:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "title": "Sam Altman’s remarks at the United Nations Security Council"
-   },
-   "sources": [
-    {
-     "title": "Sam Altman’s remarks at the United Nations Security Council",
-     "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-23T12:00:00.000Z",
-     "points": null,
-     "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
-    }
-   ]
-  },
-  {
-   "id": "gpt-harvey-turns-legal-context",
-   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.2105935445254479,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T12:00:00.000Z",
-   "latestAt": "2026-09-23T12:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra"
-   },
-   "sources": [
-    {
-     "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-     "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-23T12:00:00.000Z",
-     "points": null,
-     "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
-    },
-    {
-     "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-     "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-23T12:00:00.000Z",
-     "points": null,
-     "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
-    }
-   ]
-  },
-  {
    "id": "welcomes-david-siegel-next",
    "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
    "category": {
@@ -2589,7 +2502,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.1275585570477333,
+   "rank": 0.7707890434795333,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2617,7 +2530,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.0892756040263691,
+   "rank": 0.7446191558435692,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2634,200 +2547,6 @@
      "date": "2026-09-23T15:00:06.000Z",
      "points": null,
      "summary": "When the presidents of the United States and China meet in Washington, the world will be watching to see whether their two countries can make good…"
-    }
-   ]
-  },
-  {
-   "id": "introducing-mentalhealthbench",
-   "title": "Introducing MentalHealthBench",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.05388289210928,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T10:00:00.000Z",
-   "latestAt": "2026-09-23T10:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/introducing-mentalhealthbench",
-    "title": "Introducing MentalHealthBench"
-   },
-   "sources": [
-    {
-     "title": "Introducing MentalHealthBench",
-     "link": "https://openai.com/index/introducing-mentalhealthbench",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-23T10:00:00.000Z",
-     "points": null,
-     "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations."
-    }
-   ]
-  },
-  {
-   "id": "agents-emerging-agent-security",
-   "title": "The Emerging M&A Map For AI Agent Security",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.9909250698358051,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T11:00:22.000Z",
-   "latestAt": "2026-09-23T11:00:22.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Emerging M&A Map For AI Agent Security",
-     "link": "https://news.crunchbase.com/ma/emerging-map-ai-agentic-security-sagie/",
-     "publisher": "Crunchbase News",
-     "publisherDomain": "news.crunchbase.com",
-     "kind": "coverage",
-     "date": "2026-09-23T11:00:22.000Z",
-     "points": null,
-     "summary": "As AI agents gain access to enterprise data, systems and tools, they are emerging as a new class of active identity requiring specialized permissions, monitoring and…"
-    }
-   ]
-  },
-  {
-   "id": "download-india-smart-glasses",
-   "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9891484324178859,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T12:10:00.000Z",
-   "latestAt": "2026-09-23T12:10:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
-     "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-09-23T12:10:00.000Z",
-     "points": null,
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Smart glasses…"
-    }
-   ]
-  },
-  {
-   "id": "scared",
-   "title": "Why I'm scared of RL",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9863527534183489,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T12:07:33.000Z",
-   "latestAt": "2026-09-23T12:07:33.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Why I'm scared of RL",
-     "link": "https://www.alignmentforum.org/posts/LcQ9x72eNji2gpS9b/why-i-m-scared-of-rl",
-     "publisher": "Alignment Forum",
-     "publisherDomain": "alignmentforum.org",
-     "kind": "coverage",
-     "date": "2026-09-23T12:07:33.000Z",
-     "points": null,
-     "summary": "Summary: First, I give several different angles on how I feel about reinforcement learning: Theoretical case: RL is a black-box source of agency — this should…"
-    }
-   ]
-  },
-  {
-   "id": "microsoft-meta-ai-amazon-trump-offloads-tens-millions",
-   "title": "Trump offloads tens of millions in AI, tech shares, led by Microsoft, Amazon, Meta",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "microsoft",
-     "name": "Microsoft",
-     "kind": "org"
-    },
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    },
-    {
-     "id": "amazon",
-     "name": "Amazon",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.9159855869467304,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T12:30:07.000Z",
-   "latestAt": "2026-09-23T12:30:07.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Trump offloads tens of millions in AI, tech shares, led by Microsoft, Amazon, Meta",
-     "link": "https://www.scmp.com/tech/article/3368525/trump-offloads-tens-millions-ai-tech-shares-led-microsoft-amazon-meta?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-23T12:30:07.000Z",
-     "points": null,
-     "summary": "US President Donald Trump has sold shares worth tens of millions of US dollars in major tech companies, including Microsoft, Amazon and Meta Platforms in July…"
-    }
-   ]
-  },
-  {
-   "id": "hype-index-loves-cheating",
-   "title": "The AI Hype Index: AI loves cheating",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7942099099476099,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T09:00:00.000Z",
-   "latestAt": "2026-09-23T09:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The AI Hype Index: AI loves cheating",
-     "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-09-23T09:00:00.000Z",
-     "points": null,
-     "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next…"
     }
    ]
   }
