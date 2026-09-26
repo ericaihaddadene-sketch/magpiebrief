@@ -1,68 +1,106 @@
 {
  "date": "2026-09-26",
- "generated": "2026-09-26T12:57:16.175Z",
- "headline": "79 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2703 items read · 81 on-topic · 79 distinct developments · 11 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-26T17:02:04.184Z",
+ "headline": "71 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2703 items read · 73 on-topic · 71 distinct developments · 7 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "month-without",
-   "title": "One Month Without AI",
+   "id": "claude-show-claude-code-skill",
+   "title": "Show HN: A Claude Code skill to analyze your chess games",
    "category": {
-    "id": "general",
-    "name": "Other"
+    "id": "models",
+    "name": "Models"
    },
-   "entities": [],
-   "rank": 119.29403678113296,
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 182.12353013421688,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-26T10:08:21.000Z",
-   "latestAt": "2026-09-26T10:08:21.000Z",
-   "primary": null,
+   "independentCount": 1,
+   "publishedAt": "2026-09-26T15:34:53.000Z",
+   "latestAt": "2026-09-26T15:34:53.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/brumar/chess-postmortem-skills",
+    "title": "Show HN: A Claude Code skill to analyze your chess games"
+   },
    "sources": [
     {
-     "title": "One Month Without AI",
-     "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-     "publisher": "blog.bustikiller.com",
-     "publisherDomain": "blog.bustikiller.com",
-     "kind": "discussion",
-     "date": "2026-09-26T10:08:21.000Z",
-     "points": 82,
+     "title": "Show HN: A Claude Code skill to analyze your chess games",
+     "link": "https://github.com/brumar/chess-postmortem-skills",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-26T15:34:53.000Z",
+     "points": 20,
      "summary": ""
     }
    ]
   },
   {
-   "id": "copilot-copilot-brand-dead",
-   "title": "The Copilot+ PC brand is dead",
+   "id": "openai-openai-pauses-training-most",
+   "title": "OpenAI pauses training of its ‘most capable models’",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [
     {
-     "id": "copilot",
-     "name": "Copilot",
-     "kind": "product"
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
     }
    ],
-   "rank": 110.45652029057453,
+   "rank": 130.84120100809125,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-26T09:55:38.000Z",
-   "latestAt": "2026-09-26T09:55:38.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-26T16:34:59.000Z",
+   "latestAt": "2026-09-26T16:34:59.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "The Copilot+ PC brand is dead",
-     "link": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-     "publisher": "windowscentral.com",
-     "publisherDomain": "windowscentral.com",
-     "kind": "discussion",
-     "date": "2026-09-26T09:55:38.000Z",
-     "points": 24,
-     "summary": ""
+     "title": "OpenAI pauses training of its ‘most capable models’",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-26T16:34:59.000Z",
+     "points": null,
+     "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training…"
+    }
+   ]
+  },
+  {
+   "id": "cloudflare-matthew-prince-save",
+   "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 81.03134230229749,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-26T14:00:00.000Z",
+   "latestAt": "2026-09-26T14:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+     "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-26T14:00:00.000Z",
+     "points": null,
+     "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last…"
     }
    ]
   },
@@ -85,10 +123,8 @@
      "kind": "model"
     }
    ],
-   "rank": 100.78795963729132,
-   "deltas": [
-    "Now also covered by Wired AI."
-   ],
+   "rank": 75.96058307394532,
+   "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
    "publishedAt": "2026-09-25T16:58:20.000Z",
@@ -131,7 +167,7 @@
      "kind": "model"
     }
    ],
-   "rank": 96.13146185586155,
+   "rank": 72.45113325639917,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -165,7 +201,7 @@
      "kind": "org"
     }
    ],
-   "rank": 84.35540178881773,
+   "rank": 63.5759026016109,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -193,7 +229,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 79.86026175703236,
+   "rank": 60.1880628334258,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -208,7 +244,7 @@
      "publisherDomain": "allanrbo.blogspot.com",
      "kind": "discussion",
      "date": "2026-09-26T04:20:58.000Z",
-     "points": 100,
+     "points": 116,
      "summary": ""
     }
    ]
@@ -232,7 +268,7 @@
      "kind": "org"
     }
    ],
-   "rank": 78.58626409732092,
+   "rank": 59.22789253714455,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 1,
@@ -257,7 +293,7 @@
      "publisherDomain": "swarmtraces.org",
      "kind": "discussion",
      "date": "2026-09-25T21:09:27.000Z",
-     "points": 533,
+     "points": 618,
      "summary": ""
     }
    ]
@@ -276,7 +312,7 @@
      "kind": "org"
     }
    ],
-   "rank": 62.8843969823581,
+   "rank": 47.39390973111819,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -310,7 +346,7 @@
      "kind": "org"
     }
    ],
-   "rank": 58.85288578793468,
+   "rank": 44.35549182783291,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -338,7 +374,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 49.31282279098904,
+   "rank": 37.165458907054976,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -372,7 +408,7 @@
      "kind": "org"
     }
    ],
-   "rank": 43.89830327784492,
+   "rank": 33.084712945297206,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -393,6 +429,34 @@
    ]
   },
   {
+   "id": "analyzing-frontier-model-progress",
+   "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 32.976047771817136,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-25T20:53:54.000Z",
+   "latestAt": "2026-09-25T20:53:54.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+     "link": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+     "publisher": "blog.priyan.in",
+     "publisherDomain": "blog.priyan.in",
+     "kind": "discussion",
+     "date": "2026-09-25T20:53:54.000Z",
+     "points": 18,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "ollaya-ollama-open-source",
    "title": "Ollaya – Ollama for open-source, Jev-style decision models",
    "category": {
@@ -400,7 +464,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 40.528091662875305,
+   "rank": 30.544694868961876,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -415,7 +479,7 @@
      "publisherDomain": "ollaya.dev",
      "kind": "discussion",
      "date": "2026-09-25T18:33:50.000Z",
-     "points": 489,
+     "points": 542,
      "summary": ""
     }
    ]
@@ -428,7 +492,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 38.5062216165236,
+   "rank": 29.020877657329436,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -456,7 +520,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.45068428342045,
+   "rank": 28.225353751821523,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -494,7 +558,7 @@
      "kind": "org"
     }
    ],
-   "rank": 37.395460720741205,
+   "rank": 28.18373356191361,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -528,7 +592,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 36.86028723042101,
+   "rank": 27.780390836088646,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -556,7 +620,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.110292841127084,
+   "rank": 26.461477399748816,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -595,7 +659,7 @@
      "kind": "org"
     }
    ],
-   "rank": 34.299628644962596,
+   "rank": 25.850506354800288,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -623,7 +687,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 32.09739473072345,
+   "rank": 24.190754805182376,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -657,7 +721,7 @@
      "kind": "org"
     }
    ],
-   "rank": 31.9893475355994,
+   "rank": 24.109323174155588,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -685,7 +749,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 30.8700818094988,
+   "rank": 23.26576926677172,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -713,7 +777,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 30.09769844911636,
+   "rank": 22.68364923356138,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -741,7 +805,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 29.84480597264729,
+   "rank": 22.493052459534635,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -780,7 +844,7 @@
      "kind": "product"
     }
    ],
-   "rank": 29.48562464372378,
+   "rank": 22.222349259742817,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -814,7 +878,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 27.955251899671012,
+   "rank": 21.06895746198178,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -848,7 +912,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 27.42709316536355,
+   "rank": 20.67090152793995,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -882,7 +946,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 25.963420411942177,
+   "rank": 19.56777932783345,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -916,7 +980,7 @@
      "kind": "org"
     }
    ],
-   "rank": 23.859959051993883,
+   "rank": 17.982469416310362,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -950,7 +1014,7 @@
      "kind": "org"
     }
    ],
-   "rank": 23.39954465722236,
+   "rank": 17.635470171476538,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -978,7 +1042,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 22.92432898322354,
+   "rank": 17.277315687421748,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -999,62 +1063,6 @@
    ]
   },
   {
-   "id": "company-center-wave-rogue",
-   "title": "One company is at the center of a wave of rogue AI attacks",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 22.859815969413948,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T15:39:48.000Z",
-   "latestAt": "2026-09-25T15:39:48.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "One company is at the center of a wave of rogue AI attacks",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-25T15:39:48.000Z",
-     "points": null,
-     "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar…"
-    }
-   ]
-  },
-  {
-   "id": "techcrunch-disrupt-2026-ricursive",
-   "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 21.832547152127297,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T15:00:00.000Z",
-   "latestAt": "2026-09-25T15:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-     "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-25T15:00:00.000Z",
-     "points": null,
-     "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip…"
-    }
-   ]
-  },
-  {
    "id": "safety-alignment-forecasting-predicting-misalignment",
    "title": "Alignment Forecasting: Predicting Misalignment from Training Data",
    "category": {
@@ -1068,7 +1076,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 19.493465829087445,
+   "rank": 14.691586533136265,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1096,7 +1104,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.836572164522607,
+   "rank": 14.196507299887621,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1124,7 +1132,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 18.210389212678376,
+   "rank": 13.724573724644836,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1152,7 +1160,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 17.44667480668609,
+   "rank": 13.148987198338363,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1180,7 +1188,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.275189246239552,
+   "rank": 12.266076912680571,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1208,7 +1216,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.731394259730514,
+   "rank": 11.856236447643212,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1236,7 +1244,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.72734190643248,
+   "rank": 8.084846136171652,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1264,7 +1272,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.216843791555236,
+   "rank": 7.70010043238148,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1292,7 +1300,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.95896359377621,
+   "rank": 6.752077339104057,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1320,7 +1328,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.970898309809979,
+   "rank": 6.007404906451418,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1354,7 +1362,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.911860553653951,
+   "rank": 5.9629100838840365,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1388,7 +1396,7 @@
      "kind": "model"
     }
    ],
-   "rank": 7.6733069333599895,
+   "rank": 5.783120035974134,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1420,7 +1428,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.0759074532182575,
+   "rank": 5.332879620323855,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1454,7 +1462,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 6.8325076920673675,
+   "rank": 5.1494371948236575,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1482,7 +1490,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.667203884040526,
+   "rank": 5.024853130544053,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1510,7 +1518,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.956265112272907,
+   "rank": 4.489041870670493,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1538,7 +1546,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.930633950030931,
+   "rank": 4.4697245034396245,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1577,7 +1585,7 @@
      "kind": "model"
     }
    ],
-   "rank": 5.7634000914346695,
+   "rank": 4.34368582327988,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1611,7 +1619,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 5.739227324400424,
+   "rank": 4.32546760073584,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1645,7 +1653,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 5.716274579656785,
+   "rank": 4.308168869020776,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1688,7 +1696,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.9709554910979605,
+   "rank": 3.7464462907801654,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1716,7 +1724,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.484537108799064,
+   "rank": 3.379848692512699,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1754,7 +1762,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.263291287554602,
+   "rank": 3.213102965692915,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1793,7 +1801,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.108650453863934,
+   "rank": 3.096555235820646,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1821,7 +1829,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.5688630607544445,
+   "rank": 2.6897351626281845,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1855,7 +1863,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.6851805185340925,
+   "rank": 2.023732582549283,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1883,7 +1891,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 1.8332556293440054,
+   "rank": 1.3816647050868482,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1904,44 +1912,6 @@
    ]
   },
   {
-   "id": "openai-years-openai-academy",
-   "title": "Two years of OpenAI Academy",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.4741461684150428,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T16:00:00.000Z",
-   "latestAt": "2026-09-23T16:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/two-years-of-openai-academy",
-    "title": "Two years of OpenAI Academy"
-   },
-   "sources": [
-    {
-     "title": "Two years of OpenAI Academy",
-     "link": "https://openai.com/index/two-years-of-openai-academy",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-23T16:00:00.000Z",
-     "points": null,
-     "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
-    }
-   ]
-  },
-  {
    "id": "meta-ai-meta-glasses-meta-audio",
    "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
    "category": {
@@ -1955,7 +1925,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.4335883048442826,
+   "rank": 1.0804485368673857,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1989,7 +1959,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.424745839699905,
+   "rank": 1.0737842605927679,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2010,44 +1980,6 @@
    ]
   },
   {
-   "id": "gemini-gemini-text-speech-says",
-   "title": "Gemini 3.8 text-to-speech says hello",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.3636631848940726,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T15:25:14.000Z",
-   "latestAt": "2026-09-23T15:25:14.000Z",
-   "primary": {
-    "publisher": "Google DeepMind",
-    "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "title": "Gemini 3.8 text-to-speech says hello"
-   },
-   "sources": [
-    {
-     "title": "Gemini 3.8 text-to-speech says hello",
-     "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-     "publisher": "Google DeepMind",
-     "publisherDomain": "deepmind.google",
-     "kind": "primary",
-     "date": "2026-09-23T15:25:14.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "trump-china-rivalry-race",
    "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
    "category": {
@@ -2055,7 +1987,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2953630696795349,
+   "rank": 0.9762727057816792,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2083,7 +2015,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2602809704924791,
+   "rank": 0.9498324770152985,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2117,7 +2049,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.1986769996807987,
+   "rank": 0.9034035825385605,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2138,44 +2070,6 @@
    ]
   },
   {
-   "id": "openai-openai-extends-cyber-access",
-   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.1973787578744814,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T13:00:00.000Z",
-   "latestAt": "2026-09-23T13:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-    "title": "OpenAI extends cyber access to Ukraine for civilian defense"
-   },
-   "sources": [
-    {
-     "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-     "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-23T13:00:00.000Z",
-     "points": null,
-     "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
-    }
-   ]
-  },
-  {
    "id": "china-hotline-ready-while",
    "title": "A US-China AI Hotline Won’t Be Ready for a While",
    "category": {
@@ -2183,7 +2077,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.1878960138421004,
+   "rank": 0.8952783067281702,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2211,7 +2105,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.185682410388475,
+   "rank": 0.8936099863292157,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2250,7 +2144,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.1643193830692047,
+   "rank": 0.8775093725531633,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2288,7 +2182,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.1578456606383192,
+   "rank": 0.872630340054851,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2313,66 +2207,6 @@
    ]
   },
   {
-   "id": "advancing-private-compute-with",
-   "title": "Advancing Private AI Compute with secure, server-side memory",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.0931591903213709,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T16:00:57.000Z",
-   "latestAt": "2026-09-23T16:00:57.000Z",
-   "primary": {
-    "publisher": "Google DeepMind",
-    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "title": "Advancing Private AI Compute with secure, server-side memory"
-   },
-   "sources": [
-    {
-     "title": "Advancing Private AI Compute with secure, server-side memory",
-     "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-     "publisher": "Google DeepMind",
-     "publisherDomain": "deepmind.google",
-     "kind": "primary",
-     "date": "2026-09-23T16:00:57.000Z",
-     "points": null,
-     "summary": "Introducing private, server-side memory to Private AI Compute for personal AI."
-    }
-   ]
-  },
-  {
-   "id": "shadow-roots-explained-with",
-   "title": "Shadow roots, explained with live examples",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.0523463634101196,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T16:37:18.000Z",
-   "latestAt": "2026-09-23T16:37:18.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Shadow roots, explained with live examples",
-     "link": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-23T16:37:18.000Z",
-     "points": null,
-     "summary": "Tool: Shadow roots, explained with live examples Prompt to Fable 5.1 Medium: Build an artifact to explain shadow roots in CSS with interactive examples Tags: css"
-    }
-   ]
-  },
-  {
    "id": "owners-mourn-spoiled-food",
    "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
    "category": {
@@ -2380,7 +2214,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 1.036697801253815,
+   "rank": 0.7813251675905561,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2408,7 +2242,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 1.015243405689113,
+   "rank": 0.7651556925614093,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2436,7 +2270,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 0.9682211746540621,
+   "rank": 0.7297165776144031,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2453,100 +2287,6 @@
      "date": "2026-09-23T18:03:00.000Z",
      "points": null,
      "summary": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the…"
-    }
-   ]
-  },
-  {
-   "id": "robotics-offloaded-inference-real-world",
-   "title": "Offloaded inference for real-world physical AI robotics",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "robotics",
-     "name": "Robotics",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.8415233555055335,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T16:01:36.000Z",
-   "latestAt": "2026-09-23T16:01:36.000Z",
-   "primary": {
-    "publisher": "Microsoft Research",
-    "link": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
-    "title": "Offloaded inference for real-world physical AI robotics"
-   },
-   "sources": [
-    {
-     "title": "Offloaded inference for real-world physical AI robotics",
-     "link": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
-     "publisher": "Microsoft Research",
-     "publisherDomain": "microsoft.com",
-     "kind": "primary",
-     "date": "2026-09-23T16:01:36.000Z",
-     "points": null,
-     "summary": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve…"
-    }
-   ]
-  },
-  {
-   "id": "welcomes-david-siegel-next",
-   "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7707890434795333,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T15:30:00.000Z",
-   "latestAt": "2026-09-23T15:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
-     "link": "https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923",
-     "publisher": "MIT News AI",
-     "publisherDomain": "news.mit.edu",
-     "kind": "coverage",
-     "date": "2026-09-23T15:30:00.000Z",
-     "points": null,
-     "summary": "Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery."
-    }
-   ]
-  },
-  {
-   "id": "pacing-problem-fears-overcome",
-   "title": "Pacing problem: can AI fears overcome US-China race dynamics and force a slowdown?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7446191558435692,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T15:00:06.000Z",
-   "latestAt": "2026-09-23T15:00:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Pacing problem: can AI fears overcome US-China race dynamics and force a slowdown?",
-     "link": "https://www.scmp.com/tech/tech-war/article/3368503/pacing-problem-can-ai-fears-overcome-us-china-race-dynamics-and-force-slowdown?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-23T15:00:06.000Z",
-     "points": null,
-     "summary": "When the presidents of the United States and China meet in Washington, the world will be watching to see whether their two countries can make good…"
     }
    ]
   }
