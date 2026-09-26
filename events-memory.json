@@ -11,6 +11,18 @@
   "hadPrimary": true,
   "category": "models"
  },
+ "coding-agents-drawgent-coding-agent-live": {
+  "id": "coding-agents-drawgent-coding-agent-live",
+  "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+  "firstSeen": "2026-09-26T19:39:50.003Z",
+  "publishers": [
+   "tangled.org"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "openai-openai-pauses-training-most": {
   "id": "openai-openai-pauses-training-most",
   "title": "OpenAI pauses training of its ‘most capable models’",
@@ -47,6 +59,30 @@
   "independentCount": 2,
   "hadPrimary": false,
   "category": "policy"
+ },
+ "openai-openai-bots-meddled-with": {
+  "id": "openai-openai-bots-meddled-with",
+  "title": "OpenAI bots meddled with multiple US Government agency sites",
+  "firstSeen": "2026-09-26T19:39:50.003Z",
+  "publishers": [
+   "bbc.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "keep-enjoying-programming-world": {
+  "id": "keep-enjoying-programming-world",
+  "title": "How to keep enjoying programming in a world of LLMs",
+  "firstSeen": "2026-09-26T01:25:16.325Z",
+  "publishers": [
+   "discourse.haskell.org"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
  },
  "claude-claude-opus-should-raise": {
   "id": "claude-claude-opus-should-raise",
@@ -133,18 +169,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "anthropic-anthropic-akamai-billion-over": {
-  "id": "anthropic-anthropic-akamai-billion-over",
-  "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-  "firstSeen": "2026-09-25T22:11:10.851Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
  "analyzing-frontier-model-progress": {
   "id": "analyzing-frontier-model-progress",
   "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
@@ -156,6 +180,18 @@
   "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
+ },
+ "anthropic-anthropic-akamai-billion-over": {
+  "id": "anthropic-anthropic-akamai-billion-over",
+  "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+  "firstSeen": "2026-09-25T22:11:10.851Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
  },
  "ollaya-ollama-open-source": {
   "id": "ollaya-ollama-open-source",
@@ -214,18 +250,6 @@
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "keep-enjoying-programming-world": {
-  "id": "keep-enjoying-programming-world",
-  "title": "How to keep enjoying programming in a world of LLMs",
-  "firstSeen": "2026-09-26T01:25:16.325Z",
-  "publishers": [
-   "discourse.haskell.org"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
@@ -367,30 +391,6 @@
   "firstSeen": "2026-09-25T22:11:10.851Z",
   "publishers": [
    "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "what-researchers-think-2024": {
-  "id": "what-researchers-think-2024",
-  "title": "What did AI researchers think at the end of 2024?",
-  "firstSeen": "2026-09-25T22:11:10.851Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "research"
- },
- "safety-alignment-forecasting-predicting-misalignment": {
-  "id": "safety-alignment-forecasting-predicting-misalignment",
-  "title": "Alignment Forecasting: Predicting Misalignment from Training Data",
-  "firstSeen": "2026-09-25T22:11:10.851Z",
-  "publishers": [
-   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -721,18 +721,6 @@
   "hadPrimary": false,
   "category": "policy"
  },
- "gemini-gemini-playground": {
-  "id": "gemini-gemini-playground",
-  "title": "Gemini 3.8 TTS Playground",
-  "firstSeen": "2026-09-23T23:34:01.008Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
- },
  "trump-china-rivalry-race": {
   "id": "trump-china-rivalry-race",
   "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
@@ -757,94 +745,10 @@
   "hadPrimary": false,
   "category": "general"
  },
- "agents-agents-teamed-cheat-blackjack": {
-  "id": "agents-agents-teamed-cheat-blackjack",
-  "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-  "firstSeen": "2026-09-23T20:08:30.094Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "china-hotline-ready-while": {
   "id": "china-hotline-ready-while",
   "title": "A US-China AI Hotline Won’t Be Ready for a While",
   "firstSeen": "2026-09-23T23:34:01.008Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "youtube-promises-custom-feeds": {
-  "id": "youtube-promises-custom-feeds",
-  "title": "YouTube promises custom feeds and a lot more AI later this year",
-  "firstSeen": "2026-09-23T20:08:30.094Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "nvidia-robotics-nvidia-warp-mjwarp-accelerate": {
-  "id": "nvidia-robotics-nvidia-warp-mjwarp-accelerate",
-  "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-  "firstSeen": "2026-09-23T20:08:30.094Z",
-  "publishers": [
-   "Hugging Face"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "google-google-beam-expands-with": {
-  "id": "google-google-beam-expands-with",
-  "title": "Google Beam expands with new regions, partners, and customers",
-  "firstSeen": "2026-09-23T20:08:30.094Z",
-  "publishers": [
-   "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "owners-mourn-spoiled-food": {
-  "id": "owners-mourn-spoiled-food",
-  "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-  "firstSeen": "2026-09-23T20:08:30.094Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "tools"
- },
- "latent-reasoning-architectures-would": {
-  "id": "latent-reasoning-architectures-would",
-  "title": "Latent reasoning architectures would undermine CoT, our strongest oversight tool",
-  "firstSeen": "2026-09-24T18:59:07.453Z",
-  "publishers": [
-   "Alignment Forum"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "tools"
- },
- "pope-worried-about-cartel": {
-  "id": "pope-worried-about-cartel",
-  "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
-  "firstSeen": "2026-09-23T20:08:30.094Z",
   "publishers": [
    "Wired AI"
   ],

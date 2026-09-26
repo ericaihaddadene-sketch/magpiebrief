@@ -1,8 +1,8 @@
 {
  "date": "2026-09-26",
- "generated": "2026-09-26T17:02:04.184Z",
- "headline": "71 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2703 items read · 73 on-topic · 71 distinct developments · 7 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-26T19:39:50.061Z",
+ "headline": "63 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2703 items read · 65 on-topic · 63 distinct developments · 5 with a primary source · 1 independently corroborated",
  "events": [
   {
    "id": "claude-show-claude-code-skill",
@@ -18,7 +18,7 @@
      "kind": "model"
     }
    ],
-   "rank": 182.12353013421688,
+   "rank": 163.89425877420837,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -37,7 +37,41 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-09-26T15:34:53.000Z",
-     "points": 20,
+     "points": 59,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "coding-agents-drawgent-coding-agent-live",
+   "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "coding-agents",
+     "name": "Coding Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 132.6899461625109,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-26T15:56:34.000Z",
+   "latestAt": "2026-09-26T15:56:34.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+     "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+     "publisher": "tangled.org",
+     "publisherDomain": "tangled.org",
+     "kind": "discussion",
+     "date": "2026-09-26T15:56:34.000Z",
+     "points": 45,
      "summary": ""
     }
    ]
@@ -56,7 +90,7 @@
      "kind": "org"
     }
    ],
-   "rank": 130.84120100809125,
+   "rank": 109.04140001829525,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -84,7 +118,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 81.03134230229749,
+   "rank": 67.53049453786217,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -123,7 +157,7 @@
      "kind": "model"
     }
    ],
-   "rank": 75.96058307394532,
+   "rank": 63.304588010291994,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -154,6 +188,68 @@
    ]
   },
   {
+   "id": "openai-openai-bots-meddled-with",
+   "title": "OpenAI bots meddled with multiple US Government agency sites",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 132.51875245120567,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-26T14:03:54.000Z",
+   "latestAt": "2026-09-26T14:03:54.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI bots meddled with multiple US Government agency sites",
+     "link": "https://www.bbc.com/news/articles/cw62jje658dlo",
+     "publisher": "bbc.com",
+     "publisherDomain": "bbc.com",
+     "kind": "discussion",
+     "date": "2026-09-26T14:03:54.000Z",
+     "points": 52,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "keep-enjoying-programming-world",
+   "title": "How to keep enjoying programming in a world of LLMs",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 72.67889410074322,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-26T09:41:58.000Z",
+   "latestAt": "2026-09-26T09:41:58.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How to keep enjoying programming in a world of LLMs",
+     "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+     "publisher": "discourse.haskell.org",
+     "publisherDomain": "discourse.haskell.org",
+     "kind": "discussion",
+     "date": "2026-09-26T09:41:58.000Z",
+     "points": 83,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "claude-claude-opus-should-raise",
    "title": "Claude Opus 5.5 Should Raise Your Ambitions",
    "category": {
@@ -167,7 +263,7 @@
      "kind": "model"
     }
    ],
-   "rank": 72.45113325639917,
+   "rank": 60.37985697411389,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -201,7 +297,7 @@
      "kind": "org"
     }
    ],
-   "rank": 63.5759026016109,
+   "rank": 52.98335213751003,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -229,7 +325,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 60.1880628334258,
+   "rank": 50.159969376465874,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -244,7 +340,7 @@
      "publisherDomain": "allanrbo.blogspot.com",
      "kind": "discussion",
      "date": "2026-09-26T04:20:58.000Z",
-     "points": 116,
+     "points": 125,
      "summary": ""
     }
    ]
@@ -268,7 +364,7 @@
      "kind": "org"
     }
    ],
-   "rank": 59.22789253714455,
+   "rank": 49.35977561061977,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 1,
@@ -293,7 +389,7 @@
      "publisherDomain": "swarmtraces.org",
      "kind": "discussion",
      "date": "2026-09-25T21:09:27.000Z",
-     "points": 618,
+     "points": 650,
      "summary": ""
     }
    ]
@@ -312,7 +408,7 @@
      "kind": "org"
     }
    ],
-   "rank": 47.39390973111819,
+   "rank": 39.49748419920305,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -346,7 +442,7 @@
      "kind": "org"
     }
    ],
-   "rank": 44.35549182783291,
+   "rank": 36.965305195477825,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -374,7 +470,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.165458907054976,
+   "rank": 30.97322280997011,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -395,6 +491,34 @@
    ]
   },
   {
+   "id": "analyzing-frontier-model-progress",
+   "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 28.967032297193192,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-25T20:53:54.000Z",
+   "latestAt": "2026-09-25T20:53:54.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+     "link": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+     "publisher": "blog.priyan.in",
+     "publisherDomain": "blog.priyan.in",
+     "kind": "discussion",
+     "date": "2026-09-25T20:53:54.000Z",
+     "points": 35,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "anthropic-anthropic-akamai-billion-over",
    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
    "category": {
@@ -408,7 +532,7 @@
      "kind": "org"
     }
    ],
-   "rank": 33.084712945297206,
+   "rank": 27.57238080178987,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -429,34 +553,6 @@
    ]
   },
   {
-   "id": "analyzing-frontier-model-progress",
-   "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 32.976047771817136,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-25T20:53:54.000Z",
-   "latestAt": "2026-09-25T20:53:54.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-     "link": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
-     "publisher": "blog.priyan.in",
-     "publisherDomain": "blog.priyan.in",
-     "kind": "discussion",
-     "date": "2026-09-25T20:53:54.000Z",
-     "points": 18,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "ollaya-ollama-open-source",
    "title": "Ollaya – Ollama for open-source, Jev-style decision models",
    "category": {
@@ -464,7 +560,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 30.544694868961876,
+   "rank": 25.455561902380243,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -479,7 +575,7 @@
      "publisherDomain": "ollaya.dev",
      "kind": "discussion",
      "date": "2026-09-25T18:33:50.000Z",
-     "points": 542,
+     "points": 566,
      "summary": ""
     }
    ]
@@ -492,7 +588,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 29.020877657329436,
+   "rank": 24.18563193499862,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -520,7 +616,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.225353751821523,
+   "rank": 23.522652386230654,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -558,7 +654,7 @@
      "kind": "org"
     }
    ],
-   "rank": 28.18373356191361,
+   "rank": 23.48796664701685,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -592,7 +688,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 27.780390836088646,
+   "rank": 23.15182592702736,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -609,34 +705,6 @@
      "date": "2026-09-25T21:10:51.000Z",
      "points": null,
      "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026."
-    }
-   ]
-  },
-  {
-   "id": "keep-enjoying-programming-world",
-   "title": "How to keep enjoying programming in a world of LLMs",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 26.461477399748816,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-25T23:22:27.000Z",
-   "latestAt": "2026-09-25T23:22:27.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How to keep enjoying programming in a world of LLMs",
-     "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-     "publisher": "discourse.haskell.org",
-     "publisherDomain": "discourse.haskell.org",
-     "kind": "discussion",
-     "date": "2026-09-25T23:22:27.000Z",
-     "points": null,
-     "summary": ""
     }
    ]
   },
@@ -659,7 +727,7 @@
      "kind": "org"
     }
    ],
-   "rank": 25.850506354800288,
+   "rank": 21.54348463932969,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -687,7 +755,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 24.190754805182376,
+   "rank": 20.16026871606955,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -721,7 +789,7 @@
      "kind": "org"
     }
    ],
-   "rank": 24.109323174155588,
+   "rank": 20.09240462597774,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -749,7 +817,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.26576926677172,
+   "rank": 19.389397481872173,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -777,7 +845,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 22.68364923356138,
+   "rank": 18.90426601784634,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -805,7 +873,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.493052459534635,
+   "rank": 18.745425079986408,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -844,7 +912,7 @@
      "kind": "product"
     }
    ],
-   "rank": 22.222349259742817,
+   "rank": 18.51982446131808,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -878,7 +946,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 21.06895746198178,
+   "rank": 17.558602342990802,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -912,7 +980,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 20.67090152793995,
+   "rank": 17.22686756832433,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -946,7 +1014,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 19.56777932783345,
+   "rank": 16.307539496095476,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -980,7 +1048,7 @@
      "kind": "org"
     }
    ],
-   "rank": 17.982469416310362,
+   "rank": 14.986362291335128,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1014,7 +1082,7 @@
      "kind": "org"
     }
    ],
-   "rank": 17.635470171476538,
+   "rank": 14.697177514900433,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1035,68 +1103,6 @@
    ]
   },
   {
-   "id": "what-researchers-think-2024",
-   "title": "What did AI researchers think at the end of 2024?",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [],
-   "rank": 17.277315687421748,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T20:50:59.000Z",
-   "latestAt": "2026-09-25T20:50:59.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "What did AI researchers think at the end of 2024?",
-     "link": "https://www.lesswrong.com/posts/62j5mPY8pFo2GD5fo/what-did-ai-researchers-think-at-the-end-of-2024-1",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-25T20:50:59.000Z",
-     "points": null,
-     "summary": "We recently (finally!) got the results of the 2024 survey out. The paper is here , but it’s pretty long, so I’ll tell you the most…"
-    }
-   ]
-  },
-  {
-   "id": "safety-alignment-forecasting-predicting-misalignment",
-   "title": "Alignment Forecasting: Predicting Misalignment from Training Data",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 14.691586533136265,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T18:30:39.000Z",
-   "latestAt": "2026-09-25T18:30:39.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Alignment Forecasting: Predicting Misalignment from Training Data",
-     "link": "https://www.lesswrong.com/posts/f7r9QCmjoYFG9ReyF/alignment-forecasting-predicting-misalignment-from-training",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-25T18:30:39.000Z",
-     "points": null,
-     "summary": "Fine-tuning on subtly flawed data can make a model broadly misaligned. Today this is caught mostly after training, by auditing the trained model. We ask whether…"
-    }
-   ]
-  },
-  {
    "id": "download-pentagon-powered-detector",
    "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
    "category": {
@@ -1104,7 +1110,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.196507299887621,
+   "rank": 11.831189406874717,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1132,7 +1138,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 13.724573724644836,
+   "rank": 11.437885941577646,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1160,7 +1166,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 13.148987198338363,
+   "rank": 10.95819941946873,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1188,7 +1194,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.266076912680571,
+   "rank": 10.22239316809746,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1216,7 +1222,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.856236447643212,
+   "rank": 9.880837314532195,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1244,7 +1250,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.084846136171652,
+   "rank": 6.73780838778868,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1272,7 +1278,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.70010043238148,
+   "rank": 6.417166190460404,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1300,7 +1306,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.752077339104057,
+   "rank": 5.627095749772137,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1328,7 +1334,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.007404906451418,
+   "rank": 5.006495174526331,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1362,7 +1368,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.9629100838840365,
+   "rank": 4.96941375285692,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1396,7 +1402,7 @@
      "kind": "model"
     }
    ],
-   "rank": 5.783120035974134,
+   "rank": 4.819579003692249,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1428,7 +1434,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.332879620323855,
+   "rank": 4.444354342889188,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1462,7 +1468,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 5.1494371948236575,
+   "rank": 4.2914757484924895,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1490,7 +1496,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.024853130544053,
+   "rank": 4.187648966986737,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1518,7 +1524,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.489041870670493,
+   "rank": 3.741110648230655,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1546,7 +1552,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.4697245034396245,
+   "rank": 3.7250117990050873,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1585,7 +1591,7 @@
      "kind": "model"
     }
    ],
-   "rank": 4.34368582327988,
+   "rank": 3.619972759045291,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1619,7 +1625,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.32546760073584,
+   "rank": 3.604789923082756,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1653,7 +1659,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.308168869020776,
+   "rank": 3.5903733791331534,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1696,7 +1702,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.7464462907801654,
+   "rank": 3.122240895776828,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1724,7 +1730,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.379848692512699,
+   "rank": 2.816723099773432,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1762,7 +1768,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.213102965692915,
+   "rank": 2.6777593226190683,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1801,7 +1807,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.096555235820646,
+   "rank": 2.5806299204406193,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1829,7 +1835,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.6897351626281845,
+   "rank": 2.241591223190292,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1863,7 +1869,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.023732582549283,
+   "rank": 1.6865531068471908,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1891,7 +1897,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 1.3816647050868482,
+   "rank": 1.1514618685685871,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1925,7 +1931,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.0804485368673857,
+   "rank": 0.9004321284123098,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1946,40 +1952,6 @@
    ]
   },
   {
-   "id": "gemini-gemini-playground",
-   "title": "Gemini 3.8 TTS Playground",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.0737842605927679,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T17:12:27.000Z",
-   "latestAt": "2026-09-23T17:12:27.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Gemini 3.8 TTS Playground",
-     "link": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-23T17:12:27.000Z",
-     "points": null,
-     "summary": "Tool: Gemini 3.8 TTS Playground Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts . They come with a library of over 2,000…"
-    }
-   ]
-  },
-  {
    "id": "trump-china-rivalry-race",
    "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
    "category": {
@@ -1987,7 +1959,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 0.9762727057816792,
+   "rank": 0.8136133100115803,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2015,7 +1987,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 0.9498324770152985,
+   "rank": 0.7915783581823633,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2036,40 +2008,6 @@
    ]
   },
   {
-   "id": "agents-agents-teamed-cheat-blackjack",
-   "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.9034035825385605,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T18:30:00.000Z",
-   "latestAt": "2026-09-23T18:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-     "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-23T18:30:00.000Z",
-     "points": null,
-     "summary": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception."
-    }
-   ]
-  },
-  {
    "id": "china-hotline-ready-while",
    "title": "A US-China AI Hotline Won’t Be Ready for a While",
    "category": {
@@ -2077,7 +2015,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 0.8952783067281702,
+   "rank": 0.7461136035094286,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2094,199 +2032,6 @@
      "date": "2026-09-23T21:00:00.000Z",
      "points": null,
      "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate…"
-    }
-   ]
-  },
-  {
-   "id": "youtube-promises-custom-feeds",
-   "title": "YouTube promises custom feeds and a lot more AI later this year",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8936099863292157,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T19:35:53.000Z",
-   "latestAt": "2026-09-23T19:35:53.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "YouTube promises custom feeds and a lot more AI later this year",
-     "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-23T19:35:53.000Z",
-     "points": null,
-     "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams."
-    }
-   ]
-  },
-  {
-   "id": "nvidia-robotics-nvidia-warp-mjwarp-accelerate",
-   "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "robotics",
-     "name": "Robotics",
-     "kind": "topic"
-    },
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.8775093725531633,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T18:41:40.000Z",
-   "latestAt": "2026-09-23T18:41:40.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows"
-   },
-   "sources": [
-    {
-     "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-     "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-09-23T18:41:40.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "google-google-beam-expands-with",
-   "title": "Google Beam expands with new regions, partners, and customers",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.872630340054851,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T18:00:00.000Z",
-   "latestAt": "2026-09-23T18:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-    "title": "Google Beam expands with new regions, partners, and customers"
-   },
-   "sources": [
-    {
-     "title": "Google Beam expands with new regions, partners, and customers",
-     "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-09-23T18:00:00.000Z",
-     "points": null,
-     "summary": "Google Beam promotional animation"
-    }
-   ]
-  },
-  {
-   "id": "owners-mourn-spoiled-food",
-   "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [],
-   "rank": 0.7813251675905561,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T17:39:39.000Z",
-   "latestAt": "2026-09-23T17:39:39.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-     "link": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-23T17:39:39.000Z",
-     "points": null,
-     "summary": "\"So absurd and embarrassing ...\""
-    }
-   ]
-  },
-  {
-   "id": "latent-reasoning-architectures-would",
-   "title": "Latent reasoning architectures would undermine CoT, our strongest oversight tool",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [],
-   "rank": 0.7651556925614093,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T18:01:49.000Z",
-   "latestAt": "2026-09-23T18:01:49.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Latent reasoning architectures would undermine CoT, our strongest oversight tool",
-     "link": "https://www.alignmentforum.org/posts/6m29SfjbittooYojj/latent-reasoning-architectures-would-undermine-cot-our",
-     "publisher": "Alignment Forum",
-     "publisherDomain": "alignmentforum.org",
-     "kind": "coverage",
-     "date": "2026-09-23T18:01:49.000Z",
-     "points": null,
-     "summary": "Summary: Currently, “chain of thought” (CoT) is our most valuable tool for understanding the reasoning and cognition of AI systems. However, some architectures would enable AI…"
-    }
-   ]
-  },
-  {
-   "id": "pope-worried-about-cartel",
-   "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7297165776144031,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T18:03:00.000Z",
-   "latestAt": "2026-09-23T18:03:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
-     "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-23T18:03:00.000Z",
-     "points": null,
-     "summary": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the…"
     }
    ]
   }
