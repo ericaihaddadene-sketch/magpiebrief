@@ -1,12 +1,12 @@
 {
  "date": "2026-09-26",
- "generated": "2026-09-26T01:25:16.385Z",
- "headline": "91 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2703 items read · 94 on-topic · 91 distinct developments · 16 with a primary source · 0 independently corroborated",
+ "generated": "2026-09-26T07:27:59.553Z",
+ "headline": "87 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2703 items read · 90 on-topic · 87 distinct developments · 15 with a primary source · 0 independently corroborated",
  "events": [
   {
-   "id": "anthropic-claude-court-rules-trump-blacklist",
-   "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+   "id": "anthropic-claude-court-rules-pentagon-blacklist",
+   "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
    "category": {
     "id": "policy",
     "name": "Policy & Regulation"
@@ -23,7 +23,7 @@
      "kind": "model"
     }
    ],
-   "rank": 189.98215883245655,
+   "rank": 124.94826171605743,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -32,7 +32,7 @@
    "primary": null,
    "sources": [
     {
-     "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+     "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
      "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
      "publisher": "Ars Technica AI",
      "publisherDomain": "arstechnica.com",
@@ -40,6 +40,34 @@
      "date": "2026-09-25T21:36:20.000Z",
      "points": null,
      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say."
+    }
+   ]
+  },
+  {
+   "id": "single-function-like-wrapper",
+   "title": "A single function Jev-like wrapper for LLMs, including vision models",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 115.1033635974189,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-26T04:20:58.000Z",
+   "latestAt": "2026-09-26T04:20:58.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "A single function Jev-like wrapper for LLMs, including vision models",
+     "link": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+     "publisher": "allanrbo.blogspot.com",
+     "publisherDomain": "allanrbo.blogspot.com",
+     "kind": "discussion",
+     "date": "2026-09-26T04:20:58.000Z",
+     "points": 44,
+     "summary": ""
     }
    ]
   },
@@ -62,7 +90,7 @@
      "kind": "org"
     }
    ],
-   "rank": 174.79653354020073,
+   "rank": 114.96091608844996,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 1,
@@ -87,8 +115,42 @@
      "publisherDomain": "swarmtraces.org",
      "kind": "discussion",
      "date": "2026-09-25T21:09:27.000Z",
-     "points": 192,
+     "points": 417,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "alibaba-alibaba-using-revamp-mapping",
+   "title": "How Alibaba is using AI to revamp its mapping app – and take on Meituan",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [
+    {
+     "id": "alibaba",
+     "name": "Alibaba",
+     "kind": "org"
+    }
+   ],
+   "rank": 91.9912400443031,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-26T07:00:08.000Z",
+   "latestAt": "2026-09-26T07:00:08.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How Alibaba is using AI to revamp its mapping app – and take on Meituan",
+     "link": "https://www.scmp.com/tech/big-tech/article/3368819/how-alibaba-using-ai-revamp-its-mapping-app-and-take-meituan?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-26T07:00:08.000Z",
+     "points": null,
+     "summary": "Late last year, Zhang Xuan’s small beef noodle joint in Shanghai suddenly began seeing a dramatic surge in orders. Sales over the past few months have…"
     }
    ]
   },
@@ -106,7 +168,7 @@
      "kind": "org"
     }
    ],
-   "rank": 130.90430678608925,
+   "rank": 86.09369261085082,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -140,7 +202,7 @@
      "kind": "org"
     }
    ],
-   "rank": 128.9408947157079,
+   "rank": 84.80238753918447,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -155,46 +217,7 @@
      "publisherDomain": "cnbc.com",
      "kind": "discussion",
      "date": "2026-09-25T15:29:25.000Z",
-     "points": 379,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "openai-meta-ai-meta-muse-appears-openai",
-   "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    },
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 119.50399394061016,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-25T18:18:06.000Z",
-   "latestAt": "2026-09-25T18:18:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-     "link": "https://mouse.dev/blog/muse-special/",
-     "publisher": "mouse.dev",
-     "publisherDomain": "mouse.dev",
-     "kind": "discussion",
-     "date": "2026-09-25T18:18:06.000Z",
-     "points": 110,
+     "points": 436,
      "summary": ""
     }
    ]
@@ -213,7 +236,7 @@
      "kind": "org"
     }
    ],
-   "rank": 97.64137956426042,
+   "rank": 64.21719135674884,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -241,7 +264,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 90.14514196650326,
+   "rank": 59.287034425137556,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -256,7 +279,7 @@
      "publisherDomain": "ollaya.dev",
      "kind": "discussion",
      "date": "2026-09-25T18:33:50.000Z",
-     "points": 329,
+     "points": 414,
      "summary": ""
     }
    ]
@@ -269,7 +292,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 85.64797087139465,
+   "rank": 56.329316108708326,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -285,7 +308,7 @@
      "kind": "coverage",
      "date": "2026-09-25T23:11:10.000Z",
      "points": null,
-     "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans."
+     "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
     }
    ]
   },
@@ -297,7 +320,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 83.30017804820854,
+   "rank": 54.78520989405456,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -335,7 +358,7 @@
      "kind": "org"
     }
    ],
-   "rank": 83.17734631117476,
+   "rank": 54.704425402919945,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -369,7 +392,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 81.98697962273242,
+   "rank": 53.921540054950306,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -397,7 +420,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 78.0945315406533,
+   "rank": 51.36153850183238,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -436,7 +459,7 @@
      "kind": "org"
     }
    ],
-   "rank": 76.29140101927844,
+   "rank": 50.17564807044906,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -464,7 +487,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 71.39305321415873,
+   "rank": 46.95408217556875,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -498,7 +521,7 @@
      "kind": "org"
     }
    ],
-   "rank": 71.1527278165417,
+   "rank": 46.79602396177116,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -526,7 +549,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 68.66318627540853,
+   "rank": 45.15869185676636,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -554,7 +577,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 66.94520240749257,
+   "rank": 44.02880103295677,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -582,7 +605,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 66.38270298405074,
+   "rank": 43.65885405684453,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -621,7 +644,7 @@
      "kind": "product"
     }
    ],
-   "rank": 66.24216131565723,
+   "rank": 43.56642202389806,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 1,
@@ -646,7 +669,7 @@
      "publisherDomain": "bloomberg.com",
      "kind": "discussion",
      "date": "2026-09-25T14:07:08.000Z",
-     "points": 78,
+     "points": 116,
      "summary": ""
     }
    ]
@@ -665,7 +688,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 62.179837436402444,
+   "rank": 40.89469584518805,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -699,7 +722,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 61.00507341146299,
+   "rank": 40.122072122282624,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -733,7 +756,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 57.74948000116345,
+   "rank": 37.9809198163447,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -767,7 +790,7 @@
      "kind": "org"
     }
    ],
-   "rank": 53.07082835156488,
+   "rank": 34.90384460894141,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -801,7 +824,7 @@
      "kind": "org"
     }
    ],
-   "rank": 52.04674556658344,
+   "rank": 34.23032155486551,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -829,7 +852,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 50.98974084122716,
+   "rank": 33.53514626119281,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -857,7 +880,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 50.84624692009888,
+   "rank": 33.44077257830603,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -885,7 +908,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 48.56133071574442,
+   "rank": 31.93801932160303,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -919,7 +942,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 43.35859825820377,
+   "rank": 28.516264453996175,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -953,7 +976,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 42.99448010999815,
+   "rank": 28.276789705645285,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -981,7 +1004,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.89749386815086,
+   "rank": 27.555319200795793,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1009,7 +1032,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.722283396487725,
+   "rank": 27.44008604414941,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1037,7 +1060,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 40.50469818557719,
+   "rank": 26.639299504353232,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1065,7 +1088,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 38.805996353704316,
+   "rank": 25.52209017074638,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1093,7 +1116,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 36.77702708679638,
+   "rank": 24.187669167566696,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1121,7 +1144,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 36.20030415786629,
+   "rank": 23.808367616808148,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1149,7 +1172,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 34.99076099291058,
+   "rank": 23.012870203469273,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1170,34 +1193,6 @@
    ]
   },
   {
-   "id": "foundational-premises-advanced",
-   "title": "Foundational premises of advanced AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 25.564670826326388,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T10:53:21.000Z",
-   "latestAt": "2026-09-25T10:53:21.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Foundational premises of advanced AI",
-     "link": "https://www.lesswrong.com/posts/ioFYSZbCysLDjH3DN/foundational-premises-of-advanced-ai",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-25T10:53:21.000Z",
-     "points": null,
-     "summary": "My goal here is to establish a shared baseline (or model) for thinking about AI. I've found that disagreements about AI policy/governance/alignment will often trace back…"
-    }
-   ]
-  },
-  {
    "id": "northern-gannet-great-blue",
    "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
    "category": {
@@ -1205,7 +1200,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.860431601924823,
+   "rank": 15.692628564583202,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1233,7 +1228,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.72494944248735,
+   "rank": 14.94583990346252,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1261,7 +1256,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.927092836040877,
+   "rank": 13.10573385532264,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1289,7 +1284,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.729375607304483,
+   "rank": 11.660329986024516,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1323,7 +1318,7 @@
      "kind": "org"
     }
    ],
-   "rank": 17.598060100165902,
+   "rank": 11.573965853444053,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1357,7 +1352,7 @@
      "kind": "model"
     }
    ],
-   "rank": 17.067454066531187,
+   "rank": 11.224994655484478,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1389,7 +1384,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.738680400204775,
+   "rank": 10.35108122676101,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1423,7 +1418,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 15.197295273905857,
+   "rank": 9.995020790003723,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1451,7 +1446,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.829616100503443,
+   "rank": 9.753204011690638,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1479,7 +1474,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.248301168540118,
+   "rank": 8.713198185939868,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1507,7 +1502,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.191290718152041,
+   "rank": 8.675703314213933,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1546,7 +1541,7 @@
      "kind": "model"
     }
    ],
-   "rank": 12.819318604336098,
+   "rank": 8.43106313687424,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1580,7 +1575,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 12.76555200870778,
+   "rank": 8.395701697129402,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1614,7 +1609,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 12.714499063736978,
+   "rank": 8.362124982511615,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1652,7 +1647,7 @@
      "kind": "org"
     }
    ],
-   "rank": 11.189564557799915,
+   "rank": 7.359199671426463,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1691,7 +1686,7 @@
      "kind": "org"
     }
    ],
-   "rank": 11.056713259081771,
+   "rank": 7.271825473009276,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1719,7 +1714,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.974790762158062,
+   "rank": 6.560262154996175,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1762,7 +1757,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 9.138719916427116,
+   "rank": 6.01039158037194,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1790,7 +1785,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.938090693903008,
+   "rank": 5.22075672601603,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1824,7 +1819,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.972548154066519,
+   "rank": 3.928050478277693,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1852,7 +1847,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 4.077642992489773,
+   "rank": 2.6818013172467317,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1886,7 +1881,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.278889041619462,
+   "rank": 2.1564734742880995,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1924,7 +1919,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.1886776790945053,
+   "rank": 2.0971428876488005,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1958,7 +1953,7 @@
      "kind": "model"
     }
    ],
-   "rank": 3.1690097094697736,
+   "rank": 2.0842075750320936,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1992,7 +1987,7 @@
      "kind": "model"
     }
    ],
-   "rank": 3.0331458095613937,
+   "rank": 1.9948520364497178,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2035,7 +2030,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.9819198640792117,
+   "rank": 1.9611615421312256,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2067,7 +2062,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.8812283782261527,
+   "rank": 1.894938344099025,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2095,7 +2090,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.8031965567921078,
+   "rank": 1.8436180490426877,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2129,7 +2124,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.6661731128877384,
+   "rank": 1.7534998967097748,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2163,7 +2158,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.6632854814416085,
+   "rank": 1.7516007471691661,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2195,7 +2190,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.6421933630625425,
+   "rank": 1.7377287944365005,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2223,7 +2218,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.637269726409612,
+   "rank": 1.734490596466303,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2262,7 +2257,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.589752731369505,
+   "rank": 1.703239420204706,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2300,7 +2295,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.5753534689409094,
+   "rank": 1.6937692529979358,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2332,7 +2327,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.4314737348902984,
+   "rank": 1.59914182705292,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2364,7 +2359,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.34069526679531,
+   "rank": 1.539438264047731,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2392,7 +2387,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 2.3058887462000173,
+   "rank": 1.5165465658404205,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2420,7 +2415,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 2.2581685241359426,
+   "rank": 1.4851617303787457,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2448,7 +2443,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.1535787070901224,
+   "rank": 1.416374661564561,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2482,7 +2477,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.8717694132058864,
+   "rank": 1.231033145168183,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2514,7 +2509,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.84069127412297,
+   "rank": 1.2105935445254479,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2552,7 +2547,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.84069127412297,
+   "rank": 1.2105935445254479,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 1,
@@ -2594,7 +2589,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.71443768753454,
+   "rank": 1.1275585570477333,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2622,7 +2617,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6562289700894897,
+   "rank": 1.0892756040263691,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2650,7 +2645,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6024148255420119,
+   "rank": 1.05388289210928,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2688,7 +2683,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.5066882998054176,
+   "rank": 0.9909250698358051,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2716,7 +2711,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.5039869464013516,
+   "rank": 0.9891484324178859,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2744,7 +2739,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4997361539178078,
+   "rank": 0.9863527534183489,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2788,7 +2783,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.3927438195419954,
+   "rank": 0.9159855869467304,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2816,7 +2811,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.207585533289473,
+   "rank": 0.7942099099476099,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2833,140 +2828,6 @@
      "date": "2026-09-23T09:00:00.000Z",
      "points": null,
      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next…"
-    }
-   ]
-  },
-  {
-   "id": "agents-october-14th-birds-feather",
-   "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 1.0842263494904845,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T02:53:19.000Z",
-   "latestAt": "2026-09-23T02:53:19.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
-     "link": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-23T02:53:19.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "safety-workspacebench-evaluating-interpretability-methods",
-   "title": "WorkspaceBench: Evaluating Interpretability Methods for the Global Workspace",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 1.0500302817935727,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T06:58:59.000Z",
-   "latestAt": "2026-09-23T06:58:59.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "WorkspaceBench: Evaluating Interpretability Methods for the Global Workspace",
-     "link": "https://www.alignmentforum.org/posts/Zeg2JztbdhguL48uH/workspacebench-evaluating-interpretability-methods-for-the",
-     "publisher": "Alignment Forum",
-     "publisherDomain": "alignmentforum.org",
-     "kind": "coverage",
-     "date": "2026-09-23T06:58:59.000Z",
-     "points": null,
-     "summary": "TL;DR We introduce WorkspaceBench, a set of evaluations for how well an activation-to-text tool can read the contents of the “global workspace” of a model, i.e…"
-    }
-   ]
-  },
-  {
-   "id": "gpt-chatgpt-expands-southeast-asia",
-   "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 0.920345637061485,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T02:00:00.000Z",
-   "latestAt": "2026-09-23T02:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-    "title": "ChatGPT Ads expands to Southeast Asia and Taiwan"
-   },
-   "sources": [
-    {
-     "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-     "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-23T02:00:00.000Z",
-     "points": null,
-     "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries."
-    }
-   ]
-  },
-  {
-   "id": "china-premier-qiang-calls",
-   "title": "China’s Premier Li Qiang calls for harnessing AI to propel manufacturing advances",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7466260194574278,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-23T03:30:26.000Z",
-   "latestAt": "2026-09-23T03:30:26.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "China’s Premier Li Qiang calls for harnessing AI to propel manufacturing advances",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3368455/chinas-premier-li-qiang-calls-harnessing-ai-propel-manufacturing-advances?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-23T03:30:26.000Z",
-     "points": null,
-     "summary": "Chinese Premier Li Qiang called for deeper integration of artificial intelligence and manufacturing during a visit to Shanghai, as Beijing seeks to expand advanced manufacturing and…"
     }
    ]
   }
