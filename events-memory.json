@@ -1,16 +1,4 @@
 {
- "claude-show-claude-code-skill": {
-  "id": "claude-show-claude-code-skill",
-  "title": "Show HN: A Claude Code skill to analyze your chess games",
-  "firstSeen": "2026-09-26T17:02:04.130Z",
-  "publishers": [
-   "GitHub"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "models"
- },
  "coding-agents-drawgent-coding-agent-live": {
   "id": "coding-agents-drawgent-coding-agent-live",
   "title": "Drawgent: Coding agent on a live Excalidraw canvas",
@@ -23,6 +11,43 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "openai-openai-bots-meddled-with": {
+  "id": "openai-openai-bots-meddled-with",
+  "title": "OpenAI bots meddled with multiple US Government agency sites",
+  "firstSeen": "2026-09-26T19:39:50.003Z",
+  "publishers": [
+   "bbc.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "hugging-face-openai-revealing-details-openai-agents": {
+  "id": "hugging-face-openai-revealing-details-openai-agents",
+  "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+  "firstSeen": "2026-09-25T22:11:10.851Z",
+  "publishers": [
+   "Wired AI",
+   "swarmtraces.org"
+  ],
+  "sourceCount": 2,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "security"
+ },
+ "insurers-claim-already-increasing": {
+  "id": "insurers-claim-already-increasing",
+  "title": "Insurers claim AI is already increasing healthcare costs",
+  "firstSeen": "2026-09-26T22:38:07.202Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "openai-openai-pauses-training-most": {
   "id": "openai-openai-pauses-training-most",
   "title": "OpenAI pauses training of its ‘most capable models’",
@@ -32,6 +57,42 @@
   ],
   "sourceCount": 1,
   "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "deepseek-deepseek-elastic-compute-dsec": {
+  "id": "deepseek-deepseek-elastic-compute-dsec",
+  "title": "DeepSeek Elastic Compute (DSec)",
+  "firstSeen": "2026-09-26T22:38:07.202Z",
+  "publishers": [
+   "arXiv"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "agents-agents-push-humans-loop": {
+  "id": "agents-agents-push-humans-loop",
+  "title": "AI Agents Push Humans Out of the Loop",
+  "firstSeen": "2026-09-26T22:38:07.202Z",
+  "publishers": [
+   "arXiv"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "keep-enjoying-programming-world": {
+  "id": "keep-enjoying-programming-world",
+  "title": "How to keep enjoying programming in a world of LLMs",
+  "firstSeen": "2026-09-26T01:25:16.325Z",
+  "publishers": [
+   "discourse.haskell.org"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
@@ -60,30 +121,6 @@
   "hadPrimary": false,
   "category": "policy"
  },
- "openai-openai-bots-meddled-with": {
-  "id": "openai-openai-bots-meddled-with",
-  "title": "OpenAI bots meddled with multiple US Government agency sites",
-  "firstSeen": "2026-09-26T19:39:50.003Z",
-  "publishers": [
-   "bbc.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "keep-enjoying-programming-world": {
-  "id": "keep-enjoying-programming-world",
-  "title": "How to keep enjoying programming in a world of LLMs",
-  "firstSeen": "2026-09-26T01:25:16.325Z",
-  "publishers": [
-   "discourse.haskell.org"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
  "claude-claude-opus-should-raise": {
   "id": "claude-claude-opus-should-raise",
   "title": "Claude Opus 5.5 Should Raise Your Ambitions",
@@ -107,31 +144,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "single-function-like-wrapper": {
-  "id": "single-function-like-wrapper",
-  "title": "A single function Jev-like wrapper for LLMs, including vision models",
-  "firstSeen": "2026-09-26T07:27:59.517Z",
-  "publishers": [
-   "allanrbo.blogspot.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "hugging-face-openai-revealing-details-openai-agents": {
-  "id": "hugging-face-openai-revealing-details-openai-agents",
-  "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-  "firstSeen": "2026-09-25T22:11:10.851Z",
-  "publishers": [
-   "Wired AI",
-   "swarmtraces.org"
-  ],
-  "sourceCount": 2,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "security"
  },
  "alibaba-alibaba-using-revamp-mapping": {
   "id": "alibaba-alibaba-using-revamp-mapping",
@@ -193,18 +205,6 @@
   "hadPrimary": false,
   "category": "business"
  },
- "ollaya-ollama-open-source": {
-  "id": "ollaya-ollama-open-source",
-  "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-  "firstSeen": "2026-09-25T22:11:10.851Z",
-  "publishers": [
-   "ollaya.dev"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "opensource"
- },
  "crusoe-abandons-plan-boom": {
   "id": "crusoe-abandons-plan-boom",
   "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
@@ -229,18 +229,6 @@
   "hadPrimary": true,
   "category": "general"
  },
- "openai-months-openai-agent-swarms": {
-  "id": "openai-months-openai-agent-swarms",
-  "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-  "firstSeen": "2026-09-25T18:27:34.036Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "robotics-tesla-workers-balk-training": {
   "id": "robotics-tesla-workers-balk-training",
   "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
@@ -252,18 +240,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "anthropic-funding-anthropic-founders-seek-voting": {
-  "id": "anthropic-funding-anthropic-founders-seek-voting",
-  "title": "Anthropic’s founders seek voting control ahead of IPO",
-  "firstSeen": "2026-09-25T18:27:34.036Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
  },
  "supposed-grads-hard-unemployment": {
   "id": "supposed-grads-hard-unemployment",
@@ -720,41 +696,5 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "policy"
- },
- "trump-china-rivalry-race": {
-  "id": "trump-china-rivalry-race",
-  "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
-  "firstSeen": "2026-09-23T23:34:01.008Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "xprize-wildfire-winners-spotted": {
-  "id": "xprize-wildfire-winners-spotted",
-  "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
-  "firstSeen": "2026-09-23T23:34:01.008Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "china-hotline-ready-while": {
-  "id": "china-hotline-ready-while",
-  "title": "A US-China AI Hotline Won’t Be Ready for a While",
-  "firstSeen": "2026-09-23T23:34:01.008Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  }
 }
