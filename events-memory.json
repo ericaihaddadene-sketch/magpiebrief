@@ -1,4 +1,16 @@
 {
+ "party": {
+  "id": "party",
+  "title": "Kākāpō Party",
+  "firstSeen": "2026-09-27T01:17:15.226Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "coding-agents-drawgent-coding-agent-live": {
   "id": "coding-agents-drawgent-coding-agent-live",
   "title": "Drawgent: Coding agent on a live Excalidraw canvas",
@@ -11,16 +23,16 @@
   "hadPrimary": false,
   "category": "general"
  },
- "openai-openai-bots-meddled-with": {
-  "id": "openai-openai-bots-meddled-with",
-  "title": "OpenAI bots meddled with multiple US Government agency sites",
-  "firstSeen": "2026-09-26T19:39:50.003Z",
+ "deepseek-deepseek-elastic-compute-dsec": {
+  "id": "deepseek-deepseek-elastic-compute-dsec",
+  "title": "DeepSeek Elastic Compute (DSec)",
+  "firstSeen": "2026-09-26T22:38:07.202Z",
   "publishers": [
-   "bbc.com"
+   "arXiv"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
+  "independentCount": 1,
+  "hadPrimary": true,
   "category": "general"
  },
  "hugging-face-openai-revealing-details-openai-agents": {
@@ -48,6 +60,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "robotics-homebody-humanoid-that-explores": {
+  "id": "robotics-homebody-humanoid-that-explores",
+  "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
+  "firstSeen": "2026-09-27T01:17:15.226Z",
+  "publishers": [
+   "tml.stanford.edu"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "openai-openai-pauses-training-most": {
   "id": "openai-openai-pauses-training-most",
   "title": "OpenAI pauses training of its ‘most capable models’",
@@ -60,18 +84,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "deepseek-deepseek-elastic-compute-dsec": {
-  "id": "deepseek-deepseek-elastic-compute-dsec",
-  "title": "DeepSeek Elastic Compute (DSec)",
-  "firstSeen": "2026-09-26T22:38:07.202Z",
-  "publishers": [
-   "arXiv"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
  "agents-agents-push-humans-loop": {
   "id": "agents-agents-push-humans-loop",
   "title": "AI Agents Push Humans Out of the Loop",
@@ -82,6 +94,30 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
+  "category": "general"
+ },
+ "turning-flash-into-like": {
+  "id": "turning-flash-into-like",
+  "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+  "firstSeen": "2026-09-27T01:17:15.226Z",
+  "publishers": [
+   "privatemode.ai"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "expect-self-replication-incidents": {
+  "id": "expect-self-replication-incidents",
+  "title": "Why I expect AI self-replication incidents by 2027",
+  "firstSeen": "2026-09-27T01:17:15.226Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
   "category": "general"
  },
  "keep-enjoying-programming-world": {
@@ -166,6 +202,18 @@
   ],
   "sourceCount": 1,
   "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "generate-fonts-where-every": {
+  "id": "generate-fonts-where-every",
+  "title": "Generate fonts where every LLM token is the same width",
+  "firstSeen": "2026-09-27T01:17:15.226Z",
+  "publishers": [
+   "ampdot.mesh.host"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
@@ -325,18 +373,6 @@
   "hadPrimary": false,
   "category": "business"
  },
- "safety-plan-safety-asics": {
-  "id": "safety-plan-safety-asics",
-  "title": "Plan R: AI Safety by ASICs",
-  "firstSeen": "2026-09-26T01:25:16.325Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "robotics-aeropod-automates-soil-aeration": {
   "id": "robotics-aeropod-automates-soil-aeration",
   "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
@@ -442,18 +478,6 @@
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "lobsters-rename-vibecoding-llms": {
-  "id": "lobsters-rename-vibecoding-llms",
-  "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
-  "firstSeen": "2026-09-25T07:35:23.467Z",
-  "publishers": [
-   "greasyfork.org"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
@@ -684,17 +708,5 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "research"
- },
- "meta-ai-meta-glasses-meta-audio": {
-  "id": "meta-ai-meta-glasses-meta-audio",
-  "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
-  "firstSeen": "2026-09-24T04:27:18.714Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "policy"
  }
 }
