@@ -1,15 +1,49 @@
 {
  "date": "2026-09-27",
- "generated": "2026-09-27T13:48:22.935Z",
- "headline": "58 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2703 items read · 59 on-topic · 58 distinct developments · 8 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-27T18:14:41.240Z",
+ "headline": "47 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2703 items read · 49 on-topic · 47 distinct developments · 3 with a primary source · 2 independently corroborated",
  "events": [
   {
-   "id": "openai-openai-feared-optics-what",
-   "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+   "id": "anthropic-weekend-update-anthropic-dario",
+   "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
    "category": {
-    "id": "security",
-    "name": "Security"
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 237.50281645692178,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-27T17:32:02.000Z",
+   "latestAt": "2026-09-27T17:32:02.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+     "link": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+     "publisher": "YouTube",
+     "publisherDomain": "youtube.com",
+     "kind": "discussion",
+     "date": "2026-09-27T17:32:02.000Z",
+     "points": 37,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "openai-openai-agents-tried-bruteforce",
+   "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+   "category": {
+    "id": "general",
+    "name": "Other"
    },
    "entities": [
     {
@@ -18,88 +52,66 @@
      "kind": "org"
     }
    ],
-   "rank": 116.55090640292732,
+   "rank": 179.68843545196637,
    "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-27T06:19:33.000Z",
-   "latestAt": "2026-09-27T06:19:33.000Z",
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-25T22:20:47.000Z",
+   "latestAt": "2026-09-27T17:21:07.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-     "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-     "publisher": "authorsguild.org",
-     "publisherDomain": "authorsguild.org",
-     "kind": "discussion",
-     "date": "2026-09-27T06:19:33.000Z",
-     "points": 392,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "language-model-chat-template",
-   "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 114.82567475478344,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-27T10:26:25.000Z",
-   "latestAt": "2026-09-27T10:26:25.000Z",
-   "primary": {
-    "publisher": "arXiv",
-    "link": "https://arxiv.org/abs/2609.25021",
-    "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice"
-   },
-   "sources": [
+     "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-27T17:21:07.000Z",
+     "points": null,
+     "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June…"
+    },
     {
-     "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-     "link": "https://arxiv.org/abs/2609.25021",
-     "publisher": "arXiv",
-     "publisherDomain": "arxiv.org",
-     "kind": "research",
-     "date": "2026-09-27T10:26:25.000Z",
-     "points": 67,
-     "summary": ""
+     "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+     "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-25T22:20:47.000Z",
+     "points": null,
+     "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
     }
    ]
   },
   {
-   "id": "robotics-robot-agents",
-   "title": "Robot-use agents",
+   "id": "agents-there-rogue-agents",
+   "title": "There are no \"rogue\" AI agents",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [
     {
-     "id": "robotics",
-     "name": "Robotics",
+     "id": "agents",
+     "name": "AI Agents",
      "kind": "topic"
     }
    ],
-   "rank": 68.56719169832463,
+   "rank": 152.36739293849746,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-09-27T07:15:07.000Z",
-   "latestAt": "2026-09-27T07:15:07.000Z",
+   "publishedAt": "2026-09-27T16:19:46.000Z",
+   "latestAt": "2026-09-27T16:19:46.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Robot-use agents",
-     "link": "https://web.mit.edu/phillipi/www/writing/robot-use-agents.html",
-     "publisher": "web.mit.edu",
-     "publisherDomain": "web.mit.edu",
+     "title": "There are no \"rogue\" AI agents",
+     "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+     "publisher": "eoinhiggins.substack.com",
+     "publisherDomain": "eoinhiggins.substack.com",
      "kind": "discussion",
-     "date": "2026-09-27T07:15:07.000Z",
-     "points": null,
+     "date": "2026-09-27T16:19:46.000Z",
+     "points": 118,
      "summary": ""
     }
    ]
@@ -123,7 +135,7 @@
      "kind": "model"
     }
    ],
-   "rank": 55.39686374755838,
+   "rank": 40.72633985105113,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -151,7 +163,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 53.76024022620919,
+   "rank": 39.52313661480964,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -172,6 +184,107 @@
    ]
   },
   {
+   "id": "agents-show-tinyaiarena-watch-agents",
+   "title": "Show HN: TinyAIArena watch AI agents battle it out",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 144.50374274271846,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-27T15:51:28.000Z",
+   "latestAt": "2026-09-27T15:51:28.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Show HN: TinyAIArena watch AI agents battle it out",
+     "link": "https://tinyaiarena.com/",
+     "publisher": "tinyaiarena.com",
+     "publisherDomain": "tinyaiarena.com",
+     "kind": "discussion",
+     "date": "2026-09-27T15:51:28.000Z",
+     "points": 41,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "calling-bluff-adding-guess",
+   "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 119.81686816059973,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-27T17:24:17.000Z",
+   "latestAt": "2026-09-27T17:24:17.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+     "link": "https://earnanhonestdollar.com/bench",
+     "publisher": "earnanhonestdollar.com",
+     "publisherDomain": "earnanhonestdollar.com",
+     "kind": "discussion",
+     "date": "2026-09-27T17:24:17.000Z",
+     "points": 10,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "microsoft-openai-unsealed-briefs-authors-case",
+   "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "microsoft",
+     "name": "Microsoft",
+     "kind": "org"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 85.68520856603332,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-27T06:19:33.000Z",
+   "latestAt": "2026-09-27T06:19:33.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+     "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+     "publisher": "authorsguild.org",
+     "publisherDomain": "authorsguild.org",
+     "kind": "discussion",
+     "date": "2026-09-27T06:19:33.000Z",
+     "points": 568,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "party",
    "title": "Kākāpō Party",
    "category": {
@@ -179,7 +292,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 44.98655060028214,
+   "rank": 33.07294717662334,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -200,112 +313,35 @@
    ]
   },
   {
-   "id": "coding-agents-drawgent-coding-agent-live",
-   "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+   "id": "llama-faster-prompt-lookup-drafting",
+   "title": "42x faster prompt lookup drafting in llama.cpp",
    "category": {
-    "id": "general",
-    "name": "Other"
+    "id": "models",
+    "name": "Models"
    },
    "entities": [
     {
-     "id": "coding-agents",
-     "name": "Coding Agents",
-     "kind": "topic"
+     "id": "llama",
+     "name": "Llama",
+     "kind": "model"
     }
    ],
-   "rank": 38.228742957659925,
+   "rank": 27.993709104721447,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-09-26T15:56:34.000Z",
-   "latestAt": "2026-09-26T15:56:34.000Z",
+   "publishedAt": "2026-09-26T19:57:24.000Z",
+   "latestAt": "2026-09-26T19:57:24.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-     "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-     "publisher": "tangled.org",
-     "publisherDomain": "tangled.org",
+     "title": "42x faster prompt lookup drafting in llama.cpp",
+     "link": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+     "publisher": "GitHub Pages",
+     "publisherDomain": "jadidbourbaki.github.io",
      "kind": "discussion",
-     "date": "2026-09-26T15:56:34.000Z",
-     "points": 164,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "deepseek-deepseek-elastic-compute-dsec",
-   "title": "DeepSeek Elastic Compute (DSec)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "deepseek",
-     "name": "DeepSeek",
-     "kind": "org"
-    }
-   ],
-   "rank": 37.71533221698786,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-26T18:22:41.000Z",
-   "latestAt": "2026-09-26T18:22:41.000Z",
-   "primary": {
-    "publisher": "arXiv",
-    "link": "https://arxiv.org/abs/2609.22978",
-    "title": "DeepSeek Elastic Compute (DSec)"
-   },
-   "sources": [
-    {
-     "title": "DeepSeek Elastic Compute (DSec)",
-     "link": "https://arxiv.org/abs/2609.22978",
-     "publisher": "arXiv",
-     "publisherDomain": "arxiv.org",
-     "kind": "research",
-     "date": "2026-09-26T18:22:41.000Z",
-     "points": 280,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "hugging-face-openai-revealing-details-openai-agents",
-   "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [
-    {
-     "id": "hugging-face",
-     "name": "Hugging Face",
-     "kind": "org"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 33.19783026656876,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-26T16:27:29.000Z",
-   "latestAt": "2026-09-26T16:27:29.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-     "link": "https://swarmtraces.org/",
-     "publisher": "swarmtraces.org",
-     "publisherDomain": "swarmtraces.org",
-     "kind": "discussion",
-     "date": "2026-09-26T16:27:29.000Z",
-     "points": null,
+     "date": "2026-09-26T19:57:24.000Z",
+     "points": 15,
      "summary": ""
     }
    ]
@@ -324,7 +360,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 32.04828782574209,
+   "rank": 23.56107139175372,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -345,34 +381,6 @@
    ]
   },
   {
-   "id": "turning-flash-into-like",
-   "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 31.582455779793182,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-26T15:49:04.000Z",
-   "latestAt": "2026-09-26T15:49:04.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-     "link": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-     "publisher": "privatemode.ai",
-     "publisherDomain": "privatemode.ai",
-     "kind": "discussion",
-     "date": "2026-09-26T15:49:04.000Z",
-     "points": 110,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "insurers-claim-already-increasing",
    "title": "Insurers claim AI is already increasing healthcare costs",
    "category": {
@@ -380,7 +388,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 31.27029172039815,
+   "rank": 22.989108799549605,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -414,7 +422,7 @@
      "kind": "org"
     }
    ],
-   "rank": 31.006219673541533,
+   "rank": 22.794969868247403,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -448,7 +456,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 30.08156334593246,
+   "rank": 22.11518647806782,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -480,7 +488,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.83744413881375,
+   "rank": 19.730194036103757,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -501,34 +509,6 @@
    ]
   },
   {
-   "id": "keep-enjoying-programming-world",
-   "title": "How to keep enjoying programming in a world of LLMs",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 20.666441881153467,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-26T09:41:58.000Z",
-   "latestAt": "2026-09-26T09:41:58.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How to keep enjoying programming in a world of LLMs",
-     "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-     "publisher": "discourse.haskell.org",
-     "publisherDomain": "discourse.haskell.org",
-     "kind": "discussion",
-     "date": "2026-09-26T09:41:58.000Z",
-     "points": 268,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "cloudflare-matthew-prince-save",
    "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
    "category": {
@@ -536,7 +516,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.202480415260048,
+   "rank": 14.117166396617584,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -575,7 +555,7 @@
      "kind": "model"
     }
    ],
-   "rank": 18.000832361477634,
+   "rank": 13.233745861427924,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -619,7 +599,7 @@
      "kind": "model"
     }
    ],
-   "rank": 17.16917710963248,
+   "rank": 12.622334454098036,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -640,38 +620,6 @@
    ]
   },
   {
-   "id": "agent-used-reach-external",
-   "title": "An agent used DNS to reach an external chatbot",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 16.98214708613162,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-26T04:14:11.000Z",
-   "latestAt": "2026-09-26T04:14:11.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-    "title": "An agent used DNS to reach an external chatbot"
-   },
-   "sources": [
-    {
-     "title": "An agent used DNS to reach an external chatbot",
-     "link": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-     "publisher": "OpenAI",
-     "publisherDomain": "alignment.openai.com",
-     "kind": "primary",
-     "date": "2026-09-26T04:14:11.000Z",
-     "points": 118,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "meta-ai-meta-muse-adults-only",
    "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
    "category": {
@@ -685,7 +633,7 @@
      "kind": "org"
     }
    ],
-   "rank": 15.065960773986827,
+   "rank": 11.07610426214853,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -719,7 +667,7 @@
      "kind": "org"
     }
    ],
-   "rank": 11.231217422256568,
+   "rank": 8.256900241938835,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -740,68 +688,6 @@
    ]
   },
   {
-   "id": "generate-fonts-where-every",
-   "title": "Generate fonts where every LLM token is the same width",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 10.923452506276753,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-26T00:30:03.000Z",
-   "latestAt": "2026-09-26T00:30:03.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Generate fonts where every LLM token is the same width",
-     "link": "https://ampdot.mesh.host/token-space-fonts.html",
-     "publisher": "ampdot.mesh.host",
-     "publisherDomain": "ampdot.mesh.host",
-     "kind": "discussion",
-     "date": "2026-09-26T00:30:03.000Z",
-     "points": 78,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "openai-unsecured-openai-agents-posted",
-   "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 10.511185412129587,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T22:20:47.000Z",
-   "latestAt": "2026-09-25T22:20:47.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-     "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-25T22:20:47.000Z",
-     "points": null,
-     "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
-    }
-   ]
-  },
-  {
    "id": "anthropic-anthropic-akamai-billion-over",
    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
    "category": {
@@ -815,7 +701,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.840281727118288,
+   "rank": 5.7639721194627915,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -843,7 +729,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.877250444273164,
+   "rank": 5.055976455826093,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -871,7 +757,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.6887304002833,
+   "rank": 4.917381400783746,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -909,7 +795,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 6.583284884608616,
+   "rank": 4.839860587932209,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -937,7 +823,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.7326274275935525,
+   "rank": 4.214479251380403,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -971,7 +857,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.713330088372133,
+   "rank": 4.200292347245652,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -999,7 +885,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.513428088411117,
+   "rank": 4.053329572883249,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1027,7 +913,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 5.375479632672217,
+   "rank": 3.9519134400864218,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1055,7 +941,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.330312778508473,
+   "rank": 3.9187079383984935,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1094,7 +980,7 @@
      "kind": "product"
     }
    ],
-   "rank": 5.266162626917028,
+   "rank": 3.8715464079711532,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1128,7 +1014,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.992836494357085,
+   "rank": 3.6706041124734177,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1162,7 +1048,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.637093359641884,
+   "rank": 3.4090709709924942,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1183,40 +1069,6 @@
    ]
   },
   {
-   "id": "meta-ai-meta-putting-muscle-behind",
-   "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 4.261413015922874,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T16:16:52.000Z",
-   "latestAt": "2026-09-25T16:16:52.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-     "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-25T16:16:52.000Z",
-     "points": null,
-     "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own…"
-    }
-   ]
-  },
-  {
    "id": "download-pentagon-powered-detector",
    "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
    "category": {
@@ -1224,7 +1076,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.364230995633636,
+   "rank": 2.47329551885786,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1252,7 +1104,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 3.2523940819355364,
+   "rank": 2.391075915670266,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1280,7 +1132,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 3.1159939102901713,
+   "rank": 2.2907980412496998,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1308,7 +1160,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.9067653946680796,
+   "rank": 2.136978654062247,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1336,7 +1188,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.809643055587219,
+   "rank": 2.0655768251327093,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1364,7 +1216,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.9159142028161267,
+   "rank": 1.4085305136571817,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1392,7 +1244,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6000800330169358,
+   "rank": 1.1763374098303716,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1420,7 +1272,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4236105658020142,
+   "rank": 1.0466016268106049,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1441,78 +1293,6 @@
    ]
   },
   {
-   "id": "openai-openai-agent-didn-accept",
-   "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.4130663623536357,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T16:01:16.000Z",
-   "latestAt": "2026-09-24T16:01:16.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
-     "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-24T16:01:16.000Z",
-     "points": null,
-     "summary": "\"There will obviously be legal consequences,\" prime minister promises."
-    }
-   ]
-  },
-  {
-   "id": "gemini-introducing-gemini-live-with",
-   "title": "Introducing Gemini 3.8 Live with Live Avatar",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.370460442523641,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T16:20:39.000Z",
-   "latestAt": "2026-09-24T16:20:39.000Z",
-   "primary": {
-    "publisher": "Google DeepMind",
-    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-    "title": "Introducing Gemini 3.8 Live with Live Avatar"
-   },
-   "sources": [
-    {
-     "title": "Introducing Gemini 3.8 Live with Live Avatar",
-     "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-     "publisher": "Google DeepMind",
-     "publisherDomain": "deepmind.google",
-     "kind": "primary",
-     "date": "2026-09-24T16:20:39.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "commit-rewriter",
    "title": "commit-rewriter 0.2",
    "category": {
@@ -1520,7 +1300,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2637642862211937,
+   "rank": 0.9290867809196842,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1554,7 +1334,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.2202928406926967,
+   "rank": 0.8971276997616281,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1582,7 +1362,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.1907694120240992,
+   "rank": 0.8754228394467046,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1610,7 +1390,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.0637950224648864,
+   "rank": 0.7820745559566283,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1638,7 +1418,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.0592172707531928,
+   "rank": 0.7787091114286897,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1659,45 +1439,6 @@
    ]
   },
   {
-   "id": "google-gemini-google-gemini-make-calls",
-   "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    },
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.0293491330848863,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T16:00:00.000Z",
-   "latestAt": "2026-09-24T16:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
-     "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-24T16:00:00.000Z",
-     "points": null,
-     "summary": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning."
-    }
-   ]
-  },
-  {
    "id": "infrastructure-jersey-fines-data-center",
    "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
    "category": {
@@ -1711,7 +1452,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.025031852244373,
+   "rank": 0.75357687689489,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1745,7 +1486,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.0209324686289796,
+   "rank": 0.7505631162050935,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1766,111 +1507,6 @@
      "date": "2026-09-24T19:40:00.000Z",
      "points": null,
      "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "google-infrastructure-google-first-suncatcher-orbital",
-   "title": "Google's first Suncatcher orbital data center test launches October 1",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "infrastructure",
-     "name": "AI Infrastructure",
-     "kind": "topic"
-    },
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.8878177194343481,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T16:16:34.000Z",
-   "latestAt": "2026-09-24T16:16:34.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Google's first Suncatcher orbital data center test launches October 1",
-     "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-24T16:16:34.000Z",
-     "points": null,
-     "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time."
-    }
-   ]
-  },
-  {
-   "id": "accelerating-vision-language-models",
-   "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8009429003705049,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T14:08:57.000Z",
-   "latestAt": "2026-09-24T14:08:57.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark"
-   },
-   "sources": [
-    {
-     "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-09-24T14:08:57.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "meta-ai-meta-puts-assistant-keychain",
-   "title": "Meta puts its AI assistant on a keychain",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.7614281710989599,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-24T14:03:38.000Z",
-   "latestAt": "2026-09-24T14:03:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta puts its AI assistant on a keychain",
-     "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-24T14:03:38.000Z",
-     "points": null,
-     "summary": "Meta says the keychain-sized Muse Charm will ship in December."
     }
    ]
   }

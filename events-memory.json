@@ -1,34 +1,35 @@
 {
- "openai-openai-feared-optics-what": {
-  "id": "openai-openai-feared-optics-what",
-  "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-  "firstSeen": "2026-09-27T13:48:22.875Z",
+ "anthropic-weekend-update-anthropic-dario": {
+  "id": "anthropic-weekend-update-anthropic-dario",
+  "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+  "firstSeen": "2026-09-27T18:14:41.192Z",
   "publishers": [
-   "authorsguild.org"
+   "YouTube"
   ],
   "sourceCount": 1,
   "independentCount": 0,
   "hadPrimary": false,
-  "category": "security"
+  "category": "tools"
  },
- "language-model-chat-template": {
-  "id": "language-model-chat-template",
-  "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-  "firstSeen": "2026-09-27T13:48:22.875Z",
+ "openai-openai-agents-tried-bruteforce": {
+  "id": "openai-openai-agents-tried-bruteforce",
+  "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+  "firstSeen": "2026-09-27T18:14:41.192Z",
   "publishers": [
-   "arXiv"
+   "The Verge",
+   "TechCrunch"
   ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": false,
   "category": "general"
  },
- "robotics-robot-agents": {
-  "id": "robotics-robot-agents",
-  "title": "Robot-use agents",
-  "firstSeen": "2026-09-27T07:58:29.926Z",
+ "agents-there-rogue-agents": {
+  "id": "agents-there-rogue-agents",
+  "title": "There are no \"rogue\" AI agents",
+  "firstSeen": "2026-09-27T18:14:41.192Z",
   "publishers": [
-   "web.mit.edu"
+   "eoinhiggins.substack.com"
   ],
   "sourceCount": 1,
   "independentCount": 0,
@@ -59,6 +60,42 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "agents-show-tinyaiarena-watch-agents": {
+  "id": "agents-show-tinyaiarena-watch-agents",
+  "title": "Show HN: TinyAIArena watch AI agents battle it out",
+  "firstSeen": "2026-09-27T18:14:41.192Z",
+  "publishers": [
+   "tinyaiarena.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "calling-bluff-adding-guess": {
+  "id": "calling-bluff-adding-guess",
+  "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+  "firstSeen": "2026-09-27T18:14:41.192Z",
+  "publishers": [
+   "earnanhonestdollar.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "microsoft-openai-unsealed-briefs-authors-case": {
+  "id": "microsoft-openai-unsealed-briefs-authors-case",
+  "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+  "firstSeen": "2026-09-27T18:14:41.192Z",
+  "publishers": [
+   "authorsguild.org"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "party": {
   "id": "party",
   "title": "Kākāpō Party",
@@ -71,41 +108,17 @@
   "hadPrimary": false,
   "category": "general"
  },
- "coding-agents-drawgent-coding-agent-live": {
-  "id": "coding-agents-drawgent-coding-agent-live",
-  "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-  "firstSeen": "2026-09-26T19:39:50.003Z",
+ "llama-faster-prompt-lookup-drafting": {
+  "id": "llama-faster-prompt-lookup-drafting",
+  "title": "42x faster prompt lookup drafting in llama.cpp",
+  "firstSeen": "2026-09-27T18:14:41.192Z",
   "publishers": [
-   "tangled.org"
+   "GitHub Pages"
   ],
   "sourceCount": 1,
   "independentCount": 0,
   "hadPrimary": false,
-  "category": "general"
- },
- "deepseek-deepseek-elastic-compute-dsec": {
-  "id": "deepseek-deepseek-elastic-compute-dsec",
-  "title": "DeepSeek Elastic Compute (DSec)",
-  "firstSeen": "2026-09-26T22:38:07.202Z",
-  "publishers": [
-   "arXiv"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "hugging-face-openai-revealing-details-openai-agents": {
-  "id": "hugging-face-openai-revealing-details-openai-agents",
-  "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-  "firstSeen": "2026-09-25T22:11:10.851Z",
-  "publishers": [
-   "swarmtraces.org"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "security"
+  "category": "models"
  },
  "safety-skeuomorphic-safety": {
   "id": "safety-skeuomorphic-safety",
@@ -116,18 +129,6 @@
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "turning-flash-into-like": {
-  "id": "turning-flash-into-like",
-  "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-  "firstSeen": "2026-09-27T01:17:15.226Z",
-  "publishers": [
-   "privatemode.ai"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
@@ -179,18 +180,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "keep-enjoying-programming-world": {
-  "id": "keep-enjoying-programming-world",
-  "title": "How to keep enjoying programming in a world of LLMs",
-  "firstSeen": "2026-09-26T01:25:16.325Z",
-  "publishers": [
-   "discourse.haskell.org"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
  "cloudflare-matthew-prince-save": {
   "id": "cloudflare-matthew-prince-save",
   "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
@@ -228,18 +217,6 @@
   "hadPrimary": false,
   "category": "business"
  },
- "agent-used-reach-external": {
-  "id": "agent-used-reach-external",
-  "title": "An agent used DNS to reach an external chatbot",
-  "firstSeen": "2026-09-27T07:58:29.926Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
  "meta-ai-meta-muse-adults-only": {
   "id": "meta-ai-meta-muse-adults-only",
   "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
@@ -263,30 +240,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "tools"
- },
- "generate-fonts-where-every": {
-  "id": "generate-fonts-where-every",
-  "title": "Generate fonts where every LLM token is the same width",
-  "firstSeen": "2026-09-27T01:17:15.226Z",
-  "publishers": [
-   "ampdot.mesh.host"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "openai-unsecured-openai-agents-posted": {
-  "id": "openai-unsecured-openai-agents-posted",
-  "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-  "firstSeen": "2026-09-26T01:25:16.325Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  },
  "anthropic-anthropic-akamai-billion-over": {
   "id": "anthropic-anthropic-akamai-billion-over",
@@ -432,18 +385,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "meta-ai-meta-putting-muscle-behind": {
-  "id": "meta-ai-meta-putting-muscle-behind",
-  "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-  "firstSeen": "2026-09-25T18:27:34.036Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "tools"
- },
  "download-pentagon-powered-detector": {
   "id": "download-pentagon-powered-detector",
   "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
@@ -540,30 +481,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "openai-openai-agent-didn-accept": {
-  "id": "openai-openai-agent-didn-accept",
-  "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
-  "firstSeen": "2026-09-24T18:59:07.453Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "security"
- },
- "gemini-introducing-gemini-live-with": {
-  "id": "gemini-introducing-gemini-live-with",
-  "title": "Introducing Gemini 3.8 Live with Live Avatar",
-  "firstSeen": "2026-09-24T18:59:07.453Z",
-  "publishers": [
-   "Google DeepMind"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "models"
- },
  "commit-rewriter": {
   "id": "commit-rewriter",
   "title": "commit-rewriter 0.2",
@@ -624,18 +541,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "google-gemini-google-gemini-make-calls": {
-  "id": "google-gemini-google-gemini-make-calls",
-  "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
-  "firstSeen": "2026-09-27T13:48:22.875Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
- },
  "infrastructure-jersey-fines-data-center": {
   "id": "infrastructure-jersey-fines-data-center",
   "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
@@ -658,42 +563,6 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "category": "general"
- },
- "google-infrastructure-google-first-suncatcher-orbital": {
-  "id": "google-infrastructure-google-first-suncatcher-orbital",
-  "title": "Google's first Suncatcher orbital data center test launches October 1",
-  "firstSeen": "2026-09-25T13:35:11.327Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "accelerating-vision-language-models": {
-  "id": "accelerating-vision-language-models",
-  "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-  "firstSeen": "2026-09-24T14:51:53.989Z",
-  "publishers": [
-   "Hugging Face"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "meta-ai-meta-puts-assistant-keychain": {
-  "id": "meta-ai-meta-puts-assistant-keychain",
-  "title": "Meta puts its AI assistant on a keychain",
-  "firstSeen": "2026-09-24T14:51:53.989Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
   "category": "general"
  }
 }
