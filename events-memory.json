@@ -1,4 +1,41 @@
 {
+ "robotics-robot-agents": {
+  "id": "robotics-robot-agents",
+  "title": "Robot-use agents",
+  "firstSeen": "2026-09-27T07:58:29.926Z",
+  "publishers": [
+   "web.mit.edu"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "google-gemini-google-tests-buying-from": {
+  "id": "google-gemini-google-tests-buying-from",
+  "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+  "firstSeen": "2026-09-27T07:58:29.926Z",
+  "publishers": [
+   "TechCrunch",
+   "Wired AI"
+  ],
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "category": "models"
+ },
+ "month-without": {
+  "id": "month-without",
+  "title": "One month without AI",
+  "firstSeen": "2026-09-27T07:58:29.926Z",
+  "publishers": [
+   "blog.bustikiller.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "party": {
   "id": "party",
   "title": "Kākāpō Party",
@@ -48,6 +85,30 @@
   "hadPrimary": false,
   "category": "security"
  },
+ "safety-skeuomorphic-safety": {
+  "id": "safety-skeuomorphic-safety",
+  "title": "Skeuomorphic AI Safety",
+  "firstSeen": "2026-09-27T07:58:29.926Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "turning-flash-into-like": {
+  "id": "turning-flash-into-like",
+  "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+  "firstSeen": "2026-09-27T01:17:15.226Z",
+  "publishers": [
+   "privatemode.ai"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "insurers-claim-already-increasing": {
   "id": "insurers-claim-already-increasing",
   "title": "Insurers claim AI is already increasing healthcare costs",
@@ -57,18 +118,6 @@
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "robotics-homebody-humanoid-that-explores": {
-  "id": "robotics-homebody-humanoid-that-explores",
-  "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
-  "firstSeen": "2026-09-27T01:17:15.226Z",
-  "publishers": [
-   "tml.stanford.edu"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
@@ -96,22 +145,10 @@
   "hadPrimary": true,
   "category": "general"
  },
- "turning-flash-into-like": {
-  "id": "turning-flash-into-like",
-  "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-  "firstSeen": "2026-09-27T01:17:15.226Z",
-  "publishers": [
-   "privatemode.ai"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "expect-self-replication-incidents": {
-  "id": "expect-self-replication-incidents",
-  "title": "Why I expect AI self-replication incidents by 2027",
-  "firstSeen": "2026-09-27T01:17:15.226Z",
+ "expect-replication-incidents-2027": {
+  "id": "expect-replication-incidents-2027",
+  "title": "Why I expect AI replication incidents by 2027",
+  "firstSeen": "2026-09-27T07:58:29.926Z",
   "publishers": [
    "LessWrong"
   ],
@@ -169,6 +206,18 @@
   "hadPrimary": false,
   "category": "business"
  },
+ "agent-used-reach-external": {
+  "id": "agent-used-reach-external",
+  "title": "An agent used DNS to reach an external chatbot",
+  "firstSeen": "2026-09-27T07:58:29.926Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
  "meta-ai-meta-muse-adults-only": {
   "id": "meta-ai-meta-muse-adults-only",
   "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
@@ -193,18 +242,6 @@
   "hadPrimary": false,
   "category": "tools"
  },
- "openai-unsecured-openai-agents-posted": {
-  "id": "openai-unsecured-openai-agents-posted",
-  "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-  "firstSeen": "2026-09-26T01:25:16.325Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "generate-fonts-where-every": {
   "id": "generate-fonts-where-every",
   "title": "Generate fonts where every LLM token is the same width",
@@ -217,27 +254,15 @@
   "hadPrimary": false,
   "category": "general"
  },
- "poverty-midst-abundance-will": {
-  "id": "poverty-midst-abundance-will",
-  "title": "Poverty in the midst of abundance: AI will make goods cheaper, but your labor will get cheaper faster",
-  "firstSeen": "2026-09-26T12:57:16.115Z",
+ "openai-unsecured-openai-agents-posted": {
+  "id": "openai-unsecured-openai-agents-posted",
+  "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+  "firstSeen": "2026-09-26T01:25:16.325Z",
   "publishers": [
-   "LessWrong"
+   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "analyzing-frontier-model-progress": {
-  "id": "analyzing-frontier-model-progress",
-  "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-  "firstSeen": "2026-09-26T17:02:04.130Z",
-  "publishers": [
-   "blog.priyan.in"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
@@ -396,18 +421,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "tools"
- },
- "meta-ai-meta-tamagotchi-working": {
-  "id": "meta-ai-meta-tamagotchi-working",
-  "title": "Meta’s AI Tamagotchi bet is…working?",
-  "firstSeen": "2026-09-25T22:11:10.851Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  },
  "download-pentagon-powered-detector": {
   "id": "download-pentagon-powered-detector",
@@ -589,18 +602,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "google-gemini-google-gemini-make-calls": {
-  "id": "google-gemini-google-gemini-make-calls",
-  "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
-  "firstSeen": "2026-09-25T18:27:34.036Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
- },
  "infrastructure-jersey-fines-data-center": {
   "id": "infrastructure-jersey-fines-data-center",
   "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
@@ -696,17 +697,5 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "promise-peril-using-visual": {
-  "id": "promise-peril-using-visual",
-  "title": "The promise and peril of using visual AI to study cities",
-  "firstSeen": "2026-09-24T04:27:18.714Z",
-  "publishers": [
-   "MIT News AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "research"
  }
 }
