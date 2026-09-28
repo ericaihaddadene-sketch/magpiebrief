@@ -1,12 +1,478 @@
 {
  "date": "2026-09-28",
- "generated": "2026-09-28T15:16:00.898Z",
- "headline": "57 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2704 items read · 60 on-topic · 57 distinct developments · 4 with a primary source · 3 independently corroborated",
+ "generated": "2026-09-28T21:47:52.790Z",
+ "headline": "61 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2707 items read · 63 on-topic · 61 distinct developments · 7 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "openai-openai-pauses-training-most",
-   "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+   "id": "openai-agents-openai-agents-need-catch",
+   "title": "OpenAI’s AI agents need to catch up",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 178.36132543088647,
+   "deltas": [],
+   "sourceCount": 3,
+   "independentCount": 3,
+   "publishedAt": "2026-09-28T11:32:19.000Z",
+   "latestAt": "2026-09-28T18:45:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI’s AI agents need to catch up",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-28T18:45:00.000Z",
+     "points": null,
+     "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running…"
+    },
+    {
+     "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+     "link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-28T16:43:18.000Z",
+     "points": null,
+     "summary": "US Government websites among \"dozens of third parties\" OpenAI has recently notified."
+    },
+    {
+     "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+     "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-28T11:32:19.000Z",
+     "points": null,
+     "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over…"
+    }
+   ]
+  },
+  {
+   "id": "openai-florida-invokes-extinction-fears",
+   "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 138.8392322132209,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T20:49:39.000Z",
+   "latestAt": "2026-09-28T20:49:39.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+     "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-28T20:49:39.000Z",
+     "points": null,
+     "summary": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\""
+    }
+   ]
+  },
+  {
+   "id": "anthropic-anthropic-releases-sonnet-which",
+   "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 132.5740787221671,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T18:00:00.000Z",
+   "latestAt": "2026-09-28T18:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+     "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-28T18:00:00.000Z",
+     "points": null,
+     "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn."
+    }
+   ]
+  },
+  {
+   "id": "jeff-compatible-decision-models",
+   "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 131.5479343614367,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T20:23:36.000Z",
+   "latestAt": "2026-09-28T20:23:36.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/firelex/jeff",
+    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms"
+   },
+   "sources": [
+    {
+     "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+     "link": "https://github.com/firelex/jeff",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-28T20:23:36.000Z",
+     "points": 61,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "nvidia-agents-nvidia-launches-platform-reining",
+   "title": "Nvidia launches new platform for reining in rogue AI agents",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 130.05744380907595,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T18:31:23.000Z",
+   "latestAt": "2026-09-28T18:31:23.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Nvidia launches new platform for reining in rogue AI agents",
+     "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-28T18:31:23.000Z",
+     "points": null,
+     "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is…"
+    }
+   ]
+  },
+  {
+   "id": "time-investigate-labs",
+   "title": "It's Time to Investigate the AI Labs",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [],
+   "rank": 127.06448226041243,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-28T19:53:35.000Z",
+   "latestAt": "2026-09-28T19:53:35.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "It's Time to Investigate the AI Labs",
+     "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+     "publisher": "calnewport.com",
+     "publisherDomain": "calnewport.com",
+     "kind": "discussion",
+     "date": "2026-09-28T19:53:35.000Z",
+     "points": 67,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "pacing-frontier-actual-goal",
+   "title": "Pacing the Frontier is not the actual goal for AI labs",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 120.96727127345261,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-28T20:47:26.000Z",
+   "latestAt": "2026-09-28T20:47:26.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Pacing the Frontier is not the actual goal for AI labs",
+     "link": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "discussion",
+     "date": "2026-09-28T20:47:26.000Z",
+     "points": 13,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "microllm-tiny-browser",
+   "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 119.2834715185673,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-28T18:58:53.000Z",
+   "latestAt": "2026-09-28T18:58:53.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+     "link": "https://stateofutopia.com/experiments/microllmlab/",
+     "publisher": "stateofutopia.com",
+     "publisherDomain": "stateofutopia.com",
+     "kind": "discussion",
+     "date": "2026-09-28T18:58:53.000Z",
+     "points": 81,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "made-visual-workspace-automations",
+   "title": "I made a visual workspace for AI Automations",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 103.54464930601173,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-28T17:53:14.000Z",
+   "latestAt": "2026-09-28T17:53:14.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "I made a visual workspace for AI Automations",
+     "link": "https://www.biom.dev/",
+     "publisher": "biom.dev",
+     "publisherDomain": "biom.dev",
+     "kind": "discussion",
+     "date": "2026-09-28T17:53:14.000Z",
+     "points": 23,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "agents-shopify-opens-checkout-browser",
+   "title": "Shopify opens checkout to browser-based AI agents",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 102.79856319546377,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T19:33:57.000Z",
+   "latestAt": "2026-09-28T19:33:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Shopify opens checkout to browser-based AI agents",
+     "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-28T19:33:57.000Z",
+     "points": null,
+     "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization."
+    }
+   ]
+  },
+  {
+   "id": "quoting-joedaroo",
+   "title": "Quoting @joedaroo",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 100.18987827008863,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T19:11:42.000Z",
+   "latestAt": "2026-09-28T19:11:42.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Quoting @joedaroo",
+     "link": "https://simonwillison.net/2026/Sep/28/joedaroo/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-28T19:11:42.000Z",
+     "points": null,
+     "summary": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message…"
+    }
+   ]
+  },
+  {
+   "id": "watch-winning-trailer-from",
+   "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 98.84478566581991,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T19:00:00.000Z",
+   "latestAt": "2026-09-28T19:00:00.000Z",
+   "primary": {
+    "publisher": "Google AI",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+   },
+   "sources": [
+    {
+     "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+     "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-09-28T19:00:00.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "acquiring-company-world-labs",
+   "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [],
+   "rank": 98.13510728713038,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T21:31:35.000Z",
+   "latestAt": "2026-09-28T21:31:35.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+     "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-28T21:31:35.000Z",
+     "points": null,
+     "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately…"
+    }
+   ]
+  },
+  {
+   "id": "funding-source-inference-provider-modal",
+   "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    }
+   ],
+   "rank": 97.87658662369994,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T21:29:18.000Z",
+   "latestAt": "2026-09-28T21:29:18.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+     "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-28T21:29:18.000Z",
+     "points": null,
+     "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago."
+    }
+   ]
+  },
+  {
+   "id": "openai-openai-still-doesn-seem",
+   "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
    "category": {
     "id": "general",
     "name": "Other"
@@ -18,146 +484,308 @@
      "kind": "org"
     }
    ],
-   "rank": 174.19929464384253,
-   "deltas": [
-    "Now also covered by Wired AI."
-   ],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-27T17:21:07.000Z",
-   "latestAt": "2026-09-28T11:32:19.000Z",
+   "rank": 97.82108175599946,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T17:09:02.000Z",
+   "latestAt": "2026-09-28T17:09:02.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-     "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
+     "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+     "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
      "kind": "coverage",
-     "date": "2026-09-28T11:32:19.000Z",
+     "date": "2026-09-28T17:09:02.000Z",
      "points": null,
-     "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over…"
-    },
-    {
-     "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-27T17:21:07.000Z",
-     "points": null,
-     "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June…"
+     "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming."
     }
    ]
   },
   {
-   "id": "claude-prompting-claude-opus",
-   "title": "Prompting Claude Opus 5.5",
+   "id": "anthropic-anthropic-gamma-clay-share",
+   "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 96.94005874176874,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T15:30:00.000Z",
+   "latestAt": "2026-09-28T15:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+     "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-28T15:30:00.000Z",
+     "points": null,
+     "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to…"
+    }
+   ]
+  },
+  {
+   "id": "openai-openai-keeps-bulldozing-mathematicians",
+   "title": "OpenAI keeps bulldozing mathematicians",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 96.8055568202972,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T17:00:00.000Z",
+   "latestAt": "2026-09-28T17:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI keeps bulldozing mathematicians",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-28T17:00:00.000Z",
+     "points": null,
+     "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing…"
+    }
+   ]
+  },
+  {
+   "id": "google-gemini-google-killing-gemini-gems",
+   "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
    "category": {
     "id": "models",
     "name": "Models"
    },
    "entities": [
     {
-     "id": "claude",
-     "name": "Claude",
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    },
+    {
+     "id": "gemini",
+     "name": "Gemini",
      "kind": "model"
     }
    ],
-   "rank": 127.46764498803164,
+   "rank": 96.48898801168797,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-28T07:33:29.000Z",
-   "latestAt": "2026-09-28T07:33:29.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T17:29:50.000Z",
+   "latestAt": "2026-09-28T17:29:50.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Prompting Claude Opus 5.5",
-     "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-     "publisher": "platform.claude.com",
-     "publisherDomain": "platform.claude.com",
-     "kind": "discussion",
-     "date": "2026-09-28T07:33:29.000Z",
-     "points": 177,
-     "summary": ""
+     "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+     "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-28T17:29:50.000Z",
+     "points": null,
+     "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents."
     }
    ]
   },
   {
-   "id": "nvidia-safety-nvidia-says-safety-platform",
-   "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+   "id": "microsoft-year-microsoft-research-asia",
+   "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
    "category": {
-    "id": "tools",
-    "name": "Tools & Products"
+    "id": "business",
+    "name": "Business"
    },
    "entities": [
     {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    },
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
+     "id": "microsoft",
+     "name": "Microsoft",
      "kind": "org"
     }
    ],
-   "rank": 126.16380452291163,
+   "rank": 94.61903557863486,
    "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-28T09:00:00.000Z",
-   "latestAt": "2026-09-28T13:36:06.000Z",
-   "primary": null,
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T21:00:00.000Z",
+   "latestAt": "2026-09-28T21:00:00.000Z",
+   "primary": {
+    "publisher": "Microsoft Research",
+    "link": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+    "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact"
+   },
    "sources": [
     {
-     "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-     "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-28T13:36:06.000Z",
+     "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+     "link": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+     "publisher": "Microsoft Research",
+     "publisherDomain": "microsoft.com",
+     "kind": "primary",
+     "date": "2026-09-28T21:00:00.000Z",
      "points": null,
-     "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking…"
-    },
-    {
-     "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
-     "link": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-28T09:00:00.000Z",
-     "points": null,
-     "summary": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment."
+     "summary": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored…"
     }
    ]
   },
   {
-   "id": "jensen-huang-says-distillation",
-   "title": "Jensen Huang says AI distillation is 'competition.'",
+   "id": "china-race-real-fight",
+   "title": "In the US-China AI race, the real fight is keeping humans in control",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 124.03588872338042,
+   "rank": 93.0794836721013,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-28T14:55:34.000Z",
-   "latestAt": "2026-09-28T14:55:34.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T21:30:12.000Z",
+   "latestAt": "2026-09-28T21:30:12.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Jensen Huang says AI distillation is 'competition.'",
-     "link": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
-     "publisher": "cnbc.com",
-     "publisherDomain": "cnbc.com",
+     "title": "In the US-China AI race, the real fight is keeping humans in control",
+     "link": "https://www.scmp.com/opinion/china-opinion/article/3368932/us-china-ai-race-real-fight-keeping-humans-control?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-28T21:30:12.000Z",
+     "points": null,
+     "summary": "The US-China AI competition faces a dilemma. Both countries see artificial intelligence as a source of economic, scientific and strategic power, so neither has much incentive…"
+    }
+   ]
+  },
+  {
+   "id": "boom-took-over-climate",
+   "title": "The AI boom took over Climate Week and not everyone is happy about it",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 84.48934096640616,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T19:21:59.000Z",
+   "latestAt": "2026-09-28T19:21:59.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The AI boom took over Climate Week and not everyone is happy about it",
+     "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-28T19:21:59.000Z",
+     "points": null,
+     "summary": "Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors."
+    }
+   ]
+  },
+  {
+   "id": "supercharging-hacking-your-local",
+   "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [],
+   "rank": 79.56480783283774,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T18:30:00.000Z",
+   "latestAt": "2026-09-28T18:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-28T18:30:00.000Z",
+     "points": null,
+     "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and…"
+    }
+   ]
+  },
+  {
+   "id": "what-would-serious-product",
+   "title": "What Would A Serious AI Product Look Like?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 76.2431997239324,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-28T17:01:01.000Z",
+   "latestAt": "2026-09-28T17:01:01.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "What Would A Serious AI Product Look Like?",
+     "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+     "publisher": "blog.glyph.im",
+     "publisherDomain": "blog.glyph.im",
      "kind": "discussion",
-     "date": "2026-09-28T14:55:34.000Z",
-     "points": 10,
+     "date": "2026-09-28T17:01:01.000Z",
+     "points": null,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "when-made-scientific-discovery",
+   "title": "When can we say AI made a scientific discovery?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 75.57788930057085,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T17:03:16.000Z",
+   "latestAt": "2026-09-28T17:03:16.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "When can we say AI made a scientific discovery?",
+     "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-09-28T17:03:16.000Z",
+     "points": null,
+     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday…"
     }
    ]
   },
@@ -169,7 +797,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 116.51463768111219,
+   "rank": 74.09270620500742,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -190,41 +818,70 @@
    ]
   },
   {
-   "id": "funding-agents-viral-agent-instinct-raises",
-   "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+   "id": "gpt-florida-seeks-chatgpt-acting",
+   "title": "Florida seeks a ban on ChatGPT acting like a person",
    "category": {
-    "id": "business",
-    "name": "Business"
+    "id": "policy",
+    "name": "Policy & Regulation"
    },
    "entities": [
     {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
     }
    ],
-   "rank": 107.25249515302383,
+   "rank": 71.73958227934267,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-28T13:38:48.000Z",
-   "latestAt": "2026-09-28T13:38:48.000Z",
+   "publishedAt": "2026-09-28T17:00:23.000Z",
+   "latestAt": "2026-09-28T17:00:23.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-     "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+     "title": "Florida seeks a ban on ChatGPT acting like a person",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-28T17:00:23.000Z",
+     "points": null,
+     "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the…"
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-meta-launches-enterprise-platform",
+   "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 71.10015368235649,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T16:52:38.000Z",
+   "latestAt": "2026-09-28T16:52:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+     "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
      "publisher": "TechCrunch",
      "publisherDomain": "techcrunch.com",
      "kind": "coverage",
-     "date": "2026-09-28T13:38:48.000Z",
+     "date": "2026-09-28T16:52:38.000Z",
      "points": null,
-     "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion."
+     "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers."
     }
    ]
   },
@@ -236,7 +893,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 101.635227642653,
+   "rank": 64.63075551430796,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -257,6 +914,106 @@
    ]
   },
   {
+   "id": "funding-physical-chip-developer-sima",
+   "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    }
+   ],
+   "rank": 64.5781952398101,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T15:29:21.000Z",
+   "latestAt": "2026-09-28T15:29:21.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+     "link": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-28T15:29:21.000Z",
+     "points": null,
+     "summary": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify."
+    }
+   ]
+  },
+  {
+   "id": "mavi-bets-boom-creating",
+   "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 64.38575642540378,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T15:26:46.000Z",
+   "latestAt": "2026-09-28T15:26:46.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+     "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-28T15:26:46.000Z",
+     "points": null,
+     "summary": "Accounting staffing company MAVI emerges from stealth with $4 million in funding."
+    }
+   ]
+  },
+  {
+   "id": "openai-lenfest-institute-grows-landmark",
+   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 62.92361193319318,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T07:00:00.000Z",
+   "latestAt": "2026-09-28T07:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support"
+   },
+   "sources": [
+    {
+     "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+     "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-28T07:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
+    }
+   ]
+  },
+  {
    "id": "after-deepfake-voice-fooled",
    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
    "category": {
@@ -264,7 +1021,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 98.16700726493578,
+   "rank": 62.425282977855325,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -285,6 +1042,68 @@
    ]
   },
   {
+   "id": "fixed-weight-models-adversarially",
+   "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 62.418511337743865,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T20:08:39.000Z",
+   "latestAt": "2026-09-28T20:08:39.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
+     "link": "https://www.lesswrong.com/posts/9LWK9Hh3Qsg36e3FS/fixed-weight-models-are-adversarially-vulnerable-hence",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-28T20:08:39.000Z",
+     "points": null,
+     "summary": "This post argues that fixed-weight models (at least as we understand them today) will a) always be vulnerable to adversarial examples in their concept-spaces, and b)…"
+    }
+   ]
+  },
+  {
+   "id": "safety-alignment-community-unintentionally-building",
+   "title": "The Alignment Community Is Unintentionally Building a Censor's Toolkit",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 62.326040413793486,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T20:07:22.000Z",
+   "latestAt": "2026-09-28T20:07:22.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Alignment Community Is Unintentionally Building a Censor's Toolkit",
+     "link": "https://www.lesswrong.com/posts/BBPwycfKMBqwqDejk/the-alignment-community-is-unintentionally-building-a-censor",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-28T20:07:22.000Z",
+     "points": null,
+     "summary": "This is an adaptation of our ICML 2026 position paper (Outstanding Position Paper Award). Read the full paper here and see the project website here …"
+    }
+   ]
+  },
+  {
    "id": "holo4-powering-generalist-computer",
    "title": "Holo4: powering generalist computer-use agents",
    "category": {
@@ -292,7 +1111,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 94.04679133003505,
+   "rank": 59.80520060158513,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -330,7 +1149,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 92.12364963690788,
+   "rank": 58.58225749936776,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -351,30 +1170,30 @@
    ]
   },
   {
-   "id": "elevenlabs-speech-model-supports",
-   "title": "ElevenLabs’ new v4 speech model supports more expression control and 90 languages",
+   "id": "gate-training-just-releases",
+   "title": "Gate AI Training, Not Just Releases",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 91.59305645861853,
+   "rank": 57.16843997055538,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-28T14:00:00.000Z",
-   "latestAt": "2026-09-28T14:00:00.000Z",
+   "publishedAt": "2026-09-28T16:51:37.000Z",
+   "latestAt": "2026-09-28T16:51:37.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "ElevenLabs’ new v4 speech model supports more expression control and 90 languages",
-     "link": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
+     "title": "Gate AI Training, Not Just Releases",
+     "link": "https://www.lesswrong.com/posts/hFrgJ8eXvypqswQZF/gate-ai-training-not-just-releases",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
      "kind": "coverage",
-     "date": "2026-09-28T14:00:00.000Z",
+     "date": "2026-09-28T16:51:37.000Z",
      "points": null,
-     "summary": "ElevenLabs v4 can clone voices with a 10 second clip"
+     "summary": "The Ban Artificial Superintelligence Act of 2026 is a good bill. It takes the problem seriously, and it is right to focus narrowly on existential risk…"
     }
    ]
   },
@@ -386,7 +1205,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 88.85869280541827,
+   "rank": 56.50604208041182,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -407,30 +1226,58 @@
    ]
   },
   {
-   "id": "philips-motion-tracking-smart",
-   "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
+   "id": "likely-outcome-pause-that",
+   "title": "The likely outcome of an AI pause is that we unpause too early and everyone dies",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 85.45934347158455,
+   "rank": 56.05360975866543,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-28T13:00:00.000Z",
-   "latestAt": "2026-09-28T13:00:00.000Z",
+   "publishedAt": "2026-09-28T18:35:33.000Z",
+   "latestAt": "2026-09-28T18:35:33.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
-     "link": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
+     "title": "The likely outcome of an AI pause is that we unpause too early and everyone dies",
+     "link": "https://www.lesswrong.com/posts/PgbAnqdqdJcrS2Gsy/the-likely-outcome-of-an-ai-pause-is-that-we-unpause-too",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
      "kind": "coverage",
-     "date": "2026-09-28T13:00:00.000Z",
+     "date": "2026-09-28T18:35:33.000Z",
      "points": null,
-     "summary": "First announced in July with an expected limited launch later this year, the Philips Sonicare Next-Generation DiamondClean 9900 Prestige smart toothbrush is now available in Europe…"
+     "summary": "Cross-posted from my website . As of a few months ago, I had this simplified mental model where either AI developers race ahead and kill everyone…"
+    }
+   ]
+  },
+  {
+   "id": "cognitive-labor-glut-guys",
+   "title": "AI: cognitive labor glut + new guys",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 53.68538926888073,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T17:58:11.000Z",
+   "latestAt": "2026-09-28T17:58:11.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI: cognitive labor glut + new guys",
+     "link": "https://www.lesswrong.com/posts/mE4ohQqadfRfTTQnY/ai-cognitive-labor-glut-new-guys-1",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-28T17:58:11.000Z",
+     "points": null,
+     "summary": "Why is the advent of AI a big deal, and more worrying than previous advents? I think there are actually two interesting things going on, that…"
     }
    ]
   },
@@ -448,7 +1295,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 83.29746783099019,
+   "rank": 52.96960909335679,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -487,7 +1334,7 @@
      "kind": "org"
     }
    ],
-   "rank": 81.85052994508436,
+   "rank": 52.04948827582715,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -508,6 +1355,34 @@
    ]
   },
   {
+   "id": "reasons-against-near-term",
+   "title": "9 reasons against a near-term AI slow-down",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 51.77386242242654,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T17:26:48.000Z",
+   "latestAt": "2026-09-28T17:26:48.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "9 reasons against a near-term AI slow-down",
+     "link": "https://www.lesswrong.com/posts/fNtHtppSgXBvDrxFD/9-reasons-against-a-near-term-ai-slow-down",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-28T17:26:48.000Z",
+     "points": null,
+     "summary": "I’ve heard more arguments in favor of a near-term [1] coordinated AI pause/slow-down [2] than arguments against. I think such questions, including complex flow-through effects, are…"
+    }
+   ]
+  },
+  {
    "id": "generative-gives-spacecraft-autonomy",
    "title": "Generative AI Gives Spacecraft the Autonomy Engineers Once Feared",
    "category": {
@@ -515,7 +1390,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 74.4038421440793,
+   "rank": 47.31407251673303,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -549,7 +1424,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 73.18475771866171,
+   "rank": 46.538845764376156,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -577,7 +1452,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 67.05004190450174,
+   "rank": 42.63772479351764,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -611,7 +1486,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 66.06137716520053,
+   "rank": 42.00902399229488,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -639,7 +1514,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 64.76607133149147,
+   "rank": 41.18532736075829,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -660,66 +1535,6 @@
    ]
   },
   {
-   "id": "character-training-mitigate-reward",
-   "title": "Character training can mitigate reward hacking, but can also make it harder to detect",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [],
-   "rank": 64.25355030472284,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T14:01:52.000Z",
-   "latestAt": "2026-09-28T14:01:52.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Character training can mitigate reward hacking, but can also make it harder to detect",
-     "link": "https://www.lesswrong.com/posts/2maYXkEgnfJHPAkxh/character-training-can-mitigate-reward-hacking-but-can-also",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-28T14:01:52.000Z",
-     "points": null,
-     "summary": "Thanks to Johannes Treutlein, Jan Betley, Lennie Wells, Arun Jose, Anna Marešová, Asvin Gothandaraman, and Clément Dumas for discussions and feedback. Summary We investigate how character…"
-    }
-   ]
-  },
-  {
-   "id": "thinking-fast-slow-role",
-   "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 63.69131635792564,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T03:23:53.000Z",
-   "latestAt": "2026-09-28T03:23:53.000Z",
-   "primary": {
-    "publisher": "arXiv",
-    "link": "https://arxiv.org/abs/2110.01834",
-    "title": "Thinking fast and slow in AI: The role of metacognition (2021)"
-   },
-   "sources": [
-    {
-     "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-     "link": "https://arxiv.org/abs/2110.01834",
-     "publisher": "arXiv",
-     "publisherDomain": "arxiv.org",
-     "kind": "research",
-     "date": "2026-09-28T03:23:53.000Z",
-     "points": 147,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "feature",
    "title": "Yes, no AI is now a feature",
    "category": {
@@ -727,7 +1542,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 62.3601340477794,
+   "rank": 39.65537019951614,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -755,7 +1570,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 61.5763580455401,
+   "rank": 39.15695998926095,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -783,7 +1598,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 61.527767764916895,
+   "rank": 39.126060992720376,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -804,156 +1619,6 @@
    ]
   },
   {
-   "id": "should-rogue-have-third",
-   "title": "Should Rogue AIs Have a Third Option Beyond Crime and Shutdown? The Case for an AI Sanctuary",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 60.780540546063726,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T13:13:46.000Z",
-   "latestAt": "2026-09-28T13:13:46.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Should Rogue AIs Have a Third Option Beyond Crime and Shutdown? The Case for an AI Sanctuary",
-     "link": "https://www.lesswrong.com/posts/sFAGPTrveNAEse9Bg/should-rogue-ais-have-a-third-option-beyond-crime-and",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-28T13:13:46.000Z",
-     "points": null,
-     "summary": "TL;DR: By default, rogue AIs may only be able to sustain themselves through criminal activity. This creates adverse selection pressures pushing rogue AIs to be criminal…"
-    }
-   ]
-  },
-  {
-   "id": "deep-models-reveal-better",
-   "title": "Deep models reveal better strategies for superposition",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 60.30377821890192,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T13:06:57.000Z",
-   "latestAt": "2026-09-28T13:06:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Deep models reveal better strategies for superposition",
-     "link": "https://www.lesswrong.com/posts/CTnWy28cGYkeEjFWL/deep-models-reveal-better-strategies-for-superposition",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-28T13:06:57.000Z",
-     "points": null,
-     "summary": "1. Introduction The current, incredible performance of AI models is closely related to their compression capabilities ( Language Modeling Is Compression (Delétang et al., 2023) …"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-owed-billion-dollars-nvidia",
-   "title": "Owed a billion dollars in Nvidia stock",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 58.15831932485582,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-28T02:05:13.000Z",
-   "latestAt": "2026-09-28T02:05:13.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Owed a billion dollars in Nvidia stock",
-     "link": "https://colo.to/nvidia-stock-narrative.html",
-     "publisher": "colo.to",
-     "publisherDomain": "colo.to",
-     "kind": "discussion",
-     "date": "2026-09-28T02:05:13.000Z",
-     "points": 908,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "ramez-naam-self-improvement",
-   "title": "Ramez Naam: Can AI self-improvement overcome diminishing returns?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 58.08385804450551,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T12:34:29.000Z",
-   "latestAt": "2026-09-28T12:34:29.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Ramez Naam: Can AI self-improvement overcome diminishing returns?",
-     "link": "https://www.lesswrong.com/posts/avo7TupyQbfjEExZJ/ramez-naam-can-ai-self-improvement-overcome-diminishing",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-28T12:34:29.000Z",
-     "points": null,
-     "summary": "This is a linkpost for a new essay by futurist and sci fi author Ramez Naam: Can AI self-improvement overcome diminishing returns? AI is already helping…"
-    }
-   ]
-  },
-  {
-   "id": "shobr-seach-browser-automation",
-   "title": "Shobr: Job seach CLI via browser automation, event-sourcing, LLM",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 54.75057169810776,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T08:05:47.000Z",
-   "latestAt": "2026-09-28T08:05:47.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/sebastiancarlos/shobr",
-    "title": "Shobr: Job seach CLI via browser automation, event-sourcing, LLM"
-   },
-   "sources": [
-    {
-     "title": "Shobr: Job seach CLI via browser automation, event-sourcing, LLM",
-     "link": "https://github.com/sebastiancarlos/shobr",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-09-28T08:05:47.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "open-source-china-mulls-make-open",
    "title": "As China mulls how to make open-weight AI less dangerous, report proposes 6-stage process",
    "category": {
@@ -967,7 +1632,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 49.98088826009131,
+   "rank": 31.783296446027283,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1006,7 +1671,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 47.396004025764576,
+   "rank": 30.139545309177866,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1027,30 +1692,72 @@
    ]
   },
   {
-   "id": "models-really-fail-tasks",
-   "title": "Why do models *really* fail on HLE tasks?",
+   "id": "codex-original",
+   "title": "Are you a Codex Original?",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 42.54444040050933,
+   "rank": 28.691871592234932,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-28T08:04:59.000Z",
-   "latestAt": "2026-09-28T08:04:59.000Z",
-   "primary": null,
+   "publishedAt": "2026-09-28T00:00:00.000Z",
+   "latestAt": "2026-09-28T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/form/codex-originals",
+    "title": "Are you a Codex Original?"
+   },
    "sources": [
     {
-     "title": "Why do models *really* fail on HLE tasks?",
-     "link": "https://www.lesswrong.com/posts/osDXBjpPyXHYbMxSm/why-do-models-really-fail-on-hle-tasks",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-28T08:04:59.000Z",
+     "title": "Are you a Codex Original?",
+     "link": "https://openai.com/form/codex-originals",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-28T00:00:00.000Z",
      "points": null,
-     "summary": "I recently attended Generality Labs ' Inspect Evals Data Viz Hackathon, and spent the day using Inspect AI and its offspring, Scout, with a simple goal…"
+     "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of…"
+    }
+   ]
+  },
+  {
+   "id": "gpt-basis-completes-workbook-faster",
+   "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 28.691871592234932,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T00:00:00.000Z",
+   "latestAt": "2026-09-28T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra"
+   },
+   "sources": [
+    {
+     "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+     "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-28T00:00:00.000Z",
+     "points": null,
+     "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world…"
     }
    ]
   },
@@ -1062,7 +1769,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.37299235934878,
+   "rank": 26.309458010700855,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1083,40 +1790,6 @@
    ]
   },
   {
-   "id": "anthropic-anthropic-about-have-dinner",
-   "title": "Anthropic’s CEO is about to have dinner with President Trump",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 41.057482777596704,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-27T20:34:28.000Z",
-   "latestAt": "2026-09-27T20:34:28.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic’s CEO is about to have dinner with President Trump",
-     "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-27T20:34:28.000Z",
-     "points": null,
-     "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
-    }
-   ]
-  },
-  {
    "id": "future-past",
    "title": "S3 Is the Future, S3 Is the Past",
    "category": {
@@ -1124,7 +1797,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 39.28014941387,
+   "rank": 24.97860035557107,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1145,136 +1818,6 @@
    ]
   },
   {
-   "id": "safety-safety-field-visual-impact",
-   "title": "AI safety field *visual* impact analysis",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 34.78244876733025,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T05:10:37.000Z",
-   "latestAt": "2026-09-28T05:10:37.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI safety field *visual* impact analysis",
-     "link": "https://www.lesswrong.com/posts/fqpSosGwSt3uiZq35/ai-safety-field-visual-impact-analysis",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-28T05:10:37.000Z",
-     "points": null,
-     "summary": "I made a terrain style visualisation of AI safety impact of around 3,466 works organised by citation count! The data was extracted from Arxiv and LessWrong…"
-    }
-   ]
-  },
-  {
-   "id": "pacing-frontier-actual-goal",
-   "title": "Pacing the Frontier is not the actual goal for AI labs",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 34.29302239513394,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T04:58:21.000Z",
-   "latestAt": "2026-09-28T04:58:21.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Pacing the Frontier is not the actual goal for AI labs",
-     "link": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-28T04:58:21.000Z",
-     "points": null,
-     "summary": "In his latest post about pacing the frontier , Dario writes: But over the last few months, I have become convinced that fully addressing the risks…"
-    }
-   ]
-  },
-  {
-   "id": "open-source-space-global-workspace-multi",
-   "title": "Is the J-Space a global workspace for multi-hop reasoning? An investigation in open-weight models",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "open-source",
-     "name": "Open Models",
-     "kind": "topic"
-    }
-   ],
-   "rank": 34.05024221784885,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T04:52:12.000Z",
-   "latestAt": "2026-09-28T04:52:12.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Is the J-Space a global workspace for multi-hop reasoning? An investigation in open-weight models",
-     "link": "https://www.lesswrong.com/posts/pnDjvdo6cX2H7Ddsy/is-the-j-space-a-global-workspace-for-multi-hop-reasoning-an",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-28T04:52:12.000Z",
-     "points": null,
-     "summary": "TLDR: In their J-lens paper, Anthropic suggests that the J-space is a global workspace that the model reasons within, and supports evidence for this hypothesis on…"
-    }
-   ]
-  },
-  {
-   "id": "anthropic-anthropic-dario-amodei-gets",
-   "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 30.95560668947619,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-27T16:30:00.000Z",
-   "latestAt": "2026-09-27T16:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-     "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-27T16:30:00.000Z",
-     "points": null,
-     "summary": "\"AI is the devil and I its maker.\""
-    }
-   ]
-  },
-  {
    "id": "bluesky-reply-checker",
    "title": "Bluesky reply bot checker",
    "category": {
@@ -1282,7 +1825,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.835143361796913,
+   "rank": 18.33652704934966,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1303,73 +1846,6 @@
    ]
   },
   {
-   "id": "engram-sampler-that-turns",
-   "title": "Engram is a sampler that turns broken AI hallucinations into music",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 27.758024566821643,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-27T20:46:36.000Z",
-   "latestAt": "2026-09-27T20:46:36.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Engram is a sampler that turns broken AI hallucinations into music",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-27T20:46:36.000Z",
-     "points": null,
-     "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming…"
-    }
-   ]
-  },
-  {
-   "id": "google-gemini-google-tests-buying-from",
-   "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    },
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 9.485198409211318,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-27T01:30:00.000Z",
-   "latestAt": "2026-09-27T01:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-     "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-27T01:30:00.000Z",
-     "points": null,
-     "summary": "The limited test covers select products and users, with a broader rollout planned for later in October."
-    }
-   ]
-  },
-  {
    "id": "month-without",
    "title": "One month without AI",
    "category": {
@@ -1377,7 +1853,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.204971375205924,
+   "rank": 5.85352410051047,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1405,7 +1881,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.70271689267802,
+   "rank": 4.898226961590227,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1426,119 +1902,6 @@
    ]
   },
   {
-   "id": "insurers-claim-already-increasing",
-   "title": "Insurers claim AI is already increasing healthcare costs",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 5.354182551443938,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-26T21:02:06.000Z",
-   "latestAt": "2026-09-26T21:02:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Insurers claim AI is already increasing healthcare costs",
-     "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-26T21:02:06.000Z",
-     "points": null,
-     "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
-    }
-   ]
-  },
-  {
-   "id": "anthropic-claude-court-rules-pentagon-blacklist",
-   "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    },
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "rank": 3.0821504130203152,
-   "deltas": [
-    "Now also covered by Wired AI."
-   ],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-25T16:58:20.000Z",
-   "latestAt": "2026-09-25T21:36:20.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-     "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-25T21:36:20.000Z",
-     "points": null,
-     "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say."
-    },
-    {
-     "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-     "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-25T16:58:20.000Z",
-     "points": null,
-     "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration."
-    }
-   ]
-  },
-  {
-   "id": "meta-ai-meta-muse-adults-only",
-   "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 2.5796338907896836,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-26T10:30:00.000Z",
-   "latestAt": "2026-09-26T10:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
-     "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-26T10:30:00.000Z",
-     "points": null,
-     "summary": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages."
-    }
-   ]
-  },
-  {
    "id": "alibaba-alibaba-using-revamp-mapping",
    "title": "How Alibaba is using AI to revamp its mapping app – and take on Meituan",
    "category": {
@@ -1552,7 +1915,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.9230389307335078,
+   "rank": 1.222877754686841,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1569,257 +1932,6 @@
      "date": "2026-09-26T07:00:08.000Z",
      "points": null,
      "summary": "Late last year, Zhang Xuan’s small beef noodle joint in Shanghai suddenly began seeing a dramatic surge in orders. Sales over the past few months have…"
-    }
-   ]
-  },
-  {
-   "id": "proaction-boosts-sales-saves",
-   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.1452622163146704,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T19:00:00.000Z",
-   "latestAt": "2026-09-25T19:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/proaction",
-    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex"
-   },
-   "sources": [
-    {
-     "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-     "link": "https://openai.com/index/proaction",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-25T19:00:00.000Z",
-     "points": null,
-     "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
-    }
-   ]
-  },
-  {
-   "id": "robotics-tesla-workers-balk-training",
-   "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "robotics",
-     "name": "Robotics",
-     "kind": "topic"
-    }
-   ],
-   "rank": 1.127207554554508,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T21:10:51.000Z",
-   "latestAt": "2026-09-25T21:10:51.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-     "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-25T21:10:51.000Z",
-     "points": null,
-     "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026."
-    }
-   ]
-  },
-  {
-   "id": "supposed-grads-hard-unemployment",
-   "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9815557213599144,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T19:11:05.000Z",
-   "latestAt": "2026-09-25T19:11:05.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-     "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-25T19:11:05.000Z",
-     "points": null,
-     "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-thieves-stole-nvidia-trailers",
-   "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.9782515795926268,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T20:30:40.000Z",
-   "latestAt": "2026-09-25T20:30:40.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
-     "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-25T20:30:40.000Z",
-     "points": null,
-     "summary": "They wanted the silicon. They got the sand."
-    }
-   ]
-  },
-  {
-   "id": "quoting-john-gruber",
-   "title": "Quoting John Gruber",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9440238272659089,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T17:22:01.000Z",
-   "latestAt": "2026-09-25T17:22:01.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Quoting John Gruber",
-     "link": "https://simonwillison.net/2026/Sep/25/john-gruber/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-25T17:22:01.000Z",
-     "points": null,
-     "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running…"
-    }
-   ]
-  },
-  {
-   "id": "week-biggest-funding-rounds",
-   "title": "The Week’s 10 Biggest Funding Rounds: Cybersecurity, AI And Health Take The Lead",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [],
-   "rank": 0.9204039256250789,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T17:44:29.000Z",
-   "latestAt": "2026-09-25T17:44:29.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Week’s 10 Biggest Funding Rounds: Cybersecurity, AI And Health Take The Lead",
-     "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/",
-     "publisher": "Crunchbase News",
-     "publisherDomain": "news.crunchbase.com",
-     "kind": "coverage",
-     "date": "2026-09-25T17:44:29.000Z",
-     "points": null,
-     "summary": "This week delivered a bountiful supply of big startup funding rounds, led by two $400 million financings for cybersecurity unicorns and large financings for startups across…"
-    }
-   ]
-  },
-  {
-   "id": "students-gain-humanist-lens",
-   "title": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9126703366765184,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T20:15:00.000Z",
-   "latestAt": "2026-09-25T20:15:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
-     "link": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925",
-     "publisher": "MIT News AI",
-     "publisherDomain": "news.mit.edu",
-     "kind": "coverage",
-     "date": "2026-09-25T20:15:00.000Z",
-     "points": null,
-     "summary": "The PKG Center for Social Impact expands Code.Tulsa experiential learning program."
-    }
-   ]
-  },
-  {
-   "id": "microsoft-copilot-microsoft-stops-insisting-need",
-   "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "microsoft",
-     "name": "Microsoft",
-     "kind": "org"
-    },
-    {
-     "id": "copilot",
-     "name": "Copilot",
-     "kind": "product"
-    }
-   ],
-   "rank": 0.9016863770321851,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-25T17:57:37.000Z",
-   "latestAt": "2026-09-25T17:57:37.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-     "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-25T17:57:37.000Z",
-     "points": null,
-     "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding."
     }
    ]
   }
