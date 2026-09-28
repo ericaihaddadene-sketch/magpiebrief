@@ -1,4 +1,76 @@
 {
+ "agents-quoting-muse-agent": {
+  "id": "agents-quoting-muse-agent",
+  "title": "Quoting Muse AI Agent",
+  "firstSeen": "2026-09-28T06:37:00.023Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "thinking-fast-slow-role": {
+  "id": "thinking-fast-slow-role",
+  "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+  "firstSeen": "2026-09-28T06:37:00.023Z",
+  "publishers": [
+   "arXiv"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "nvidia-owed-billion-dollars-nvidia": {
+  "id": "nvidia-owed-billion-dollars-nvidia",
+  "title": "Owed a billion dollars in Nvidia stock",
+  "firstSeen": "2026-09-28T06:37:00.023Z",
+  "publishers": [
+   "colo.to"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "open-source-china-mulls-make-open": {
+  "id": "open-source-china-mulls-make-open",
+  "title": "As China mulls how to make open-weight AI less dangerous, report proposes 6-stage process",
+  "firstSeen": "2026-09-28T06:37:00.023Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "opensource"
+ },
+ "funding-robotics-xiaomi-backed-robotics-chip": {
+  "id": "funding-robotics-xiaomi-backed-robotics-chip",
+  "title": "Xiaomi-backed robotics chip designer clears hearing, eyes US$100m Hong Kong IPO: sources",
+  "firstSeen": "2026-09-28T06:37:00.023Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
+ },
+ "tabpfn-tabicl-tuned-xgboost": {
+  "id": "tabpfn-tabicl-tuned-xgboost",
+  "title": "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
+  "firstSeen": "2026-09-28T06:37:00.023Z",
+  "publishers": [
+   "efraingaray.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "openai-openai-agents-tried-bruteforce": {
   "id": "openai-openai-agents-tried-bruteforce",
   "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
@@ -36,15 +108,75 @@
   "hadPrimary": false,
   "category": "general"
  },
- "agents-show-tinyaiarena-watch-agents": {
-  "id": "agents-show-tinyaiarena-watch-agents",
-  "title": "Show HN: TinyAIArena watch AI agents battle it out",
-  "firstSeen": "2026-09-27T18:14:41.192Z",
+ "future-past": {
+  "id": "future-past",
+  "title": "S3 Is the Future, S3 Is the Past",
+  "firstSeen": "2026-09-28T06:37:00.023Z",
   "publishers": [
-   "tinyaiarena.com"
+   "Simon Willison"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "safety-safety-field-visual-impact": {
+  "id": "safety-safety-field-visual-impact",
+  "title": "AI safety field *visual* impact analysis",
+  "firstSeen": "2026-09-28T06:37:00.023Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "open-source-space-global-workspace-multi": {
+  "id": "open-source-space-global-workspace-multi",
+  "title": "Is the J-Space a global workspace for multi-hop reasoning? An investigation in open-weight models",
+  "firstSeen": "2026-09-28T06:37:00.023Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
+ },
+ "safety-safety-agendas": {
+  "id": "safety-safety-agendas",
+  "title": "AI Safety Agendas",
+  "firstSeen": "2026-09-28T06:37:00.023Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "regulation-ireland-gdpr-regulator-will": {
+  "id": "regulation-ireland-gdpr-regulator-will",
+  "title": "Ireland’s GDPR regulator will still be investigating when AGI arrives",
+  "firstSeen": "2026-09-28T06:37:00.023Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "policy"
+ },
+ "human-civilization-assumes-nobody": {
+  "id": "human-civilization-assumes-nobody",
+  "title": "Human Civilization Assumes Nobody Is Superhuman. Until AI.",
+  "firstSeen": "2026-09-28T06:37:00.023Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -60,17 +192,41 @@
   "hadPrimary": false,
   "category": "general"
  },
- "openai-from-australia-consider-contacting": {
-  "id": "openai-from-australia-consider-contacting",
-  "title": "From Australia? Consider Contacting Your Representative to Express Concern Over OpenAI Attack",
-  "firstSeen": "2026-09-28T00:29:10.171Z",
+ "safety-missing-lecture-mechanistic-interpretability": {
+  "id": "safety-missing-lecture-mechanistic-interpretability",
+  "title": "A missing lecture in mechanistic interpretability: Feature Attribution and LRP",
+  "firstSeen": "2026-09-28T06:37:00.023Z",
   "publishers": [
    "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "security"
+  "category": "tools"
+ },
+ "country-controls-every-layer": {
+  "id": "country-controls-every-layer",
+  "title": "No country controls every layer: The hidden AI systems reshaping global power",
+  "firstSeen": "2026-09-28T06:37:00.023Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "bluesky-reply-checker": {
+  "id": "bluesky-reply-checker",
+  "title": "Bluesky reply bot checker",
+  "firstSeen": "2026-09-28T06:37:00.023Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
  },
  "engram-sampler-that-turns": {
   "id": "engram-sampler-that-turns",
@@ -78,42 +234,6 @@
   "firstSeen": "2026-09-27T21:59:17.416Z",
   "publishers": [
    "The Verge"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "securing-research-needs-owner": {
-  "id": "securing-research-needs-owner",
-  "title": "Securing AI Research Needs an Owner",
-  "firstSeen": "2026-09-28T00:29:10.171Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "game-theoretic-disempowerment-loss": {
-  "id": "game-theoretic-disempowerment-loss",
-  "title": "Game-Theoretic Disempowerment: Loss of Control to Agencyless AI",
-  "firstSeen": "2026-09-28T00:29:10.171Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "sector-slopping-driven-research": {
-  "id": "sector-slopping-driven-research",
-  "title": "Sector: de-slopping AI-driven research",
-  "firstSeen": "2026-09-28T00:29:10.171Z",
-  "publishers": [
-   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -150,30 +270,6 @@
   "firstSeen": "2026-09-27T01:17:15.226Z",
   "publishers": [
    "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "llama-faster-prompt-lookup-drafting": {
-  "id": "llama-faster-prompt-lookup-drafting",
-  "title": "Faster prompt lookup drafting in llama.cpp",
-  "firstSeen": "2026-09-27T18:14:41.192Z",
-  "publishers": [
-   "GitHub Pages"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "models"
- },
- "safety-skeuomorphic-safety": {
-  "id": "safety-skeuomorphic-safety",
-  "title": "Skeuomorphic AI Safety",
-  "firstSeen": "2026-09-27T07:58:29.926Z",
-  "publishers": [
-   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -438,18 +534,6 @@
   "firstSeen": "2026-09-25T13:35:11.327Z",
   "publishers": [
    "Crunchbase News"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "northern-gannet-great-blue": {
-  "id": "northern-gannet-great-blue",
-  "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
-  "firstSeen": "2026-09-25T18:27:34.036Z",
-  "publishers": [
-   "Simon Willison"
   ],
   "sourceCount": 1,
   "independentCount": 1,
