@@ -1,15 +1,15 @@
 {
  "date": "2026-09-29",
- "generated": "2026-09-29T01:44:09.050Z",
- "headline": "63 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2708 items read · 65 on-topic · 63 distinct developments · 9 with a primary source · 1 independently corroborated",
+ "generated": "2026-09-29T08:17:36.850Z",
+ "headline": "66 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2709 items read · 68 on-topic · 66 distinct developments · 10 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "openai-openai-says-will-release",
-   "title": "OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns",
+   "id": "openai-openai-tomorrow-opening-subscription",
+   "title": "OpenAI: Tomorrow we are re-opening the Pro $200 subscription",
    "category": {
-    "id": "models",
-    "name": "New Models"
+    "id": "general",
+    "name": "Other"
    },
    "entities": [
     {
@@ -18,23 +18,57 @@
      "kind": "org"
     }
    ],
-   "rank": 237.22449790185547,
+   "rank": 174.00770149675415,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-09-29T00:34:27.000Z",
-   "latestAt": "2026-09-29T00:34:27.000Z",
+   "publishedAt": "2026-09-29T07:07:53.000Z",
+   "latestAt": "2026-09-29T07:07:53.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns",
-     "link": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
-     "publisher": "The New York Times",
-     "publisherDomain": "nytimes.com",
+     "title": "OpenAI: Tomorrow we are re-opening the Pro $200 subscription",
+     "link": "https://twitter.com/thsottiaux/status/2104823812042940713",
+     "publisher": "X",
+     "publisherDomain": "twitter.com",
      "kind": "discussion",
-     "date": "2026-09-29T00:34:27.000Z",
-     "points": 35,
+     "date": "2026-09-29T07:07:53.000Z",
+     "points": 33,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "anthropic-anthropic-prospectus-details-losses",
+   "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 121.29062840579729,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-29T05:13:43.000Z",
+   "latestAt": "2026-09-29T05:13:43.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+     "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-29T05:13:43.000Z",
+     "points": null,
+     "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah …"
     }
    ]
   },
@@ -52,7 +86,7 @@
      "kind": "model"
     }
    ],
-   "rank": 140.16594837338917,
+   "rank": 88.96831912562988,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -91,7 +125,7 @@
      "kind": "org"
     }
    ],
-   "rank": 135.7561204669683,
+   "rank": 86.16924430738362,
    "deltas": [],
    "sourceCount": 3,
    "independentCount": 3,
@@ -132,34 +166,214 @@
    ]
   },
   {
-   "id": "will-better-australia",
-   "title": "How we will do better for Australia",
+   "id": "openai-openai-reportedly-ditches-model",
+   "title": "OpenAI reportedly ditches model over safety concerns",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 74.18294434151407,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T23:39:20.000Z",
+   "latestAt": "2026-09-28T23:39:20.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI reportedly ditches model over safety concerns",
+     "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-28T23:39:20.000Z",
+     "points": null,
+     "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders."
+    }
+   ]
+  },
+  {
+   "id": "show-bench-well-models",
+   "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 123.53573265223584,
+   "rank": 73.82695166332658,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-28T22:43:12.000Z",
+   "latestAt": "2026-09-28T22:43:12.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
+     "link": "https://jonclegg.github.io/pacman-bakeoff/",
+     "publisher": "GitHub Pages",
+     "publisherDomain": "jonclegg.github.io",
+     "kind": "discussion",
+     "date": "2026-09-28T22:43:12.000Z",
+     "points": 46,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "nvidia-acquires-godmother-start-battle",
+   "title": "AMD acquires ‘godmother of AI’ Li Fei-Fei’s start-up as battle with Nvidia intensifies",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 73.05950533540569,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-29T01:00:00.000Z",
-   "latestAt": "2026-09-29T01:00:00.000Z",
+   "publishedAt": "2026-09-29T04:30:18.000Z",
+   "latestAt": "2026-09-29T04:30:18.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AMD acquires ‘godmother of AI’ Li Fei-Fei’s start-up as battle with Nvidia intensifies",
+     "link": "https://www.scmp.com/tech/big-tech/article/3369141/amd-acquires-godmother-ai-li-fei-feis-start-battle-nvidia-intensifies?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-29T04:30:18.000Z",
+     "points": null,
+     "summary": "US chip giant Advanced Micro Devices (AMD) has agreed to acquire World Labs, the artificial intelligence start-up founded by renowned Chinese-American computer scientist Li Fei-Fei, for…"
+    }
+   ]
+  },
+  {
+   "id": "effects-algorithmic-monoculture-depend",
+   "title": "The effects of an “algorithmic monoculture” depend on the details",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 70.54637662845067,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-29T04:00:00.000Z",
+   "latestAt": "2026-09-29T04:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The effects of an “algorithmic monoculture” depend on the details",
+     "link": "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929",
+     "publisher": "MIT News AI",
+     "publisherDomain": "news.mit.edu",
+     "kind": "coverage",
+     "date": "2026-09-29T04:00:00.000Z",
+     "points": null,
+     "summary": "In a study focusing on hiring decisions, MIT researchers found the use of a single algorithm by many firms could benefit job seekers in certain situations."
+    }
+   ]
+  },
+  {
+   "id": "become-when-talk-machines",
+   "title": "Who we become when we talk to machines",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 70.54637662845067,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-29T04:00:00.000Z",
+   "latestAt": "2026-09-29T04:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Who we become when we talk to machines",
+     "link": "https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929",
+     "publisher": "MIT News AI",
+     "publisherDomain": "news.mit.edu",
+     "kind": "coverage",
+     "date": "2026-09-29T04:00:00.000Z",
+     "points": null,
+     "summary": "Professor Sherry Turkle’s new book, “Artificial Intimacy,” offers a withering critique of chatbots and the antisocial dynamics she believes they encourage."
+    }
+   ]
+  },
+  {
+   "id": "esp32s3-cluster-running-bitnet",
+   "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 68.3574078168114,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T21:26:41.000Z",
+   "latestAt": "2026-09-28T21:26:41.000Z",
    "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "title": "How we will do better for Australia"
+    "publisher": "GitHub",
+    "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model"
    },
    "sources": [
     {
-     "title": "How we will do better for Australia",
-     "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
+     "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+     "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
      "kind": "primary",
-     "date": "2026-09-29T01:00:00.000Z",
+     "date": "2026-09-28T21:26:41.000Z",
+     "points": 88,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "models-assist-with-human",
+   "title": "Do AI models assist with human rights violations?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 68.35406665561784,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-29T07:57:01.000Z",
+   "latestAt": "2026-09-29T07:57:01.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Do AI models assist with human rights violations?",
+     "link": "https://www.lesswrong.com/posts/bAPSoJJ3wsAepd6Zj/do-ai-models-assist-with-human-rights-violations",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-29T07:57:01.000Z",
      "points": null,
-     "summary": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
+     "summary": "TL;DR: Today’s frontier models will violate human rights, willingly, when asked to. LLMs in agentic simulations follow instructions that would constitute human rights violations, including educational…"
     }
    ]
   },
@@ -177,7 +391,7 @@
      "kind": "org"
     }
    ],
-   "rank": 105.67467744672574,
+   "rank": 67.07548113992023,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -211,7 +425,7 @@
      "kind": "org"
     }
    ],
-   "rank": 100.906082405055,
+   "rank": 64.04868404425126,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -239,7 +453,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 100.12505335004386,
+   "rank": 63.552937088453476,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -258,39 +472,7 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-09-28T20:23:36.000Z",
-     "points": 268,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "esp32s3-cluster-running-bitnet",
-   "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 99.73370111933654,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T21:26:41.000Z",
-   "latestAt": "2026-09-28T21:26:41.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model"
-   },
-   "sources": [
-    {
-     "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-     "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-09-28T21:26:41.000Z",
-     "points": 20,
+     "points": 476,
      "summary": ""
     }
    ]
@@ -314,7 +496,7 @@
      "kind": "org"
     }
    ],
-   "rank": 98.99059656972815,
+   "rank": 62.83285696887627,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -342,7 +524,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 96.71256433616074,
+   "rank": 61.38690878326848,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -357,7 +539,7 @@
      "publisherDomain": "calnewport.com",
      "kind": "discussion",
      "date": "2026-09-28T19:53:35.000Z",
-     "points": 287,
+     "points": 456,
      "summary": ""
     }
    ]
@@ -370,7 +552,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 90.79020516399807,
+   "rank": 57.627776505277886,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -385,7 +567,7 @@
      "publisherDomain": "stateofutopia.com",
      "kind": "discussion",
      "date": "2026-09-28T18:58:53.000Z",
-     "points": 124,
+     "points": 225,
      "summary": ""
     }
    ]
@@ -409,7 +591,7 @@
      "kind": "org"
     }
    ],
-   "rank": 87.24659605788052,
+   "rank": 55.37852160800637,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -424,72 +606,8 @@
      "publisherDomain": "cnbc.com",
      "kind": "discussion",
      "date": "2026-09-28T15:46:36.000Z",
-     "points": 100,
+     "points": 159,
      "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "agents-agentic-cloudflare",
-   "title": "Cf: The Agentic CLI for the Cloudflare API",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 85.4132539482202,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-28T15:28:13.000Z",
-   "latestAt": "2026-09-28T15:28:13.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Cf: The Agentic CLI for the Cloudflare API",
-     "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
-     "publisher": "blog.cloudflare.com",
-     "publisherDomain": "blog.cloudflare.com",
-     "kind": "discussion",
-     "date": "2026-09-28T15:28:13.000Z",
-     "points": 119,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "fixed-weight-models-adversarially",
-   "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 84.09020293830324,
-   "deltas": [
-    "Now also covered by Alignment Forum."
-   ],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T20:08:39.000Z",
-   "latestAt": "2026-09-28T20:08:39.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
-     "link": "https://www.alignmentforum.org/posts/9LWK9Hh3Qsg36e3FS/fixed-weight-models-are-adversarially-vulnerable-hence",
-     "publisher": "Alignment Forum",
-     "publisherDomain": "alignmentforum.org",
-     "kind": "coverage",
-     "date": "2026-09-28T20:08:39.000Z",
-     "points": null,
-     "summary": "This post argues that fixed-weight models (at least as we understand them today) will a) always be vulnerable to adversarial examples in their concept-spaces, and b)…"
     }
    ]
   },
@@ -507,7 +625,7 @@
      "kind": "org"
     }
    ],
-   "rank": 83.84895715637015,
+   "rank": 53.2219191979975,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -528,6 +646,70 @@
    ]
   },
   {
+   "id": "will-better-australia",
+   "title": "How we will do better for Australia",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 51.73297613315958,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T19:00:00.000Z",
+   "latestAt": "2026-09-28T19:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "title": "How we will do better for Australia"
+   },
+   "sources": [
+    {
+     "title": "How we will do better for Australia",
+     "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-28T19:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
+    }
+   ]
+  },
+  {
+   "id": "towards-safety-cases-frontier",
+   "title": "Towards safety cases for frontier AI training",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 51.73297613315958,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T19:00:00.000Z",
+   "latestAt": "2026-09-28T19:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "title": "Towards safety cases for frontier AI training"
+   },
+   "sources": [
+    {
+     "title": "Towards safety cases for frontier AI training",
+     "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-28T19:00:00.000Z",
+     "points": null,
+     "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
+    }
+   ]
+  },
+  {
    "id": "agents-shopify-opens-checkout-browser",
    "title": "Shopify opens checkout to browser-based AI agents",
    "category": {
@@ -541,7 +723,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 78.24305014150777,
+   "rank": 49.66365037397282,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -569,7 +751,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 76.25750229847596,
+   "rank": 48.40335244720762,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -597,7 +779,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 75.233712229731,
+   "rank": 47.75351643060885,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -629,7 +811,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 74.69355486524947,
+   "rank": 47.41065931489032,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -663,7 +845,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 74.49678708365175,
+   "rank": 47.28576379647102,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -697,7 +879,7 @@
      "kind": "org"
     }
    ],
-   "rank": 74.45454067463989,
+   "rank": 47.25894849616093,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -731,7 +913,7 @@
      "kind": "org"
     }
    ],
-   "rank": 73.78396780148404,
+   "rank": 46.833312012633634,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -765,7 +947,7 @@
      "kind": "org"
     }
    ],
-   "rank": 73.68159438050718,
+   "rank": 46.768331956541914,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -804,7 +986,7 @@
      "kind": "model"
     }
    ],
-   "rank": 73.44064442561185,
+   "rank": 46.615392439282495,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -825,6 +1007,40 @@
    ]
   },
   {
+   "id": "safety-china-needs-more-safety",
+   "title": "“China needs more AI safety.” More of what, exactly?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 45.917845454644116,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-29T02:12:38.000Z",
+   "latestAt": "2026-09-29T02:12:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "“China needs more AI safety.” More of what, exactly?",
+     "link": "https://www.lesswrong.com/posts/TguvLbnzpgmcAj8tu/china-needs-more-ai-safety-more-of-what-exactly",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-29T02:12:38.000Z",
+     "points": null,
+     "summary": "Many in the AI safety community want China to do more on frontier AI safety. I share the goal, but does that mean we want new…"
+    }
+   ]
+  },
+  {
    "id": "microsoft-year-microsoft-research-asia",
    "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
    "category": {
@@ -838,7 +1054,7 @@
      "kind": "org"
     }
    ],
-   "rank": 72.0173678988436,
+   "rank": 45.71198814097022,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -863,6 +1079,34 @@
    ]
   },
   {
+   "id": "fixed-weight-models-adversarially",
+   "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 45.233090243400824,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T20:08:39.000Z",
+   "latestAt": "2026-09-28T20:08:39.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
+     "link": "https://www.alignmentforum.org/posts/9LWK9Hh3Qsg36e3FS/fixed-weight-models-are-adversarially-vulnerable-hence",
+     "publisher": "Alignment Forum",
+     "publisherDomain": "alignmentforum.org",
+     "kind": "coverage",
+     "date": "2026-09-28T20:08:39.000Z",
+     "points": null,
+     "summary": "This post argues that fixed-weight models (at least as we understand them today) will a) always be vulnerable to adversarial examples in their concept-spaces, and b)…"
+    }
+   ]
+  },
+  {
    "id": "china-race-real-fight",
    "title": "In the US-China AI race, the real fight is keeping humans in control",
    "category": {
@@ -870,7 +1114,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 70.84556905969721,
+   "rank": 44.968205686800275,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -891,6 +1135,40 @@
    ]
   },
   {
+   "id": "safety-thank-safety-people",
+   "title": "Thank you to the AI safety people",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 44.91748564765346,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-29T01:53:34.000Z",
+   "latestAt": "2026-09-29T01:53:34.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Thank you to the AI safety people",
+     "link": "https://www.lesswrong.com/posts/PeKE5oxzqf3cg2L8a/thank-you-to-the-ai-safety-people",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-29T01:53:34.000Z",
+     "points": null,
+     "summary": "I was born at the end of the cold war, unaware of the danger we were emerging from. Duck and cover drills (as if those could…"
+    }
+   ]
+  },
+  {
    "id": "boom-took-over-climate",
    "title": "The AI boom took over Climate Week and not everyone is happy about it",
    "category": {
@@ -898,7 +1176,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 64.30735543538393,
+   "rank": 40.81816865576712,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -919,34 +1197,6 @@
    ]
   },
   {
-   "id": "companies-necessarily-liable-unintended",
-   "title": "AI Companies Are Not (Necessarily) Liable for Unintended AI Cyberattacks",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 63.597327620110796,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T00:21:07.000Z",
-   "latestAt": "2026-09-29T00:21:07.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI Companies Are Not (Necessarily) Liable for Unintended AI Cyberattacks",
-     "link": "https://www.lesswrong.com/posts/xcBkybcLbQqETtvPr/ai-companies-are-not-necessarily-liable-for-unintended-ai",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-29T00:21:07.000Z",
-     "points": null,
-     "summary": "I used Claude to do most of the research behind this post. I welcome corrections from actual legal experts. You know the story: swarms AI agents…"
-    }
-   ]
-  },
-  {
    "id": "supercharging-hacking-your-local",
    "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
    "category": {
@@ -954,7 +1204,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 60.55914650214551,
+   "rank": 38.43904696186217,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -982,7 +1232,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 58.0309715769634,
+   "rank": 36.83432430162067,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1010,7 +1260,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 57.52458398557496,
+   "rank": 36.51290206351837,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1031,34 +1281,6 @@
    ]
   },
   {
-   "id": "reportedly-declares-cyber-security",
-   "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [],
-   "rank": 56.39416686880519,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T14:50:30.000Z",
-   "latestAt": "2026-09-28T14:50:30.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
-     "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-28T14:50:30.000Z",
-     "points": null,
-     "summary": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed."
-    }
-   ]
-  },
-  {
    "id": "gpt-florida-seeks-chatgpt-acting",
    "title": "Florida seeks a ban on ChatGPT acting like a person",
    "category": {
@@ -1072,7 +1294,7 @@
      "kind": "model"
     }
    ],
-   "rank": 54.60313411910727,
+   "rank": 34.65855379244591,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1106,7 +1328,7 @@
      "kind": "org"
     }
    ],
-   "rank": 54.11644595712611,
+   "rank": 34.34963548373901,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1134,7 +1356,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 49.192394204714695,
+   "rank": 31.224164477524006,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1168,7 +1390,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 49.152389013346706,
+   "rank": 31.198771757868393,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1196,7 +1418,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 49.00591809647079,
+   "rank": 31.105801450697037,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1230,7 +1452,7 @@
      "kind": "org"
     }
    ],
-   "rank": 47.89303634732967,
+   "rank": 30.399415771752246,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1262,7 +1484,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 47.513743327783004,
+   "rank": 30.15866498458347,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1283,40 +1505,6 @@
    ]
   },
   {
-   "id": "safety-alignment-community-unintentionally-building",
-   "title": "The Alignment Community Is Unintentionally Building a Censor's Toolkit",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 47.438206854561116,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T20:07:22.000Z",
-   "latestAt": "2026-09-28T20:07:22.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Alignment Community Is Unintentionally Building a Censor's Toolkit",
-     "link": "https://www.lesswrong.com/posts/BBPwycfKMBqwqDejk/the-alignment-community-is-unintentionally-building-a-censor",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-28T20:07:22.000Z",
-     "points": null,
-     "summary": "This is an adaptation of our ICML 2026 position paper (Outstanding Position Paper Award). Read the full paper here and see the project website here …"
-    }
-   ]
-  },
-  {
    "id": "holo4-powering-generalist-computer",
    "title": "Holo4: powering generalist computer-use agents",
    "category": {
@@ -1324,7 +1512,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 45.51952054519809,
+   "rank": 28.892860764745564,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1356,7 +1544,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 43.00843267030123,
+   "rank": 27.298983863836757,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1377,62 +1565,6 @@
    ]
   },
   {
-   "id": "likely-outcome-pause-that",
-   "title": "The likely outcome of an AI pause is that we unpause too early and everyone dies",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 42.664072946433,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T18:35:33.000Z",
-   "latestAt": "2026-09-28T18:35:33.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The likely outcome of an AI pause is that we unpause too early and everyone dies",
-     "link": "https://www.lesswrong.com/posts/PgbAnqdqdJcrS2Gsy/the-likely-outcome-of-an-ai-pause-is-that-we-unpause-too",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-28T18:35:33.000Z",
-     "points": null,
-     "summary": "Cross-posted from my website . As of a few months ago, I had this simplified mental model where either AI developers race ahead and kill everyone…"
-    }
-   ]
-  },
-  {
-   "id": "cognitive-labor-glut-guys",
-   "title": "AI: cognitive labor glut + new guys",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 40.861549751862256,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T17:58:11.000Z",
-   "latestAt": "2026-09-28T17:58:11.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI: cognitive labor glut + new guys",
-     "link": "https://www.lesswrong.com/posts/mE4ohQqadfRfTTQnY/ai-cognitive-labor-glut-new-guys-1",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-28T17:58:11.000Z",
-     "points": null,
-     "summary": "Why is the advent of AI a big deal, and more worrying than previous advents? I think there are actually two interesting things going on, that…"
-    }
-   ]
-  },
-  {
    "id": "agents-agents-about-flood-workforce",
    "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
    "category": {
@@ -1446,7 +1578,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 40.316748127958924,
+   "rank": 25.590475826558702,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1485,7 +1617,7 @@
      "kind": "org"
     }
    ],
-   "rank": 39.61641675148505,
+   "rank": 25.145950561193683,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1513,7 +1645,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 36.01215068820181,
+   "rank": 22.858194533048838,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1547,7 +1679,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 35.422102502991635,
+   "rank": 22.483669936665173,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1575,7 +1707,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 32.45284306742357,
+   "rank": 20.5989752294551,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1609,7 +1741,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 31.974320150517194,
+   "rank": 20.29523969258388,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1637,7 +1769,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 31.34738009572125,
+   "rank": 19.89729851275369,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1665,7 +1797,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 30.182884103167233,
+   "rank": 19.158151435390256,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1693,7 +1825,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 29.803529238081353,
+   "rank": 18.917361392655263,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1721,7 +1853,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 29.780011090935187,
+   "rank": 18.902433587116004,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1755,7 +1887,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 24.19121415890232,
+   "rank": 15.355025142000093,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1794,7 +1926,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 22.9401061801252,
+   "rank": 14.560902352490984,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1822,7 +1954,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.838238569311088,
+   "rank": 13.861507739385964,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1860,7 +1992,7 @@
      "kind": "model"
     }
    ],
-   "rank": 21.838238569311088,
+   "rank": 13.861507739385964,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1892,7 +2024,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.02491258961485,
+   "rank": 12.710525162571763,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1920,7 +2052,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.01195716490203,
+   "rank": 12.067566280391516,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1948,7 +2080,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.956477218610472,
+   "rank": 8.858673119003106,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1976,7 +2108,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.728186521746067,
+   "rank": 2.3664127562778883,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1993,40 +2125,6 @@
      "date": "2026-09-26T23:39:06.000Z",
      "points": null,
      "summary": "Tool: Kākāpō Party I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references…"
-    }
-   ]
-  },
-  {
-   "id": "alibaba-alibaba-using-revamp-mapping",
-   "title": "How Alibaba is using AI to revamp its mapping app – and take on Meituan",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [
-    {
-     "id": "alibaba",
-     "name": "Alibaba",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.9307687043734788,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-26T07:00:08.000Z",
-   "latestAt": "2026-09-26T07:00:08.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How Alibaba is using AI to revamp its mapping app – and take on Meituan",
-     "link": "https://www.scmp.com/tech/big-tech/article/3368819/how-alibaba-using-ai-revamp-its-mapping-app-and-take-meituan?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-26T07:00:08.000Z",
-     "points": null,
-     "summary": "Late last year, Zhang Xuan’s small beef noodle joint in Shanghai suddenly began seeing a dramatic surge in orders. Sales over the past few months have…"
     }
    ]
   }

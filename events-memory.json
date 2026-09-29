@@ -1,15 +1,27 @@
 {
- "openai-openai-says-will-release": {
-  "id": "openai-openai-says-will-release",
-  "title": "OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns",
-  "firstSeen": "2026-09-29T01:44:08.996Z",
+ "openai-openai-tomorrow-opening-subscription": {
+  "id": "openai-openai-tomorrow-opening-subscription",
+  "title": "OpenAI: Tomorrow we are re-opening the Pro $200 subscription",
+  "firstSeen": "2026-09-29T08:17:36.799Z",
   "publishers": [
-   "The New York Times"
+   "X"
   ],
   "sourceCount": 1,
   "independentCount": 0,
   "hadPrimary": false,
-  "category": "models"
+  "category": "general"
+ },
+ "anthropic-anthropic-prospectus-details-losses": {
+  "id": "anthropic-anthropic-prospectus-details-losses",
+  "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+  "firstSeen": "2026-09-29T08:17:36.799Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
  },
  "claude-claude-sonnet": {
   "id": "claude-claude-sonnet",
@@ -37,16 +49,88 @@
   "hadPrimary": false,
   "category": "general"
  },
- "will-better-australia": {
-  "id": "will-better-australia",
-  "title": "How we will do better for Australia",
+ "openai-openai-reportedly-ditches-model": {
+  "id": "openai-openai-reportedly-ditches-model",
+  "title": "OpenAI reportedly ditches model over safety concerns",
+  "firstSeen": "2026-09-29T08:17:36.799Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "show-bench-well-models": {
+  "id": "show-bench-well-models",
+  "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
+  "firstSeen": "2026-09-29T08:17:36.799Z",
+  "publishers": [
+   "GitHub Pages"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "nvidia-acquires-godmother-start-battle": {
+  "id": "nvidia-acquires-godmother-start-battle",
+  "title": "AMD acquires ‘godmother of AI’ Li Fei-Fei’s start-up as battle with Nvidia intensifies",
+  "firstSeen": "2026-09-29T08:17:36.799Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
+ },
+ "effects-algorithmic-monoculture-depend": {
+  "id": "effects-algorithmic-monoculture-depend",
+  "title": "The effects of an “algorithmic monoculture” depend on the details",
+  "firstSeen": "2026-09-29T08:17:36.799Z",
+  "publishers": [
+   "MIT News AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "become-when-talk-machines": {
+  "id": "become-when-talk-machines",
+  "title": "Who we become when we talk to machines",
+  "firstSeen": "2026-09-29T08:17:36.799Z",
+  "publishers": [
+   "MIT News AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "esp32s3-cluster-running-bitnet": {
+  "id": "esp32s3-cluster-running-bitnet",
+  "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
   "firstSeen": "2026-09-29T01:44:08.996Z",
   "publishers": [
-   "OpenAI"
+   "GitHub"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
+  "category": "general"
+ },
+ "models-assist-with-human": {
+  "id": "models-assist-with-human",
+  "title": "Do AI models assist with human rights violations?",
+  "firstSeen": "2026-09-29T08:17:36.799Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
   "category": "general"
  },
  "openai-florida-invokes-extinction-fears": {
@@ -77,18 +161,6 @@
   "id": "jeff-compatible-decision-models",
   "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
   "firstSeen": "2026-09-28T21:47:52.715Z",
-  "publishers": [
-   "GitHub"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "esp32s3-cluster-running-bitnet": {
-  "id": "esp32s3-cluster-running-bitnet",
-  "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-  "firstSeen": "2026-09-29T01:44:08.996Z",
   "publishers": [
    "GitHub"
   ],
@@ -145,30 +217,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "agents-agentic-cloudflare": {
-  "id": "agents-agentic-cloudflare",
-  "title": "Cf: The Agentic CLI for the Cloudflare API",
-  "firstSeen": "2026-09-29T01:44:08.996Z",
-  "publishers": [
-   "blog.cloudflare.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "tools"
- },
- "fixed-weight-models-adversarially": {
-  "id": "fixed-weight-models-adversarially",
-  "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
-  "firstSeen": "2026-09-28T21:47:52.715Z",
-  "publishers": [
-   "Alignment Forum"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "nvidia-experts-worry-about-nvidia": {
   "id": "nvidia-experts-worry-about-nvidia",
   "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
@@ -179,6 +227,30 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
+  "category": "general"
+ },
+ "will-better-australia": {
+  "id": "will-better-australia",
+  "title": "How we will do better for Australia",
+  "firstSeen": "2026-09-29T01:44:08.996Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "towards-safety-cases-frontier": {
+  "id": "towards-safety-cases-frontier",
+  "title": "Towards safety cases for frontier AI training",
+  "firstSeen": "2026-09-29T08:17:36.799Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
   "category": "general"
  },
  "agents-shopify-opens-checkout-browser": {
@@ -289,6 +361,18 @@
   "hadPrimary": false,
   "category": "models"
  },
+ "safety-china-needs-more-safety": {
+  "id": "safety-china-needs-more-safety",
+  "title": "“China needs more AI safety.” More of what, exactly?",
+  "firstSeen": "2026-09-29T08:17:36.799Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "microsoft-year-microsoft-research-asia": {
   "id": "microsoft-year-microsoft-research-asia",
   "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
@@ -300,6 +384,18 @@
   "independentCount": 1,
   "hadPrimary": true,
   "category": "business"
+ },
+ "fixed-weight-models-adversarially": {
+  "id": "fixed-weight-models-adversarially",
+  "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
+  "firstSeen": "2026-09-28T21:47:52.715Z",
+  "publishers": [
+   "Alignment Forum"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
  },
  "china-race-real-fight": {
   "id": "china-race-real-fight",
@@ -313,24 +409,24 @@
   "hadPrimary": false,
   "category": "general"
  },
- "boom-took-over-climate": {
-  "id": "boom-took-over-climate",
-  "title": "The AI boom took over Climate Week and not everyone is happy about it",
-  "firstSeen": "2026-09-28T21:47:52.715Z",
+ "safety-thank-safety-people": {
+  "id": "safety-thank-safety-people",
+  "title": "Thank you to the AI safety people",
+  "firstSeen": "2026-09-29T08:17:36.799Z",
   "publishers": [
-   "TechCrunch"
+   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
- "companies-necessarily-liable-unintended": {
-  "id": "companies-necessarily-liable-unintended",
-  "title": "AI Companies Are Not (Necessarily) Liable for Unintended AI Cyberattacks",
-  "firstSeen": "2026-09-29T01:44:08.996Z",
+ "boom-took-over-climate": {
+  "id": "boom-took-over-climate",
+  "title": "The AI boom took over Climate Week and not everyone is happy about it",
+  "firstSeen": "2026-09-28T21:47:52.715Z",
   "publishers": [
-   "LessWrong"
+   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -372,18 +468,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "reportedly-declares-cyber-security": {
-  "id": "reportedly-declares-cyber-security",
-  "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
-  "firstSeen": "2026-09-28T15:16:00.835Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "security"
  },
  "gpt-florida-seeks-chatgpt-acting": {
   "id": "gpt-florida-seeks-chatgpt-acting",
@@ -469,18 +553,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "safety-alignment-community-unintentionally-building": {
-  "id": "safety-alignment-community-unintentionally-building",
-  "title": "The Alignment Community Is Unintentionally Building a Censor's Toolkit",
-  "firstSeen": "2026-09-28T21:47:52.715Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "holo4-powering-generalist-computer": {
   "id": "holo4-powering-generalist-computer",
   "title": "Holo4: powering generalist computer-use agents",
@@ -502,30 +574,6 @@
   ],
   "sourceCount": 1,
   "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "likely-outcome-pause-that": {
-  "id": "likely-outcome-pause-that",
-  "title": "The likely outcome of an AI pause is that we unpause too early and everyone dies",
-  "firstSeen": "2026-09-28T21:47:52.715Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "cognitive-labor-glut-guys": {
-  "id": "cognitive-labor-glut-guys",
-  "title": "AI: cognitive labor glut + new guys",
-  "firstSeen": "2026-09-28T21:47:52.715Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -744,17 +792,5 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "alibaba-alibaba-using-revamp-mapping": {
-  "id": "alibaba-alibaba-using-revamp-mapping",
-  "title": "How Alibaba is using AI to revamp its mapping app – and take on Meituan",
-  "firstSeen": "2026-09-26T07:27:59.517Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "tools"
  }
 }
