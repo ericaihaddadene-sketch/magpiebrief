@@ -1,4 +1,28 @@
 {
+ "openai-openai-says-will-release": {
+  "id": "openai-openai-says-will-release",
+  "title": "OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns",
+  "firstSeen": "2026-09-29T01:44:08.996Z",
+  "publishers": [
+   "The New York Times"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "models"
+ },
+ "claude-claude-sonnet": {
+  "id": "claude-claude-sonnet",
+  "title": "Claude Sonnet 5.5",
+  "firstSeen": "2026-09-29T01:44:08.996Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "models"
+ },
  "openai-agents-openai-agents-need-catch": {
   "id": "openai-agents-openai-agents-need-catch",
   "title": "OpenAI’s AI agents need to catch up",
@@ -11,6 +35,18 @@
   "sourceCount": 3,
   "independentCount": 3,
   "hadPrimary": false,
+  "category": "general"
+ },
+ "will-better-australia": {
+  "id": "will-better-australia",
+  "title": "How we will do better for Australia",
+  "firstSeen": "2026-09-29T01:44:08.996Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
   "category": "general"
  },
  "openai-florida-invokes-extinction-fears": {
@@ -49,6 +85,18 @@
   "hadPrimary": true,
   "category": "general"
  },
+ "esp32s3-cluster-running-bitnet": {
+  "id": "esp32s3-cluster-running-bitnet",
+  "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+  "firstSeen": "2026-09-29T01:44:08.996Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
  "nvidia-agents-nvidia-launches-platform-reining": {
   "id": "nvidia-agents-nvidia-launches-platform-reining",
   "title": "Nvidia launches new platform for reining in rogue AI agents",
@@ -73,18 +121,6 @@
   "hadPrimary": false,
   "category": "business"
  },
- "pacing-frontier-actual-goal": {
-  "id": "pacing-frontier-actual-goal",
-  "title": "Pacing the Frontier is not the actual goal for AI labs",
-  "firstSeen": "2026-09-28T15:16:00.835Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
  "microllm-tiny-browser": {
   "id": "microllm-tiny-browser",
   "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
@@ -97,15 +133,51 @@
   "hadPrimary": false,
   "category": "general"
  },
- "made-visual-workspace-automations": {
-  "id": "made-visual-workspace-automations",
-  "title": "I made a visual workspace for AI Automations",
-  "firstSeen": "2026-09-28T21:47:52.715Z",
+ "nvidia-agents-nvidia-wants-watchdog-chip": {
+  "id": "nvidia-agents-nvidia-wants-watchdog-chip",
+  "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+  "firstSeen": "2026-09-29T01:44:08.996Z",
   "publishers": [
-   "biom.dev"
+   "cnbc.com"
   ],
   "sourceCount": 1,
   "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "agents-agentic-cloudflare": {
+  "id": "agents-agentic-cloudflare",
+  "title": "Cf: The Agentic CLI for the Cloudflare API",
+  "firstSeen": "2026-09-29T01:44:08.996Z",
+  "publishers": [
+   "blog.cloudflare.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "tools"
+ },
+ "fixed-weight-models-adversarially": {
+  "id": "fixed-weight-models-adversarially",
+  "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
+  "firstSeen": "2026-09-28T21:47:52.715Z",
+  "publishers": [
+   "Alignment Forum"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "nvidia-experts-worry-about-nvidia": {
+  "id": "nvidia-experts-worry-about-nvidia",
+  "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+  "firstSeen": "2026-09-29T01:44:08.996Z",
+  "publishers": [
+   "Ars Technica AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -253,6 +325,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "companies-necessarily-liable-unintended": {
+  "id": "companies-necessarily-liable-unintended",
+  "title": "AI Companies Are Not (Necessarily) Liable for Unintended AI Cyberattacks",
+  "firstSeen": "2026-09-29T01:44:08.996Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "supercharging-hacking-your-local": {
   "id": "supercharging-hacking-your-local",
   "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
@@ -385,18 +469,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "fixed-weight-models-adversarially": {
-  "id": "fixed-weight-models-adversarially",
-  "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
-  "firstSeen": "2026-09-28T21:47:52.715Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "safety-alignment-community-unintentionally-building": {
   "id": "safety-alignment-community-unintentionally-building",
   "title": "The Alignment Community Is Unintentionally Building a Censor's Toolkit",
@@ -419,30 +491,6 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "category": "general"
- },
- "funding-modulate-raises-voice-models": {
-  "id": "funding-modulate-raises-voice-models",
-  "title": "Modulate raises $25M for its voice models and analysis suite",
-  "firstSeen": "2026-09-28T15:16:00.835Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
- "gate-training-just-releases": {
-  "id": "gate-training-just-releases",
-  "title": "Gate AI Training, Not Just Releases",
-  "firstSeen": "2026-09-28T21:47:52.715Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
   "category": "general"
  },
  "solve-hallucination-with-rlcd": {
@@ -499,18 +547,6 @@
   "firstSeen": "2026-09-28T15:16:00.835Z",
   "publishers": [
    "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "reasons-against-near-term": {
-  "id": "reasons-against-near-term",
-  "title": "9 reasons against a near-term AI slow-down",
-  "firstSeen": "2026-09-28T21:47:52.715Z",
-  "publishers": [
-   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -694,18 +730,6 @@
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "month-without": {
-  "id": "month-without",
-  "title": "One month without AI",
-  "firstSeen": "2026-09-27T07:58:29.926Z",
-  "publishers": [
-   "blog.bustikiller.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
