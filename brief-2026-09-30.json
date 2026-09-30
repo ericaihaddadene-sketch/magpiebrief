@@ -1,9 +1,43 @@
 {
  "date": "2026-09-30",
- "generated": "2026-09-30T19:03:33.328Z",
- "headline": "97 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2715 items read · 101 on-topic · 97 distinct developments · 19 with a primary source · 3 independently corroborated",
+ "generated": "2026-09-30T22:55:57.789Z",
+ "headline": "100 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2715 items read · 106 on-topic · 100 distinct developments · 19 with a primary source · 5 independently corroborated",
  "events": [
+  {
+   "id": "gemini-gemini-argon-high-intelligence",
+   "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 192.0211264170186,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-30T20:50:28.000Z",
+   "latestAt": "2026-09-30T20:50:28.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+     "link": "https://artificialanalysis.ai/models/gemini-4-argon",
+     "publisher": "artificialanalysis.ai",
+     "publisherDomain": "artificialanalysis.ai",
+     "kind": "discussion",
+     "date": "2026-09-30T20:50:28.000Z",
+     "points": 52,
+     "summary": ""
+    }
+   ]
+  },
   {
    "id": "openai-openai-clone-could-help",
    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
@@ -18,7 +52,7 @@
      "kind": "org"
     }
    ],
-   "rank": 190.58573562925744,
+   "rank": 145.70934098098584,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -35,6 +69,55 @@
      "date": "2026-09-30T19:00:57.000Z",
      "points": null,
      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence."
+    }
+   ]
+  },
+  {
+   "id": "google-gemini-google-announces-gemini-argon",
+   "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    },
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 139.48277030398532,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-30T20:11:08.000Z",
+   "latestAt": "2026-09-30T20:41:41.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+     "link": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-30T20:11:08.000Z",
+     "points": null,
+     "summary": "So much for Gemini 3.5 Pro."
+    },
+    {
+     "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+     "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-30T20:41:41.000Z",
+     "points": null,
+     "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software…"
     }
    ]
   },
@@ -57,7 +140,7 @@
      "kind": "org"
     }
    ],
-   "rank": 167.60947500853925,
+   "rank": 128.14320056549982,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -85,7 +168,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 157.47374390725204,
+   "rank": 120.46336336394822,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -104,8 +187,108 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-09-30T17:37:40.000Z",
-     "points": 53,
+     "points": 110,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "cs240-cheating-retrospective",
+   "title": "CS240 AI Cheating Retrospective",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 115.42813518271147,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-30T19:54:29.000Z",
+   "latestAt": "2026-09-30T19:54:29.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "CS240 AI Cheating Retrospective",
+     "link": "https://turkeyland.net/thoughts/ai.php",
+     "publisher": "turkeyland.net",
+     "publisherDomain": "turkeyland.net",
+     "kind": "discussion",
+     "date": "2026-09-30T19:54:29.000Z",
+     "points": 42,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "built-this-city",
+   "title": "He Built This City",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 111.75129460739458,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T21:54:19.000Z",
+   "latestAt": "2026-09-30T21:54:19.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "He Built This City",
+     "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-30T21:54:19.000Z",
+     "points": null,
+     "summary": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model , the 50 x27…"
+    }
+   ]
+  },
+  {
+   "id": "safety-trump-safety-accord-fancy",
+   "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 99.70696696377782,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-30T16:00:55.000Z",
+   "latestAt": "2026-09-30T20:30:09.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+     "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-30T20:30:09.000Z",
+     "points": null,
+     "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters."
+    },
+    {
+     "title": "A ‘Morally Binding’ White House Accord on AI Safety",
+     "link": "https://www.lesswrong.com/posts/YuqaJ5bENoyyg9eMY/a-morally-binding-white-house-accord-on-ai-safety",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-30T16:00:55.000Z",
+     "points": null,
+     "summary": "The leaders in AI were invited to the White House. We left with a White House agreement that is nonzero Actual Progress rather than a step…"
     }
    ]
   },
@@ -133,7 +316,7 @@
      "kind": "org"
     }
    ],
-   "rank": 124.29278874920477,
+   "rank": 95.02610611197967,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -154,8 +337,8 @@
    ]
   },
   {
-   "id": "meta-ai-agents-latest-news-meta-cute",
-   "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+   "id": "agents-battle-your-personal-agent",
+   "title": "The Battle to Be Your Personal AI Agent Is Here",
    "category": {
     "id": "general",
     "name": "Other"
@@ -165,30 +348,97 @@
      "id": "agents",
      "name": "AI Agents",
      "kind": "topic"
-    },
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
     }
    ],
-   "rank": 109.22162416047682,
+   "rank": 94.59027478833349,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-30T15:18:49.000Z",
-   "latestAt": "2026-09-30T15:18:49.000Z",
+   "publishedAt": "2026-09-30T19:30:00.000Z",
+   "latestAt": "2026-09-30T19:30:00.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
+     "title": "The Battle to Be Your Personal AI Agent Is Here",
+     "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
      "kind": "coverage",
-     "date": "2026-09-30T15:18:49.000Z",
+     "date": "2026-09-30T19:30:00.000Z",
      "points": null,
-     "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly…"
+     "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too."
+    }
+   ]
+  },
+  {
+   "id": "funding-valor-atreides-sequoia-back",
+   "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    }
+   ],
+   "rank": 88.24014941272532,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T18:23:57.000Z",
+   "latestAt": "2026-09-30T21:07:40.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+     "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-30T21:07:40.000Z",
+     "points": null,
+     "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member."
+    },
+    {
+     "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+     "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-30T18:23:57.000Z",
+     "points": null,
+     "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
+    }
+   ]
+  },
+  {
+   "id": "thinks-will-free-from",
+   "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 86.8497737647395,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T19:31:25.000Z",
+   "latestAt": "2026-09-30T19:31:25.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+     "link": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-30T19:31:25.000Z",
+     "points": null,
+     "summary": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy."
     }
    ]
   },
@@ -200,7 +450,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 107.91839323877508,
+   "rank": 82.50731832909976,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -228,7 +478,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 107.76308059708035,
+   "rank": 82.38857647996484,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -249,6 +499,34 @@
    ]
   },
   {
+   "id": "there-plenty-reasons-concerned",
+   "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 76.14015231752936,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T19:00:00.000Z",
+   "latestAt": "2026-09-30T19:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+     "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-30T19:00:00.000Z",
+     "points": null,
+     "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events."
+    }
+   ]
+  },
+  {
    "id": "introducing-synthid",
    "title": "Introducing SynthID Bio",
    "category": {
@@ -256,7 +534,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 98.47177758328344,
+   "rank": 75.28505619537978,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -294,7 +572,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 97.11575126737048,
+   "rank": 74.24832750111428,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -315,68 +593,6 @@
    ]
   },
   {
-   "id": "funding-voice-startup-elevenlabs-doubles",
-   "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    }
-   ],
-   "rank": 95.5278172580883,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T18:23:57.000Z",
-   "latestAt": "2026-09-30T18:23:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-     "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-30T18:23:57.000Z",
-     "points": null,
-     "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
-    }
-   ]
-  },
-  {
-   "id": "show-strata-expressive-semantic",
-   "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 94.14326409620945,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-30T14:59:57.000Z",
-   "latestAt": "2026-09-30T14:59:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-     "link": "https://strata.do/try/",
-     "publisher": "strata.do",
-     "publisherDomain": "strata.do",
-     "kind": "discussion",
-     "date": "2026-09-30T14:59:57.000Z",
-     "points": 8,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "tamagotchis-coming",
    "title": "The AI Tamagotchis are coming",
    "category": {
@@ -384,7 +600,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 93.74400655891722,
+   "rank": 71.67051286140507,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -405,6 +621,34 @@
    ]
   },
   {
+   "id": "show-lathoa-math-kids",
+   "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 69.50371715480148,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-30T14:38:57.000Z",
+   "latestAt": "2026-09-30T14:38:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+     "link": "https://lathoa.ai/en",
+     "publisher": "lathoa.ai",
+     "publisherDomain": "lathoa.ai",
+     "kind": "discussion",
+     "date": "2026-09-30T14:38:57.000Z",
+     "points": 7,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "google-google-early-attempt-websites",
    "title": "Google's early attempt to pay websites for AI answers is struggling",
    "category": {
@@ -418,7 +662,7 @@
      "kind": "org"
     }
    ],
-   "rank": 89.37312628408212,
+   "rank": 68.32882476365614,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -446,7 +690,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 89.21301735815334,
+   "rank": 68.20641599048521,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -480,7 +724,7 @@
      "kind": "org"
     }
    ],
-   "rank": 88.45552159105834,
+   "rank": 67.62728445865848,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -508,7 +752,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 88.29705652282969,
+   "rank": 67.50613247116127,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -542,7 +786,7 @@
      "kind": "org"
     }
    ],
-   "rank": 87.90953387911517,
+   "rank": 67.20985809971148,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -581,7 +825,7 @@
      "kind": "org"
     }
    ],
-   "rank": 87.37305137070602,
+   "rank": 66.79969879534369,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -615,7 +859,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 87.20097072077165,
+   "rank": 66.6681372279749,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -643,7 +887,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 86.73172415051941,
+   "rank": 66.30938210769638,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -671,7 +915,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 85.22695505688897,
+   "rank": 65.15893445096322,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -699,7 +943,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 80.89240385703692,
+   "rank": 61.845021178841996,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -731,7 +975,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 80.89240385703692,
+   "rank": 61.845021178841996,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -752,41 +996,36 @@
    ]
   },
   {
-   "id": "google-search-google-reportedly-tests-paying",
-   "title": "Google reportedly tests paying publishers for AI search results",
+   "id": "open-source-model-hermeneutics-monitoring-closed",
+   "title": "Model Hermeneutics: Monitoring Closed-Weight Models with Open-Weight Internals",
    "category": {
-    "id": "general",
-    "name": "Other"
+    "id": "opensource",
+    "name": "Open Source"
    },
    "entities": [
     {
-     "id": "search",
-     "name": "AI Search",
+     "id": "open-source",
+     "name": "Open Models",
      "kind": "topic"
-    },
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
     }
    ],
-   "rank": 74.76511870611515,
+   "rank": 60.091778309498714,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-30T14:51:49.000Z",
-   "latestAt": "2026-09-30T14:51:49.000Z",
+   "publishedAt": "2026-09-30T20:43:51.000Z",
+   "latestAt": "2026-09-30T20:43:51.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Google reportedly tests paying publishers for AI search results",
-     "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
+     "title": "Model Hermeneutics: Monitoring Closed-Weight Models with Open-Weight Internals",
+     "link": "https://www.lesswrong.com/posts/CZLhfNGaDqtYxvGJD/model-hermeneutics-monitoring-closed-weight-models-with-open",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
      "kind": "coverage",
-     "date": "2026-09-30T14:51:49.000Z",
+     "date": "2026-09-30T20:43:51.000Z",
      "points": null,
-     "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot…"
+     "summary": "We introduce model hermeneutics: studying a closed-weight model (the author model) through the internals of an open-weight substitute (the reader model). We find: Weak to strong…"
     }
    ]
   },
@@ -798,7 +1037,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 74.68742425652769,
+   "rank": 57.101101150380714,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -826,7 +1065,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 72.95483793410413,
+   "rank": 55.776479397344055,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -854,7 +1093,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 72.90431639785666,
+   "rank": 55.73785394760795,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -882,7 +1121,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 72.90431639785666,
+   "rank": 55.73785394760795,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -910,7 +1149,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 71.82648208732556,
+   "rank": 54.91381259658214,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -942,7 +1181,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 71.70151748516801,
+   "rank": 54.81827286604455,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -970,7 +1209,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 69.37980842701741,
+   "rank": 53.04324654680949,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -995,40 +1234,6 @@
    ]
   },
   {
-   "id": "google-google-alumni-raise-back",
-   "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 61.304978315480255,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T12:00:00.000Z",
-   "latestAt": "2026-09-30T12:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
-     "link": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-30T12:00:00.000Z",
-     "points": null,
-     "summary": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI."
-    }
-   ]
-  },
-  {
    "id": "frontier-models-state-different",
    "title": "Frontier models state different decision theory preferences depending on who's asking",
    "category": {
@@ -1036,7 +1241,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 57.67328836929108,
+   "rank": 44.093209876120994,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1064,7 +1269,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 57.55680925875422,
+   "rank": 44.00415759538057,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1085,36 +1290,30 @@
    ]
   },
   {
-   "id": "safety-morally-binding-white-house",
-   "title": "A ‘Morally Binding’ White House Accord on AI Safety",
+   "id": "trump-relies-giants-self",
+   "title": "Trump relies on AI giants to self-police after ruling out China deal",
    "category": {
-    "id": "general",
-    "name": "Other"
+    "id": "policy",
+    "name": "Policy & Regulation"
    },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 56.68467857677049,
+   "entities": [],
+   "rank": 36.715948609314886,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-30T16:00:55.000Z",
-   "latestAt": "2026-09-30T16:00:55.000Z",
+   "publishedAt": "2026-09-30T09:13:03.000Z",
+   "latestAt": "2026-09-30T09:13:03.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "A ‘Morally Binding’ White House Accord on AI Safety",
-     "link": "https://www.lesswrong.com/posts/YuqaJ5bENoyyg9eMY/a-morally-binding-white-house-accord-on-ai-safety",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
+     "title": "Trump relies on AI giants to self-police after ruling out China deal",
+     "link": "https://www.scmp.com/plus/tech/tech-war/article/3369336/trump-relies-ai-giants-self-police-after-ruling-out-china-deal?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
      "kind": "coverage",
-     "date": "2026-09-30T16:00:55.000Z",
+     "date": "2026-09-30T09:13:03.000Z",
      "points": null,
-     "summary": "The leaders in AI were invited to the White House. We left with a White House agreement that is nonzero Actual Progress rather than a step…"
+     "summary": "Subscribers: The Daily Pulse won’t be published on October 1, which is China’s National Day. We will resume publication on Friday, October 2. US President Donald…"
     }
    ]
   },
@@ -1137,11 +1336,11 @@
      "kind": "org"
     }
    ],
-   "rank": 54.170191564921524,
+   "rank": 35.933578688274565,
    "deltas": [],
-   "sourceCount": 3,
-   "independentCount": 3,
-   "publishedAt": "2026-09-28T09:00:00.000Z",
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-28T21:49:10.000Z",
    "latestAt": "2026-09-30T06:31:08.000Z",
    "primary": null,
    "sources": [
@@ -1164,83 +1363,6 @@
      "date": "2026-09-28T21:49:10.000Z",
      "points": null,
      "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips."
-    },
-    {
-     "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
-     "link": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-28T09:00:00.000Z",
-     "points": null,
-     "summary": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment."
-    }
-   ]
-  },
-  {
-   "id": "trump-relies-giants-self",
-   "title": "Trump relies on AI giants to self-police after ruling out China deal",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [],
-   "rank": 48.02393606285972,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T09:13:03.000Z",
-   "latestAt": "2026-09-30T09:13:03.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Trump relies on AI giants to self-police after ruling out China deal",
-     "link": "https://www.scmp.com/plus/tech/tech-war/article/3369336/trump-relies-ai-giants-self-police-after-ruling-out-china-deal?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-30T09:13:03.000Z",
-     "points": null,
-     "summary": "Subscribers: The Daily Pulse won’t be published on October 1, which is China’s National Day. We will resume publication on Friday, October 2. US President Donald…"
-    }
-   ]
-  },
-  {
-   "id": "anthropic-amazon-public-sector-symposium-ottawa",
-   "title": "AAR 9/29: Public Sector AI Symposium Ottawa (AWS+Accenture+Anthropic), Policy Foresight Afternoon (Center for International Governance Innovation), Versaterm Users Conference (Police, Fire, Emergency), GCXpo at Area X.O (Department of National Defence), and VCF Cluster Access (Lucid Computing)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    },
-    {
-     "id": "amazon",
-     "name": "Amazon",
-     "kind": "org"
-    }
-   ],
-   "rank": 44.78552289613408,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T06:45:59.000Z",
-   "latestAt": "2026-09-30T06:45:59.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AAR 9/29: Public Sector AI Symposium Ottawa (AWS+Accenture+Anthropic), Policy Foresight Afternoon (Center for International Governance Innovation), Versaterm Users Conference (Police, Fire, Emergency), GCXpo at Area X.O (Department of National Defence), and VCF Cluster Access (Lucid Computing)",
-     "link": "https://www.lesswrong.com/posts/7nexTjJGx5Ss2C2h5/aar-9-29-public-sector-ai-symposium-ottawa-aws-accenture",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-30T06:45:59.000Z",
-     "points": null,
-     "summary": "Executive Summary This report covers a recent visit to the Capital City of Canada. Location(s): The Westin Hotel, CF Rideau Centre, Colonel By Hall uOttawa. Duration…"
     }
    ]
   },
@@ -1258,7 +1380,7 @@
      "kind": "org"
     }
    ],
-   "rank": 42.814879094952495,
+   "rank": 32.733445640663255,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1286,7 +1408,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 38.899555028399654,
+   "rank": 29.74004591124074,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1314,7 +1436,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.85766214391822,
+   "rank": 27.41441432045501,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1348,7 +1470,7 @@
      "kind": "org"
     }
    ],
-   "rank": 34.21775105653748,
+   "rank": 26.160645967746362,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1369,34 +1491,46 @@
    ]
   },
   {
-   "id": "dots-always-agents",
-   "title": "Dots: Always-on agents",
+   "id": "openai-meta-ai-agents-openai-dots-always-agents",
+   "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
    "category": {
     "id": "general",
     "name": "Other"
    },
-   "entities": [],
-   "rank": 34.03757837999749,
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    },
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 24.426347107561842,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-29T17:07:57.000Z",
-   "latestAt": "2026-09-29T17:07:57.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/introducing-dots/",
-    "title": "Dots: Always-on agents"
-   },
+   "publishedAt": "2026-09-29T17:15:00.000Z",
+   "latestAt": "2026-09-29T17:15:00.000Z",
+   "primary": null,
    "sources": [
     {
-     "title": "Dots: Always-on agents",
-     "link": "https://openai.com/index/introducing-dots/",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-29T17:07:57.000Z",
-     "points": 727,
-     "summary": ""
+     "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+     "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-29T17:15:00.000Z",
+     "points": null,
+     "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks."
     }
    ]
   },
@@ -1408,7 +1542,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 30.68722295810385,
+   "rank": 23.461435972627264,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1446,7 +1580,7 @@
      "kind": "org"
     }
    ],
-   "rank": 29.13619906451953,
+   "rank": 22.275624932605016,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1467,40 +1601,6 @@
    ]
   },
   {
-   "id": "gpt-nearly-matches-performance-astra",
-   "title": "GPT-6.1 Sol nearly matches the no-CoT performance of GPT-6 Astra",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 29.00722659737611,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T03:57:43.000Z",
-   "latestAt": "2026-09-30T03:57:43.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "GPT-6.1 Sol nearly matches the no-CoT performance of GPT-6 Astra",
-     "link": "https://www.lesswrong.com/posts/LqSZZAriGqgsGDQe3/gpt-6-1-sol-nearly-matches-the-no-cot-performance-of-gpt-6",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-30T03:57:43.000Z",
-     "points": null,
-     "summary": "Summary I ran GPT-6 Sol and GPT-6.1 Sol on the task suite from Think Fast . Surprisingly, 6.1 Sol performs substantially better than 6 Sol, almost…"
-    }
-   ]
-  },
-  {
    "id": "nvidia-acquires-world-labs-startup",
    "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
    "category": {
@@ -1514,7 +1614,7 @@
      "kind": "org"
     }
    ],
-   "rank": 28.619313409420684,
+   "rank": 21.8804480956906,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -1558,7 +1658,7 @@
      "kind": "org"
     }
    ],
-   "rank": 26.50003953983598,
+   "rank": 20.26019043120248,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1592,7 +1692,7 @@
      "kind": "org"
     }
    ],
-   "rank": 26.482705156288656,
+   "rank": 20.246937699592465,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1631,7 +1731,7 @@
      "kind": "org"
     }
    ],
-   "rank": 26.3539955871559,
+   "rank": 20.14853481317307,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1652,30 +1752,36 @@
    ]
   },
   {
-   "id": "show-working-model-enigma",
-   "title": "Show HN: A working 3D model of an Enigma machine",
+   "id": "gpt-near-astra-intelligence-fifth",
+   "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
    "category": {
-    "id": "general",
-    "name": "Other"
+    "id": "models",
+    "name": "Models"
    },
-   "entities": [],
-   "rank": 24.260557265469547,
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 19.681116341457077,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-29T17:15:56.000Z",
-   "latestAt": "2026-09-29T17:15:56.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-09-29T18:27:48.000Z",
+   "latestAt": "2026-09-29T18:27:48.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Show HN: A working 3D model of an Enigma machine",
-     "link": "https://enigma.design",
-     "publisher": "enigma.design",
-     "publisherDomain": "enigma.design",
-     "kind": "discussion",
-     "date": "2026-09-29T17:15:56.000Z",
-     "points": 83,
-     "summary": ""
+     "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+     "link": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-29T18:27:48.000Z",
+     "points": null,
+     "summary": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price — Hacker News. I'm a bit late with the pelicans because I…"
     }
    ]
   },
@@ -1698,7 +1804,7 @@
      "kind": "model"
     }
    ],
-   "rank": 23.385735506025057,
+   "rank": 17.879198029631826,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1737,7 +1843,7 @@
      "kind": "org"
     }
    ],
-   "rank": 22.27054594214809,
+   "rank": 17.026597304373553,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1758,6 +1864,34 @@
    ]
   },
   {
+   "id": "photo-scrubber-local-face",
+   "title": "Photo Scrubber — local face blur & metadata removal",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 14.818935959040418,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-29T16:45:27.000Z",
+   "latestAt": "2026-09-29T16:45:27.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Photo Scrubber — local face blur & metadata removal",
+     "link": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-09-29T16:45:27.000Z",
+     "points": null,
+     "summary": "Tool: Photo Scrubber — local face blur & metadata removal I took a photograph of some protesters, then thought about how I don't like sharing photographs…"
+    }
+   ]
+  },
+  {
    "id": "diffusion-controller-unifies-simplifies",
    "title": "How Diffusion Controller unifies and simplifies AI image generation",
    "category": {
@@ -1765,7 +1899,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.404870097065324,
+   "rank": 14.071155345543893,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1803,7 +1937,7 @@
      "kind": "product"
     }
    ],
-   "rank": 17.31880236033323,
+   "rank": 13.240819257392028,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1841,7 +1975,7 @@
      "kind": "org"
     }
    ],
-   "rank": 17.03726373463191,
+   "rank": 13.025573307970957,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1873,7 +2007,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.698667210053838,
+   "rank": 10.473101593382669,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1901,7 +2035,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.342784647765615,
+   "rank": 10.201017150932504,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1933,7 +2067,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.337586745813145,
+   "rank": 9.432508829124604,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1967,7 +2101,7 @@
      "kind": "org"
     }
    ],
-   "rank": 12.314557287919703,
+   "rank": 9.414902017566947,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1995,7 +2129,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.828844966613932,
+   "rank": 9.043558265055045,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2023,7 +2157,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.253871062836893,
+   "rank": 8.603970966855615,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2051,7 +2185,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.167530759292903,
+   "rank": 8.53796083924582,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2079,7 +2213,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.036490106023601,
+   "rank": 8.437775758937764,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2107,7 +2241,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.468133539800158,
+   "rank": 8.003247642585281,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2135,7 +2269,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.112718681724132,
+   "rank": 7.731520776069679,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2169,7 +2303,7 @@
      "kind": "model"
     }
    ],
-   "rank": 7.992525586073073,
+   "rank": 6.110560331680961,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2190,6 +2324,38 @@
    ]
   },
   {
+   "id": "introducing-dots",
+   "title": "Introducing dots",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 5.024907970780914,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-29T00:00:00.000Z",
+   "latestAt": "2026-09-29T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/introducing-dots",
+    "title": "Introducing dots"
+   },
+   "sources": [
+    {
+     "title": "Introducing dots",
+     "link": "https://openai.com/index/introducing-dots",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-29T00:00:00.000Z",
+     "points": null,
+     "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work…"
+    }
+   ]
+  },
+  {
    "id": "openai-openai-halts-frontier-model",
    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
    "category": {
@@ -2203,7 +2369,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.419154085015409,
+   "rank": 4.907663778166893,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -2241,7 +2407,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.337578654391012,
+   "rank": 4.845296559564327,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2269,7 +2435,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.337578654391012,
+   "rank": 4.845296559564327,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2303,7 +2469,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.0257685485993955,
+   "rank": 4.6069070238726875,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2331,7 +2497,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.6474648442455715,
+   "rank": 3.553146500977518,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2363,7 +2529,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.6474648442455715,
+   "rank": 3.553146500977518,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2395,7 +2561,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.34834598077252,
+   "rank": 3.324459855947464,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2423,7 +2589,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.345396683846091,
+   "rank": 3.3222050171470237,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2451,7 +2617,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.289967548534373,
+   "rank": 3.2798275393638625,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2489,7 +2655,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.1065655549934155,
+   "rank": 3.139610415951034,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2521,7 +2687,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.063543457497843,
+   "rank": 3.106718544725719,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2549,7 +2715,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.039747384729559,
+   "rank": 3.0885256297651402,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2577,7 +2743,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.280159801067668,
+   "rank": 2.5077948323249,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2605,7 +2771,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.805042693208215,
+   "rank": 2.1445514844089644,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2639,7 +2805,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.730950868188418,
+   "rank": 2.087905739332251,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2671,7 +2837,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.595608540057837,
+   "rank": 1.9844318808421186,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2709,7 +2875,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.2989366868305083,
+   "rank": 1.7576160591929484,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2748,7 +2914,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.2590024766307097,
+   "rank": 1.7270849838656308,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2776,7 +2942,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0534804574519385,
+   "rank": 1.569956341091051,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2810,7 +2976,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.0198348019126535,
+   "rank": 1.5442330817961416,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2831,62 +2997,6 @@
    ]
   },
   {
-   "id": "solving-math-greatest-problems",
-   "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.8505220530897575,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T09:30:00.000Z",
-   "latestAt": "2026-09-28T09:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-     "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-28T09:30:00.000Z",
-     "points": null,
-     "summary": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of…"
-    }
-   ]
-  },
-  {
-   "id": "next-evolution-learning-from",
-   "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.787486478555989,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T09:00:00.000Z",
-   "latestAt": "2026-09-28T09:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-     "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-28T09:00:00.000Z",
-     "points": null,
-     "summary": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world."
-    }
-   ]
-  },
-  {
    "id": "bytedance-grabs-fifth-china",
    "title": "ByteDance grabs one-fifth of China’s data centre capacity as AI drives infrastructure boom",
    "category": {
@@ -2894,7 +3004,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6994532035418815,
+   "rank": 1.299290345620698,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2922,7 +3032,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6981121546281894,
+   "rank": 1.2982650676648624,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2956,7 +3066,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.3794284586734034,
+   "rank": 1.054620436204687,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2995,7 +3105,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.3080879323375885,
+   "rank": 1.0000781534713692,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3023,7 +3133,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.245257372033192,
+   "rank": 0.9520420320628471,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3061,7 +3171,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.245257372033192,
+   "rank": 0.9520420320628471,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3093,7 +3203,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.1418581195271205,
+   "rank": 0.8729897520438722,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3121,7 +3231,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.0840974990374597,
+   "rank": 0.828829773762112,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
