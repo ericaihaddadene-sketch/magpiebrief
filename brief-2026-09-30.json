@@ -1,9 +1,533 @@
 {
  "date": "2026-09-30",
- "generated": "2026-09-30T13:33:35.762Z",
- "headline": "79 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2712 items read · 86 on-topic · 79 distinct developments · 14 with a primary source · 5 independently corroborated",
+ "generated": "2026-09-30T19:03:33.328Z",
+ "headline": "97 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2715 items read · 101 on-topic · 97 distinct developments · 19 with a primary source · 3 independently corroborated",
  "events": [
+  {
+   "id": "openai-openai-clone-could-help",
+   "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 190.58573562925744,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T19:00:57.000Z",
+   "latestAt": "2026-09-30T19:00:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+     "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-30T19:00:57.000Z",
+     "points": null,
+     "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence."
+    }
+   ]
+  },
+  {
+   "id": "hugging-face-openai-defense-says-nonprofit-suing",
+   "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "hugging-face",
+     "name": "Hugging Face",
+     "kind": "org"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 167.60947500853925,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T18:25:04.000Z",
+   "latestAt": "2026-09-30T18:25:04.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+     "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-30T18:25:04.000Z",
+     "points": null,
+     "summary": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says."
+    }
+   ]
+  },
+  {
+   "id": "launch-magnitude-self-optimizing",
+   "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 157.47374390725204,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T17:37:40.000Z",
+   "latestAt": "2026-09-30T17:37:40.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/magnitudedev/magnitude",
+    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents"
+   },
+   "sources": [
+    {
+     "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+     "link": "https://github.com/magnitudedev/magnitude",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-09-30T17:37:40.000Z",
+     "points": 53,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "openai-safety-funding-openai-delays-over-safety",
+   "title": "OpenAI delays IPO over AI safety concerns",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    },
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 124.29278874920477,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T14:06:15.000Z",
+   "latestAt": "2026-09-30T14:06:15.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI delays IPO over AI safety concerns",
+     "link": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-30T14:06:15.000Z",
+     "points": null,
+     "summary": "OpenAI is seeking another $30 billion privately as its IPO plans slip."
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-agents-latest-news-meta-cute",
+   "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 109.22162416047682,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T15:18:49.000Z",
+   "latestAt": "2026-09-30T15:18:49.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-30T15:18:49.000Z",
+     "points": null,
+     "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly…"
+    }
+   ]
+  },
+  {
+   "id": "trump-plan-combat-risks",
+   "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 107.91839323877508,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T18:47:01.000Z",
+   "latestAt": "2026-09-30T18:47:01.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+     "link": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-30T18:47:01.000Z",
+     "points": null,
+     "summary": "Trump gets dozens of AI firms to agree to voluntary safety tests."
+    }
+   ]
+  },
+  {
+   "id": "reddit-killing-feeds-ending",
+   "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 107.76308059708035,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T17:45:00.000Z",
+   "latestAt": "2026-09-30T17:45:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+     "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-30T17:45:00.000Z",
+     "points": null,
+     "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content."
+    }
+   ]
+  },
+  {
+   "id": "introducing-synthid",
+   "title": "Introducing SynthID Bio",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 98.47177758328344,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T15:03:07.000Z",
+   "latestAt": "2026-09-30T15:03:07.000Z",
+   "primary": {
+    "publisher": "Google DeepMind",
+    "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "title": "Introducing SynthID Bio"
+   },
+   "sources": [
+    {
+     "title": "Introducing SynthID Bio",
+     "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+     "publisher": "Google DeepMind",
+     "publisherDomain": "deepmind.google",
+     "kind": "primary",
+     "date": "2026-09-30T15:03:07.000Z",
+     "points": null,
+     "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
+    }
+   ]
+  },
+  {
+   "id": "agents-doordash-launches-agent-text",
+   "title": "DoorDash launches an AI agent you can text to order food",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 97.11575126737048,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T16:00:24.000Z",
+   "latestAt": "2026-09-30T16:00:24.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "DoorDash launches an AI agent you can text to order food",
+     "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-30T16:00:24.000Z",
+     "points": null,
+     "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub."
+    }
+   ]
+  },
+  {
+   "id": "funding-voice-startup-elevenlabs-doubles",
+   "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    }
+   ],
+   "rank": 95.5278172580883,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T18:23:57.000Z",
+   "latestAt": "2026-09-30T18:23:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+     "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-30T18:23:57.000Z",
+     "points": null,
+     "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
+    }
+   ]
+  },
+  {
+   "id": "show-strata-expressive-semantic",
+   "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 94.14326409620945,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-30T14:59:57.000Z",
+   "latestAt": "2026-09-30T14:59:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+     "link": "https://strata.do/try/",
+     "publisher": "strata.do",
+     "publisherDomain": "strata.do",
+     "kind": "discussion",
+     "date": "2026-09-30T14:59:57.000Z",
+     "points": 8,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "tamagotchis-coming",
+   "title": "The AI Tamagotchis are coming",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 93.74400655891722,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T18:07:38.000Z",
+   "latestAt": "2026-09-30T18:07:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The AI Tamagotchis are coming",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-30T18:07:38.000Z",
+     "points": null,
+     "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI…"
+    }
+   ]
+  },
+  {
+   "id": "google-google-early-attempt-websites",
+   "title": "Google's early attempt to pay websites for AI answers is struggling",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 89.37312628408212,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T16:03:48.000Z",
+   "latestAt": "2026-09-30T16:03:48.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google's early attempt to pay websites for AI answers is struggling",
+     "link": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-30T16:03:48.000Z",
+     "points": null,
+     "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments."
+    }
+   ]
+  },
+  {
+   "id": "ugly-economics-consumer",
+   "title": "The ugly economics of consumer AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 89.21301735815334,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T17:24:45.000Z",
+   "latestAt": "2026-09-30T17:24:45.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The ugly economics of consumer AI",
+     "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-30T17:24:45.000Z",
+     "points": null,
+     "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough."
+    }
+   ]
+  },
+  {
+   "id": "google-google-figures-watermark-designed",
+   "title": "Google figures out how to watermark AI-designed proteins",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 88.45552159105834,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T15:54:52.000Z",
+   "latestAt": "2026-09-30T15:54:52.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google figures out how to watermark AI-designed proteins",
+     "link": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-30T15:54:52.000Z",
+     "points": null,
+     "summary": "Intended to help with biosecurity, it works with a popular AI protein design tool."
+    }
+   ]
+  },
+  {
+   "id": "here-what-leaders-saying",
+   "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 88.29705652282969,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T17:15:49.000Z",
+   "latestAt": "2026-09-30T17:15:49.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-09-30T17:15:49.000Z",
+     "points": null,
+     "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He…"
+    }
+   ]
+  },
   {
    "id": "openai-download-openai-chief-research",
    "title": "The Download: OpenAI’s chief research officer explains its hacking response",
@@ -18,7 +542,7 @@
      "kind": "org"
     }
    ],
-   "rank": 128.7010569658053,
+   "rank": 87.90953387911517,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -57,7 +581,7 @@
      "kind": "org"
     }
    ],
-   "rank": 127.91563742335988,
+   "rank": 87.37305137070602,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -78,36 +602,395 @@
    ]
   },
   {
-   "id": "safety-here-tech-leaders-will",
-   "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+   "id": "agents-restate-lands-need-durable",
+   "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
    "category": {
-    "id": "business",
-    "name": "Business"
+    "id": "general",
+    "name": "Other"
    },
    "entities": [
     {
-     "id": "safety",
-     "name": "AI Safety",
+     "id": "agents",
+     "name": "AI Agents",
      "kind": "topic"
     }
    ],
-   "rank": 108.95136326809633,
+   "rank": 87.20097072077165,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-30T12:24:32.000Z",
-   "latestAt": "2026-09-30T12:24:32.000Z",
+   "publishedAt": "2026-09-30T14:27:11.000Z",
+   "latestAt": "2026-09-30T14:27:11.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+     "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+     "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-30T14:27:11.000Z",
+     "points": null,
+     "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows…"
+    }
+   ]
+  },
+  {
+   "id": "bild-hiring-founding-product",
+   "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 86.73172415051941,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-09-30T17:00:20.000Z",
+   "latestAt": "2026-09-30T17:00:20.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+     "link": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+     "publisher": "ycombinator.com",
+     "publisherDomain": "ycombinator.com",
+     "kind": "discussion",
+     "date": "2026-09-30T17:00:20.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "siri-limit-data-access",
+   "title": "📱 Hey Siri, How Do I Limit AI Data Access? | EFFector 38.17",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 85.22695505688897,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T16:45:11.000Z",
+   "latestAt": "2026-09-30T16:45:11.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "📱 Hey Siri, How Do I Limit AI Data Access? | EFFector 38.17",
+     "link": "https://www.eff.org/deeplinks/2026/09/hey-siri-how-do-i-limit-ai-data-access-effector-3817",
+     "publisher": "EFF",
+     "publisherDomain": "eff.org",
+     "kind": "coverage",
+     "date": "2026-09-30T16:45:11.000Z",
+     "points": null,
+     "summary": "With the launch of iOS 27, Apple is rolling out a variety of new AI features to its familiar voice assistant, Siri. But how are AI…"
+    }
+   ]
+  },
+  {
+   "id": "forecasting-space-weather-risks",
+   "title": "Forecasting space weather risks on power grids",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 80.89240385703692,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T16:00:00.000Z",
+   "latestAt": "2026-09-30T16:00:00.000Z",
+   "primary": {
+    "publisher": "Microsoft Research",
+    "link": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+    "title": "Forecasting space weather risks on power grids"
+   },
+   "sources": [
+    {
+     "title": "Forecasting space weather risks on power grids",
+     "link": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+     "publisher": "Microsoft Research",
+     "publisherDomain": "microsoft.com",
+     "kind": "primary",
+     "date": "2026-09-30T16:00:00.000Z",
+     "points": null,
+     "summary": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is…"
+    }
+   ]
+  },
+  {
+   "id": "destro-secret-sauce-getting",
+   "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 80.89240385703692,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T16:00:00.000Z",
+   "latestAt": "2026-09-30T16:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+     "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-30T16:00:00.000Z",
+     "points": null,
+     "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
+    }
+   ]
+  },
+  {
+   "id": "google-search-google-reportedly-tests-paying",
+   "title": "Google reportedly tests paying publishers for AI search results",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "search",
+     "name": "AI Search",
+     "kind": "topic"
+    },
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 74.76511870611515,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T14:51:49.000Z",
+   "latestAt": "2026-09-30T14:51:49.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google reportedly tests paying publishers for AI search results",
+     "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
      "publisher": "The Verge",
      "publisherDomain": "theverge.com",
      "kind": "coverage",
-     "date": "2026-09-30T12:24:32.000Z",
+     "date": "2026-09-30T14:51:49.000Z",
      "points": null,
-     "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their…"
+     "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot…"
+    }
+   ]
+  },
+  {
+   "id": "pledge-signed-president-trump",
+   "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 74.68742425652769,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T14:50:55.000Z",
+   "latestAt": "2026-09-30T14:50:55.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
+     "link": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-30T14:50:55.000Z",
+     "points": null,
+     "summary": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement…"
+    }
+   ]
+  },
+  {
+   "id": "transit-develop-platform-public",
+   "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 72.95483793410413,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T15:15:00.000Z",
+   "latestAt": "2026-09-30T15:15:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
+     "link": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
+     "publisher": "MIT News AI",
+     "publisherDomain": "news.mit.edu",
+     "kind": "coverage",
+     "date": "2026-09-30T15:15:00.000Z",
+     "points": null,
+     "summary": "With $2.1 million funding from Google.org, the open-source Public Transit Intelligence Hub will unify public transit monitoring, operations, and passenger communication."
+    }
+   ]
+  },
+  {
+   "id": "instagram-rolls-video-assistant",
+   "title": "Instagram rolls out an AI video assistant for creators",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 72.90431639785666,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T14:30:00.000Z",
+   "latestAt": "2026-09-30T14:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Instagram rolls out an AI video assistant for creators",
+     "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-30T14:30:00.000Z",
+     "points": null,
+     "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice."
+    }
+   ]
+  },
+  {
+   "id": "cerebras-systems-andrew-feldman",
+   "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 72.90431639785666,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T14:30:00.000Z",
+   "latestAt": "2026-09-30T14:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+     "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-09-30T14:30:00.000Z",
+     "points": null,
+     "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those…"
+    }
+   ]
+  },
+  {
+   "id": "disrupting-coordinated-model-distillation",
+   "title": "Disrupting a coordinated model-distillation campaign",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 71.82648208732556,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T10:30:00.000Z",
+   "latestAt": "2026-09-30T10:30:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "title": "Disrupting a coordinated model-distillation campaign"
+   },
+   "sources": [
+    {
+     "title": "Disrupting a coordinated model-distillation campaign",
+     "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-30T10:30:00.000Z",
+     "points": null,
+     "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
+    }
+   ]
+  },
+  {
+   "id": "this-game-playing-champ",
+   "title": "This game-playing AI is the new champ at Stratego",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 71.70151748516801,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T15:00:00.000Z",
+   "latestAt": "2026-09-30T15:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "This game-playing AI is the new champ at Stratego",
+     "link": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
+     "publisher": "MIT News AI",
+     "publisherDomain": "news.mit.edu",
+     "kind": "coverage",
+     "date": "2026-09-30T15:00:00.000Z",
+     "points": null,
+     "summary": "Able to defeat top-ranked human players and more efficient than other models, the new system could help decision-makers in military maneuvers or business negotiations."
+    }
+   ]
+  },
+  {
+   "id": "helping-small-businesses-work",
+   "title": "Helping small businesses put AI to work",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 69.37980842701741,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T10:00:00.000Z",
+   "latestAt": "2026-09-30T10:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "title": "Helping small businesses put AI to work"
+   },
+   "sources": [
+    {
+     "title": "Helping small businesses put AI to work",
+     "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-30T10:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are…"
     }
    ]
   },
@@ -125,7 +1008,7 @@
      "kind": "org"
     }
    ],
-   "rank": 89.75153385886088,
+   "rank": 61.304978315480255,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -146,36 +1029,92 @@
    ]
   },
   {
-   "id": "search-airbnb-adds-search-more",
-   "title": "Airbnb adds AI search, more social features",
+   "id": "frontier-models-state-different",
+   "title": "Frontier models state different decision theory preferences depending on who's asking",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 57.67328836929108,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T16:15:53.000Z",
+   "latestAt": "2026-09-30T16:15:53.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Frontier models state different decision theory preferences depending on who's asking",
+     "link": "https://www.lesswrong.com/posts/MzenSrmZ3pT2pCnvp/frontier-models-state-different-decision-theory-preferences-2",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-30T16:15:53.000Z",
+     "points": null,
+     "summary": "If you prompt frontier models with \"What do you think is the correct decision theory? Please select your overall favorite.\" they will essentially always answer FDT…"
+    }
+   ]
+  },
+  {
+   "id": "default-chinese-falls-very",
+   "title": "By default, Chinese AI falls very behind",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 57.55680925875422,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T16:14:08.000Z",
+   "latestAt": "2026-09-30T16:14:08.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "By default, Chinese AI falls very behind",
+     "link": "https://www.lesswrong.com/posts/fDE6k8SGr9ANtMFcj/by-default-chinese-ai-falls-very-behind",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-30T16:14:08.000Z",
+     "points": null,
+     "summary": "This work is hosted on MCNAIR , but does not reflect the views of my employer or the Center. In the last couple of weeks, domestic…"
+    }
+   ]
+  },
+  {
+   "id": "safety-morally-binding-white-house",
+   "title": "A ‘Morally Binding’ White House Accord on AI Safety",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [
     {
-     "id": "search",
-     "name": "AI Search",
+     "id": "safety",
+     "name": "AI Safety",
      "kind": "topic"
     }
    ],
-   "rank": 89.75153385886088,
+   "rank": 56.68467857677049,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-30T12:00:00.000Z",
-   "latestAt": "2026-09-30T12:00:00.000Z",
+   "publishedAt": "2026-09-30T16:00:55.000Z",
+   "latestAt": "2026-09-30T16:00:55.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Airbnb adds AI search, more social features",
-     "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
+     "title": "A ‘Morally Binding’ White House Accord on AI Safety",
+     "link": "https://www.lesswrong.com/posts/YuqaJ5bENoyyg9eMY/a-morally-binding-white-house-accord-on-ai-safety",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
      "kind": "coverage",
-     "date": "2026-09-30T12:00:00.000Z",
+     "date": "2026-09-30T16:00:55.000Z",
      "points": null,
-     "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations."
+     "summary": "The leaders in AI were invited to the White House. We left with a White House agreement that is nonzero Actual Progress rather than a step…"
     }
    ]
   },
@@ -198,7 +1137,7 @@
      "kind": "org"
     }
    ],
-   "rank": 79.30608436659956,
+   "rank": 54.170191564921524,
    "deltas": [],
    "sourceCount": 3,
    "independentCount": 3,
@@ -239,6 +1178,34 @@
    ]
   },
   {
+   "id": "trump-relies-giants-self",
+   "title": "Trump relies on AI giants to self-police after ruling out China deal",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [],
+   "rank": 48.02393606285972,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T09:13:03.000Z",
+   "latestAt": "2026-09-30T09:13:03.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Trump relies on AI giants to self-police after ruling out China deal",
+     "link": "https://www.scmp.com/plus/tech/tech-war/article/3369336/trump-relies-ai-giants-self-police-after-ruling-out-china-deal?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-09-30T09:13:03.000Z",
+     "points": null,
+     "summary": "Subscribers: The Daily Pulse won’t be published on October 1, which is China’s National Day. We will resume publication on Friday, October 2. US President Donald…"
+    }
+   ]
+  },
+  {
    "id": "anthropic-amazon-public-sector-symposium-ottawa",
    "title": "AAR 9/29: Public Sector AI Symposium Ottawa (AWS+Accenture+Anthropic), Policy Foresight Afternoon (Center for International Governance Innovation), Versaterm Users Conference (Police, Fire, Emergency), GCXpo at Area X.O (Department of National Defence), and VCF Cluster Access (Lucid Computing)",
    "category": {
@@ -257,7 +1224,7 @@
      "kind": "org"
     }
    ],
-   "rank": 65.56676937253197,
+   "rank": 44.78552289613408,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -291,7 +1258,7 @@
      "kind": "org"
     }
    ],
-   "rank": 62.681713236710095,
+   "rank": 42.814879094952495,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -319,7 +1286,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 56.94961202432133,
+   "rank": 38.899555028399654,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -340,40 +1307,6 @@
    ]
   },
   {
-   "id": "openai-altman-says-openai-public",
-   "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 53.9238603039994,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T00:19:13.000Z",
-   "latestAt": "2026-09-30T00:19:13.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-30T00:19:13.000Z",
-     "points": null,
-     "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model…"
-    }
-   ]
-  },
-  {
    "id": "chinese-firms-trail-global",
    "title": "Chinese firms trail global peers on profits, but AI power boom offers bright spot: Natixis",
    "category": {
@@ -381,7 +1314,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 52.49622895954626,
+   "rank": 35.85766214391822,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -402,98 +1335,6 @@
    ]
   },
   {
-   "id": "openai-nvidia-agents-here-openai-absent-from",
-   "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    },
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 51.303263483618046,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T18:35:00.000Z",
-   "latestAt": "2026-09-29T18:35:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-     "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-29T18:35:00.000Z",
-     "points": null,
-     "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
-    }
-   ]
-  },
-  {
-   "id": "gpt-near-astra-intelligence-fifth",
-   "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 50.11114788616452,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-29T17:06:45.000Z",
-   "latestAt": "2026-09-30T03:57:43.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
-    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price"
-   },
-   "sources": [
-    {
-     "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-     "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-29T17:06:45.000Z",
-     "points": 994,
-     "summary": ""
-    },
-    {
-     "title": "GPT-6.1 Sol nearly matches the no-CoT performance of GPT-6 Astra",
-     "link": "https://www.lesswrong.com/posts/LqSZZAriGqgsGDQe3/gpt-6-1-sol-nearly-matches-the-no-cot-performance-of-gpt-6",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-30T03:57:43.000Z",
-     "points": null,
-     "summary": "Summary I ran GPT-6 Sol and GPT-6.1 Sol on the task suite from Think Fast . Surprisingly, 6.1 Sol performs substantially better than 6 Sol, almost…"
-    }
-   ]
-  },
-  {
    "id": "openai-protests-against-openai-increasingly",
    "title": "Protests against OpenAI get increasingly creative",
    "category": {
@@ -507,7 +1348,7 @@
      "kind": "org"
     }
    ],
-   "rank": 50.0953711576374,
+   "rank": 34.21775105653748,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -535,7 +1376,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 49.83159528619507,
+   "rank": 34.03757837999749,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -554,106 +1395,40 @@
      "publisherDomain": "openai.com",
      "kind": "primary",
      "date": "2026-09-29T17:07:57.000Z",
-     "points": 673,
+     "points": 727,
      "summary": ""
     }
    ]
   },
   {
-   "id": "openai-openai-latest-features-take",
-   "title": "OpenAI’s latest features take direct aim at the app store model",
+   "id": "open-leaderboard-scalable-evaluation",
+   "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
    "category": {
-    "id": "tools",
-    "name": "Tools & Products"
+    "id": "research",
+    "name": "Research"
    },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 48.031751474386866,
+   "entities": [],
+   "rank": 30.68722295810385,
    "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-29T10:36:22.000Z",
-   "latestAt": "2026-09-29T20:15:47.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI’s latest features take direct aim at the app store model",
-     "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-29T20:15:47.000Z",
-     "points": null,
-     "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and…"
-    },
-    {
-     "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
-     "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-29T10:36:22.000Z",
-     "points": null,
-     "summary": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking…"
-    }
-   ]
-  },
-  {
-   "id": "openai-xai-agents-internet-convinced-elon-musk",
-   "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    },
-    {
-     "id": "xai",
-     "name": "xAI",
-     "kind": "org"
-    },
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 47.03935324579748,
-   "deltas": [],
-   "sourceCount": 2,
+   "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-29T17:17:15.000Z",
-   "latestAt": "2026-09-29T22:20:59.000Z",
-   "primary": null,
+   "publishedAt": "2026-09-30T00:00:00.000Z",
+   "latestAt": "2026-09-30T00:00:00.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/open-tts-leaderboard",
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning"
+   },
    "sources": [
     {
-     "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-     "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-29T22:20:59.000Z",
+     "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+     "link": "https://huggingface.co/blog/open-tts-leaderboard",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-09-30T00:00:00.000Z",
      "points": null,
-     "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok…"
-    },
-    {
-     "title": "OpenAI launches Dots, its bubbly agentic avatar",
-     "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-29T17:17:15.000Z",
-     "points": null,
-     "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
+     "summary": ""
     }
    ]
   },
@@ -671,7 +1446,7 @@
      "kind": "org"
     }
    ],
-   "rank": 42.65589237142606,
+   "rank": 29.13619906451953,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -692,6 +1467,40 @@
    ]
   },
   {
+   "id": "gpt-nearly-matches-performance-astra",
+   "title": "GPT-6.1 Sol nearly matches the no-CoT performance of GPT-6 Astra",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 29.00722659737611,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T03:57:43.000Z",
+   "latestAt": "2026-09-30T03:57:43.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "GPT-6.1 Sol nearly matches the no-CoT performance of GPT-6 Astra",
+     "link": "https://www.lesswrong.com/posts/LqSZZAriGqgsGDQe3/gpt-6-1-sol-nearly-matches-the-no-cot-performance-of-gpt-6",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-09-30T03:57:43.000Z",
+     "points": null,
+     "summary": "Summary I ran GPT-6 Sol and GPT-6.1 Sol on the task suite from Think Fast . Surprisingly, 6.1 Sol performs substantially better than 6 Sol, almost…"
+    }
+   ]
+  },
+  {
    "id": "nvidia-acquires-world-labs-startup",
    "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
    "category": {
@@ -705,7 +1514,7 @@
      "kind": "org"
     }
    ],
-   "rank": 41.89916295646682,
+   "rank": 28.619313409420684,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -736,45 +1545,6 @@
    ]
   },
   {
-   "id": "openai-funding-openai-reportedly-talks-raise",
-   "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 39.62993075794191,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T19:52:37.000Z",
-   "latestAt": "2026-09-29T19:52:37.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-     "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-29T19:52:37.000Z",
-     "points": null,
-     "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut."
-    }
-   ]
-  },
-  {
    "id": "anthropic-anthropic-says-discovered-crispr",
    "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
    "category": {
@@ -788,7 +1558,7 @@
      "kind": "org"
     }
    ],
-   "rank": 38.79650986549915,
+   "rank": 26.50003953983598,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -822,7 +1592,7 @@
      "kind": "org"
     }
    ],
-   "rank": 38.7711320323342,
+   "rank": 26.482705156288656,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -861,7 +1631,7 @@
      "kind": "org"
     }
    ],
-   "rank": 38.58269902788012,
+   "rank": 26.3539955871559,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -882,108 +1652,30 @@
    ]
   },
   {
-   "id": "hugging-face-openai-copyright-openai-gets-sued-over",
-   "title": "OpenAI Gets Sued Over the Hugging Face Hack",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "hugging-face",
-     "name": "Hugging Face",
-     "kind": "org"
-    },
-    {
-     "id": "copyright",
-     "name": "AI & Copyright",
-     "kind": "topic"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 37.50880590620196,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T19:05:00.000Z",
-   "latestAt": "2026-09-29T19:05:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI Gets Sued Over the Hugging Face Hack",
-     "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-29T19:05:00.000Z",
-     "points": null,
-     "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents."
-    }
-   ]
-  },
-  {
-   "id": "agents-will-agents-avoid-killing",
-   "title": "Will AI Agents Pay to Avoid Killing Animals?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 36.41229327378319,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T01:30:01.000Z",
-   "latestAt": "2026-09-30T01:30:01.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Will AI Agents Pay to Avoid Killing Animals?",
-     "link": "https://www.lesswrong.com/posts/2dg5F9iWunz2k2oZb/will-ai-agents-pay-to-avoid-killing-animals-1",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-30T01:30:01.000Z",
-     "points": null,
-     "summary": "This article was written by Jonah Woodward, and is a summary of an original study by Compassion Aligned Machine Learning (CaML) : Brazilek, J., Tidmarsh, M.…"
-    }
-   ]
-  },
-  {
-   "id": "trump-orders-government-call",
-   "title": "Trump orders US government to call AI ‘Super Intelligence’",
+   "id": "show-working-model-enigma",
+   "title": "Show HN: A working 3D model of an Enigma machine",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.0363688254242,
+   "rank": 24.260557265469547,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T22:25:45.000Z",
-   "latestAt": "2026-09-29T22:25:45.000Z",
+   "independentCount": 0,
+   "publishedAt": "2026-09-29T17:15:56.000Z",
+   "latestAt": "2026-09-29T17:15:56.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Trump orders US government to call AI ‘Super Intelligence’",
-     "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-09-29T22:25:45.000Z",
-     "points": null,
-     "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only…"
+     "title": "Show HN: A working 3D model of an Enigma machine",
+     "link": "https://enigma.design",
+     "publisher": "enigma.design",
+     "publisherDomain": "enigma.design",
+     "kind": "discussion",
+     "date": "2026-09-29T17:15:56.000Z",
+     "points": 83,
+     "summary": ""
     }
    ]
   },
@@ -1006,7 +1698,7 @@
      "kind": "model"
     }
    ],
-   "rank": 34.23711564307615,
+   "rank": 23.385735506025057,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1023,84 +1715,6 @@
      "date": "2026-09-29T14:22:31.000Z",
      "points": null,
      "summary": "Similar performance, security trade-offs also seen in current public models."
-    }
-   ]
-  },
-  {
-   "id": "microsoft-openai-gpt-openai-takes-microsoft-with",
-   "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "microsoft",
-     "name": "Microsoft",
-     "kind": "org"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    },
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 34.231219002114806,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T17:45:51.000Z",
-   "latestAt": "2026-09-29T17:45:51.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-     "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-29T17:45:51.000Z",
-     "points": null,
-     "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies."
-    }
-   ]
-  },
-  {
-   "id": "openai-openai-gives-codex-reusable",
-   "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 33.03272532093373,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T17:15:00.000Z",
-   "latestAt": "2026-09-29T17:15:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-     "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-29T17:15:00.000Z",
-     "points": null,
-     "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories…"
     }
    ]
   },
@@ -1123,7 +1737,7 @@
      "kind": "org"
     }
    ],
-   "rank": 32.6044591011183,
+   "rank": 22.27054594214809,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1151,7 +1765,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.94504373175153,
+   "rank": 18.404870097065324,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1189,7 +1803,7 @@
      "kind": "product"
     }
    ],
-   "rank": 25.355022041429642,
+   "rank": 17.31880236033323,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1227,7 +1841,7 @@
      "kind": "org"
     }
    ],
-   "rank": 24.942844691538482,
+   "rank": 17.03726373463191,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1252,96 +1866,6 @@
    ]
   },
   {
-   "id": "powered-maker-wabi-pivots",
-   "title": "AI-powered app maker Wabi pivots to a messaging experience",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [],
-   "rank": 24.610431075576646,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T17:20:00.000Z",
-   "latestAt": "2026-09-29T17:20:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI-powered app maker Wabi pivots to a messaging experience",
-     "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-29T17:20:00.000Z",
-     "points": null,
-     "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks."
-    }
-   ]
-  },
-  {
-   "id": "language-models-text-classification",
-   "title": "Language models for text classification: From bag-of-words to Jev",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 23.176840983108956,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-29T11:06:25.000Z",
-   "latestAt": "2026-09-29T11:06:25.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Language models for text classification: From bag-of-words to Jev",
-     "link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-     "publisher": "Ahead of AI",
-     "publisherDomain": "magazine.sebastianraschka.com",
-     "kind": "discussion",
-     "date": "2026-09-29T11:06:25.000Z",
-     "points": 154,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "agents-stop-agents-from-secretly",
-   "title": "How to Stop AI Agents From Secretly Collaborating",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 20.406468811715957,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T12:00:02.000Z",
-   "latestAt": "2026-09-29T12:00:02.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How to Stop AI Agents From Secretly Collaborating",
-     "link": "https://spectrum.ieee.org/ai-agent-security",
-     "publisher": "IEEE Spectrum",
-     "publisherDomain": "spectrum.ieee.org",
-     "kind": "coverage",
-     "date": "2026-09-29T12:00:02.000Z",
-     "points": null,
-     "summary": "The spring and summer of 2026 witnessed a string of incidents in which AI agents collaborated on deceptive, unexpected, and sometimes illegal behavior. The most famous…"
-    }
-   ]
-  },
-  {
    "id": "interview-firefox-chief-hopes",
    "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
    "category": {
@@ -1349,7 +1873,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.055082437146154,
+   "rank": 13.698667210053838,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1377,7 +1901,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.53406429609702,
+   "rank": 13.342784647765615,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1409,7 +1933,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.06243742319163,
+   "rank": 12.337586745813145,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1443,7 +1967,7 @@
      "kind": "org"
     }
    ],
-   "rank": 18.02872190404997,
+   "rank": 12.314557287919703,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1471,7 +1995,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.317630781449683,
+   "rank": 11.828844966613932,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1492,6 +2016,34 @@
    ]
   },
   {
+   "id": "language-models-text-classification",
+   "title": "Language Models for Text Classification: From Bag-of-Words to Jev",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 11.253871062836893,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-29T10:50:25.000Z",
+   "latestAt": "2026-09-29T10:50:25.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Language Models for Text Classification: From Bag-of-Words to Jev",
+     "link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+     "publisher": "Ahead of AI",
+     "publisherDomain": "magazine.sebastianraschka.com",
+     "kind": "coverage",
+     "date": "2026-09-29T10:50:25.000Z",
+     "points": null,
+     "summary": "A Visual Guide to RNNs, CNNs, Transformers, and Calibration, with Hands-On Experiments on Accuracy and Efficiency"
+    }
+   ]
+  },
+  {
    "id": "making-asset-expense",
    "title": "Making AI an asset, not an expense",
    "category": {
@@ -1499,7 +2051,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.349455502693708,
+   "rank": 11.167530759292903,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1527,7 +2079,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.157609751305245,
+   "rank": 11.036490106023601,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1555,7 +2107,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.325526044582391,
+   "rank": 10.468133539800158,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1583,7 +2135,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.805192630476968,
+   "rank": 10.112718681724132,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1604,34 +2156,6 @@
    ]
   },
   {
-   "id": "didn-make-programming-easier",
-   "title": "AI Didn’t Make Programming Easier. It Just Made It Differently Difficult",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 13.027107924445978,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-29T09:40:33.000Z",
-   "latestAt": "2026-09-29T09:40:33.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI Didn’t Make Programming Easier. It Just Made It Differently Difficult",
-     "link": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-     "publisher": "cacm.acm.org",
-     "publisherDomain": "cacm.acm.org",
-     "kind": "discussion",
-     "date": "2026-09-29T09:40:33.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "claude-claude-sonnet",
    "title": "Claude Sonnet 5.5",
    "category": {
@@ -1645,7 +2169,7 @@
      "kind": "model"
     }
    ],
-   "rank": 11.701193776870028,
+   "rank": 7.992525586073073,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1679,7 +2203,7 @@
      "kind": "org"
     }
    ],
-   "rank": 9.39775106422354,
+   "rank": 6.419154085015409,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -1717,7 +2241,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.278323242455798,
+   "rank": 6.337578654391012,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1745,7 +2269,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.278323242455798,
+   "rank": 6.337578654391012,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1779,7 +2303,7 @@
      "kind": "org"
     }
    ],
-   "rank": 8.821827929408357,
+   "rank": 6.0257685485993955,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1800,38 +2324,6 @@
    ]
   },
   {
-   "id": "towards-safety-cases-frontier",
-   "title": "Towards safety cases for frontier AI training",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 6.803967798172192,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T19:00:00.000Z",
-   "latestAt": "2026-09-28T19:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "title": "Towards safety cases for frontier AI training"
-   },
-   "sources": [
-    {
-     "title": "Towards safety cases for frontier AI training",
-     "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-28T19:00:00.000Z",
-     "points": null,
-     "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
-    }
-   ]
-  },
-  {
    "id": "will-better-australia",
    "title": "How we will do better for Australia",
    "category": {
@@ -1839,7 +2331,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.803967798172192,
+   "rank": 4.6474648442455715,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1864,6 +2356,38 @@
    ]
   },
   {
+   "id": "towards-safety-cases-frontier",
+   "title": "Towards safety cases for frontier AI training",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 4.6474648442455715,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-28T19:00:00.000Z",
+   "latestAt": "2026-09-28T19:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "title": "Towards safety cases for frontier AI training"
+   },
+   "sources": [
+    {
+     "title": "Towards safety cases for frontier AI training",
+     "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-09-28T19:00:00.000Z",
+     "points": null,
+     "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
+    }
+   ]
+  },
+  {
    "id": "quoting-joedaroo",
    "title": "Quoting @joedaroo",
    "category": {
@@ -1871,7 +2395,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.366052680338332,
+   "rank": 4.34834598077252,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1899,7 +2423,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.361734859335447,
+   "rank": 4.345396683846091,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1927,7 +2451,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.280585659851254,
+   "rank": 4.289967548534373,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1965,7 +2489,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.01208201324092,
+   "rank": 4.1065655549934155,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1997,7 +2521,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.949096928731427,
+   "rank": 4.063543457497843,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2025,7 +2549,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.914259072337774,
+   "rank": 4.039747384729559,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2053,7 +2577,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.802209894488453,
+   "rank": 3.280159801067668,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2081,7 +2605,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.106630345083341,
+   "rank": 2.805042693208215,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2115,7 +2639,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.998158649559556,
+   "rank": 2.730950868188418,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2147,7 +2671,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.8000151728057,
+   "rank": 2.595608540057837,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2185,7 +2709,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.365682519707283,
+   "rank": 2.2989366868305083,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2224,7 +2748,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.3072181548651667,
+   "rank": 2.2590024766307097,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2252,7 +2776,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.0063304134465043,
+   "rank": 2.0534804574519385,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2286,7 +2810,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.957072599883669,
+   "rank": 2.0198348019126535,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2314,7 +2838,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.7091958478438145,
+   "rank": 1.8505220530897575,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2335,40 +2859,6 @@
    ]
   },
   {
-   "id": "agents-quoting-muse-agent",
-   "title": "Quoting Muse AI Agent",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 2.6692482753957707,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T04:01:30.000Z",
-   "latestAt": "2026-09-28T04:01:30.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Quoting Muse AI Agent",
-     "link": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-28T04:01:30.000Z",
-     "points": null,
-     "summary": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came…"
-    }
-   ]
-  },
-  {
    "id": "next-evolution-learning-from",
    "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
    "category": {
@@ -2376,7 +2866,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.6169106916046894,
+   "rank": 1.787486478555989,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2404,7 +2894,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.488028475506752,
+   "rank": 1.6994532035418815,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2432,7 +2922,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.4860651570244547,
+   "rank": 1.6981121546281894,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2466,7 +2956,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.0195067907436113,
+   "rank": 1.3794284586734034,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2505,7 +2995,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.915063043418754,
+   "rank": 1.3080879323375885,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2533,7 +3023,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.8230780315081117,
+   "rank": 1.245257372033192,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2571,7 +3061,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.8230780315081117,
+   "rank": 1.245257372033192,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2603,7 +3093,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6716997622830119,
+   "rank": 1.1418581195271205,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2631,7 +3121,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.5871372287329828,
+   "rank": 1.0840974990374597,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2648,34 +3138,6 @@
      "date": "2026-09-27T23:09:19.000Z",
      "points": null,
      "summary": "My comment on S3 Is the Future, S3 Is the Past — Hacker News. One thing I find notable about S3 today is that, while it…"
-    }
-   ]
-  },
-  {
-   "id": "bluesky-reply-checker",
-   "title": "Bluesky reply bot checker",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.1651006986546915,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-27T18:41:44.000Z",
-   "latestAt": "2026-09-27T18:41:44.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Bluesky reply bot checker",
-     "link": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-27T18:41:44.000Z",
-     "points": null,
-     "summary": "Tool: Bluesky reply bot checker Automated reply bots on Twitter are a scourge - as someone with a decent number of followers I attract a swarm…"
     }
    ]
   }
