@@ -12,6 +12,18 @@
   "hadPrimary": true,
   "category": "models"
  },
+ "quoting-matthew-green": {
+  "id": "quoting-matthew-green",
+  "title": "Quoting Matthew Green",
+  "firstSeen": "2026-10-01T08:41:42.393Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "openai-openai-clone-could-help": {
   "id": "openai-openai-clone-could-help",
   "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
@@ -36,6 +48,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "safety-started-safety-party-sweden": {
+  "id": "safety-started-safety-party-sweden",
+  "title": "We started an AI safety party in Sweden: here's how it went",
+  "firstSeen": "2026-10-01T08:41:42.393Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "launch-magnitude-self-optimizing": {
   "id": "launch-magnitude-self-optimizing",
   "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
@@ -48,12 +72,12 @@
   "hadPrimary": true,
   "category": "general"
  },
- "cs240-cheating-retrospective": {
-  "id": "cs240-cheating-retrospective",
-  "title": "CS240 AI Cheating Retrospective",
-  "firstSeen": "2026-09-30T22:55:57.743Z",
+ "pascal-wager": {
+  "id": "pascal-wager",
+  "title": "The AI Pascal’s Wager",
+  "firstSeen": "2026-10-01T08:41:42.393Z",
   "publishers": [
-   "turkeyland.net"
+   "ploum.net"
   ],
   "sourceCount": 1,
   "independentCount": 0,
@@ -84,19 +108,6 @@
   "hadPrimary": false,
   "category": "models"
  },
- "safety-trump-safety-accord-fancy": {
-  "id": "safety-trump-safety-accord-fancy",
-  "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-  "firstSeen": "2026-09-30T22:55:57.743Z",
-  "publishers": [
-   "Wired AI",
-   "LessWrong"
-  ],
-  "sourceCount": 2,
-  "independentCount": 2,
-  "hadPrimary": false,
-  "category": "general"
- },
  "openai-safety-funding-openai-delays-over-safety": {
   "id": "openai-safety-funding-openai-delays-over-safety",
   "title": "OpenAI delays IPO over AI safety concerns",
@@ -115,6 +126,30 @@
   "firstSeen": "2026-09-30T22:55:57.743Z",
   "publishers": [
    "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "evaluation-awareness-small-models": {
+  "id": "evaluation-awareness-small-models",
+  "title": "Evaluation Awareness in Small(ish) Models",
+  "firstSeen": "2026-10-01T08:41:42.393Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "research"
+ },
+ "takes-hundreds-samples-poison": {
+  "id": "takes-hundreds-samples-poison",
+  "title": "It takes hundreds of samples to poison a model, but only a few dozen to make it believe in it.",
+  "firstSeen": "2026-10-01T08:41:42.393Z",
+  "publishers": [
+   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -145,6 +180,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "safety-trump-safety-accord-fancy": {
+  "id": "safety-trump-safety-accord-fancy",
+  "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+  "firstSeen": "2026-09-30T22:55:57.743Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "trump-plan-combat-risks": {
   "id": "trump-plan-combat-risks",
   "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
@@ -166,18 +213,6 @@
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": false,
-  "category": "tools"
- },
- "show-lathoa-math-kids": {
-  "id": "show-lathoa-math-kids",
-  "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
-  "firstSeen": "2026-09-30T22:55:57.743Z",
-  "publishers": [
-   "lathoa.ai"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
   "hadPrimary": false,
   "category": "tools"
  },
@@ -313,18 +348,6 @@
   "hadPrimary": false,
   "category": "business"
  },
- "bild-hiring-founding-product": {
-  "id": "bild-hiring-founding-product",
-  "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-  "firstSeen": "2026-09-30T19:03:33.259Z",
-  "publishers": [
-   "ycombinator.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
  "siri-limit-data-access": {
   "id": "siri-limit-data-access",
   "title": "📱 Hey Siri, How Do I Limit AI Data Access? | EFFector 38.17",
@@ -445,30 +468,6 @@
   "hadPrimary": true,
   "category": "general"
  },
- "frontier-models-state-different": {
-  "id": "frontier-models-state-different",
-  "title": "Frontier models state different decision theory preferences depending on who's asking",
-  "firstSeen": "2026-09-30T19:03:33.259Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "default-chinese-falls-very": {
-  "id": "default-chinese-falls-very",
-  "title": "By default, Chinese AI falls very behind",
-  "firstSeen": "2026-09-30T19:03:33.259Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "trump-relies-giants-self": {
   "id": "trump-relies-giants-self",
   "title": "Trump relies on AI giants to self-police after ruling out China deal",
@@ -542,18 +541,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "openai-meta-ai-agents-openai-dots-always-agents": {
-  "id": "openai-meta-ai-agents-openai-dots-always-agents",
-  "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
-  "firstSeen": "2026-09-30T22:55:57.743Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "open-leaderboard-scalable-evaluation": {
   "id": "open-leaderboard-scalable-evaluation",
   "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
@@ -590,6 +577,18 @@
   "independentCount": 2,
   "hadPrimary": false,
   "category": "business"
+ },
+ "openai-meta-ai-agents-openai-dots-always-agents": {
+  "id": "openai-meta-ai-agents-openai-dots-always-agents",
+  "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+  "firstSeen": "2026-09-30T22:55:57.743Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
  },
  "anthropic-anthropic-says-discovered-crispr": {
   "id": "anthropic-anthropic-says-discovered-crispr",
@@ -1024,18 +1023,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "openai-lenfest-institute-grows-landmark": {
-  "id": "openai-lenfest-institute-grows-landmark",
-  "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-  "firstSeen": "2026-09-28T21:47:52.715Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
  "holo4-powering-generalist-computer": {
   "id": "holo4-powering-generalist-computer",
   "title": "Holo4: powering generalist computer-use agents",
@@ -1119,29 +1106,5 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "open-source-china-mulls-make-open": {
-  "id": "open-source-china-mulls-make-open",
-  "title": "As China mulls how to make open-weight AI less dangerous, report proposes 6-stage process",
-  "firstSeen": "2026-09-28T06:37:00.023Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "opensource"
- },
- "funding-robotics-xiaomi-backed-robotics-chip": {
-  "id": "funding-robotics-xiaomi-backed-robotics-chip",
-  "title": "Xiaomi-backed robotics chip designer clears hearing, eyes US$100m Hong Kong IPO: sources",
-  "firstSeen": "2026-09-28T06:37:00.023Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
  }
 }

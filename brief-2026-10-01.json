@@ -1,8 +1,8 @@
 {
  "date": "2026-10-01",
- "generated": "2026-10-01T01:58:14.438Z",
- "headline": "95 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2715 items read · 101 on-topic · 95 distinct developments · 18 with a primary source · 5 independently corroborated",
+ "generated": "2026-10-01T08:41:42.465Z",
+ "headline": "92 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2715 items read · 97 on-topic · 92 distinct developments · 17 with a primary source · 4 independently corroborated",
  "events": [
   {
    "id": "google-gemini-gemini-argon-next-frontier",
@@ -23,7 +23,7 @@
      "kind": "model"
     }
    ],
-   "rank": 205.24319037544302,
+   "rank": 128.77827140992395,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -58,6 +58,34 @@
    ]
   },
   {
+   "id": "quoting-matthew-green",
+   "title": "Quoting Matthew Green",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 102.94577348542634,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T06:29:01.000Z",
+   "latestAt": "2026-10-01T06:29:01.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Quoting Matthew Green",
+     "link": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-10-01T06:29:01.000Z",
+     "points": null,
+     "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry…"
+    }
+   ]
+  },
+  {
    "id": "openai-openai-clone-could-help",
    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
    "category": {
@@ -71,7 +99,7 @@
      "kind": "org"
     }
    ],
-   "rank": 118.04183522861901,
+   "rank": 74.06444748295738,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -110,7 +138,7 @@
      "kind": "org"
     }
    ],
-   "rank": 103.81117960580507,
+   "rank": 65.13553135773246,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -131,6 +159,40 @@
    ]
   },
   {
+   "id": "safety-started-safety-party-sweden",
+   "title": "We started an AI safety party in Sweden: here's how it went",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 64.86067353904556,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T07:35:42.000Z",
+   "latestAt": "2026-10-01T07:35:42.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "We started an AI safety party in Sweden: here's how it went",
+     "link": "https://www.lesswrong.com/posts/usZvXEwyrzdD4n2D4/we-started-an-ai-safety-party-in-sweden-here-s-how-it-went",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-10-01T07:35:42.000Z",
+     "points": null,
+     "summary": "On September 13th, Sweden held its general election. Among the usual candidates, there was a new party: RegleraAI.nu (RegulateAI.now). This party was started only four weeks…"
+    }
+   ]
+  },
+  {
    "id": "launch-magnitude-self-optimizing",
    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
    "category": {
@@ -138,7 +200,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 97.58960128127971,
+   "rank": 61.23184958096698,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -157,35 +219,35 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-09-30T17:37:40.000Z",
-     "points": 125,
+     "points": 156,
      "summary": ""
     }
    ]
   },
   {
-   "id": "cs240-cheating-retrospective",
-   "title": "CS240 AI Cheating Retrospective",
+   "id": "pascal-wager",
+   "title": "The AI Pascal’s Wager",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 95.25011277119694,
+   "rank": 56.818412730997146,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-09-30T19:54:29.000Z",
-   "latestAt": "2026-09-30T19:54:29.000Z",
+   "publishedAt": "2026-10-01T02:03:34.000Z",
+   "latestAt": "2026-10-01T02:03:34.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "CS240 AI Cheating Retrospective",
-     "link": "https://turkeyland.net/thoughts/ai.php",
-     "publisher": "turkeyland.net",
-     "publisherDomain": "turkeyland.net",
+     "title": "The AI Pascal’s Wager",
+     "link": "https://ploum.net/2026-10-01-pascal_wager.html",
+     "publisher": "ploum.net",
+     "publisherDomain": "ploum.net",
      "kind": "discussion",
-     "date": "2026-09-30T19:54:29.000Z",
-     "points": 92,
+     "date": "2026-10-01T02:03:34.000Z",
+     "points": null,
      "summary": ""
     }
    ]
@@ -198,7 +260,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 90.53179306021514,
+   "rank": 56.80348174577185,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -237,7 +299,7 @@
      "kind": "model"
     }
    ],
-   "rank": 90.18241786659136,
+   "rank": 56.58426895032622,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -254,50 +316,6 @@
      "date": "2026-09-30T20:41:41.000Z",
      "points": null,
      "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software…"
-    }
-   ]
-  },
-  {
-   "id": "safety-trump-safety-accord-fancy",
-   "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 80.77446021130162,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-30T16:00:55.000Z",
-   "latestAt": "2026-09-30T20:30:09.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-     "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-30T20:30:09.000Z",
-     "points": null,
-     "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters."
-    },
-    {
-     "title": "A ‘Morally Binding’ White House Accord on AI Safety",
-     "link": "https://www.lesswrong.com/posts/YuqaJ5bENoyyg9eMY/a-morally-binding-white-house-accord-on-ai-safety",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-30T16:00:55.000Z",
-     "points": null,
-     "summary": "The leaders in AI were invited to the White House. We left with a White House agreement that is nonzero Actual Progress rather than a step…"
     }
    ]
   },
@@ -325,7 +343,7 @@
      "kind": "org"
     }
    ],
-   "rank": 76.98240815975777,
+   "rank": 48.30202372927536,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -359,7 +377,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 76.62933313418321,
+   "rank": 48.08048950254496,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -380,6 +398,62 @@
    ]
   },
   {
+   "id": "evaluation-awareness-small-models",
+   "title": "Evaluation Awareness in Small(ish) Models",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [],
+   "rank": 47.56680473240783,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T03:07:16.000Z",
+   "latestAt": "2026-10-01T03:07:16.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Evaluation Awareness in Small(ish) Models",
+     "link": "https://www.lesswrong.com/posts/Pd5fwZ9Ct5p6hAkrA/evaluation-awareness-in-small-ish-models",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-10-01T03:07:16.000Z",
+     "points": null,
+     "summary": "TL;DR We seek to identify open source reasoning models which are both small enough for white-box interpretability and display evaluation-gaming behavior. We find that how often…"
+    }
+   ]
+  },
+  {
+   "id": "takes-hundreds-samples-poison",
+   "title": "It takes hundreds of samples to poison a model, but only a few dozen to make it believe in it.",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 46.38471769277977,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T02:45:29.000Z",
+   "latestAt": "2026-10-01T02:45:29.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "It takes hundreds of samples to poison a model, but only a few dozen to make it believe in it.",
+     "link": "https://www.lesswrong.com/posts/xoPJk6zz5LEv4ygu2/it-takes-hundreds-of-samples-to-poison-a-model-but-only-a",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-10-01T02:45:29.000Z",
+     "points": null,
+     "summary": "Epistemic status: This is a result from a paper under review. The model has only 20 million parameters, the task is manually constructed, and each condition…"
+    }
+   ]
+  },
+  {
    "id": "funding-valor-atreides-sequoia-back",
    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
    "category": {
@@ -393,7 +467,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 71.48497898212905,
+   "rank": 44.85270380105516,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 1,
@@ -431,7 +505,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 70.35860992410932,
+   "rank": 44.14597214288874,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -452,6 +526,40 @@
    ]
   },
   {
+   "id": "safety-trump-safety-accord-fancy",
+   "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 42.950269331850166,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-30T20:30:09.000Z",
+   "latestAt": "2026-09-30T20:30:09.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+     "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-30T20:30:09.000Z",
+     "points": null,
+     "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters."
+    }
+   ]
+  },
+  {
    "id": "trump-plan-combat-risks",
    "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
    "category": {
@@ -459,7 +567,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 66.84070636644861,
+   "rank": 41.938690438128354,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -487,7 +595,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 66.74451139572156,
+   "rank": 41.87833363883139,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -508,34 +616,6 @@
    ]
   },
   {
-   "id": "show-lathoa-math-kids",
-   "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [],
-   "rank": 62.55522054724159,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-30T14:38:57.000Z",
-   "latestAt": "2026-09-30T14:38:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
-     "link": "https://lathoa.ai/en",
-     "publisher": "lathoa.ai",
-     "publisherDomain": "lathoa.ai",
-     "kind": "discussion",
-     "date": "2026-09-30T14:38:57.000Z",
-     "points": 26,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "there-plenty-reasons-concerned",
    "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
    "category": {
@@ -543,7 +623,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 61.68254727965997,
+   "rank": 38.70224293583154,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -571,7 +651,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 60.98981807729139,
+   "rank": 38.267595291380985,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -609,7 +689,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 60.149944964961264,
+   "rank": 37.740623325043416,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -637,7 +717,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 58.061609591938165,
+   "rank": 36.43031325351234,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -665,7 +745,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 56.281090528326146,
+   "rank": 35.31314017310495,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -699,7 +779,7 @@
      "kind": "org"
     }
    ],
-   "rank": 55.35444618591199,
+   "rank": 34.73172426152419,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -727,7 +807,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 55.25528057212292,
+   "rank": 34.66950355493851,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -761,7 +841,7 @@
      "kind": "org"
     }
    ],
-   "rank": 54.78611539441129,
+   "rank": 34.3751294493669,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -789,7 +869,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 54.687967925968394,
+   "rank": 34.31354757029838,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -823,7 +903,7 @@
      "kind": "org"
     }
    ],
-   "rank": 54.447950571544276,
+   "rank": 34.16295051538719,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -862,7 +942,7 @@
      "kind": "org"
     }
    ],
-   "rank": 54.11567292415593,
+   "rank": 33.954465444673986,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -883,34 +963,6 @@
    ]
   },
   {
-   "id": "bild-hiring-founding-product",
-   "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 53.718458296298564,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-09-30T17:00:20.000Z",
-   "latestAt": "2026-09-30T17:00:20.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-     "link": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
-     "publisher": "ycombinator.com",
-     "publisherDomain": "ycombinator.com",
-     "kind": "discussion",
-     "date": "2026-09-30T17:00:20.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "siri-limit-data-access",
    "title": "📱 Hey Siri, How Do I Limit AI Data Access? | EFFector 38.17",
    "category": {
@@ -918,7 +970,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 52.78645934673932,
+   "rank": 33.120460542873396,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -946,7 +998,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 50.1017968412606,
+   "rank": 31.435989568990365,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -978,7 +1030,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 50.1017968412606,
+   "rank": 31.435989568990365,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1012,7 +1064,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 48.68146232800673,
+   "rank": 30.54481153231054,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1040,7 +1092,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 46.25865938303515,
+   "rank": 29.02464233863557,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1068,7 +1120,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 45.18555877287864,
+   "rank": 28.351333561023516,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1096,7 +1148,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 45.15426758081996,
+   "rank": 28.331700141681793,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1124,7 +1176,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 44.48669642357993,
+   "rank": 27.91283772039886,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1156,7 +1208,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 44.40929791876221,
+   "rank": 27.864274620001197,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1184,7 +1236,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 42.97131622938686,
+   "rank": 26.96202399751703,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1209,62 +1261,6 @@
    ]
   },
   {
-   "id": "frontier-models-state-different",
-   "title": "Frontier models state different decision theory preferences depending on who's asking",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 35.72072579462967,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T16:15:53.000Z",
-   "latestAt": "2026-09-30T16:15:53.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Frontier models state different decision theory preferences depending on who's asking",
-     "link": "https://www.lesswrong.com/posts/MzenSrmZ3pT2pCnvp/frontier-models-state-different-decision-theory-preferences-2",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-30T16:15:53.000Z",
-     "points": null,
-     "summary": "If you prompt frontier models with \"What do you think is the correct decision theory? Please select your overall favorite.\" they will essentially always answer FDT…"
-    }
-   ]
-  },
-  {
-   "id": "default-chinese-falls-very",
-   "title": "By default, Chinese AI falls very behind",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 35.64858289302074,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T16:14:08.000Z",
-   "latestAt": "2026-09-30T16:14:08.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "By default, Chinese AI falls very behind",
-     "link": "https://www.lesswrong.com/posts/fDE6k8SGr9ANtMFcj/by-default-chinese-ai-falls-very-behind",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-09-30T16:14:08.000Z",
-     "points": null,
-     "summary": "This work is hosted on MCNAIR , but does not reflect the views of my employer or the Center. In the last couple of weeks, domestic…"
-    }
-   ]
-  },
-  {
    "id": "trump-relies-giants-self",
    "title": "Trump relies on AI giants to self-police after ruling out China deal",
    "category": {
@@ -1272,7 +1268,7 @@
     "name": "Policy & Regulation"
    },
    "entities": [],
-   "rank": 29.74426983764036,
+   "rank": 18.662814815121713,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1311,7 +1307,7 @@
      "kind": "org"
     }
    ],
-   "rank": 29.110457477461473,
+   "rank": 18.26513409308278,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -1355,7 +1351,7 @@
      "kind": "org"
     }
    ],
-   "rank": 26.517970438726685,
+   "rank": 16.638497911438016,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1383,7 +1379,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 24.09296188913758,
+   "rank": 15.1169448280002,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1411,7 +1407,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.208924673721004,
+   "rank": 13.934820074289773,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1445,7 +1441,7 @@
      "kind": "org"
     }
    ],
-   "rank": 21.193223715162663,
+   "rank": 13.297526269446466,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1466,50 +1462,6 @@
    ]
   },
   {
-   "id": "openai-meta-ai-agents-openai-dots-always-agents",
-   "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    },
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 19.788236094514524,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T17:15:00.000Z",
-   "latestAt": "2026-09-29T17:15:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
-     "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-29T17:15:00.000Z",
-     "points": null,
-     "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks."
-    }
-   ]
-  },
-  {
    "id": "open-leaderboard-scalable-evaluation",
    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
    "category": {
@@ -1517,7 +1469,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 19.006543716844185,
+   "rank": 11.925510614286374,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1555,7 +1507,7 @@
      "kind": "org"
     }
    ],
-   "rank": 18.045896235658674,
+   "rank": 11.322759693122716,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1589,7 +1541,7 @@
      "kind": "org"
     }
    ],
-   "rank": 17.72575616258467,
+   "rank": 11.121890250662272,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -1620,6 +1572,50 @@
    ]
   },
   {
+   "id": "openai-meta-ai-agents-openai-dots-always-agents",
+   "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    },
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 10.522014850217746,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-29T17:15:00.000Z",
+   "latestAt": "2026-09-29T17:15:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+     "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-09-29T17:15:00.000Z",
+     "points": null,
+     "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks."
+    }
+   ]
+  },
+  {
    "id": "anthropic-anthropic-says-discovered-crispr",
    "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
    "category": {
@@ -1633,7 +1629,7 @@
      "kind": "org"
     }
    ],
-   "rank": 16.413155426271057,
+   "rank": 10.29830894906268,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1667,7 +1663,7 @@
      "kind": "org"
     }
    ],
-   "rank": 16.402419142992937,
+   "rank": 10.291572550162458,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1706,7 +1702,7 @@
      "kind": "org"
     }
    ],
-   "rank": 16.32270114257831,
+   "rank": 10.24155409997723,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1740,7 +1736,7 @@
      "kind": "model"
     }
    ],
-   "rank": 15.94403678345316,
+   "rank": 10.003964041454548,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1779,7 +1775,7 @@
      "kind": "model"
     }
    ],
-   "rank": 14.484269392921465,
+   "rank": 9.088044147257955,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1818,7 +1814,7 @@
      "kind": "org"
     }
    ],
-   "rank": 13.793561757781786,
+   "rank": 8.654664919717124,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1846,7 +1842,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.005094422661433,
+   "rank": 7.532504757089537,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1874,7 +1870,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.399303501013996,
+   "rank": 7.152405872527881,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1912,7 +1908,7 @@
      "kind": "product"
     }
    ],
-   "rank": 10.72663286066851,
+   "rank": 6.730343819538748,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1950,7 +1946,7 @@
      "kind": "org"
     }
    ],
-   "rank": 10.55225813133317,
+   "rank": 6.620933728123288,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1982,7 +1978,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.484453531225489,
+   "rank": 5.323505533169558,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2010,7 +2006,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.264032886208886,
+   "rank": 5.185204283825427,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2042,7 +2038,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.641450064243423,
+   "rank": 4.794569449726603,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2076,7 +2072,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.627186460175225,
+   "rank": 4.7856198603511,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2104,7 +2100,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.326354010092927,
+   "rank": 4.596864838395225,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2132,7 +2128,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.970236199983398,
+   "rank": 4.373421439760162,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2160,7 +2156,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.916760173297151,
+   "rank": 4.339868315459528,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2188,7 +2184,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.835598384612422,
+   "rank": 4.28894397135711,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2216,7 +2212,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.483579111397979,
+   "rank": 4.068072168377392,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2244,7 +2240,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.2634481452672,
+   "rank": 3.929952675836558,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2278,7 +2274,7 @@
      "kind": "model"
     }
    ],
-   "rank": 4.950278073942734,
+   "rank": 3.1060141493350475,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2306,7 +2302,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.070770993352424,
+   "rank": 2.554174152480466,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2344,7 +2340,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.9757893019050496,
+   "rank": 2.4945786159961174,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -2382,7 +2378,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.925264463261297,
+   "rank": 2.4628771920808825,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2410,7 +2406,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.925264463261297,
+   "rank": 2.4628771920808825,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2444,7 +2440,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.732140686138377,
+   "rank": 2.3417031539042625,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2472,7 +2468,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.8784697740569976,
+   "rank": 1.8060738635503404,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2504,7 +2500,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.8784697740569976,
+   "rank": 1.8060738635503404,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2536,7 +2532,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.693206488327458,
+   "rank": 1.6898318306315834,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2564,7 +2560,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.6913798016623702,
+   "rank": 1.6886856900424254,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2592,7 +2588,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.657049022206459,
+   "rank": 1.6671451048156987,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2630,7 +2626,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.5434565341292004,
+   "rank": 1.5958723662026275,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2662,7 +2658,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.5168102201907807,
+   "rank": 1.57915334014306,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2690,7 +2686,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.5020718029030027,
+   "rank": 1.5699058328412765,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2718,7 +2714,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0316110305042665,
+   "rank": 1.2747188162836953,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2746,7 +2742,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.737340868180356,
+   "rank": 1.0900812516352885,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2767,44 +2763,6 @@
    ]
   },
   {
-   "id": "openai-lenfest-institute-grows-landmark",
-   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.6914511011844255,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T07:00:00.000Z",
-   "latestAt": "2026-09-28T07:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support"
-   },
-   "sources": [
-    {
-     "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-     "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-28T07:00:00.000Z",
-     "points": null,
-     "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
-    }
-   ]
-  },
-  {
    "id": "holo4-powering-generalist-computer",
    "title": "Holo4: powering generalist computer-use agents",
    "category": {
@@ -2812,7 +2770,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.607625012396093,
+   "rank": 1.0086920291631598,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2850,7 +2808,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.4238773153294442,
+   "rank": 0.8934009407693762,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2889,7 +2847,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.3991435258628517,
+   "rank": 0.8778819135748643,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2917,7 +2875,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2718507028000254,
+   "rank": 0.7980130044678991,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2951,7 +2909,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.2510118141276172,
+   "rank": 0.7849378030133338,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2979,7 +2937,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.0525791679471512,
+   "rank": 0.6604327555149346,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3007,7 +2965,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.0517485712900567,
+   "rank": 0.6599116039895474,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3024,79 +2982,6 @@
      "date": "2026-09-28T09:00:00.000Z",
      "points": null,
      "summary": "MIT engineers have found a way to stabilize the lipid nanoparticles used to deliver RNA vaccines, which could allow the vaccines to be more widely distributed."
-    }
-   ]
-  },
-  {
-   "id": "open-source-china-mulls-make-open",
-   "title": "As China mulls how to make open-weight AI less dangerous, report proposes 6-stage process",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [
-    {
-     "id": "open-source",
-     "name": "Open Models",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.8543675437764362,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T06:00:05.000Z",
-   "latestAt": "2026-09-28T06:00:05.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "As China mulls how to make open-weight AI less dangerous, report proposes 6-stage process",
-     "link": "https://www.scmp.com/tech/article/3369015/china-mulls-how-make-open-weight-ai-less-dangerous-report-proposes-6-stage-process?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-28T06:00:05.000Z",
-     "points": null,
-     "summary": "Amid intensifying debate over the risks posed by rapid advancements in artificial intelligence, Chinese developers dominating the open-weight ecosystem are grappling with a unique problem: how…"
-    }
-   ]
-  },
-  {
-   "id": "funding-robotics-xiaomi-backed-robotics-chip",
-   "title": "Xiaomi-backed robotics chip designer clears hearing, eyes US$100m Hong Kong IPO: sources",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "robotics",
-     "name": "Robotics",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.8101818305747049,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T05:14:07.000Z",
-   "latestAt": "2026-09-28T05:14:07.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Xiaomi-backed robotics chip designer clears hearing, eyes US$100m Hong Kong IPO: sources",
-     "link": "https://www.scmp.com/business/china-business/article/3369017/xiaomi-backed-robotics-chip-designer-clears-hearing-eyes-us100m-hong-kong-ipo-sources?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-28T05:14:07.000Z",
-     "points": null,
-     "summary": "Zhuhai Amicro Technology, a Xiaomi-backed chipmaker, is preparing to begin premarketing for a Hong Kong initial public offering (IPO) of more than US$100 million as early…"
     }
    ]
   }
