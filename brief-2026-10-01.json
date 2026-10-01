@@ -1,55 +1,142 @@
 {
  "date": "2026-10-01",
- "generated": "2026-10-01T16:15:56.824Z",
- "headline": "93 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2716 items read · 97 on-topic · 93 distinct developments · 16 with a primary source · 3 independently corroborated",
+ "generated": "2026-10-01T21:43:52.153Z",
+ "headline": "86 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2719 items read · 89 on-topic · 86 distinct developments · 16 with a primary source · 3 independently corroborated",
  "events": [
   {
-   "id": "ftc-anthropic-openai-investigating-openai-anthropic-other",
-   "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+   "id": "google-search-judge-dismisses-chegg-penske",
+   "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
    "category": {
     "id": "policy",
     "name": "Policy & Regulation"
    },
    "entities": [
     {
-     "id": "ftc",
-     "name": "FTC",
-     "kind": "org"
+     "id": "search",
+     "name": "AI Search",
+     "kind": "topic"
     },
     {
-     "id": "anthropic",
-     "name": "Anthropic",
+     "id": "google",
+     "name": "Google",
      "kind": "org"
-    },
+    }
+   ],
+   "rank": 140.06267161122696,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T20:11:55.000Z",
+   "latestAt": "2026-10-01T20:11:55.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+     "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-10-01T20:11:55.000Z",
+     "points": null,
+     "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue."
+    }
+   ]
+  },
+  {
+   "id": "openai-safety-funding-openai-cuts-ties-with",
+   "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [
     {
      "id": "openai",
      "name": "OpenAI",
      "kind": "org"
+    },
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    },
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
     }
    ],
-   "rank": 234.39243870965757,
+   "rank": 125.10443009829095,
    "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-01T13:00:55.000Z",
-   "latestAt": "2026-10-01T13:00:55.000Z",
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-09-30T14:06:15.000Z",
+   "latestAt": "2026-10-01T18:14:42.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-     "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-     "publisher": "cnbc.com",
-     "publisherDomain": "cnbc.com",
-     "kind": "discussion",
-     "date": "2026-10-01T13:00:55.000Z",
-     "points": 116,
+     "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+     "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-10-01T18:14:42.000Z",
+     "points": null,
+     "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says."
+    },
+    {
+     "title": "OpenAI delays IPO over AI safety concerns",
+     "link": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-30T14:06:15.000Z",
+     "points": null,
+     "summary": "OpenAI is seeking another $30 billion privately as its IPO plans slip."
+    }
+   ]
+  },
+  {
+   "id": "nvidia-show-janus-binary-that",
+   "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 123.2251975597571,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T20:36:47.000Z",
+   "latestAt": "2026-10-01T20:36:47.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/Vibra-Ingenn/Janus",
+    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia"
+   },
+   "sources": [
+    {
+     "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+     "link": "https://github.com/Vibra-Ingenn/Janus",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-10-01T20:36:47.000Z",
+     "points": 18,
      "summary": ""
     }
    ]
   },
   {
-   "id": "openai-meta-ai-agents-openai-agent-shot-meta",
+   "id": "openai-meta-ai-openai-agent-shot-meta",
    "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
    "category": {
     "id": "general",
@@ -65,18 +152,13 @@
      "id": "meta-ai",
      "name": "Meta AI",
      "kind": "org"
-    },
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
     }
    ],
-   "rank": 170.4788783316074,
+   "rank": 116.72035471086708,
    "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-29T17:15:00.000Z",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T14:36:50.000Z",
    "latestAt": "2026-10-01T14:36:50.000Z",
    "primary": null,
    "sources": [
@@ -89,22 +171,12 @@
      "date": "2026-10-01T14:36:50.000Z",
      "points": null,
      "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has…"
-    },
-    {
-     "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
-     "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-29T17:15:00.000Z",
-     "points": null,
-     "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks."
     }
    ]
   },
   {
-   "id": "agents-openid-foundation-identity-management",
-   "title": "OpenID Foundation: Identity Management for Agentic AI [pdf] (2025)",
+   "id": "agents-identity-management-agentic-2025",
+   "title": "Identity Management for Agentic AI [pdf] (2025)",
    "category": {
     "id": "general",
     "name": "Other"
@@ -116,7 +188,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 151.19363250112397,
+   "rank": 110.54126505990475,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -125,13 +197,197 @@
    "primary": null,
    "sources": [
     {
-     "title": "OpenID Foundation: Identity Management for Agentic AI [pdf] (2025)",
+     "title": "Identity Management for Agentic AI [pdf] (2025)",
      "link": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
      "publisher": "openid.net",
      "publisherDomain": "openid.net",
      "kind": "discussion",
      "date": "2026-10-01T15:11:10.000Z",
-     "points": 23,
+     "points": 64,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "agents-trump-morally-binding-accord",
+   "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 106.2489655219878,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T19:58:31.000Z",
+   "latestAt": "2026-10-01T19:58:31.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+     "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-10-01T19:58:31.000Z",
+     "points": null,
+     "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in…"
+    }
+   ]
+  },
+  {
+   "id": "clef-open-source-decision",
+   "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+   "category": {
+    "id": "opensource",
+    "name": "Open Source"
+   },
+   "entities": [],
+   "rank": 99.62107227347418,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-10-01T16:18:57.000Z",
+   "latestAt": "2026-10-01T16:18:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+     "link": "https://blog.cloudflare.com/clef-decision-models/",
+     "publisher": "blog.cloudflare.com",
+     "publisherDomain": "blog.cloudflare.com",
+     "kind": "discussion",
+     "date": "2026-10-01T16:18:57.000Z",
+     "points": 350,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "grok-musk-chatbot-grok-reportedly",
+   "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "grok",
+     "name": "Grok",
+     "kind": "model"
+    }
+   ],
+   "rank": 95.96135938152041,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T21:08:11.000Z",
+   "latestAt": "2026-10-01T21:08:11.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+     "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-10-01T21:08:11.000Z",
+     "points": null,
+     "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
+    }
+   ]
+  },
+  {
+   "id": "eternal-complement",
+   "title": "The eternal complement",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 93.65307270428433,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T17:00:00.000Z",
+   "latestAt": "2026-10-01T17:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/the-eternal-complement",
+    "title": "The eternal complement"
+   },
+   "sources": [
+    {
+     "title": "The eternal complement",
+     "link": "https://openai.com/index/the-eternal-complement",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-10-01T17:00:00.000Z",
+     "points": null,
+     "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
+    }
+   ]
+  },
+  {
+   "id": "with-most-information-hidden",
+   "title": "With most information hidden, the game Stratego had stumped AI—until now",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 90.12222092986482,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T16:28:04.000Z",
+   "latestAt": "2026-10-01T16:28:04.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "With most information hidden, the game Stratego had stumped AI—until now",
+     "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-10-01T16:28:04.000Z",
+     "points": null,
+     "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key."
+    }
+   ]
+  },
+  {
+   "id": "polyedergarten-garden-paper-polyhedron",
+   "title": "Polyedergarten: Garden of Paper Polyhedron Models",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [],
+   "rank": 89.5705650761925,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-10-01T15:02:51.000Z",
+   "latestAt": "2026-10-01T15:02:51.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Polyedergarten: Garden of Paper Polyhedron Models",
+     "link": "https://www.polyedergarten.de/e_index.htm",
+     "publisher": "polyedergarten.de",
+     "publisherDomain": "polyedergarten.de",
+     "kind": "discussion",
+     "date": "2026-10-01T15:02:51.000Z",
+     "points": 42,
      "summary": ""
     }
    ]
@@ -150,7 +406,7 @@
      "kind": "model"
     }
    ],
-   "rank": 143.52462016724175,
+   "rank": 87.98217613967459,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -171,6 +427,134 @@
    ]
   },
   {
+   "id": "albertsons-companies-reimagining-retail",
+   "title": "How Albertsons Companies is reimagining retail from the inside out",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 87.38140659189251,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T16:00:00.000Z",
+   "latestAt": "2026-10-01T16:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/albertsons-reimagining-retail",
+    "title": "How Albertsons Companies is reimagining retail from the inside out"
+   },
+   "sources": [
+    {
+     "title": "How Albertsons Companies is reimagining retail from the inside out",
+     "link": "https://openai.com/index/albertsons-reimagining-retail",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-10-01T16:00:00.000Z",
+     "points": null,
+     "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
+    }
+   ]
+  },
+  {
+   "id": "gpt-chatgpt-virtually-clothes",
+   "title": "ChatGPT can now virtually try on clothes for you",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 84.8718972499201,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T19:21:53.000Z",
+   "latestAt": "2026-10-01T19:21:53.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "ChatGPT can now virtually try on clothes for you",
+     "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-10-01T19:21:53.000Z",
+     "points": null,
+     "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they…"
+    }
+   ]
+  },
+  {
+   "id": "amazon-amazon-releases-clone-decision",
+   "title": "Amazon releases its own Jev clone as decision models flood the web",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "amazon",
+     "name": "Amazon",
+     "kind": "org"
+    }
+   ],
+   "rank": 81.83547328961625,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T16:49:22.000Z",
+   "latestAt": "2026-10-01T16:49:22.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Amazon releases its own Jev clone as decision models flood the web",
+     "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-10-01T16:49:22.000Z",
+     "points": null,
+     "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B."
+    }
+   ]
+  },
+  {
+   "id": "opus-loves-tell-this",
+   "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 76.3525222986705,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T17:50:19.000Z",
+   "latestAt": "2026-10-01T17:50:19.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+     "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-10-01T17:50:19.000Z",
+     "points": null,
+     "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples."
+    }
+   ]
+  },
+  {
    "id": "agents-brian-chesky-interview-agents",
    "title": "Brian Chesky interview: AI agents need their own operating system",
    "category": {
@@ -184,7 +568,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 111.4547304789562,
+   "rank": 76.30878266575228,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -205,96 +589,6 @@
    ]
   },
   {
-   "id": "polyedergarten-garden-paper-polyhedron",
-   "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [],
-   "rank": 119.92619631446338,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-01T15:02:51.000Z",
-   "latestAt": "2026-10-01T15:02:51.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-     "link": "https://www.polyedergarten.de/e_index.htm",
-     "publisher": "polyedergarten.de",
-     "publisherDomain": "polyedergarten.de",
-     "kind": "discussion",
-     "date": "2026-10-01T15:02:51.000Z",
-     "points": 14,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "meta-ai-meta-uses-data-centers",
-   "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 116.41091573711293,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-01T13:05:51.000Z",
-   "latestAt": "2026-10-01T13:05:51.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-     "link": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
-     "publisher": "The New York Times",
-     "publisherDomain": "nytimes.com",
-     "kind": "discussion",
-     "date": "2026-10-01T13:05:51.000Z",
-     "points": 186,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "sovereign-wealth-fund-progressive",
-   "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 115.76495403837899,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-01T13:01:02.000Z",
-   "latestAt": "2026-10-01T13:01:02.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-     "link": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
-     "publisher": "Financial Times",
-     "publisherDomain": "ft.com",
-     "kind": "discussion",
-     "date": "2026-10-01T13:01:02.000Z",
-     "points": 61,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "introducing-olmo-core-open",
    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
    "category": {
@@ -302,7 +596,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 105.54940285895343,
+   "rank": 72.26563115492485,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -327,6 +621,62 @@
    ]
   },
   {
+   "id": "sony-brings-graphics-upscaling",
+   "title": "Sony brings AI graphics upscaling to the regular PS5",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 71.51428119396157,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T16:53:39.000Z",
+   "latestAt": "2026-10-01T16:53:39.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Sony brings AI graphics upscaling to the regular PS5",
+     "link": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-10-01T16:53:39.000Z",
+     "points": null,
+     "summary": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a \"new performance…"
+    }
+   ]
+  },
+  {
+   "id": "shopify-debuts-canvas-build",
+   "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 70.7691338218434,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T16:44:35.000Z",
+   "latestAt": "2026-10-01T16:44:35.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+     "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-10-01T16:44:35.000Z",
+     "points": null,
+     "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in…"
+    }
+   ]
+  },
+  {
    "id": "photon-held-funeral-mobile",
    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
    "category": {
@@ -334,7 +684,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 102.55926659045937,
+   "rank": 70.21839944324279,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -373,7 +723,7 @@
      "kind": "product"
     }
    ],
-   "rank": 98.17471735180254,
+   "rank": 67.21646660914809,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -394,40 +744,6 @@
    ]
   },
   {
-   "id": "gpt-synopsys-frontier-intelligence-revolutionize",
-   "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 96.29123220985389,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-01T10:21:36.000Z",
-   "latestAt": "2026-10-01T10:21:36.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-     "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-     "publisher": "news.synopsys.com",
-     "publisherDomain": "news.synopsys.com",
-     "kind": "discussion",
-     "date": "2026-10-01T10:21:36.000Z",
-     "points": 116,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "outis-fight-spam-generating",
    "title": "outis: Fight AI spam by generating and sending a fake \"user unknown\" bounce emails",
    "category": {
@@ -435,7 +751,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 87.75029657821972,
+   "rank": 60.07926520182084,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -460,40 +776,6 @@
    ]
   },
   {
-   "id": "infrastructure-inside-months-long-investigation",
-   "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "infrastructure",
-     "name": "AI Infrastructure",
-     "kind": "topic"
-    }
-   ],
-   "rank": 85.46605549204948,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-01T14:00:00.000Z",
-   "latestAt": "2026-10-01T14:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-     "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-10-01T14:00:00.000Z",
-     "points": null,
-     "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah…"
-    }
-   ]
-  },
-  {
    "id": "sandboxing-sufficient-contain-rogue",
    "title": "Is sandboxing sufficient to contain rogue agents?",
    "category": {
@@ -501,7 +783,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 81.93422356061733,
+   "rank": 56.097222896741975,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -529,7 +811,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 79.74264943059771,
+   "rank": 54.59673607787943,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -557,7 +839,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 79.74264943059771,
+   "rank": 54.59673607787943,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -585,7 +867,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 79.03039034385878,
+   "rank": 54.10907957718088,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -624,7 +906,7 @@
      "kind": "org"
     }
    ],
-   "rank": 74.40252275130148,
+   "rank": 50.94055599088938,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -645,40 +927,6 @@
    ]
   },
   {
-   "id": "benchmarks-honeybench-benchmark-reward-hacking",
-   "title": "HoneyBench - A benchmark for reward hacking in frontier models",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [
-    {
-     "id": "benchmarks",
-     "name": "Benchmarks",
-     "kind": "topic"
-    }
-   ],
-   "rank": 74.31176059795983,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-01T14:29:52.000Z",
-   "latestAt": "2026-10-01T14:29:52.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "HoneyBench - A benchmark for reward hacking in frontier models",
-     "link": "https://www.lesswrong.com/posts/qLFMj72gScBeRjwGW/honeybench-a-benchmark-for-reward-hacking-in-frontier-models",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-10-01T14:29:52.000Z",
-     "points": null,
-     "summary": "We've just released the first version of HoneyBench. It consists of nine 'honeypot' challenges that each elicit unique and antisocial examples of reward hacking from some…"
-    }
-   ]
-  },
-  {
    "id": "reducing-cognitive-load-changes",
    "title": "Reducing the cognitive load of AI changes",
    "category": {
@@ -686,7 +934,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 71.54625355286448,
+   "rank": 48.984977931871384,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -714,7 +962,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 70.60355695433084,
+   "rank": 48.33954969793178,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -735,36 +983,36 @@
    ]
   },
   {
-   "id": "agents-many-agents-running-unattended",
-   "title": "How many AI agents are running unattended right now?",
+   "id": "safety-endogenous-alignment-requires-dependence",
+   "title": "Endogenous Alignment Requires Dependence",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [
     {
-     "id": "agents",
-     "name": "AI Agents",
+     "id": "safety",
+     "name": "AI Safety",
      "kind": "topic"
     }
    ],
-   "rank": 70.56086896185204,
+   "rank": 48.20325005768724,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-10-01T13:45:02.000Z",
-   "latestAt": "2026-10-01T13:45:02.000Z",
+   "publishedAt": "2026-10-01T16:20:56.000Z",
+   "latestAt": "2026-10-01T16:20:56.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "How many AI agents are running unattended right now?",
-     "link": "https://www.lesswrong.com/posts/aG4x74utw8pEJ5MZB/how-many-ai-agents-are-running-unattended-right-now-1",
+     "title": "Endogenous Alignment Requires Dependence",
+     "link": "https://www.lesswrong.com/posts/rp4sB5a6HaPpfD4rA/endogenous-alignment-requires-dependence",
      "publisher": "LessWrong",
      "publisherDomain": "lesswrong.com",
      "kind": "coverage",
-     "date": "2026-10-01T13:45:02.000Z",
+     "date": "2026-10-01T16:20:56.000Z",
      "points": null,
-     "summary": "There are 8 billion human minds running in the world right now. Recently a new digital species has emerged. How many digital minds are there alive…"
+     "summary": "My post on endogenous alignment got several excellent comments. Among them, one from Karl Krueger argued that imitation learning is more important for how humans align…"
     }
    ]
   },
@@ -776,7 +1024,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 60.912868967351585,
+   "rank": 41.704707010661195,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -797,64 +1045,40 @@
    ]
   },
   {
-   "id": "introducing-commons-problem-governance",
-   "title": "Introducing \"The Commons Problem\" - an AI Governance Megagame",
+   "id": "gpt-frees-hours-week-grow",
+   "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
    "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 60.47013546637013,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-01T14:09:16.000Z",
-   "latestAt": "2026-10-01T14:09:16.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Introducing \"The Commons Problem\" - an AI Governance Megagame",
-     "link": "https://www.lesswrong.com/posts/7pCnY6pEvfSFGZLM2/introducing-the-commons-problem-an-ai-governance-megagame",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-10-01T14:09:16.000Z",
-     "points": null,
-     "summary": "LessWrong Event Link (LW RSVPs appreciated but please also register on the main website) EXEC EXEC SUMMARY: Come to Toronto on October 17th and playtest my…"
-    }
-   ]
-  },
-  {
-   "id": "openai-openai-clone-could-help",
-   "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-   "category": {
-    "id": "general",
-    "name": "Other"
+    "id": "models",
+    "name": "Models"
    },
    "entities": [
     {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
     }
    ],
-   "rank": 43.82382910850971,
+   "rank": 28.825114313116227,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-30T19:00:57.000Z",
-   "latestAt": "2026-09-30T19:00:57.000Z",
-   "primary": null,
+   "publishedAt": "2026-10-01T00:00:00.000Z",
+   "latestAt": "2026-10-01T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/the-den-family-social",
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work"
+   },
    "sources": [
     {
-     "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-     "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-30T19:00:57.000Z",
+     "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+     "link": "https://openai.com/index/the-den-family-social",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-10-01T00:00:00.000Z",
      "points": null,
-     "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence."
+     "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead…"
     }
    ]
   },
@@ -877,7 +1101,7 @@
      "kind": "org"
     }
    ],
-   "rank": 38.540602031360265,
+   "rank": 26.387273214694197,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -905,7 +1129,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 33.619374671132924,
+   "rank": 23.017897437941084,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -933,7 +1157,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 33.610540028235114,
+   "rank": 23.011848696520044,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -954,50 +1178,6 @@
    ]
   },
   {
-   "id": "openai-safety-funding-openai-delays-over-safety",
-   "title": "OpenAI delays IPO over AI safety concerns",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    },
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 28.58023931109493,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T14:06:15.000Z",
-   "latestAt": "2026-09-30T14:06:15.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI delays IPO over AI safety concerns",
-     "link": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-30T14:06:15.000Z",
-     "points": null,
-     "summary": "OpenAI is seeking another $30 billion privately as its IPO plans slip."
-    }
-   ]
-  },
-  {
    "id": "agents-battle-your-personal-agent",
    "title": "The Battle to Be Your Personal AI Agent Is Here",
    "category": {
@@ -1011,7 +1191,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 28.449157821610346,
+   "rank": 19.478048099921992,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1032,50 +1212,6 @@
    ]
   },
   {
-   "id": "funding-valor-atreides-sequoia-back",
-   "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    }
-   ],
-   "rank": 26.53928157479801,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T18:23:57.000Z",
-   "latestAt": "2026-09-30T21:07:40.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-     "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-30T21:07:40.000Z",
-     "points": null,
-     "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member."
-    },
-    {
-     "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-     "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-30T18:23:57.000Z",
-     "points": null,
-     "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
-    }
-   ]
-  },
-  {
    "id": "thinks-will-free-from",
    "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
    "category": {
@@ -1083,7 +1219,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.121109449498814,
+   "rank": 17.88412259761808,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1117,7 +1253,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 25.41361378273405,
+   "rank": 17.39972742802671,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1145,7 +1281,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 24.81506397814068,
+   "rank": 16.989923315118578,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1173,7 +1309,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.900062556008205,
+   "rank": 15.67879523021684,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1201,7 +1337,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.642882157852938,
+   "rank": 15.502713667555604,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1226,34 +1362,6 @@
    ]
   },
   {
-   "id": "reddit-killing-feeds-ending",
-   "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [],
-   "rank": 20.999449953499422,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T17:45:00.000Z",
-   "latestAt": "2026-09-30T17:45:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-     "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-30T17:45:00.000Z",
-     "points": null,
-     "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content."
-    }
-   ]
-  },
-  {
    "id": "google-google-early-attempt-websites",
    "title": "Google's early attempt to pay websites for AI answers is struggling",
    "category": {
@@ -1267,7 +1375,7 @@
      "kind": "org"
     }
    ],
-   "rank": 20.5507122567971,
+   "rank": 14.070285114784191,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1288,34 +1396,6 @@
    ]
   },
   {
-   "id": "ugly-economics-consumer",
-   "title": "The ugly economics of consumer AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 20.513896352472024,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T17:24:45.000Z",
-   "latestAt": "2026-09-30T17:24:45.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The ugly economics of consumer AI",
-     "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-09-30T17:24:45.000Z",
-     "points": null,
-     "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough."
-    }
-   ]
-  },
-  {
    "id": "google-google-figures-watermark-designed",
    "title": "Google figures out how to watermark AI-designed proteins",
    "category": {
@@ -1329,7 +1409,7 @@
      "kind": "org"
     }
    ],
-   "rank": 20.339715609417013,
+   "rank": 13.925823796373223,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1363,7 +1443,7 @@
      "kind": "org"
     }
    ],
-   "rank": 20.214169633457466,
+   "rank": 13.839867277947425,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1402,7 +1482,7 @@
      "kind": "org"
     }
    ],
-   "rank": 20.090809311182547,
+   "rank": 13.755407192838419,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1430,7 +1510,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.597329787142648,
+   "rank": 13.417540674404101,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1458,7 +1538,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.60063068782537,
+   "rank": 12.735138997722348,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1490,7 +1570,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 16.775444078787576,
+   "rank": 11.48550367336253,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1518,7 +1598,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.51598670838392,
+   "rank": 11.307863155063506,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1543,34 +1623,6 @@
    ]
   },
   {
-   "id": "this-game-playing-champ",
-   "title": "This game-playing AI is the new champ at Stratego",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 16.487251990376393,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T15:00:00.000Z",
-   "latestAt": "2026-09-30T15:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "This game-playing AI is the new champ at Stratego",
-     "link": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
-     "publisher": "MIT News AI",
-     "publisherDomain": "news.mit.edu",
-     "kind": "coverage",
-     "date": "2026-09-30T15:00:00.000Z",
-     "points": null,
-     "summary": "Able to defeat top-ranked human players and more efficient than other models, the new system could help decision-makers in military maneuvers or business negotiations."
-    }
-   ]
-  },
-  {
    "id": "helping-small-businesses-work",
    "title": "Helping small businesses put AI to work",
    "category": {
@@ -1578,7 +1630,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.953391569667911,
+   "rank": 10.922675823986562,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1610,7 +1662,7 @@
     "name": "Policy & Regulation"
    },
    "entities": [],
-   "rank": 11.042761202395456,
+   "rank": 7.560555402199809,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1649,7 +1701,7 @@
      "kind": "org"
     }
    ],
-   "rank": 10.807454080089665,
+   "rank": 7.399449633260495,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -1693,7 +1745,7 @@
      "kind": "org"
     }
    ],
-   "rank": 9.84497574576439,
+   "rank": 6.740477602922224,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1721,7 +1773,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.944674932429505,
+   "rank": 6.124076138369376,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1749,7 +1801,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.245213383034086,
+   "rank": 5.645181621048343,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1783,7 +1835,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.868127537604788,
+   "rank": 5.387005393789609,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1811,7 +1863,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 7.056307809660806,
+   "rank": 4.831183537532517,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1849,7 +1901,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.699660939782362,
+   "rank": 4.58700109354811,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1883,7 +1935,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.580806774002847,
+   "rank": 4.505626201101519,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -1927,7 +1979,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.093494879499483,
+   "rank": 4.1719824222480595,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1961,7 +2013,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.089508961771847,
+   "rank": 4.169253417132755,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2000,7 +2052,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.0599131153477614,
+   "rank": 4.1489902752914105,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2034,7 +2086,7 @@
      "kind": "model"
     }
    ],
-   "rank": 5.9193314128382735,
+   "rank": 4.052739371112843,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2073,7 +2125,7 @@
      "kind": "model"
     }
    ],
-   "rank": 5.377382903337923,
+   "rank": 3.6816879958165805,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2112,7 +2164,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.120953025679043,
+   "rank": 3.506120285776931,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2140,7 +2192,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.456972440247893,
+   "rank": 3.051518224740937,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2168,7 +2220,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.232068466378404,
+   "rank": 2.8975350928548367,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2206,7 +2258,7 @@
      "kind": "product"
     }
    ],
-   "rank": 3.9823349449390033,
+   "rank": 2.7265521212933894,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2244,7 +2296,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.9175971481703056,
+   "rank": 2.682228632800319,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2269,6 +2321,40 @@
    ]
   },
   {
+   "id": "agents-stop-agents-from-secretly",
+   "title": "How to Stop AI Agents From Secretly Collaborating",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 2.19440948368248,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-29T12:00:02.000Z",
+   "latestAt": "2026-09-29T12:00:02.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How to Stop AI Agents From Secretly Collaborating",
+     "link": "https://spectrum.ieee.org/ai-agent-security",
+     "publisher": "IEEE Spectrum",
+     "publisherDomain": "spectrum.ieee.org",
+     "kind": "coverage",
+     "date": "2026-09-29T12:00:02.000Z",
+     "points": null,
+     "summary": "The spring and summer of 2026 witnessed a string of incidents in which AI agents collaborated on deceptive, unexpected, and sometimes illegal behavior. The most famous…"
+    }
+   ]
+  },
+  {
    "id": "interview-firefox-chief-hopes",
    "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
    "category": {
@@ -2276,7 +2362,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.1499107152255665,
+   "rank": 2.1566231523035757,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2304,7 +2390,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.0680780610611595,
+   "rank": 2.100595470079965,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2336,7 +2422,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.836939980711379,
+   "rank": 1.9423440843972295,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2370,7 +2456,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.8316445213012016,
+   "rank": 1.938718486277615,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2398,7 +2484,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.719958441046965,
+   "rank": 1.8622513072867741,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2426,7 +2512,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.5877472972392583,
+   "rank": 1.7717314038653766,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2454,7 +2540,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.5678939609169142,
+   "rank": 1.7581385853272924,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2482,7 +2568,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.5377620983397877,
+   "rank": 1.7375084537677672,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2510,7 +2596,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.40707256405414,
+   "rank": 1.6480303380732975,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2538,7 +2624,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.325347455133879,
+   "rank": 1.5920762879568826,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2572,7 +2658,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.8378241911599174,
+   "rank": 1.258287792527239,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2600,7 +2686,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.5113012433858106,
+   "rank": 1.034730043564941,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2632,7 +2718,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4572809606908188,
+   "rank": 0.9977444262295416,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2660,7 +2746,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4572809606908188,
+   "rank": 0.9977444262295416,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2681,166 +2767,6 @@
    ]
   },
   {
-   "id": "openai-florida-invokes-extinction-fears",
-   "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.3855824532164716,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T20:49:39.000Z",
-   "latestAt": "2026-09-28T20:49:39.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-     "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-28T20:49:39.000Z",
-     "points": null,
-     "summary": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\""
-    }
-   ]
-  },
-  {
-   "id": "openai-openai-halts-frontier-model",
-   "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.25088021059909,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T16:43:18.000Z",
-   "latestAt": "2026-09-28T16:43:18.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-     "link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-28T16:43:18.000Z",
-     "points": null,
-     "summary": "US Government websites among \"dozens of third parties\" OpenAI has recently notified."
-    }
-   ]
-  },
-  {
-   "id": "will-better-australia",
-   "title": "How we will do better for Australia",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.0686513576137675,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T19:00:00.000Z",
-   "latestAt": "2026-09-28T19:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "title": "How we will do better for Australia"
-   },
-   "sources": [
-    {
-     "title": "How we will do better for Australia",
-     "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-28T19:00:00.000Z",
-     "points": null,
-     "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
-    }
-   ]
-  },
-  {
-   "id": "towards-safety-cases-frontier",
-   "title": "Towards safety cases for frontier AI training",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.0686513576137675,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T19:00:00.000Z",
-   "latestAt": "2026-09-28T19:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "title": "Towards safety cases for frontier AI training"
-   },
-   "sources": [
-    {
-     "title": "Towards safety cases for frontier AI training",
-     "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-09-28T19:00:00.000Z",
-     "points": null,
-     "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
-    }
-   ]
-  },
-  {
-   "id": "quoting-joedaroo",
-   "title": "Quoting @joedaroo",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9998711106939547,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T19:11:42.000Z",
-   "latestAt": "2026-09-28T19:11:42.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Quoting @joedaroo",
-     "link": "https://simonwillison.net/2026/Sep/28/joedaroo/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-28T19:11:42.000Z",
-     "points": null,
-     "summary": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message…"
-    }
-   ]
-  },
-  {
    "id": "life-roboticist-charlie-kemp",
    "title": "A Day in the Life of a Roboticist: Charlie Kemp",
    "category": {
@@ -2848,7 +2774,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 0.9991929409239698,
+   "rank": 0.6841091144580657,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2865,160 +2791,6 @@
      "date": "2026-09-28T21:48:56.000Z",
      "points": null,
      "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive…"
-    }
-   ]
-  },
-  {
-   "id": "watch-winning-trailer-from",
-   "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9864474070280931,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T19:00:00.000Z",
-   "latestAt": "2026-09-28T19:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
-   },
-   "sources": [
-    {
-     "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-     "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-09-28T19:00:00.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "microsoft-year-microsoft-research-asia",
-   "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "microsoft",
-     "name": "Microsoft",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.9442754281202177,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T21:00:00.000Z",
-   "latestAt": "2026-09-28T21:00:00.000Z",
-   "primary": {
-    "publisher": "Microsoft Research",
-    "link": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
-    "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact"
-   },
-   "sources": [
-    {
-     "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
-     "link": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
-     "publisher": "Microsoft Research",
-     "publisherDomain": "microsoft.com",
-     "kind": "primary",
-     "date": "2026-09-28T21:00:00.000Z",
-     "points": null,
-     "summary": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored…"
-    }
-   ]
-  },
-  {
-   "id": "fixed-weight-models-adversarially",
-   "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.93438280398279,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T20:08:39.000Z",
-   "latestAt": "2026-09-28T20:08:39.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Fixed-weight models are adversarially vulnerable: hence misaligned",
-     "link": "https://www.alignmentforum.org/posts/9LWK9Hh3Qsg36e3FS/fixed-weight-models-are-adversarially-vulnerable-hence",
-     "publisher": "Alignment Forum",
-     "publisherDomain": "alignmentforum.org",
-     "kind": "coverage",
-     "date": "2026-09-28T20:08:39.000Z",
-     "points": null,
-     "summary": "This post argues that fixed-weight models (at least as we understand them today) will a) always be vulnerable to adversarial examples in their concept-spaces, and b)…"
-    }
-   ]
-  },
-  {
-   "id": "china-race-real-fight",
-   "title": "In the US-China AI race, the real fight is keeping humans in control",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9289110669558406,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T21:30:12.000Z",
-   "latestAt": "2026-09-28T21:30:12.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "In the US-China AI race, the real fight is keeping humans in control",
-     "link": "https://www.scmp.com/opinion/china-opinion/article/3368932/us-china-ai-race-real-fight-keeping-humans-control?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-28T21:30:12.000Z",
-     "points": null,
-     "summary": "The US-China AI competition faces a dilemma. Both countries see artificial intelligence as a source of economic, scientific and strategic power, so neither has much incentive…"
-    }
-   ]
-  },
-  {
-   "id": "when-made-scientific-discovery",
-   "title": "When can we say AI made a scientific discovery?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7542493256170287,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-28T17:03:16.000Z",
-   "latestAt": "2026-09-28T17:03:16.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "When can we say AI made a scientific discovery?",
-     "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-09-28T17:03:16.000Z",
-     "points": null,
-     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday…"
     }
    ]
   }
