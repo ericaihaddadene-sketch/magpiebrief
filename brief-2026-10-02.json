@@ -1,40 +1,171 @@
 {
  "date": "2026-10-02",
- "generated": "2026-10-02T01:31:00.018Z",
- "headline": "85 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2719 items read · 88 on-topic · 85 distinct developments · 16 with a primary source · 3 independently corroborated",
+ "generated": "2026-10-02T08:19:47.755Z",
+ "headline": "90 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2720 items read · 92 on-topic · 90 distinct developments · 18 with a primary source · 2 independently corroborated",
  "events": [
   {
-   "id": "agents-aweb-communication-agents",
-   "title": "Aweb – Communication for AI Agents",
+   "id": "anthropic-claude-hong-kong-users-caught",
+   "title": "Hong Kong users caught off guard as Anthropic tightens VPN access to Claude",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 178.58354352455837,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T05:44:12.000Z",
+   "latestAt": "2026-10-02T05:44:12.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Hong Kong users caught off guard as Anthropic tightens VPN access to Claude",
+     "link": "https://www.scmp.com/tech/tech-war/article/3369526/hong-kong-users-caught-offguard-anthropic-tightens-vpn-access-claude?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-10-02T05:44:12.000Z",
+     "points": null,
+     "summary": "US artificial intelligence company Anthropic appears to have stepped up enforcement of geographical restrictions on its Claude models in Hong Kong, with local users reporting abrupt…"
+    }
+   ]
+  },
+  {
+   "id": "autosynthdata-generating-training-data",
+   "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 102.399175590617,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T04:01:31.000Z",
+   "latestAt": "2026-10-02T04:01:31.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents"
+   },
+   "sources": [
+    {
+     "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+     "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-10-02T04:01:31.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "deepseek-deepseek-harness-desktop-macos",
+   "title": "DeepSeek Harness Desktop for macOS and Windows",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [
     {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
+     "id": "deepseek",
+     "name": "DeepSeek",
+     "kind": "org"
     }
    ],
-   "rank": 125.58540990884086,
+   "rank": 101.53308022648555,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-01T22:02:31.000Z",
-   "latestAt": "2026-10-01T22:02:31.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T03:11:20.000Z",
+   "latestAt": "2026-10-02T03:11:20.000Z",
+   "primary": {
+    "publisher": "deepseek.com",
+    "link": "https://www.deepseek.com/en/harness/",
+    "title": "DeepSeek Harness Desktop for macOS and Windows"
+   },
+   "sources": [
+    {
+     "title": "DeepSeek Harness Desktop for macOS and Windows",
+     "link": "https://www.deepseek.com/en/harness/",
+     "publisher": "deepseek.com",
+     "publisherDomain": "deepseek.com",
+     "kind": "primary",
+     "date": "2026-10-02T03:11:20.000Z",
+     "points": 203,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "china-compute-ambitions-demand",
+   "title": "China’s AI compute ambitions demand innovation",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 87.1712402294293,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T07:05:21.000Z",
+   "latestAt": "2026-10-02T07:05:21.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Aweb – Communication for AI Agents",
-     "link": "https://aweb.ai",
-     "publisher": "aweb.ai",
-     "publisherDomain": "aweb.ai",
-     "kind": "discussion",
-     "date": "2026-10-01T22:02:31.000Z",
-     "points": 18,
-     "summary": ""
+     "title": "China’s AI compute ambitions demand innovation",
+     "link": "https://www.scmp.com/plus/tech/policy/article/3369537/chinas-ai-compute-ambitions-demand-innovation?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-10-02T07:05:21.000Z",
+     "points": null,
+     "summary": "China has set a five-year goal for the expansion of intelligent computing capacity to drive artificial intelligence (AI) that calls for a more than fourfold increase…"
+    }
+   ]
+  },
+  {
+   "id": "questions-resource-empower-young",
+   "title": "3 Questions: A new resource to empower young entrepreneurs",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 70.36878332203185,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T04:00:00.000Z",
+   "latestAt": "2026-10-02T04:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "3 Questions: A new resource to empower young entrepreneurs",
+     "link": "https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002",
+     "publisher": "MIT News AI",
+     "publisherDomain": "news.mit.edu",
+     "kind": "coverage",
+     "date": "2026-10-02T04:00:00.000Z",
+     "points": null,
+     "summary": "Martin Trust Center Managing Director Bill Aulet introduces Dear Dreamer, a free platform for middle and high school students who want to learn about entrepreneurship."
     }
    ]
   },
@@ -57,7 +188,7 @@
      "kind": "org"
     }
    ],
-   "rank": 107.73752207325323,
+   "rank": 67.18420291928382,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -91,7 +222,7 @@
      "kind": "org"
     }
    ],
-   "rank": 102.37973377492395,
+   "rank": 64.36581218523352,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -110,8 +241,70 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-10-01T20:36:47.000Z",
-     "points": 48,
+     "points": 72,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "deepseek-deepseek-effect-china-quant",
+   "title": "DeepSeek effect? How China’s quant funds thrive amid tight regulatory scrutiny",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "deepseek",
+     "name": "DeepSeek",
+     "kind": "org"
+    }
+   ],
+   "rank": 61.28081859287864,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T02:00:18.000Z",
+   "latestAt": "2026-10-02T02:00:18.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "DeepSeek effect? How China’s quant funds thrive amid tight regulatory scrutiny",
+     "link": "https://www.scmp.com/business/banking-finance/article/3369376/deepseek-effect-how-chinas-quant-funds-thrive-amid-tight-regulatory-scrutiny?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-10-02T02:00:18.000Z",
+     "points": null,
+     "summary": "China’s quantitative investing sector has added 18 new members to the ranks of funds managing more than 10 billion yuan (US$1.5 billion) in assets this year…"
+    }
+   ]
+  },
+  {
+   "id": "improving-monitorability-evaluation-awareness",
+   "title": "Improving CoT Monitorability of Evaluation Awareness via Verbalization Training",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [],
+   "rank": 60.16359413971859,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T06:08:43.000Z",
+   "latestAt": "2026-10-02T06:08:43.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Improving CoT Monitorability of Evaluation Awareness via Verbalization Training",
+     "link": "https://www.lesswrong.com/posts/LYBmbP668hgHEJNiZ/improving-cot-monitorability-of-evaluation-awareness-via",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-10-02T06:08:43.000Z",
+     "points": null,
+     "summary": "This is joint work with Sahar Abdelnabi and David Krueger. It is mostly a linkpost for the paper ( but also contains some additional commentary on…"
     }
    ]
   },
@@ -139,7 +332,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 96.23150225627997,
+   "rank": 60.0091467707747,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -188,7 +381,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 93.53946435925494,
+   "rank": 58.33041482242751,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -216,7 +409,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 83.44604432956636,
+   "rank": 52.0362438931658,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -231,7 +424,7 @@
      "publisherDomain": "stoppels.ch",
      "kind": "discussion",
      "date": "2026-10-01T17:32:43.000Z",
-     "points": 86,
+     "points": 136,
      "summary": ""
     }
    ]
@@ -250,7 +443,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 81.72770186733985,
+   "rank": 50.96470014085495,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -284,7 +477,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 79.34263534994732,
+   "rank": 49.477392935371434,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -318,7 +511,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 76.6294641502773,
+   "rank": 47.785482439142925,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -333,7 +526,7 @@
      "publisherDomain": "blog.cloudflare.com",
      "kind": "discussion",
      "date": "2026-10-01T16:18:57.000Z",
-     "points": 425,
+     "points": 493,
      "summary": ""
     }
    ]
@@ -346,7 +539,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 74.44951251807629,
+   "rank": 46.426083132442365,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -380,7 +573,7 @@
      "kind": "model"
     }
    ],
-   "rank": 73.81437863218103,
+   "rank": 46.03001904028804,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -408,7 +601,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 72.03882284719353,
+   "rank": 44.92279754625737,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -433,6 +626,34 @@
    ]
   },
   {
+   "id": "legal-personhood-unprotected-power",
+   "title": "Legal Personhood: an Unprotected AI Power Chokepoint",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [],
+   "rank": 44.48978383181115,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T01:47:28.000Z",
+   "latestAt": "2026-10-02T01:47:28.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Legal Personhood: an Unprotected AI Power Chokepoint",
+     "link": "https://www.lesswrong.com/posts/FSMzdW3ySgv5JK8RM/legal-personhood-an-unprotected-ai-power-chokepoint",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-10-02T01:47:28.000Z",
+     "points": null,
+     "summary": "Adapted from my Substack . This is the first installment of a series operationalizing the resilience program from AI as Normal Technology . Epistemic status: Confident…"
+    }
+   ]
+  },
+  {
    "id": "with-most-information-hidden",
    "title": "With most information hidden, the game Stratego had stumped AI—until now",
    "category": {
@@ -440,7 +661,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 69.3228585106014,
+   "rank": 43.2291452735879,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -468,7 +689,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 67.21459838790709,
+   "rank": 41.91445218278687,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -506,7 +727,7 @@
      "kind": "model"
     }
    ],
-   "rank": 65.28426023989394,
+   "rank": 40.710709722933636,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -540,7 +761,7 @@
      "kind": "org"
     }
    ],
-   "rank": 62.94861442017813,
+   "rank": 39.25422084441021,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -568,7 +789,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 58.73107703767517,
+   "rank": 36.62420038475007,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -602,7 +823,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 58.69743210135637,
+   "rank": 36.60321968846756,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -623,6 +844,42 @@
    ]
   },
   {
+   "id": "safety-endogenous-alignment-requires-dependence",
+   "title": "Endogenous Alignment Requires Dependence",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 34.68265558542707,
+   "deltas": [
+    "Now also covered by Alignment Forum."
+   ],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T16:20:56.000Z",
+   "latestAt": "2026-10-01T16:20:56.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Endogenous Alignment Requires Dependence",
+     "link": "https://www.alignmentforum.org/posts/rp4sB5a6HaPpfD4rA/endogenous-alignment-requires-dependence",
+     "publisher": "Alignment Forum",
+     "publisherDomain": "alignmentforum.org",
+     "kind": "coverage",
+     "date": "2026-10-01T16:20:56.000Z",
+     "points": null,
+     "summary": "My post on endogenous alignment got several excellent comments. Among them, one from Karl Krueger argued that imitation learning is more important for how humans align…"
+    }
+   ]
+  },
+  {
    "id": "introducing-olmo-core-open",
    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
    "category": {
@@ -630,7 +887,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 55.5874019974585,
+   "rank": 34.66383135314563,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -662,7 +919,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 55.00945655294558,
+   "rank": 34.30342948689488,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -690,7 +947,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 54.436282198009344,
+   "rank": 33.9460028315465,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -718,7 +975,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 54.01265214306025,
+   "rank": 33.681830730437134,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -757,7 +1014,7 @@
      "kind": "product"
     }
    ],
-   "rank": 51.70353722146699,
+   "rank": 32.24188629445143,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -785,7 +1042,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 46.21353488667262,
+   "rank": 28.81836750739985,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -817,7 +1074,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 43.15051055760024,
+   "rank": 26.908291573676575,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -845,7 +1102,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.99632200823038,
+   "rank": 26.188549405713445,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -873,7 +1130,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.99632200823038,
+   "rank": 26.188549405713445,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -901,7 +1158,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.62121204921141,
+   "rank": 25.954634023970772,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -929,7 +1186,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.6797049526634,
+   "rank": 23.496743704178282,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -957,7 +1214,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 37.1832354950924,
+   "rank": 23.187149570780658,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -978,40 +1235,6 @@
    ]
   },
   {
-   "id": "safety-endogenous-alignment-requires-dependence",
-   "title": "Endogenous Alignment Requires Dependence",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 37.07839253207809,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-01T16:20:56.000Z",
-   "latestAt": "2026-10-01T16:20:56.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Endogenous Alignment Requires Dependence",
-     "link": "https://www.lesswrong.com/posts/rp4sB5a6HaPpfD4rA/endogenous-alignment-requires-dependence",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-10-01T16:20:56.000Z",
-     "points": null,
-     "summary": "My post on endogenous alignment got several excellent comments. Among them, one from Karl Krueger argued that imitation learning is more important for how humans align…"
-    }
-   ]
-  },
-  {
    "id": "quoting-matthew-green",
    "title": "Quoting Matthew Green",
    "category": {
@@ -1019,7 +1242,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 32.07965220448867,
+   "rank": 20.00459841484952,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1058,7 +1281,7 @@
      "kind": "org"
     }
    ],
-   "rank": 25.828963613886796,
+   "rank": 16.106722145050814,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -1106,7 +1329,7 @@
      "kind": "model"
     }
    ],
-   "rank": 22.172548573066603,
+   "rank": 13.826612807724873,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1149,7 +1372,7 @@
      "kind": "org"
     }
    ],
-   "rank": 20.297338310896553,
+   "rank": 12.657247628857139,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1177,7 +1400,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.70558282783231,
+   "rank": 11.041050941384007,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1205,7 +1428,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.70093007913869,
+   "rank": 11.038149526850344,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1239,7 +1462,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 14.982697480839875,
+   "rank": 9.343082785462414,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1267,7 +1490,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.7566350188568,
+   "rank": 8.578520656573081,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1301,7 +1524,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 13.38403370634661,
+   "rank": 8.346169645468002,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1329,7 +1552,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.068808534984028,
+   "rank": 8.149597908244543,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1357,7 +1580,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.060276501695002,
+   "rank": 7.520685905525405,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1385,7 +1608,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.92483291043919,
+   "rank": 7.436224433385177,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1423,7 +1646,7 @@
      "kind": "org"
     }
    ],
-   "rank": 10.822995418356127,
+   "rank": 6.749127939724859,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1457,7 +1680,7 @@
      "kind": "org"
     }
    ],
-   "rank": 10.71187441586494,
+   "rank": 6.679833827178945,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1491,7 +1714,7 @@
      "kind": "org"
     }
    ],
-   "rank": 10.645755854832888,
+   "rank": 6.638602854574168,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1530,7 +1753,7 @@
      "kind": "org"
     }
    ],
-   "rank": 10.580788364358355,
+   "rank": 6.598089679784147,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1558,7 +1781,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.320898266098135,
+   "rank": 6.436024423759831,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1586,7 +1809,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.795988489220564,
+   "rank": 6.108695149005575,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1618,7 +1841,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 8.834757264705347,
+   "rank": 5.5092795285472445,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1646,7 +1869,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.698114510135676,
+   "rank": 5.424070268358239,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1678,7 +1901,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.401824798488388,
+   "rank": 5.23930652284836,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1710,7 +1933,7 @@
     "name": "Policy & Regulation"
    },
    "entities": [],
-   "rank": 5.815650202585912,
+   "rank": 3.6265900291678017,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1744,7 +1967,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.184838659545402,
+   "rank": 3.2332213132747016,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1783,7 +2006,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.823496722433073,
+   "rank": 3.007891552955025,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1811,7 +2034,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.710696865523497,
+   "rank": 2.9375505210652593,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1839,7 +2062,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.342326706386116,
+   "rank": 2.7078380212356503,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1873,7 +2096,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.1437351283225174,
+   "rank": 2.5839980013249093,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1901,7 +2124,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 3.7161917377929403,
+   "rank": 2.3173855774136976,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1939,7 +2162,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.528364309213731,
+   "rank": 2.2002579896184904,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1956,50 +2179,6 @@
      "date": "2026-09-29T15:55:13.000Z",
      "points": null,
      "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the…"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-acquires-world-labs-startup",
-   "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 3.465769977902472,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-29T04:30:18.000Z",
-   "latestAt": "2026-09-29T21:14:49.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-     "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-29T21:14:49.000Z",
-     "points": null,
-     "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion."
-    },
-    {
-     "title": "AMD acquires ‘godmother of AI’ Li Fei-Fei’s start-up as battle with Nvidia intensifies",
-     "link": "https://www.scmp.com/tech/big-tech/article/3369141/amd-acquires-godmother-ai-li-fei-feis-start-battle-nvidia-intensifies?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-29T04:30:18.000Z",
-     "points": null,
-     "summary": "US chip giant Advanced Micro Devices (AMD) has agreed to acquire World Labs, the artificial intelligence start-up founded by renowned Chinese-American computer scientist Li Fei-Fei, for…"
     }
    ]
   },
@@ -2027,7 +2206,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.27883861043829,
+   "rank": 2.0446558850081127,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2061,7 +2240,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.2091280505757966,
+   "rank": 2.0011849724672226,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2095,7 +2274,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.207028874218059,
+   "rank": 1.9998759439350302,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2134,7 +2313,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.191442275259949,
+   "rank": 1.9901562733219342,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2168,7 +2347,7 @@
      "kind": "model"
     }
    ],
-   "rank": 3.1174051760512977,
+   "rank": 1.9439873676234427,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2185,6 +2364,40 @@
      "date": "2026-09-29T18:27:48.000Z",
      "points": null,
      "summary": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price — Hacker News. I'm a bit late with the pelicans because I…"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-acquires-world-labs-startup",
+   "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 1.8315463531433436,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-09-29T21:14:49.000Z",
+   "latestAt": "2026-09-29T21:14:49.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+     "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-09-29T21:14:49.000Z",
+     "points": null,
+     "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion."
     }
    ]
   },
@@ -2207,7 +2420,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.831988974315165,
+   "rank": 1.76600425046159,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2246,7 +2459,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.696940643320519,
+   "rank": 1.6817892592602337,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2274,7 +2487,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.3472564696431837,
+   "rank": 1.463729181119337,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2302,7 +2515,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.2288111988251624,
+   "rank": 1.3898677171062988,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2340,7 +2553,7 @@
      "kind": "product"
     }
    ],
-   "rank": 2.097289491714762,
+   "rank": 1.3078518985803467,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2378,7 +2591,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.0631954482058656,
+   "rank": 1.2865911428718275,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2416,7 +2629,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.6879603784956412,
+   "rank": 1.052597743165618,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2444,7 +2657,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6588947776173304,
+   "rank": 1.034472681536192,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2472,7 +2685,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.61579775839843,
+   "rank": 1.0075977467066142,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2504,7 +2717,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4940693066847475,
+   "rank": 0.9316889189964161,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2538,7 +2751,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.4912804625698435,
+   "rank": 0.9299498195135208,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2566,7 +2779,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4324611905280222,
+   "rank": 0.893270621473905,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2594,7 +2807,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3628324309110322,
+   "rank": 0.8498507188707505,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2622,7 +2835,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3523767072664794,
+   "rank": 0.8433306184870984,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2650,7 +2863,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3365078163714241,
+   "rank": 0.8334349130218063,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2678,7 +2891,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2676804096554921,
+   "rank": 0.790514727275681,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2706,7 +2919,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2246400289447905,
+   "rank": 0.7636751117383483,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2723,62 +2936,6 @@
      "date": "2026-09-29T10:00:06.000Z",
      "points": null,
      "summary": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle. Key Takeaways Explore…"
-    }
-   ]
-  },
-  {
-   "id": "effects-algorithmic-monoculture-depend",
-   "title": "The effects of an “algorithmic monoculture” depend on the details",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7674743806311503,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T04:00:00.000Z",
-   "latestAt": "2026-09-29T04:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The effects of an “algorithmic monoculture” depend on the details",
-     "link": "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929",
-     "publisher": "MIT News AI",
-     "publisherDomain": "news.mit.edu",
-     "kind": "coverage",
-     "date": "2026-09-29T04:00:00.000Z",
-     "points": null,
-     "summary": "In a study focusing on hiring decisions, MIT researchers found the use of a single algorithm by many firms could benefit job seekers in certain situations."
-    }
-   ]
-  },
-  {
-   "id": "become-when-talk-machines",
-   "title": "Who we become when we talk to machines",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7674743806311503,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T04:00:00.000Z",
-   "latestAt": "2026-09-29T04:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Who we become when we talk to machines",
-     "link": "https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929",
-     "publisher": "MIT News AI",
-     "publisherDomain": "news.mit.edu",
-     "kind": "coverage",
-     "date": "2026-09-29T04:00:00.000Z",
-     "points": null,
-     "summary": "Professor Sherry Turkle’s new book, “Artificial Intimacy,” offers a withering critique of chatbots and the antisocial dynamics she believes they encourage."
     }
    ]
   }

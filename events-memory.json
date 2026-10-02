@@ -1,13 +1,61 @@
 {
- "agents-aweb-communication-agents": {
-  "id": "agents-aweb-communication-agents",
-  "title": "Aweb – Communication for AI Agents",
-  "firstSeen": "2026-10-02T01:30:59.944Z",
+ "anthropic-claude-hong-kong-users-caught": {
+  "id": "anthropic-claude-hong-kong-users-caught",
+  "title": "Hong Kong users caught off guard as Anthropic tightens VPN access to Claude",
+  "firstSeen": "2026-10-02T08:19:47.710Z",
   "publishers": [
-   "aweb.ai"
+   "SCMP Tech"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "models"
+ },
+ "autosynthdata-generating-training-data": {
+  "id": "autosynthdata-generating-training-data",
+  "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+  "firstSeen": "2026-10-02T08:19:47.710Z",
+  "publishers": [
+   "Hugging Face"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "deepseek-deepseek-harness-desktop-macos": {
+  "id": "deepseek-deepseek-harness-desktop-macos",
+  "title": "DeepSeek Harness Desktop for macOS and Windows",
+  "firstSeen": "2026-10-02T08:19:47.710Z",
+  "publishers": [
+   "deepseek.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "china-compute-ambitions-demand": {
+  "id": "china-compute-ambitions-demand",
+  "title": "China’s AI compute ambitions demand innovation",
+  "firstSeen": "2026-10-02T08:19:47.710Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "questions-resource-empower-young": {
+  "id": "questions-resource-empower-young",
+  "title": "3 Questions: A new resource to empower young entrepreneurs",
+  "firstSeen": "2026-10-02T08:19:47.710Z",
+  "publishers": [
+   "MIT News AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -34,6 +82,30 @@
   "independentCount": 1,
   "hadPrimary": true,
   "category": "general"
+ },
+ "deepseek-deepseek-effect-china-quant": {
+  "id": "deepseek-deepseek-effect-china-quant",
+  "title": "DeepSeek effect? How China’s quant funds thrive amid tight regulatory scrutiny",
+  "firstSeen": "2026-10-02T08:19:47.710Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "policy"
+ },
+ "improving-monitorability-evaluation-awareness": {
+  "id": "improving-monitorability-evaluation-awareness",
+  "title": "Improving CoT Monitorability of Evaluation Awareness via Verbalization Training",
+  "firstSeen": "2026-10-02T08:19:47.710Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "research"
  },
  "openai-safety-funding-openai-cuts-ties-with": {
   "id": "openai-safety-funding-openai-cuts-ties-with",
@@ -144,6 +216,18 @@
   "hadPrimary": true,
   "category": "general"
  },
+ "legal-personhood-unprotected-power": {
+  "id": "legal-personhood-unprotected-power",
+  "title": "Legal Personhood: an Unprotected AI Power Chokepoint",
+  "firstSeen": "2026-10-02T08:19:47.710Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "policy"
+ },
  "with-most-information-hidden": {
   "id": "with-most-information-hidden",
   "title": "With most information hidden, the game Stratego had stumped AI—until now",
@@ -210,6 +294,18 @@
   "firstSeen": "2026-10-01T16:15:56.756Z",
   "publishers": [
    "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "safety-endogenous-alignment-requires-dependence": {
+  "id": "safety-endogenous-alignment-requires-dependence",
+  "title": "Endogenous Alignment Requires Dependence",
+  "firstSeen": "2026-10-01T21:43:52.082Z",
+  "publishers": [
+   "Alignment Forum"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -359,18 +455,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "tools"
- },
- "safety-endogenous-alignment-requires-dependence": {
-  "id": "safety-endogenous-alignment-requires-dependence",
-  "title": "Endogenous Alignment Requires Dependence",
-  "firstSeen": "2026-10-01T21:43:52.082Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  },
  "quoting-matthew-green": {
   "id": "quoting-matthew-green",
@@ -721,19 +805,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "nvidia-acquires-world-labs-startup": {
-  "id": "nvidia-acquires-world-labs-startup",
-  "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-  "firstSeen": "2026-09-30T00:17:22.524Z",
-  "publishers": [
-   "Ars Technica AI",
-   "SCMP Tech"
-  ],
-  "sourceCount": 2,
-  "independentCount": 2,
-  "hadPrimary": false,
-  "category": "business"
- },
  "openai-meta-ai-agents-openai-dots-always-agents": {
   "id": "openai-meta-ai-agents-openai-dots-always-agents",
   "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
@@ -793,6 +864,18 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "models"
+ },
+ "nvidia-acquires-world-labs-startup": {
+  "id": "nvidia-acquires-world-labs-startup",
+  "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+  "firstSeen": "2026-09-30T00:17:22.524Z",
+  "publishers": [
+   "Ars Technica AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
  },
  "openai-gpt-openai-says-planned-insecure": {
   "id": "openai-gpt-openai-says-planned-insecure",
@@ -992,30 +1075,6 @@
   "firstSeen": "2026-09-29T15:38:31.024Z",
   "publishers": [
    "IEEE Spectrum"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "effects-algorithmic-monoculture-depend": {
-  "id": "effects-algorithmic-monoculture-depend",
-  "title": "The effects of an “algorithmic monoculture” depend on the details",
-  "firstSeen": "2026-09-29T08:17:36.799Z",
-  "publishers": [
-   "MIT News AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "become-when-talk-machines": {
-  "id": "become-when-talk-machines",
-  "title": "Who we become when we talk to machines",
-  "firstSeen": "2026-09-29T08:17:36.799Z",
-  "publishers": [
-   "MIT News AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
