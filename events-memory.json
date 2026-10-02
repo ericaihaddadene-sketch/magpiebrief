@@ -1,4 +1,16 @@
 {
+ "agents-aweb-communication-agents": {
+  "id": "agents-aweb-communication-agents",
+  "title": "Aweb – Communication for AI Agents",
+  "firstSeen": "2026-10-02T01:30:59.944Z",
+  "publishers": [
+   "aweb.ai"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "google-search-judge-dismisses-chegg-penske": {
   "id": "google-search-judge-dismisses-chegg-penske",
   "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
@@ -10,6 +22,18 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "policy"
+ },
+ "nvidia-show-janus-binary-that": {
+  "id": "nvidia-show-janus-binary-that",
+  "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+  "firstSeen": "2026-10-01T21:43:52.082Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
  },
  "openai-safety-funding-openai-cuts-ties-with": {
   "id": "openai-safety-funding-openai-cuts-ties-with",
@@ -24,41 +48,29 @@
   "hadPrimary": false,
   "category": "research"
  },
- "nvidia-show-janus-binary-that": {
-  "id": "nvidia-show-janus-binary-that",
-  "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-  "firstSeen": "2026-10-01T21:43:52.082Z",
+ "funding-agents-kevin-mandia-agent-swarm": {
+  "id": "funding-agents-kevin-mandia-agent-swarm",
+  "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+  "firstSeen": "2026-10-02T01:30:59.944Z",
   "publishers": [
-   "GitHub"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "openai-meta-ai-openai-agent-shot-meta": {
-  "id": "openai-meta-ai-openai-agent-shot-meta",
-  "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-  "firstSeen": "2026-10-01T21:43:52.082Z",
-  "publishers": [
-   "The Verge"
+   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "general"
+  "category": "business"
  },
- "agents-identity-management-agentic-2025": {
-  "id": "agents-identity-management-agentic-2025",
-  "title": "Identity Management for Agentic AI [pdf] (2025)",
-  "firstSeen": "2026-10-01T21:43:52.082Z",
+ "vote-which-hacker-news": {
+  "id": "vote-which-hacker-news",
+  "title": "Vote on which of Hacker News' challenges for AI have been met",
+  "firstSeen": "2026-10-02T01:30:59.944Z",
   "publishers": [
-   "openid.net"
+   "stoppels.ch"
   ],
   "sourceCount": 1,
   "independentCount": 0,
   "hadPrimary": false,
-  "category": "general"
+  "category": "security"
  },
  "agents-trump-morally-binding-accord": {
   "id": "agents-trump-morally-binding-accord",
@@ -72,10 +84,22 @@
   "hadPrimary": false,
   "category": "general"
  },
- "clef-open-source-decision": {
-  "id": "clef-open-source-decision",
-  "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
-  "firstSeen": "2026-10-01T21:43:52.082Z",
+ "safety-whatever-safety-this": {
+  "id": "safety-whatever-safety-this",
+  "title": "Whatever AI Safety Is, It’s Not This",
+  "firstSeen": "2026-10-02T01:30:59.944Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "open-source-clef-open-weight-decision": {
+  "id": "open-source-clef-open-weight-decision",
+  "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+  "firstSeen": "2026-10-02T01:30:59.944Z",
   "publishers": [
    "blog.cloudflare.com"
   ],
@@ -83,6 +107,18 @@
   "independentCount": 0,
   "hadPrimary": false,
   "category": "opensource"
+ },
+ "tool-lets-users-repair": {
+  "id": "tool-lets-users-repair",
+  "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
+  "firstSeen": "2026-10-02T01:30:59.944Z",
+  "publishers": [
+   "MIT News AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "tools"
  },
  "grok-musk-chatbot-grok-reportedly": {
   "id": "grok-musk-chatbot-grok-reportedly",
@@ -119,30 +155,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "polyedergarten-garden-paper-polyhedron": {
-  "id": "polyedergarten-garden-paper-polyhedron",
-  "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-  "firstSeen": "2026-10-01T16:15:56.756Z",
-  "publishers": [
-   "polyedergarten.de"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "research"
- },
- "gemini-gemini-argon": {
-  "id": "gemini-gemini-argon",
-  "title": "AI #188: Gemini Dot Argon",
-  "firstSeen": "2026-10-01T16:15:56.756Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
  },
  "albertsons-companies-reimagining-retail": {
   "id": "albertsons-companies-reimagining-retail",
@@ -324,18 +336,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "google-funding-satlyt-founded-former-google": {
-  "id": "google-funding-satlyt-founded-former-google",
-  "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-  "firstSeen": "2026-10-01T16:15:56.756Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
  "reducing-cognitive-load-changes": {
   "id": "reducing-cognitive-load-changes",
   "title": "Reducing the cognitive load of AI changes",
@@ -383,6 +383,19 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
+ },
+ "google-gemini-gemini-argon-next-frontier": {
+  "id": "google-gemini-gemini-argon-next-frontier",
+  "title": "Gemini 4 Argon: our next era of frontier intelligence",
+  "firstSeen": "2026-10-02T01:30:59.944Z",
+  "publishers": [
+   "Google DeepMind",
+   "Ars Technica AI"
+  ],
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": true,
+  "category": "models"
  },
  "gpt-frees-hours-week-grow": {
   "id": "gpt-frees-hours-week-grow",
@@ -624,25 +637,24 @@
   "hadPrimary": false,
   "category": "policy"
  },
- "deepseek-nvidia-china-deepseek-open-sources": {
-  "id": "deepseek-nvidia-china-deepseek-open-sources",
-  "title": "China’s DeepSeek open-sources tools to help Huawei chips supplant Nvidia in AI",
-  "firstSeen": "2026-09-30T06:33:22.846Z",
-  "publishers": [
-   "SCMP Tech",
-   "Ars Technica AI"
-  ],
-  "sourceCount": 2,
-  "independentCount": 2,
-  "hadPrimary": false,
-  "category": "general"
- },
  "anthropic-quoting-anthropic-frontier-team": {
   "id": "anthropic-quoting-anthropic-frontier-team",
   "title": "Quoting Anthropic Frontier Red Team",
   "firstSeen": "2026-09-30T00:17:22.524Z",
   "publishers": [
    "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "deepseek-nvidia-china-deepseek-open-sources": {
+  "id": "deepseek-nvidia-china-deepseek-open-sources",
+  "title": "China’s DeepSeek open-sources tools to help Huawei chips supplant Nvidia in AI",
+  "firstSeen": "2026-09-30T06:33:22.846Z",
+  "publishers": [
+   "SCMP Tech"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -721,6 +733,18 @@
   "independentCount": 2,
   "hadPrimary": false,
   "category": "business"
+ },
+ "openai-meta-ai-agents-openai-dots-always-agents": {
+  "id": "openai-meta-ai-agents-openai-dots-always-agents",
+  "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+  "firstSeen": "2026-10-02T01:30:59.944Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
  },
  "anthropic-anthropic-says-discovered-crispr": {
   "id": "anthropic-anthropic-says-discovered-crispr",
@@ -974,30 +998,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "claude-claude-sonnet": {
-  "id": "claude-claude-sonnet",
-  "title": "Claude Sonnet 5.5",
-  "firstSeen": "2026-09-29T01:44:08.996Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
- },
- "introducing-dots": {
-  "id": "introducing-dots",
-  "title": "Introducing dots",
-  "firstSeen": "2026-09-30T22:55:57.743Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
  "effects-algorithmic-monoculture-depend": {
   "id": "effects-algorithmic-monoculture-depend",
   "title": "The effects of an “algorithmic monoculture” depend on the details",
@@ -1016,18 +1016,6 @@
   "firstSeen": "2026-09-29T08:17:36.799Z",
   "publishers": [
    "MIT News AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "life-roboticist-charlie-kemp": {
-  "id": "life-roboticist-charlie-kemp",
-  "title": "A Day in the Life of a Roboticist: Charlie Kemp",
-  "firstSeen": "2026-09-29T15:38:31.024Z",
-  "publishers": [
-   "IEEE Spectrum"
   ],
   "sourceCount": 1,
   "independentCount": 1,
