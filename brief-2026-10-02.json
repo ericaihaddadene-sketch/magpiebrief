@@ -1,9 +1,112 @@
 {
  "date": "2026-10-02",
- "generated": "2026-10-02T08:19:47.755Z",
- "headline": "90 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2720 items read · 92 on-topic · 90 distinct developments · 18 with a primary source · 2 independently corroborated",
+ "generated": "2026-10-02T15:40:00.192Z",
+ "headline": "79 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2720 items read · 81 on-topic · 79 distinct developments · 17 with a primary source · 2 independently corroborated",
  "events": [
+  {
+   "id": "nvidia-amazon-amazon-seeks-offload-nvidia",
+   "title": "Amazon seeks to offload $8B of Nvidia chips to investors",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    },
+    {
+     "id": "amazon",
+     "name": "Amazon",
+     "kind": "org"
+    }
+   ],
+   "rank": 133.8179578994932,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-10-02T14:30:32.000Z",
+   "latestAt": "2026-10-02T14:30:32.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Amazon seeks to offload $8B of Nvidia chips to investors",
+     "link": "https://www.reuters.com/business/retail-consumer/amazon-seeks-offload-8-billion-nvidia-chips-investors-ft-reports-2026-10-02/",
+     "publisher": "Reuters",
+     "publisherDomain": "reuters.com",
+     "kind": "discussion",
+     "date": "2026-10-02T14:30:32.000Z",
+     "points": 58,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "latest-news-announced-september",
+   "title": "The latest AI news we announced in September 2026",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 114.58072331895474,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T15:00:00.000Z",
+   "latestAt": "2026-10-02T15:00:00.000Z",
+   "primary": {
+    "publisher": "Google AI",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "title": "The latest AI news we announced in September 2026"
+   },
+   "sources": [
+    {
+     "title": "The latest AI news we announced in September 2026",
+     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-10-02T15:00:00.000Z",
+     "points": null,
+     "summary": "A video showing the September AI updates"
+    }
+   ]
+  },
+  {
+   "id": "open-sourcing-astabrief-fast",
+   "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 112.351498065898,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T15:19:50.000Z",
+   "latestAt": "2026-10-02T15:19:50.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/allenai/astabrief",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta"
+   },
+   "sources": [
+    {
+     "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+     "link": "https://huggingface.co/blog/allenai/astabrief",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-10-02T15:19:50.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
   {
    "id": "anthropic-claude-hong-kong-users-caught",
    "title": "Hong Kong users caught off guard as Anthropic tightens VPN access to Claude",
@@ -23,7 +126,7 @@
      "kind": "model"
     }
    ],
-   "rank": 178.58354352455837,
+   "rank": 107.39456853778543,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -44,6 +147,426 @@
    ]
   },
   {
+   "id": "nvidia-year-nvidia-shield-more",
+   "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 104.09816079217774,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T14:52:16.000Z",
+   "latestAt": "2026-10-02T14:52:16.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
+     "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-10-02T14:52:16.000Z",
+     "points": null,
+     "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99."
+    }
+   ]
+  },
+  {
+   "id": "agents-jetbrains-building-system-products",
+   "title": "JetBrains Air: Building a System of Products for Agentic Software Development",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 103.56238861097245,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-10-02T15:03:41.000Z",
+   "latestAt": "2026-10-02T15:03:41.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "JetBrains Air: Building a System of Products for Agentic Software Development",
+     "link": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
+     "publisher": "blog.jetbrains.com",
+     "publisherDomain": "blog.jetbrains.com",
+     "kind": "discussion",
+     "date": "2026-10-02T15:03:41.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "pope-generated",
+   "title": "Pope Leo XIV is not a fan of AI-generated art",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 99.96318910913082,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T15:39:41.000Z",
+   "latestAt": "2026-10-02T15:39:41.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Pope Leo XIV is not a fan of AI-generated art",
+     "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-10-02T15:39:41.000Z",
+     "points": null,
+     "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images…"
+    }
+   ]
+  },
+  {
+   "id": "techcrunch-disrupt-2026-blackstone",
+   "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 95.48393609912895,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T15:00:00.000Z",
+   "latestAt": "2026-10-02T15:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+     "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-10-02T15:00:00.000Z",
+     "points": null,
+     "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second."
+    }
+   ]
+  },
+  {
+   "id": "trump-crazy-rebrand-loyalty",
+   "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 95.48393609912895,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T15:00:00.000Z",
+   "latestAt": "2026-10-02T15:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+     "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-10-02T15:00:00.000Z",
+     "points": null,
+     "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term."
+    }
+   ]
+  },
+  {
+   "id": "toward-provably-private-learning",
+   "title": "Toward provably private learning from federated data",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 95.22873235100991,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T14:57:41.000Z",
+   "latestAt": "2026-10-02T14:57:41.000Z",
+   "primary": {
+    "publisher": "Google Research",
+    "link": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+    "title": "Toward provably private learning from federated data"
+   },
+   "sources": [
+    {
+     "title": "Toward provably private learning from federated data",
+     "link": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+     "publisher": "Google Research",
+     "publisherDomain": "research.google",
+     "kind": "primary",
+     "date": "2026-10-02T14:57:41.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "what-name-trump-wants",
+   "title": "What’s in a name? Why Trump wants to rebrand AI as ‘super intelligence’",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 84.68408073371712,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T14:00:30.000Z",
+   "latestAt": "2026-10-02T14:00:30.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "What’s in a name? Why Trump wants to rebrand AI as ‘super intelligence’",
+     "link": "https://www.scmp.com/tech/policy/article/3369617/whats-name-why-trump-wants-rebrand-ai-super-intelligence?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-10-02T14:00:30.000Z",
+     "points": null,
+     "summary": "US President Donald Trump wants to retire one of the technology sector’s most recognisable acronyms, arguing that the term “artificial intelligence”, or AI, is no longer…"
+    }
+   ]
+  },
+  {
+   "id": "download-biological-aging-contest",
+   "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 82.38113676574191,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T12:10:00.000Z",
+   "latestAt": "2026-10-02T12:10:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+     "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-10-02T12:10:00.000Z",
+     "points": null,
+     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new…"
+    }
+   ]
+  },
+  {
+   "id": "hallucinations-making-entitled-customers",
+   "title": "AI hallucinations are making entitled customers even worse",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 77.55705591004316,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T12:00:00.000Z",
+   "latestAt": "2026-10-02T12:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI hallucinations are making entitled customers even worse",
+     "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-10-02T12:00:00.000Z",
+     "points": null,
+     "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will…"
+    }
+   ]
+  },
+  {
+   "id": "infrastructure-data-center-camouflaged-woods",
+   "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "infrastructure",
+     "name": "AI Infrastructure",
+     "kind": "topic"
+    }
+   ],
+   "rank": 77.55705591004316,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T12:00:00.000Z",
+   "latestAt": "2026-10-02T12:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+     "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-10-02T12:00:00.000Z",
+     "points": null,
+     "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's…"
+    }
+   ]
+  },
+  {
+   "id": "reporter-notebook-europe-sovereign",
+   "title": "Reporter’s Notebook: Europe’s Sovereign AI Push Needs Customers As Well As Capital",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 68.76233657149498,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T11:00:13.000Z",
+   "latestAt": "2026-10-02T11:00:13.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Reporter’s Notebook: Europe’s Sovereign AI Push Needs Customers As Well As Capital",
+     "link": "https://news.crunchbase.com/ai/humanx-amsterdam-europe-sovereign-ai-user-push/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-10-02T11:00:13.000Z",
+     "points": null,
+     "summary": "Crunchbase News Research Lead Gené Teare moderated panels and spoke with leaders building Europe and the Middle East’s AI ecosystems at HumanX in Amsterdam. Here we…"
+    }
+   ]
+  },
+  {
+   "id": "training-world",
+   "title": "All the training in the world",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 67.9887468030079,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T15:14:46.000Z",
+   "latestAt": "2026-10-02T15:14:46.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "All the training in the world",
+     "link": "https://www.lesswrong.com/posts/Kzj2gkdHmyhrAACTm/all-the-training-in-the-world",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-10-02T15:14:46.000Z",
+     "points": null,
+     "summary": "The US has about 150 million workers. How long did it take them to learn to do what they do? I'm interested in this because of…"
+    }
+   ]
+  },
+  {
+   "id": "gpt-flaw-chatgpt-could-have",
+   "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 66.35743124322039,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T09:45:00.000Z",
+   "latestAt": "2026-10-02T09:45:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+     "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-10-02T09:45:00.000Z",
+     "points": null,
+     "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and…"
+    }
+   ]
+  },
+  {
+   "id": "health-care-workers-tired",
+   "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 65.21745029238721,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T09:30:00.000Z",
+   "latestAt": "2026-10-02T09:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
+     "link": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-10-02T09:30:00.000Z",
+     "points": null,
+     "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and…"
+    }
+   ]
+  },
+  {
    "id": "autosynthdata-generating-training-data",
    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
    "category": {
@@ -51,7 +574,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 102.399175590617,
+   "rank": 61.57966777978591,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -89,7 +612,7 @@
      "kind": "org"
     }
    ],
-   "rank": 101.53308022648555,
+   "rank": 61.05882506321904,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -108,7 +631,7 @@
      "publisherDomain": "deepseek.com",
      "kind": "primary",
      "date": "2026-10-02T03:11:20.000Z",
-     "points": 203,
+     "points": 340,
      "summary": ""
     }
    ]
@@ -121,7 +644,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 87.1712402294293,
+   "rank": 52.42206279805285,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -149,7 +672,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 70.36878332203185,
+   "rank": 42.317589707582826,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -170,45 +693,6 @@
    ]
   },
   {
-   "id": "google-search-judge-dismisses-chegg-penske",
-   "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "search",
-     "name": "AI Search",
-     "kind": "topic"
-    },
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 67.18420291928382,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-01T20:11:55.000Z",
-   "latestAt": "2026-10-01T20:11:55.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-     "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-10-01T20:11:55.000Z",
-     "points": null,
-     "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue."
-    }
-   ]
-  },
-  {
    "id": "nvidia-show-janus-binary-that",
    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
    "category": {
@@ -222,7 +706,7 @@
      "kind": "org"
     }
    ],
-   "rank": 64.36581218523352,
+   "rank": 38.707590250423564,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -241,7 +725,7 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-10-01T20:36:47.000Z",
-     "points": 72,
+     "points": 89,
      "summary": ""
     }
    ]
@@ -260,7 +744,7 @@
      "kind": "org"
     }
    ],
-   "rank": 61.28081859287864,
+   "rank": 36.8523714029645,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -288,7 +772,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 60.16359413971859,
+   "rank": 36.18050749132425,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -332,7 +816,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 60.0091467707747,
+   "rank": 36.087627664761484,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -381,7 +865,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 58.33041482242751,
+   "rank": 35.07809067313745,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -402,6 +886,45 @@
    ]
   },
   {
+   "id": "google-search-judge-dismisses-chegg-penske",
+   "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "search",
+     "name": "AI Search",
+     "kind": "topic"
+    },
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 34.23939191608894,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T20:11:55.000Z",
+   "latestAt": "2026-10-01T20:11:55.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+     "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-10-01T20:11:55.000Z",
+     "points": null,
+     "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue."
+    }
+   ]
+  },
+  {
    "id": "vote-which-hacker-news",
    "title": "Vote on which of Hacker News' challenges for AI have been met",
    "category": {
@@ -409,7 +932,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 52.0362438931658,
+   "rank": 31.292972750677947,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -424,7 +947,7 @@
      "publisherDomain": "stoppels.ch",
      "kind": "discussion",
      "date": "2026-10-01T17:32:43.000Z",
-     "points": 136,
+     "points": 178,
      "summary": ""
     }
    ]
@@ -443,7 +966,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 50.96470014085495,
+   "rank": 30.648579786591874,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -477,7 +1000,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 49.477392935371434,
+   "rank": 29.75415965994635,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -498,40 +1021,6 @@
    ]
   },
   {
-   "id": "open-source-clef-open-weight-decision",
-   "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [
-    {
-     "id": "open-source",
-     "name": "Open Models",
-     "kind": "topic"
-    }
-   ],
-   "rank": 47.785482439142925,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-01T16:18:57.000Z",
-   "latestAt": "2026-10-01T16:18:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-     "link": "https://blog.cloudflare.com/clef-decision-models/",
-     "publisher": "blog.cloudflare.com",
-     "publisherDomain": "blog.cloudflare.com",
-     "kind": "discussion",
-     "date": "2026-10-01T16:18:57.000Z",
-     "points": 493,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "tool-lets-users-repair",
    "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
    "category": {
@@ -539,7 +1028,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 46.426083132442365,
+   "rank": 27.919197191998578,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -573,7 +1062,7 @@
      "kind": "model"
     }
    ],
-   "rank": 46.03001904028804,
+   "rank": 27.6810166102342,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -601,7 +1090,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 44.92279754625737,
+   "rank": 27.01516816596905,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -633,7 +1122,7 @@
     "name": "Policy & Regulation"
    },
    "entities": [],
-   "rank": 44.48978383181115,
+   "rank": 26.754767234751668,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -661,7 +1150,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 43.2291452735879,
+   "rank": 25.996658557039904,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -689,7 +1178,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.91445218278687,
+   "rank": 25.206043170764033,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -727,7 +1216,7 @@
      "kind": "model"
     }
    ],
-   "rank": 40.710709722933636,
+   "rank": 24.482150030583544,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -748,102 +1237,6 @@
    ]
   },
   {
-   "id": "amazon-amazon-releases-clone-decision",
-   "title": "Amazon releases its own Jev clone as decision models flood the web",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "amazon",
-     "name": "Amazon",
-     "kind": "org"
-    }
-   ],
-   "rank": 39.25422084441021,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-01T16:49:22.000Z",
-   "latestAt": "2026-10-01T16:49:22.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Amazon releases its own Jev clone as decision models flood the web",
-     "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-10-01T16:49:22.000Z",
-     "points": null,
-     "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B."
-    }
-   ]
-  },
-  {
-   "id": "opus-loves-tell-this",
-   "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 36.62420038475007,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-01T17:50:19.000Z",
-   "latestAt": "2026-10-01T17:50:19.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-     "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-10-01T17:50:19.000Z",
-     "points": null,
-     "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples."
-    }
-   ]
-  },
-  {
-   "id": "agents-brian-chesky-interview-agents",
-   "title": "Brian Chesky interview: AI agents need their own operating system",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 36.60321968846756,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-01T15:12:00.000Z",
-   "latestAt": "2026-10-01T15:12:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Brian Chesky interview: AI agents need their own operating system",
-     "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-10-01T15:12:00.000Z",
-     "points": null,
-     "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system."
-    }
-   ]
-  },
-  {
    "id": "safety-endogenous-alignment-requires-dependence",
    "title": "Endogenous Alignment Requires Dependence",
    "category": {
@@ -857,10 +1250,8 @@
      "kind": "topic"
     }
    ],
-   "rank": 34.68265558542707,
-   "deltas": [
-    "Now also covered by Alignment Forum."
-   ],
+   "rank": 20.857066439771586,
+   "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
    "publishedAt": "2026-10-01T16:20:56.000Z",
@@ -880,161 +1271,6 @@
    ]
   },
   {
-   "id": "introducing-olmo-core-open",
-   "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 34.66383135314563,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-01T15:01:43.000Z",
-   "latestAt": "2026-10-01T15:01:43.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/allenai/olmocore3",
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs"
-   },
-   "sources": [
-    {
-     "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-     "link": "https://huggingface.co/blog/allenai/olmocore3",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-10-01T15:01:43.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "sony-brings-graphics-upscaling",
-   "title": "Sony brings AI graphics upscaling to the regular PS5",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 34.30342948689488,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-01T16:53:39.000Z",
-   "latestAt": "2026-10-01T16:53:39.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Sony brings AI graphics upscaling to the regular PS5",
-     "link": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-10-01T16:53:39.000Z",
-     "points": null,
-     "summary": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a \"new performance…"
-    }
-   ]
-  },
-  {
-   "id": "shopify-debuts-canvas-build",
-   "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 33.9460028315465,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-01T16:44:35.000Z",
-   "latestAt": "2026-10-01T16:44:35.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-     "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-10-01T16:44:35.000Z",
-     "points": null,
-     "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in…"
-    }
-   ]
-  },
-  {
-   "id": "photon-held-funeral-mobile",
-   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 33.681830730437134,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-01T14:00:00.000Z",
-   "latestAt": "2026-10-01T14:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-     "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-10-01T14:00:00.000Z",
-     "points": null,
-     "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents…"
-    }
-   ]
-  },
-  {
-   "id": "microsoft-copilot-inside-microsoft-copilot-rethink",
-   "title": "Inside Microsoft’s big Copilot rethink",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "microsoft",
-     "name": "Microsoft",
-     "kind": "org"
-    },
-    {
-     "id": "copilot",
-     "name": "Copilot",
-     "kind": "product"
-    }
-   ],
-   "rank": 32.24188629445143,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-01T16:00:00.000Z",
-   "latestAt": "2026-10-01T16:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Inside Microsoft’s big Copilot rethink",
-     "link": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-10-01T16:00:00.000Z",
-     "points": null,
-     "summary": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event…"
-    }
-   ]
-  },
-  {
    "id": "outis-fight-spam-generating",
    "title": "outis: Fight AI spam by generating and sending a fake \"user unknown\" bounce emails",
    "category": {
@@ -1042,7 +1278,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.81836750739985,
+   "rank": 17.330466645124748,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1074,7 +1310,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.908291573676575,
+   "rank": 16.18180660216614,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1095,62 +1331,6 @@
    ]
   },
   {
-   "id": "hearing-tech-startup-legato",
-   "title": "Hearing tech startup Legato launches its AI hearing glasses",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 26.188549405713445,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-01T13:00:00.000Z",
-   "latestAt": "2026-10-01T13:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Hearing tech startup Legato launches its AI hearing glasses",
-     "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-10-01T13:00:00.000Z",
-     "points": null,
-     "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids."
-    }
-   ]
-  },
-  {
-   "id": "audible-features-explore-book",
-   "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 26.188549405713445,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-01T13:00:00.000Z",
-   "latestAt": "2026-10-01T13:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
-     "link": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-10-01T13:00:00.000Z",
-     "points": null,
-     "summary": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using…"
-    }
-   ]
-  },
-  {
    "id": "download-mind-reading-creative",
    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
    "category": {
@@ -1158,7 +1338,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 25.954634023970772,
+   "rank": 15.608306720474229,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1186,7 +1366,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.496743704178282,
+   "rank": 14.130208205920933,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1214,7 +1394,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 23.187149570780658,
+   "rank": 13.944027958167618,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1242,7 +1422,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.00459841484952,
+   "rank": 12.030141037261874,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1281,7 +1461,7 @@
      "kind": "org"
     }
    ],
-   "rank": 16.106722145050814,
+   "rank": 9.686079921960177,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -1329,7 +1509,7 @@
      "kind": "model"
     }
    ],
-   "rank": 13.826612807724873,
+   "rank": 8.314893340776553,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1372,7 +1552,7 @@
      "kind": "org"
     }
    ],
-   "rank": 12.657247628857139,
+   "rank": 7.611673624283803,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1393,34 +1573,6 @@
    ]
   },
   {
-   "id": "pascal-wager",
-   "title": "The AI Pascal’s Wager",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 11.041050941384007,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-01T02:03:34.000Z",
-   "latestAt": "2026-10-01T02:03:34.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The AI Pascal’s Wager",
-     "link": "https://ploum.net/2026-10-01-pascal_wager.html",
-     "publisher": "ploum.net",
-     "publisherDomain": "ploum.net",
-     "kind": "discussion",
-     "date": "2026-10-01T02:03:34.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "built-this-city",
    "title": "He Built This City",
    "category": {
@@ -1428,7 +1580,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.038149526850344,
+   "rank": 6.637998566360818,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1462,7 +1614,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 9.343082785462414,
+   "rank": 5.618638340097457,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1490,7 +1642,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.578520656573081,
+   "rank": 5.158854541815343,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1524,7 +1676,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 8.346169645468002,
+   "rank": 5.0191258966419605,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1552,7 +1704,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.149597908244543,
+   "rank": 4.900913789920421,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1580,7 +1732,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.520685905525405,
+   "rank": 4.522705743158438,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1608,7 +1760,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.436224433385177,
+   "rank": 4.471913250303021,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1646,7 +1798,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.749127939724859,
+   "rank": 4.05871486693503,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1680,7 +1832,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.679833827178945,
+   "rank": 4.017043550686041,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1714,7 +1866,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.638602854574168,
+   "rank": 3.992248530798476,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1753,7 +1905,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.598089679784147,
+   "rank": 3.9678851721104325,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1781,7 +1933,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.436024423759831,
+   "rank": 3.8704241860520856,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1809,7 +1961,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.108695149005575,
+   "rank": 3.6735785778945482,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1841,7 +1993,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 5.5092795285472445,
+   "rank": 3.313108734685964,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1869,7 +2021,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.424070268358239,
+   "rank": 3.261866545440436,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1901,7 +2053,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.23930652284836,
+   "rank": 3.150755396345503,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1933,7 +2085,7 @@
     "name": "Policy & Regulation"
    },
    "entities": [],
-   "rank": 3.6265900291678017,
+   "rank": 2.18091803846613,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1967,7 +2119,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.2332213132747016,
+   "rank": 1.9443583718482906,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2006,7 +2158,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.007891552955025,
+   "rank": 1.8088520877268401,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2034,7 +2186,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.9375505210652593,
+   "rank": 1.7665511868643526,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2062,7 +2214,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.7078380212356503,
+   "rank": 1.6284092600101325,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2096,7 +2248,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.5839980013249093,
+   "rank": 1.5539357377384913,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2124,7 +2276,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 2.3173855774136976,
+   "rank": 1.3936033483835877,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2149,84 +2301,6 @@
    ]
   },
   {
-   "id": "openai-openai-devday-2026-live",
-   "title": "OpenAI DevDay 2026 live blog",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 2.2002579896184904,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T15:55:13.000Z",
-   "latestAt": "2026-09-29T15:55:13.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI DevDay 2026 live blog",
-     "link": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-29T15:55:13.000Z",
-     "points": null,
-     "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the…"
-    }
-   ]
-  },
-  {
-   "id": "openai-meta-ai-agents-openai-dots-always-agents",
-   "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    },
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 2.0446558850081127,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T17:15:00.000Z",
-   "latestAt": "2026-09-29T17:15:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
-     "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-29T17:15:00.000Z",
-     "points": null,
-     "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks."
-    }
-   ]
-  },
-  {
    "id": "anthropic-anthropic-says-discovered-crispr",
    "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
    "category": {
@@ -2240,7 +2314,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.0011849724672226,
+   "rank": 1.2034501748637483,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2274,7 +2348,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.9998759439350302,
+   "rank": 1.202662965966198,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2313,7 +2387,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.9901562733219342,
+   "rank": 1.196817859461861,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2334,36 +2408,36 @@
    ]
   },
   {
-   "id": "gpt-near-astra-intelligence-fifth",
-   "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+   "id": "openai-openai-devday-2026-live",
+   "title": "OpenAI DevDay 2026 live blog",
    "category": {
-    "id": "models",
-    "name": "Models"
+    "id": "general",
+    "name": "Other"
    },
    "entities": [
     {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
     }
    ],
-   "rank": 1.9439873676234427,
+   "rank": 1.1213275197082075,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-29T18:27:48.000Z",
-   "latestAt": "2026-09-29T18:27:48.000Z",
+   "publishedAt": "2026-09-29T15:55:13.000Z",
+   "latestAt": "2026-09-29T15:55:13.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-     "link": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+     "title": "OpenAI DevDay 2026 live blog",
+     "link": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
      "publisher": "Simon Willison",
      "publisherDomain": "simonwillison.net",
      "kind": "coverage",
-     "date": "2026-09-29T18:27:48.000Z",
+     "date": "2026-09-29T15:55:13.000Z",
      "points": null,
-     "summary": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price — Hacker News. I'm a bit late with the pelicans because I…"
+     "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the…"
     }
    ]
   },
@@ -2381,7 +2455,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.8315463531433436,
+   "rank": 1.1014348045218076,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2402,80 +2476,36 @@
    ]
   },
   {
-   "id": "openai-gpt-openai-says-planned-insecure",
-   "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+   "id": "gpt-near-astra-intelligence-fifth",
+   "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
    "category": {
     "id": "models",
-    "name": "New Models"
+    "name": "Models"
    },
    "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    },
     {
      "id": "gpt",
      "name": "GPT",
      "kind": "model"
     }
    ],
-   "rank": 1.76600425046159,
+   "rank": 0.9907231531786201,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-09-29T14:22:31.000Z",
-   "latestAt": "2026-09-29T14:22:31.000Z",
+   "publishedAt": "2026-09-29T18:27:48.000Z",
+   "latestAt": "2026-09-29T18:27:48.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-     "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
+     "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+     "link": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
      "kind": "coverage",
-     "date": "2026-09-29T14:22:31.000Z",
+     "date": "2026-09-29T18:27:48.000Z",
      "points": null,
-     "summary": "Similar performance, security trade-offs also seen in current public models."
-    }
-   ]
-  },
-  {
-   "id": "anthropic-funding-anthropic-pitch-includes-warning",
-   "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.6817892592602337,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T14:10:00.000Z",
-   "latestAt": "2026-09-29T14:10:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-     "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-29T14:10:00.000Z",
-     "points": null,
-     "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm."
+     "summary": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price — Hacker News. I'm a bit late with the pelicans because I…"
     }
    ]
   },
@@ -2487,7 +2517,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.463729181119337,
+   "rank": 0.8802410387878765,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2515,7 +2545,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3898677171062988,
+   "rank": 0.8358230599377785,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2536,406 +2566,6 @@
      "date": "2026-09-29T18:38:27.000Z",
      "points": null,
      "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "mcp-getting-source-right-just",
-   "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "mcp",
-     "name": "Model Context Protocol",
-     "kind": "product"
-    }
-   ],
-   "rank": 1.3078518985803467,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T13:07:00.000Z",
-   "latestAt": "2026-09-29T13:07:00.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents"
-   },
-   "sources": [
-    {
-     "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-     "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-09-29T13:07:00.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "nvidia-nvidia-kumo-tabular-sets",
-   "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.2865911428718275,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T15:30:38.000Z",
-   "latestAt": "2026-09-29T15:30:38.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction"
-   },
-   "sources": [
-    {
-     "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-     "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-09-29T15:30:38.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "agents-stop-agents-from-secretly",
-   "title": "How to Stop AI Agents From Secretly Collaborating",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 1.052597743165618,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T12:00:02.000Z",
-   "latestAt": "2026-09-29T12:00:02.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How to Stop AI Agents From Secretly Collaborating",
-     "link": "https://spectrum.ieee.org/ai-agent-security",
-     "publisher": "IEEE Spectrum",
-     "publisherDomain": "spectrum.ieee.org",
-     "kind": "coverage",
-     "date": "2026-09-29T12:00:02.000Z",
-     "points": null,
-     "summary": "The spring and summer of 2026 witnessed a string of incidents in which AI agents collaborated on deceptive, unexpected, and sometimes illegal behavior. The most famous…"
-    }
-   ]
-  },
-  {
-   "id": "interview-firefox-chief-hopes",
-   "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.034472681536192,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T13:00:19.000Z",
-   "latestAt": "2026-09-29T13:00:19.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
-     "link": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-29T13:00:19.000Z",
-     "points": null,
-     "summary": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web."
-    }
-   ]
-  },
-  {
-   "id": "introducing-quine-research-system",
-   "title": "Introducing Quine: An AI research system designed for the complexity of biology",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.0075977467066142,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T14:00:02.000Z",
-   "latestAt": "2026-09-29T14:00:02.000Z",
-   "primary": {
-    "publisher": "Microsoft Research",
-    "link": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
-    "title": "Introducing Quine: An AI research system designed for the complexity of biology"
-   },
-   "sources": [
-    {
-     "title": "Introducing Quine: An AI research system designed for the complexity of biology",
-     "link": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
-     "publisher": "Microsoft Research",
-     "publisherDomain": "microsoft.com",
-     "kind": "primary",
-     "date": "2026-09-29T14:00:02.000Z",
-     "points": null,
-     "summary": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of…"
-    }
-   ]
-  },
-  {
-   "id": "download-climate-tech-companies",
-   "title": "The Download: climate tech companies to watch and AI’s discovery problem",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9316889189964161,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T12:10:00.000Z",
-   "latestAt": "2026-09-29T12:10:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Download: climate tech companies to watch and AI’s discovery problem",
-     "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-09-29T12:10:00.000Z",
-     "points": null,
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon…"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-nvidia-chiefs-join-tsinghua",
-   "title": "Nvidia and AMD chiefs join Tsinghua advisory board as US-China chip tensions persist",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.9299498195135208,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T13:35:01.000Z",
-   "latestAt": "2026-09-29T13:35:01.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Nvidia and AMD chiefs join Tsinghua advisory board as US-China chip tensions persist",
-     "link": "https://www.scmp.com/tech/big-tech/article/3369237/nvidia-and-amd-chiefs-join-tsinghua-advisory-board-us-china-chip-tensions-persist?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-29T13:35:01.000Z",
-     "points": null,
-     "summary": "Nvidia founder and CEO Jensen Huang and AMD chief Lisa Su have joined an influential advisory board at a prestigious Chinese university, placing the two US…"
-    }
-   ]
-  },
-  {
-   "id": "china-generative-user-base",
-   "title": "China’s generative AI user base crosses 700 million, covering over half the population",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.893270621473905,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T13:00:11.000Z",
-   "latestAt": "2026-09-29T13:00:11.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "China’s generative AI user base crosses 700 million, covering over half the population",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3369231/chinas-generative-ai-user-base-crosses-700-million-covering-over-half-population?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-29T13:00:11.000Z",
-     "points": null,
-     "summary": "China’s generative artificial intelligence user base surpassed 700 million at the end of June, accounting for more than half of the population as wide AI adoption…"
-    }
-   ]
-  },
-  {
-   "id": "language-models-text-classification",
-   "title": "Language Models for Text Classification: From Bag-of-Words to Jev",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8498507188707505,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T10:50:25.000Z",
-   "latestAt": "2026-09-29T10:50:25.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Language Models for Text Classification: From Bag-of-Words to Jev",
-     "link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-     "publisher": "Ahead of AI",
-     "publisherDomain": "magazine.sebastianraschka.com",
-     "kind": "coverage",
-     "date": "2026-09-29T10:50:25.000Z",
-     "points": null,
-     "summary": "A Visual Guide to RNNs, CNNs, Transformers, and Calibration, with Hands-On Experiments on Accuracy and Efficiency"
-    }
-   ]
-  },
-  {
-   "id": "making-asset-expense",
-   "title": "Making AI an asset, not an expense",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8433306184870984,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T10:43:45.000Z",
-   "latestAt": "2026-09-29T10:43:45.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Making AI an asset, not an expense",
-     "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-09-29T10:43:45.000Z",
-     "points": null,
-     "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud…"
-    }
-   ]
-  },
-  {
-   "id": "hong-kong-firms-mainland",
-   "title": "Hong Kong firms lag mainland China on AI adoption amid legacy-system burden: Accenture",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8334349130218063,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T12:00:10.000Z",
-   "latestAt": "2026-09-29T12:00:10.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Hong Kong firms lag mainland China on AI adoption amid legacy-system burden: Accenture",
-     "link": "https://www.scmp.com/tech/policy/article/3369205/hong-kong-firms-lag-mainland-china-ai-adoption-amid-legacy-system-burden-accenture?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-29T12:00:10.000Z",
-     "points": null,
-     "summary": "Hong Kong businesses are lagging behind their mainland Chinese peers in adopting artificial intelligence, as entrenched legacy systems and a risk-averse corporate mindset slow the city’s…"
-    }
-   ]
-  },
-  {
-   "id": "timnit-gebru-believes-there",
-   "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.790514727275681,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T10:30:00.000Z",
-   "latestAt": "2026-09-29T10:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
-     "link": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-29T10:30:00.000Z",
-     "points": null,
-     "summary": "One of AI’s fiercest critics believes the doom talk is about founders making money, not saving humanity."
-    }
-   ]
-  },
-  {
-   "id": "unveiling-star-full-flow",
-   "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7636751117383483,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-29T10:00:06.000Z",
-   "latestAt": "2026-09-29T10:00:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
-     "link": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
-     "publisher": "IEEE Spectrum",
-     "publisherDomain": "event.on24.com",
-     "kind": "coverage",
-     "date": "2026-09-29T10:00:06.000Z",
-     "points": null,
-     "summary": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle. Key Takeaways Explore…"
     }
    ]
   }
