@@ -1,39 +1,39 @@
 {
  "date": "2026-10-03",
- "generated": "2026-10-03T20:57:14.499Z",
- "headline": "62 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2722 items read · 63 on-topic · 62 distinct developments · 9 with a primary source · 1 independently corroborated",
+ "generated": "2026-10-03T23:42:45.545Z",
+ "headline": "61 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2723 items read · 62 on-topic · 61 distinct developments · 10 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "anthropic-anthropic-tried-persuade-pope",
-   "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+   "id": "openai-openai-safety-leader-quits",
+   "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [
     {
-     "id": "anthropic",
-     "name": "Anthropic",
+     "id": "openai",
+     "name": "OpenAI",
      "kind": "org"
     }
    ],
-   "rank": 175.42897228804316,
+   "rank": 237.89129292084118,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-10-03T19:33:10.000Z",
-   "latestAt": "2026-10-03T19:33:10.000Z",
+   "publishedAt": "2026-10-03T22:18:13.000Z",
+   "latestAt": "2026-10-03T22:18:13.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Anthropic tried to persuade Pope that AI could be conscious being",
-     "link": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
-     "publisher": "telegraph.co.uk",
-     "publisherDomain": "telegraph.co.uk",
+     "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+     "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+     "publisher": "theguardian.com",
+     "publisherDomain": "theguardian.com",
      "kind": "discussion",
-     "date": "2026-10-03T19:33:10.000Z",
-     "points": 12,
+     "date": "2026-10-03T22:18:13.000Z",
+     "points": 44,
      "summary": ""
     }
    ]
@@ -52,7 +52,7 @@
      "kind": "model"
     }
    ],
-   "rank": 172.85960953693407,
+   "rank": 151.45808235266244,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -67,42 +67,152 @@
      "publisherDomain": "claude.dev",
      "kind": "discussion",
      "date": "2026-10-03T18:29:30.000Z",
-     "points": 25,
+     "points": 141,
      "summary": ""
     }
    ]
   },
   {
-   "id": "openai-openai-safety-employee-resigns",
-   "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+   "id": "agent-said-done-database",
+   "title": "The Agent Said It Was Done. The Database Disagreed.",
    "category": {
     "id": "general",
     "name": "Other"
    },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 116.98899488982812,
+   "entities": [],
+   "rank": 130.86428660552966,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-10-03T16:30:01.000Z",
-   "latestAt": "2026-10-03T16:30:01.000Z",
+   "publishedAt": "2026-10-03T22:56:48.000Z",
+   "latestAt": "2026-10-03T22:56:48.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "title": "The Agent Said It Was Done. The Database Disagreed."
+   },
+   "sources": [
+    {
+     "title": "The Agent Said It Was Done. The Database Disagreed.",
+     "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-10-03T22:56:48.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "going-need-default-hard",
+   "title": "We're going to need default hard budget caps on pretty much everything",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 118.79656556066416,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-03T23:34:02.000Z",
+   "latestAt": "2026-10-03T23:34:02.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-     "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
+     "title": "We're going to need default hard budget caps on pretty much everything",
+     "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
      "kind": "coverage",
-     "date": "2026-10-03T16:30:01.000Z",
+     "date": "2026-10-03T23:34:02.000Z",
      "points": null,
-     "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from…"
+     "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps…"
+    }
+   ]
+  },
+  {
+   "id": "september-sponsors-only-newsletter",
+   "title": "September sponsors-only newsletter",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 106.63137653105697,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-03T22:00:31.000Z",
+   "latestAt": "2026-10-03T22:00:31.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "September sponsors-only newsletter",
+     "link": "https://simonwillison.net/2026/Oct/3/newsletter/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-10-03T22:00:31.000Z",
+     "points": null,
+     "summary": "I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it…"
+    }
+   ]
+  },
+  {
+   "id": "agents-need-memory-they",
+   "title": "Agents don't need memory, they need documentation",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 102.38656261092844,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-10-03T17:03:37.000Z",
+   "latestAt": "2026-10-03T17:03:37.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Agents don't need memory, they need documentation",
+     "link": "https://liao.gg/blog/agents-dont-need-memory",
+     "publisher": "liao.gg",
+     "publisherDomain": "liao.gg",
+     "kind": "discussion",
+     "date": "2026-10-03T17:03:37.000Z",
+     "points": 22,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "lecun-zero-concerns-about",
+   "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 95.80005371347852,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-10-03T17:44:29.000Z",
+   "latestAt": "2026-10-03T17:44:29.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+     "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+     "publisher": "fortune.com",
+     "publisherDomain": "fortune.com",
+     "kind": "discussion",
+     "date": "2026-10-03T17:44:29.000Z",
+     "points": 53,
+     "summary": ""
     }
    ]
   },
@@ -125,7 +235,7 @@
      "kind": "org"
     }
    ],
-   "rank": 101.15976827534175,
+   "rank": 83.55356899956949,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -159,7 +269,7 @@
      "kind": "org"
     }
    ],
-   "rank": 96.15179110980324,
+   "rank": 79.41719766556076,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -180,62 +290,6 @@
    ]
   },
   {
-   "id": "midwife",
-   "title": "Our AI Midwife",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 120.30338181841451,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-03T19:12:27.000Z",
-   "latestAt": "2026-10-03T19:12:27.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Our AI Midwife",
-     "link": "https://www.astralcodexten.com/p/our-ai-midwife",
-     "publisher": "astralcodexten.com",
-     "publisherDomain": "astralcodexten.com",
-     "kind": "discussion",
-     "date": "2026-10-03T19:12:27.000Z",
-     "points": 23,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "bans-generated-code-from",
-   "title": "Pop!_OS bans AI-generated code from much of its codebase",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [],
-   "rank": 117.75064898903811,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-03T17:57:03.000Z",
-   "latestAt": "2026-10-03T17:57:03.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Pop!_OS bans AI-generated code from much of its codebase",
-     "link": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
-     "publisher": "neowin.net",
-     "publisherDomain": "neowin.net",
-     "kind": "discussion",
-     "date": "2026-10-03T17:57:03.000Z",
-     "points": 81,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "capcom-preparing-future-where",
    "title": "Capcom is preparing for a ‘future where we create games together with AI’",
    "category": {
@@ -243,7 +297,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 75.08222048402101,
+   "rank": 62.01464867710368,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -277,7 +331,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 74.1045064498861,
+   "rank": 61.20709940721424,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -305,7 +359,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 66.18603622278124,
+   "rank": 54.66678738622759,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -326,40 +380,6 @@
    ]
   },
   {
-   "id": "open-source-kolibri-sovereign-open-weight",
-   "title": "Kolibri: A Sovereign Open-Weight Model",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [
-    {
-     "id": "open-source",
-     "name": "Open Models",
-     "kind": "topic"
-    }
-   ],
-   "rank": 66.01028761184975,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-03T09:36:04.000Z",
-   "latestAt": "2026-10-03T09:36:04.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Kolibri: A Sovereign Open-Weight Model",
-     "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-     "publisher": "aleph-alpha.com",
-     "publisherDomain": "aleph-alpha.com",
-     "kind": "discussion",
-     "date": "2026-10-03T09:36:04.000Z",
-     "points": 392,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "muse-creates-detailed-profiles",
    "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
    "category": {
@@ -367,7 +387,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 53.75976652727468,
+   "rank": 44.40322905556018,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -401,7 +421,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 50.48748884103352,
+   "rank": 41.70047000317763,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -429,7 +449,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 48.21825143938561,
+   "rank": 39.82617860208504,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -468,7 +488,7 @@
      "kind": "org"
     }
    ],
-   "rank": 40.28053837102707,
+   "rank": 33.269972831123965,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -499,40 +519,6 @@
    ]
   },
   {
-   "id": "coding-agents-show-your-coding-agent",
-   "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "coding-agents",
-     "name": "Coding Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 28.393444644117363,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-02T19:10:38.000Z",
-   "latestAt": "2026-10-02T19:10:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-     "link": "https://pipod.dev/",
-     "publisher": "pipod.dev",
-     "publisherDomain": "pipod.dev",
-     "kind": "discussion",
-     "date": "2026-10-02T19:10:38.000Z",
-     "points": 38,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "claude-reviewing-lesswrong-post-history",
    "title": "Reviewing my LessWrong post history with Claude",
    "category": {
@@ -546,7 +532,7 @@
      "kind": "model"
     }
    ],
-   "rank": 27.6723272164675,
+   "rank": 22.85613876819619,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -574,7 +560,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 27.378175188557442,
+   "rank": 22.613181986272274,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -602,7 +588,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.12836471355701,
+   "rank": 21.58089289012586,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -636,7 +622,7 @@
      "kind": "org"
     }
    ],
-   "rank": 25.010270926836554,
+   "rank": 20.657396049934803,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -670,7 +656,7 @@
      "kind": "org"
     }
    ],
-   "rank": 23.99636828610696,
+   "rank": 19.819956564897,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -704,7 +690,7 @@
      "kind": "org"
     }
    ],
-   "rank": 19.21077553602775,
+   "rank": 15.867265086213077,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -732,7 +718,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 18.1036791261276,
+   "rank": 14.952851600982555,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -766,7 +752,7 @@
      "kind": "model"
     }
    ],
-   "rank": 17.777327975447214,
+   "rank": 14.683299744040346,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -804,7 +790,7 @@
      "kind": "org"
     }
    ],
-   "rank": 17.777228171173178,
+   "rank": 14.683217310050631,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -832,7 +818,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.27351941551582,
+   "rank": 13.441219276513227,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -866,7 +852,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 15.35340010899414,
+   "rank": 12.681240746747905,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -894,7 +880,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.230584587693825,
+   "rank": 12.579800467592129,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -922,7 +908,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.047890736179022,
+   "rank": 12.428903291881022,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -954,7 +940,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.948483108022826,
+   "rank": 12.346796914416565,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -982,7 +968,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.75512649920567,
+   "rank": 12.187092764913631,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1014,7 +1000,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.404572779019976,
+   "rank": 11.897550638167473,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1053,7 +1039,7 @@
      "kind": "model"
     }
    ],
-   "rank": 14.104132756407072,
+   "rank": 11.64940024609368,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1081,7 +1067,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.934816247244694,
+   "rank": 11.509552173364227,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1109,7 +1095,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.684344140068976,
+   "rank": 11.3026731062591,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1137,7 +1123,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.43994163181867,
+   "rank": 11.100807263890049,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1165,7 +1151,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.128169414386656,
+   "rank": 10.843296971750476,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1193,7 +1179,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.539908946815853,
+   "rank": 10.357419409900853,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1221,7 +1207,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.506393028902954,
+   "rank": 10.329736719364265,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1253,7 +1239,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.121563532353196,
+   "rank": 9.185927783605624,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1281,7 +1267,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.8191178137556,
+   "rank": 8.936120773879322,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1309,7 +1295,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.030560268081771,
+   "rank": 7.458850028305804,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1343,7 +1329,7 @@
      "kind": "model"
     }
    ],
-   "rank": 8.714723960171641,
+   "rank": 7.1979829741849315,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1371,7 +1357,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.565010218692533,
+   "rank": 7.074325935006962,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1399,7 +1385,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.08726010343775,
+   "rank": 6.679725117903042,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1437,7 +1423,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.780840456915319,
+   "rank": 6.42663581654314,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1469,7 +1455,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.884591494106226,
+   "rank": 5.686373152525988,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1497,7 +1483,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.557570660167214,
+   "rank": 4.5903116578950645,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1531,7 +1517,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.839823333085564,
+   "rank": 3.9974835816746523,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1570,7 +1556,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.496660638040191,
+   "rank": 3.7140461202472066,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1604,7 +1590,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.025079144978702,
+   "rank": 3.3245403167919614,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1638,7 +1624,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.907614915847109,
+   "rank": 3.2275199722315246,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1666,7 +1652,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 3.666629225384989,
+   "rank": 3.028476272752788,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1694,7 +1680,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.54790305913311,
+   "rank": 2.930413623014604,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1726,7 +1712,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.310310604945555,
+   "rank": 2.7341725891215307,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1758,10 +1744,8 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.8933408081272223,
-   "deltas": [
-    "Now also covered by Ars Technica AI."
-   ],
+   "rank": 2.389773671615415,
+   "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
    "publishedAt": "2026-10-01T16:28:04.000Z",
@@ -1794,7 +1778,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.7391593260346383,
+   "rank": 2.2624264729997083,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1822,7 +1806,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.04983951316714,
+   "rank": 1.6930782871633259,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1850,7 +1834,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 1.8312697202359214,
+   "rank": 1.5125491441428223,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1878,7 +1862,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.5799188783755311,
+   "rank": 1.3049442804056914,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1912,7 +1896,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.0919952575852674,
+   "rank": 0.9019405901910661,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1933,34 +1917,6 @@
      "date": "2026-10-01T00:00:00.000Z",
      "points": null,
      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead…"
-    }
-   ]
-  },
-  {
-   "id": "built-this-city",
-   "title": "He Built This City",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8717686033055995,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T21:54:19.000Z",
-   "latestAt": "2026-09-30T21:54:19.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "He Built This City",
-     "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-09-30T21:54:19.000Z",
-     "points": null,
-     "summary": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model , the 50 x27…"
     }
    ]
   }
