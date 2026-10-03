@@ -1,8 +1,8 @@
 {
  "date": "2026-10-03",
- "generated": "2026-10-03T00:21:12.656Z",
- "headline": "77 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2722 items read · 80 on-topic · 77 distinct developments · 14 with a primary source · 3 independently corroborated",
+ "generated": "2026-10-03T06:18:58.563Z",
+ "headline": "74 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2722 items read · 77 on-topic · 74 distinct developments · 15 with a primary source · 3 independently corroborated",
  "events": [
   {
    "id": "apple-agents-apple-changes-full-disk",
@@ -23,7 +23,7 @@
      "kind": "org"
     }
    ],
-   "rank": 167.97025634680946,
+   "rank": 111.10552112939318,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -54,59 +54,123 @@
    ]
   },
   {
-   "id": "open-sourcing-astabrief-fast",
-   "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+   "id": "what-worked-tokens-seconds",
+   "title": "What if AI worked at 1.000.000 tokens per seconds?",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 127.03878081096165,
-   "deltas": [
-    "Now also covered by allenai.org."
-   ],
+   "rank": 103.23331489703098,
+   "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-10-02T21:25:25.000Z",
-   "latestAt": "2026-10-02T21:25:25.000Z",
+   "publishedAt": "2026-10-03T04:22:21.000Z",
+   "latestAt": "2026-10-03T04:22:21.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-     "link": "https://allenai.org/blog/astabrief",
-     "publisher": "allenai.org",
-     "publisherDomain": "allenai.org",
+     "title": "What if AI worked at 1.000.000 tokens per seconds?",
+     "link": "https://www.echohive.ai/one-million-tokens-per-second",
+     "publisher": "echohive.ai",
+     "publisherDomain": "echohive.ai",
      "kind": "discussion",
-     "date": "2026-10-02T21:25:25.000Z",
-     "points": 16,
+     "date": "2026-10-03T04:22:21.000Z",
+     "points": 4,
      "summary": ""
     }
    ]
   },
   {
-   "id": "every-saas-business-will",
-   "title": "Every SaaS business will become a harness around a model",
+   "id": "claude-reviewing-lesswrong-post-history",
+   "title": "Reviewing my LessWrong post history with Claude",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 76.32838240464454,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-03T01:42:55.000Z",
+   "latestAt": "2026-10-03T01:42:55.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Reviewing my LessWrong post history with Claude",
+     "link": "https://www.lesswrong.com/posts/PAzerqAofFCLoWsgK/reviewing-my-lesswrong-post-history-with-claude",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-10-03T01:42:55.000Z",
+     "points": null,
+     "summary": "I thought it would be interesting to try having Claude Code download my entire LessWrong and EA Forum post and comment history and evaluate it for…"
+    }
+   ]
+  },
+  {
+   "id": "more-chinese-banks-likely",
+   "title": "More Chinese banks likely to adopt AI rules after Ping An move: analysts",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 115.8500085149263,
+   "rank": 75.51702496817785,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-02T21:06:56.000Z",
-   "latestAt": "2026-10-02T21:06:56.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-10-03T03:00:18.000Z",
+   "latestAt": "2026-10-03T03:00:18.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Every SaaS business will become a harness around a model",
-     "link": "https://blog.sshh.io/p/the-harness-is-the-company",
-     "publisher": "blog.sshh.io",
-     "publisherDomain": "blog.sshh.io",
-     "kind": "discussion",
-     "date": "2026-10-02T21:06:56.000Z",
-     "points": 77,
+     "title": "More Chinese banks likely to adopt AI rules after Ping An move: analysts",
+     "link": "https://www.scmp.com/business/banking-finance/article/3369577/more-chinese-banks-likely-adopt-ai-rules-after-ping-move-analysts?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-10-03T03:00:18.000Z",
+     "points": null,
+     "summary": "After Ping An Bank became the first listed Chinese lender to formally adopt rules governing its use of artificial intelligence, analysts said more mainland institutions were…"
+    }
+   ]
+  },
+  {
+   "id": "show-made-open-source",
+   "title": "Show HN: Made an open-source Lego AI generator",
+   "category": {
+    "id": "opensource",
+    "name": "Open Source"
+   },
+   "entities": [],
+   "rank": 70.94849485845346,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T20:00:15.000Z",
+   "latestAt": "2026-10-02T20:00:15.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/anteloc/ldraw-nova",
+    "title": "Show HN: Made an open-source Lego AI generator"
+   },
+   "sources": [
+    {
+     "title": "Show HN: Made an open-source Lego AI generator",
+     "link": "https://github.com/anteloc/ldraw-nova",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-10-02T20:00:15.000Z",
+     "points": 94,
      "summary": ""
     }
    ]
@@ -125,7 +189,7 @@
      "kind": "org"
     }
    ],
-   "rank": 104.29308516654704,
+   "rank": 68.98565156498019,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -159,7 +223,7 @@
      "kind": "org"
     }
    ],
-   "rank": 100.06510080086252,
+   "rank": 66.1890111567736,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -180,38 +244,6 @@
    ]
   },
   {
-   "id": "show-made-open-source",
-   "title": "Show HN: Made an open-source Lego AI generator",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [],
-   "rank": 107.2605280786716,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T20:00:15.000Z",
-   "latestAt": "2026-10-02T20:00:15.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/anteloc/ldraw-nova",
-    "title": "Show HN: Made an open-source Lego AI generator"
-   },
-   "sources": [
-    {
-     "title": "Show HN: Made an open-source Lego AI generator",
-     "link": "https://github.com/anteloc/ldraw-nova",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-10-02T20:00:15.000Z",
-     "points": 59,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "from-creator-redis-locally",
    "title": "From the creator of Redis; run LLM locally with ds4",
    "category": {
@@ -219,7 +251,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 93.48544728511187,
+   "rank": 61.8368368574801,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -234,7 +266,7 @@
      "publisherDomain": "dwarfstar.sh",
      "kind": "discussion",
      "date": "2026-10-02T18:01:16.000Z",
-     "points": 127,
+     "points": 202,
      "summary": ""
     }
    ]
@@ -258,7 +290,7 @@
      "kind": "org"
     }
    ],
-   "rank": 87.47484315479423,
+   "rank": 57.861065677953015,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -296,7 +328,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 84.58592081540807,
+   "rank": 55.95016056295978,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -311,7 +343,7 @@
      "publisherDomain": "arstechnica.com",
      "kind": "discussion",
      "date": "2026-10-02T14:11:24.000Z",
-     "points": 159,
+     "points": 204,
      "summary": ""
     }
    ]
@@ -335,7 +367,7 @@
      "kind": "org"
     }
    ],
-   "rank": 84.25903032491884,
+   "rank": 55.73393574382835,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -369,7 +401,7 @@
      "kind": "org"
     }
    ],
-   "rank": 80.10913016318055,
+   "rank": 52.9889448738204,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -397,7 +429,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 75.4925268283722,
+   "rank": 49.93524875810735,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -431,7 +463,7 @@
      "kind": "model"
     }
    ],
-   "rank": 74.13163919737943,
+   "rank": 49.03507671140993,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -463,7 +495,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 67.86074214576777,
+   "rank": 44.887132307315305,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -497,7 +529,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 64.02383524143353,
+   "rank": 42.34917379964455,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -525,7 +557,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 63.51169326343506,
+   "rank": 42.010412624926374,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -553,7 +585,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 62.749858036972455,
+   "rank": 41.50648947988995,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -585,7 +617,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 62.33532721242331,
+   "rank": 41.23229412954986,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -606,6 +638,41 @@
    ]
   },
   {
+   "id": "open-sourcing-astabrief-fast",
+   "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 40.69895997724631,
+   "deltas": [
+    "Now also covered by Hugging Face.",
+    "A primary source appeared: Hugging Face."
+   ],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T15:19:50.000Z",
+   "latestAt": "2026-10-02T15:19:50.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/allenai/astabrief",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta"
+   },
+   "sources": [
+    {
+     "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+     "link": "https://huggingface.co/blog/allenai/astabrief",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-10-02T15:19:50.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "state-field-epistemics-coordination",
    "title": "State of the Field: AI for Epistemics and Coordination",
    "category": {
@@ -613,7 +680,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 61.02823381344179,
+   "rank": 40.36770478845375,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -641,7 +708,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 60.06721558613977,
+   "rank": 39.732030156042775,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -675,7 +742,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 59.18024739818793,
+   "rank": 39.14533662534939,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -714,7 +781,7 @@
      "kind": "model"
     }
    ],
-   "rank": 58.814377623789476,
+   "rank": 38.903328588723525,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -742,7 +809,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 58.108326051544154,
+   "rank": 38.436304071498434,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -770,7 +837,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 57.06385480683278,
+   "rank": 37.74542864824063,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -804,7 +871,7 @@
      "kind": "org"
     }
    ],
-   "rank": 57.00910783601671,
+   "rank": 37.709215744509535,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -825,40 +892,6 @@
    ]
   },
   {
-   "id": "agents-jetbrains-building-system-products",
-   "title": "JetBrains Air: Building a System of Products for Agentic Software Development",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 56.715693487276695,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-02T15:03:41.000Z",
-   "latestAt": "2026-10-02T15:03:41.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "JetBrains Air: Building a System of Products for Agentic Software Development",
-     "link": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
-     "publisher": "blog.jetbrains.com",
-     "publisherDomain": "blog.jetbrains.com",
-     "kind": "discussion",
-     "date": "2026-10-02T15:03:41.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "these-experts-want-high",
    "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
    "category": {
@@ -866,7 +899,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 56.04469385162234,
+   "rank": 37.07129495632323,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -894,7 +927,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 54.74460052115345,
+   "rank": 36.211335877018435,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -922,7 +955,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 53.92272873880614,
+   "rank": 35.66770098197664,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -950,7 +983,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 52.291548364143715,
+   "rank": 34.58874123324163,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -966,7 +999,7 @@
      "kind": "coverage",
      "date": "2026-10-02T15:00:00.000Z",
      "points": null,
-     "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term."
+     "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term."
     }
    ]
   },
@@ -978,7 +1011,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 52.151786644186714,
+   "rank": 34.49629451637945,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1003,34 +1036,6 @@
    ]
   },
   {
-   "id": "decision-theoretic-case-niceness",
-   "title": "A decision theoretic case for AI niceness",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 49.952613876011085,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T19:29:08.000Z",
-   "latestAt": "2026-10-02T19:29:08.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "A decision theoretic case for AI niceness",
-     "link": "https://www.lesswrong.com/posts/D6ctcnrJtPLPKJkxK/a-decision-theoretic-case-for-ai-niceness-1",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-10-02T19:29:08.000Z",
-     "points": null,
-     "summary": "Disclaimer: I am still relatively new to decision theory, and I don't want to come across like this hasn't been discussed extensively. However, I realized that…"
-    }
-   ]
-  },
-  {
    "id": "what-name-trump-wants",
    "title": "What’s in a name? Why Trump wants to rebrand AI as ‘super intelligence’",
    "category": {
@@ -1038,7 +1043,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 46.37703350187525,
+   "rank": 30.676529212542643,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1059,40 +1064,6 @@
    ]
   },
   {
-   "id": "safety-safety-afford-pick-side",
-   "title": "AI Safety Can't Afford to Pick a Side on Consciousness",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 45.209179285229155,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T18:02:46.000Z",
-   "latestAt": "2026-10-02T18:02:46.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI Safety Can't Afford to Pick a Side on Consciousness",
-     "link": "https://www.lesswrong.com/posts/xvABT7XDFG5gdGrsZ/ai-safety-can-t-afford-to-pick-a-side-on-consciousness",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-10-02T18:02:46.000Z",
-     "points": null,
-     "summary": "TL;DR - More of the public than ever are talking about AI consciousness and they won't wait for research to split into their pro- and anti…"
-    }
-   ]
-  },
-  {
    "id": "download-biological-aging-contest",
    "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
    "category": {
@@ -1100,7 +1071,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 45.11583176678688,
+   "rank": 29.842295348322253,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1128,7 +1099,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.65752853680965,
+   "rank": 24.908929851774346,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1162,7 +1133,7 @@
      "kind": "model"
     }
    ],
-   "rank": 36.34048790754505,
+   "rank": 24.037760820747227,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1190,7 +1161,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.71618007671988,
+   "rank": 23.624806477534367,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1218,7 +1189,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 33.723957217385305,
+   "rank": 22.307031748803585,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1256,7 +1227,7 @@
      "kind": "org"
     }
    ],
-   "rank": 32.44618416226911,
+   "rank": 21.461836627587246,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1288,7 +1259,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.708816834977185,
+   "rank": 18.989719518392725,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1316,7 +1287,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.175126406087106,
+   "rank": 15.329407435513376,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1350,7 +1321,7 @@
      "kind": "org"
     }
    ],
-   "rank": 20.18211272261413,
+   "rank": 13.349650112508098,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1389,7 +1360,7 @@
      "kind": "org"
     }
    ],
-   "rank": 18.751120779942056,
+   "rank": 12.40310690313016,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1423,7 +1394,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 16.78462113814668,
+   "rank": 11.102347040911914,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1457,7 +1428,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 16.29479410313849,
+   "rank": 10.778346297140441,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1485,7 +1456,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 15.289881312996865,
+   "rank": 10.11363718931036,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1513,7 +1484,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.79479198731034,
+   "rank": 9.786155653398268,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1545,7 +1516,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.804029027084958,
+   "rank": 9.13080608493503,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1583,7 +1554,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 11.422322361503733,
+   "rank": 7.555403593970283,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1611,7 +1582,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.547851702601866,
+   "rank": 5.654057680268529,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1639,7 +1610,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.738374599767629,
+   "rank": 5.1186213636922435,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1667,7 +1638,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 7.636413434072348,
+   "rank": 5.051178182405765,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1695,7 +1666,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.588277856752362,
+   "rank": 4.35787895154699,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1734,7 +1705,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.30455841464586,
+   "rank": 3.5087505361881925,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -1782,7 +1753,7 @@
      "kind": "model"
     }
    ],
-   "rank": 4.553631375444314,
+   "rank": 3.012042715201262,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1814,7 +1785,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.6352839781721116,
+   "rank": 2.40459310852161,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1853,7 +1824,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.53263964916688,
+   "rank": 2.3366980423763475,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1887,7 +1858,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.077033797567951,
+   "rank": 2.0353332253400267,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1915,7 +1886,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.825234304300744,
+   "rank": 1.8687780593956054,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1949,7 +1920,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.7487122472360395,
+   "rank": 1.8181618180861143,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1977,7 +1948,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.683973670796971,
+   "rank": 1.7753398719340117,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2021,7 +1992,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.619670717413762,
+   "rank": 1.7328060727889447,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2049,7 +2020,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.4768489420003843,
+   "rank": 1.638335253186425,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2077,7 +2048,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.4490325552321752,
+   "rank": 1.6199358400103356,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2115,7 +2086,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.2227454525991024,
+   "rank": 1.470256087120053,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2149,7 +2120,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.199924256301023,
+   "rank": 1.4551607901154497,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2183,7 +2154,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.1863453231881844,
+   "rank": 1.4461788758605347,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2222,7 +2193,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.1730027882949225,
+   "rank": 1.437353329452829,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2250,7 +2221,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.11962851326717,
+   "rank": 1.4020484083862224,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2278,7 +2249,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0118264885522192,
+   "rank": 1.3307417354355737,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2310,7 +2281,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 1.8144160443452686,
+   "rank": 1.2001627224779932,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2338,7 +2309,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.7863533824286588,
+   "rank": 1.1816004082663316,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2370,7 +2341,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.7255036283856198,
+   "rank": 1.1413507606168793,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2402,7 +2373,7 @@
     "name": "Policy & Regulation"
    },
    "entities": [],
-   "rank": 1.1943745277560405,
+   "rank": 0.7900303733300122,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2419,62 +2390,6 @@
      "date": "2026-09-30T09:13:03.000Z",
      "points": null,
      "summary": "Subscribers: The Daily Pulse won’t be published on October 1, which is China’s National Day. We will resume publication on Friday, October 2. US President Donald…"
-    }
-   ]
-  },
-  {
-   "id": "industry-integrates-human-expertise",
-   "title": "How ‘Industry 5.0’ integrates human expertise with artificial intelligence",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9674475163000268,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T06:10:39.000Z",
-   "latestAt": "2026-09-30T06:10:39.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How ‘Industry 5.0’ integrates human expertise with artificial intelligence",
-     "link": "https://www.scmp.com/native/tech/topics/evolving-world-agentic-ai/article/3367397/how-industry-50-integrates-human-expertise-artificial-intelligence?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-30T06:10:39.000Z",
-     "points": null,
-     "summary": "[The content of this article has been produced by our advertising partner.] The European Commission defines Industry 5.0 as placing human-centricity, sustainability and resilience at the…"
-    }
-   ]
-  },
-  {
-   "id": "chinese-firms-trail-global",
-   "title": "Chinese firms trail global peers on profits, but AI power boom offers bright spot: Natixis",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.891794421713372,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T05:00:10.000Z",
-   "latestAt": "2026-09-30T05:00:10.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Chinese firms trail global peers on profits, but AI power boom offers bright spot: Natixis",
-     "link": "https://www.scmp.com/business/china-business/article/3369282/chinese-firms-trail-global-peers-profits-ai-power-boom-offers-bright-spot-natixis?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-09-30T05:00:10.000Z",
-     "points": null,
-     "summary": "China’s corporate sector remains considerably weaker than it was before the Covid-19 pandemic, but the country is emerging as a key beneficiary of the global artificial…"
     }
    ]
   }
