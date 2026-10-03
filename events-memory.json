@@ -1,7 +1,44 @@
 {
- "apple-agents-apple-will-limit-disk": {
-  "id": "apple-agents-apple-will-limit-disk",
-  "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+ "apple-agents-apple-changes-full-disk": {
+  "id": "apple-agents-apple-changes-full-disk",
+  "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+  "firstSeen": "2026-10-03T00:21:12.611Z",
+  "publishers": [
+   "Ars Technica AI",
+   "The Verge"
+  ],
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "open-sourcing-astabrief-fast": {
+  "id": "open-sourcing-astabrief-fast",
+  "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+  "firstSeen": "2026-10-02T15:40:00.122Z",
+  "publishers": [
+   "allenai.org"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "every-saas-business-will": {
+  "id": "every-saas-business-will",
+  "title": "Every SaaS business will become a harness around a model",
+  "firstSeen": "2026-10-03T00:21:12.611Z",
+  "publishers": [
+   "blog.sshh.io"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "openai-openai-agent-enterprise-software": {
+  "id": "openai-openai-agent-enterprise-software",
+  "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
   "firstSeen": "2026-10-02T20:36:24.678Z",
   "publishers": [
    "The Verge"
@@ -11,10 +48,10 @@
   "hadPrimary": false,
   "category": "general"
  },
- "openai-openai-agent-enterprise-software": {
-  "id": "openai-openai-agent-enterprise-software",
-  "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-  "firstSeen": "2026-10-02T20:36:24.678Z",
+ "meta-ai-meta-open-sources-code": {
+  "id": "meta-ai-meta-open-sources-code",
+  "title": "Meta open sources code to let you make Muse AI gadgets",
+  "firstSeen": "2026-10-03T00:21:12.611Z",
   "publishers": [
    "The Verge"
   ],
@@ -47,15 +84,16 @@
   "hadPrimary": false,
   "category": "general"
  },
- "amazon-infrastructure-amazon-plan-combat-data": {
-  "id": "amazon-infrastructure-amazon-plan-combat-data",
-  "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-  "firstSeen": "2026-10-02T20:36:24.678Z",
+ "nvidia-deepseek-arrests-tech-accused-smuggling": {
+  "id": "nvidia-deepseek-arrests-tech-accused-smuggling",
+  "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+  "firstSeen": "2026-10-03T00:21:12.611Z",
   "publishers": [
-   "Ars Technica AI"
+   "Ars Technica AI",
+   "SCMP Tech"
   ],
-  "sourceCount": 1,
-  "independentCount": 1,
+  "sourceCount": 2,
+  "independentCount": 2,
   "hadPrimary": false,
   "category": "general"
  },
@@ -68,6 +106,30 @@
   ],
   "sourceCount": 1,
   "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "amazon-infrastructure-amazon-plan-combat-data": {
+  "id": "amazon-infrastructure-amazon-plan-combat-data",
+  "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+  "firstSeen": "2026-10-02T20:36:24.678Z",
+  "publishers": [
+   "Ars Technica AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "stability-ai-sean-parker-rebuilding-stability": {
+  "id": "stability-ai-sean-parker-rebuilding-stability",
+  "title": "Sean Parker is rebuilding Stability AI around music",
+  "firstSeen": "2026-10-03T00:21:12.611Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -94,18 +156,6 @@
   "independentCount": 1,
   "hadPrimary": true,
   "category": "models"
- },
- "nvidia-arrests-tech-accused-smuggling": {
-  "id": "nvidia-arrests-tech-accused-smuggling",
-  "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-  "firstSeen": "2026-10-02T20:36:24.678Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  },
  "computational-tools-society-most": {
   "id": "computational-tools-society-most",
@@ -167,16 +217,16 @@
   "hadPrimary": false,
   "category": "general"
  },
- "open-sourcing-astabrief-fast": {
-  "id": "open-sourcing-astabrief-fast",
-  "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-  "firstSeen": "2026-10-02T15:40:00.122Z",
+ "state-field-epistemics-coordination": {
+  "id": "state-field-epistemics-coordination",
+  "title": "State of the Field: AI for Epistemics and Coordination",
+  "firstSeen": "2026-10-03T00:21:12.611Z",
   "publishers": [
-   "Hugging Face"
+   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": true,
+  "hadPrimary": false,
   "category": "general"
  },
  "circuit-breaker-labs-hopes": {
@@ -191,17 +241,17 @@
   "hadPrimary": false,
   "category": "general"
  },
- "claude-failure-modes-claude-code": {
-  "id": "claude-failure-modes-claude-code",
-  "title": "Failure modes of Claude Code in a supervised but code-blind 60h project",
-  "firstSeen": "2026-10-02T20:36:24.678Z",
+ "safety-apply-safety-fellowships-beyond": {
+  "id": "safety-apply-safety-fellowships-beyond",
+  "title": "How to apply to AI safety fellowships (and beyond)",
+  "firstSeen": "2026-10-03T00:21:12.611Z",
   "publishers": [
    "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "models"
+  "category": "general"
  },
  "anthropic-claude-hong-kong-users-caught": {
   "id": "anthropic-claude-hong-kong-users-caught",
@@ -281,6 +331,18 @@
   "firstSeen": "2026-10-02T15:40:00.122Z",
   "publishers": [
    "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "dialogue-with-eliezer-yudkowsky": {
+  "id": "dialogue-with-eliezer-yudkowsky",
+  "title": "Dialogue with Eliezer Yudkowsky on Neural Networks",
+  "firstSeen": "2026-10-03T00:21:12.611Z",
+  "publishers": [
+   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -371,18 +433,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "training-world": {
-  "id": "training-world",
-  "title": "All the training in the world",
-  "firstSeen": "2026-10-02T15:40:00.122Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "gpt-flaw-chatgpt-could-have": {
   "id": "gpt-flaw-chatgpt-could-have",
   "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
@@ -466,18 +516,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "policy"
- },
- "funding-agents-kevin-mandia-agent-swarm": {
-  "id": "funding-agents-kevin-mandia-agent-swarm",
-  "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-  "firstSeen": "2026-10-02T01:30:59.944Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
  },
  "google-search-judge-dismisses-chegg-penske": {
   "id": "google-search-judge-dismisses-chegg-penske",
@@ -864,30 +902,6 @@
   "hadPrimary": false,
   "category": "policy"
  },
- "anthropic-quoting-anthropic-frontier-team": {
-  "id": "anthropic-quoting-anthropic-frontier-team",
-  "title": "Quoting Anthropic Frontier Red Team",
-  "firstSeen": "2026-09-30T00:17:22.524Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "deepseek-nvidia-china-deepseek-open-sources": {
-  "id": "deepseek-nvidia-china-deepseek-open-sources",
-  "title": "China’s DeepSeek open-sources tools to help Huawei chips supplant Nvidia in AI",
-  "firstSeen": "2026-09-30T06:33:22.846Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "industry-integrates-human-expertise": {
   "id": "industry-integrates-human-expertise",
   "title": "How ‘Industry 5.0’ integrates human expertise with artificial intelligence",
@@ -911,41 +925,5 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "openai-protests-against-openai-increasingly": {
-  "id": "openai-protests-against-openai-increasingly",
-  "title": "Protests against OpenAI get increasingly creative",
-  "firstSeen": "2026-09-30T00:17:22.524Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "open-leaderboard-scalable-evaluation": {
-  "id": "open-leaderboard-scalable-evaluation",
-  "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-  "firstSeen": "2026-09-30T19:03:33.259Z",
-  "publishers": [
-   "Hugging Face"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "research"
- },
- "nvidia-acquires-world-labs-startup": {
-  "id": "nvidia-acquires-world-labs-startup",
-  "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-  "firstSeen": "2026-09-30T00:17:22.524Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
  }
 }
