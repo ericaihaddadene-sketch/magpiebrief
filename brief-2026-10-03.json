@@ -1,9 +1,77 @@
 {
  "date": "2026-10-03",
- "generated": "2026-10-03T17:09:20.752Z",
- "headline": "65 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2722 items read · 67 on-topic · 65 distinct developments · 10 with a primary source · 2 independently corroborated",
+ "generated": "2026-10-03T20:57:14.499Z",
+ "headline": "62 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2722 items read · 63 on-topic · 62 distinct developments · 9 with a primary source · 1 independently corroborated",
  "events": [
+  {
+   "id": "anthropic-anthropic-tried-persuade-pope",
+   "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 175.42897228804316,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-10-03T19:33:10.000Z",
+   "latestAt": "2026-10-03T19:33:10.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+     "link": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
+     "publisher": "telegraph.co.uk",
+     "publisherDomain": "telegraph.co.uk",
+     "kind": "discussion",
+     "date": "2026-10-03T19:33:10.000Z",
+     "points": 12,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "claude-getting-most-opus-claude",
+   "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 172.85960953693407,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-10-03T18:29:30.000Z",
+   "latestAt": "2026-10-03T18:29:30.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+     "link": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+     "publisher": "claude.dev",
+     "publisherDomain": "claude.dev",
+     "kind": "discussion",
+     "date": "2026-10-03T18:29:30.000Z",
+     "points": 25,
+     "summary": ""
+    }
+   ]
+  },
   {
    "id": "openai-openai-safety-employee-resigns",
    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
@@ -18,7 +86,7 @@
      "kind": "org"
     }
    ],
-   "rank": 152.22433860580767,
+   "rank": 116.98899488982812,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -39,6 +107,135 @@
    ]
   },
   {
+   "id": "amazon-infrastructure-amazon-responds-data-center",
+   "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "infrastructure",
+     "name": "AI Infrastructure",
+     "kind": "topic"
+    },
+    {
+     "id": "amazon",
+     "name": "Amazon",
+     "kind": "org"
+    }
+   ],
+   "rank": 101.15976827534175,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-03T18:43:57.000Z",
+   "latestAt": "2026-10-03T18:43:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+     "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-10-03T18:43:57.000Z",
+     "points": null,
+     "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
+    }
+   ]
+  },
+  {
+   "id": "nvidia-nvidia-shield-years-just",
+   "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 96.15179110980324,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-03T18:00:00.000Z",
+   "latestAt": "2026-10-03T18:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+     "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-10-03T18:00:00.000Z",
+     "points": null,
+     "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception."
+    }
+   ]
+  },
+  {
+   "id": "midwife",
+   "title": "Our AI Midwife",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 120.30338181841451,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-10-03T19:12:27.000Z",
+   "latestAt": "2026-10-03T19:12:27.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Our AI Midwife",
+     "link": "https://www.astralcodexten.com/p/our-ai-midwife",
+     "publisher": "astralcodexten.com",
+     "publisherDomain": "astralcodexten.com",
+     "kind": "discussion",
+     "date": "2026-10-03T19:12:27.000Z",
+     "points": 23,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "bans-generated-code-from",
+   "title": "Pop!_OS bans AI-generated code from much of its codebase",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [],
+   "rank": 117.75064898903811,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-10-03T17:57:03.000Z",
+   "latestAt": "2026-10-03T17:57:03.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Pop!_OS bans AI-generated code from much of its codebase",
+     "link": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+     "publisher": "neowin.net",
+     "publisherDomain": "neowin.net",
+     "kind": "discussion",
+     "date": "2026-10-03T17:57:03.000Z",
+     "points": 81,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "capcom-preparing-future-where",
    "title": "Capcom is preparing for a ‘future where we create games together with AI’",
    "category": {
@@ -46,7 +243,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 97.69586758992891,
+   "rank": 75.08222048402101,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -67,40 +264,6 @@
    ]
   },
   {
-   "id": "coding-agents-show-offrun-manage-every",
-   "title": "Show HN: Offrun – manage every coding agent from one workspace",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "coding-agents",
-     "name": "Coding Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 96.63724258375079,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-03T08:40:17.000Z",
-   "latestAt": "2026-10-03T08:40:17.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Show HN: Offrun – manage every coding agent from one workspace",
-     "link": "https://offrun.dev/",
-     "publisher": "offrun.dev",
-     "publisherDomain": "offrun.dev",
-     "kind": "discussion",
-     "date": "2026-10-03T08:40:17.000Z",
-     "points": 58,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "agents-agents-that-live-your",
    "title": "All the AI agents that can live in your text messages",
    "category": {
@@ -114,7 +277,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 96.42368064335362,
+   "rank": 74.1045064498861,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -135,40 +298,6 @@
    ]
   },
   {
-   "id": "open-source-kolibri-open-weight-from",
-   "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [
-    {
-     "id": "open-source",
-     "name": "Open Models",
-     "kind": "topic"
-    }
-   ],
-   "rank": 92.8878131850135,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-03T10:43:51.000Z",
-   "latestAt": "2026-10-03T10:43:51.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-     "link": "https://tej.as/blog/aleph-alpha-kolibri",
-     "publisher": "tej.as",
-     "publisherDomain": "tej.as",
-     "kind": "discussion",
-     "date": "2026-10-03T10:43:51.000Z",
-     "points": 346,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "splice-kakul-srivastava-thinks",
    "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
    "category": {
@@ -176,7 +305,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 86.12028506135073,
+   "rank": 66.18603622278124,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -197,6 +326,40 @@
    ]
   },
   {
+   "id": "open-source-kolibri-sovereign-open-weight",
+   "title": "Kolibri: A Sovereign Open-Weight Model",
+   "category": {
+    "id": "opensource",
+    "name": "Open Source"
+   },
+   "entities": [
+    {
+     "id": "open-source",
+     "name": "Open Models",
+     "kind": "topic"
+    }
+   ],
+   "rank": 66.01028761184975,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-10-03T09:36:04.000Z",
+   "latestAt": "2026-10-03T09:36:04.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Kolibri: A Sovereign Open-Weight Model",
+     "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+     "publisher": "aleph-alpha.com",
+     "publisherDomain": "aleph-alpha.com",
+     "kind": "discussion",
+     "date": "2026-10-03T09:36:04.000Z",
+     "points": 392,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "muse-creates-detailed-profiles",
    "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
    "category": {
@@ -204,7 +367,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 69.95140791596424,
+   "rank": 53.75976652727468,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -238,7 +401,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 65.69356890305797,
+   "rank": 50.48748884103352,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -266,7 +429,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 62.74087097680673,
+   "rank": 48.21825143938561,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -305,7 +468,7 @@
      "kind": "org"
     }
    ],
-   "rank": 52.41243689622112,
+   "rank": 40.28053837102707,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -336,6 +499,40 @@
    ]
   },
   {
+   "id": "coding-agents-show-your-coding-agent",
+   "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "coding-agents",
+     "name": "Coding Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 28.393444644117363,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-10-02T19:10:38.000Z",
+   "latestAt": "2026-10-02T19:10:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+     "link": "https://pipod.dev/",
+     "publisher": "pipod.dev",
+     "publisherDomain": "pipod.dev",
+     "kind": "discussion",
+     "date": "2026-10-02T19:10:38.000Z",
+     "points": 38,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "claude-reviewing-lesswrong-post-history",
    "title": "Reviewing my LessWrong post history with Claude",
    "category": {
@@ -349,7 +546,7 @@
      "kind": "model"
     }
    ],
-   "rank": 36.00682023276799,
+   "rank": 27.6723272164675,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -377,7 +574,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.62407399291583,
+   "rank": 27.378175188557442,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -398,6 +595,34 @@
    ]
   },
   {
+   "id": "dino-store",
+   "title": "Rex's Dino Store",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 26.12836471355701,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-02T22:57:38.000Z",
+   "latestAt": "2026-10-02T22:57:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Rex's Dino Store",
+     "link": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-10-02T22:57:38.000Z",
+     "points": null,
+     "summary": "Museum: Rex's Dino Store Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this…"
+    }
+   ]
+  },
+  {
    "id": "openai-openai-agent-enterprise-software",
    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
    "category": {
@@ -411,7 +636,7 @@
      "kind": "org"
     }
    ],
-   "rank": 32.542992217131854,
+   "rank": 25.010270926836554,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -445,7 +670,7 @@
      "kind": "org"
     }
    ],
-   "rank": 31.22371719437359,
+   "rank": 23.99636828610696,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -466,73 +691,6 @@
    ]
   },
   {
-   "id": "from-creator-redis-locally",
-   "title": "From the creator of Redis; run LLM locally with ds4",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 29.170641357058336,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-02T18:01:16.000Z",
-   "latestAt": "2026-10-02T18:01:16.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "From the creator of Redis; run LLM locally with ds4",
-     "link": "https://dwarfstar.sh/",
-     "publisher": "dwarfstar.sh",
-     "publisherDomain": "dwarfstar.sh",
-     "kind": "discussion",
-     "date": "2026-10-02T18:01:16.000Z",
-     "points": 307,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "amazon-infrastructure-amazon-plan-combat-data",
-   "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "infrastructure",
-     "name": "AI Infrastructure",
-     "kind": "topic"
-    },
-    {
-     "id": "amazon",
-     "name": "Amazon",
-     "kind": "org"
-    }
-   ],
-   "rank": 26.291685241721524,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T20:30:27.000Z",
-   "latestAt": "2026-10-02T20:30:27.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-     "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-10-02T20:30:27.000Z",
-     "points": null,
-     "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution."
-    }
-   ]
-  },
-  {
    "id": "stability-ai-sean-parker-rebuilding-stability",
    "title": "Sean Parker is rebuilding Stability AI around music",
    "category": {
@@ -546,7 +704,7 @@
      "kind": "org"
     }
    ],
-   "rank": 24.99677514821283,
+   "rank": 19.21077553602775,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -574,7 +732,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 23.556237780329464,
+   "rank": 18.1036791261276,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -608,7 +766,7 @@
      "kind": "model"
     }
    ],
-   "rank": 23.13159452125753,
+   "rank": 17.777327975447214,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -646,7 +804,7 @@
      "kind": "org"
     }
    ],
-   "rank": 23.13146465742188,
+   "rank": 17.777228171173178,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -667,34 +825,6 @@
    ]
   },
   {
-   "id": "with-most-information-hidden",
-   "title": "With most information hidden, the game Stratego had stumped AI until now",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 22.36753067844583,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-02T14:11:24.000Z",
-   "latestAt": "2026-10-02T14:11:24.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "With most information hidden, the game Stratego had stumped AI until now",
-     "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-     "publisher": "Ars Technica",
-     "publisherDomain": "arstechnica.com",
-     "kind": "discussion",
-     "date": "2026-10-02T14:11:24.000Z",
-     "points": 259,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "computational-tools-society-most",
    "title": "Computational tools for society’s most complex challenges",
    "category": {
@@ -702,7 +832,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.174861209368782,
+   "rank": 16.27351941551582,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -736,7 +866,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 19.97761566498576,
+   "rank": 15.35340010899414,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -764,7 +894,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.81780993695061,
+   "rank": 15.230584587693825,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -792,7 +922,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.580091417013087,
+   "rank": 15.047890736179022,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -824,7 +954,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.45074369107785,
+   "rank": 14.948483108022826,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -852,7 +982,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.199150950068557,
+   "rank": 14.75512649920567,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -884,7 +1014,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.743015667845413,
+   "rank": 14.404572779019976,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -923,7 +1053,7 @@
      "kind": "model"
     }
    ],
-   "rank": 18.352087582891507,
+   "rank": 14.104132756407072,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -951,7 +1081,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.131775461682505,
+   "rank": 13.934816247244694,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -979,7 +1109,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.80586488445314,
+   "rank": 13.684344140068976,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1000,40 +1130,6 @@
    ]
   },
   {
-   "id": "nvidia-year-nvidia-shield-more",
-   "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 17.78878196622962,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T14:52:16.000Z",
-   "latestAt": "2026-10-02T14:52:16.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-     "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-10-02T14:52:16.000Z",
-     "points": null,
-     "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99."
-    }
-   ]
-  },
-  {
    "id": "these-experts-want-high",
    "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
    "category": {
@@ -1041,7 +1137,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.48785197899106,
+   "rank": 13.43994163181867,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1069,7 +1165,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.082178610834102,
+   "rank": 13.128169414386656,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1097,7 +1193,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.316742847510906,
+   "rank": 12.539908946815853,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1125,7 +1221,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.273132434053966,
+   "rank": 12.506393028902954,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1157,7 +1253,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.471212908267615,
+   "rank": 11.121563532353196,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1185,7 +1281,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.077675041556013,
+   "rank": 10.8191178137556,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1213,7 +1309,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.75043058830619,
+   "rank": 9.030560268081771,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1247,7 +1343,7 @@
      "kind": "model"
     }
    ],
-   "rank": 11.339469086118772,
+   "rank": 8.714723960171641,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1275,7 +1371,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.144663794404623,
+   "rank": 8.565010218692533,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1303,7 +1399,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.523022456413857,
+   "rank": 8.08726010343775,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1341,7 +1437,7 @@
      "kind": "org"
     }
    ],
-   "rank": 10.124313773843935,
+   "rank": 7.780840456915319,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1373,7 +1469,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.958127965356251,
+   "rank": 6.884591494106226,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1401,7 +1497,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.231428210796206,
+   "rank": 5.557570660167214,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1435,7 +1531,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.297506073470528,
+   "rank": 4.839823333085564,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1474,7 +1570,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.850987883134234,
+   "rank": 4.496660638040191,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1508,7 +1604,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 5.237373064512812,
+   "rank": 4.025079144978702,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1542,7 +1638,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 5.084530358186145,
+   "rank": 3.907614915847109,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1570,7 +1666,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 4.770963365165936,
+   "rank": 3.666629225384989,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1598,7 +1694,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.616478645044054,
+   "rank": 3.54790305913311,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1630,7 +1726,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.3073268805512415,
+   "rank": 3.310310604945555,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1655,6 +1751,36 @@
    ]
   },
   {
+   "id": "with-most-information-hidden",
+   "title": "With most information hidden, the game Stratego had stumped AI—until now",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 2.8933408081272223,
+   "deltas": [
+    "Now also covered by Ars Technica AI."
+   ],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-01T16:28:04.000Z",
+   "latestAt": "2026-10-01T16:28:04.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "With most information hidden, the game Stratego had stumped AI—until now",
+     "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-10-01T16:28:04.000Z",
+     "points": null,
+     "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key."
+    }
+   ]
+  },
+  {
    "id": "safety-endogenous-alignment-requires-dependence",
    "title": "Endogenous Alignment Requires Dependence",
    "category": {
@@ -1668,7 +1794,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.5641533388180813,
+   "rank": 2.7391593260346383,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1696,7 +1822,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.6672206598045514,
+   "rank": 2.04983951316714,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1724,7 +1850,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 2.38282089895956,
+   "rank": 1.8312697202359214,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1752,7 +1878,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.055766925239697,
+   "rank": 1.5799188783755311,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1773,59 +1899,6 @@
    ]
   },
   {
-   "id": "google-gemini-gemini-argon-next-frontier",
-   "title": "Gemini 4 Argon: our next era of frontier intelligence",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    },
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.655202767541802,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-09-30T20:01:45.000Z",
-   "latestAt": "2026-09-30T20:11:08.000Z",
-   "primary": {
-    "publisher": "Google DeepMind",
-    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "title": "Gemini 4 Argon: our next era of frontier intelligence"
-   },
-   "sources": [
-    {
-     "title": "Gemini 4 Argon: our next era of frontier intelligence",
-     "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-     "publisher": "Google DeepMind",
-     "publisherDomain": "deepmind.google",
-     "kind": "primary",
-     "date": "2026-09-30T20:01:45.000Z",
-     "points": null,
-     "summary": ""
-    },
-    {
-     "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-     "link": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-30T20:11:08.000Z",
-     "points": null,
-     "summary": "So much for Gemini 3.5 Pro."
-    }
-   ]
-  },
-  {
    "id": "gpt-frees-hours-week-grow",
    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
    "category": {
@@ -1839,7 +1912,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.4208879732930237,
+   "rank": 1.0919952575852674,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1871,7 +1944,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.1343323291261294,
+   "rank": 0.8717686033055995,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1888,197 +1961,6 @@
      "date": "2026-09-30T21:54:19.000Z",
      "points": null,
      "summary": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model , the 50 x27…"
-    }
-   ]
-  },
-  {
-   "id": "hugging-face-openai-defense-says-nonprofit-suing",
-   "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "hugging-face",
-     "name": "Hugging Face",
-     "kind": "org"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.1023038049472185,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T18:25:04.000Z",
-   "latestAt": "2026-09-30T18:25:04.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
-     "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-30T18:25:04.000Z",
-     "points": null,
-     "summary": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says."
-    }
-   ]
-  },
-  {
-   "id": "agents-battle-your-personal-agent",
-   "title": "The Battle to Be Your Personal AI Agent Is Here",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.9601392725720708,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T19:30:00.000Z",
-   "latestAt": "2026-09-30T19:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Battle to Be Your Personal AI Agent Is Here",
-     "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-30T19:30:00.000Z",
-     "points": null,
-     "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too."
-    }
-   ]
-  },
-  {
-   "id": "thinks-will-free-from",
-   "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.881569260604481,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T19:31:25.000Z",
-   "latestAt": "2026-09-30T19:31:25.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
-     "link": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-30T19:31:25.000Z",
-     "points": null,
-     "summary": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy."
-    }
-   ]
-  },
-  {
-   "id": "safety-trump-safety-accord-fancy",
-   "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.8576917743500581,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T20:30:09.000Z",
-   "latestAt": "2026-09-30T20:30:09.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-     "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-30T20:30:09.000Z",
-     "points": null,
-     "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters."
-    }
-   ]
-  },
-  {
-   "id": "trump-plan-combat-risks",
-   "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8374911351049877,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T18:47:01.000Z",
-   "latestAt": "2026-09-30T18:47:01.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-     "link": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-09-30T18:47:01.000Z",
-     "points": null,
-     "summary": "Trump gets dozens of AI firms to agree to voluntary safety tests."
-    }
-   ]
-  },
-  {
-   "id": "there-plenty-reasons-concerned",
-   "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7728611701706977,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-09-30T19:00:00.000Z",
-   "latestAt": "2026-09-30T19:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
-     "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-09-30T19:00:00.000Z",
-     "points": null,
-     "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events."
     }
    ]
   }
