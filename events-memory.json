@@ -1,13 +1,61 @@
 {
- "anthropic-religious-scholars-with-anthropic": {
-  "id": "anthropic-religious-scholars-with-anthropic",
-  "title": "Religious scholars met with Anthropic",
-  "firstSeen": "2026-10-04T12:11:24.491Z",
+ "runescape-position": {
+  "id": "runescape-position",
+  "title": "RuneScape's Position on Gen AI",
+  "firstSeen": "2026-10-04T17:25:12.842Z",
   "publishers": [
-   "The New York Times"
+   "reddit.com"
   ],
   "sourceCount": 1,
   "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "qwen-qwen-flash-next-125b": {
+  "id": "qwen-qwen-flash-next-125b",
+  "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+  "firstSeen": "2026-10-04T17:25:12.842Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "models"
+ },
+ "lieutenant-governor-told-says": {
+  "id": "lieutenant-governor-told-says",
+  "title": "NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
+  "firstSeen": "2026-10-04T17:25:12.842Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "couldn-beat-humans-starcraft": {
+  "id": "couldn-beat-humans-starcraft",
+  "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+  "firstSeen": "2026-10-04T17:25:12.842Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "rural-data-centers-federal": {
+  "id": "rural-data-centers-federal",
+  "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+  "firstSeen": "2026-10-04T12:11:24.491Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -23,24 +71,12 @@
   "hadPrimary": true,
   "category": "general"
  },
- "rural-data-centers-federal": {
-  "id": "rural-data-centers-federal",
-  "title": "Rural Data Centers Are in for a Big Federal Tax Break",
-  "firstSeen": "2026-10-04T12:11:24.491Z",
+ "what-future-pure-math": {
+  "id": "what-future-pure-math",
+  "title": "What's the Future for Pure Math Research in the Age of AI?",
+  "firstSeen": "2026-10-04T17:25:12.842Z",
   "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "models-ranked-normative-score": {
-  "id": "models-ranked-normative-score",
-  "title": "Models ranked by normative score across twelve paradigms, once neutral and once human-primed",
-  "firstSeen": "2026-10-04T12:11:24.491Z",
-  "publishers": [
-   "cognit.rajtilak.tech"
+   "writings.stephenwolfram.com"
   ],
   "sourceCount": 1,
   "independentCount": 0,
@@ -95,18 +131,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "agents-need-memory-they": {
-  "id": "agents-need-memory-they",
-  "title": "Agents don't need memory, they need documentation",
-  "firstSeen": "2026-10-03T23:42:45.486Z",
-  "publishers": [
-   "liao.gg"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
  "september-sponsors-only-newsletter": {
   "id": "september-sponsors-only-newsletter",
   "title": "September sponsors-only newsletter",
@@ -131,18 +155,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "openai-openai-safety-employee-resigns": {
-  "id": "openai-openai-safety-employee-resigns",
-  "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-  "firstSeen": "2026-10-04T12:11:24.491Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "safety-hiring-safety-ecosystem": {
   "id": "safety-hiring-safety-ecosystem",
   "title": "Hiring in the AI Safety Ecosystem",
@@ -155,22 +167,22 @@
   "hadPrimary": false,
   "category": "general"
  },
- "lecun-zero-concerns-about": {
-  "id": "lecun-zero-concerns-about",
-  "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-  "firstSeen": "2026-10-04T12:11:24.491Z",
-  "publishers": [
-   "fortune.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
  "amazon-infrastructure-amazon-responds-data-center": {
   "id": "amazon-infrastructure-amazon-responds-data-center",
   "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
   "firstSeen": "2026-10-03T20:57:14.444Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "openai-openai-safety-employee-resigns": {
+  "id": "openai-openai-safety-employee-resigns",
+  "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+  "firstSeen": "2026-10-04T12:11:24.491Z",
   "publishers": [
    "TechCrunch"
   ],
@@ -209,18 +221,6 @@
   "firstSeen": "2026-10-03T17:09:20.700Z",
   "publishers": [
    "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "splice-kakul-srivastava-thinks": {
-  "id": "splice-kakul-srivastava-thinks",
-  "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-  "firstSeen": "2026-10-03T17:09:20.700Z",
-  "publishers": [
-   "The Verge"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -287,18 +287,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "meta-ai-meta-open-sources-code": {
-  "id": "meta-ai-meta-open-sources-code",
-  "title": "Meta open sources code to let you make Muse AI gadgets",
-  "firstSeen": "2026-10-03T00:21:12.611Z",
-  "publishers": [
-   "The Verge"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "stability-ai-sean-parker-rebuilding-stability": {
   "id": "stability-ai-sean-parker-rebuilding-stability",
   "title": "Sean Parker is rebuilding Stability AI around music",
@@ -356,18 +344,6 @@
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "agents-four-horsemen-agentic-coding": {
-  "id": "agents-four-horsemen-agentic-coding",
-  "title": "The Four Horsemen of Agentic Coding",
-  "firstSeen": "2026-10-02T20:36:24.678Z",
-  "publishers": [
-   "distantprovince.substack.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
@@ -682,53 +658,5 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "tools"
- },
- "eternal-complement": {
-  "id": "eternal-complement",
-  "title": "The eternal complement",
-  "firstSeen": "2026-10-01T21:43:52.082Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "albertsons-companies-reimagining-retail": {
-  "id": "albertsons-companies-reimagining-retail",
-  "title": "How Albertsons Companies is reimagining retail from the inside out",
-  "firstSeen": "2026-10-01T21:43:52.082Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "with-most-information-hidden": {
-  "id": "with-most-information-hidden",
-  "title": "With most information hidden, the game Stratego had stumped AI—until now",
-  "firstSeen": "2026-10-01T21:43:52.082Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "safety-endogenous-alignment-requires-dependence": {
-  "id": "safety-endogenous-alignment-requires-dependence",
-  "title": "Endogenous Alignment Requires Dependence",
-  "firstSeen": "2026-10-01T21:43:52.082Z",
-  "publishers": [
-   "Alignment Forum"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  }
 }
