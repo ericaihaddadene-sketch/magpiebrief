@@ -1,28 +1,4 @@
 {
- "openai-openai-safety-leader-quits": {
-  "id": "openai-openai-safety-leader-quits",
-  "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-  "firstSeen": "2026-10-03T23:42:45.486Z",
-  "publishers": [
-   "theguardian.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "claude-getting-most-opus-claude": {
-  "id": "claude-getting-most-opus-claude",
-  "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-  "firstSeen": "2026-10-03T20:57:14.444Z",
-  "publishers": [
-   "claude.dev"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "models"
- },
  "agent-said-done-database": {
   "id": "agent-said-done-database",
   "title": "The Agent Said It Was Done. The Database Disagreed.",
@@ -47,12 +23,25 @@
   "hadPrimary": false,
   "category": "general"
  },
- "september-sponsors-only-newsletter": {
-  "id": "september-sponsors-only-newsletter",
-  "title": "September sponsors-only newsletter",
-  "firstSeen": "2026-10-03T23:42:45.486Z",
+ "openai-quit-openai-because-culture": {
+  "id": "openai-quit-openai-because-culture",
+  "title": "I quit OpenAI because its culture is broken",
+  "firstSeen": "2026-10-04T05:34:39.484Z",
   "publishers": [
-   "Simon Willison"
+   "The Verge",
+   "theatlantic.com"
+  ],
+  "sourceCount": 2,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "quality-over-quantity-china": {
+  "id": "quality-over-quantity-china",
+  "title": "Quality over quantity: China’s AI microdrama producers battle viewer fatigue",
+  "firstSeen": "2026-10-04T05:34:39.484Z",
+  "publishers": [
+   "SCMP Tech"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -71,15 +60,39 @@
   "hadPrimary": false,
   "category": "general"
  },
- "lecun-zero-concerns-about": {
-  "id": "lecun-zero-concerns-about",
-  "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+ "september-sponsors-only-newsletter": {
+  "id": "september-sponsors-only-newsletter",
+  "title": "September sponsors-only newsletter",
   "firstSeen": "2026-10-03T23:42:45.486Z",
   "publishers": [
-   "fortune.com"
+   "Simon Willison"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "safety-inside-ml4good-technical-safety": {
+  "id": "safety-inside-ml4good-technical-safety",
+  "title": "Inside the ML4Good Technical AI Safety Bootcamp: What to Expect",
+  "firstSeen": "2026-10-04T05:34:39.484Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "safety-hiring-safety-ecosystem": {
+  "id": "safety-hiring-safety-ecosystem",
+  "title": "Hiring in the AI Safety Ecosystem",
+  "firstSeen": "2026-10-04T05:34:39.484Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -143,6 +156,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "open-source-kolibri-sovereign-open-weight": {
+  "id": "open-source-kolibri-sovereign-open-weight",
+  "title": "Kolibri: A Sovereign Open-Weight Model",
+  "firstSeen": "2026-10-04T05:34:39.484Z",
+  "publishers": [
+   "aleph-alpha.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "opensource"
+ },
  "muse-creates-detailed-profiles": {
   "id": "muse-creates-detailed-profiles",
   "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
@@ -191,18 +216,6 @@
   "independentCount": 2,
   "hadPrimary": false,
   "category": "general"
- },
- "claude-reviewing-lesswrong-post-history": {
-  "id": "claude-reviewing-lesswrong-post-history",
-  "title": "Reviewing my LessWrong post history with Claude",
-  "firstSeen": "2026-10-03T06:18:58.521Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
  },
  "more-chinese-banks-likely": {
   "id": "more-chinese-banks-likely",
@@ -719,17 +732,5 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "gpt-frees-hours-week-grow": {
-  "id": "gpt-frees-hours-week-grow",
-  "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-  "firstSeen": "2026-10-01T21:43:52.082Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "models"
  }
 }
