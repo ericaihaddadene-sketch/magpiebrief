@@ -1,40 +1,469 @@
 {
  "date": "2026-10-05",
- "generated": "2026-10-05T06:48:31.370Z",
- "headline": "52 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2723 items read · 52 on-topic · 52 distinct developments · 6 with a primary source · 0 independently corroborated",
+ "generated": "2026-10-05T15:50:00.251Z",
+ "headline": "43 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2726 items read · 43 on-topic · 43 distinct developments · 5 with a primary source · 0 independently corroborated",
  "events": [
   {
-   "id": "anthropic-anthropic-reported-diary-entry",
-   "title": "Anthropic reported diary entry to police, woman faces felony charge",
+   "id": "openai-openai-launches-visual-that",
+   "title": "OpenAI launches visual ads that appear alongside image generation results",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [
     {
-     "id": "anthropic",
-     "name": "Anthropic",
+     "id": "openai",
+     "name": "OpenAI",
      "kind": "org"
     }
    ],
-   "rank": 190.61521289550566,
+   "rank": 152.88078005751848,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-05T05:37:40.000Z",
-   "latestAt": "2026-10-05T05:37:40.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-10-05T15:14:24.000Z",
+   "latestAt": "2026-10-05T15:14:24.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Anthropic reported diary entry to police, woman faces felony charge",
-     "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-     "publisher": "techspot.com",
-     "publisherDomain": "techspot.com",
+     "title": "OpenAI launches visual ads that appear alongside image generation results",
+     "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-10-05T15:14:24.000Z",
+     "points": null,
+     "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now."
+    }
+   ]
+  },
+  {
+   "id": "approach-text-provenance-rules",
+   "title": "Our approach to EU text provenance rules",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 122.70315978965233,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-05T15:00:00.000Z",
+   "latestAt": "2026-10-05T15:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/eu-text-provenance",
+    "title": "Our approach to EU text provenance rules"
+   },
+   "sources": [
+    {
+     "title": "Our approach to EU text provenance rules",
+     "link": "https://openai.com/index/eu-text-provenance",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-10-05T15:00:00.000Z",
+     "points": null,
+     "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
+    }
+   ]
+  },
+  {
+   "id": "nvidia-nvidia-shield-just-price",
+   "title": "Nvidia’s Shield TV Pro just got a $100 price hike",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 117.07843896137075,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-05T15:43:13.000Z",
+   "latestAt": "2026-10-05T15:43:13.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Nvidia’s Shield TV Pro just got a $100 price hike",
+     "link": "https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-10-05T15:43:13.000Z",
+     "points": null,
+     "summary": "Nvidia's Shield TV streaming boxes are the latest victims of the memory shortage that has seen prices increase dramatically for everything from digital cameras to game…"
+    }
+   ]
+  },
+  {
+   "id": "researchers-tracking-chinese-agent",
+   "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [],
+   "rank": 110.05910615231373,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-05T14:35:09.000Z",
+   "latestAt": "2026-10-05T14:35:09.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+     "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-10-05T14:35:09.000Z",
+     "points": null,
+     "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap."
+    }
+   ]
+  },
+  {
+   "id": "regulation-adam-schiff-regulation-free",
+   "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "regulation",
+     "name": "AI Regulation",
+     "kind": "topic"
+    }
+   ],
+   "rank": 109.4062520443343,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-05T14:30:00.000Z",
+   "latestAt": "2026-10-05T14:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+     "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-10-05T14:30:00.000Z",
+     "points": null,
+     "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property…"
+    }
+   ]
+  },
+  {
+   "id": "agents-bringing-predictive-analytics-agentic",
+   "title": "Bringing predictive analytics to the agentic AI era",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 107.1258560995409,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-05T13:29:32.000Z",
+   "latestAt": "2026-10-05T13:29:32.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Bringing predictive analytics to the agentic AI era",
+     "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-10-05T13:29:32.000Z",
+     "points": null,
+     "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how…"
+    }
+   ]
+  },
+  {
+   "id": "funding-robotics-europe-robotics-unicorn-germany",
+   "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
+    }
+   ],
+   "rank": 105.39431219966727,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-10-05T11:13:51.000Z",
+   "latestAt": "2026-10-05T11:13:51.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+     "link": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+     "publisher": "techfundingnews.com",
+     "publisherDomain": "techfundingnews.com",
      "kind": "discussion",
-     "date": "2026-10-05T05:37:40.000Z",
-     "points": 28,
+     "date": "2026-10-05T11:13:51.000Z",
+     "points": 264,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "glasses-face-their-first",
+   "title": "AI glasses face their first major government crackdown",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 94.60560957699917,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-05T13:39:30.000Z",
+   "latestAt": "2026-10-05T13:39:30.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI glasses face their first major government crackdown",
+     "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-10-05T13:39:30.000Z",
+     "points": null,
+     "summary": "Norway wants time to write permanent rules for glasses that can record bystanders."
+    }
+   ]
+  },
+  {
+   "id": "lola-vision-systems-trying",
+   "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 94.38704599204026,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-05T15:00:00.000Z",
+   "latestAt": "2026-10-05T15:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+     "link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-10-05T15:00:00.000Z",
+     "points": null,
+     "summary": "Lola Vision Systems is one of TechCrunch's Battlefield 200 Companies"
+    }
+   ]
+  },
+  {
+   "id": "open-closed-founders-choosing",
+   "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 94.38704599204026,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-05T15:00:00.000Z",
+   "latestAt": "2026-10-05T15:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+     "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-10-05T15:00:00.000Z",
+     "points": null,
+     "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a…"
+    }
+   ]
+  },
+  {
+   "id": "building-advertising-people",
+   "title": "Building advertising for the way people use AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 86.76423636027967,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-05T10:00:00.000Z",
+   "latestAt": "2026-10-05T10:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "title": "Building advertising for the way people use AI"
+   },
+   "sources": [
+    {
+     "title": "Building advertising for the way people use AI",
+     "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-10-05T10:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
+    }
+   ]
+  },
+  {
+   "id": "download-popularity-paradox-emtech",
+   "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 81.43476758972417,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-05T12:10:00.000Z",
+   "latestAt": "2026-10-05T12:10:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+     "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-10-05T12:10:00.000Z",
+     "points": null,
+     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. People really…"
+    }
+   ]
+  },
+  {
+   "id": "solves-major-unsolved-math",
+   "title": "AI Solves a Major Unsolved Math Problem. Not Everyone Is Happy",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 76.66905662075575,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-05T12:00:02.000Z",
+   "latestAt": "2026-10-05T12:00:02.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI Solves a Major Unsolved Math Problem. Not Everyone Is Happy",
+     "link": "https://spectrum.ieee.org/millennium-prize-ai",
+     "publisher": "IEEE Spectrum",
+     "publisherDomain": "spectrum.ieee.org",
+     "kind": "coverage",
+     "date": "2026-10-05T12:00:02.000Z",
+     "points": null,
+     "summary": "On 13 September, leading luminaries and up-and-coming talents in mathematics and computer science congregated at the annual Heidelberg Laureate Forum in Germany for a week of…"
+    }
+   ]
+  },
+  {
+   "id": "crunchbase-data-2026-posted",
+   "title": "Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI Race Heats Up",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 67.97241598582418,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-05T11:00:13.000Z",
+   "latestAt": "2026-10-05T11:00:13.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI Race Heats Up",
+     "link": "https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-10-05T11:00:13.000Z",
+     "points": null,
+     "summary": "Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 startups funded, Crunchbase data shows. And while the third quarter was the lowest…"
+    }
+   ]
+  },
+  {
+   "id": "minds-aren-equipped-handle",
+   "title": "Our minds aren’t equipped to handle AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 66.7417202771382,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-05T10:00:00.000Z",
+   "latestAt": "2026-10-05T10:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Our minds aren’t equipped to handle AI",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-10-05T10:00:00.000Z",
+     "points": null,
+     "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected…"
     }
    ]
   },
@@ -52,7 +481,7 @@
      "kind": "model"
     }
    ],
-   "rank": 117.49418909722914,
+   "rank": 62.85590477767306,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -73,6 +502,34 @@
    ]
   },
   {
+   "id": "people-really-hate-they",
+   "title": "People really hate AI, so why can’t they get enough?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 61.00714429174576,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-05T08:00:00.000Z",
+   "latestAt": "2026-10-05T08:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "People really hate AI, so why can’t they get enough?",
+     "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-10-05T08:00:00.000Z",
+     "points": null,
+     "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses…"
+    }
+   ]
+  },
+  {
    "id": "huawei-qualcomm-strike-multi",
    "title": "Huawei, Qualcomm strike multi-year patent agreement across 5G, AI",
    "category": {
@@ -80,7 +537,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 89.8385903821052,
+   "rank": 48.06098008596027,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -101,129 +558,6 @@
    ]
   },
   {
-   "id": "emtech-future-2026-when",
-   "title": "EmTech Future 2026: When AI Meets Everything",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 86.42492357837868,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-05T04:00:00.000Z",
-   "latestAt": "2026-10-05T04:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "EmTech Future 2026: When AI Meets Everything",
-     "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-10-05T04:00:00.000Z",
-     "points": null,
-     "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact…"
-    }
-   ]
-  },
-  {
-   "id": "building-pipeline-semantic-code",
-   "title": "Building a RAG Pipeline for Semantic Code Search",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 73.46489371324846,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-05T03:52:48.000Z",
-   "latestAt": "2026-10-05T03:52:48.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Building a RAG Pipeline for Semantic Code Search",
-     "link": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
-     "publisher": "blog.jetbrains.com",
-     "publisherDomain": "blog.jetbrains.com",
-     "kind": "discussion",
-     "date": "2026-10-05T03:52:48.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "homa-clusters-video",
-   "title": "Homa: The end of TCP for AI clusters [video]",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 67.16946041762428,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-04T19:42:25.000Z",
-   "latestAt": "2026-10-04T19:42:25.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Homa: The end of TCP for AI clusters [video]",
-     "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-     "publisher": "YouTube",
-     "publisherDomain": "youtube.com",
-     "kind": "discussion",
-     "date": "2026-10-04T19:42:25.000Z",
-     "points": 70,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "google-infrastructure-improper-redaction-reveals-google",
-   "title": "Improper redaction reveals Google Data Center water and electricity usage",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "infrastructure",
-     "name": "AI Infrastructure",
-     "kind": "topic"
-    },
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 66.75688098527051,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-04T19:37:05.000Z",
-   "latestAt": "2026-10-04T19:37:05.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Improper redaction reveals Google Data Center water and electricity usage",
-     "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-     "publisher": "1011now.com",
-     "publisherDomain": "1011now.com",
-     "kind": "discussion",
-     "date": "2026-10-04T19:37:05.000Z",
-     "points": 352,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "safety-alignment-engineering-misalignment-science",
    "title": "“Alignment Engineering” vs. “Misalignment Science”",
    "category": {
@@ -237,7 +571,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 62.34811889530357,
+   "rank": 33.35439356160176,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -271,7 +605,7 @@
      "kind": "org"
     }
    ],
-   "rank": 61.25583604161493,
+   "rank": 32.77005464604124,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -299,7 +633,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 49.84011901550266,
+   "rank": 26.66298477411431,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -327,7 +661,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 47.74454379609887,
+   "rank": 25.541914213456234,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -361,7 +695,7 @@
      "kind": "model"
     }
    ],
-   "rank": 41.80232591787218,
+   "rank": 22.36300397124059,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -380,7 +714,7 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-10-04T12:51:53.000Z",
-     "points": 730,
+     "points": 869,
      "summary": ""
     }
    ]
@@ -393,7 +727,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 38.36351528873958,
+   "rank": 20.523342324022106,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -414,34 +748,6 @@
    ]
   },
   {
-   "id": "former-using-innocent-sexual",
-   "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 36.498467079354654,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-04T16:16:04.000Z",
-   "latestAt": "2026-10-04T16:16:04.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-10-04T16:16:04.000Z",
-     "points": null,
-     "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated…"
-    }
-   ]
-  },
-  {
    "id": "creating-rogue-sanctuaries-major",
    "title": "Creating Rogue AI Sanctuaries has Major Issues from an Ecological Perspective and Beyond",
    "category": {
@@ -449,7 +755,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.09898635108775,
+   "rank": 18.77691621030854,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -470,62 +776,6 @@
    ]
   },
   {
-   "id": "couldn-beat-humans-starcraft",
-   "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 34.28783906818392,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-04T15:21:59.000Z",
-   "latestAt": "2026-10-04T15:21:59.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-10-04T15:21:59.000Z",
-     "points": null,
-     "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the…"
-    }
-   ]
-  },
-  {
-   "id": "scale-intent-quality-artistry",
-   "title": "How to scale intent, quality, and artistry with AI [video]",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 31.319375361298594,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-04T08:41:58.000Z",
-   "latestAt": "2026-10-04T08:41:58.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How to scale intent, quality, and artistry with AI [video]",
-     "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-     "publisher": "YouTube",
-     "publisherDomain": "youtube.com",
-     "kind": "discussion",
-     "date": "2026-10-04T08:41:58.000Z",
-     "points": 74,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "rural-data-centers-federal",
    "title": "Rural Data Centers Are in for a Big Federal Tax Break",
    "category": {
@@ -533,7 +783,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.637182748863818,
+   "rank": 12.645191387682667,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -554,40 +804,6 @@
    ]
   },
   {
-   "id": "open-source-kolibri-sovereign-open-weight",
-   "title": "Kolibri: A Sovereign Open-Weight Model",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [
-    {
-     "id": "open-source",
-     "name": "Open Models",
-     "kind": "topic"
-    }
-   ],
-   "rank": 18.475107759975632,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-04T07:57:55.000Z",
-   "latestAt": "2026-10-04T07:57:55.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Kolibri: A Sovereign Open-Weight Model",
-     "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-     "publisher": "aleph-alpha.com",
-     "publisherDomain": "aleph-alpha.com",
-     "kind": "discussion",
-     "date": "2026-10-04T07:57:55.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "agent-said-done-database",
    "title": "The Agent Said It Was Done. The Database Disagreed.",
    "category": {
@@ -595,7 +811,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.161295443270125,
+   "rank": 8.110843183059417,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -627,7 +843,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.76318837499346,
+   "rank": 7.362897387375282,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -655,7 +871,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.899431754207388,
+   "rank": 6.900813225389314,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -683,7 +899,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.353789143275877,
+   "rank": 6.608910619321105,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -722,7 +938,7 @@
      "kind": "org"
     }
    ],
-   "rank": 9.68010736772397,
+   "rank": 5.178570205202247,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -756,7 +972,7 @@
      "kind": "org"
     }
    ],
-   "rank": 9.487140906945022,
+   "rank": 5.075338874553466,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -777,40 +993,6 @@
    ]
   },
   {
-   "id": "nvidia-nvidia-shield-years-just",
-   "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 9.200887639525565,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-03T18:00:00.000Z",
-   "latestAt": "2026-10-03T18:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-     "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-10-03T18:00:00.000Z",
-     "points": null,
-     "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception."
-    }
-   ]
-  },
-  {
    "id": "agents-agents-that-live-your",
    "title": "All the AI agents that can live in your text messages",
    "category": {
@@ -824,7 +1006,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 7.091154824659145,
+   "rank": 3.7935574163048003,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -852,7 +1034,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.144340689189206,
+   "rank": 2.752069621383611,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -891,7 +1073,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.266522151877776,
+   "rank": 1.4809257832034544,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -919,7 +1101,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.619852535014095,
+   "rank": 1.4015433676989806,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -947,7 +1129,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.5002565751421773,
+   "rank": 1.337563077922411,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -968,40 +1150,6 @@
    ]
   },
   {
-   "id": "stability-ai-sean-parker-rebuilding-stability",
-   "title": "Sean Parker is rebuilding Stability AI around music",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "stability-ai",
-     "name": "Stability AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.8383036356887639,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T21:09:14.000Z",
-   "latestAt": "2026-10-02T21:09:14.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Sean Parker is rebuilding Stability AI around music",
-     "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-10-02T21:09:14.000Z",
-     "points": null,
-     "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money."
-    }
-   ]
-  },
-  {
    "id": "week-biggest-funding-rounds",
    "title": "The Week’s 10 Biggest Funding Rounds: Almost All About AI",
    "category": {
@@ -1009,7 +1157,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 1.7323641668963325,
+   "rank": 0.9267634250795191,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1043,7 +1191,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.7011352086649556,
+   "rank": 0.91005685907843,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1081,7 +1229,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.7011256582665615,
+   "rank": 0.9100517498986768,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1109,7 +1257,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.557233847789787,
+   "rank": 0.833073900976033,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1130,182 +1278,6 @@
    ]
   },
   {
-   "id": "anymore-super-intelligence-according",
-   "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.4574340826956598,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T17:48:16.000Z",
-   "latestAt": "2026-10-02T17:48:16.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-     "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-10-02T17:48:16.000Z",
-     "points": null,
-     "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to…"
-    }
-   ]
-  },
-  {
-   "id": "latest-news-announced-september",
-   "title": "The latest AI news we announced in September 2026",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.4399518748156184,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T15:00:00.000Z",
-   "latestAt": "2026-10-02T15:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-    "title": "The latest AI news we announced in September 2026"
-   },
-   "sources": [
-    {
-     "title": "The latest AI news we announced in September 2026",
-     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-10-02T15:00:00.000Z",
-     "points": null,
-     "summary": "A video showing the September AI updates"
-    }
-   ]
-  },
-  {
-   "id": "techcrunch-disrupt-2026-blackstone",
-   "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.4304394319726919,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T17:32:05.000Z",
-   "latestAt": "2026-10-02T17:32:05.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-     "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-10-02T17:32:05.000Z",
-     "points": null,
-     "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second."
-    }
-   ]
-  },
-  {
-   "id": "open-sourcing-astabrief-fast",
-   "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.4119368912342187,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T15:19:50.000Z",
-   "latestAt": "2026-10-02T15:19:50.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/allenai/astabrief",
-    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta"
-   },
-   "sources": [
-    {
-     "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-     "link": "https://huggingface.co/blog/allenai/astabrief",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-10-02T15:19:50.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "circuit-breaker-labs-hopes",
-   "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.3783919582296638,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T17:00:00.000Z",
-   "latestAt": "2026-10-02T17:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-     "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-10-02T17:00:00.000Z",
-     "points": null,
-     "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit…"
-    }
-   ]
-  },
-  {
-   "id": "redefining-enterprise-intelligence-with",
-   "title": "Redefining enterprise intelligence with autonomous AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.333440356008736,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T15:49:04.000Z",
-   "latestAt": "2026-10-02T15:49:04.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Redefining enterprise intelligence with autonomous AI",
-     "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-10-02T15:49:04.000Z",
-     "points": null,
-     "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the…"
-    }
-   ]
-  },
-  {
    "id": "documenting-tech-worker-movement",
    "title": "Documenting the tech worker movement",
    "category": {
@@ -1313,7 +1285,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3094723603181806,
+   "rank": 0.700528856972174,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1341,7 +1313,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2860851722973015,
+   "rank": 0.6880174053459032,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1358,240 +1330,6 @@
      "date": "2026-10-02T16:00:00.000Z",
      "points": null,
      "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior."
-    }
-   ]
-  },
-  {
-   "id": "trump-crazy-rebrand-loyalty",
-   "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.199959895679682,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T15:00:00.000Z",
-   "latestAt": "2026-10-02T15:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-     "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-10-02T15:00:00.000Z",
-     "points": null,
-     "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term."
-    }
-   ]
-  },
-  {
-   "id": "toward-provably-private-learning",
-   "title": "Toward provably private learning from federated data",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.196752714707879,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T14:57:41.000Z",
-   "latestAt": "2026-10-02T14:57:41.000Z",
-   "primary": {
-    "publisher": "Google Research",
-    "link": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
-    "title": "Toward provably private learning from federated data"
-   },
-   "sources": [
-    {
-     "title": "Toward provably private learning from federated data",
-     "link": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
-     "publisher": "Google Research",
-     "publisherDomain": "research.google",
-     "kind": "primary",
-     "date": "2026-10-02T14:57:41.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "what-name-trump-wants",
-   "title": "What’s in a name? Why Trump wants to rebrand AI as ‘super intelligence’",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.0642366122974272,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T14:00:30.000Z",
-   "latestAt": "2026-10-02T14:00:30.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "What’s in a name? Why Trump wants to rebrand AI as ‘super intelligence’",
-     "link": "https://www.scmp.com/tech/policy/article/3369617/whats-name-why-trump-wants-rebrand-ai-super-intelligence?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-10-02T14:00:30.000Z",
-     "points": null,
-     "summary": "US President Donald Trump wants to retire one of the technology sector’s most recognisable acronyms, arguing that the term “artificial intelligence”, or AI, is no longer…"
-    }
-   ]
-  },
-  {
-   "id": "download-biological-aging-contest",
-   "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.0352951953799385,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T12:10:00.000Z",
-   "latestAt": "2026-10-02T12:10:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-     "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-10-02T12:10:00.000Z",
-     "points": null,
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new…"
-    }
-   ]
-  },
-  {
-   "id": "reporter-notebook-europe-sovereign",
-   "title": "Reporter’s Notebook: Europe’s Sovereign AI Push Needs Customers As Well As Capital",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8641458405459993,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T11:00:13.000Z",
-   "latestAt": "2026-10-02T11:00:13.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Reporter’s Notebook: Europe’s Sovereign AI Push Needs Customers As Well As Capital",
-     "link": "https://news.crunchbase.com/ai/humanx-amsterdam-europe-sovereign-ai-user-push/",
-     "publisher": "Crunchbase News",
-     "publisherDomain": "news.crunchbase.com",
-     "kind": "coverage",
-     "date": "2026-10-02T11:00:13.000Z",
-     "points": null,
-     "summary": "Crunchbase News Research Lead Gené Teare moderated panels and spoke with leaders building Europe and the Middle East’s AI ecosystems at HumanX in Amsterdam. Here we…"
-    }
-   ]
-  },
-  {
-   "id": "gpt-flaw-chatgpt-could-have",
-   "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 0.8339230610426497,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T09:45:00.000Z",
-   "latestAt": "2026-10-02T09:45:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-     "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-10-02T09:45:00.000Z",
-     "points": null,
-     "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and…"
-    }
-   ]
-  },
-  {
-   "id": "making-mess-nurses-schedules",
-   "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8195967619946247,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T09:30:00.000Z",
-   "latestAt": "2026-10-02T09:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
-     "link": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-10-02T09:30:00.000Z",
-     "points": null,
-     "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and…"
-    }
-   ]
-  },
-  {
-   "id": "china-compute-ambitions-demand",
-   "title": "China’s AI compute ambitions demand innovation",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.6587953490015278,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-02T07:05:21.000Z",
-   "latestAt": "2026-10-02T07:05:21.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "China’s AI compute ambitions demand innovation",
-     "link": "https://www.scmp.com/plus/tech/policy/article/3369537/chinas-ai-compute-ambitions-demand-innovation?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-10-02T07:05:21.000Z",
-     "points": null,
-     "summary": "China has set a five-year goal for the expansion of intelligent computing capacity to drive artificial intelligence (AI) that calls for a more than fourfold increase…"
     }
    ]
   }
