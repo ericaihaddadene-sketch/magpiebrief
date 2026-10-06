@@ -1,9 +1,119 @@
 {
  "date": "2026-10-06",
- "generated": "2026-10-06T02:51:18.567Z",
- "headline": "53 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2726 items read · 54 on-topic · 53 distinct developments · 4 with a primary source · 1 independently corroborated",
+ "generated": "2026-10-06T10:03:10.945Z",
+ "headline": "51 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2727 items read · 52 on-topic · 51 distinct developments · 5 with a primary source · 1 independently corroborated",
  "events": [
+  {
+   "id": "anthropic-openai-anthropic-subscriptions-offer-more",
+   "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 223.73837348468174,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-10-06T07:29:50.000Z",
+   "latestAt": "2026-10-06T07:29:50.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+     "link": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+     "publisher": "newsletter.semianalysis.com",
+     "publisherDomain": "newsletter.semianalysis.com",
+     "kind": "discussion",
+     "date": "2026-10-06T07:29:50.000Z",
+     "points": 16,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "nvidia-open-source-nvidia-backed-reflection-challenges",
+   "title": "Nvidia-backed Reflection AI challenges Chinese dominance in open-weight models",
+   "category": {
+    "id": "opensource",
+    "name": "Open Source"
+   },
+   "entities": [
+    {
+     "id": "open-source",
+     "name": "Open Models",
+     "kind": "topic"
+    },
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 104.57208569358835,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-06T07:00:07.000Z",
+   "latestAt": "2026-10-06T07:00:07.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Nvidia-backed Reflection AI challenges Chinese dominance in open-weight models",
+     "link": "https://www.scmp.com/tech/tech-trends/article/3369885/nvidia-backed-reflection-ai-challenges-chinese-dominance-open-weight-models?utm_source=rss_feed",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-10-06T07:00:07.000Z",
+     "points": null,
+     "summary": "An Nvidia-backed US start-up has unveiled an open-weight model to challenge China’s dominance in freely available artificial intelligence, releasing a system that early third-party testing suggests…"
+    }
+   ]
+  },
+  {
+   "id": "falcon-emirati-when-learns",
+   "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 91.43052478154378,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-10-06T06:44:39.000Z",
+   "latestAt": "2026-10-06T06:44:39.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance"
+   },
+   "sources": [
+    {
+     "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+     "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-10-06T06:44:39.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
   {
    "id": "openai-gpt-openai-will-start-watermarking",
    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
@@ -23,7 +133,7 @@
      "kind": "model"
     }
    ],
-   "rank": 121.95526971584957,
+   "rank": 74.04959435614128,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -61,7 +171,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 116.00253061191114,
+   "rank": 70.43517148633323,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -76,35 +186,41 @@
      "publisherDomain": "vals.ai",
      "kind": "discussion",
      "date": "2026-10-05T21:00:21.000Z",
-     "points": 225,
+     "points": 356,
      "summary": ""
     }
    ]
   },
   {
-   "id": "tutoring-with-khanmigo-year",
-   "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+   "id": "gpt-chatgpt-adding-real-cartoonists",
+   "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
    "category": {
-    "id": "research",
-    "name": "Research"
+    "id": "models",
+    "name": "Models"
    },
-   "entities": [],
-   "rank": 115.25066455075145,
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 66.37292893634229,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-10-06T00:00:45.000Z",
-   "latestAt": "2026-10-06T00:00:45.000Z",
+   "publishedAt": "2026-10-05T22:46:45.000Z",
+   "latestAt": "2026-10-05T22:46:45.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-     "link": "https://edworkingpapers.com/ai26-1551",
-     "publisher": "edworkingpapers.com",
-     "publisherDomain": "edworkingpapers.com",
+     "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+     "link": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+     "publisher": "niemanlab.org",
+     "publisherDomain": "niemanlab.org",
      "kind": "discussion",
-     "date": "2026-10-06T00:00:45.000Z",
-     "points": 35,
+     "date": "2026-10-05T22:46:45.000Z",
+     "points": 438,
      "summary": ""
     }
    ]
@@ -123,7 +239,7 @@
      "kind": "model"
     }
    ],
-   "rank": 100.66240974926133,
+   "rank": 61.120857066791814,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -151,7 +267,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 98.08870568557879,
+   "rank": 59.55813868362976,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -172,74 +288,6 @@
    ]
   },
   {
-   "id": "gpt-chatgpt-adding-real-cartoonists",
-   "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 109.31225917770637,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-05T22:46:45.000Z",
-   "latestAt": "2026-10-05T22:46:45.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-     "link": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-     "publisher": "niemanlab.org",
-     "publisherDomain": "niemanlab.org",
-     "kind": "discussion",
-     "date": "2026-10-05T22:46:45.000Z",
-     "points": 300,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "open-source-beam-reflection-501b-open",
-   "title": "Beam: Reflection's 501B open-weight model",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [
-    {
-     "id": "open-source",
-     "name": "Open Models",
-     "kind": "topic"
-    }
-   ],
-   "rank": 101.18281539776073,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-05T19:16:35.000Z",
-   "latestAt": "2026-10-05T19:16:35.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Beam: Reflection's 501B open-weight model",
-     "link": "https://reflection.ai/blog/introducing-beam",
-     "publisher": "reflection.ai",
-     "publisherDomain": "reflection.ai",
-     "kind": "discussion",
-     "date": "2026-10-05T19:16:35.000Z",
-     "points": 332,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "mcp-agent-agent-comms-riskiest",
    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
    "category": {
@@ -253,7 +301,7 @@
      "kind": "product"
     }
    ],
-   "rank": 97.22027526520958,
+   "rank": 59.03083944920793,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -287,7 +335,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 80.76009367375327,
+   "rank": 49.03643926694705,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -325,7 +373,7 @@
      "kind": "org"
     }
    ],
-   "rank": 78.8021095881108,
+   "rank": 47.84757774718311,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -353,7 +401,7 @@
     "name": "Policy & Regulation"
    },
    "entities": [],
-   "rank": 72.98064268364163,
+   "rank": 44.31286158577381,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -387,7 +435,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 69.17647366873578,
+   "rank": 42.00302148560987,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -415,7 +463,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 67.56411637192708,
+   "rank": 41.02401988884383,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -443,7 +491,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 67.3161035648446,
+   "rank": 40.873429858561614,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -477,7 +525,7 @@
      "kind": "org"
     }
    ],
-   "rank": 64.91144232621669,
+   "rank": 39.41335199805411,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -511,7 +559,7 @@
      "kind": "org"
     }
    ],
-   "rank": 63.68736696245404,
+   "rank": 38.67010995235028,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -539,7 +587,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 63.26161560018518,
+   "rank": 38.411599469399945,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -567,7 +615,7 @@
     "name": "Policy & Regulation"
    },
    "entities": [],
-   "rank": 60.62779905439435,
+   "rank": 36.81238159813678,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -601,7 +649,7 @@
      "kind": "org"
     }
    ],
-   "rank": 60.3508102832985,
+   "rank": 36.64419775344814,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -629,7 +677,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 59.98988597521316,
+   "rank": 36.42504938315415,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -663,7 +711,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 58.54781154309051,
+   "rank": 35.54944124437631,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -691,7 +739,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 57.156808301944686,
+   "rank": 34.70484284370926,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -723,7 +771,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 55.973620484063915,
+   "rank": 33.98642716421187,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -757,7 +805,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 54.576309626204264,
+   "rank": 33.13799886377828,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -785,7 +833,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 54.13153464007803,
+   "rank": 32.86793749308766,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -813,7 +861,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 52.247361337568734,
+   "rank": 31.723892884990235,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -841,7 +889,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 51.26703536416729,
+   "rank": 31.12865218045731,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -862,6 +910,40 @@
    ]
   },
   {
+   "id": "anthropic-anthropic-reported-diary-entry",
+   "title": "Anthropic reported diary entry to police, woman faces felony charge",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 30.323127330948765,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-10-05T05:37:40.000Z",
+   "latestAt": "2026-10-05T05:37:40.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic reported diary entry to police, woman faces felony charge",
+     "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+     "publisher": "techspot.com",
+     "publisherDomain": "techspot.com",
+     "kind": "discussion",
+     "date": "2026-10-05T05:37:40.000Z",
+     "points": 732,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "agents-bringing-predictive-analytics-agentic",
    "title": "Bringing predictive analytics to the agentic AI era",
    "category": {
@@ -875,7 +957,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 49.90068741310056,
+   "rank": 30.299024139278153,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -896,34 +978,6 @@
    ]
   },
   {
-   "id": "altman-says-some-things",
-   "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 49.59966582073402,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-05T16:44:21.000Z",
-   "latestAt": "2026-10-05T16:44:21.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-10-05T16:44:21.000Z",
-     "points": null,
-     "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI…"
-    }
-   ]
-  },
-  {
    "id": "hackerrank-interviewer-offers-glimpse",
    "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
    "category": {
@@ -931,7 +985,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 49.55575543705758,
+   "rank": 30.08958609723243,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -959,7 +1013,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 46.969338956233265,
+   "rank": 28.519148905897286,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -987,7 +1041,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 44.068585520950634,
+   "rank": 26.757850556835898,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1015,7 +1069,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 43.966775616880525,
+   "rank": 26.69603295669943,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1043,7 +1097,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 43.966775616880525,
+   "rank": 26.69603295669943,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1064,34 +1118,6 @@
    ]
   },
   {
-   "id": "would-know-reflections-trying",
-   "title": "How Would We Know? Reflections on trying to make AI go well amid deep uncertainty",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 43.43447383847165,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-05T19:58:12.000Z",
-   "latestAt": "2026-10-05T19:58:12.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How Would We Know? Reflections on trying to make AI go well amid deep uncertainty",
-     "link": "https://www.lesswrong.com/posts/ZjAEgv3mrimKNepa5/how-would-we-know-reflections-on-trying-to-make-ai-go-well",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-10-05T19:58:12.000Z",
-     "points": null,
-     "summary": "Overview In this post, I try to make sense of live debates in AI safety. Then I explore the implications of my take on those debates…"
-    }
-   ]
-  },
-  {
    "id": "building-advertising-people",
    "title": "Building advertising for the way people use AI",
    "category": {
@@ -1099,7 +1125,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 40.41596674128465,
+   "rank": 24.54002971480024,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1131,7 +1157,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.93342737235529,
+   "rank": 23.03266530430213,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1159,7 +1185,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.71349408992995,
+   "rank": 21.684751766459087,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1187,7 +1213,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 31.66248006149086,
+   "rank": 19.225030704500195,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1208,40 +1234,6 @@
    ]
   },
   {
-   "id": "claude-claude-says",
-   "title": "Claude Says",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "rank": 29.279139234731588,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-10-05T04:48:18.000Z",
-   "latestAt": "2026-10-05T04:48:18.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Claude Says",
-     "link": "https://ohhfishal.net/Posts/claude",
-     "publisher": "ohhfishal.net",
-     "publisherDomain": "ohhfishal.net",
-     "kind": "discussion",
-     "date": "2026-10-05T04:48:18.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "people-really-hate-they",
    "title": "People really hate AI, so why can’t they get enough?",
    "category": {
@@ -1249,7 +1241,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.417961341093775,
+   "rank": 17.255002712383938,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1277,7 +1269,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.387461172849683,
+   "rank": 13.593364373478435,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1305,7 +1297,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.10156968066705,
+   "rank": 10.99102888449123,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1339,7 +1331,7 @@
      "kind": "org"
     }
    ],
-   "rank": 15.26473918568139,
+   "rank": 9.268543682332567,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1367,7 +1359,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.419982599504653,
+   "rank": 7.541245864541169,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1395,7 +1387,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.890302917432541,
+   "rank": 3.5765124597480944,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1423,7 +1415,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.778141571708384,
+   "rank": 2.2940365878156124,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1455,7 +1447,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.429738201025433,
+   "rank": 2.082490761780412,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1483,7 +1475,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.2144930849968554,
+   "rank": 1.9517968314058287,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1511,7 +1503,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.0785208628757625,
+   "rank": 1.8692363326653505,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1545,7 +1537,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.9430753241002234,
+   "rank": 1.1798091209038577,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1573,7 +1565,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2819516306889254,
+   "rank": 0.7783837341173269,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1590,34 +1582,6 @@
      "date": "2026-10-03T12:00:00.000Z",
      "points": null,
      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs."
-    }
-   ]
-  },
-  {
-   "id": "more-chinese-banks-likely",
-   "title": "More Chinese banks likely to adopt AI rules after Ping An move: analysts",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.6528580497173812,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-10-03T03:00:18.000Z",
-   "latestAt": "2026-10-03T03:00:18.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "More Chinese banks likely to adopt AI rules after Ping An move: analysts",
-     "link": "https://www.scmp.com/business/banking-finance/article/3369577/more-chinese-banks-likely-adopt-ai-rules-after-ping-move-analysts?utm_source=rss_feed",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-10-03T03:00:18.000Z",
-     "points": null,
-     "summary": "After Ping An Bank became the first listed Chinese lender to formally adopt rules governing its use of artificial intelligence, analysts said more mainland institutions were…"
     }
    ]
   }
