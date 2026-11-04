@@ -27,7 +27,8 @@ Date: 2026-11-04 (UTC). Owner-approved scope: publicly publish a no-cost, synthe
 - Synthetic numbers: $750 candidates (one $150 partial and one $600 missing invoice), $225 draft pending, $80 overbilling review. NOT commercial results.
 - GitHub source read-back of index.html, styles.css, demo.js: 12/12 launch invariants passed.
 - Render API reports deploy `live`, and public DNS returns A records 216.24.57.16 and 216.24.57.18.
-- Limitations: third-party browser/HTTP source retriever could not open the new URL; full interactive browser E2E remains unverified. Render log lookup failed with a transient upstream 503. These are QA gaps, not evidence of a server error.
+- HTTP smoke test: independent read-only GET requests on public `/`, `/styles.css`, `/demo.js` returned 200 and matching expected asset byte counts. Live HTML confirms no file-upload control and the pilot mailto link.
+- Limitations: full interactive browser end-to-end testing (especially filtering, CSV download, mobile layout, and visitor mail client behavior) remains unverified. Render log lookup failed with a transient upstream 503; HTTP smoke testing succeeded via a separate runtime.
 
 ## Response handling
 - Incoming pilot-interest emails can be identified by subject `Billing Exception Studio Pilot Interest` in the existing operator business inbox.
