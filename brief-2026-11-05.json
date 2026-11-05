@@ -1,9 +1,43 @@
 {
  "date": "2026-11-05",
- "generated": "2026-11-05T10:03:56.475Z",
- "headline": "80 developments across 21 sources, newest and most-read first.",
- "stats": "21 sources monitored · 2851 items read · 82 on-topic · 80 distinct developments · 23 with a primary source · 1 independently corroborated",
+ "generated": "2026-11-05T10:41:02.310Z",
+ "headline": "83 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2862 items read · 85 on-topic · 83 distinct developments · 25 with a primary source · 1 independently corroborated",
  "events": [
+  {
+   "id": "robotics-china-blocks-softbank-billion",
+   "title": "China blocks SoftBank’s US$5.4 billion takeover of ABB’s robotics division",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
+    }
+   ],
+   "rank": 93.13586598492078,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-05T10:23:53.000Z",
+   "latestAt": "2026-11-05T10:23:53.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "China blocks SoftBank’s US$5.4 billion takeover of ABB’s robotics division",
+     "link": "https://www.scmp.com/business/china-business/article/3373415/china-blocks-softbanks-us54-billion-takeover-abbs-robotics-division",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-05T10:23:53.000Z",
+     "points": null,
+     "summary": "China’s state planner has told Japanese investor SoftBank it will not allow the US$5.4 billion acquisition ‌of the robotics segment of engineering group ABB to go…"
+    }
+   ]
+  },
   {
    "id": "openai-openai-astra-covertly-underperforms",
    "title": "OpenAI: Astra covertly underperforms on safety research",
@@ -18,7 +52,7 @@
      "kind": "org"
     }
    ],
-   "rank": 73.78512760255414,
+   "rank": 70.6897382920243,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -46,7 +80,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 68.71481994086564,
+   "rank": 65.8321371288815,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -67,6 +101,44 @@
    ]
   },
   {
+   "id": "benchmarks-closer-look-phonon-launching",
+   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "benchmarks",
+     "name": "Benchmarks",
+     "kind": "topic"
+    }
+   ],
+   "rank": 65.80513376305757,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-05T00:00:00.000Z",
+   "latestAt": "2026-11-05T00:00:00.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/phonon-tts",
+    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks."
+   },
+   "sources": [
+    {
+     "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+     "link": "https://huggingface.co/blog/phonon-tts",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-11-05T00:00:00.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "robotics-clearing-robot-fuzzy-memory",
    "title": "Clearing up a robot’s fuzzy memory",
    "category": {
@@ -80,7 +152,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 66.8700659989861,
+   "rank": 64.06477319522979,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -119,7 +191,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 60.77960578589994,
+   "rank": 58.229816307167916,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -134,7 +206,7 @@
      "publisherDomain": "ricursive.com",
      "kind": "discussion",
      "date": "2026-11-04T18:53:29.000Z",
-     "points": 292,
+     "points": 295,
      "summary": ""
     }
    ]
@@ -153,7 +225,7 @@
      "kind": "org"
     }
    ],
-   "rank": 56.22490891530135,
+   "rank": 53.86619534121364,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -187,7 +259,7 @@
      "kind": "org"
     }
    ],
-   "rank": 54.99519473556931,
+   "rank": 52.68806939139499,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -215,7 +287,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 54.39483160504507,
+   "rank": 52.11289233395951,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -230,7 +302,7 @@
      "publisherDomain": "qualcomm.com",
      "kind": "discussion",
      "date": "2026-11-04T19:55:14.000Z",
-     "points": 148,
+     "points": 149,
      "summary": ""
     }
    ]
@@ -249,7 +321,7 @@
      "kind": "org"
     }
    ],
-   "rank": 53.515498348179364,
+   "rank": 51.270448337194516,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -268,7 +340,7 @@
      "publisherDomain": "openai.com",
      "kind": "primary",
      "date": "2026-11-04T15:21:21.000Z",
-     "points": 239,
+     "points": 240,
      "summary": ""
     }
    ]
@@ -281,7 +353,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 51.91887394232988,
+   "rank": 49.74080455846299,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -315,7 +387,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 51.75709481972329,
+   "rank": 49.58581229633974,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -349,7 +421,7 @@
      "kind": "org"
     }
    ],
-   "rank": 51.67803117720801,
+   "rank": 49.51006548421895,
    "deltas": [],
    "sourceCount": 3,
    "independentCount": 3,
@@ -403,7 +475,7 @@
      "kind": "model"
     }
    ],
-   "rank": 50.38075512671148,
+   "rank": 48.267211978617155,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -431,7 +503,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 47.27358303288943,
+   "rank": 45.2903901003155,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -450,7 +522,7 @@
      "publisherDomain": "huggingface.co",
      "kind": "primary",
      "date": "2026-11-04T15:30:30.000Z",
-     "points": 532,
+     "points": 536,
      "summary": ""
     }
    ]
@@ -463,7 +535,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 47.15519367752021,
+   "rank": 45.176967344002186,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -491,7 +563,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 46.09316748125082,
+   "rank": 44.15949463218488,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -519,7 +591,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 45.64988173614377,
+   "rank": 43.734805344134934,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -553,7 +625,7 @@
      "kind": "org"
     }
    ],
-   "rank": 45.54839848364857,
+   "rank": 43.63757945603251,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -581,7 +653,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 45.34756653017981,
+   "rank": 43.44517268392725,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -600,7 +672,7 @@
      "publisherDomain": "anthropic.com",
      "kind": "primary",
      "date": "2026-11-04T17:17:46.000Z",
-     "points": 222,
+     "points": 223,
      "summary": ""
     }
    ]
@@ -613,7 +685,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 44.25744609790834,
+   "rank": 42.40078432860519,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -647,7 +719,7 @@
      "kind": "org"
     }
    ],
-   "rank": 40.94205010967954,
+   "rank": 39.2244738395222,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -675,7 +747,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 39.57254939625134,
+   "rank": 37.91242559662359,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -709,7 +781,7 @@
      "kind": "org"
     }
    ],
-   "rank": 37.941528223108236,
+   "rank": 36.34982804309919,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -737,7 +809,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.3370021271208,
+   "rank": 35.770662662424684,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -775,7 +847,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 36.56875630198113,
+   "rank": 35.03464582424029,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -814,7 +886,7 @@
      "kind": "org"
     }
    ],
-   "rank": 36.43030062773006,
+   "rank": 34.90199855919016,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -848,7 +920,7 @@
      "kind": "org"
     }
    ],
-   "rank": 35.8686198331394,
+   "rank": 34.36388105958857,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -876,7 +948,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 33.399668505228775,
+   "rank": 31.998505693351404,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -904,7 +976,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 33.107697438516574,
+   "rank": 31.7187832212849,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -936,7 +1008,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 32.98441269950683,
+   "rank": 31.600670449522244,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -964,7 +1036,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 30.942112912117725,
+   "rank": 29.64404799489908,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -992,7 +1064,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 30.507557477095588,
+   "rank": 29.2277227682144,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1020,7 +1092,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 29.62330062026783,
+   "rank": 28.3805617233927,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1054,7 +1126,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 29.5970117696048,
+   "rank": 28.355375726786743,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1088,7 +1160,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 29.25706109480403,
+   "rank": 28.029686458302887,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1116,7 +1188,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 25.34292004752107,
+   "rank": 24.279749102893014,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1150,7 +1222,7 @@
      "kind": "org"
     }
    ],
-   "rank": 24.596353660847477,
+   "rank": 23.564502220406748,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1178,7 +1250,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.344623957970285,
+   "rank": 20.449187126951056,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1216,7 +1288,7 @@
      "kind": "org"
     }
    ],
-   "rank": 20.58564023947243,
+   "rank": 19.722043837079408,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1250,7 +1322,7 @@
      "kind": "org"
     }
    ],
-   "rank": 19.915238344733222,
+   "rank": 19.079766239555113,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1298,7 +1370,7 @@
      "kind": "org"
     }
    ],
-   "rank": 14.572790971524878,
+   "rank": 13.96144200644858,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1326,7 +1398,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.872984778277084,
+   "rank": 12.332945060626546,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1354,7 +1426,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.259267214275381,
+   "rank": 11.744973806877612,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1392,7 +1464,7 @@
      "kind": "model"
     }
    ],
-   "rank": 12.259267214275381,
+   "rank": 11.744973806877612,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1424,7 +1496,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.709900862336914,
+   "rank": 11.21865414183402,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1452,7 +1524,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.94125178597163,
+   "rank": 9.524202368135878,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1480,7 +1552,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.645283365782838,
+   "rank": 9.24065023716246,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1519,7 +1591,7 @@
      "kind": "org"
     }
    ],
-   "rank": 9.074782240294134,
+   "rank": 8.694082431881517,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1551,7 +1623,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.232442436183527,
+   "rank": 7.887079960783637,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1579,7 +1651,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.795154775235624,
+   "rank": 6.510088527631385,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1611,7 +1683,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.746553888262292,
+   "rank": 6.463526515847503,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1645,7 +1717,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 6.616950456113001,
+   "rank": 6.33936012896083,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1673,7 +1745,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.558148801013834,
+   "rank": 6.283025285542413,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1701,7 +1773,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.490170648538562,
+   "rank": 6.217898911648522,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1739,7 +1811,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.057037099420509,
+   "rank": 5.802935920765375,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1760,6 +1832,38 @@
    ]
   },
   {
+   "id": "learn-rules-hacker-mindset",
+   "title": "Learn the rules: The hacker mindset",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [],
+   "rank": 5.656261641718486,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-03T17:14:38.000Z",
+   "latestAt": "2026-11-03T17:14:38.000Z",
+   "primary": {
+    "publisher": "Microsoft Research",
+    "link": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
+    "title": "Learn the rules: The hacker mindset"
+   },
+   "sources": [
+    {
+     "title": "Learn the rules: The hacker mindset",
+     "link": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
+     "publisher": "Microsoft Research",
+     "publisherDomain": "microsoft.com",
+     "kind": "primary",
+     "date": "2026-11-03T17:14:38.000Z",
+     "points": null,
+     "summary": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires…"
+    }
+   ]
+  },
+  {
    "id": "openai-cisco-defends-machine-speed",
    "title": "How Cisco defends at machine speed with OpenAI",
    "category": {
@@ -1773,7 +1877,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.459467523461365,
+   "rank": 5.230435224373465,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1805,7 +1909,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.336155989492569,
+   "rank": 5.112296781737764,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1837,7 +1941,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.967470637435875,
+   "rank": 4.759078295901759,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1865,7 +1969,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.881568491658812,
+   "rank": 4.676779865296431,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1893,7 +1997,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.0440500173787886,
+   "rank": 3.8743964624988623,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1931,7 +2035,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.90077519856331,
+   "rank": 3.7371322227396164,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1959,7 +2063,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.829853527833312,
+   "rank": 3.6691858152990613,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1987,7 +2091,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.1478164102699195,
+   "rank": 3.0157611088229275,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2021,7 +2125,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.135640681679901,
+   "rank": 3.004096169078174,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2053,7 +2157,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.1353558210206005,
+   "rank": 3.003823258721978,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2081,7 +2185,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.6961481018162896,
+   "rank": 2.5830409176839884,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2109,7 +2213,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.6638976179290568,
+   "rank": 2.5521433867064762,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2137,7 +2241,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.1181776958240754,
+   "rank": 2.0293171786643858,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2171,7 +2275,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.0687513424089707,
+   "rank": 1.9819643299105971,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2203,7 +2307,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0546933241777126,
+   "rank": 1.9684960652079195,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2235,7 +2339,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 2.0546933241777126,
+   "rank": 1.9684960652079195,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2273,7 +2377,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.9574150353759987,
+   "rank": 1.8752987366903058,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2307,7 +2411,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.7396055878830132,
+   "rank": 1.6666267001825514,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2339,7 +2443,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.5324084017844226,
+   "rank": 1.4681217258597015,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2371,7 +2475,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3902300393761884,
+   "rank": 1.3319079446277409,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2409,7 +2513,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.3857941309000412,
+   "rank": 1.3276581287169336,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2448,7 +2552,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.346028920723476,
+   "rank": 1.2895611247292154,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2476,7 +2580,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2789459566730486,
+   "rank": 1.2252923848535955,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2504,7 +2608,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2447023965458264,
+   "rank": 1.192485389972195,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2542,7 +2646,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.0084578374501223,
+   "rank": 0.9661516205797313,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2570,7 +2674,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 0.9524991145337821,
+   "rank": 0.9125404443624924,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
