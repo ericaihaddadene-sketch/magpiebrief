@@ -1,9 +1,394 @@
 {
  "date": "2026-11-06",
- "generated": "2026-11-06T06:14:37.632Z",
+ "generated": "2026-11-06T14:55:40.227Z",
  "headline": "100 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2869 items read · 103 on-topic · 100 distinct developments · 30 with a primary source · 2 independently corroborated",
+ "stats": "22 sources monitored · 2870 items read · 102 on-topic · 100 distinct developments · 26 with a primary source · 1 independently corroborated",
  "events": [
+  {
+   "id": "gemini-gemini-omni-flash",
+   "title": "Gemini Omni 1.2 Flash",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 202.74298064586085,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T13:35:27.000Z",
+   "latestAt": "2026-11-06T13:35:27.000Z",
+   "primary": {
+    "publisher": "Google",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "title": "Gemini Omni 1.2 Flash"
+   },
+   "sources": [
+    {
+     "title": "Gemini Omni 1.2 Flash",
+     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+     "publisher": "Google",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-11-06T13:35:27.000Z",
+     "points": 80,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "university-libraries-being-swarmed",
+   "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 124.23806828933958,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-06T14:13:09.000Z",
+   "latestAt": "2026-11-06T14:13:09.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+     "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+     "publisher": "cbc.ca",
+     "publisherDomain": "cbc.ca",
+     "kind": "discussion",
+     "date": "2026-11-06T14:13:09.000Z",
+     "points": 14,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "robotics-toyblocks-controlled-world-robot",
+   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [
+    {
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
+    }
+   ],
+   "rank": 107.93662216191416,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T14:00:48.000Z",
+   "latestAt": "2026-11-06T14:00:48.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/allenai/toyblocks",
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation"
+   },
+   "sources": [
+    {
+     "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+     "link": "https://huggingface.co/blog/allenai/toyblocks",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-11-06T14:00:48.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "robotics-download-humanoid-cleans-house",
+   "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
+    }
+   ],
+   "rank": 92.93366727365014,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T13:10:00.000Z",
+   "latestAt": "2026-11-06T13:10:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+     "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-11-06T13:10:00.000Z",
+     "points": null,
+     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched…"
+    }
+   ]
+  },
+  {
+   "id": "underdog-shows-32mb-speech",
+   "title": "Underdog shows off a 32MB speech model in new demo",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 87.7210525437489,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T13:02:16.000Z",
+   "latestAt": "2026-11-06T13:02:16.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Underdog shows off a 32MB speech model in new demo",
+     "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-06T13:02:16.000Z",
+     "points": null,
+     "summary": "Despite its small size, Underdog's new model can generate both speech and music."
+    }
+   ]
+  },
+  {
+   "id": "china-models-kimi-dominate",
+   "title": "China’s AI models, led by Kimi, dominate open-source enterprise spending",
+   "category": {
+    "id": "opensource",
+    "name": "Open Source"
+   },
+   "entities": [],
+   "rank": 86.0630973887125,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T13:30:09.000Z",
+   "latestAt": "2026-11-06T13:30:09.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "China’s AI models, led by Kimi, dominate open-source enterprise spending",
+     "link": "https://www.scmp.com/tech/tech-trends/article/3373550/chinas-ai-models-led-kimi-dominate-open-source-enterprise-spending",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-06T13:30:09.000Z",
+     "points": null,
+     "summary": "Chinese artificial intelligence models led by Moonshot AI’s Kimi family accounted for nearly nine-tenths of estimated global enterprise spending on open-source systems, according to a new…"
+    }
+   ]
+  },
+  {
+   "id": "mbodi-hiring-research-robotic",
+   "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 81.69863710452515,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-06T12:00:42.000Z",
+   "latestAt": "2026-11-06T12:00:42.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
+     "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+     "publisher": "ycombinator.com",
+     "publisherDomain": "ycombinator.com",
+     "kind": "discussion",
+     "date": "2026-11-06T12:00:42.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "microsoft-infrastructure-protesters-break-into-microsoft",
+   "title": "Protesters break into Microsoft data center site in Amsterdam",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "infrastructure",
+     "name": "AI Infrastructure",
+     "kind": "topic"
+    },
+    {
+     "id": "microsoft",
+     "name": "Microsoft",
+     "kind": "org"
+    }
+   ],
+   "rank": 81.19212416997996,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T11:55:19.000Z",
+   "latestAt": "2026-11-06T11:55:19.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Protesters break into Microsoft data center site in Amsterdam",
+     "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-06T11:55:19.000Z",
+     "points": null,
+     "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the…"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-making-musl-proprietary-nvidia",
+   "title": "Making musl and proprietary NVIDIA drivers work together",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 80.88456783938284,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-06T13:23:14.000Z",
+   "latestAt": "2026-11-06T13:23:14.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Making musl and proprietary NVIDIA drivers work together",
+     "link": "https://chimera-linux.org/news/2026/11/musl-nvidia.html",
+     "publisher": "chimera-linux.org",
+     "publisherDomain": "chimera-linux.org",
+     "kind": "discussion",
+     "date": "2026-11-06T13:23:14.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "challenge-monopoly",
+   "title": "How To Challenge A Monopoly In The AI Age",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 77.56291291774302,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T12:00:08.000Z",
+   "latestAt": "2026-11-06T12:00:08.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How To Challenge A Monopoly In The AI Age",
+     "link": "https://news.crunchbase.com/ai/challenging-monopolies-semiconductors-anand-tensordyn/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-11-06T12:00:08.000Z",
+     "points": null,
+     "summary": "AI chip startups can challenge the sector's Goliath's by building substantially better hardware for emerging inference demands, much as Juniper challenged Cisco with a new architecture…"
+    }
+   ]
+  },
+  {
+   "id": "robotics-watched-humanoid-robot-clean",
+   "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
+    }
+   ],
+   "rank": 74.61856794949132,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T10:00:00.000Z",
+   "latestAt": "2026-11-06T10:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+     "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-11-06T10:00:00.000Z",
+     "points": null,
+     "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and…"
+    }
+   ]
+  },
+  {
+   "id": "china-chipmakers-report-first",
+   "title": "China’s AI chipmakers report first profits, but will the trend continue?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 69.90091933977818,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T10:30:06.000Z",
+   "latestAt": "2026-11-06T10:30:06.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "China’s AI chipmakers report first profits, but will the trend continue?",
+     "link": "https://www.scmp.com/tech/big-tech/article/3373532/chinas-ai-chipmakers-report-first-profits-will-trend-continue",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-06T10:30:06.000Z",
+     "points": null,
+     "summary": "China’s pure-play artificial intelligence chipmakers crossed an important milestone in the third quarter as several firms swung into profit, but severe supply chain hurdles and soaring…"
+    }
+   ]
+  },
   {
    "id": "claude-claude-code-sends-your",
    "title": "Claude Code sends your email address to websites",
@@ -18,7 +403,7 @@
      "kind": "model"
     }
    ],
-   "rank": 125.30019663848536,
+   "rank": 68.63339621118597,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -37,36 +422,170 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-11-05T22:17:15.000Z",
-     "points": 836,
+     "points": 1363,
      "summary": ""
     }
    ]
   },
   {
-   "id": "accurately-science-fiction-stories",
-   "title": "How accurately did science fiction stories predict AI?",
+   "id": "better-research-with-agent",
+   "title": "How to Run Better Research With Agent Fleets",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 118.32280456602915,
+   "rank": 67.8111844689389,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-06T04:36:22.000Z",
-   "latestAt": "2026-11-06T04:36:22.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T11:50:21.000Z",
+   "latestAt": "2026-11-06T11:50:21.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "How accurately did science fiction stories predict AI?",
-     "link": "https://jamesyu.org/science-fiction-predictions-of-ai/",
-     "publisher": "jamesyu.org",
-     "publisherDomain": "jamesyu.org",
-     "kind": "discussion",
-     "date": "2026-11-06T04:36:22.000Z",
-     "points": 17,
+     "title": "How to Run Better Research With Agent Fleets",
+     "link": "https://www.lesswrong.com/posts/WKtD59uHLKwEYGFCm/how-to-run-better-research-with-agent-fleets",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-06T11:50:21.000Z",
+     "points": null,
+     "summary": "In the current safety landscape, researchers are encouraged to use as many agents as possible, even in “fleets,” where a large number of them go out…"
+    }
+   ]
+  },
+  {
+   "id": "agents-palo-alto-networks-talks",
+   "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 66.79477747807232,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T06:28:32.000Z",
+   "latestAt": "2026-11-06T06:28:32.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+     "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-06T06:28:32.000Z",
+     "points": null,
+     "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source."
+    }
+   ]
+  },
+  {
+   "id": "safety-dialogue-with-richard-alignment",
+   "title": "Dialogue with Richard Ngo on Alignment, Hierarchical Integrity of Human-AI systems, Revolution, and Power",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 66.05189488459445,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T14:05:25.000Z",
+   "latestAt": "2026-11-06T14:05:25.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Dialogue with Richard Ngo on Alignment, Hierarchical Integrity of Human-AI systems, Revolution, and Power",
+     "link": "https://www.lesswrong.com/posts/AGsZXczCzqxZQnEEi/dialogue-with-richard-ngo-on-alignment-hierarchical",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-06T14:05:25.000Z",
+     "points": null,
+     "summary": "Transcript generated by Gemini-4-Argon and spot-checked but not fully verified by a human. Ivan Vendrov: Welcome to the show, Richard. Richard Ngo: Thanks, Ivan. Ivan Vendrov…"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-nvidia-kubernetes-engine-nvke",
+   "title": "Nvidia Kubernetes Engine (NVKE)",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 64.64716633181558,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T03:16:26.000Z",
+   "latestAt": "2026-11-06T03:16:26.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/dsx-ai-factory/nvke",
+    "title": "Nvidia Kubernetes Engine (NVKE)"
+   },
+   "sources": [
+    {
+     "title": "Nvidia Kubernetes Engine (NVKE)",
+     "link": "https://github.com/dsx-ai-factory/nvke",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-11-06T03:16:26.000Z",
+     "points": 106,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "bubble-bursts-fifth-plenum",
+   "title": "AI bubble bursts, fifth plenum resolution, Singles’ Day",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 63.390026651432855,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T09:05:28.000Z",
+   "latestAt": "2026-11-06T09:05:28.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI bubble bursts, fifth plenum resolution, Singles’ Day",
+     "link": "https://www.scmp.com/plus/business/markets/article/3373548/ai-bubble-bursts-fifth-plenum-resolution-singles-day",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-06T09:05:28.000Z",
+     "points": null,
+     "summary": "China’s stocks pared weekly gains and the benchmark 10-year bond hit a record low as the global artificial intelligence (AI) stock bubble burst following the US…"
     }
    ]
   },
@@ -78,7 +597,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 93.45687460350608,
+   "rank": 51.19116230781274,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -122,7 +641,7 @@
      "kind": "model"
     }
    ],
-   "rank": 93.17998162333505,
+   "rank": 51.03949370611847,
    "deltas": [],
    "sourceCount": 3,
    "independentCount": 2,
@@ -163,100 +682,6 @@
    ]
   },
   {
-   "id": "airbnb-working-travel-agent",
-   "title": "Airbnb is working on an AI travel agent",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 92.51619751970222,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T00:06:12.000Z",
-   "latestAt": "2026-11-06T00:06:12.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Airbnb is working on an AI travel agent",
-     "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-06T00:06:12.000Z",
-     "points": null,
-     "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in…"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-nvidia-kubernetes-engine-nvke",
-   "title": "Nvidia Kubernetes Engine (NVKE)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 116.68241812065172,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T03:16:26.000Z",
-   "latestAt": "2026-11-06T03:16:26.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/dsx-ai-factory/nvke",
-    "title": "Nvidia Kubernetes Engine (NVKE)"
-   },
-   "sources": [
-    {
-     "title": "Nvidia Kubernetes Engine (NVKE)",
-     "link": "https://github.com/dsx-ai-factory/nvke",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-11-06T03:16:26.000Z",
-     "points": 46,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "closed-models-dominate-price",
-   "title": "Closed AI models dominate the price-performance frontier",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 113.53485068094362,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-06T02:49:56.000Z",
-   "latestAt": "2026-11-06T02:49:56.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Closed AI models dominate the price-performance frontier",
-     "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
-     "publisher": "village.dev",
-     "publisherDomain": "village.dev",
-     "kind": "discussion",
-     "date": "2026-11-06T02:49:56.000Z",
-     "points": 48,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "openai-infrastructure-openai-stepping-back-from",
    "title": "OpenAI is stepping back from NDAs for data center projects",
    "category": {
@@ -275,7 +700,7 @@
      "kind": "org"
     }
    ],
-   "rank": 91.49754294903386,
+   "rank": 50.11793505551642,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -303,7 +728,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 88.77710147685494,
+   "rank": 48.62780860369527,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -318,166 +743,102 @@
      "publisherDomain": "finance.yahoo.com",
      "kind": "discussion",
      "date": "2026-11-05T23:09:57.000Z",
-     "points": 237,
+     "points": 444,
      "summary": ""
     }
    ]
   },
   {
-   "id": "anthropic-metr-independent-assessment-acceleration",
-   "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 85.90520913568686,
-   "deltas": [
-    "Now also covered by Alignment Forum."
-   ],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T19:06:38.000Z",
-   "latestAt": "2026-11-05T19:06:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-     "link": "https://www.alignmentforum.org/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at",
-     "publisher": "Alignment Forum",
-     "publisherDomain": "alignmentforum.org",
-     "kind": "coverage",
-     "date": "2026-11-05T19:06:38.000Z",
-     "points": null,
-     "summary": "Executive summary From August 12 to October 29, 2026, METR staff performed a high-access evaluation at Anthropic to assess the degree to which AI is accelerating…"
-    }
-   ]
-  },
-  {
-   "id": "gemini-gemini-omni-flash-fast",
-   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "id": "gpt-sentence-away-from-collaborating",
+   "title": "GPT-6.1 Sol is One Sentence Away From Collaborating: Other Models Need More Help",
    "category": {
     "id": "models",
     "name": "Models"
    },
    "entities": [
     {
-     "id": "gemini",
-     "name": "Gemini",
+     "id": "gpt",
+     "name": "GPT",
      "kind": "model"
     }
    ],
-   "rank": 80.1187135646473,
+   "rank": 46.750728258398595,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-05T17:05:16.000Z",
-   "latestAt": "2026-11-05T17:05:16.000Z",
-   "primary": {
-    "publisher": "Google DeepMind",
-    "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
-   },
-   "sources": [
-    {
-     "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-     "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-     "publisher": "Google DeepMind",
-     "publisherDomain": "deepmind.google",
-     "kind": "primary",
-     "date": "2026-11-05T17:05:16.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "coding-agents-show-stroq-local-audit",
-   "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "coding-agents",
-     "name": "Coding Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 76.02977002517729,
-   "deltas": [
-    "Now also covered by LessWrong."
-   ],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-11-05T15:54:41.000Z",
-   "latestAt": "2026-11-06T00:48:16.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/AGGIB/Stroq",
-    "title": "Show HN: Stroq – a local audit of what your coding agent did and why"
-   },
-   "sources": [
-    {
-     "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
-     "link": "https://github.com/AGGIB/Stroq",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-11-05T15:54:41.000Z",
-     "points": 80,
-     "summary": ""
-    },
-    {
-     "title": "Frontier coding agents claim work they didn't do",
-     "link": "https://www.lesswrong.com/posts/HjDuFZnQrr7rimHmg/frontier-coding-agents-claim-work-they-didn-t-do",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-06T00:48:16.000Z",
-     "points": null,
-     "summary": "Tara Research Team arXiv | Twitter thread tl;dr. We built OverclaimBench, which asks frontier coding agents to review a corpus of code or text documents, then…"
-    }
-   ]
-  },
-  {
-   "id": "mcp-explained-model-context-protocol",
-   "title": "MCP Explained: how the Model Context Protocol works",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "mcp",
-     "name": "Model Context Protocol",
-     "kind": "product"
-    }
-   ],
-   "rank": 75.53864713139092,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-06T03:43:00.000Z",
-   "latestAt": "2026-11-06T03:43:00.000Z",
+   "publishedAt": "2026-11-06T09:06:15.000Z",
+   "latestAt": "2026-11-06T09:06:15.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "MCP Explained: how the Model Context Protocol works",
-     "link": "https://mcp-explained.com/",
-     "publisher": "mcp-explained.com",
-     "publisherDomain": "mcp-explained.com",
-     "kind": "discussion",
-     "date": "2026-11-06T03:43:00.000Z",
+     "title": "GPT-6.1 Sol is One Sentence Away From Collaborating: Other Models Need More Help",
+     "link": "https://www.lesswrong.com/posts/FqyteKS8RLZaEsTGY/gpt-6-1-sol-is-one-sentence-away-from-collaborating-other",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-06T09:06:15.000Z",
+     "points": null,
+     "summary": "TL;DR We studied one ingredient of unexpected AI collaboration: whether agents organize useful teamwork with little prompting. We tested seven models in groups of three on…"
+    }
+   ]
+  },
+  {
+   "id": "egyptian-nigerian-english-join",
+   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 40.86254911519762,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T00:00:00.000Z",
+   "latestAt": "2026-11-06T00:00:00.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard"
+   },
+   "sources": [
+    {
+     "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+     "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-11-06T00:00:00.000Z",
      "points": null,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "much-will-conceptual-reasoning",
+   "title": "How much will conceptual reasoning training transfer to ML research abilities?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 40.174125401795045,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T06:55:01.000Z",
+   "latestAt": "2026-11-06T06:55:01.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How much will conceptual reasoning training transfer to ML research abilities?",
+     "link": "https://www.lesswrong.com/posts/dxekbXfTCpQhuASSz/how-much-will-conceptual-reasoning-training-transfer-to-ml",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-06T06:55:01.000Z",
+     "points": null,
+     "summary": "Recently the Conceptual Reasoning Capabilities (CRC) team at Redwood released a post arguing that we should accelerate AI’s conceptual reasoning abilities. This post was very controversial…"
     }
    ]
   },
@@ -500,7 +861,7 @@
      "kind": "model"
     }
    ],
-   "rank": 72.8132201419857,
+   "rank": 39.883565401223635,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -521,6 +882,40 @@
    ]
   },
   {
+   "id": "anthropic-metr-independent-assessment-acceleration",
+   "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 39.876885322308496,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-05T19:06:38.000Z",
+   "latestAt": "2026-11-05T19:06:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+     "link": "https://www.alignmentforum.org/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at",
+     "publisher": "Alignment Forum",
+     "publisherDomain": "alignmentforum.org",
+     "kind": "coverage",
+     "date": "2026-11-05T19:06:38.000Z",
+     "points": null,
+     "summary": "Executive summary From August 12 to October 29, 2026, METR staff performed a high-access evaluation at Anthropic to assess the degree to which AI is accelerating…"
+    }
+   ]
+  },
+  {
    "id": "openai-openai-released-cybersecurity-model",
    "title": "OpenAI released a new cybersecurity model. Is that enough?",
    "category": {
@@ -534,7 +929,7 @@
      "kind": "org"
     }
    ],
-   "rank": 71.72509502969028,
+   "rank": 39.28754301687746,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -555,73 +950,30 @@
    ]
   },
   {
-   "id": "launch-rivet-scale-orchestrate",
-   "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+   "id": "airbnb-says-launching-travel",
+   "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 70.91735252266224,
+   "rank": 38.9162903962594,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-05T17:17:42.000Z",
-   "latestAt": "2026-11-05T17:17:42.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/rivet-dev/rivet",
-    "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3"
-   },
-   "sources": [
-    {
-     "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-     "link": "https://github.com/rivet-dev/rivet",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-11-05T17:17:42.000Z",
-     "points": 88,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "perplexity-agents-perplexity-launches-take-agents",
-   "title": "Perplexity launches its own take on AI agents for work",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "perplexity",
-     "name": "Perplexity",
-     "kind": "org"
-    }
-   ],
-   "rank": 69.90075318050066,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T22:26:50.000Z",
-   "latestAt": "2026-11-05T22:26:50.000Z",
+   "publishedAt": "2026-11-05T22:40:55.000Z",
+   "latestAt": "2026-11-05T22:40:55.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Perplexity launches its own take on AI agents for work",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
+     "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+     "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
      "kind": "coverage",
-     "date": "2026-11-05T22:26:50.000Z",
+     "date": "2026-11-05T22:40:55.000Z",
      "points": null,
-     "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace…"
+     "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
     }
    ]
   },
@@ -639,7 +991,7 @@
      "kind": "model"
     }
    ],
-   "rank": 64.19735568527109,
+   "rank": 35.16421096424948,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -667,7 +1019,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 63.910943954719734,
+   "rank": 35.00732845081514,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -710,7 +1062,7 @@
      "kind": "org"
     }
    ],
-   "rank": 57.94138270436163,
+   "rank": 31.737491104231683,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -731,6 +1083,40 @@
    ]
   },
   {
+   "id": "coding-agents-frontier-coding-agents-claim",
+   "title": "Frontier coding agents claim work they didn't do",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "coding-agents",
+     "name": "Coding Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 31.55898972922205,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T00:48:16.000Z",
+   "latestAt": "2026-11-06T00:48:16.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Frontier coding agents claim work they didn't do",
+     "link": "https://www.lesswrong.com/posts/HjDuFZnQrr7rimHmg/frontier-coding-agents-claim-work-they-didn-t-do",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-06T00:48:16.000Z",
+     "points": null,
+     "summary": "Tara Research Team arXiv | Twitter thread tl;dr. We built OverclaimBench, which asks frontier coding agents to review a corpus of code or text documents, then…"
+    }
+   ]
+  },
+  {
    "id": "literature-loyalty",
    "title": "Literature on AI Loyalty",
    "category": {
@@ -738,7 +1124,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 56.695262985145966,
+   "rank": 31.054926904733595,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -766,7 +1152,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 55.01092032730662,
+   "rank": 30.132325343904252,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -800,7 +1186,7 @@
      "kind": "org"
     }
    ],
-   "rank": 54.94404064202944,
+   "rank": 30.095691882335544,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -843,7 +1229,7 @@
      "kind": "org"
     }
    ],
-   "rank": 53.61182968042905,
+   "rank": 29.365971058127986,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -871,7 +1257,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 51.91181738061017,
+   "rank": 28.434786424204418,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -903,7 +1289,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 51.35788454821687,
+   "rank": 28.131368771399583,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -931,7 +1317,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 49.841095484875986,
+   "rank": 27.30054497745596,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -965,7 +1351,7 @@
      "kind": "org"
     }
    ],
-   "rank": 48.51157940235558,
+   "rank": 26.572300277856336,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -999,7 +1385,7 @@
      "kind": "org"
     }
    ],
-   "rank": 46.5452745037114,
+   "rank": 25.495253419182923,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1027,7 +1413,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 45.79268279440815,
+   "rank": 25.083020028050328,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1048,34 +1434,6 @@
    ]
   },
   {
-   "id": "dropbox-plans-350m-infrastructure",
-   "title": "Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [],
-   "rank": 45.46704682608212,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T14:00:20.000Z",
-   "latestAt": "2026-11-05T14:00:20.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet",
-     "link": "https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition/",
-     "publisher": "Crunchbase News",
-     "publisherDomain": "news.crunchbase.com",
-     "kind": "coverage",
-     "date": "2026-11-05T14:00:20.000Z",
-     "points": null,
-     "summary": "Dropbox has announced plans to acquire Tigris Data for $350 million in a transaction the company told Crunchbase News would mark its largest acquisition since its…"
-    }
-   ]
-  },
-  {
    "id": "formally-verifying-agent-written",
    "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
    "category": {
@@ -1083,7 +1441,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 44.7096353231475,
+   "rank": 24.48977893023291,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1108,62 +1466,6 @@
    ]
   },
   {
-   "id": "bild-hiring-founding-product",
-   "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 39.996033404668786,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-05T17:01:23.000Z",
-   "latestAt": "2026-11-05T17:01:23.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-     "link": "https://www.ycombinator.com/companies/bild-ai/jobs",
-     "publisher": "ycombinator.com",
-     "publisherDomain": "ycombinator.com",
-     "kind": "discussion",
-     "date": "2026-11-05T17:01:23.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "what-concrete-arguments-pause",
-   "title": "What are the concrete arguments for \"AI pause would significantly hurt the economy.\"",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 39.292554876410556,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T21:54:46.000Z",
-   "latestAt": "2026-11-05T21:54:46.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "What are the concrete arguments for \"AI pause would significantly hurt the economy.\"",
-     "link": "https://www.lesswrong.com/posts/aXA73PnhdJXPb4SWn/what-are-the-concrete-arguments-for-ai-pause-would",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-05T21:54:46.000Z",
-     "points": null,
-     "summary": "I've seen a bunch of people claiming \"well, we need to make sure whatever our AI policy is doesn't hurt the economy because people will feel…"
-    }
-   ]
-  },
-  {
    "id": "agents-exclusive-aina-smart-ring",
    "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
    "category": {
@@ -1177,7 +1479,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 38.92199821533036,
+   "rank": 21.319590842711804,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1198,6 +1500,34 @@
    ]
   },
   {
+   "id": "dropbox-plans-350m-infrastructure",
+   "title": "Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [],
+   "rank": 21.105637602999714,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-05T14:00:20.000Z",
+   "latestAt": "2026-11-05T14:00:20.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet",
+     "link": "https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-11-05T14:00:20.000Z",
+     "points": null,
+     "summary": "Dropbox has announced plans to acquire Tigris Data for $350 million in a transaction the company told Crunchbase News would mark its largest acquisition since its…"
+    }
+   ]
+  },
+  {
    "id": "reddit-founder-says-building",
    "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
    "category": {
@@ -1205,7 +1535,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 38.43626203331386,
+   "rank": 21.05352802135302,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1233,7 +1563,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.986006264846466,
+   "rank": 20.806899656971794,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1267,7 +1597,7 @@
      "kind": "org"
     }
    ],
-   "rank": 37.555453075883605,
+   "rank": 20.57106341408595,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1299,7 +1629,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.30684250247216,
+   "rank": 20.434886548885434,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1324,14 +1654,14 @@
    ]
   },
   {
-   "id": "reflections-rust-bryan-cantrill",
-   "title": "Reflections on Rust in the LLM Age — Bryan Cantrill | Rust NYC",
+   "id": "reflections-rust",
+   "title": "Reflections on Rust in the LLM Age",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.30532592100954,
+   "rank": 20.43405583880514,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1340,7 +1670,7 @@
    "primary": null,
    "sources": [
     {
-     "title": "Reflections on Rust in the LLM Age — Bryan Cantrill | Rust NYC",
+     "title": "Reflections on Rust in the LLM Age",
      "link": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
      "publisher": "YouTube",
      "publisherDomain": "youtube.com",
@@ -1365,7 +1695,7 @@
      "kind": "model"
     }
    ],
-   "rank": 35.77861153800803,
+   "rank": 19.597795434105382,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1397,7 +1727,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 34.764978709316054,
+   "rank": 19.042576325032453,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1418,34 +1748,6 @@
    ]
   },
   {
-   "id": "elevenlabs-lets-users-publish",
-   "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 34.7629706633967,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T15:00:00.000Z",
-   "latestAt": "2026-11-05T15:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
-     "link": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-05T15:00:00.000Z",
-     "points": null,
-     "summary": "ElevenLabs said more than 25 million tracks have been generated using its music models."
-    }
-   ]
-  },
-  {
    "id": "robotics-sector-snapshot-construction-robotics",
    "title": "Sector Snapshot: Construction Robotics Funding Soars To $1.6B, Tripling Previous Peak",
    "category": {
@@ -1459,7 +1761,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 32.22597673825599,
+   "rank": 17.65183366910893,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1487,7 +1789,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 32.145290024481405,
+   "rank": 17.607637384154593,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1521,7 +1823,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 31.08446579039752,
+   "rank": 17.026569102367514,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1549,7 +1851,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 30.262923692866632,
+   "rank": 16.576568018596767,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1577,7 +1879,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 29.682942699445046,
+   "rank": 16.258882441204506,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1605,7 +1907,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.236306225805485,
+   "rank": 15.46648484780471,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1633,7 +1935,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 27.751223385553143,
+   "rank": 15.200779895510482,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1672,7 +1974,7 @@
      "kind": "model"
     }
    ],
-   "rank": 25.039221019148002,
+   "rank": 13.71527597825655,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1706,7 +2008,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 24.005356256577496,
+   "rank": 13.148974792927913,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1740,7 +2042,7 @@
      "kind": "org"
     }
    ],
-   "rank": 21.56994358471791,
+   "rank": 11.81497335215011,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1772,7 +2074,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.353599046773567,
+   "rank": 10.053215151073061,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1810,7 +2112,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 16.960981280291005,
+   "rank": 9.290406396562478,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1842,7 +2144,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.835186023574256,
+   "rank": 9.221501830349872,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1880,7 +2182,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 16.512411065113433,
+   "rank": 9.044701296867819,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1914,7 +2216,7 @@
      "kind": "org"
     }
    ],
-   "rank": 15.44064951431072,
+   "rank": 8.457642081211613,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1942,7 +2244,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.64416290347399,
+   "rank": 6.378110071187713,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1976,7 +2278,7 @@
      "kind": "org"
     }
    ],
-   "rank": 11.165303001247896,
+   "rank": 6.115813743800795,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2008,7 +2310,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.928614047903638,
+   "rank": 5.986166966305652,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2036,7 +2338,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.771759497520405,
+   "rank": 5.3524979151369045,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2070,7 +2372,7 @@
      "kind": "org"
     }
    ],
-   "rank": 9.36900691062672,
+   "rank": 5.131889499404669,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2098,7 +2400,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.219729603248503,
+   "rank": 5.050122599930535,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2136,7 +2438,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 9.030024528574943,
+   "rank": 4.946211322034392,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2170,7 +2472,7 @@
      "kind": "org"
     }
    ],
-   "rank": 8.857137886360968,
+   "rank": 4.851512369175374,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2198,7 +2500,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.247472879796804,
+   "rank": 4.517567323004861,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2226,7 +2528,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.175375653621723,
+   "rank": 4.478075944519013,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2258,7 +2560,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.144932610711983,
+   "rank": 4.461400715892463,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2279,34 +2581,6 @@
    ]
   },
   {
-   "id": "desiderata-theory-agents",
-   "title": "Desiderata for the Theory of Agents",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 7.640621853667508,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-04T11:25:12.000Z",
-   "latestAt": "2026-11-04T11:25:12.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Desiderata for the Theory of Agents",
-     "link": "https://www.alignmentforum.org/posts/sqjti8dxcKSvZJikd/desiderata-for-the-theory-of-agents",
-     "publisher": "Alignment Forum",
-     "publisherDomain": "alignmentforum.org",
-     "kind": "coverage",
-     "date": "2026-11-04T11:25:12.000Z",
-     "points": null,
-     "summary": "TLDR: I give informal conceptual desiderata for the theory of agents we need to solve ASI alignment, and show a few examples of how existing theories…"
-    }
-   ]
-  },
-  {
    "id": "agents-download-blended-meat-restored",
    "title": "The Download: blended meat, restored sight, and the agentic web",
    "category": {
@@ -2320,7 +2594,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 7.308472293808187,
+   "rank": 4.003228152040639,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2354,7 +2628,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 7.224527329790083,
+   "rank": 3.9572471549635866,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2375,6 +2649,34 @@
    ]
   },
   {
+   "id": "desiderata-theory-agents",
+   "title": "Desiderata for the Theory of Agents",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 3.5467488469596327,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-04T11:25:12.000Z",
+   "latestAt": "2026-11-04T11:25:12.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Desiderata for the Theory of Agents",
+     "link": "https://www.alignmentforum.org/posts/sqjti8dxcKSvZJikd/desiderata-for-the-theory-of-agents",
+     "publisher": "Alignment Forum",
+     "publisherDomain": "alignmentforum.org",
+     "kind": "coverage",
+     "date": "2026-11-04T11:25:12.000Z",
+     "points": null,
+     "summary": "TLDR: I give informal conceptual desiderata for the theory of agents we need to solve ASI alignment, and show a few examples of how existing theories…"
+    }
+   ]
+  },
+  {
    "id": "democratic-sweep-could-slow",
    "title": "How Democratic sweep could slow AI growth in US – and help China’s ambitions",
    "category": {
@@ -2382,7 +2684,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.25799761318191,
+   "rank": 3.4278288557948593,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2410,7 +2712,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.270687258325985,
+   "rank": 2.8870279266172236,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2448,7 +2750,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.08326930136218,
+   "rank": 2.7843694213436816,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2482,7 +2784,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.917725100090825,
+   "rank": 2.6936923030219755,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2530,7 +2832,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.5984997366600626,
+   "rank": 1.9710843623383474,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2558,7 +2860,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.178761873766989,
+   "rank": 1.741172232735763,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2586,7 +2888,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.0272148916714463,
+   "rank": 1.6581621150678534,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2624,7 +2926,7 @@
      "kind": "model"
     }
    ],
-   "rank": 3.0272148916714463,
+   "rank": 1.6581621150678534,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2656,7 +2958,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.891558333044939,
+   "rank": 1.583856003931238,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2684,7 +2986,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.454820905878059,
+   "rank": 1.34463233403165,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2712,7 +3014,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.3817366021101565,
+   "rank": 1.3046002821124234,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2751,7 +3053,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.240861175169167,
+   "rank": 1.2274355269639765,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2783,7 +3085,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0328598685427846,
+   "rank": 1.113502456840222,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2804,38 +3106,6 @@
    ]
   },
   {
-   "id": "statebench-testing-language-models",
-   "title": "StateBench: Testing how language models track state changes over long documents",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.6779464357259701,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T17:15:21.000Z",
-   "latestAt": "2026-11-03T17:15:21.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/allenai/statebench",
-    "title": "StateBench: Testing how language models track state changes over long documents"
-   },
-   "sources": [
-    {
-     "title": "StateBench: Testing how language models track state changes over long documents",
-     "link": "https://huggingface.co/blog/allenai/statebench",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-11-03T17:15:21.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "automating-subtle-emergent-misalignment",
    "title": "Automating subtle emergent misalignment research",
    "category": {
@@ -2843,7 +3113,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6659452837629227,
+   "rank": 0.912524367831188,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2877,7 +3147,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.6611479126017124,
+   "rank": 0.9098965996032616,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2905,7 +3175,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6194218924527932,
+   "rank": 0.8870411009685757,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2933,7 +3203,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6026358585174345,
+   "rank": 0.8778465222782976,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2958,40 +3228,6 @@
    ]
   },
   {
-   "id": "anthropic-chinese-stars-like-minimax",
-   "title": "Why Chinese AI stars like Z.ai, MiniMax struggle to match Anthropic’s profit margin",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.4956809886173936,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T12:30:13.000Z",
-   "latestAt": "2026-11-03T12:30:13.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Why Chinese AI stars like Z.ai, MiniMax struggle to match Anthropic’s profit margin",
-     "link": "https://www.scmp.com/tech/big-tech/article/3373124/why-chinese-ai-stars-zai-minimax-struggle-match-anthropics-profit-margin",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-03T12:30:13.000Z",
-     "points": null,
-     "summary": "US artificial intelligence giant Anthropic’s initial public offering prospectus has exposed a vast profitability gap between it and rivals Z.ai and MiniMax, highlighting the challenges facing…"
-    }
-   ]
-  },
-  {
    "id": "learn-rules-hacker-mindset",
    "title": "Learn the rules: The hacker mindset",
    "category": {
@@ -2999,7 +3235,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 1.4578763439194276,
+   "rank": 0.7985542514975158,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3020,260 +3256,6 @@
      "date": "2026-11-03T17:14:38.000Z",
      "points": null,
      "summary": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires…"
-    }
-   ]
-  },
-  {
-   "id": "agents-download-controlling-agents-super",
-   "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 1.384696566450914,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T13:10:00.000Z",
-   "latestAt": "2026-11-03T13:10:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-     "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-11-03T13:10:00.000Z",
-     "points": null,
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse…"
-    }
-   ]
-  },
-  {
-   "id": "openai-cisco-defends-machine-speed",
-   "title": "How Cisco defends at machine speed with OpenAI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.34812147404487,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T08:00:00.000Z",
-   "latestAt": "2026-11-03T08:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/cisco-cyber",
-    "title": "How Cisco defends at machine speed with OpenAI"
-   },
-   "sources": [
-    {
-     "title": "How Cisco defends at machine speed with OpenAI",
-     "link": "https://openai.com/index/cisco-cyber",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-03T08:00:00.000Z",
-     "points": null,
-     "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
-    }
-   ]
-  },
-  {
-   "id": "accelerating-engineering-physical-world",
-   "title": "Accelerating engineering for the physical world",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.3176718145814972,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T12:00:00.000Z",
-   "latestAt": "2026-11-03T12:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-    "title": "Accelerating engineering for the physical world"
-   },
-   "sources": [
-    {
-     "title": "Accelerating engineering for the physical world",
-     "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-03T12:00:00.000Z",
-     "points": null,
-     "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
-    }
-   ]
-  },
-  {
-   "id": "kenyan-startup-rethinking-small",
-   "title": "How a Kenyan Startup Is Rethinking AI for Small Businesses",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.2054192615571553,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T14:30:02.000Z",
-   "latestAt": "2026-11-03T14:30:02.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How a Kenyan Startup Is Rethinking AI for Small Businesses",
-     "link": "https://spectrum.ieee.org/ai-small-business-mobile-money-startup",
-     "publisher": "IEEE Spectrum",
-     "publisherDomain": "spectrum.ieee.org",
-     "kind": "coverage",
-     "date": "2026-11-03T14:30:02.000Z",
-     "points": null,
-     "summary": "The first time Mutembei Kariuki thought about how AI models could work in Kenya, his home country, was in 2019. He was attending a conference at…"
-    }
-   ]
-  },
-  {
-   "id": "heimstaden-changing-residential-real",
-   "title": "Heimstaden is changing residential real estate management with AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9986084992924962,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T08:00:00.000Z",
-   "latestAt": "2026-11-03T08:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/heimstaden",
-    "title": "Heimstaden is changing residential real estate management with AI"
-   },
-   "sources": [
-    {
-     "title": "Heimstaden is changing residential real estate management with AI",
-     "link": "https://openai.com/index/heimstaden",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-03T08:00:00.000Z",
-     "points": null,
-     "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
-    }
-   ]
-  },
-  {
-   "id": "alibaba-alibaba-tsai-champions-open",
-   "title": "Alibaba’s Joe Tsai champions open-source AI at Wuzhen Summit amid US pushback",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [
-    {
-     "id": "alibaba",
-     "name": "Alibaba",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.9632292504729012,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T12:00:17.000Z",
-   "latestAt": "2026-11-03T12:00:17.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Alibaba’s Joe Tsai champions open-source AI at Wuzhen Summit amid US pushback",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3373155/alibabas-joe-tsai-champions-open-source-ai-wuzhen-summit-amid-us-pushback",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-03T12:00:17.000Z",
-     "points": null,
-     "summary": "Open source is the only viable path to creating a sustainable artificial intelligence industry, Alibaba Group Holding chairman Joe Tsai said on Tuesday, as the Chinese…"
-    }
-   ]
-  },
-  {
-   "id": "scmp-plus-fireside-chat",
-   "title": "SCMP Plus’ fireside chat about AI with Professor Alan Macfarlane",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.6657673367675595,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T06:40:34.000Z",
-   "latestAt": "2026-11-03T06:40:34.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "SCMP Plus’ fireside chat about AI with Professor Alan Macfarlane",
-     "link": "https://www.scmp.com/plus/tech/tech-trends/article/3373080/scmp-plus-fireside-chat-about-ai-professor-alan-macfarlane",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-03T06:40:34.000Z",
-     "points": null,
-     "summary": "Alan Macfarlane, a British anthropologist, historian and Emeritus Professor at the University of Cambridge, known as “Grandpa Cute” in China, answered questions at an SCMP Plus…"
-    }
-   ]
-  },
-  {
-   "id": "china-lipstick-king-hawks",
-   "title": "China’s ‘Lipstick King’ hawks tokens as AI gets mass-market Singles’ Day push",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.657803635236251,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T06:30:09.000Z",
-   "latestAt": "2026-11-03T06:30:09.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "China’s ‘Lipstick King’ hawks tokens as AI gets mass-market Singles’ Day push",
-     "link": "https://www.scmp.com/tech/big-tech/article/3373090/chinas-lipstick-king-hawks-tokens-ai-gets-mass-market-singles-day-push",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-03T06:30:09.000Z",
-     "points": null,
-     "summary": "China’s “Lipstick King” has traded make-up swatches for artificial intelligence. Top live-streamer Li Jiaqi on Monday evening teamed up with an executive from Alibaba Group Holding…"
     }
    ]
   }
