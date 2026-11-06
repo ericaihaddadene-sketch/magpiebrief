@@ -1,8 +1,8 @@
 {
  "date": "2026-11-06",
- "generated": "2026-11-06T00:01:39.480Z",
- "headline": "98 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2866 items read · 100 on-topic · 98 distinct developments · 26 with a primary source · 1 independently corroborated",
+ "generated": "2026-11-06T06:14:37.632Z",
+ "headline": "100 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2869 items read · 103 on-topic · 100 distinct developments · 30 with a primary source · 2 independently corroborated",
  "events": [
   {
    "id": "claude-claude-code-sends-your",
@@ -18,7 +18,7 @@
      "kind": "model"
     }
    ],
-   "rank": 192.786482830578,
+   "rank": 125.30019663848536,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -37,36 +37,64 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-11-05T22:17:15.000Z",
-     "points": 240,
+     "points": 836,
      "summary": ""
     }
    ]
   },
   {
-   "id": "hungary-communist-files-released",
-   "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+   "id": "accurately-science-fiction-stories",
+   "title": "How accurately did science fiction stories predict AI?",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 143.95029828359642,
+   "rank": 118.32280456602915,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-11-05T19:16:34.000Z",
-   "latestAt": "2026-11-05T19:16:34.000Z",
+   "publishedAt": "2026-11-06T04:36:22.000Z",
+   "latestAt": "2026-11-06T04:36:22.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
-     "link": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
-     "publisher": "euronews.com",
-     "publisherDomain": "euronews.com",
+     "title": "How accurately did science fiction stories predict AI?",
+     "link": "https://jamesyu.org/science-fiction-predictions-of-ai/",
+     "publisher": "jamesyu.org",
+     "publisherDomain": "jamesyu.org",
      "kind": "discussion",
-     "date": "2026-11-05T19:16:34.000Z",
-     "points": 123,
+     "date": "2026-11-06T04:36:22.000Z",
+     "points": 17,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "does-democratic-midterm-victory",
+   "title": "Does the Democratic midterm victory spell the end of US AI data centre boom?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 93.45687460350608,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T06:00:27.000Z",
+   "latestAt": "2026-11-06T06:00:27.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Does the Democratic midterm victory spell the end of US AI data centre boom?",
+     "link": "https://www.scmp.com/tech/big-tech/article/3373506/does-democratic-midterm-victory-spell-end-us-ai-data-centre-boom",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-06T06:00:27.000Z",
+     "points": null,
+     "summary": "The sweeping midterm election victory by US Democrats has triggered warnings from analysts that an impending regulatory clampdown could derail the nation’s multi-trillion-dollar artificial intelligence data…"
     }
    ]
   },
@@ -94,7 +122,7 @@
      "kind": "model"
     }
    ],
-   "rank": 143.3664224742577,
+   "rank": 93.17998162333505,
    "deltas": [],
    "sourceCount": 3,
    "independentCount": 2,
@@ -135,6 +163,203 @@
    ]
   },
   {
+   "id": "airbnb-working-travel-agent",
+   "title": "Airbnb is working on an AI travel agent",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 92.51619751970222,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T00:06:12.000Z",
+   "latestAt": "2026-11-06T00:06:12.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Airbnb is working on an AI travel agent",
+     "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-06T00:06:12.000Z",
+     "points": null,
+     "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in…"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-nvidia-kubernetes-engine-nvke",
+   "title": "Nvidia Kubernetes Engine (NVKE)",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 116.68241812065172,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T03:16:26.000Z",
+   "latestAt": "2026-11-06T03:16:26.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/dsx-ai-factory/nvke",
+    "title": "Nvidia Kubernetes Engine (NVKE)"
+   },
+   "sources": [
+    {
+     "title": "Nvidia Kubernetes Engine (NVKE)",
+     "link": "https://github.com/dsx-ai-factory/nvke",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-11-06T03:16:26.000Z",
+     "points": 46,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "closed-models-dominate-price",
+   "title": "Closed AI models dominate the price-performance frontier",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 113.53485068094362,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-06T02:49:56.000Z",
+   "latestAt": "2026-11-06T02:49:56.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Closed AI models dominate the price-performance frontier",
+     "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+     "publisher": "village.dev",
+     "publisherDomain": "village.dev",
+     "kind": "discussion",
+     "date": "2026-11-06T02:49:56.000Z",
+     "points": 48,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "openai-infrastructure-openai-stepping-back-from",
+   "title": "OpenAI is stepping back from NDAs for data center projects",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "infrastructure",
+     "name": "AI Infrastructure",
+     "kind": "topic"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 91.49754294903386,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T00:37:56.000Z",
+   "latestAt": "2026-11-06T00:37:56.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI is stepping back from NDAs for data center projects",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-06T00:37:56.000Z",
+     "points": null,
+     "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on…"
+    }
+   ]
+  },
+  {
+   "id": "cuban-facebook-knowingly-runs",
+   "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [],
+   "rank": 88.77710147685494,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-05T23:09:57.000Z",
+   "latestAt": "2026-11-05T23:09:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+     "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+     "publisher": "finance.yahoo.com",
+     "publisherDomain": "finance.yahoo.com",
+     "kind": "discussion",
+     "date": "2026-11-05T23:09:57.000Z",
+     "points": 237,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "anthropic-metr-independent-assessment-acceleration",
+   "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 85.90520913568686,
+   "deltas": [
+    "Now also covered by Alignment Forum."
+   ],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-05T19:06:38.000Z",
+   "latestAt": "2026-11-05T19:06:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+     "link": "https://www.alignmentforum.org/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at",
+     "publisher": "Alignment Forum",
+     "publisherDomain": "alignmentforum.org",
+     "kind": "coverage",
+     "date": "2026-11-05T19:06:38.000Z",
+     "points": null,
+     "summary": "Executive summary From August 12 to October 29, 2026, METR staff performed a high-access evaluation at Anthropic to assess the degree to which AI is accelerating…"
+    }
+   ]
+  },
+  {
    "id": "gemini-gemini-omni-flash-fast",
    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
    "category": {
@@ -148,7 +373,7 @@
      "kind": "model"
     }
    ],
-   "rank": 123.27039710562407,
+   "rank": 80.1187135646473,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -173,6 +398,90 @@
    ]
   },
   {
+   "id": "coding-agents-show-stroq-local-audit",
+   "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "coding-agents",
+     "name": "Coding Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 76.02977002517729,
+   "deltas": [
+    "Now also covered by LessWrong."
+   ],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-11-05T15:54:41.000Z",
+   "latestAt": "2026-11-06T00:48:16.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/AGGIB/Stroq",
+    "title": "Show HN: Stroq – a local audit of what your coding agent did and why"
+   },
+   "sources": [
+    {
+     "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
+     "link": "https://github.com/AGGIB/Stroq",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-11-05T15:54:41.000Z",
+     "points": 80,
+     "summary": ""
+    },
+    {
+     "title": "Frontier coding agents claim work they didn't do",
+     "link": "https://www.lesswrong.com/posts/HjDuFZnQrr7rimHmg/frontier-coding-agents-claim-work-they-didn-t-do",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-06T00:48:16.000Z",
+     "points": null,
+     "summary": "Tara Research Team arXiv | Twitter thread tl;dr. We built OverclaimBench, which asks frontier coding agents to review a corpus of code or text documents, then…"
+    }
+   ]
+  },
+  {
+   "id": "mcp-explained-model-context-protocol",
+   "title": "MCP Explained: how the Model Context Protocol works",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "mcp",
+     "name": "Model Context Protocol",
+     "kind": "product"
+    }
+   ],
+   "rank": 75.53864713139092,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-06T03:43:00.000Z",
+   "latestAt": "2026-11-06T03:43:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "MCP Explained: how the Model Context Protocol works",
+     "link": "https://mcp-explained.com/",
+     "publisher": "mcp-explained.com",
+     "publisherDomain": "mcp-explained.com",
+     "kind": "discussion",
+     "date": "2026-11-06T03:43:00.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "gpt-copyright-lawsuit-introduced-wife-chatgpt",
    "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
    "category": {
@@ -191,7 +500,7 @@
      "kind": "model"
     }
    ],
-   "rank": 112.03018823061049,
+   "rank": 72.8132201419857,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -212,34 +521,6 @@
    ]
   },
   {
-   "id": "tencent-launches-leading-open",
-   "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [],
-   "rank": 112.46576018137497,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-05T20:21:43.000Z",
-   "latestAt": "2026-11-05T20:21:43.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-     "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-     "publisher": "tencent.com",
-     "publisherDomain": "tencent.com",
-     "kind": "discussion",
-     "date": "2026-11-05T20:21:43.000Z",
-     "points": 68,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "openai-openai-released-cybersecurity-model",
    "title": "OpenAI released a new cybersecurity model. Is that enough?",
    "category": {
@@ -253,7 +534,7 @@
      "kind": "org"
     }
    ],
-   "rank": 110.35600240403669,
+   "rank": 71.72509502969028,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -274,34 +555,6 @@
    ]
   },
   {
-   "id": "airbnb-says-launching-travel",
-   "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 109.31317936275283,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T22:40:55.000Z",
-   "latestAt": "2026-11-05T22:40:55.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-     "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-05T22:40:55.000Z",
-     "points": null,
-     "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
-    }
-   ]
-  },
-  {
    "id": "launch-rivet-scale-orchestrate",
    "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
    "category": {
@@ -309,7 +562,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 109.11321235948495,
+   "rank": 70.91735252266224,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -328,7 +581,7 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-11-05T17:17:42.000Z",
-     "points": 70,
+     "points": 88,
      "summary": ""
     }
    ]
@@ -352,7 +605,7 @@
      "kind": "org"
     }
    ],
-   "rank": 107.54907585466627,
+   "rank": 69.90075318050066,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -373,72 +626,6 @@
    ]
   },
   {
-   "id": "coding-agents-show-stroq-local-audit",
-   "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "coding-agents",
-     "name": "Coding Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 99.13488272868152,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T15:54:41.000Z",
-   "latestAt": "2026-11-05T15:54:41.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/AGGIB/Stroq",
-    "title": "Show HN: Stroq – a local audit of what your coding agent did and why"
-   },
-   "sources": [
-    {
-     "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
-     "link": "https://github.com/AGGIB/Stroq",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-11-05T15:54:41.000Z",
-     "points": 62,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "building-multi-agent-system",
-   "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 98.82234114639557,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-05T15:51:57.000Z",
-   "latestAt": "2026-11-05T15:51:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
-     "link": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
-     "publisher": "kadhar.dev",
-     "publisherDomain": "kadhar.dev",
-     "kind": "discussion",
-     "date": "2026-11-05T15:51:57.000Z",
-     "points": 67,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "claude-claude-analyze-your-spending",
    "title": "Claude can now analyze your spending with its new Personal Finance tool",
    "category": {
@@ -452,7 +639,7 @@
      "kind": "model"
     }
    ],
-   "rank": 98.77384666278871,
+   "rank": 64.19735568527109,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -473,36 +660,34 @@
    ]
   },
   {
-   "id": "claude-claude-plug-directly-into",
-   "title": "Claude AI can plug directly into your bank account",
+   "id": "cult-builds-operational-muscle",
+   "title": "Cult.fit builds operational muscle with Codex",
    "category": {
-    "id": "models",
-    "name": "Models"
+    "id": "general",
+    "name": "Other"
    },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "rank": 98.77384666278871,
+   "entities": [],
+   "rank": 63.910943954719734,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-05T18:00:00.000Z",
-   "latestAt": "2026-11-05T18:00:00.000Z",
-   "primary": null,
+   "publishedAt": "2026-11-05T20:00:00.000Z",
+   "latestAt": "2026-11-05T20:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/cultfit-builds-with-codex",
+    "title": "Cult.fit builds operational muscle with Codex"
+   },
    "sources": [
     {
-     "title": "Claude AI can plug directly into your bank account",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-05T18:00:00.000Z",
+     "title": "Cult.fit builds operational muscle with Codex",
+     "link": "https://openai.com/index/cultfit-builds-with-codex",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-05T20:00:00.000Z",
      "points": null,
-     "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your…"
+     "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
     }
    ]
   },
@@ -525,7 +710,7 @@
      "kind": "org"
     }
    ],
-   "rank": 89.14842659140292,
+   "rank": 57.94138270436163,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -546,6 +731,34 @@
    ]
   },
   {
+   "id": "literature-loyalty",
+   "title": "Literature on AI Loyalty",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 56.695262985145966,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T03:12:09.000Z",
+   "latestAt": "2026-11-06T03:12:09.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Literature on AI Loyalty",
+     "link": "https://www.lesswrong.com/posts/cRsccnNcsD97Xin4E/literature-on-ai-loyalty",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-06T03:12:09.000Z",
+     "points": null,
+     "summary": "In this post, I attempt to provide a literature review of research related to AI loyalty. In my previous post , I discussed and attempted to…"
+    }
+   ]
+  },
+  {
    "id": "chatbots-have-arrived-here",
    "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
    "category": {
@@ -553,7 +766,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 84.63962652646953,
+   "rank": 55.01092032730662,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -587,7 +800,7 @@
      "kind": "org"
     }
    ],
-   "rank": 84.53672565605345,
+   "rank": 54.94404064202944,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -630,7 +843,7 @@
      "kind": "org"
     }
    ],
-   "rank": 82.48699012039194,
+   "rank": 53.61182968042905,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -651,6 +864,38 @@
    ]
   },
   {
+   "id": "australian-universities-creating-native",
+   "title": "Australian universities are creating AI-native graduates",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 51.91181738061017,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-05T17:00:00.000Z",
+   "latestAt": "2026-11-05T17:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "title": "Australian universities are creating AI-native graduates"
+   },
+   "sources": [
+    {
+     "title": "Australian universities are creating AI-native graduates",
+     "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-05T17:00:00.000Z",
+     "points": null,
+     "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
+    }
+   ]
+  },
+  {
    "id": "secret-service-agent-flipped",
    "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
    "category": {
@@ -658,7 +903,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 79.01907733023097,
+   "rank": 51.35788454821687,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -686,7 +931,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 76.68535051605002,
+   "rank": 49.841095484875986,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -707,40 +952,6 @@
    ]
   },
   {
-   "id": "anthropic-metr-independent-assessment-acceleration",
-   "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 74.6742828993523,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T19:06:38.000Z",
-   "latestAt": "2026-11-05T19:06:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-     "link": "https://www.lesswrong.com/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-05T19:06:38.000Z",
-     "points": null,
-     "summary": "Executive summary From August 12 to October 29, 2026, METR staff performed a high-access evaluation at Anthropic to assess the degree to which AI is accelerating…"
-    }
-   ]
-  },
-  {
    "id": "meta-ai-meta-says-users-video",
    "title": "Meta says US users can now video chat with their Muse AI avatar",
    "category": {
@@ -754,7 +965,7 @@
      "kind": "org"
     }
    ],
-   "rank": 74.63976131274408,
+   "rank": 48.51157940235558,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -775,40 +986,6 @@
    ]
   },
   {
-   "id": "agents-aina-smart-ring-screen",
-   "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 74.17781953604293,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T14:42:00.000Z",
-   "latestAt": "2026-11-05T14:42:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-     "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-05T14:42:00.000Z",
-     "points": null,
-     "summary": "Aina's ring can also take calls and help you dictate notes on your Mac."
-    }
-   ]
-  },
-  {
    "id": "meta-ai-meta-warns-that-election",
    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
    "category": {
@@ -822,7 +999,7 @@
      "kind": "org"
     }
    ],
-   "rank": 71.61441086835607,
+   "rank": 46.5452745037114,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -843,6 +1020,34 @@
    ]
   },
   {
+   "id": "humans-almost-natively-read",
+   "title": "Humans can (almost) natively read neural network weights",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 45.79268279440815,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T00:07:17.000Z",
+   "latestAt": "2026-11-06T00:07:17.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Humans can (almost) natively read neural network weights",
+     "link": "https://www.lesswrong.com/posts/uvKSq6eWkud997ie7/humans-can-almost-natively-read-neural-network-weights",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-06T00:07:17.000Z",
+     "points": null,
+     "summary": "Takehi et al. report that GPT-6-Astra can intuit the functions of neural networks by performing static analysis of the weights. I argue that, for at least…"
+    }
+   ]
+  },
+  {
    "id": "dropbox-plans-350m-infrastructure",
    "title": "Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet",
    "category": {
@@ -850,7 +1055,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 69.95545320318601,
+   "rank": 45.46704682608212,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -878,7 +1083,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 68.79010228097255,
+   "rank": 44.7096353231475,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -910,7 +1115,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 61.53776940595878,
+   "rank": 39.996033404668786,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -931,14 +1136,14 @@
    ]
   },
   {
-   "id": "would-pause-noticeably-hurt",
-   "title": "Why would an AI pause (noticeably) hurt the economy?",
+   "id": "what-concrete-arguments-pause",
+   "title": "What are the concrete arguments for \"AI pause would significantly hurt the economy.\"",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 60.455399586532,
+   "rank": 39.292554876410556,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -947,14 +1152,48 @@
    "primary": null,
    "sources": [
     {
-     "title": "Why would an AI pause (noticeably) hurt the economy?",
-     "link": "https://www.lesswrong.com/posts/aXA73PnhdJXPb4SWn/why-would-an-ai-pause-noticeably-hurt-the-economy",
+     "title": "What are the concrete arguments for \"AI pause would significantly hurt the economy.\"",
+     "link": "https://www.lesswrong.com/posts/aXA73PnhdJXPb4SWn/what-are-the-concrete-arguments-for-ai-pause-would",
      "publisher": "LessWrong",
      "publisherDomain": "lesswrong.com",
      "kind": "coverage",
      "date": "2026-11-05T21:54:46.000Z",
      "points": null,
      "summary": "I've seen a bunch of people claiming \"well, we need to make sure whatever our AI policy is doesn't hurt the economy because people will feel…"
+    }
+   ]
+  },
+  {
+   "id": "agents-exclusive-aina-smart-ring",
+   "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 38.92199821533036,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-05T14:00:00.000Z",
+   "latestAt": "2026-11-05T14:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+     "link": "https://www.wired.com/story/aina-smart-ring/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-05T14:00:00.000Z",
+     "points": null,
+     "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the…"
     }
    ]
   },
@@ -966,7 +1205,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 59.137910149784375,
+   "rank": 38.43626203331386,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -994,7 +1233,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 58.44514806077144,
+   "rank": 37.986006264846466,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1028,7 +1267,7 @@
      "kind": "org"
     }
    ],
-   "rank": 57.782700297731395,
+   "rank": 37.555453075883605,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1060,7 +1299,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 57.40018886256767,
+   "rank": 37.30684250247216,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1092,7 +1331,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 57.3978554551673,
+   "rank": 37.30532592100954,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1126,7 +1365,7 @@
      "kind": "model"
     }
    ],
-   "rank": 55.048857575819085,
+   "rank": 35.77861153800803,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1158,7 +1397,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 53.48928533916134,
+   "rank": 34.764978709316054,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1186,7 +1425,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 53.48619576611565,
+   "rank": 34.7629706633967,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1220,7 +1459,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 49.58278500610257,
+   "rank": 32.22597673825599,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1248,7 +1487,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 49.45864068568591,
+   "rank": 32.145290024481405,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1269,34 +1508,6 @@
    ]
   },
   {
-   "id": "progress-dramatically-accelerate",
-   "title": "AI #193: Progress May Dramatically Accelerate",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 48.32281611266936,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T18:40:52.000Z",
-   "latestAt": "2026-11-05T18:40:52.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI #193: Progress May Dramatically Accelerate",
-     "link": "https://www.lesswrong.com/posts/NrQGzNcicMThuGEEM/ai-193-progress-may-dramatically-accelerate",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-05T18:40:52.000Z",
-     "points": null,
-     "summary": "Anthropic is warning us. Its modified S-1 now says that ‘we may imminently meet our Responsible Scaling Policy’s definition of ‘dramatically accelerated progress attributable to AI.’…"
-    }
-   ]
-  },
-  {
    "id": "robotics-agility-robotics-nasdaq-debut",
    "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
    "category": {
@@ -1310,7 +1521,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 47.82645990323644,
+   "rank": 31.08446579039752,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1331,40 +1542,6 @@
    ]
   },
   {
-   "id": "safety-clashing-intuitions-plausibility-alignment",
-   "title": "Clashing Intuitions for the Plausibility of Alignment (Illustrated via Differing Causal Models)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 46.94173610469283,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T18:15:46.000Z",
-   "latestAt": "2026-11-05T18:15:46.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Clashing Intuitions for the Plausibility of Alignment (Illustrated via Differing Causal Models)",
-     "link": "https://www.lesswrong.com/posts/tegGJxqCKCvCXNhen/clashing-intuitions-for-the-plausibility-of-alignment",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-05T18:15:46.000Z",
-     "points": null,
-     "summary": "Epistemic Status: Brief explanation of an unsettled debate, not novel theory; writing is entirely my own, with diagrams from ChatGPT 5.5. (Originally posted on twitter )…"
-    }
-   ]
-  },
-  {
    "id": "finding-drugs-laborious-this",
    "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
    "category": {
@@ -1372,7 +1549,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 46.56243785275875,
+   "rank": 30.262923692866632,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1400,7 +1577,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 45.67008094646487,
+   "rank": 29.682942699445046,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1421,62 +1598,6 @@
    ]
   },
   {
-   "id": "better-honeypots-fewer-tries",
-   "title": "Better honeypots, fewer tries: training an optimizer to make PPO cheat",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 44.91954835090419,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T17:37:39.000Z",
-   "latestAt": "2026-11-05T17:37:39.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Better honeypots, fewer tries: training an optimizer to make PPO cheat",
-     "link": "https://www.lesswrong.com/posts/QDh99yfGc2WvyotcR/better-honeypots-fewer-tries-training-an-optimizer-to-make-2",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-05T17:37:39.000Z",
-     "points": null,
-     "summary": "I trained a small optimizer on synthetic functions, and used it to search gridworld levels where PPO cheats. TL;DR Reward-hacking honeypots are levels that are built…"
-    }
-   ]
-  },
-  {
-   "id": "adversarial-training-further-hide",
-   "title": "Adversarial Training Can Further Hide a Backdoor, but Does It Improve Trigger Identification?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 43.94601385539852,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T17:18:41.000Z",
-   "latestAt": "2026-11-05T17:18:41.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Adversarial Training Can Further Hide a Backdoor, but Does It Improve Trigger Identification?",
-     "link": "https://www.lesswrong.com/posts/uKFrPK2oQo8LECrbh/adversarial-training-can-further-hide-a-backdoor-but-does-it",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-05T17:18:41.000Z",
-     "points": null,
-     "summary": "Summary The Sleeper Agents paper demonstrated that adversarial training on red-team prompts failed to remove a planted backdoor. The authors further suggested that it taught the…"
-    }
-   ]
-  },
-  {
    "id": "next-trick-speaking-dolphin",
    "title": "AI’s Next Trick? Speaking Dolphin",
    "category": {
@@ -1484,7 +1605,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 43.44429068300617,
+   "rank": 28.236306225805485,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1512,7 +1633,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 42.697943772446,
+   "rank": 27.751223385553143,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1551,7 +1672,7 @@
      "kind": "model"
     }
    ],
-   "rank": 38.525265582994024,
+   "rank": 25.039221019148002,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1585,7 +1706,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 36.93456455741224,
+   "rank": 24.005356256577496,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1606,6 +1727,44 @@
    ]
   },
   {
+   "id": "openai-franklin-templeton-uses-openai",
+   "title": "Franklin Templeton uses OpenAI to support investment research",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 21.56994358471791,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-05T00:00:00.000Z",
+   "latestAt": "2026-11-05T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/franklin-templeton",
+    "title": "Franklin Templeton uses OpenAI to support investment research"
+   },
+   "sources": [
+    {
+     "title": "Franklin Templeton uses OpenAI to support investment research",
+     "link": "https://openai.com/index/franklin-templeton",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-05T00:00:00.000Z",
+     "points": null,
+     "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
+    }
+   ]
+  },
+  {
    "id": "setting-standard-responsible-infrastructure",
    "title": "Setting a new standard for responsible AI infrastructure",
    "category": {
@@ -1613,7 +1772,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.238788943954013,
+   "rank": 18.353599046773567,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1651,7 +1810,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 26.096111691003188,
+   "rank": 16.960981280291005,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1683,7 +1842,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 25.902563510315467,
+   "rank": 16.835186023574256,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1721,7 +1880,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 25.405942988904933,
+   "rank": 16.512411065113433,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1755,7 +1914,7 @@
      "kind": "org"
     }
    ],
-   "rank": 23.756934085842783,
+   "rank": 15.44064951431072,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1783,7 +1942,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.91567189749766,
+   "rank": 11.64416290347399,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1817,7 +1976,7 @@
      "kind": "org"
     }
    ],
-   "rank": 17.178899579533006,
+   "rank": 11.165303001247896,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1849,7 +2008,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.81473071097374,
+   "rank": 10.928614047903638,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1877,7 +2036,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.034797990210294,
+   "rank": 9.771759497520405,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1911,7 +2070,7 @@
      "kind": "org"
     }
    ],
-   "rank": 14.415124144827834,
+   "rank": 9.36900691062672,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1939,7 +2098,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.185446555901951,
+   "rank": 9.219729603248503,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1977,7 +2136,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 13.89356693318319,
+   "rank": 9.030024528574943,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2011,7 +2170,7 @@
      "kind": "org"
     }
    ],
-   "rank": 13.627564096994629,
+   "rank": 8.857137886360968,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2039,7 +2198,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.689535462773913,
+   "rank": 8.247472879796804,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2067,7 +2226,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.5786069005767,
+   "rank": 8.175375653621723,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2099,7 +2258,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.53176733187146,
+   "rank": 8.144932610711983,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2127,7 +2286,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.755836409873455,
+   "rank": 7.640621853667508,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2161,7 +2320,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 11.244792156656894,
+   "rank": 7.308472293808187,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2195,7 +2354,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 11.115634702809624,
+   "rank": 7.224527329790083,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2223,7 +2382,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.628535164141436,
+   "rank": 6.25799761318191,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2251,7 +2410,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.109462601757109,
+   "rank": 5.270687258325985,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2289,7 +2448,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.82110193105049,
+   "rank": 5.08326930136218,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2323,7 +2482,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.566396151073299,
+   "rank": 4.917725100090825,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2371,7 +2530,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.536640215330476,
+   "rank": 3.5984997366600626,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2399,7 +2558,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.8908328784797,
+   "rank": 3.178761873766989,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2427,7 +2586,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.657663175274184,
+   "rank": 3.0272148916714463,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2465,7 +2624,7 @@
      "kind": "model"
     }
    ],
-   "rank": 4.657663175274184,
+   "rank": 3.0272148916714463,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2497,7 +2656,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.448942426926437,
+   "rank": 2.891558333044939,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2525,7 +2684,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.7769796147139156,
+   "rank": 2.454820905878059,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2553,7 +2712,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.664532338081248,
+   "rank": 2.3817366021101565,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2592,7 +2751,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.4477818555934343,
+   "rank": 2.240861175169167,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2624,7 +2783,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.127751708758468,
+   "rank": 2.0328598685427846,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2652,7 +2811,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.5816830332280367,
+   "rank": 1.6779464357259701,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2684,7 +2843,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.5632180991023024,
+   "rank": 1.6659452837629227,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2718,7 +2877,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.5558368791376522,
+   "rank": 1.6611479126017124,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2746,7 +2905,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.4916373576457818,
+   "rank": 1.6194218924527932,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2774,7 +2933,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.465810419381596,
+   "rank": 1.6026358585174345,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2812,7 +2971,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.3012499977477647,
+   "rank": 1.4956809886173936,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2840,7 +2999,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 2.2430838920152407,
+   "rank": 1.4578763439194276,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2878,7 +3037,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.1304897198513815,
+   "rank": 1.384696566450914,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2912,7 +3071,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.0742153993528363,
+   "rank": 1.34812147404487,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2944,7 +3103,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.027365650439277,
+   "rank": 1.3176718145814972,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2976,7 +3135,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.8546542304504203,
+   "rank": 1.2054192615571553,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3004,7 +3163,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.5364558513724713,
+   "rank": 0.9986084992924962,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3042,7 +3201,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.4820214520012045,
+   "rank": 0.9632292504729012,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3063,62 +3222,6 @@
    ]
   },
   {
-   "id": "discovered-sound-that-leaks",
-   "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.195949832920301,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T05:32:25.000Z",
-   "latestAt": "2026-11-03T05:32:25.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
-     "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-03T05:32:25.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "october-sponsors-only-newsletter",
-   "title": "October sponsors-only newsletter",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.1912156814678236,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T05:28:59.000Z",
-   "latestAt": "2026-11-03T05:28:59.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "October sponsors-only newsletter",
-     "link": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-03T05:28:59.000Z",
-     "points": null,
-     "summary": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it…"
-    }
-   ]
-  },
-  {
    "id": "scmp-plus-fireside-chat",
    "title": "SCMP Plus’ fireside chat about AI with Professor Alan Macfarlane",
    "category": {
@@ -3126,7 +3229,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.0243475005008595,
+   "rank": 0.6657673367675595,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3154,7 +3257,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.0120945747296175,
+   "rank": 0.657803635236251,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
