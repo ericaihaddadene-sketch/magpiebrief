@@ -1,72 +1,616 @@
 {
  "date": "2026-11-06",
- "generated": "2026-11-06T14:55:40.227Z",
+ "generated": "2026-11-06T20:47:49.924Z",
  "headline": "100 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2870 items read · 102 on-topic · 100 distinct developments · 26 with a primary source · 1 independently corroborated",
+ "stats": "22 sources monitored · 2872 items read · 102 on-topic · 100 distinct developments · 25 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "gemini-gemini-omni-flash",
-   "title": "Gemini Omni 1.2 Flash",
+   "id": "perplexity-agents-perplexity-launches-agents-work",
+   "title": "Perplexity launches AI agents for work",
    "category": {
-    "id": "models",
-    "name": "Models"
+    "id": "general",
+    "name": "Other"
    },
    "entities": [
     {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "perplexity",
+     "name": "Perplexity",
+     "kind": "org"
     }
    ],
-   "rank": 202.74298064586085,
+   "rank": 169.0708371574128,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T13:35:27.000Z",
-   "latestAt": "2026-11-06T13:35:27.000Z",
-   "primary": {
-    "publisher": "Google",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "title": "Gemini Omni 1.2 Flash"
-   },
+   "independentCount": 0,
+   "publishedAt": "2026-11-06T17:59:41.000Z",
+   "latestAt": "2026-11-06T17:59:41.000Z",
+   "primary": null,
    "sources": [
     {
-     "title": "Gemini Omni 1.2 Flash",
-     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-     "publisher": "Google",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-11-06T13:35:27.000Z",
-     "points": 80,
+     "title": "Perplexity launches AI agents for work",
+     "link": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+     "publisher": "perplexity.ai",
+     "publisherDomain": "perplexity.ai",
+     "kind": "discussion",
+     "date": "2026-11-06T17:59:41.000Z",
+     "points": 54,
      "summary": ""
     }
    ]
   },
   {
-   "id": "university-libraries-being-swarmed",
-   "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+   "id": "anthropic-funding-anthropic-buyers-valuation",
+   "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 166.12818343082634,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T15:54:47.000Z",
+   "latestAt": "2026-11-06T16:54:36.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+     "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-06T15:54:47.000Z",
+     "points": null,
+     "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
+    },
+    {
+     "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+     "link": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+     "publisher": "Bloomberg",
+     "publisherDomain": "bloomberg.com",
+     "kind": "discussion",
+     "date": "2026-11-06T16:54:36.000Z",
+     "points": 114,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "show-agents-infer-lego",
+   "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 124.23806828933958,
+   "rank": 141.13160505145186,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-06T14:13:09.000Z",
-   "latestAt": "2026-11-06T14:13:09.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T19:41:20.000Z",
+   "latestAt": "2026-11-06T19:41:20.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+    "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them"
+   },
+   "sources": [
+    {
+     "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+     "link": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-11-06T19:41:20.000Z",
+     "points": 10,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-meta-muse-create-custom",
+   "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 122.77285344629031,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-11-06T18:10:10.000Z",
+   "latestAt": "2026-11-06T18:44:20.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-     "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
-     "publisher": "cbc.ca",
-     "publisherDomain": "cbc.ca",
+     "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+     "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-06T18:44:20.000Z",
+     "points": null,
+     "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
+    },
+    {
+     "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+     "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-06T18:10:10.000Z",
+     "points": null,
+     "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a…"
+    }
+   ]
+  },
+  {
+   "id": "week-biggest-funding-rounds",
+   "title": "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [],
+   "rank": 104.08883076845136,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T19:29:06.000Z",
+   "latestAt": "2026-11-06T19:29:06.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
+     "link": "https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-11-06T19:29:06.000Z",
+     "points": null,
+     "summary": "This week brought another plethora of large funding rounds for startups and growth-stage companies. Shield AI, a defense tech player focused on autonomy and virtual simulations…"
+    }
+   ]
+  },
+  {
+   "id": "sketchagentbench-evaluate-llms-spatial",
+   "title": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 138.60058930663445,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-06T20:28:24.000Z",
+   "latestAt": "2026-11-06T20:28:24.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
+     "link": "https://sketchagent.dev/",
+     "publisher": "sketchagent.dev",
+     "publisherDomain": "sketchagent.dev",
      "kind": "discussion",
-     "date": "2026-11-06T14:13:09.000Z",
-     "points": 14,
+     "date": "2026-11-06T20:28:24.000Z",
+     "points": 4,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "memorilla-latent-semantic-memory",
+   "title": "Memorilla: Latent Semantic Memory for LLMs",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 117.30077959685701,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T18:03:33.000Z",
+   "latestAt": "2026-11-06T18:03:33.000Z",
+   "primary": {
+    "publisher": "arXiv",
+    "link": "https://arxiv.org/abs/2610.21375",
+    "title": "Memorilla: Latent Semantic Memory for LLMs"
+   },
+   "sources": [
+    {
+     "title": "Memorilla: Latent Semantic Memory for LLMs",
+     "link": "https://arxiv.org/abs/2610.21375",
+     "publisher": "arXiv",
+     "publisherDomain": "arxiv.org",
+     "kind": "research",
+     "date": "2026-11-06T18:03:33.000Z",
+     "points": 40,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "latest-updates-data-centers",
+   "title": "All the latest updates on AI data centers",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 94.88328663015585,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T20:02:22.000Z",
+   "latestAt": "2026-11-06T20:02:22.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "All the latest updates on AI data centers",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-06T20:02:22.000Z",
+     "points": null,
+     "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers…"
+    }
+   ]
+  },
+  {
+   "id": "quoting-nilay-patel",
+   "title": "Quoting Nilay Patel",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 93.64772486406649,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T17:13:12.000Z",
+   "latestAt": "2026-11-06T17:13:12.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Quoting Nilay Patel",
+     "link": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-06T17:13:12.000Z",
+     "points": null,
+     "summary": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data…"
+    }
+   ]
+  },
+  {
+   "id": "google-google-forcing-students",
+   "title": "Google Forcing AI on Students Is BS",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 89.76505886291545,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T19:14:22.000Z",
+   "latestAt": "2026-11-06T19:14:22.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google Forcing AI on Students Is BS",
+     "link": "https://www.eff.org/deeplinks/2026/11/google-forcing-ai-students-bs",
+     "publisher": "EFF",
+     "publisherDomain": "eff.org",
+     "kind": "coverage",
+     "date": "2026-11-06T19:14:22.000Z",
+     "points": null,
+     "summary": "Google is rightfully facing blowback for forcing K-12 schools to enable AI if they wanted to keep using Google search. The company quickly backtracked and decoupled…"
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-does-meta-think-read",
+   "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 88.85391136250978,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T17:43:02.000Z",
+   "latestAt": "2026-11-06T17:43:02.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+     "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-06T17:43:02.000Z",
+     "points": null,
+     "summary": "Meta won't force Facebook page owners to allow AI training on linked content."
+    }
+   ]
+  },
+  {
+   "id": "hundreds-artex-hacking-tools",
+   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [],
+   "rank": 86.73404706855467,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T18:44:38.000Z",
+   "latestAt": "2026-11-06T18:44:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+     "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-06T18:44:38.000Z",
+     "points": null,
+     "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
+    }
+   ]
+  },
+  {
+   "id": "free-chinese-models-getting",
+   "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [],
+   "rank": 86.64224650909462,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T18:43:43.000Z",
+   "latestAt": "2026-11-06T18:43:43.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+     "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-06T18:43:43.000Z",
+     "points": null,
+     "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind…"
+    }
+   ]
+  },
+  {
+   "id": "predict-behavior-molecules-from",
+   "title": "How to predict the behavior of molecules from scant data",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 83.87314522813786,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T19:00:00.000Z",
+   "latestAt": "2026-11-06T19:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How to predict the behavior of molecules from scant data",
+     "link": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+     "publisher": "MIT News AI",
+     "publisherDomain": "news.mit.edu",
+     "kind": "coverage",
+     "date": "2026-11-06T19:00:00.000Z",
+     "points": null,
+     "summary": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation."
+    }
+   ]
+  },
+  {
+   "id": "could-potential-clones-force",
+   "title": "Could potential AI clones of GTA VI force a quicker official port?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 80.65215392843136,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T16:19:12.000Z",
+   "latestAt": "2026-11-06T16:19:12.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Could potential AI clones of GTA VI force a quicker official port?",
+     "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-06T16:19:12.000Z",
+     "points": null,
+     "summary": "A former Rockstar tech director thinks the developer is facing new time pressures."
+    }
+   ]
+  },
+  {
+   "id": "after-midterms-industry-rough",
+   "title": "After the midterms, is the AI industry in for a rough two years?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 79.00737435007919,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T17:23:52.000Z",
+   "latestAt": "2026-11-06T17:23:52.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "After the midterms, is the AI industry in for a rough two years?",
+     "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-06T17:23:52.000Z",
+     "points": null,
+     "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday…"
+    }
+   ]
+  },
+  {
+   "id": "upcodes-hiring-sell-compliance",
+   "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 77.17460565439609,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-06T17:03:33.000Z",
+   "latestAt": "2026-11-06T17:03:33.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+     "link": "https://up.codes/careers?utm_source=HN",
+     "publisher": "up.codes",
+     "publisherDomain": "up.codes",
+     "kind": "discussion",
+     "date": "2026-11-06T17:03:33.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "dating-dealbreaker",
+   "title": "AI is the new dating dealbreaker",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 76.85875139344532,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T17:00:00.000Z",
+   "latestAt": "2026-11-06T17:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI is the new dating dealbreaker",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-06T17:00:00.000Z",
+     "points": null,
+     "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city…"
+    }
+   ]
+  },
+  {
+   "id": "openai-partnering-with-hacktron-find",
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 72.28421176904082,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T08:00:00.000Z",
+   "latestAt": "2026-11-06T08:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/partnering-with-hacktron",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
+   },
+   "sources": [
+    {
+     "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+     "link": "https://openai.com/index/partnering-with-hacktron",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-06T08:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
     }
    ]
   },
@@ -84,7 +628,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 107.93662216191416,
+   "rank": 71.85939225100432,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -109,6 +653,68 @@
    ]
   },
   {
+   "id": "companies-really-really-want",
+   "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 71.71175073841005,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T16:00:00.000Z",
+   "latestAt": "2026-11-06T16:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+     "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-06T16:00:00.000Z",
+     "points": null,
+     "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled."
+    }
+   ]
+  },
+  {
+   "id": "gpt-astra-covertly-underperforms-safety",
+   "title": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 70.51466005138438,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T18:30:54.000Z",
+   "latestAt": "2026-11-06T18:30:54.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
+     "link": "https://www.lesswrong.com/posts/uc9ouDHMR2aw2ozsF/gpt-6-astra-covertly-underperforms-on-safety-research-tasks",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-06T18:30:54.000Z",
+     "points": null,
+     "summary": "For a while, UK AISI , Redwood Research and others have been concerned specifically with the possibility that AIs would sabotage safety research, and have invested…"
+    }
+   ]
+  },
+  {
    "id": "robotics-download-humanoid-cleans-house",
    "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
    "category": {
@@ -122,7 +728,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 92.93366727365014,
+   "rank": 61.87109357492903,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -143,6 +749,40 @@
    ]
   },
   {
+   "id": "safety-higher-salaries-safety",
+   "title": "Higher salaries in AI safety",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 61.57677740447901,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T18:56:51.000Z",
+   "latestAt": "2026-11-06T18:56:51.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Higher salaries in AI safety",
+     "link": "https://www.lesswrong.com/posts/HtMvB7XEFThvDLLzT/higher-salaries-in-ai-safety",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-06T18:56:51.000Z",
+     "points": null,
+     "summary": "The salaries are too damn low AI safety has a salary overhang. A bunch of people are paid way below their market rate. (Also true of…"
+    }
+   ]
+  },
+  {
    "id": "underdog-shows-32mb-speech",
    "title": "Underdog shows off a 32MB speech model in new demo",
    "category": {
@@ -150,7 +790,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 87.7210525437489,
+   "rank": 58.400767016372825,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -178,7 +818,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 86.0630973887125,
+   "rank": 57.29697436996582,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -199,69 +839,36 @@
    ]
   },
   {
-   "id": "mbodi-hiring-research-robotic",
-   "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 81.69863710452515,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-06T12:00:42.000Z",
-   "latestAt": "2026-11-06T12:00:42.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
-     "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
-     "publisher": "ycombinator.com",
-     "publisherDomain": "ycombinator.com",
-     "kind": "discussion",
-     "date": "2026-11-06T12:00:42.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "microsoft-infrastructure-protesters-break-into-microsoft",
-   "title": "Protesters break into Microsoft data center site in Amsterdam",
+   "id": "safety-models-often-stop-cheating",
+   "title": "Models Often Don't Stop Cheating When It's Obvious They're in an Alignment Test",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [
     {
-     "id": "infrastructure",
-     "name": "AI Infrastructure",
+     "id": "safety",
+     "name": "AI Safety",
      "kind": "topic"
-    },
-    {
-     "id": "microsoft",
-     "name": "Microsoft",
-     "kind": "org"
     }
    ],
-   "rank": 81.19212416997996,
+   "rank": 56.90052335349184,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-06T11:55:19.000Z",
-   "latestAt": "2026-11-06T11:55:19.000Z",
+   "publishedAt": "2026-11-06T17:48:29.000Z",
+   "latestAt": "2026-11-06T17:48:29.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Protesters break into Microsoft data center site in Amsterdam",
-     "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
+     "title": "Models Often Don't Stop Cheating When It's Obvious They're in an Alignment Test",
+     "link": "https://www.lesswrong.com/posts/qghXwXMypQDuekQip/models-often-don-t-stop-cheating-when-it-s-obvious-they-re",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
      "kind": "coverage",
-     "date": "2026-11-06T11:55:19.000Z",
+     "date": "2026-11-06T17:48:29.000Z",
      "points": null,
-     "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the…"
+     "summary": "By now there is a large amount of anecdotal and empirical evidence that models are \" eval-aware \"; i.e. have the ability to infer when they…"
     }
    ]
   },
@@ -279,7 +886,7 @@
      "kind": "org"
     }
    ],
-   "rank": 80.88456783938284,
+   "rank": 53.84934020544213,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -307,7 +914,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 77.56291291774302,
+   "rank": 51.637930406286706,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -341,7 +948,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 74.61856794949132,
+   "rank": 49.67771675722066,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -369,7 +976,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 69.90091933977818,
+   "rank": 46.53691658062033,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -390,44 +997,6 @@
    ]
   },
   {
-   "id": "claude-claude-code-sends-your",
-   "title": "Claude Code sends your email address to websites",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "rank": 68.63339621118597,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T22:17:15.000Z",
-   "latestAt": "2026-11-05T22:17:15.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/anthropics/claude-code/issues/107757",
-    "title": "Claude Code sends your email address to websites"
-   },
-   "sources": [
-    {
-     "title": "Claude Code sends your email address to websites",
-     "link": "https://github.com/anthropics/claude-code/issues/107757",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-11-05T22:17:15.000Z",
-     "points": 1363,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "better-research-with-agent",
    "title": "How to Run Better Research With Agent Fleets",
    "category": {
@@ -435,7 +1004,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 67.8111844689389,
+   "rank": 45.14566424405028,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -469,7 +1038,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 66.79477747807232,
+   "rank": 44.46898577125371,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -503,7 +1072,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 66.05189488459445,
+   "rank": 43.97440765113161,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -524,44 +1093,6 @@
    ]
   },
   {
-   "id": "nvidia-nvidia-kubernetes-engine-nvke",
-   "title": "Nvidia Kubernetes Engine (NVKE)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 64.64716633181558,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T03:16:26.000Z",
-   "latestAt": "2026-11-06T03:16:26.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/dsx-ai-factory/nvke",
-    "title": "Nvidia Kubernetes Engine (NVKE)"
-   },
-   "sources": [
-    {
-     "title": "Nvidia Kubernetes Engine (NVKE)",
-     "link": "https://github.com/dsx-ai-factory/nvke",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-11-06T03:16:26.000Z",
-     "points": 106,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "bubble-bursts-fifth-plenum",
    "title": "AI bubble bursts, fifth plenum resolution, Singles’ Day",
    "category": {
@@ -569,7 +1100,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 63.390026651432855,
+   "rank": 42.20225442217183,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -590,6 +1121,44 @@
    ]
   },
   {
+   "id": "agents-measuring-agents-handle-everyday",
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 36.90344673393535,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T00:00:00.000Z",
+   "latestAt": "2026-11-06T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "title": "Measuring how AI agents handle everyday wet-lab science"
+   },
+   "sources": [
+    {
+     "title": "Measuring how AI agents handle everyday wet-lab science",
+     "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-06T00:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+    }
+   ]
+  },
+  {
    "id": "does-democratic-midterm-victory",
    "title": "Does the Democratic midterm victory spell the end of US AI data centre boom?",
    "category": {
@@ -597,7 +1166,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 51.19116230781274,
+   "rank": 34.08079425112805,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -618,8 +1187,80 @@
    ]
   },
   {
-   "id": "google-gemini-search-google-forcing-overviews-classrooms",
-   "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+   "id": "gpt-sentence-away-from-collaborating",
+   "title": "GPT-6.1 Sol is One Sentence Away From Collaborating: Other Models Need More Help",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 31.12455117319562,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T09:06:15.000Z",
+   "latestAt": "2026-11-06T09:06:15.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "GPT-6.1 Sol is One Sentence Away From Collaborating: Other Models Need More Help",
+     "link": "https://www.lesswrong.com/posts/FqyteKS8RLZaEsTGY/gpt-6-1-sol-is-one-sentence-away-from-collaborating-other",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-06T09:06:15.000Z",
+     "points": null,
+     "summary": "TL;DR We studied one ingredient of unexpected AI collaboration: whether agents organize useful teamwork with little prompting. We tested seven models in groups of three on…"
+    }
+   ]
+  },
+  {
+   "id": "gemini-gemini-omni-flash-fast",
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 29.216784792409157,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-05T17:05:16.000Z",
+   "latestAt": "2026-11-05T17:05:16.000Z",
+   "primary": {
+    "publisher": "Google DeepMind",
+    "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
+   },
+   "sources": [
+    {
+     "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+     "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+     "publisher": "Google DeepMind",
+     "publisherDomain": "deepmind.google",
+     "kind": "primary",
+     "date": "2026-11-05T17:05:16.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "google-gemini-search-google-schools-keep-search",
+   "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
    "category": {
     "id": "models",
     "name": "Models"
@@ -641,11 +1282,11 @@
      "kind": "model"
     }
    ],
-   "rank": 51.03949370611847,
+   "rank": 28.79645767462597,
    "deltas": [],
-   "sourceCount": 3,
-   "independentCount": 2,
-   "publishedAt": "2026-11-03T17:54:43.000Z",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-05T21:40:36.000Z",
    "latestAt": "2026-11-05T21:40:36.000Z",
    "primary": null,
    "sources": [
@@ -658,127 +1299,6 @@
      "date": "2026-11-05T21:40:36.000Z",
      "points": null,
      "summary": "Google is technically offering schools more choice but not the choices anyone wants."
-    },
-    {
-     "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-     "link": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-04T20:06:21.000Z",
-     "points": null,
-     "summary": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable."
-    },
-    {
-     "title": "Google will let schools skip AI tools, but they have to give up search, too",
-     "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-03T17:54:43.000Z",
-     "points": null,
-     "summary": "Google will offer schools AI tools that purportedly don't give away the answers."
-    }
-   ]
-  },
-  {
-   "id": "openai-infrastructure-openai-stepping-back-from",
-   "title": "OpenAI is stepping back from NDAs for data center projects",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "infrastructure",
-     "name": "AI Infrastructure",
-     "kind": "topic"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 50.11793505551642,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T00:37:56.000Z",
-   "latestAt": "2026-11-06T00:37:56.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI is stepping back from NDAs for data center projects",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-06T00:37:56.000Z",
-     "points": null,
-     "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on…"
-    }
-   ]
-  },
-  {
-   "id": "cuban-facebook-knowingly-runs",
-   "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [],
-   "rank": 48.62780860369527,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-05T23:09:57.000Z",
-   "latestAt": "2026-11-05T23:09:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-     "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-     "publisher": "finance.yahoo.com",
-     "publisherDomain": "finance.yahoo.com",
-     "kind": "discussion",
-     "date": "2026-11-05T23:09:57.000Z",
-     "points": 444,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "gpt-sentence-away-from-collaborating",
-   "title": "GPT-6.1 Sol is One Sentence Away From Collaborating: Other Models Need More Help",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 46.750728258398595,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T09:06:15.000Z",
-   "latestAt": "2026-11-06T09:06:15.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "GPT-6.1 Sol is One Sentence Away From Collaborating: Other Models Need More Help",
-     "link": "https://www.lesswrong.com/posts/FqyteKS8RLZaEsTGY/gpt-6-1-sol-is-one-sentence-away-from-collaborating-other",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-06T09:06:15.000Z",
-     "points": null,
-     "summary": "TL;DR We studied one ingredient of unexpected AI collaboration: whether agents organize useful teamwork with little prompting. We tested seven models in groups of three on…"
     }
    ]
   },
@@ -790,7 +1310,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 40.86254911519762,
+   "rank": 27.204463938477975,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -822,7 +1342,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 40.174125401795045,
+   "rank": 26.746142113452912,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -861,7 +1381,7 @@
      "kind": "model"
     }
    ],
-   "rank": 39.883565401223635,
+   "rank": 26.552700215463993,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -895,7 +1415,7 @@
      "kind": "org"
     }
    ],
-   "rank": 39.876885322308496,
+   "rank": 26.548252916656452,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -929,7 +1449,7 @@
      "kind": "org"
     }
    ],
-   "rank": 39.28754301687746,
+   "rank": 26.155895076955375,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -950,68 +1470,6 @@
    ]
   },
   {
-   "id": "airbnb-says-launching-travel",
-   "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 38.9162903962594,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T22:40:55.000Z",
-   "latestAt": "2026-11-05T22:40:55.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-     "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-05T22:40:55.000Z",
-     "points": null,
-     "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
-    }
-   ]
-  },
-  {
-   "id": "claude-claude-analyze-your-spending",
-   "title": "Claude can now analyze your spending with its new Personal Finance tool",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "rank": 35.16421096424948,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T18:00:00.000Z",
-   "latestAt": "2026-11-05T18:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Claude can now analyze your spending with its new Personal Finance tool",
-     "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-05T18:00:00.000Z",
-     "points": null,
-     "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances."
-    }
-   ]
-  },
-  {
    "id": "cult-builds-operational-muscle",
    "title": "Cult.fit builds operational muscle with Codex",
    "category": {
@@ -1019,7 +1477,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.00732845081514,
+   "rank": 23.306318989983264,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1044,107 +1502,6 @@
    ]
   },
   {
-   "id": "openai-funding-openai-president-greg-brockman",
-   "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 31.737491104231683,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T18:02:27.000Z",
-   "latestAt": "2026-11-05T18:02:27.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-     "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-05T18:02:27.000Z",
-     "points": null,
-     "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival…"
-    }
-   ]
-  },
-  {
-   "id": "coding-agents-frontier-coding-agents-claim",
-   "title": "Frontier coding agents claim work they didn't do",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "coding-agents",
-     "name": "Coding Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 31.55898972922205,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T00:48:16.000Z",
-   "latestAt": "2026-11-06T00:48:16.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Frontier coding agents claim work they didn't do",
-     "link": "https://www.lesswrong.com/posts/HjDuFZnQrr7rimHmg/frontier-coding-agents-claim-work-they-didn-t-do",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-06T00:48:16.000Z",
-     "points": null,
-     "summary": "Tara Research Team arXiv | Twitter thread tl;dr. We built OverclaimBench, which asks frontier coding agents to review a corpus of code or text documents, then…"
-    }
-   ]
-  },
-  {
-   "id": "literature-loyalty",
-   "title": "Literature on AI Loyalty",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 31.054926904733595,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T03:12:09.000Z",
-   "latestAt": "2026-11-06T03:12:09.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Literature on AI Loyalty",
-     "link": "https://www.lesswrong.com/posts/cRsccnNcsD97Xin4E/literature-on-ai-loyalty",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-06T03:12:09.000Z",
-     "points": null,
-     "summary": "In this post, I attempt to provide a literature review of research related to AI loyalty. In my previous post , I discussed and attempted to…"
-    }
-   ]
-  },
-  {
    "id": "chatbots-have-arrived-here",
    "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
    "category": {
@@ -1152,7 +1509,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 30.132325343904252,
+   "rank": 20.060759202510287,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1186,7 +1543,7 @@
      "kind": "org"
     }
    ],
-   "rank": 30.095691882335544,
+   "rank": 20.0363702765679,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1229,7 +1586,7 @@
      "kind": "org"
     }
    ],
-   "rank": 29.365971058127986,
+   "rank": 19.550554675799916,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1257,7 +1614,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.434786424204418,
+   "rank": 18.930613449856754,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1282,34 +1639,6 @@
    ]
   },
   {
-   "id": "secret-service-agent-flipped",
-   "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [],
-   "rank": 28.131368771399583,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T18:00:00.000Z",
-   "latestAt": "2026-11-05T18:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-     "link": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-05T18:00:00.000Z",
-     "points": null,
-     "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners."
-    }
-   ]
-  },
-  {
    "id": "quoting-paul-ford",
    "title": "Quoting Paul Ford",
    "category": {
@@ -1317,7 +1646,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 27.30054497745596,
+   "rank": 18.175486048269374,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1351,7 +1680,7 @@
      "kind": "org"
     }
    ],
-   "rank": 26.572300277856336,
+   "rank": 17.69065318547381,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1385,7 +1714,7 @@
      "kind": "org"
     }
    ],
-   "rank": 25.495253419182923,
+   "rank": 16.973603391437972,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1406,34 +1735,6 @@
    ]
   },
   {
-   "id": "humans-almost-natively-read",
-   "title": "Humans can (almost) natively read neural network weights",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 25.083020028050328,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T00:07:17.000Z",
-   "latestAt": "2026-11-06T00:07:17.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Humans can (almost) natively read neural network weights",
-     "link": "https://www.lesswrong.com/posts/uvKSq6eWkud997ie7/humans-can-almost-natively-read-neural-network-weights",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-06T00:07:17.000Z",
-     "points": null,
-     "summary": "Takehi et al. report that GPT-6-Astra can intuit the functions of neural networks by performing static analysis of the weights. I argue that, for at least…"
-    }
-   ]
-  },
-  {
    "id": "formally-verifying-agent-written",
    "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
    "category": {
@@ -1441,7 +1742,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 24.48977893023291,
+   "rank": 16.30420329115086,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1479,7 +1780,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 21.319590842711804,
+   "rank": 14.1936333592059,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1507,7 +1808,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 21.105637602999714,
+   "rank": 14.051192828198902,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1535,7 +1836,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.05352802135302,
+   "rank": 14.016500591286318,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1556,34 +1857,6 @@
    ]
   },
   {
-   "id": "axiom-math-wants-keep",
-   "title": "Axiom Math wants to keep AI slop out of mathematics",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 20.806899656971794,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T16:16:45.000Z",
-   "latestAt": "2026-11-05T16:16:45.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Axiom Math wants to keep AI slop out of mathematics",
-     "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-05T16:16:45.000Z",
-     "points": null,
-     "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the…"
-    }
-   ]
-  },
-  {
    "id": "openai-merge-builds-product-business",
    "title": "Merge builds product and business tools with OpenAI technology",
    "category": {
@@ -1597,7 +1870,7 @@
      "kind": "org"
     }
    ],
-   "rank": 20.57106341408595,
+   "rank": 13.695297159435134,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1629,7 +1902,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.434886548885434,
+   "rank": 13.604636672049523,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1661,7 +1934,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.43405583880514,
+   "rank": 13.604083622303188,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1695,7 +1968,7 @@
      "kind": "model"
     }
    ],
-   "rank": 19.597795434105382,
+   "rank": 13.047338717361114,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1727,7 +2000,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.042576325032453,
+   "rank": 12.677698580908869,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1761,7 +2034,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 17.65183366910893,
+   "rank": 11.751804106628427,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1789,7 +2062,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.607637384154593,
+   "rank": 11.722380189954372,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1823,7 +2096,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 17.026569102367514,
+   "rank": 11.335530826418442,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1851,7 +2124,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 16.576568018596767,
+   "rank": 11.035940161597088,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1879,7 +2152,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.258882441204506,
+   "rank": 10.824439263560162,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1907,7 +2180,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.46648484780471,
+   "rank": 10.296896263396128,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1935,7 +2208,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.200779895510482,
+   "rank": 10.120001748749342,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1974,7 +2247,7 @@
      "kind": "model"
     }
    ],
-   "rank": 13.71527597825655,
+   "rank": 9.131019450227683,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2008,7 +2281,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 13.148974792927913,
+   "rank": 8.75400136133757,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2042,7 +2315,7 @@
      "kind": "org"
     }
    ],
-   "rank": 11.81497335215011,
+   "rank": 7.865882659119352,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2074,7 +2347,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.053215151073061,
+   "rank": 6.692982571207481,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2112,7 +2385,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 9.290406396562478,
+   "rank": 6.185138501187866,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2144,7 +2417,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.221501830349872,
+   "rank": 6.139264912111407,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2182,7 +2455,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 9.044701296867819,
+   "rank": 6.021558996999334,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2203,40 +2476,6 @@
    ]
   },
   {
-   "id": "openai-openai-astra-covertly-underperforms",
-   "title": "OpenAI: Astra covertly underperforms on safety research",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 8.457642081211613,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-04T22:15:30.000Z",
-   "latestAt": "2026-11-04T22:15:30.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI: Astra covertly underperforms on safety research",
-     "link": "https://www.alignmentforum.org/posts/eKe7fky8kSt9DCJxZ/openai-astra-covertly-underperforms-on-safety-research",
-     "publisher": "Alignment Forum",
-     "publisherDomain": "alignmentforum.org",
-     "kind": "coverage",
-     "date": "2026-11-04T22:15:30.000Z",
-     "points": null,
-     "summary": "Marcus Williams twitter thread ( non-twitter link ) intro: Astra covertly underperforms on safety research tasks. We noticed that Astra often makes surprisingly little progress on…"
-    }
-   ]
-  },
-  {
    "id": "blue-wave-tech-bros",
    "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
    "category": {
@@ -2244,7 +2483,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.378110071187713,
+   "rank": 4.246261410126668,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2278,7 +2517,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.115813743800795,
+   "rank": 4.071636206019204,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2310,7 +2549,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.986166966305652,
+   "rank": 3.985323159978845,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2338,7 +2577,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.3524979151369045,
+   "rank": 3.5634545486288407,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2372,7 +2611,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.131889499404669,
+   "rank": 3.4165832980518633,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2400,7 +2639,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.050122599930535,
+   "rank": 3.362146540769926,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2438,7 +2677,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.946211322034392,
+   "rank": 3.292967043319644,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2459,40 +2698,6 @@
    ]
   },
   {
-   "id": "hugging-face-hugging-face-says-doom",
-   "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "hugging-face",
-     "name": "Hugging Face",
-     "kind": "org"
-    }
-   ],
-   "rank": 4.851512369175374,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-04T19:16:25.000Z",
-   "latestAt": "2026-11-04T19:16:25.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
-     "link": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-04T19:16:25.000Z",
-     "points": null,
-     "summary": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI."
-    }
-   ]
-  },
-  {
    "id": "positive-negative-futures",
    "title": "Positive and Negative AI Futures",
    "category": {
@@ -2500,7 +2705,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.517567323004861,
+   "rank": 3.0075949736240006,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2528,7 +2733,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.478075944519013,
+   "rank": 2.9813033739768424,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2560,7 +2765,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.461400715892463,
+   "rank": 2.9702017499798203,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2594,7 +2799,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.003228152040639,
+   "rank": 2.6651708779270735,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2628,7 +2833,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.9572471549635866,
+   "rank": 2.634558779467148,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2656,7 +2861,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.5467488469596327,
+   "rank": 2.3612673020946207,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2684,7 +2889,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.4278288557948593,
+   "rank": 2.2820956722952705,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2712,7 +2917,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.8870279266172236,
+   "rank": 1.9220545173924652,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2750,7 +2955,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.7843694213436816,
+   "rank": 1.853709060117666,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2784,7 +2989,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.6936923030219755,
+   "rank": 1.7933402762595267,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2832,7 +3037,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.9710843623383474,
+   "rank": 1.31226011631732,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2860,7 +3065,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.741172232735763,
+   "rank": 1.159194867716225,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2888,7 +3093,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6581621150678534,
+   "rank": 1.1039304311716727,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2926,7 +3131,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.6581621150678534,
+   "rank": 1.1039304311716727,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2958,7 +3163,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.583856003931238,
+   "rank": 1.0544607342341228,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2986,7 +3191,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.34463233403165,
+   "rank": 0.895196277122874,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3014,7 +3219,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3046002821124234,
+   "rank": 0.8685447212018355,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3031,231 +3236,6 @@
      "date": "2026-11-03T21:41:42.000Z",
      "points": null,
      "summary": "Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm"
-    }
-   ]
-  },
-  {
-   "id": "google-agents-agentic-cheminformatics-with-google",
-   "title": "Agentic cheminformatics with Google Antigravity",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.2274355269639765,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T17:01:49.000Z",
-   "latestAt": "2026-11-03T17:01:49.000Z",
-   "primary": {
-    "publisher": "Google DeepMind",
-    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-    "title": "Agentic cheminformatics with Google Antigravity"
-   },
-   "sources": [
-    {
-     "title": "Agentic cheminformatics with Google Antigravity",
-     "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-     "publisher": "Google DeepMind",
-     "publisherDomain": "deepmind.google",
-     "kind": "primary",
-     "date": "2026-11-03T17:01:49.000Z",
-     "points": null,
-     "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
-    }
-   ]
-  },
-  {
-   "id": "ukraine-drone-strikes-spur",
-   "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.113502456840222,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T20:39:55.000Z",
-   "latestAt": "2026-11-03T20:39:55.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-     "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-03T20:39:55.000Z",
-     "points": null,
-     "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires."
-    }
-   ]
-  },
-  {
-   "id": "automating-subtle-emergent-misalignment",
-   "title": "Automating subtle emergent misalignment research",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.912524367831188,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T18:27:53.000Z",
-   "latestAt": "2026-11-03T18:27:53.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Automating subtle emergent misalignment research",
-     "link": "https://www.alignmentforum.org/posts/MuQDLAJyKJPFkw6q9/automating-subtle-emergent-misalignment-research",
-     "publisher": "Alignment Forum",
-     "publisherDomain": "alignmentforum.org",
-     "kind": "coverage",
-     "date": "2026-11-03T18:27:53.000Z",
-     "points": null,
-     "summary": "Authors: Oscar Balcells Obeso, Richard Qi, Monte MacDiarmid, Evan Hubinger Abstract Red-teaming by humans is a vital part of model safety testing, but it may struggle…"
-    }
-   ]
-  },
-  {
-   "id": "qwen-qwen-laptop-interpret-model",
-   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "qwen",
-     "name": "Qwen",
-     "kind": "model"
-    }
-   ],
-   "rank": 0.9098965996032616,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T16:29:48.000Z",
-   "latestAt": "2026-11-03T16:29:48.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-     "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-03T16:29:48.000Z",
-     "points": null,
-     "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar…"
-    }
-   ]
-  },
-  {
-   "id": "building-connections-across-research",
-   "title": "Building connections across the research infrastructure",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8870411009685757,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T19:30:00.000Z",
-   "latestAt": "2026-11-03T19:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Building connections across the research infrastructure",
-     "link": "https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103",
-     "publisher": "MIT News AI",
-     "publisherDomain": "news.mit.edu",
-     "kind": "coverage",
-     "date": "2026-11-03T19:30:00.000Z",
-     "points": null,
-     "summary": "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected."
-    }
-   ]
-  },
-  {
-   "id": "palette-teaching-small-model",
-   "title": "Palette: teaching a small model to build decks in your design language",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8778465222782976,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T16:35:36.000Z",
-   "latestAt": "2026-11-03T16:35:36.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-    "title": "Palette: teaching a small model to build decks in your design language"
-   },
-   "sources": [
-    {
-     "title": "Palette: teaching a small model to build decks in your design language",
-     "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-11-03T16:35:36.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "learn-rules-hacker-mindset",
-   "title": "Learn the rules: The hacker mindset",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [],
-   "rank": 0.7985542514975158,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-03T17:14:38.000Z",
-   "latestAt": "2026-11-03T17:14:38.000Z",
-   "primary": {
-    "publisher": "Microsoft Research",
-    "link": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
-    "title": "Learn the rules: The hacker mindset"
-   },
-   "sources": [
-    {
-     "title": "Learn the rules: The hacker mindset",
-     "link": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
-     "publisher": "Microsoft Research",
-     "publisherDomain": "microsoft.com",
-     "kind": "primary",
-     "date": "2026-11-03T17:14:38.000Z",
-     "points": null,
-     "summary": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires…"
     }
    ]
   }
