@@ -1,43 +1,15 @@
 {
  "date": "2026-11-07",
- "generated": "2026-11-07T18:37:51.651Z",
- "headline": "77 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2872 items read · 78 on-topic · 77 distinct developments · 18 with a primary source · 1 independently corroborated",
+ "generated": "2026-11-07T22:38:07.736Z",
+ "headline": "70 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2872 items read · 71 on-topic · 70 distinct developments · 17 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "frontiers",
-   "title": "The End of AI Frontiers",
+   "id": "microsoft-microsoft-research-frontiers-group",
+   "title": "The end of Microsoft Research's AI Frontiers group",
    "category": {
     "id": "general",
     "name": "Other"
-   },
-   "entities": [],
-   "rank": 123.08755359327009,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-07T18:04:07.000Z",
-   "latestAt": "2026-11-07T18:04:07.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The End of AI Frontiers",
-     "link": "https://hunch.net/?p=13764006",
-     "publisher": "hunch.net",
-     "publisherDomain": "hunch.net",
-     "kind": "discussion",
-     "date": "2026-11-07T18:04:07.000Z",
-     "points": 11,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "microsoft-microsoft-researcher-john-langford",
-   "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-   "category": {
-    "id": "research",
-    "name": "Research"
    },
    "entities": [
     {
@@ -46,7 +18,7 @@
      "kind": "org"
     }
    ],
-   "rank": 122.82713621660265,
+   "rank": 105.43190912736716,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -55,13 +27,79 @@
    "primary": null,
    "sources": [
     {
-     "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-     "link": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/",
-     "publisher": "businessexaminer.ca",
-     "publisherDomain": "businessexaminer.ca",
+     "title": "The end of Microsoft Research's AI Frontiers group",
+     "link": "https://hunch.net/?p=13764006",
+     "publisher": "hunch.net",
+     "publisherDomain": "hunch.net",
      "kind": "discussion",
      "date": "2026-11-07T18:02:17.000Z",
-     "points": 11,
+     "points": 279,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "nvidia-megaspeed-exec-recruited-nvidia",
+   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 91.06753042530494,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-07T21:17:08.000Z",
+   "latestAt": "2026-11-07T21:17:08.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+     "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-07T21:17:08.000Z",
+     "points": null,
+     "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
+    }
+   ]
+  },
+  {
+   "id": "show-compressed-video-audio",
+   "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 86.30028751869148,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-07T15:16:01.000Z",
+   "latestAt": "2026-11-07T15:16:01.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+    "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8"
+   },
+   "sources": [
+    {
+     "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+     "link": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-11-07T15:16:01.000Z",
+     "points": 48,
      "summary": ""
     }
    ]
@@ -80,7 +118,7 @@
      "kind": "org"
     }
    ],
-   "rank": 98.06857219274964,
+   "rank": 74.29904703237253,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -101,6 +139,34 @@
    ]
   },
   {
+   "id": "catching-prompt-injections-hidden",
+   "title": "Catching prompt injections hidden in PDFs",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 72.75631916221559,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-07T19:34:01.000Z",
+   "latestAt": "2026-11-07T19:34:01.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Catching prompt injections hidden in PDFs",
+     "link": "https://tomclancy.info/joshua-judges-ruth.html",
+     "publisher": "tomclancy.info",
+     "publisherDomain": "tomclancy.info",
+     "kind": "discussion",
+     "date": "2026-11-07T19:34:01.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "anthropic-anthropic-acceleration-probably-real",
    "title": "Anthropic's AI acceleration is probably real",
    "category": {
@@ -114,7 +180,7 @@
      "kind": "org"
     }
    ],
-   "rank": 82.51743659520503,
+   "rank": 62.51714250032926,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -142,7 +208,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 82.37243895918687,
+   "rank": 62.40728889547691,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -163,38 +229,6 @@
    ]
   },
   {
-   "id": "show-compressed-video-audio",
-   "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 102.73683769457558,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-07T15:16:01.000Z",
-   "latestAt": "2026-11-07T15:16:01.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-    "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8"
-   },
-   "sources": [
-    {
-     "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-     "link": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-11-07T15:16:01.000Z",
-     "points": 13,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "nvidia-nvidia-sell-chips-empty",
    "title": "The US let Nvidia sell chips to an empty office in China",
    "category": {
@@ -208,7 +242,7 @@
      "kind": "org"
     }
    ],
-   "rank": 81.77982860949858,
+   "rank": 61.95831341578072,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -236,7 +270,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 77.74922920651726,
+   "rank": 58.90463691254615,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -257,38 +291,6 @@
    ]
   },
   {
-   "id": "components-agent-memory",
-   "title": "The Components of Agent Memory",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 75.84356555983311,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-07T06:39:04.000Z",
-   "latestAt": "2026-11-07T06:39:04.000Z",
-   "primary": {
-    "publisher": "Anthropic",
-    "link": "https://www.anthropic.com/research/components-of-agent-memory",
-    "title": "The Components of Agent Memory"
-   },
-   "sources": [
-    {
-     "title": "The Components of Agent Memory",
-     "link": "https://www.anthropic.com/research/components-of-agent-memory",
-     "publisher": "Anthropic",
-     "publisherDomain": "anthropic.com",
-     "kind": "primary",
-     "date": "2026-11-07T06:39:04.000Z",
-     "points": 120,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "catch-misalignment-before-model",
    "title": "Let's Try to Catch Misalignment Before a Model Learns to Hide It",
    "category": {
@@ -296,7 +298,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 66.7250010031846,
+   "rank": 50.55242344129121,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -340,7 +342,7 @@
      "kind": "org"
     }
    ],
-   "rank": 64.6523946559859,
+   "rank": 48.982168332779544,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -371,34 +373,6 @@
    ]
   },
   {
-   "id": "types-consciousness-feeling",
-   "title": "The 4 types of AI consciousness/feeling",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 64.63478299149173,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-07T17:28:50.000Z",
-   "latestAt": "2026-11-07T17:28:50.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The 4 types of AI consciousness/feeling",
-     "link": "https://www.lesswrong.com/posts/wiiApTtRgJgw2EcdZ/the-4-types-of-ai-consciousness-feeling",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-07T17:28:50.000Z",
-     "points": null,
-     "summary": "Here I'm trying to propose a framework for people to better think about what LLMs might subjectively experience, which tends to get discussed like it's a…"
-    }
-   ]
-  },
-  {
    "id": "apps-caregivers-dose-that",
    "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
    "category": {
@@ -406,7 +380,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 58.922897370866146,
+   "rank": 44.64136700631305,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -434,7 +408,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 48.764297697092445,
+   "rank": 36.944973981835446,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -473,7 +447,7 @@
      "kind": "org"
     }
    ],
-   "rank": 34.37593349305455,
+   "rank": 26.044012289300966,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -512,7 +486,7 @@
      "kind": "org"
     }
    ],
-   "rank": 30.871440813104144,
+   "rank": 23.388926560710217,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -540,7 +514,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 22.916110461458928,
+   "rank": 17.361781974642227,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -574,7 +548,7 @@
      "kind": "org"
     }
    ],
-   "rank": 22.90641471501148,
+   "rank": 17.35443625006191,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -602,7 +576,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.617405264386083,
+   "rank": 15.62022908229267,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -636,7 +610,7 @@
      "kind": "org"
     }
    ],
-   "rank": 19.762600744915037,
+   "rank": 14.972609159053299,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -670,7 +644,7 @@
      "kind": "org"
     }
    ],
-   "rank": 19.562003268588054,
+   "rank": 14.820631813049927,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -698,7 +672,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 19.09529570770053,
+   "rank": 14.467043234758082,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -726,7 +700,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 19.075084972836095,
+   "rank": 14.4517311086949,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -754,7 +728,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.46544193654784,
+   "rank": 13.989851266729712,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -782,7 +756,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.75631116935083,
+   "rank": 13.45259718985258,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -810,7 +784,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.39419786455142,
+   "rank": 13.178251669541968,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -844,7 +818,7 @@
      "kind": "org"
     }
    ],
-   "rank": 15.914031979124651,
+   "rank": 12.056843329662339,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -882,7 +856,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 15.82050406715142,
+   "rank": 11.98598439315329,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -914,7 +888,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.787999434460964,
+   "rank": 11.961358122177394,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -948,7 +922,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 13.621488533081635,
+   "rank": 10.3199587241995,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -969,40 +943,6 @@
    ]
   },
   {
-   "id": "safety-higher-salaries-safety",
-   "title": "Higher salaries in AI safety",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 13.556692129636295,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T18:56:51.000Z",
-   "latestAt": "2026-11-06T18:56:51.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Higher salaries in AI safety",
-     "link": "https://www.lesswrong.com/posts/HtMvB7XEFThvDLLzT/higher-salaries-in-ai-safety",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-06T18:56:51.000Z",
-     "points": null,
-     "summary": "The salaries are too damn low AI safety has a salary overhang. A bunch of people are paid way below their market rate. (Also true of…"
-    }
-   ]
-  },
-  {
    "id": "underdog-shows-32mb-speech",
    "title": "Underdog shows off a 32MB speech model in new demo",
    "category": {
@@ -1010,7 +950,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.857464322548253,
+   "rank": 9.741116089061315,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1038,7 +978,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 12.614454251007748,
+   "rank": 9.557005967632795,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1072,7 +1012,7 @@
      "kind": "org"
     }
    ],
-   "rank": 11.855425979082241,
+   "rank": 8.98194837258745,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1100,7 +1040,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.3685638358641,
+   "rank": 8.613090210707119,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1134,7 +1074,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 10.937004828250844,
+   "rank": 8.28613099954536,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1162,7 +1102,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.245528872060566,
+   "rank": 7.762252620957786,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1183,40 +1123,6 @@
    ]
   },
   {
-   "id": "agents-palo-alto-networks-talks",
-   "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 9.790254943971991,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T06:28:32.000Z",
-   "latestAt": "2026-11-06T06:28:32.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-     "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-06T06:28:32.000Z",
-     "points": null,
-     "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source."
-    }
-   ]
-  },
-  {
    "id": "bubble-bursts-fifth-plenum",
    "title": "AI bubble bursts, fifth plenum resolution, Singles’ Day",
    "category": {
@@ -1224,7 +1130,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.291213254306324,
+   "rank": 7.039240759136345,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1258,7 +1164,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 8.124632158129197,
+   "rank": 6.1554115996622665,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1290,7 +1196,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.503199333754264,
+   "rank": 5.684599538128993,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1324,7 +1230,7 @@
      "kind": "model"
     }
    ],
-   "rank": 6.432343054375561,
+   "rank": 4.873293741710431,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1372,7 +1278,7 @@
      "kind": "model"
     }
    ],
-   "rank": 6.339804185507934,
+   "rank": 4.8031841274213125,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1400,7 +1306,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.989312167851652,
+   "rank": 4.537643166417697,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1443,7 +1349,7 @@
      "kind": "model"
     }
    ],
-   "rank": 5.845820408350715,
+   "rank": 4.428930448882015,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1471,7 +1377,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.131099816199813,
+   "rank": 3.8874413897076545,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1503,7 +1409,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.4165600711579005,
+   "rank": 3.3460893445384507,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1537,7 +1443,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.4111906254949425,
+   "rank": 3.342021326753244,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1569,7 +1475,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.167748121651338,
+   "rank": 3.1575835844844553,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1601,7 +1507,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.00149990059345,
+   "rank": 3.0316300387231196,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1629,7 +1535,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.589519844230393,
+   "rank": 2.7195042995621974,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1667,7 +1573,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.1248585223573837,
+   "rank": 2.3674659998701024,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1695,7 +1601,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 3.093498933450036,
+   "rank": 2.3437072408808977,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1723,7 +1629,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.085861119408177,
+   "rank": 2.3379206540872692,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1757,7 +1663,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.0151452388419377,
+   "rank": 2.2843446468236994,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1789,7 +1695,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.9951855012977613,
+   "rank": 2.269222682208636,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1827,7 +1733,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.872491246829725,
+   "rank": 2.176266641557761,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1859,7 +1765,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.7911115816399814,
+   "rank": 2.1146115013205047,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1893,7 +1799,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.587267423802673,
+   "rank": 1.9601743933685227,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1921,7 +1827,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.580789478765406,
+   "rank": 1.9552665504965878,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1955,7 +1861,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.4956210444455413,
+   "rank": 1.890740950034413,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1983,7 +1889,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 2.429663412703665,
+   "rank": 1.8407699035170675,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2011,7 +1917,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.3830995507952353,
+   "rank": 1.8054920312223275,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2039,7 +1945,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.2669561223824286,
+   "rank": 1.7174990498094493,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2067,7 +1973,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.228011173075721,
+   "rank": 1.6879934441346236,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2106,7 +2012,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.010277652293208,
+   "rank": 1.5230334295302712,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2140,7 +2046,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.927273663227432,
+   "rank": 1.4601476634833117,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2174,7 +2080,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.7317461879674372,
+   "rank": 1.3120114690263325,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2206,7 +2112,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4735214795485787,
+   "rank": 1.116374382376142,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2244,7 +2150,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.361714951222258,
+   "rank": 1.0316671380378,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2276,7 +2182,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3516154599821433,
+   "rank": 1.0240155269469664,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2314,7 +2220,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.325701423550361,
+   "rank": 1.0043824460466,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2335,40 +2241,6 @@
    ]
   },
   {
-   "id": "openai-openai-astra-covertly-underperforms",
-   "title": "OpenAI: Astra covertly underperforms on safety research",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.239654885101014,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-04T22:15:30.000Z",
-   "latestAt": "2026-11-04T22:15:30.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI: Astra covertly underperforms on safety research",
-     "link": "https://www.alignmentforum.org/posts/eKe7fky8kSt9DCJxZ/openai-astra-covertly-underperforms-on-safety-research",
-     "publisher": "Alignment Forum",
-     "publisherDomain": "alignmentforum.org",
-     "kind": "coverage",
-     "date": "2026-11-04T22:15:30.000Z",
-     "points": null,
-     "summary": "Marcus Williams twitter thread ( non-twitter link ) intro: Astra covertly underperforms on safety research tasks. We noticed that Astra often makes surprisingly little progress on…"
-    }
-   ]
-  },
-  {
    "id": "blue-wave-tech-bros",
    "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
    "category": {
@@ -2376,7 +2248,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 0.9348533824840157,
+   "rank": 0.708266816580487,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2393,102 +2265,6 @@
      "date": "2026-11-04T23:13:14.000Z",
      "points": null,
      "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit."
-    }
-   ]
-  },
-  {
-   "id": "tech-claims-voters-backlash",
-   "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8774054342280758,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-04T20:55:50.000Z",
-   "latestAt": "2026-11-04T20:55:50.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-     "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-04T20:55:50.000Z",
-     "points": null,
-     "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers."
-    }
-   ]
-  },
-  {
-   "id": "google-google-summaries-aren-about",
-   "title": "Google Summaries Aren't About AI, They're About Lock-In",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.7521921389731159,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-04T20:05:03.000Z",
-   "latestAt": "2026-11-04T20:05:03.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Google Summaries Aren't About AI, They're About Lock-In",
-     "link": "https://www.eff.org/deeplinks/2026/11/google-summaries-arent-about-ai-theyre-about-lock",
-     "publisher": "EFF",
-     "publisherDomain": "eff.org",
-     "kind": "coverage",
-     "date": "2026-11-04T20:05:03.000Z",
-     "points": null,
-     "summary": "Whether they call it AI summaries, knowledge panels, or AMP, Google takes actions that are less about functionality and more about locking you into its own…"
-    }
-   ]
-  },
-  {
-   "id": "infrastructure-texas-epicenter-data-center",
-   "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "infrastructure",
-     "name": "AI Infrastructure",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.7249768870833431,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-04T18:50:55.000Z",
-   "latestAt": "2026-11-04T18:50:55.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-     "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-11-04T18:50:55.000Z",
-     "points": null,
-     "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the…"
     }
    ]
   }
