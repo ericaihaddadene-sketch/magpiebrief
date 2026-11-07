@@ -1,45 +1,57 @@
 {
- "perplexity-agents-perplexity-launches-agents-work": {
-  "id": "perplexity-agents-perplexity-launches-agents-work",
-  "title": "Perplexity launches AI agents for work",
-  "firstSeen": "2026-11-06T20:47:49.868Z",
+ "anthropic-openai-funding-openai-valued-trillion-rival": {
+  "id": "anthropic-openai-funding-openai-valued-trillion-rival",
+  "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+  "firstSeen": "2026-11-07T00:49:10.111Z",
   "publishers": [
-   "perplexity.ai"
+   "The Verge",
+   "TechCrunch"
+  ],
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "category": "business"
+ },
+ "gpt-chatgpt-silently-passes-data": {
+  "id": "gpt-chatgpt-silently-passes-data",
+  "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+  "firstSeen": "2026-11-07T00:49:10.111Z",
+  "publishers": [
+   "OpenAI"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "models"
  },
  "anthropic-funding-anthropic-buyers-valuation": {
   "id": "anthropic-funding-anthropic-buyers-valuation",
   "title": "Anthropic IPO buyers see valuation as low as $1.1T",
   "firstSeen": "2026-11-06T20:47:49.868Z",
   "publishers": [
-   "TechCrunch",
    "Bloomberg"
   ],
-  "sourceCount": 2,
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "business"
+ },
+ "openai-funding-openai-reportedly-raises-additional": {
+  "id": "openai-funding-openai-reportedly-raises-additional",
+  "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+  "firstSeen": "2026-11-07T00:49:10.111Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
   "category": "business"
  },
- "show-agents-infer-lego": {
-  "id": "show-agents-infer-lego",
-  "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
-  "firstSeen": "2026-11-06T20:47:49.868Z",
-  "publishers": [
-   "GitHub"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "meta-ai-meta-muse-create-custom": {
-  "id": "meta-ai-meta-muse-create-custom",
-  "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-  "firstSeen": "2026-11-06T20:47:49.868Z",
+ "meta-ai-meta-introduces-spaces-collaborate": {
+  "id": "meta-ai-meta-introduces-spaces-collaborate",
+  "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+  "firstSeen": "2026-11-07T00:49:10.111Z",
   "publishers": [
    "TechCrunch",
    "The Verge"
@@ -47,31 +59,31 @@
   "sourceCount": 2,
   "independentCount": 2,
   "hadPrimary": false,
-  "category": "tools"
+  "category": "general"
  },
- "week-biggest-funding-rounds": {
-  "id": "week-biggest-funding-rounds",
-  "title": "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
-  "firstSeen": "2026-11-06T20:47:49.868Z",
+ "dramatically-accelerating-research": {
+  "id": "dramatically-accelerating-research",
+  "title": "AI is dramatically accelerating AI research",
+  "firstSeen": "2026-11-07T00:49:10.111Z",
   "publishers": [
-   "Crunchbase News"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
- "sketchagentbench-evaluate-llms-spatial": {
-  "id": "sketchagentbench-evaluate-llms-spatial",
-  "title": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-  "firstSeen": "2026-11-06T20:47:49.868Z",
-  "publishers": [
-   "sketchagent.dev"
+   "planned-obsolescence.org"
   ],
   "sourceCount": 1,
   "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
+ },
+ "google-infrastructure-google-acquired-crusoe-data": {
+  "id": "google-infrastructure-google-acquired-crusoe-data",
+  "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+  "firstSeen": "2026-11-07T00:49:10.111Z",
+  "publishers": [
+   "crusoe.ai"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "business"
  },
  "memorilla-latent-semantic-memory": {
   "id": "memorilla-latent-semantic-memory",
@@ -84,6 +96,30 @@
   "independentCount": 1,
   "hadPrimary": true,
   "category": "general"
+ },
+ "china-reportedly-recruited-exec": {
+  "id": "china-reportedly-recruited-exec",
+  "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+  "firstSeen": "2026-11-07T00:49:10.111Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "week-biggest-funding-rounds": {
+  "id": "week-biggest-funding-rounds",
+  "title": "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
+  "firstSeen": "2026-11-06T20:47:49.868Z",
+  "publishers": [
+   "Crunchbase News"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
  },
  "latest-updates-data-centers": {
   "id": "latest-updates-data-centers",
@@ -202,18 +238,6 @@
   ],
   "sourceCount": 1,
   "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "dating-dealbreaker": {
-  "id": "dating-dealbreaker",
-  "title": "AI is the new dating dealbreaker",
-  "firstSeen": "2026-11-06T20:47:49.868Z",
-  "publishers": [
-   "The Verge"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -493,18 +517,6 @@
   "hadPrimary": true,
   "category": "general"
  },
- "much-will-conceptual-reasoning": {
-  "id": "much-will-conceptual-reasoning",
-  "title": "How much will conceptual reasoning training transfer to ML research abilities?",
-  "firstSeen": "2026-11-06T14:55:40.179Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "gpt-copyright-lawsuit-introduced-wife-chatgpt": {
   "id": "gpt-copyright-lawsuit-introduced-wife-chatgpt",
   "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
@@ -529,17 +541,17 @@
   "hadPrimary": false,
   "category": "general"
  },
- "openai-openai-released-cybersecurity-model": {
-  "id": "openai-openai-released-cybersecurity-model",
-  "title": "OpenAI released a new cybersecurity model. Is that enough?",
-  "firstSeen": "2026-11-06T00:01:39.414Z",
+ "airbnb-says-launching-travel": {
+  "id": "airbnb-says-launching-travel",
+  "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+  "firstSeen": "2026-11-07T00:49:10.111Z",
   "publishers": [
    "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "models"
+  "category": "general"
  },
  "cult-builds-operational-muscle": {
   "id": "cult-builds-operational-muscle",
@@ -1129,72 +1141,12 @@
   "hadPrimary": false,
   "category": "opensource"
  },
- "datasette-agent": {
-  "id": "datasette-agent",
-  "title": "datasette-agent 0.5a0",
-  "firstSeen": "2026-11-05T10:03:56.411Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "introducing-images": {
-  "id": "introducing-images",
-  "title": "Introducing Images 2.6",
-  "firstSeen": "2026-11-05T10:03:56.411Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "gpt-devrev-delivers-autonomous-self": {
-  "id": "gpt-devrev-delivers-autonomous-self",
-  "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-  "firstSeen": "2026-11-05T10:03:56.411Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "models"
- },
- "datasette-apps": {
-  "id": "datasette-apps",
-  "title": "datasette-apps 0.3a0",
-  "firstSeen": "2026-11-05T10:03:56.411Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "baidu-simulator-gives-robotaxis": {
   "id": "baidu-simulator-gives-robotaxis",
   "title": "Baidu’s new AI simulator gives robotaxis a crash course in rare road hazards",
   "firstSeen": "2026-11-05T10:03:56.411Z",
   "publishers": [
    "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "event": {
-  "id": "event",
-  "title": "llm 0.37.1",
-  "firstSeen": "2026-11-05T10:03:56.411Z",
-  "publishers": [
-   "Simon Willison"
   ],
   "sourceCount": 1,
   "independentCount": 1,
