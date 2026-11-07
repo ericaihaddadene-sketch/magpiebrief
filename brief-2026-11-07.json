@@ -1,8 +1,8 @@
 {
  "date": "2026-11-07",
- "generated": "2026-11-07T00:49:10.183Z",
- "headline": "96 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2872 items read · 98 on-topic · 96 distinct developments · 23 with a primary source · 2 independently corroborated",
+ "generated": "2026-11-07T06:59:00.964Z",
+ "headline": "87 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2872 items read · 88 on-topic · 87 distinct developments · 21 with a primary source · 1 independently corroborated",
  "events": [
   {
    "id": "anthropic-openai-funding-openai-valued-trillion-rival",
@@ -28,11 +28,11 @@
      "kind": "org"
     }
    ],
-   "rank": 222.21064127122014,
+   "rank": 144.94611690700899,
    "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-11-06T15:54:47.000Z",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T23:46:18.000Z",
    "latestAt": "2026-11-06T23:46:18.000Z",
    "primary": null,
    "sources": [
@@ -45,93 +45,73 @@
      "date": "2026-11-06T23:46:18.000Z",
      "points": null,
      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it…"
-    },
-    {
-     "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-     "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-06T15:54:47.000Z",
-     "points": null,
-     "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
     }
    ]
   },
   {
-   "id": "gpt-chatgpt-silently-passes-data",
-   "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+   "id": "sell-compared-well-known",
+   "title": "The AI sell-off compared to well-known stock market crashes",
    "category": {
-    "id": "models",
-    "name": "Models"
+    "id": "general",
+    "name": "Other"
    },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 126.45579485643111,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T22:50:43.000Z",
-   "latestAt": "2026-11-06T22:50:43.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
-    "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card"
-   },
-   "sources": [
-    {
-     "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-     "link": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
-     "publisher": "OpenAI",
-     "publisherDomain": "community.openai.com",
-     "kind": "primary",
-     "date": "2026-11-06T22:50:43.000Z",
-     "points": 59,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "anthropic-funding-anthropic-buyers-valuation",
-   "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 125.70725134972065,
+   "entities": [],
+   "rank": 105.05859167736978,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-11-06T16:54:36.000Z",
-   "latestAt": "2026-11-06T16:54:36.000Z",
+   "publishedAt": "2026-11-07T02:20:06.000Z",
+   "latestAt": "2026-11-07T02:20:06.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-     "link": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-     "publisher": "Bloomberg",
-     "publisherDomain": "bloomberg.com",
+     "title": "The AI sell-off compared to well-known stock market crashes",
+     "link": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+     "publisher": "kadoa.com",
+     "publisherDomain": "kadoa.com",
      "kind": "discussion",
-     "date": "2026-11-06T16:54:36.000Z",
-     "points": 209,
+     "date": "2026-11-07T02:20:06.000Z",
+     "points": 54,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "google-infrastructure-crusoe-sells-troubled-wyoming",
+   "title": "Crusoe sells troubled Wyoming data center project to Google",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "infrastructure",
+     "name": "AI Infrastructure",
+     "kind": "topic"
+    },
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 81.66968418931185,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-07T01:40:28.000Z",
+   "latestAt": "2026-11-07T01:40:28.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Crusoe sells troubled Wyoming data center project to Google",
+     "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-07T01:40:28.000Z",
+     "points": null,
+     "summary": "The deal highlights the challenges of developing massive AI data centers."
     }
    ]
   },
@@ -154,7 +134,7 @@
      "kind": "org"
     }
    ],
-   "rank": 118.15027527493494,
+   "rank": 77.06842262199991,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -175,6 +155,72 @@
    ]
   },
   {
+   "id": "dramatically-accelerating-research",
+   "title": "AI is dramatically accelerating AI research",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 69.89848245477317,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-06T20:27:23.000Z",
+   "latestAt": "2026-11-06T20:27:23.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI is dramatically accelerating AI research",
+     "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+     "publisher": "planned-obsolescence.org",
+     "publisherDomain": "planned-obsolescence.org",
+     "kind": "discussion",
+     "date": "2026-11-06T20:27:23.000Z",
+     "points": 270,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "gemini-gemini-omni-flash",
+   "title": "Gemini Omni 1.2 Flash",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 66.62224921713184,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T13:35:27.000Z",
+   "latestAt": "2026-11-06T13:35:27.000Z",
+   "primary": {
+    "publisher": "Google",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "title": "Gemini Omni 1.2 Flash"
+   },
+   "sources": [
+    {
+     "title": "Gemini Omni 1.2 Flash",
+     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+     "publisher": "Google",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-11-06T13:35:27.000Z",
+     "points": 317,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "meta-ai-meta-introduces-spaces-collaborate",
    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
    "category": {
@@ -188,7 +234,7 @@
      "kind": "org"
     }
    ],
-   "rank": 92.90078076078838,
+   "rank": 60.59839147158637,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -219,105 +265,6 @@
    ]
   },
   {
-   "id": "dramatically-accelerating-research",
-   "title": "AI is dramatically accelerating AI research",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 107.15834919623985,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-06T20:27:23.000Z",
-   "latestAt": "2026-11-06T20:27:23.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI is dramatically accelerating AI research",
-     "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-     "publisher": "planned-obsolescence.org",
-     "publisherDomain": "planned-obsolescence.org",
-     "kind": "discussion",
-     "date": "2026-11-06T20:27:23.000Z",
-     "points": 175,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "google-infrastructure-google-acquired-crusoe-data",
-   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "infrastructure",
-     "name": "AI Infrastructure",
-     "kind": "topic"
-    },
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 100.86141073472842,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-06T20:09:14.000Z",
-   "latestAt": "2026-11-06T20:09:14.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-     "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-     "publisher": "crusoe.ai",
-     "publisherDomain": "crusoe.ai",
-     "kind": "discussion",
-     "date": "2026-11-06T20:09:14.000Z",
-     "points": 32,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "memorilla-latent-semantic-memory",
-   "title": "Memorilla: Latent Semantic Memory for LLMs",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 90.7533019012556,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T18:03:33.000Z",
-   "latestAt": "2026-11-06T18:03:33.000Z",
-   "primary": {
-    "publisher": "arXiv",
-    "link": "https://arxiv.org/abs/2610.21375",
-    "title": "Memorilla: Latent Semantic Memory for LLMs"
-   },
-   "sources": [
-    {
-     "title": "Memorilla: Latent Semantic Memory for LLMs",
-     "link": "https://arxiv.org/abs/2610.21375",
-     "publisher": "arXiv",
-     "publisherDomain": "arxiv.org",
-     "kind": "research",
-     "date": "2026-11-06T18:03:33.000Z",
-     "points": 78,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "china-reportedly-recruited-exec",
    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
    "category": {
@@ -325,7 +272,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 88.22593346294174,
+   "rank": 57.549028222915275,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -353,7 +300,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 78.76279955566098,
+   "rank": 51.376306224614424,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -381,7 +328,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 71.79707208603203,
+   "rank": 46.83262126704814,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -409,7 +356,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 70.862136963765,
+   "rank": 46.22277101524502,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -443,7 +390,7 @@
      "kind": "org"
     }
    ],
-   "rank": 67.92416905949943,
+   "rank": 44.306359465894666,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -477,7 +424,7 @@
      "kind": "org"
     }
    ],
-   "rank": 67.23471441378692,
+   "rank": 43.85663404722062,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -505,7 +452,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 65.63063792222357,
+   "rank": 42.810308554688774,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -533,7 +480,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 65.56117351369414,
+   "rank": 42.76499751007822,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -561,7 +508,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 63.46582699542557,
+   "rank": 41.39822074520244,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -589,7 +536,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 61.028540590761644,
+   "rank": 39.80839949215502,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -617,7 +564,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 59.78395514113565,
+   "rank": 38.99656695771727,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -638,34 +585,6 @@
    ]
   },
   {
-   "id": "upcodes-hiring-sell-compliance",
-   "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 58.39712052742866,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-06T17:03:33.000Z",
-   "latestAt": "2026-11-06T17:03:33.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
-     "link": "https://up.codes/careers?utm_source=HN",
-     "publisher": "up.codes",
-     "publisherDomain": "up.codes",
-     "kind": "discussion",
-     "date": "2026-11-06T17:03:33.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "openai-partnering-with-hacktron-find",
    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
    "category": {
@@ -679,7 +598,7 @@
      "kind": "org"
     }
    ],
-   "rank": 54.69661673180708,
+   "rank": 35.6781392550402,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -717,7 +636,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 54.375160776356154,
+   "rank": 35.46845626131545,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -749,7 +668,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 54.26344217238388,
+   "rank": 35.395583163342216,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -783,7 +702,7 @@
      "kind": "model"
     }
    ],
-   "rank": 53.35761766521948,
+   "rank": 34.804721518906234,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -817,7 +736,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 46.817132112590656,
+   "rank": 30.538418257655874,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -851,7 +770,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 46.59442651230668,
+   "rank": 30.393149283182204,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -879,7 +798,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 44.1911766368078,
+   "rank": 28.825529769472034,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -907,7 +826,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 43.35594966463281,
+   "rank": 28.280718298427317,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -941,7 +860,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 43.055959822171815,
+   "rank": 28.08503746816864,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -975,7 +894,7 @@
      "kind": "org"
     }
    ],
-   "rank": 40.747165257728604,
+   "rank": 26.579030352858652,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1003,7 +922,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 39.07381735420796,
+   "rank": 25.487519705743594,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1037,7 +956,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 37.59054663641971,
+   "rank": 24.519994794986207,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1065,7 +984,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.21393991572115,
+   "rank": 22.969754385212585,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1093,7 +1012,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 34.16119556161872,
+   "rank": 22.283058170530946,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1127,7 +1046,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 33.649160883901295,
+   "rank": 21.94906229242048,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1161,7 +1080,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 33.27491941099583,
+   "rank": 21.704947753292718,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1189,7 +1108,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 31.933951811263878,
+   "rank": 20.830245959682298,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1223,7 +1142,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 27.924406072768925,
+   "rank": 18.214853276275466,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1255,7 +1174,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 25.78853798704514,
+   "rank": 16.821644636580288,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1272,78 +1191,6 @@
      "date": "2026-11-06T06:00:27.000Z",
      "points": null,
      "summary": "The sweeping midterm election victory by US Democrats has triggered warnings from analysts that an impending regulatory clampdown could derail the nation’s multi-trillion-dollar artificial intelligence data…"
-    }
-   ]
-  },
-  {
-   "id": "gpt-sentence-away-from-collaborating",
-   "title": "GPT-6.1 Sol is One Sentence Away From Collaborating: Other Models Need More Help",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 23.55158346208784,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T09:06:15.000Z",
-   "latestAt": "2026-11-06T09:06:15.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "GPT-6.1 Sol is One Sentence Away From Collaborating: Other Models Need More Help",
-     "link": "https://www.lesswrong.com/posts/FqyteKS8RLZaEsTGY/gpt-6-1-sol-is-one-sentence-away-from-collaborating-other",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-06T09:06:15.000Z",
-     "points": null,
-     "summary": "TL;DR We studied one ingredient of unexpected AI collaboration: whether agents organize useful teamwork with little prompting. We tested seven models in groups of three on…"
-    }
-   ]
-  },
-  {
-   "id": "gemini-gemini-omni-flash-fast",
-   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 22.107998978146682,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T17:05:16.000Z",
-   "latestAt": "2026-11-05T17:05:16.000Z",
-   "primary": {
-    "publisher": "Google DeepMind",
-    "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
-   },
-   "sources": [
-    {
-     "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-     "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-     "publisher": "Google DeepMind",
-     "publisherDomain": "deepmind.google",
-     "kind": "primary",
-     "date": "2026-11-05T17:05:16.000Z",
-     "points": null,
-     "summary": ""
     }
    ]
   },
@@ -1371,7 +1218,7 @@
      "kind": "model"
     }
    ],
-   "rank": 21.78994236936979,
+   "rank": 14.213394624124694,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1399,7 +1246,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.58529934851555,
+   "rank": 13.427616197254348,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1442,7 +1289,7 @@
      "kind": "model"
     }
    ],
-   "rank": 20.092117370253185,
+   "rank": 13.10591777512345,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1476,7 +1323,7 @@
      "kind": "org"
     }
    ],
-   "rank": 20.088752151315127,
+   "rank": 13.103722671347938,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1504,7 +1351,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.604833880586614,
+   "rank": 12.788066887083124,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1532,7 +1379,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.63561870602476,
+   "rank": 11.50356452808622,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1564,7 +1411,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.179741614319283,
+   "rank": 9.901616727534636,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1598,7 +1445,7 @@
      "kind": "org"
     }
    ],
-   "rank": 15.161286799607689,
+   "rank": 9.889578808399076,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1623,45 +1470,6 @@
    ]
   },
   {
-   "id": "amazon-robotics-serve-robotics-launches-business",
-   "title": "Serve Robotics launches new business to become the AWS for robots",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "robotics",
-     "name": "Robotics",
-     "kind": "topic"
-    },
-    {
-     "id": "amazon",
-     "name": "Amazon",
-     "kind": "org"
-    }
-   ],
-   "rank": 14.793675822504667,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T21:15:00.000Z",
-   "latestAt": "2026-11-05T21:15:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Serve Robotics launches new business to become the AWS for robots",
-     "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-05T21:15:00.000Z",
-     "points": null,
-     "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data…"
-    }
-   ]
-  },
-  {
    "id": "australian-universities-creating-native",
    "title": "Australian universities are creating AI-native graduates",
    "category": {
@@ -1669,7 +1477,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.324573555193467,
+   "rank": 9.343797854576621,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1701,7 +1509,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.753177491551254,
+   "rank": 8.971081047824777,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1722,74 +1530,6 @@
    ]
   },
   {
-   "id": "meta-ai-meta-says-users-video",
-   "title": "Meta says US users can now video chat with their Muse AI avatar",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 13.386310140765925,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T19:48:28.000Z",
-   "latestAt": "2026-11-05T19:48:28.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta says US users can now video chat with their Muse AI avatar",
-     "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-05T19:48:28.000Z",
-     "points": null,
-     "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
-    }
-   ]
-  },
-  {
-   "id": "meta-ai-meta-warns-that-election",
-   "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 12.84372695693992,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T19:12:39.000Z",
-   "latestAt": "2026-11-05T19:12:39.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-     "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-05T19:12:39.000Z",
-     "points": null,
-     "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects."
-    }
-   ]
-  },
-  {
    "id": "formally-verifying-agent-written",
    "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
    "category": {
@@ -1797,7 +1537,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.337199738484184,
+   "rank": 8.047450767296148,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1835,7 +1575,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 10.740156181834202,
+   "rank": 7.005712798567487,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1863,7 +1603,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 10.63237309973519,
+   "rank": 6.935406808138106,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1891,7 +1631,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.60612189024508,
+   "rank": 6.918283366803629,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1925,7 +1665,7 @@
      "kind": "org"
     }
    ],
-   "rank": 10.363071014058729,
+   "rank": 6.759743341391172,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1957,7 +1697,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.294469284719906,
+   "rank": 6.714995015100933,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1982,34 +1722,6 @@
    ]
   },
   {
-   "id": "reflections-rust",
-   "title": "Reflections on Rust in the LLM Age",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 10.294050798452039,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-05T17:32:18.000Z",
-   "latestAt": "2026-11-05T17:32:18.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Reflections on Rust in the LLM Age",
-     "link": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
-     "publisher": "YouTube",
-     "publisherDomain": "youtube.com",
-     "kind": "discussion",
-     "date": "2026-11-05T17:32:18.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "gpt-cyber-advancing-frontier-aligned",
    "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
    "category": {
@@ -2023,7 +1735,7 @@
      "kind": "model"
     }
    ],
-   "rank": 9.872768447330857,
+   "rank": 6.439923134986194,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2055,7 +1767,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.593066083876705,
+   "rank": 6.25747565524147,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2089,7 +1801,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 8.892452575692811,
+   "rank": 5.800471405206912,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2117,7 +1829,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.870187842444947,
+   "rank": 5.785948308519078,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2151,7 +1863,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 8.57746345834465,
+   "rank": 5.5950066751364185,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2179,7 +1891,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 8.35076670992442,
+   "rank": 5.447134308579269,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2207,7 +1919,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.190726456662453,
+   "rank": 5.342741408552383,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2235,7 +1947,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.791540844986764,
+   "rank": 5.082356019236492,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2263,7 +1975,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.657686836859663,
+   "rank": 4.995044184846071,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2302,7 +2014,7 @@
      "kind": "model"
     }
    ],
-   "rank": 6.909335510713649,
+   "rank": 4.506900960981821,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2336,7 +2048,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 6.624050337031875,
+   "rank": 4.3208118614690605,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2370,7 +2082,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.9520213132833595,
+   "rank": 3.8824530282291003,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2402,7 +2114,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.0645015492413945,
+   "rank": 3.30353141250372,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2440,7 +2152,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.680221887368111,
+   "rank": 3.0528690478382665,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2472,7 +2184,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.645509879608452,
+   "rank": 3.0302266995419602,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2510,7 +2222,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.556443191760737,
+   "rank": 2.972129254363636,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2538,7 +2250,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.213096293210683,
+   "rank": 2.0958754643111317,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2572,7 +2284,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.0809594457992757,
+   "rank": 2.0096837192936627,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2604,7 +2316,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.0156473744259475,
+   "rank": 1.967081208997305,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2632,7 +2344,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.696424335515067,
+   "rank": 1.7588547277960203,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2666,7 +2378,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.5852885797929464,
+   "rank": 1.6863618167936807,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2694,7 +2406,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.5440969229109958,
+   "rank": 1.6594928483237266,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2732,7 +2444,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.4917496071537584,
+   "rank": 1.625347138171819,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2760,7 +2472,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.275811903191819,
+   "rank": 1.4844928050757917,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2788,7 +2500,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.255917357564602,
+   "rank": 1.4715157616731993,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2820,7 +2532,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.2475168886654457,
+   "rank": 1.46603620704807,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2854,7 +2566,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.0167035991279403,
+   "rank": 1.315478655629278,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2888,7 +2600,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.9935397826341155,
+   "rank": 1.3003690945645197,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2916,7 +2628,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.7867433214417883,
+   "rank": 1.1654775166073976,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2944,7 +2656,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.7268350761253155,
+   "rank": 1.1263998762223155,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2972,7 +2684,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4543961496233806,
+   "rank": 0.9486902748060139,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3010,7 +2722,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.4026799423018694,
+   "rank": 0.9149562313347939,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3044,7 +2756,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.3569995903627174,
+   "rank": 0.8851593251441312,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3092,7 +2804,7 @@
      "kind": "org"
     }
    ],
-   "rank": 0.9929718658893453,
+   "rank": 0.647707127503838,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3109,34 +2821,6 @@
      "date": "2026-11-04T07:01:09.000Z",
      "points": null,
      "summary": "Chinese tech giant Tencent Holdings has rolled out its latest flagship artificial intelligence model, Hy4, seeking to challenge top open-weight rivals with enhanced agentic capabilities built…"
-    }
-   ]
-  },
-  {
-   "id": "baidu-simulator-gives-robotaxis",
-   "title": "Baidu’s new AI simulator gives robotaxis a crash course in rare road hazards",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.6773845418136196,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-04T01:30:05.000Z",
-   "latestAt": "2026-11-04T01:30:05.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Baidu’s new AI simulator gives robotaxis a crash course in rare road hazards",
-     "link": "https://www.scmp.com/tech/big-tech/article/3373173/baidus-new-ai-simulator-gives-robotaxis-crash-course-rare-road-hazards",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-04T01:30:05.000Z",
-     "points": null,
-     "summary": "For autonomous vehicles, the hardest lessons to learn are the ones that can test the skills of even the most experienced human drivers: an errant cyclist…"
     }
    ]
   }
