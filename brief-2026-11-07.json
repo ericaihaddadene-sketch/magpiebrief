@@ -1,9 +1,109 @@
 {
  "date": "2026-11-07",
- "generated": "2026-11-07T06:59:00.964Z",
- "headline": "87 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2872 items read · 88 on-topic · 87 distinct developments · 21 with a primary source · 1 independently corroborated",
+ "generated": "2026-11-07T13:52:01.451Z",
+ "headline": "79 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2872 items read · 81 on-topic · 79 distinct developments · 20 with a primary source · 2 independently corroborated",
  "events": [
+  {
+   "id": "anthropic-report-anthropic-automating-development",
+   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 136.4391180141453,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-07T12:30:00.000Z",
+   "latestAt": "2026-11-07T12:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-07T12:30:00.000Z",
+     "points": null,
+     "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly…"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-anthropic-acceleration-probably-real",
+   "title": "Anthropic's AI acceleration is probably real",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 114.8034076371543,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-07T12:46:01.000Z",
+   "latestAt": "2026-11-07T12:46:01.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic's AI acceleration is probably real",
+     "link": "https://www.lesswrong.com/posts/QgcgoMz7mviHL6Esr/anthropic-s-ai-acceleration-is-probably-real",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-07T12:46:01.000Z",
+     "points": null,
+     "summary": "METR researchers spent three months inside Anthropic to investigate whether AI is accelerating Anthropic's research, and how much. Their answers are yes , and by a…"
+    }
+   ]
+  },
+  {
+   "id": "components-agent-memory",
+   "title": "The Components of Agent Memory",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 105.5183017418977,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-07T06:39:04.000Z",
+   "latestAt": "2026-11-07T06:39:04.000Z",
+   "primary": {
+    "publisher": "Anthropic",
+    "link": "https://www.anthropic.com/research/components-of-agent-memory",
+    "title": "The Components of Agent Memory"
+   },
+   "sources": [
+    {
+     "title": "The Components of Agent Memory",
+     "link": "https://www.anthropic.com/research/components-of-agent-memory",
+     "publisher": "Anthropic",
+     "publisherDomain": "anthropic.com",
+     "kind": "primary",
+     "date": "2026-11-07T06:39:04.000Z",
+     "points": 78,
+     "summary": ""
+    }
+   ]
+  },
   {
    "id": "anthropic-openai-funding-openai-valued-trillion-rival",
    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
@@ -28,11 +128,13 @@
      "kind": "org"
     }
    ],
-   "rank": 144.94611690700899,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T23:46:18.000Z",
+   "rank": 89.94844634861846,
+   "deltas": [
+    "Now also covered by TechCrunch."
+   ],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-11-06T15:54:47.000Z",
    "latestAt": "2026-11-06T23:46:18.000Z",
    "primary": null,
    "sources": [
@@ -45,33 +147,71 @@
      "date": "2026-11-06T23:46:18.000Z",
      "points": null,
      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it…"
+    },
+    {
+     "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+     "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-06T15:54:47.000Z",
+     "points": null,
+     "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
     }
    ]
   },
   {
-   "id": "sell-compared-well-known",
-   "title": "The AI sell-off compared to well-known stock market crashes",
+   "id": "apps-caregivers-dose-that",
+   "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 105.05859167736978,
+   "rank": 81.97721215230807,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-07T02:20:06.000Z",
-   "latestAt": "2026-11-07T02:20:06.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-11-07T11:00:00.000Z",
+   "latestAt": "2026-11-07T11:00:00.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "The AI sell-off compared to well-known stock market crashes",
-     "link": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-     "publisher": "kadoa.com",
-     "publisherDomain": "kadoa.com",
+     "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+     "link": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-07T11:00:00.000Z",
+     "points": null,
+     "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved."
+    }
+   ]
+  },
+  {
+   "id": "dealing-with-negative-side",
+   "title": "How are you dealing with all the negative side effects of AI on the web?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 67.84393429623525,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-07T09:47:24.000Z",
+   "latestAt": "2026-11-07T09:47:24.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How are you dealing with all the negative side effects of AI on the web?",
+     "link": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+     "publisher": "Lobsters",
+     "publisherDomain": "lobste.rs",
      "kind": "discussion",
-     "date": "2026-11-07T02:20:06.000Z",
-     "points": 54,
+     "date": "2026-11-07T09:47:24.000Z",
+     "points": null,
      "summary": ""
     }
    ]
@@ -95,7 +235,7 @@
      "kind": "org"
     }
    ],
-   "rank": 81.66968418931185,
+   "rank": 50.68132464234166,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -134,7 +274,7 @@
      "kind": "org"
     }
    ],
-   "rank": 77.06842262199991,
+   "rank": 47.82594404950493,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -155,34 +295,6 @@
    ]
   },
   {
-   "id": "dramatically-accelerating-research",
-   "title": "AI is dramatically accelerating AI research",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 69.89848245477317,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-06T20:27:23.000Z",
-   "latestAt": "2026-11-06T20:27:23.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI is dramatically accelerating AI research",
-     "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-     "publisher": "planned-obsolescence.org",
-     "publisherDomain": "planned-obsolescence.org",
-     "kind": "discussion",
-     "date": "2026-11-06T20:27:23.000Z",
-     "points": 270,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "gemini-gemini-omni-flash",
    "title": "Gemini Omni 1.2 Flash",
    "category": {
@@ -196,7 +308,7 @@
      "kind": "model"
     }
    ],
-   "rank": 66.62224921713184,
+   "rank": 41.34341738299921,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -215,7 +327,7 @@
      "publisherDomain": "blog.google",
      "kind": "primary",
      "date": "2026-11-06T13:35:27.000Z",
-     "points": 317,
+     "points": 348,
      "summary": ""
     }
    ]
@@ -234,7 +346,7 @@
      "kind": "org"
     }
    ],
-   "rank": 60.59839147158637,
+   "rank": 37.605223792173135,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -272,7 +384,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 57.549028222915275,
+   "rank": 35.712896543789455,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -300,7 +412,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 51.376306224614424,
+   "rank": 31.882323049741945,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -328,7 +440,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 46.83262126704814,
+   "rank": 29.062672469568913,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -356,7 +468,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 46.22277101524502,
+   "rank": 28.684220919258003,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -390,7 +502,7 @@
      "kind": "org"
     }
    ],
-   "rank": 44.306359465894666,
+   "rank": 27.49496352411713,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -424,7 +536,7 @@
      "kind": "org"
     }
    ],
-   "rank": 43.85663404722062,
+   "rank": 27.215879795926156,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -452,7 +564,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 42.810308554688774,
+   "rank": 26.56656711038128,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -480,7 +592,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 42.76499751007822,
+   "rank": 26.5384486747024,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -508,7 +620,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.39822074520244,
+   "rank": 25.69027523529361,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -536,7 +648,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 39.80839949215502,
+   "rank": 24.7036882556964,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -564,7 +676,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 38.99656695771727,
+   "rank": 24.199893626863503,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -598,7 +710,7 @@
      "kind": "org"
     }
    ],
-   "rank": 35.6781392550402,
+   "rank": 22.14059447111231,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -636,7 +748,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 35.46845626131545,
+   "rank": 22.010472602974453,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -668,7 +780,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.395583163342216,
+   "rank": 21.965250129387883,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -702,7 +814,7 @@
      "kind": "model"
     }
    ],
-   "rank": 34.804721518906234,
+   "rank": 21.598582238877206,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -736,7 +848,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 30.538418257655874,
+   "rank": 18.95106495321091,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -770,7 +882,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 30.393149283182204,
+   "rank": 18.86091615284707,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -798,7 +910,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.825529769472034,
+   "rank": 17.88810678938914,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -826,7 +938,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 28.280718298427317,
+   "rank": 17.550016011801652,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -860,7 +972,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 28.08503746816864,
+   "rank": 17.42858339230438,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -894,7 +1006,7 @@
      "kind": "org"
     }
    ],
-   "rank": 26.579030352858652,
+   "rank": 16.49400850956361,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -922,7 +1034,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 25.487519705743594,
+   "rank": 15.816655511249323,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -956,7 +1068,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 24.519994794986207,
+   "rank": 15.216243686612138,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -984,7 +1096,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.969754385212585,
+   "rank": 14.254219181909866,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1005,34 +1117,6 @@
    ]
   },
   {
-   "id": "better-research-with-agent",
-   "title": "How to Run Better Research With Agent Fleets",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 22.283058170530946,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T11:50:21.000Z",
-   "latestAt": "2026-11-06T11:50:21.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How to Run Better Research With Agent Fleets",
-     "link": "https://www.lesswrong.com/posts/WKtD59uHLKwEYGFCm/how-to-run-better-research-with-agent-fleets",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-06T11:50:21.000Z",
-     "points": null,
-     "summary": "In the current safety landscape, researchers are encouraged to use as many agents as possible, even in “fleets,” where a large number of them go out…"
-    }
-   ]
-  },
-  {
    "id": "agents-palo-alto-networks-talks",
    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
    "category": {
@@ -1046,7 +1130,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 21.94906229242048,
+   "rank": 13.62081367987858,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1067,40 +1151,6 @@
    ]
   },
   {
-   "id": "safety-dialogue-with-richard-alignment",
-   "title": "Dialogue with Richard Ngo on Alignment, Hierarchical Integrity of Human-AI systems, Revolution, and Power",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 21.704947753292718,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T14:05:25.000Z",
-   "latestAt": "2026-11-06T14:05:25.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Dialogue with Richard Ngo on Alignment, Hierarchical Integrity of Human-AI systems, Revolution, and Power",
-     "link": "https://www.lesswrong.com/posts/AGsZXczCzqxZQnEEi/dialogue-with-richard-ngo-on-alignment-hierarchical",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-06T14:05:25.000Z",
-     "points": null,
-     "summary": "Transcript generated by Gemini-4-Argon and spot-checked but not fully verified by a human. Ivan Vendrov: Welcome to the show, Richard. Richard Ngo: Thanks, Ivan. Ivan Vendrov…"
-    }
-   ]
-  },
-  {
    "id": "bubble-bursts-fifth-plenum",
    "title": "AI bubble bursts, fifth plenum resolution, Singles’ Day",
    "category": {
@@ -1108,7 +1158,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.830245959682298,
+   "rank": 12.926515736430932,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1142,7 +1192,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 18.214853276275466,
+   "rank": 11.303495310054732,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1174,7 +1224,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.821644636580288,
+   "rank": 10.438919181668679,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1218,7 +1268,7 @@
      "kind": "model"
     }
    ],
-   "rank": 14.213394624124694,
+   "rank": 8.820331244886221,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1246,7 +1296,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.427616197254348,
+   "rank": 8.332704876001884,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1289,7 +1339,7 @@
      "kind": "model"
     }
    ],
-   "rank": 13.10591777512345,
+   "rank": 8.133070184980523,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1310,40 +1360,6 @@
    ]
   },
   {
-   "id": "anthropic-metr-independent-assessment-acceleration",
-   "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 13.103722671347938,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T19:06:38.000Z",
-   "latestAt": "2026-11-05T19:06:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-     "link": "https://www.alignmentforum.org/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at",
-     "publisher": "Alignment Forum",
-     "publisherDomain": "alignmentforum.org",
-     "kind": "coverage",
-     "date": "2026-11-05T19:06:38.000Z",
-     "points": null,
-     "summary": "Executive summary From August 12 to October 29, 2026, METR staff performed a high-access evaluation at Anthropic to assess the degree to which AI is accelerating…"
-    }
-   ]
-  },
-  {
    "id": "airbnb-says-launching-travel",
    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
    "category": {
@@ -1351,7 +1367,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.788066887083124,
+   "rank": 7.935823137871996,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1379,7 +1395,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.50356452808622,
+   "rank": 7.138706292051059,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1411,7 +1427,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.901616727534636,
+   "rank": 6.144594004906142,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1445,7 +1461,7 @@
      "kind": "org"
     }
    ],
-   "rank": 9.889578808399076,
+   "rank": 6.137123696997114,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1477,7 +1493,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.343797854576621,
+   "rank": 5.79843129260181,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1509,7 +1525,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.971081047824777,
+   "rank": 5.567136392050215,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1537,7 +1553,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.047450767296148,
+   "rank": 4.9939640262986815,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1575,7 +1591,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 7.005712798567487,
+   "rank": 4.347498196174897,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1603,7 +1619,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 6.935406808138106,
+   "rank": 4.303868778960631,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1631,7 +1647,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.918283366803629,
+   "rank": 4.293242575395854,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1665,7 +1681,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.759743341391172,
+   "rank": 4.194858229031678,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1697,7 +1713,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.714995015100933,
+   "rank": 4.1670889964892845,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1735,7 +1751,7 @@
      "kind": "model"
     }
    ],
-   "rank": 6.439923134986194,
+   "rank": 3.9963890924250185,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1767,7 +1783,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.25747565524147,
+   "rank": 3.883168623374527,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1801,7 +1817,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 5.800471405206912,
+   "rank": 3.59956790924366,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1829,7 +1845,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.785948308519078,
+   "rank": 3.590555387824548,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1863,7 +1879,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 5.5950066751364185,
+   "rank": 3.4720637467062394,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1891,7 +1907,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 5.447134308579269,
+   "rank": 3.380299373064947,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1919,7 +1935,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.342741408552383,
+   "rank": 3.3155168223653035,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1947,7 +1963,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.082356019236492,
+   "rank": 3.1539308363407828,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1975,7 +1991,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.995044184846071,
+   "rank": 3.099748192342772,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2014,7 +2030,7 @@
      "kind": "model"
     }
    ],
-   "rank": 4.506900960981821,
+   "rank": 2.7968237296587257,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2048,7 +2064,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.3208118614690605,
+   "rank": 2.681343399859169,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2082,7 +2098,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.8824530282291003,
+   "rank": 2.4093133735672327,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2114,7 +2130,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.30353141250372,
+   "rank": 2.050055043621509,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2152,7 +2168,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.0528690478382665,
+   "rank": 1.8945028236597037,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2184,7 +2200,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.0302266995419602,
+   "rank": 1.880451781145448,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2222,7 +2238,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.972129254363636,
+   "rank": 1.8443985563876764,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2250,7 +2266,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0958754643111317,
+   "rank": 1.300626369148765,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2284,7 +2300,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.0096837192936627,
+   "rank": 1.2471388130980465,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2316,7 +2332,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.967081208997305,
+   "rank": 1.2207011982555127,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2337,34 +2353,6 @@
    ]
   },
   {
-   "id": "biggest-super-network-didn",
-   "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.7588547277960203,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-04T20:41:29.000Z",
-   "latestAt": "2026-11-04T20:41:29.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
-     "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-04T20:41:29.000Z",
-     "points": null,
-     "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it…"
-    }
-   ]
-  },
-  {
    "id": "google-google-summaries-aren-about",
    "title": "Google Summaries Aren't About AI, They're About Lock-In",
    "category": {
@@ -2378,7 +2366,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.6863618167936807,
+   "rank": 1.0464966474371986,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2406,7 +2394,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6594928483237266,
+   "rank": 1.0298227135613913,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2444,7 +2432,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.625347138171819,
+   "rank": 1.0086330905264758,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2472,7 +2460,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4844928050757917,
+   "rank": 0.9212238608498602,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2500,7 +2488,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4715157616731993,
+   "rank": 0.9131707655536905,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2532,7 +2520,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.46603620704807,
+   "rank": 0.9097703472759865,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2553,102 +2541,6 @@
    ]
   },
   {
-   "id": "agents-download-blended-meat-restored",
-   "title": "The Download: blended meat, restored sight, and the agentic web",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 1.315478655629278,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-04T13:10:00.000Z",
-   "latestAt": "2026-11-04T13:10:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Download: blended meat, restored sight, and the agentic web",
-     "link": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-11-04T13:10:00.000Z",
-     "points": null,
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups…"
-    }
-   ]
-  },
-  {
-   "id": "agents-securing-agentic-enterprise-with",
-   "title": "Securing the agentic enterprise with data lineage",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 1.3003690945645197,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-04T13:00:00.000Z",
-   "latestAt": "2026-11-04T13:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Securing the agentic enterprise with data lineage",
-     "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-11-04T13:00:00.000Z",
-     "points": null,
-     "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes…"
-    }
-   ]
-  },
-  {
-   "id": "desiderata-theory-agents",
-   "title": "Desiderata for the Theory of Agents",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.1654775166073976,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-04T11:25:12.000Z",
-   "latestAt": "2026-11-04T11:25:12.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Desiderata for the Theory of Agents",
-     "link": "https://www.alignmentforum.org/posts/sqjti8dxcKSvZJikd/desiderata-for-the-theory-of-agents",
-     "publisher": "Alignment Forum",
-     "publisherDomain": "alignmentforum.org",
-     "kind": "coverage",
-     "date": "2026-11-04T11:25:12.000Z",
-     "points": null,
-     "summary": "TLDR: I give informal conceptual desiderata for the theory of agents we need to solve ASI alignment, and show a few examples of how existing theories…"
-    }
-   ]
-  },
-  {
    "id": "democratic-sweep-could-slow",
    "title": "How Democratic sweep could slow AI growth in US – and help China’s ambitions",
    "category": {
@@ -2656,7 +2548,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.1263998762223155,
+   "rank": 0.6990040229809991,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2673,154 +2565,6 @@
      "date": "2026-11-04T15:00:08.000Z",
      "points": null,
      "summary": "The Democratic Party’s sweeping midterm election victory and takeover of both houses of Congress could slow down the pace of artificial intelligence development in the US…"
-    }
-   ]
-  },
-  {
-   "id": "thousand-fewer-paths-root",
-   "title": "A thousand fewer paths to root",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9486902748060139,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-04T08:00:00.000Z",
-   "latestAt": "2026-11-04T08:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-    "title": "A thousand fewer paths to root"
-   },
-   "sources": [
-    {
-     "title": "A thousand fewer paths to root",
-     "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-04T08:00:00.000Z",
-     "points": null,
-     "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
-    }
-   ]
-  },
-  {
-   "id": "deepseek-deepseek-engineer-defends-push",
-   "title": "DeepSeek engineer defends push for open-source AGI despite higher risks",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [
-    {
-     "id": "deepseek",
-     "name": "DeepSeek",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.9149562313347939,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-04T12:00:10.000Z",
-   "latestAt": "2026-11-04T12:00:10.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "DeepSeek engineer defends push for open-source AGI despite higher risks",
-     "link": "https://www.scmp.com/tech/big-tech/article/3373262/deepseek-engineer-defends-push-open-source-ai-smarter-humans-despite-higher-risks",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-04T12:00:10.000Z",
-     "points": null,
-     "summary": "DeepSeek is committed to open-source artificial intelligence to accelerate the arrival of artificial general intelligence (AGI), even if it heightens safety risks, a company engineer says…"
-    }
-   ]
-  },
-  {
-   "id": "amazon-daybreak-available-govcloud-east",
-   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "amazon",
-     "name": "Amazon",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.8851593251441312,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-04T07:00:00.000Z",
-   "latestAt": "2026-11-04T07:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-    "title": "Daybreak Red is now available in AWS GovCloud (US-East)"
-   },
-   "sources": [
-    {
-     "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-     "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-04T07:00:00.000Z",
-     "points": null,
-     "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
-    }
-   ]
-  },
-  {
-   "id": "alibaba-deepseek-open-source-tencent-unveils-open-weight",
-   "title": "Tencent unveils Hy4 as open-weight AI race with DeepSeek, Z.ai, Alibaba heats up",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [
-    {
-     "id": "open-source",
-     "name": "Open Models",
-     "kind": "topic"
-    },
-    {
-     "id": "alibaba",
-     "name": "Alibaba",
-     "kind": "org"
-    },
-    {
-     "id": "deepseek",
-     "name": "DeepSeek",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.647707127503838,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-04T07:01:09.000Z",
-   "latestAt": "2026-11-04T07:01:09.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Tencent unveils Hy4 as open-weight AI race with DeepSeek, Z.ai, Alibaba heats up",
-     "link": "https://www.scmp.com/tech/big-tech/article/3373227/tencent-unveils-hy4-open-weight-ai-race-deepseek-zai-alibaba-heats",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-04T07:01:09.000Z",
-     "points": null,
-     "summary": "Chinese tech giant Tencent Holdings has rolled out its latest flagship artificial intelligence model, Hy4, seeking to challenge top open-weight rivals with enhanced agentic capabilities built…"
     }
    ]
   }
