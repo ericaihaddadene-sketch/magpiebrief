@@ -1,78 +1,327 @@
 {
  "date": "2026-11-08",
- "generated": "2026-11-08T16:37:54.912Z",
- "headline": "59 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2872 items read · 59 on-topic · 59 distinct developments · 9 with a primary source · 0 independently corroborated",
+ "generated": "2026-11-08T21:01:45.093Z",
+ "headline": "50 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2872 items read · 50 on-topic · 50 distinct developments · 6 with a primary source · 0 independently corroborated",
  "events": [
   {
-   "id": "openai-funding-openai-raises-valuation",
-   "title": "OpenAI raises $11B at a $1.25T valuation",
+   "id": "nvidia-nvidia-board-directors-investigating",
+   "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
    "category": {
     "id": "business",
     "name": "Business"
    },
    "entities": [
     {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
+     "id": "nvidia",
+     "name": "NVIDIA",
      "kind": "org"
     }
    ],
-   "rank": 203.76611985556028,
+   "rank": 189.37810616028474,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-08T14:49:23.000Z",
-   "latestAt": "2026-11-08T14:49:23.000Z",
-   "primary": null,
+   "independentCount": 1,
+   "publishedAt": "2026-11-08T20:26:43.000Z",
+   "latestAt": "2026-11-08T20:26:43.000Z",
+   "primary": {
+    "publisher": "nvidianews.nvidia.com",
+    "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+    "title": "Nvidia Board of Directors Is Investigating Jensen Huang"
+   },
    "sources": [
     {
-     "title": "OpenAI raises $11B at a $1.25T valuation",
-     "link": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
-     "publisher": "247wallst.com",
-     "publisherDomain": "247wallst.com",
-     "kind": "discussion",
-     "date": "2026-11-08T14:49:23.000Z",
-     "points": 66,
+     "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+     "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+     "publisher": "nvidianews.nvidia.com",
+     "publisherDomain": "nvidianews.nvidia.com",
+     "kind": "primary",
+     "date": "2026-11-08T20:26:43.000Z",
+     "points": 89,
      "summary": ""
     }
    ]
   },
   {
-   "id": "apple-apple-presses-software-chief",
-   "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+   "id": "claude-goldman-sachs-pulling-claude",
+   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 179.6213367569804,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-08T18:16:07.000Z",
+   "latestAt": "2026-11-08T18:16:07.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+     "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+     "publisher": "thestateofai.com",
+     "publisherDomain": "thestateofai.com",
+     "kind": "discussion",
+     "date": "2026-11-08T18:16:07.000Z",
+     "points": 342,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "apple-agents-apple-racing-make-siri",
+   "title": "Apple is racing to make Siri more agentic",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [
     {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
      "id": "apple",
      "name": "Apple",
      "kind": "org"
     }
    ],
-   "rank": 122.19982474259822,
+   "rank": 106.48457088397602,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-08T15:19:51.000Z",
-   "latestAt": "2026-11-08T15:19:51.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-11-08T19:18:19.000Z",
+   "latestAt": "2026-11-08T19:18:19.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-     "link": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-     "publisher": "Bloomberg",
-     "publisherDomain": "bloomberg.com",
+     "title": "Apple is racing to make Siri more agentic",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-08T19:18:19.000Z",
+     "points": null,
+     "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can…"
+    }
+   ]
+  },
+  {
+   "id": "ajeya-dramatically-accelerating-research",
+   "title": "Ajeya: AI is dramatically accelerating AI research right now",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 95.37079978024244,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-08T17:15:13.000Z",
+   "latestAt": "2026-11-08T17:15:13.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Ajeya: AI is dramatically accelerating AI research right now",
+     "link": "https://www.alignmentforum.org/posts/8tL9f5HZxsTvn2LHp/ajeya-ai-is-dramatically-accelerating-ai-research-right-now",
+     "publisher": "Alignment Forum",
+     "publisherDomain": "alignmentforum.org",
+     "kind": "coverage",
+     "date": "2026-11-08T17:15:13.000Z",
+     "points": null,
+     "summary": "Earlier this week, Anthropic stated in their S1 that they “may imminently meet” the threshold of “dramatically accelerated progress due to AI” as defined in their…"
+    }
+   ]
+  },
+  {
+   "id": "what-realistically-with-local",
+   "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 68.68954637635476,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-08T17:07:51.000Z",
+   "latestAt": "2026-11-08T17:07:51.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+     "link": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+     "publisher": "Lobsters",
+     "publisherDomain": "lobste.rs",
      "kind": "discussion",
-     "date": "2026-11-08T15:19:51.000Z",
-     "points": 19,
+     "date": "2026-11-08T17:07:51.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "fight-brain",
+   "title": "How I Fight AI Brain Fry",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 131.12126471739694,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-08T19:37:42.000Z",
+   "latestAt": "2026-11-08T19:37:42.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How I Fight AI Brain Fry",
+     "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+     "publisher": "sergeykuhne.com",
+     "publisherDomain": "sergeykuhne.com",
+     "kind": "discussion",
+     "date": "2026-11-08T19:37:42.000Z",
+     "points": 51,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "silicon-valley-promises-will",
+   "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 123.54154118386774,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-08T18:43:07.000Z",
+   "latestAt": "2026-11-08T18:43:07.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+     "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+     "publisher": "The Wall Street Journal",
+     "publisherDomain": "wsj.com",
+     "kind": "discussion",
+     "date": "2026-11-08T18:43:07.000Z",
+     "points": 63,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "deno-security-model-2024",
+   "title": "I'm not a fan of Deno's security model (2024)",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 93.57471654251593,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-08T14:42:38.000Z",
+   "latestAt": "2026-11-08T14:42:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "I'm not a fan of Deno's security model (2024)",
+     "link": "https://goldstein.lol/posts/deno-security/",
+     "publisher": "goldstein.lol",
+     "publisherDomain": "goldstein.lol",
+     "kind": "discussion",
+     "date": "2026-11-08T14:42:38.000Z",
+     "points": 63,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "agent-memory-needs-opentelemetry",
+   "title": "Agent memory needs its OpenTelemetry moment",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 73.89123177985947,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-08T08:40:23.000Z",
+   "latestAt": "2026-11-08T08:40:23.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Agent memory needs its OpenTelemetry moment",
+     "link": "https://www.lorekit.io/blog/open-agent-memory-format",
+     "publisher": "lorekit.io",
+     "publisherDomain": "lorekit.io",
+     "kind": "discussion",
+     "date": "2026-11-08T08:40:23.000Z",
+     "points": 154,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "deepseek-llama-llama-modchip-284b-deepseek",
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "deepseek",
+     "name": "DeepSeek",
+     "kind": "org"
+    },
+    {
+     "id": "llama",
+     "name": "Llama",
+     "kind": "model"
+    }
+   ],
+   "rank": 69.25129237432232,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-08T10:22:04.000Z",
+   "latestAt": "2026-11-08T10:22:04.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/synchopate/llama-modchip",
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU"
+   },
+   "sources": [
+    {
+     "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+     "link": "https://github.com/synchopate/llama-modchip",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-11-08T10:22:04.000Z",
+     "points": 299,
      "summary": ""
     }
    ]
@@ -85,7 +334,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 89.83058293188508,
+   "rank": 66.22975153522778,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -106,6 +355,40 @@
    ]
   },
   {
+   "id": "claude-goodbye-claude-hello",
+   "title": "Goodbye Claude, hello Pi",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 63.18983000941752,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-08T03:11:48.000Z",
+   "latestAt": "2026-11-08T03:11:48.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Goodbye Claude, hello Pi",
+     "link": "https://caleb.software/posts/claude-to-pi.html",
+     "publisher": "caleb.software",
+     "publisherDomain": "caleb.software",
+     "kind": "discussion",
+     "date": "2026-11-08T03:11:48.000Z",
+     "points": 628,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "notes-take-speeds",
    "title": "Notes on Take-Off Speeds and RSI",
    "category": {
@@ -113,7 +396,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 85.3968260775299,
+   "rank": 62.96085796638367,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -141,7 +424,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 72.53803011179912,
+   "rank": 53.48040226792404,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -162,135 +445,70 @@
    ]
   },
   {
-   "id": "deno-security-model-2024",
-   "title": "I'm not a fan of Deno's security model (2024)",
+   "id": "safety-help-people-outside-safety",
+   "title": "Help people outside of AI safety circles",
    "category": {
     "id": "general",
     "name": "Other"
-   },
-   "entities": [],
-   "rank": 112.81141071117655,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-08T14:42:38.000Z",
-   "latestAt": "2026-11-08T14:42:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "I'm not a fan of Deno's security model (2024)",
-     "link": "https://goldstein.lol/posts/deno-security/",
-     "publisher": "goldstein.lol",
-     "publisherDomain": "goldstein.lol",
-     "kind": "discussion",
-     "date": "2026-11-08T14:42:38.000Z",
-     "points": 12,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "agent-memory-needs-opentelemetry",
-   "title": "Agent memory needs its OpenTelemetry moment",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 100.2222154013246,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-08T08:40:23.000Z",
-   "latestAt": "2026-11-08T08:40:23.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Agent memory needs its OpenTelemetry moment",
-     "link": "https://www.lorekit.io/blog/open-agent-memory-format",
-     "publisher": "lorekit.io",
-     "publisherDomain": "lorekit.io",
-     "kind": "discussion",
-     "date": "2026-11-08T08:40:23.000Z",
-     "points": 111,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "deepseek-llama-llama-modchip-284b-deepseek",
-   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-   "category": {
-    "id": "models",
-    "name": "Models"
    },
    "entities": [
     {
-     "id": "deepseek",
-     "name": "DeepSeek",
-     "kind": "org"
-    },
-    {
-     "id": "llama",
-     "name": "Llama",
-     "kind": "model"
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
     }
    ],
-   "rank": 93.92884343621428,
+   "rank": 52.49020585135005,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-08T10:22:04.000Z",
-   "latestAt": "2026-11-08T10:22:04.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/synchopate/llama-modchip",
-    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU"
-   },
+   "publishedAt": "2026-11-08T16:52:34.000Z",
+   "latestAt": "2026-11-08T16:52:34.000Z",
+   "primary": null,
    "sources": [
     {
-     "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-     "link": "https://github.com/synchopate/llama-modchip",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-11-08T10:22:04.000Z",
-     "points": 156,
-     "summary": ""
+     "title": "Help people outside of AI safety circles",
+     "link": "https://www.lesswrong.com/posts/FEgjbgjpHyDyqHjej/help-people-outside-of-ai-safety-circles",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-08T16:52:34.000Z",
+     "points": null,
+     "summary": "This is a linkpost! Read the rest on my Substack; this is just an excerpt: \"Our community is full of talented people who like to speak…"
     }
    ]
   },
   {
-   "id": "claude-goodbye-claude-hello",
-   "title": "Goodbye Claude, hello Pi",
+   "id": "safety-safety-course-update",
+   "title": "AI safety course update",
    "category": {
-    "id": "models",
-    "name": "Models"
+    "id": "tools",
+    "name": "Tools & Products"
    },
    "entities": [
     {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
     }
    ],
-   "rank": 85.70739182213933,
+   "rank": 52.012335157400145,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-08T03:11:48.000Z",
-   "latestAt": "2026-11-08T03:11:48.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-11-08T16:44:39.000Z",
+   "latestAt": "2026-11-08T16:44:39.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Goodbye Claude, hello Pi",
-     "link": "https://caleb.software/posts/claude-to-pi.html",
-     "publisher": "caleb.software",
-     "publisherDomain": "caleb.software",
-     "kind": "discussion",
-     "date": "2026-11-08T03:11:48.000Z",
-     "points": 526,
-     "summary": ""
+     "title": "AI safety course update",
+     "link": "https://www.lesswrong.com/posts/WsTiYqDbrizQnEoXa/ai-safety-course-update",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-08T16:44:39.000Z",
+     "points": null,
+     "summary": "In my biased opinion, my AI safety course has been going very well. Students are great, and I have been learning a lot from the guest…"
     }
    ]
   },
@@ -302,7 +520,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 63.1983379047538,
+   "rank": 46.59449020880775,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -330,7 +548,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 63.14802297421793,
+   "rank": 46.557394319644594,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -358,7 +576,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 61.56684555295096,
+   "rank": 45.39163334686954,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -392,7 +610,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 56.00341345970536,
+   "rank": 41.28985961688985,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -413,68 +631,6 @@
    ]
   },
   {
-   "id": "claude-claude-code-again-exposes",
-   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "rank": 54.85571215095429,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-07T20:45:32.000Z",
-   "latestAt": "2026-11-07T20:45:32.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-     "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-     "publisher": "apiiro.com",
-     "publisherDomain": "apiiro.com",
-     "kind": "discussion",
-     "date": "2026-11-07T20:45:32.000Z",
-     "points": 494,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "hands-tutorials-inspect",
-   "title": "Hands-On Tutorials for Inspect AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 50.77368819032042,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-08T11:59:57.000Z",
-   "latestAt": "2026-11-08T11:59:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Hands-On Tutorials for Inspect AI",
-     "link": "https://www.lesswrong.com/posts/EvGLAuEtHpicKGBJh/hands-on-tutorials-for-inspect-ai-1",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-08T11:59:57.000Z",
-     "points": null,
-     "summary": "TL;DR Four hands-on Jupyter notebooks offer a practical introduction to building AI evaluations with Inspect AI . As a four-person project team for the Spring 2026…"
-    }
-   ]
-  },
-  {
    "id": "datasette-3046-serve-link",
    "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
    "category": {
@@ -482,7 +638,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.791184830256164,
+   "rank": 27.86245730396277,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -503,34 +659,6 @@
    ]
   },
   {
-   "id": "what-llms-really-learn",
-   "title": "What do LLMs Really Learn About Model Weights? A Stratification Approach to Examine Weight Space Programming",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 37.387429454768316,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-08T07:35:02.000Z",
-   "latestAt": "2026-11-08T07:35:02.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "What do LLMs Really Learn About Model Weights? A Stratification Approach to Examine Weight Space Programming",
-     "link": "https://www.lesswrong.com/posts/WnL4nWrS2owzZfwiz/what-do-llms-really-learn-about-model-weights-a",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-08T07:35:02.000Z",
-     "points": null,
-     "summary": "TLDR I attempted to replicate “Sparks of Weight-Space Programming” by Takehi et al (2026) with stratification on two reasoning models, GPT 6 Astra and Deepseek-V4.1-Flash. The…"
-    }
-   ]
-  },
-  {
    "id": "nvidia-megaspeed-exec-recruited-nvidia",
    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
    "category": {
@@ -544,7 +672,7 @@
      "kind": "org"
     }
    ],
-   "rank": 26.158741289316822,
+   "rank": 19.28615934040451,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -565,152 +693,6 @@
    ]
   },
   {
-   "id": "catching-prompt-injections-hidden",
-   "title": "Catching prompt injections hidden in PDFs",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 20.89892765554248,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-07T19:34:01.000Z",
-   "latestAt": "2026-11-07T19:34:01.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Catching prompt injections hidden in PDFs",
-     "link": "https://tomclancy.info/joshua-judges-ruth.html",
-     "publisher": "tomclancy.info",
-     "publisherDomain": "tomclancy.info",
-     "kind": "discussion",
-     "date": "2026-11-07T19:34:01.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "cooking-assistant-saved-weeknight",
-   "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 17.92621494357349,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-07T15:50:00.000Z",
-   "latestAt": "2026-11-07T15:50:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-     "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-07T15:50:00.000Z",
-     "points": null,
-     "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain…"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-nvidia-sell-chips-empty",
-   "title": "The US let Nvidia sell chips to an empty office in China",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 17.79724874273584,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-07T15:43:45.000Z",
-   "latestAt": "2026-11-07T15:43:45.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The US let Nvidia sell chips to an empty office in China",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-07T15:43:45.000Z",
-     "points": null,
-     "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle…"
-    }
-   ]
-  },
-  {
-   "id": "broke-cybersecurity-world-what",
-   "title": "AI broke the cybersecurity world. What’s next?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 16.920093808849735,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-07T15:00:00.000Z",
-   "latestAt": "2026-11-07T15:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI broke the cybersecurity world. What’s next?",
-     "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-07T15:00:00.000Z",
-     "points": null,
-     "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is…"
-    }
-   ]
-  },
-  {
-   "id": "types-consciousness-feeling",
-   "title": "The 4 types of AI consciousness/feeling",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 14.066076316021062,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-07T17:28:50.000Z",
-   "latestAt": "2026-11-07T17:28:50.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The 4 types of AI consciousness/feeling",
-     "link": "https://www.lesswrong.com/posts/wiiApTtRgJgw2EcdZ/the-4-types-of-ai-consciousness-feeling",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-07T17:28:50.000Z",
-     "points": null,
-     "summary": "Here I'm trying to propose a framework for people to better think about what LLMs might subjectively experience, which tends to get discussed like it's a…"
-    }
-   ]
-  },
-  {
    "id": "apps-caregivers-dose-that",
    "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
    "category": {
@@ -718,7 +700,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.823033246491782,
+   "rank": 9.454088776058377,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -746,7 +728,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.612278732254191,
+   "rank": 7.8241569933117185,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -763,6 +745,45 @@
      "date": "2026-11-07T09:47:24.000Z",
      "points": null,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "openai-funding-openai-reportedly-raises-additional",
+   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 5.515565959998193,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T22:53:46.000Z",
+   "latestAt": "2026-11-06T22:53:46.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+     "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-06T22:53:46.000Z",
+     "points": null,
+     "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
     }
    ]
   },
@@ -785,7 +806,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.718364669373328,
+   "rank": 4.953275468701345,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -806,45 +827,6 @@
    ]
   },
   {
-   "id": "anthropic-funding-ramp-data-shows-spending",
-   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 5.122804082966847,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T15:54:47.000Z",
-   "latestAt": "2026-11-06T15:54:47.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-     "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-06T15:54:47.000Z",
-     "points": null,
-     "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
-    }
-   ]
-  },
-  {
    "id": "week-biggest-funding-rounds",
    "title": "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
    "category": {
@@ -852,7 +834,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 4.987094312046834,
+   "rank": 3.676854879368402,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -886,7 +868,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.984984285476641,
+   "rank": 3.6752992116780066,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -914,7 +896,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.486841023746677,
+   "rank": 3.308031145763974,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -948,7 +930,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.300815093904193,
+   "rank": 3.170879067813867,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -982,7 +964,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.257160280192077,
+   "rank": 3.1386935094983612,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1010,7 +992,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 4.155593540661568,
+   "rank": 3.063810995060606,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1038,7 +1020,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 4.151195200853672,
+   "rank": 3.0605682135586165,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1066,7 +1048,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.018522279601813,
+   "rank": 2.9627519206750867,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1094,7 +1076,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.864198446090299,
+   "rank": 2.8489729735076015,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1115,34 +1097,6 @@
    ]
   },
   {
-   "id": "after-midterms-industry-rough",
-   "title": "After the midterms, is the AI industry in for a rough two years?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 3.7853939209629295,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T17:23:52.000Z",
-   "latestAt": "2026-11-06T17:23:52.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "After the midterms, is the AI industry in for a rough two years?",
-     "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-06T17:23:52.000Z",
-     "points": null,
-     "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday…"
-    }
-   ]
-  },
-  {
    "id": "openai-partnering-with-hacktron-find",
    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
    "category": {
@@ -1156,7 +1110,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.4632743849922663,
+   "rank": 2.5533820947180086,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1194,7 +1148,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.4429204720276814,
+   "rank": 2.538375684268281,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1226,7 +1180,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.435846685702627,
+   "rank": 2.533160365660399,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1260,7 +1214,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.9643620412457112,
+   "rank": 2.1855470046435355,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1281,34 +1235,6 @@
    ]
   },
   {
-   "id": "underdog-shows-32mb-speech",
-   "title": "Underdog shows off a 32MB speech model in new demo",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 2.798092080161989,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T13:02:16.000Z",
-   "latestAt": "2026-11-06T13:02:16.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Underdog shows off a 32MB speech model in new demo",
-     "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-06T13:02:16.000Z",
-     "points": null,
-     "summary": "Despite its small size, Underdog's new model can generate both speech and music."
-    }
-   ]
-  },
-  {
    "id": "china-models-kimi-dominate",
    "title": "China’s AI models, led by Kimi, dominate open-source enterprise spending",
    "category": {
@@ -1316,7 +1242,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 2.7452072702555252,
+   "rank": 2.0239698940792454,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1344,7 +1270,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.4740716858269907,
+   "rank": 1.8240686822316392,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1378,7 +1304,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.3801541130434085,
+   "rank": 1.7548256994162577,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1406,7 +1332,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.2296723891124035,
+   "rank": 1.6438794396764065,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1434,7 +1360,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0219904617101108,
+   "rank": 1.4907609581828518,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1468,7 +1394,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.7681144839751035,
+   "rank": 1.3035848052806485,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1500,7 +1426,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6328758225551534,
+   "rank": 1.203876858927994,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1517,44 +1443,6 @@
      "date": "2026-11-06T06:00:27.000Z",
      "points": null,
      "summary": "The sweeping midterm election victory by US Democrats has triggered warnings from analysts that an impending regulatory clampdown could derail the nation’s multi-trillion-dollar artificial intelligence data…"
-    }
-   ]
-  },
-  {
-   "id": "gemini-gemini-omni-flash-fast",
-   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.399831856874723,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T17:05:16.000Z",
-   "latestAt": "2026-11-05T17:05:16.000Z",
-   "primary": {
-    "publisher": "Google DeepMind",
-    "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
-   },
-   "sources": [
-    {
-     "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-     "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-     "publisher": "Google DeepMind",
-     "publisherDomain": "deepmind.google",
-     "kind": "primary",
-     "date": "2026-11-05T17:05:16.000Z",
-     "points": null,
-     "summary": ""
     }
    ]
   },
@@ -1582,7 +1470,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.379693183370372,
+   "rank": 1.0172118864992166,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1610,7 +1498,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3034177285713904,
+   "rank": 0.9609759782517601,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1653,7 +1541,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.2721904861108417,
+   "rank": 0.937952944872797,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1674,72 +1562,6 @@
    ]
   },
   {
-   "id": "anthropic-metr-independent-assessment-acceleration",
-   "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.2719774075468553,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T19:06:38.000Z",
-   "latestAt": "2026-11-05T19:06:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-     "link": "https://www.alignmentforum.org/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at",
-     "publisher": "Alignment Forum",
-     "publisherDomain": "alignmentforum.org",
-     "kind": "coverage",
-     "date": "2026-11-05T19:06:38.000Z",
-     "points": null,
-     "summary": "Executive summary From August 12 to October 29, 2026, METR staff performed a high-access evaluation at Anthropic to assess the degree to which AI is accelerating…"
-    }
-   ]
-  },
-  {
-   "id": "cult-builds-operational-muscle",
-   "title": "Cult.fit builds operational muscle with Codex",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.1166501728533538,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T20:00:00.000Z",
-   "latestAt": "2026-11-05T20:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/cultfit-builds-with-codex",
-    "title": "Cult.fit builds operational muscle with Codex"
-   },
-   "sources": [
-    {
-     "title": "Cult.fit builds operational muscle with Codex",
-     "link": "https://openai.com/index/cultfit-builds-with-codex",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-05T20:00:00.000Z",
-     "points": null,
-     "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
-    }
-   ]
-  },
-  {
    "id": "chatbots-have-arrived-here",
    "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
    "category": {
@@ -1747,7 +1569,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 0.9611492162567667,
+   "rank": 0.7086303094485413,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1764,104 +1586,6 @@
      "date": "2026-11-05T21:37:18.000Z",
      "points": null,
      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing…"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-nvidia-cosmos-open-models",
-   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.9599806963209934,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T19:35:16.000Z",
-   "latestAt": "2026-11-05T19:35:16.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation"
-   },
-   "sources": [
-    {
-     "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-     "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-11-05T19:35:16.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "australian-universities-creating-native",
-   "title": "Australian universities are creating AI-native graduates",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9070017787917413,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T17:00:00.000Z",
-   "latestAt": "2026-11-05T17:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-    "title": "Australian universities are creating AI-native graduates"
-   },
-   "sources": [
-    {
-     "title": "Australian universities are creating AI-native graduates",
-     "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-05T17:00:00.000Z",
-     "points": null,
-     "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
-    }
-   ]
-  },
-  {
-   "id": "quoting-paul-ford",
-   "title": "Quoting Paul Ford",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8708221854432054,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T17:34:03.000Z",
-   "latestAt": "2026-11-05T17:34:03.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Quoting Paul Ford",
-     "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-05T17:34:03.000Z",
-     "points": null,
-     "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . …"
     }
    ]
   }
