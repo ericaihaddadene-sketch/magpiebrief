@@ -1,4 +1,76 @@
 {
+ "openai-funding-openai-raises-valuation": {
+  "id": "openai-funding-openai-raises-valuation",
+  "title": "OpenAI raises $11B at a $1.25T valuation",
+  "firstSeen": "2026-11-08T16:37:54.859Z",
+  "publishers": [
+   "247wallst.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "business"
+ },
+ "apple-apple-presses-software-chief": {
+  "id": "apple-apple-presses-software-chief",
+  "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+  "firstSeen": "2026-11-08T16:37:54.859Z",
+  "publishers": [
+   "Bloomberg"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "wants-crowdsource-scans-articles": {
+  "id": "wants-crowdsource-scans-articles",
+  "title": "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
+  "firstSeen": "2026-11-08T16:37:54.859Z",
+  "publishers": [
+   "Lobsters"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "notes-take-speeds": {
+  "id": "notes-take-speeds",
+  "title": "Notes on Take-Off Speeds and RSI",
+  "firstSeen": "2026-11-08T16:37:54.859Z",
+  "publishers": [
+   "Alignment Forum"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "used-cooking-powered-recipe": {
+  "id": "used-cooking-powered-recipe",
+  "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+  "firstSeen": "2026-11-08T16:37:54.859Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "deno-security-model-2024": {
+  "id": "deno-security-model-2024",
+  "title": "I'm not a fan of Deno's security model (2024)",
+  "firstSeen": "2026-11-08T02:15:58.835Z",
+  "publishers": [
+   "goldstein.lol"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "agent-memory-needs-opentelemetry": {
   "id": "agent-memory-needs-opentelemetry",
   "title": "Agent memory needs its OpenTelemetry moment",
@@ -11,9 +83,21 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "deepseek-llama-llama-modchip-284b-deepseek": {
+  "id": "deepseek-llama-llama-modchip-284b-deepseek",
+  "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+  "firstSeen": "2026-11-08T16:37:54.859Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "models"
+ },
  "claude-goodbye-claude-hello": {
   "id": "claude-goodbye-claude-hello",
-  "title": "Goodbye Claude, Hello Pi",
+  "title": "Goodbye Claude, hello Pi",
   "firstSeen": "2026-11-08T10:06:49.438Z",
   "publishers": [
    "caleb.software"
@@ -23,12 +107,36 @@
   "hadPrimary": false,
   "category": "models"
  },
+ "what-already-world-domination": {
+  "id": "what-already-world-domination",
+  "title": "What if the AI already won? World domination through digital supremacy",
+  "firstSeen": "2026-11-08T16:37:54.859Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "world-models-will-soon": {
   "id": "world-models-will-soon",
   "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
   "firstSeen": "2026-11-08T10:06:49.438Z",
   "publishers": [
    "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "will-soon-master-biology": {
+  "id": "will-soon-master-biology",
+  "title": "AI will soon master biology, unleashing new safety risks, Tencent AI chief warns",
+  "firstSeen": "2026-11-08T16:37:54.859Z",
+  "publishers": [
+   "SCMP Tech"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -47,18 +155,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "datasette-3046-serve-link": {
-  "id": "datasette-3046-serve-link",
-  "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-  "firstSeen": "2026-11-08T02:15:58.835Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "claude-claude-code-again-exposes": {
   "id": "claude-claude-code-again-exposes",
   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
@@ -71,6 +167,30 @@
   "hadPrimary": false,
   "category": "opensource"
  },
+ "hands-tutorials-inspect": {
+  "id": "hands-tutorials-inspect",
+  "title": "Hands-On Tutorials for Inspect AI",
+  "firstSeen": "2026-11-08T16:37:54.859Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "datasette-3046-serve-link": {
+  "id": "datasette-3046-serve-link",
+  "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+  "firstSeen": "2026-11-08T02:15:58.835Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "what-llms-really-learn": {
   "id": "what-llms-really-learn",
   "title": "What do LLMs Really Learn About Model Weights? A Stratification Approach to Examine Weight Space Programming",
@@ -80,30 +200,6 @@
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "microsoft-microsoft-research-frontiers-group": {
-  "id": "microsoft-microsoft-research-frontiers-group",
-  "title": "The end of Microsoft Research's AI Frontiers group",
-  "firstSeen": "2026-11-07T22:38:07.688Z",
-  "publishers": [
-   "hunch.net"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "deno-security-model-2024": {
-  "id": "deno-security-model-2024",
-  "title": "I’m not a fan of Deno’s security model (2024)",
-  "firstSeen": "2026-11-08T02:15:58.835Z",
-  "publishers": [
-   "goldstein.lol"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
@@ -119,18 +215,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "anthropic-report-anthropic-automating-development": {
-  "id": "anthropic-report-anthropic-automating-development",
-  "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-  "firstSeen": "2026-11-07T13:52:01.386Z",
-  "publishers": [
-   "The Verge"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "research"
- },
  "catching-prompt-injections-hidden": {
   "id": "catching-prompt-injections-hidden",
   "title": "Catching prompt injections hidden in PDFs",
@@ -140,18 +224,6 @@
   ],
   "sourceCount": 1,
   "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "anthropic-anthropic-acceleration-probably-real": {
-  "id": "anthropic-anthropic-acceleration-probably-real",
-  "title": "Anthropic's AI acceleration is probably real",
-  "firstSeen": "2026-11-07T13:52:01.386Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -191,19 +263,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "anthropic-openai-funding-openai-valued-trillion-rival": {
-  "id": "anthropic-openai-funding-openai-valued-trillion-rival",
-  "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-  "firstSeen": "2026-11-07T00:49:10.111Z",
-  "publishers": [
-   "The Verge",
-   "TechCrunch"
-  ],
-  "sourceCount": 2,
-  "independentCount": 2,
-  "hadPrimary": false,
-  "category": "business"
- },
  "types-consciousness-feeling": {
   "id": "types-consciousness-feeling",
   "title": "The 4 types of AI consciousness/feeling",
@@ -240,18 +299,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "openai-funding-openai-reportedly-raises-additional": {
-  "id": "openai-funding-openai-reportedly-raises-additional",
-  "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-  "firstSeen": "2026-11-07T00:49:10.111Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
  "google-infrastructure-crusoe-sells-troubled-wyoming": {
   "id": "google-infrastructure-crusoe-sells-troubled-wyoming",
   "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -263,6 +310,18 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
+ },
+ "anthropic-funding-ramp-data-shows-spending": {
+  "id": "anthropic-funding-ramp-data-shows-spending",
+  "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+  "firstSeen": "2026-11-08T16:37:54.859Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
  },
  "week-biggest-funding-rounds": {
   "id": "week-biggest-funding-rounds",
@@ -456,18 +515,6 @@
   "hadPrimary": false,
   "category": "opensource"
  },
- "nvidia-making-musl-proprietary-nvidia": {
-  "id": "nvidia-making-musl-proprietary-nvidia",
-  "title": "Making musl and proprietary NVIDIA drivers work together",
-  "firstSeen": "2026-11-06T14:55:40.179Z",
-  "publishers": [
-   "chimera-linux.org"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
  "challenge-monopoly": {
   "id": "challenge-monopoly",
   "title": "How To Challenge A Monopoly In The AI Age",
@@ -588,6 +635,18 @@
   "hadPrimary": false,
   "category": "policy"
  },
+ "anthropic-metr-independent-assessment-acceleration": {
+  "id": "anthropic-metr-independent-assessment-acceleration",
+  "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+  "firstSeen": "2026-11-08T16:37:54.859Z",
+  "publishers": [
+   "Alignment Forum"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "cult-builds-operational-muscle": {
   "id": "cult-builds-operational-muscle",
   "title": "Cult.fit builds operational muscle with Codex",
@@ -642,186 +701,6 @@
   "firstSeen": "2026-11-05T18:38:59.755Z",
   "publishers": [
    "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "formally-verifying-agent-written": {
-  "id": "formally-verifying-agent-written",
-  "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
-  "firstSeen": "2026-11-05T18:38:59.755Z",
-  "publishers": [
-   "Microsoft Research"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "agents-exclusive-aina-smart-ring": {
-  "id": "agents-exclusive-aina-smart-ring",
-  "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-  "firstSeen": "2026-11-06T06:14:37.562Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "dropbox-plans-350m-infrastructure": {
-  "id": "dropbox-plans-350m-infrastructure",
-  "title": "Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet",
-  "firstSeen": "2026-11-05T18:38:59.755Z",
-  "publishers": [
-   "Crunchbase News"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
- "reddit-founder-says-building": {
-  "id": "reddit-founder-says-building",
-  "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
-  "firstSeen": "2026-11-05T18:38:59.755Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "detecting-signs-hypertension-using": {
-  "id": "detecting-signs-hypertension-using",
-  "title": "Detecting signs of hypertension using wearable sensors",
-  "firstSeen": "2026-11-05T18:38:59.755Z",
-  "publishers": [
-   "Google Research"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "text-watermarking-able-meet": {
-  "id": "text-watermarking-able-meet",
-  "title": "AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules",
-  "firstSeen": "2026-11-05T18:38:59.755Z",
-  "publishers": [
-   "IEEE Spectrum"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "robotics-sector-snapshot-construction-robotics": {
-  "id": "robotics-sector-snapshot-construction-robotics",
-  "title": "Sector Snapshot: Construction Robotics Funding Soars To $1.6B, Tripling Previous Peak",
-  "firstSeen": "2026-11-05T18:38:59.755Z",
-  "publishers": [
-   "Crunchbase News"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
- "download-texas-fragile-boom": {
-  "id": "download-texas-fragile-boom",
-  "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-  "firstSeen": "2026-11-05T18:38:59.755Z",
-  "publishers": [
-   "MIT Tech Review"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "robotics-agility-robotics-nasdaq-debut": {
-  "id": "robotics-agility-robotics-nasdaq-debut",
-  "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-  "firstSeen": "2026-11-05T18:38:59.755Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "finding-drugs-laborious-this": {
-  "id": "finding-drugs-laborious-this",
-  "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-  "firstSeen": "2026-11-05T18:38:59.755Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "research"
- },
- "chinese-chipmaker-hong-bets": {
-  "id": "chinese-chipmaker-hong-bets",
-  "title": "Chinese chipmaker Hua Hong bets big on silicon photonics amid AI boom",
-  "firstSeen": "2026-11-05T18:38:59.755Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "next-trick-speaking-dolphin": {
-  "id": "next-trick-speaking-dolphin",
-  "title": "AI’s Next Trick? Speaking Dolphin",
-  "firstSeen": "2026-11-05T18:38:59.755Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "trolls-labs-living-they": {
-  "id": "trolls-labs-living-they",
-  "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-  "firstSeen": "2026-11-05T18:38:59.755Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "gpt-robotics-powered-unitree-humanoid-robots": {
-  "id": "gpt-robotics-powered-unitree-humanoid-robots",
-  "title": "Powered by GPT-6, Unitree humanoid robots master painting, chess without training, says CEO",
-  "firstSeen": "2026-11-05T18:38:59.755Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
- },
- "robotics-china-blocks-softbank-billion": {
-  "id": "robotics-china-blocks-softbank-billion",
-  "title": "China blocks SoftBank’s US$5.4 billion takeover of ABB’s robotics division",
-  "firstSeen": "2026-11-05T10:41:02.264Z",
-  "publishers": [
-   "SCMP Tech"
   ],
   "sourceCount": 1,
   "independentCount": 1,

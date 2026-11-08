@@ -1,9 +1,194 @@
 {
  "date": "2026-11-08",
- "generated": "2026-11-08T10:06:49.484Z",
- "headline": "69 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2872 items read · 70 on-topic · 69 distinct developments · 10 with a primary source · 1 independently corroborated",
+ "generated": "2026-11-08T16:37:54.912Z",
+ "headline": "59 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2872 items read · 59 on-topic · 59 distinct developments · 9 with a primary source · 0 independently corroborated",
  "events": [
+  {
+   "id": "openai-funding-openai-raises-valuation",
+   "title": "OpenAI raises $11B at a $1.25T valuation",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 203.76611985556028,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-08T14:49:23.000Z",
+   "latestAt": "2026-11-08T14:49:23.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI raises $11B at a $1.25T valuation",
+     "link": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+     "publisher": "247wallst.com",
+     "publisherDomain": "247wallst.com",
+     "kind": "discussion",
+     "date": "2026-11-08T14:49:23.000Z",
+     "points": 66,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "apple-apple-presses-software-chief",
+   "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "apple",
+     "name": "Apple",
+     "kind": "org"
+    }
+   ],
+   "rank": 122.19982474259822,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-08T15:19:51.000Z",
+   "latestAt": "2026-11-08T15:19:51.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+     "link": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+     "publisher": "Bloomberg",
+     "publisherDomain": "bloomberg.com",
+     "kind": "discussion",
+     "date": "2026-11-08T15:19:51.000Z",
+     "points": 19,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "wants-crowdsource-scans-articles",
+   "title": "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 89.83058293188508,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-08T16:36:17.000Z",
+   "latestAt": "2026-11-08T16:36:17.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
+     "link": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
+     "publisher": "Lobsters",
+     "publisherDomain": "lobste.rs",
+     "kind": "discussion",
+     "date": "2026-11-08T16:36:17.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "notes-take-speeds",
+   "title": "Notes on Take-Off Speeds and RSI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 85.3968260775299,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-08T13:39:02.000Z",
+   "latestAt": "2026-11-08T13:39:02.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Notes on Take-Off Speeds and RSI",
+     "link": "https://www.alignmentforum.org/posts/ft9hzw82v7FRDKmpn/notes-on-take-off-speeds-and-rsi",
+     "publisher": "Alignment Forum",
+     "publisherDomain": "alignmentforum.org",
+     "kind": "coverage",
+     "date": "2026-11-08T13:39:02.000Z",
+     "points": null,
+     "summary": "I created these notes for use when I facilitate AI safety courses. I'm sharing these notes early because this issue is topical and I suspect it…"
+    }
+   ]
+  },
+  {
+   "id": "used-cooking-powered-recipe",
+   "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 72.53803011179912,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-08T12:00:00.000Z",
+   "latestAt": "2026-11-08T12:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+     "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-08T12:00:00.000Z",
+     "points": null,
+     "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It…"
+    }
+   ]
+  },
+  {
+   "id": "deno-security-model-2024",
+   "title": "I'm not a fan of Deno's security model (2024)",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 112.81141071117655,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-08T14:42:38.000Z",
+   "latestAt": "2026-11-08T14:42:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "I'm not a fan of Deno's security model (2024)",
+     "link": "https://goldstein.lol/posts/deno-security/",
+     "publisher": "goldstein.lol",
+     "publisherDomain": "goldstein.lol",
+     "kind": "discussion",
+     "date": "2026-11-08T14:42:38.000Z",
+     "points": 12,
+     "summary": ""
+    }
+   ]
+  },
   {
    "id": "agent-memory-needs-opentelemetry",
    "title": "Agent memory needs its OpenTelemetry moment",
@@ -12,7 +197,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 143.24035413892773,
+   "rank": 100.2222154013246,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -27,14 +212,57 @@
      "publisherDomain": "lorekit.io",
      "kind": "discussion",
      "date": "2026-11-08T08:40:23.000Z",
-     "points": 16,
+     "points": 111,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "deepseek-llama-llama-modchip-284b-deepseek",
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "deepseek",
+     "name": "DeepSeek",
+     "kind": "org"
+    },
+    {
+     "id": "llama",
+     "name": "Llama",
+     "kind": "model"
+    }
+   ],
+   "rank": 93.92884343621428,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-08T10:22:04.000Z",
+   "latestAt": "2026-11-08T10:22:04.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/synchopate/llama-modchip",
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU"
+   },
+   "sources": [
+    {
+     "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+     "link": "https://github.com/synchopate/llama-modchip",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-11-08T10:22:04.000Z",
+     "points": 156,
      "summary": ""
     }
    ]
   },
   {
    "id": "claude-goodbye-claude-hello",
-   "title": "Goodbye Claude, Hello Pi",
+   "title": "Goodbye Claude, hello Pi",
    "category": {
     "id": "models",
     "name": "Models"
@@ -46,7 +274,7 @@
      "kind": "model"
     }
    ],
-   "rank": 134.65882578948057,
+   "rank": 85.70739182213933,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -55,14 +283,42 @@
    "primary": null,
    "sources": [
     {
-     "title": "Goodbye Claude, Hello Pi",
+     "title": "Goodbye Claude, hello Pi",
      "link": "https://caleb.software/posts/claude-to-pi.html",
      "publisher": "caleb.software",
      "publisherDomain": "caleb.software",
      "kind": "discussion",
      "date": "2026-11-08T03:11:48.000Z",
-     "points": 303,
+     "points": 526,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "what-already-world-domination",
+   "title": "What if the AI already won? World domination through digital supremacy",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 63.1983379047538,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-08T15:09:26.000Z",
+   "latestAt": "2026-11-08T15:09:26.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "What if the AI already won? World domination through digital supremacy",
+     "link": "https://www.lesswrong.com/posts/toYj3kmEqmGKLtcYt/what-if-the-ai-already-won-world-domination-through-digital",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-08T15:09:26.000Z",
+     "points": null,
+     "summary": "What if an AI agent has already escaped from a frontier company, solved its own alignment problem, and recursively self-improved? Would that look any different from…"
     }
    ]
   },
@@ -74,7 +330,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 99.21476367267988,
+   "rank": 63.14802297421793,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -95,6 +351,34 @@
    ]
   },
   {
+   "id": "will-soon-master-biology",
+   "title": "AI will soon master biology, unleashing new safety risks, Tencent AI chief warns",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 61.56684555295096,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-08T10:22:27.000Z",
+   "latestAt": "2026-11-08T10:22:27.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI will soon master biology, unleashing new safety risks, Tencent AI chief warns",
+     "link": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-08T10:22:27.000Z",
+     "points": null,
+     "summary": "Artificial intelligence models will soon be powerful enough to master biology, presenting both benefits and serious risks, Tencent Holdings’ chief AI scientist and former OpenAI star…"
+    }
+   ]
+  },
+  {
    "id": "robotics-china-pudu-robotics-which",
    "title": "China’s Pudu Robotics, which makes 80% of its sales abroad, takes on Tesla in humanoids",
    "category": {
@@ -108,7 +392,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 87.98953901591815,
+   "rank": 56.00341345970536,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -129,6 +413,68 @@
    ]
   },
   {
+   "id": "claude-claude-code-again-exposes",
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "category": {
+    "id": "opensource",
+    "name": "Open Source"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 54.85571215095429,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-07T20:45:32.000Z",
+   "latestAt": "2026-11-07T20:45:32.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+     "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+     "publisher": "apiiro.com",
+     "publisherDomain": "apiiro.com",
+     "kind": "discussion",
+     "date": "2026-11-07T20:45:32.000Z",
+     "points": 494,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "hands-tutorials-inspect",
+   "title": "Hands-On Tutorials for Inspect AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 50.77368819032042,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-08T11:59:57.000Z",
+   "latestAt": "2026-11-08T11:59:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Hands-On Tutorials for Inspect AI",
+     "link": "https://www.lesswrong.com/posts/EvGLAuEtHpicKGBJh/hands-on-tutorials-for-inspect-ai-1",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-08T11:59:57.000Z",
+     "points": null,
+     "summary": "TL;DR Four hands-on Jupyter notebooks offer a practical introduction to building AI evaluations with Inspect AI . As a four-person project team for the Spring 2026…"
+    }
+   ]
+  },
+  {
    "id": "datasette-3046-serve-link",
    "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
    "category": {
@@ -136,7 +482,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 59.3754688626634,
+   "rank": 37.791184830256164,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -157,40 +503,6 @@
    ]
   },
   {
-   "id": "claude-claude-code-again-exposes",
-   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "rank": 86.18633269604571,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-07T20:45:32.000Z",
-   "latestAt": "2026-11-07T20:45:32.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-     "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-     "publisher": "apiiro.com",
-     "publisherDomain": "apiiro.com",
-     "kind": "discussion",
-     "date": "2026-11-07T20:45:32.000Z",
-     "points": 393,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "what-llms-really-learn",
    "title": "What do LLMs Really Learn About Model Weights? A Stratification Approach to Examine Weight Space Programming",
    "category": {
@@ -198,7 +510,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 58.74111021968647,
+   "rank": 37.387429454768316,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -219,68 +531,6 @@
    ]
   },
   {
-   "id": "microsoft-microsoft-research-frontiers-group",
-   "title": "The end of Microsoft Research's AI Frontiers group",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "microsoft",
-     "name": "Microsoft",
-     "kind": "org"
-    }
-   ],
-   "rank": 47.5819129128109,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-07T18:02:17.000Z",
-   "latestAt": "2026-11-07T18:02:17.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The end of Microsoft Research's AI Frontiers group",
-     "link": "https://hunch.net/?p=13764006",
-     "publisher": "hunch.net",
-     "publisherDomain": "hunch.net",
-     "kind": "discussion",
-     "date": "2026-11-07T18:02:17.000Z",
-     "points": 456,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "deno-security-model-2024",
-   "title": "I’m not a fan of Deno’s security model (2024)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 42.62472754551415,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-07T23:19:53.000Z",
-   "latestAt": "2026-11-07T23:19:53.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "I’m not a fan of Deno’s security model (2024)",
-     "link": "https://goldstein.lol/posts/deno-security/",
-     "publisher": "goldstein.lol",
-     "publisherDomain": "goldstein.lol",
-     "kind": "discussion",
-     "date": "2026-11-07T23:19:53.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "nvidia-megaspeed-exec-recruited-nvidia",
    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
    "category": {
@@ -294,7 +544,7 @@
      "kind": "org"
     }
    ],
-   "rank": 41.099201728832654,
+   "rank": 26.158741289316822,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -315,40 +565,6 @@
    ]
   },
   {
-   "id": "anthropic-report-anthropic-automating-development",
-   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 33.531506871685096,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-07T12:30:00.000Z",
-   "latestAt": "2026-11-07T12:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-07T12:30:00.000Z",
-     "points": null,
-     "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly…"
-    }
-   ]
-  },
-  {
    "id": "catching-prompt-injections-hidden",
    "title": "Catching prompt injections hidden in PDFs",
    "category": {
@@ -356,7 +572,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 32.83526657997895,
+   "rank": 20.89892765554248,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -377,40 +593,6 @@
    ]
   },
   {
-   "id": "anthropic-anthropic-acceleration-probably-real",
-   "title": "Anthropic's AI acceleration is probably real",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 28.214278339728097,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-07T12:46:01.000Z",
-   "latestAt": "2026-11-07T12:46:01.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic's AI acceleration is probably real",
-     "link": "https://www.lesswrong.com/posts/QgcgoMz7mviHL6Esr/anthropic-s-ai-acceleration-is-probably-real",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-07T12:46:01.000Z",
-     "points": null,
-     "summary": "METR researchers spent three months inside Anthropic to investigate whether AI is accelerating Anthropic's research, and how much. Their answers are yes , and by a…"
-    }
-   ]
-  },
-  {
    "id": "cooking-assistant-saved-weeknight",
    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
    "category": {
@@ -418,7 +600,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.164700894887098,
+   "rank": 17.92621494357349,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -452,7 +634,7 @@
      "kind": "org"
     }
    ],
-   "rank": 27.962076164369464,
+   "rank": 17.79724874273584,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -480,7 +662,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.583937699047038,
+   "rank": 16.920093808849735,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -501,60 +683,6 @@
    ]
   },
   {
-   "id": "anthropic-openai-funding-openai-valued-trillion-rival",
-   "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 22.10588129515323,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-11-06T15:54:47.000Z",
-   "latestAt": "2026-11-06T23:46:18.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-06T23:46:18.000Z",
-     "points": null,
-     "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it…"
-    },
-    {
-     "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-     "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-06T15:54:47.000Z",
-     "points": null,
-     "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
-    }
-   ]
-  },
-  {
    "id": "types-consciousness-feeling",
    "title": "The 4 types of AI consciousness/feeling",
    "category": {
@@ -562,7 +690,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.09985953266802,
+   "rank": 14.066076316021062,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -590,7 +718,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.14685738676295,
+   "rank": 12.823033246491782,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -618,7 +746,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.67343927582787,
+   "rank": 10.612278732254191,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -635,45 +763,6 @@
      "date": "2026-11-07T09:47:24.000Z",
      "points": null,
      "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "openai-funding-openai-reportedly-raises-additional",
-   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 11.753784360981733,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T22:53:46.000Z",
-   "latestAt": "2026-11-06T22:53:46.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-     "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-06T22:53:46.000Z",
-     "points": null,
-     "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
     }
    ]
   },
@@ -696,7 +785,7 @@
      "kind": "org"
     }
    ],
-   "rank": 10.555531773510953,
+   "rank": 6.718364669373328,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -717,6 +806,45 @@
    ]
   },
   {
+   "id": "anthropic-funding-ramp-data-shows-spending",
+   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 5.122804082966847,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-06T15:54:47.000Z",
+   "latestAt": "2026-11-06T15:54:47.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+     "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-06T15:54:47.000Z",
+     "points": null,
+     "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
+    }
+   ]
+  },
+  {
    "id": "week-biggest-funding-rounds",
    "title": "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
    "category": {
@@ -724,7 +852,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 7.835453277533436,
+   "rank": 4.987094312046834,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -758,7 +886,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.832138117728829,
+   "rank": 4.984984285476641,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -786,7 +914,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.049482324880729,
+   "rank": 4.486841023746677,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -820,7 +948,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.757208429404256,
+   "rank": 4.300815093904193,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -854,7 +982,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.688620343481267,
+   "rank": 4.257160280192077,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -882,7 +1010,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 6.529044166984999,
+   "rank": 4.155593540661568,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -910,7 +1038,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 6.522133732991356,
+   "rank": 4.151195200853672,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -938,7 +1066,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.31368520352367,
+   "rank": 4.018522279601813,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -966,7 +1094,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.071219929873566,
+   "rank": 3.864198446090299,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -994,7 +1122,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.947406515476699,
+   "rank": 3.7853939209629295,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1028,7 +1156,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.441309695173537,
+   "rank": 3.4632743849922663,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1066,7 +1194,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 5.409330726244932,
+   "rank": 3.4429204720276814,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1098,7 +1226,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.398216775158956,
+   "rank": 3.435846685702627,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1132,7 +1260,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.6574455621917865,
+   "rank": 2.9643620412457112,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1160,7 +1288,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.396211177997011,
+   "rank": 2.798092080161989,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1188,7 +1316,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 4.313121420477813,
+   "rank": 2.7452072702555252,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1209,40 +1337,6 @@
    ]
   },
   {
-   "id": "nvidia-making-musl-proprietary-nvidia",
-   "title": "Making musl and proprietary NVIDIA drivers work together",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 4.053595242551519,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-06T13:23:14.000Z",
-   "latestAt": "2026-11-06T13:23:14.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Making musl and proprietary NVIDIA drivers work together",
-     "link": "https://chimera-linux.org/news/2026/11/musl-nvidia.html",
-     "publisher": "chimera-linux.org",
-     "publisherDomain": "chimera-linux.org",
-     "kind": "discussion",
-     "date": "2026-11-06T13:23:14.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "challenge-monopoly",
    "title": "How To Challenge A Monopoly In The AI Age",
    "category": {
@@ -1250,7 +1344,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.8871278316790963,
+   "rank": 2.4740716858269907,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1284,7 +1378,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.739569612916823,
+   "rank": 2.3801541130434085,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1312,7 +1406,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.503140854363798,
+   "rank": 2.2296723891124035,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1340,7 +1434,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.176842224955911,
+   "rank": 2.0219904617101108,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1374,7 +1468,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.7779659981667826,
+   "rank": 1.7681144839751035,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1406,7 +1500,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.565486316298228,
+   "rank": 1.6328758225551534,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1440,7 +1534,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.199340221910318,
+   "rank": 1.399831856874723,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1488,7 +1582,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.1676994255985913,
+   "rank": 1.379693183370372,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1516,7 +1610,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.047859549930641,
+   "rank": 1.3034177285713904,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1559,7 +1653,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.9987969928631326,
+   "rank": 1.2721904861108417,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1580,6 +1674,40 @@
    ]
   },
   {
+   "id": "anthropic-metr-independent-assessment-acceleration",
+   "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 1.2719774075468553,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-05T19:06:38.000Z",
+   "latestAt": "2026-11-05T19:06:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+     "link": "https://www.alignmentforum.org/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at",
+     "publisher": "Alignment Forum",
+     "publisherDomain": "alignmentforum.org",
+     "kind": "coverage",
+     "date": "2026-11-05T19:06:38.000Z",
+     "points": null,
+     "summary": "Executive summary From August 12 to October 29, 2026, METR staff performed a high-access evaluation at Anthropic to assess the degree to which AI is accelerating…"
+    }
+   ]
+  },
+  {
    "id": "cult-builds-operational-muscle",
    "title": "Cult.fit builds operational muscle with Codex",
    "category": {
@@ -1587,7 +1715,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.7544204519266609,
+   "rank": 1.1166501728533538,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1619,7 +1747,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.510105746050516,
+   "rank": 0.9611492162567667,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1653,7 +1781,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.5082698306280842,
+   "rank": 0.9599806963209934,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1685,7 +1813,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4250322162938194,
+   "rank": 0.9070017787917413,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1717,7 +1845,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.368188792940501,
+   "rank": 0.8708221854432054,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1734,469 +1862,6 @@
      "date": "2026-11-05T17:34:03.000Z",
      "points": null,
      "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . …"
-    }
-   ]
-  },
-  {
-   "id": "formally-verifying-agent-written",
-   "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.2273249893584146,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T16:00:00.000Z",
-   "latestAt": "2026-11-05T16:00:00.000Z",
-   "primary": {
-    "publisher": "Microsoft Research",
-    "link": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
-    "title": "Formally verifying agent-written full-stack web apps with PDD Kit"
-   },
-   "sources": [
-    {
-     "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
-     "link": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
-     "publisher": "Microsoft Research",
-     "publisherDomain": "microsoft.com",
-     "kind": "primary",
-     "date": "2026-11-05T16:00:00.000Z",
-     "points": null,
-     "summary": "AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what the developer…"
-    }
-   ]
-  },
-  {
-   "id": "agents-exclusive-aina-smart-ring",
-   "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 1.0684484608333773,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T14:00:00.000Z",
-   "latestAt": "2026-11-05T14:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-     "link": "https://www.wired.com/story/aina-smart-ring/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-05T14:00:00.000Z",
-     "points": null,
-     "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the…"
-    }
-   ]
-  },
-  {
-   "id": "dropbox-plans-350m-infrastructure",
-   "title": "Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [],
-   "rank": 1.0577260219579216,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T14:00:20.000Z",
-   "latestAt": "2026-11-05T14:00:20.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet",
-     "link": "https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition/",
-     "publisher": "Crunchbase News",
-     "publisherDomain": "news.crunchbase.com",
-     "kind": "coverage",
-     "date": "2026-11-05T14:00:20.000Z",
-     "points": null,
-     "summary": "Dropbox has announced plans to acquire Tigris Data for $350 million in a transaction the company told Crunchbase News would mark its largest acquisition since its…"
-    }
-   ]
-  },
-  {
-   "id": "reddit-founder-says-building",
-   "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.055114508316978,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T16:26:57.000Z",
-   "latestAt": "2026-11-05T16:26:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
-     "link": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-05T16:26:57.000Z",
-     "points": null,
-     "summary": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”"
-    }
-   ]
-  },
-  {
-   "id": "detecting-signs-hypertension-using",
-   "title": "Detecting signs of hypertension using wearable sensors",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.0241107928168915,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T16:01:08.000Z",
-   "latestAt": "2026-11-05T16:01:08.000Z",
-   "primary": {
-    "publisher": "Google Research",
-    "link": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
-    "title": "Detecting signs of hypertension using wearable sensors"
-   },
-   "sources": [
-    {
-     "title": "Detecting signs of hypertension using wearable sensors",
-     "link": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
-     "publisher": "Google Research",
-     "publisherDomain": "research.google",
-     "kind": "primary",
-     "date": "2026-11-05T16:01:08.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "text-watermarking-able-meet",
-   "title": "AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9543340449114861,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T15:00:03.000Z",
-   "latestAt": "2026-11-05T15:00:03.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules",
-     "link": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
-     "publisher": "IEEE Spectrum",
-     "publisherDomain": "spectrum.ieee.org",
-     "kind": "coverage",
-     "date": "2026-11-05T15:00:03.000Z",
-     "points": null,
-     "summary": "The European Union now requires AI-generated text to be watermarked so that it can be identified as such. But tests on OpenAI’s new textGrain watermark, released…"
-    }
-   ]
-  },
-  {
-   "id": "robotics-sector-snapshot-construction-robotics",
-   "title": "Sector Snapshot: Construction Robotics Funding Soars To $1.6B, Tripling Previous Peak",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "robotics",
-     "name": "Robotics",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.8846358569350137,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T12:00:59.000Z",
-   "latestAt": "2026-11-05T12:00:59.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Sector Snapshot: Construction Robotics Funding Soars To $1.6B, Tripling Previous Peak",
-     "link": "https://news.crunchbase.com/venture/sector-snapshot-2026-construction-robotics-funding-soars-bedrock/",
-     "publisher": "Crunchbase News",
-     "publisherDomain": "news.crunchbase.com",
-     "kind": "coverage",
-     "date": "2026-11-05T12:00:59.000Z",
-     "points": null,
-     "summary": "Companies spanning construction and robotics have raised about $1.6 billion so far this year — more than 4x the $389 million recorded in all of 2025…"
-    }
-   ]
-  },
-  {
-   "id": "download-texas-fragile-boom",
-   "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8824209245293029,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T13:10:00.000Z",
-   "latestAt": "2026-11-05T13:10:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-     "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-11-05T13:10:00.000Z",
-     "points": null,
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was…"
-    }
-   ]
-  },
-  {
-   "id": "robotics-agility-robotics-nasdaq-debut",
-   "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "robotics",
-     "name": "Robotics",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.8533002197327229,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T12:00:41.000Z",
-   "latestAt": "2026-11-05T12:00:41.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-     "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-05T12:00:41.000Z",
-     "points": null,
-     "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange."
-    }
-   ]
-  },
-  {
-   "id": "finding-drugs-laborious-this",
-   "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [],
-   "rank": 0.8307480530952193,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T13:00:00.000Z",
-   "latestAt": "2026-11-05T13:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-     "link": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-05T13:00:00.000Z",
-     "points": null,
-     "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of…"
-    }
-   ]
-  },
-  {
-   "id": "chinese-chipmaker-hong-bets",
-   "title": "Chinese chipmaker Hua Hong bets big on silicon photonics amid AI boom",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8148269845954574,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T13:27:39.000Z",
-   "latestAt": "2026-11-05T13:27:39.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Chinese chipmaker Hua Hong bets big on silicon photonics amid AI boom",
-     "link": "https://www.scmp.com/tech/big-tech/article/3373445/chinese-chipmaker-hua-hong-bets-big-silicon-photonics-amid-ai-boom",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-05T13:27:39.000Z",
-     "points": null,
-     "summary": "China’s second-largest contract chipmaker, Hua Hong Grace Semiconductor, is aggressively expanding into silicon photonics, as the company looks to capture the next wave of the global…"
-    }
-   ]
-  },
-  {
-   "id": "next-trick-speaking-dolphin",
-   "title": "AI’s Next Trick? Speaking Dolphin",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7751153411928111,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T12:00:00.000Z",
-   "latestAt": "2026-11-05T12:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI’s Next Trick? Speaking Dolphin",
-     "link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-05T12:00:00.000Z",
-     "points": null,
-     "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals."
-    }
-   ]
-  },
-  {
-   "id": "trolls-labs-living-they",
-   "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.761799323572725,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T11:45:00.000Z",
-   "latestAt": "2026-11-05T11:45:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-     "link": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-05T11:45:00.000Z",
-     "points": null,
-     "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots."
-    }
-   ]
-  },
-  {
-   "id": "gpt-robotics-powered-unitree-humanoid-robots",
-   "title": "Powered by GPT-6, Unitree humanoid robots master painting, chess without training, says CEO",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "robotics",
-     "name": "Robotics",
-     "kind": "topic"
-    },
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 0.6873520986863949,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T11:00:23.000Z",
-   "latestAt": "2026-11-05T11:00:23.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Powered by GPT-6, Unitree humanoid robots master painting, chess without training, says CEO",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3373423/powered-gpt-6-unitree-humanoid-robots-master-painting-chess-without-training-says-ceo",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-05T11:00:23.000Z",
-     "points": null,
-     "summary": "Robots developed by Chinese humanoid maker Unitree Robotics can now paint pictures and play chess without any prior training, relying on frontier AI models to navigate…"
-    }
-   ]
-  },
-  {
-   "id": "robotics-china-blocks-softbank-billion",
-   "title": "China blocks SoftBank’s US$5.4 billion takeover of ABB’s robotics division",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "robotics",
-     "name": "Robotics",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.658971458818752,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-05T10:23:53.000Z",
-   "latestAt": "2026-11-05T10:23:53.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "China blocks SoftBank’s US$5.4 billion takeover of ABB’s robotics division",
-     "link": "https://www.scmp.com/business/china-business/article/3373415/china-blocks-softbanks-us54-billion-takeover-abbs-robotics-division",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-05T10:23:53.000Z",
-     "points": null,
-     "summary": "China’s state planner has told Japanese investor SoftBank it will not allow the US$5.4 billion acquisition ‌of the robotics segment of engineering group ABB to go…"
     }
    ]
   }
