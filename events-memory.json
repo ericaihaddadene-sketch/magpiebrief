@@ -1,19 +1,20 @@
 {
- "nvidia-nvidia-board-directors-investigating": {
-  "id": "nvidia-nvidia-board-directors-investigating",
-  "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
-  "firstSeen": "2026-11-08T21:01:45.040Z",
+ "nvidia-nvidia-jensen-huang-letter": {
+  "id": "nvidia-nvidia-jensen-huang-letter",
+  "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+  "firstSeen": "2026-11-09T00:41:41.824Z",
   "publishers": [
-   "nvidianews.nvidia.com"
+   "The Verge",
+   "axios.com"
   ],
-  "sourceCount": 1,
+  "sourceCount": 3,
   "independentCount": 1,
-  "hadPrimary": true,
-  "category": "business"
+  "hadPrimary": false,
+  "category": "general"
  },
  "claude-goldman-sachs-pulling-claude": {
   "id": "claude-goldman-sachs-pulling-claude",
-  "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+  "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
   "firstSeen": "2026-11-08T21:01:45.040Z",
   "publishers": [
    "thestateofai.com"
@@ -23,12 +24,48 @@
   "hadPrimary": false,
   "category": "models"
  },
+ "parse-number-sqlite-extension": {
+  "id": "parse-number-sqlite-extension",
+  "title": "parse_number() as a SQLite extension: C vs Rust",
+  "firstSeen": "2026-11-09T00:41:41.824Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "tools"
+ },
+ "fight-brain": {
+  "id": "fight-brain",
+  "title": "How I Fight AI Brain Fry",
+  "firstSeen": "2026-11-08T21:01:45.040Z",
+  "publishers": [
+   "sergeykuhne.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "apple-agents-apple-racing-make-siri": {
   "id": "apple-agents-apple-racing-make-siri",
   "title": "Apple is racing to make Siri more agentic",
   "firstSeen": "2026-11-08T21:01:45.040Z",
   "publishers": [
    "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "dong-mingzhu-china-manufacturing": {
+  "id": "dong-mingzhu-china-manufacturing",
+  "title": "How Dong Mingzhu, China’s manufacturing ‘iron lady’, is maintaining her cool in the AI era",
+  "firstSeen": "2026-11-09T00:41:41.824Z",
+  "publishers": [
+   "SCMP Tech"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -47,42 +84,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "what-realistically-with-local": {
-  "id": "what-realistically-with-local",
-  "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
-  "firstSeen": "2026-11-08T21:01:45.040Z",
-  "publishers": [
-   "Lobsters"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "fight-brain": {
-  "id": "fight-brain",
-  "title": "How I Fight AI Brain Fry",
-  "firstSeen": "2026-11-08T21:01:45.040Z",
-  "publishers": [
-   "sergeykuhne.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "silicon-valley-promises-will": {
-  "id": "silicon-valley-promises-will",
-  "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-  "firstSeen": "2026-11-08T21:01:45.040Z",
-  "publishers": [
-   "The Wall Street Journal"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
  "deno-security-model-2024": {
   "id": "deno-security-model-2024",
   "title": "I'm not a fan of Deno's security model (2024)",
@@ -95,17 +96,17 @@
   "hadPrimary": false,
   "category": "general"
  },
- "agent-memory-needs-opentelemetry": {
-  "id": "agent-memory-needs-opentelemetry",
-  "title": "Agent memory needs its OpenTelemetry moment",
-  "firstSeen": "2026-11-08T10:06:49.438Z",
+ "asked-researchers-emnlp-whether": {
+  "id": "asked-researchers-emnlp-whether",
+  "title": "We asked 100 AI researchers at EMNLP whether AI could be conscious, how they define consciousness, and how they engage with it",
+  "firstSeen": "2026-11-09T00:41:41.824Z",
   "publishers": [
-   "lorekit.io"
+   "LessWrong"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
   "hadPrimary": false,
-  "category": "general"
+  "category": "research"
  },
  "deepseek-llama-llama-modchip-284b-deepseek": {
   "id": "deepseek-llama-llama-modchip-284b-deepseek",
@@ -119,6 +120,18 @@
   "hadPrimary": true,
   "category": "models"
  },
+ "what-realistically-with-local": {
+  "id": "what-realistically-with-local",
+  "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+  "firstSeen": "2026-11-08T21:01:45.040Z",
+  "publishers": [
+   "Lobsters"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "wants-crowdsource-scans-articles": {
   "id": "wants-crowdsource-scans-articles",
   "title": "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
@@ -130,18 +143,6 @@
   "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
- },
- "claude-goodbye-claude-hello": {
-  "id": "claude-goodbye-claude-hello",
-  "title": "Goodbye Claude, hello Pi",
-  "firstSeen": "2026-11-08T10:06:49.438Z",
-  "publishers": [
-   "caleb.software"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "models"
  },
  "notes-take-speeds": {
   "id": "notes-take-speeds",
@@ -171,30 +172,6 @@
   "id": "safety-help-people-outside-safety",
   "title": "Help people outside of AI safety circles",
   "firstSeen": "2026-11-08T21:01:45.040Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "safety-safety-course-update": {
-  "id": "safety-safety-course-update",
-  "title": "AI safety course update",
-  "firstSeen": "2026-11-08T21:01:45.040Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "tools"
- },
- "what-already-world-domination": {
-  "id": "what-already-world-domination",
-  "title": "What if the AI already won? World domination through digital supremacy",
-  "firstSeen": "2026-11-08T16:37:54.859Z",
   "publishers": [
    "LessWrong"
   ],
@@ -322,18 +299,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "business"
- },
- "meta-ai-meta-introduces-spaces-collaborate": {
-  "id": "meta-ai-meta-introduces-spaces-collaborate",
-  "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-  "firstSeen": "2026-11-07T00:49:10.111Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  },
  "quoting-nilay-patel": {
   "id": "quoting-nilay-patel",
@@ -527,72 +492,12 @@
   "hadPrimary": false,
   "category": "general"
  },
- "agents-measuring-agents-handle-everyday": {
-  "id": "agents-measuring-agents-handle-everyday",
-  "title": "Measuring how AI agents handle everyday wet-lab science",
-  "firstSeen": "2026-11-06T20:47:49.868Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
  "does-democratic-midterm-victory": {
   "id": "does-democratic-midterm-victory",
   "title": "Does the Democratic midterm victory spell the end of US AI data centre boom?",
   "firstSeen": "2026-11-06T06:14:37.562Z",
   "publishers": [
    "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "google-gemini-search-google-schools-keep-search": {
-  "id": "google-gemini-search-google-schools-keep-search",
-  "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-  "firstSeen": "2026-11-06T20:47:49.868Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
- },
- "egyptian-nigerian-english-join": {
-  "id": "egyptian-nigerian-english-join",
-  "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-  "firstSeen": "2026-11-06T14:55:40.179Z",
-  "publishers": [
-   "Hugging Face"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "gpt-copyright-lawsuit-introduced-wife-chatgpt": {
-  "id": "gpt-copyright-lawsuit-introduced-wife-chatgpt",
-  "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-  "firstSeen": "2026-11-06T00:01:39.414Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "policy"
- },
- "chatbots-have-arrived-here": {
-  "id": "chatbots-have-arrived-here",
-  "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-  "firstSeen": "2026-11-06T00:01:39.414Z",
-  "publishers": [
-   "Wired AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
