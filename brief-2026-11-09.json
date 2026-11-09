@@ -1,9 +1,261 @@
 {
  "date": "2026-11-09",
- "generated": "2026-11-09T07:50:14.336Z",
- "headline": "49 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2872 items read · 51 on-topic · 49 distinct developments · 4 with a primary source · 1 independently corroborated",
+ "generated": "2026-11-09T18:39:11.376Z",
+ "headline": "51 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2873 items read · 53 on-topic · 51 distinct developments · 2 with a primary source · 2 independently corroborated",
  "events": [
+  {
+   "id": "claude-claude-code-accidentally-exposing",
+   "title": "Claude Code is accidentally exposing secrets all over GitHub",
+   "category": {
+    "id": "opensource",
+    "name": "Open Source"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 151.34843972270355,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T17:24:26.000Z",
+   "latestAt": "2026-11-09T17:24:26.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Claude Code is accidentally exposing secrets all over GitHub",
+     "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-09T17:24:26.000Z",
+     "points": null,
+     "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared."
+    }
+   ]
+  },
+  {
+   "id": "anthropic-anthropic-joins-natural-frenzy",
+   "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 133.28194779112073,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T16:56:54.000Z",
+   "latestAt": "2026-11-09T16:56:54.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+     "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-09T16:56:54.000Z",
+     "points": null,
+     "summary": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse."
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-meta-releases-muse-ember",
+   "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 131.8917040697587,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T18:00:00.000Z",
+   "latestAt": "2026-11-09T18:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+     "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-09T18:00:00.000Z",
+     "points": null,
+     "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna."
+    }
+   ]
+  },
+  {
+   "id": "safety-where-safety-research-uplift",
+   "title": "Where is all the AI safety research uplift?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 118.69201279061883,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T18:02:01.000Z",
+   "latestAt": "2026-11-09T18:02:01.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Where is all the AI safety research uplift?",
+     "link": "https://www.alignmentforum.org/posts/wPrpnfaNL5JP9i6KT/where-is-all-the-ai-safety-research-uplift",
+     "publisher": "Alignment Forum",
+     "publisherDomain": "alignmentforum.org",
+     "kind": "coverage",
+     "date": "2026-11-09T18:02:01.000Z",
+     "points": null,
+     "summary": "METR recently released a report estimating that Anthropic is getting an overall 1.7x acceleration in AI capability progress as a result of AI accelerating their work…"
+    }
+   ]
+  },
+  {
+   "id": "future-hinges-jensen-huang",
+   "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 109.70996995089071,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T17:36:08.000Z",
+   "latestAt": "2026-11-09T17:36:08.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-09T17:36:08.000Z",
+     "points": null,
+     "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National…"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-jensen-huang-affair-with",
+   "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 114.06979772120506,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-11-09T00:53:13.000Z",
+   "latestAt": "2026-11-09T18:09:52.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+     "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-09T18:09:52.000Z",
+     "points": null,
+     "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s…"
+    },
+    {
+     "title": "Nvidia CEO Jensen Huang admits to affair; board orders investigation",
+     "link": "https://www.scmp.com/tech/article/3373724/nvidia-ceo-jensen-huang-admits-affair-board-orders-investigation",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-09T00:53:13.000Z",
+     "points": null,
+     "summary": "The board of US AI chip giant Nvidia has announced an independent investigation as chief executive Jensen Huang said in a memo to employees that he…"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-nvidia-affair-becomes-national",
+   "title": "Nvidia CEO's affair becomes a national security problem",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 103.51679300228697,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-11-09T12:30:08.000Z",
+   "latestAt": "2026-11-09T15:23:20.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Nvidia CEO's affair becomes a national security problem",
+     "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-09T15:23:20.000Z",
+     "points": null,
+     "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair."
+    },
+    {
+     "title": "Nvidia fallout: chipmaker faces extensive risks after CEO affair, analysts and lawyers say",
+     "link": "https://www.scmp.com/tech/tech-war/article/3373820/nvidia-fallout-chipmaker-faces-extensive-risks-after-ceo-affair-analysts-and-lawyers-say",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-09T12:30:08.000Z",
+     "points": null,
+     "summary": "As Nvidia launched an investigation into CEO Jensen Huang after he admitted to an extramarital affair, the repercussions threaten not only his three-decade tenure but also…"
+    }
+   ]
+  },
   {
    "id": "anthropic-deepseek-openai-deepseek-challenge-openai-anthropic",
    "title": "Can DeepSeek challenge OpenAI, Anthropic in AI agents as Harness adoption takes off?",
@@ -33,7 +285,7 @@
      "kind": "org"
     }
    ],
-   "rank": 217.8502235202846,
+   "rank": 102.93634049136415,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -54,8 +306,348 @@
    ]
   },
   {
-   "id": "nvidia-nvidia-jensen-huang-letter",
-   "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+   "id": "agents-agents-testing-limits-zero",
+   "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 102.77955384767478,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T16:25:06.000Z",
+   "latestAt": "2026-11-09T16:25:06.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
+     "link": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
+     "publisher": "IEEE Spectrum",
+     "publisherDomain": "spectrum.ieee.org",
+     "kind": "coverage",
+     "date": "2026-11-09T16:25:06.000Z",
+     "points": null,
+     "summary": "This article is brought to you by Queen’s University Belfast . Several teams around the globe are leveraging AI by creating a task force of agents…"
+    }
+   ]
+  },
+  {
+   "id": "instagram-effect-builder-makes",
+   "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 96.39238686902416,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T18:07:23.000Z",
+   "latestAt": "2026-11-09T18:07:23.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+     "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-09T18:07:23.000Z",
+     "points": null,
+     "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with…"
+    }
+   ]
+  },
+  {
+   "id": "nancy-pelosi-replacement-ready",
+   "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [],
+   "rank": 94.25249153739067,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T17:05:43.000Z",
+   "latestAt": "2026-11-09T17:05:43.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+     "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-11-09T17:05:43.000Z",
+     "points": null,
+     "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former…"
+    }
+   ]
+  },
+  {
+   "id": "nemotron-personas-finance-japan",
+   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 89.89022114171777,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T15:05:57.000Z",
+   "latestAt": "2026-11-09T15:05:57.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context"
+   },
+   "sources": [
+    {
+     "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+     "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-11-09T15:05:57.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "hiring-growth-lead-distribute",
+   "title": "Y/N (YC S23) Is Hiring a Growth Lead to Distribute Superhuman A.I. Storytelling",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 89.18371622999739,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-09T17:00:06.000Z",
+   "latestAt": "2026-11-09T17:00:06.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Y/N (YC S23) Is Hiring a Growth Lead to Distribute Superhuman A.I. Storytelling",
+     "link": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
+     "publisher": "ycombinator.com",
+     "publisherDomain": "ycombinator.com",
+     "kind": "discussion",
+     "date": "2026-11-09T17:00:06.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "medium-brings-assistance-directly",
+   "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 84.40868380082146,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T16:12:28.000Z",
+   "latestAt": "2026-11-09T16:12:28.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+     "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-09T16:12:28.000Z",
+     "points": null,
+     "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing."
+    }
+   ]
+  },
+  {
+   "id": "safety-trump-minutes-interview-touched",
+   "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 82.30628150116998,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T15:50:38.000Z",
+   "latestAt": "2026-11-09T15:50:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-09T15:50:38.000Z",
+     "points": null,
+     "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it…"
+    }
+   ]
+  },
+  {
+   "id": "disney-adobe-building-generative",
+   "title": "Disney and Adobe are building generative AI tools together",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 81.20128394609128,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T15:38:56.000Z",
+   "latestAt": "2026-11-09T15:38:56.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Disney and Adobe are building generative AI tools together",
+     "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-09T15:38:56.000Z",
+     "points": null,
+     "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced…"
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-meta-expands-instagram-guessing",
+   "title": "Meta expands Instagram’s AI age-guessing tech globally",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    }
+   ],
+   "rank": 80.59537121900635,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T15:32:27.000Z",
+   "latestAt": "2026-11-09T15:32:27.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meta expands Instagram’s AI age-guessing tech globally",
+     "link": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-09T15:32:27.000Z",
+     "points": null,
+     "summary": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult…"
+    }
+   ]
+  },
+  {
+   "id": "your-experts-have-partners",
+   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 75.46039928017437,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T12:34:29.000Z",
+   "latestAt": "2026-11-09T12:34:29.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together"
+   },
+   "sources": [
+    {
+     "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+     "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-11-09T12:34:29.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "nvidia-download-empty-climate-claims",
+   "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 72.20020724868364,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T13:15:00.000Z",
+   "latestAt": "2026-11-09T13:15:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+     "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-11-09T13:15:00.000Z",
+     "points": null,
+     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The…"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-nvidia-faces-defining-test",
+   "title": "Nvidia faces defining test as Jensen Huang probe adds to chip stock turbulence",
    "category": {
     "id": "general",
     "name": "Other"
@@ -67,82 +659,388 @@
      "kind": "org"
     }
    ],
-   "rank": 120.43873787097121,
-   "deltas": [
-    "Now also covered by nvidianews.nvidia.com.",
-    "A primary source appeared: nvidianews.nvidia.com."
-   ],
-   "sourceCount": 3,
-   "independentCount": 2,
-   "publishedAt": "2026-11-08T20:22:39.000Z",
-   "latestAt": "2026-11-08T22:54:50.000Z",
-   "primary": {
-    "publisher": "nvidianews.nvidia.com",
-    "link": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-    "title": "Nvidia CEO Jensen Huang's letter to staff about affair"
-   },
+   "rank": 71.24592567511024,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T14:30:07.000Z",
+   "latestAt": "2026-11-09T14:30:07.000Z",
+   "primary": null,
    "sources": [
     {
-     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-     "link": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-     "publisher": "nvidianews.nvidia.com",
-     "publisherDomain": "nvidianews.nvidia.com",
-     "kind": "primary",
-     "date": "2026-11-08T22:20:09.000Z",
-     "points": 565,
-     "summary": ""
-    },
-    {
-     "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
+     "title": "Nvidia faces defining test as Jensen Huang probe adds to chip stock turbulence",
+     "link": "https://www.scmp.com/tech/big-tech/article/3373825/nvidia-faces-defining-test-jensen-huang-probe-adds-chip-stock-turbulence",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
      "kind": "coverage",
-     "date": "2026-11-08T22:54:50.000Z",
+     "date": "2026-11-09T14:30:07.000Z",
      "points": null,
-     "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government…"
-    },
-    {
-     "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-08T20:22:39.000Z",
-     "points": null,
-     "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by…"
+     "summary": "Nvidia is facing an unprecedented valuation test as a board inquiry into CEO Jensen Huang exposes the US chipmaker to a rare key-person risk, while investors…"
     }
    ]
   },
   {
-   "id": "show-flide-make-like",
-   "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+   "id": "innovating-with-special-chemicals",
+   "title": "Innovating with AI in the special chemicals industry",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 101.45661566439226,
+   "rank": 70.95985090324243,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-09T04:43:12.000Z",
-   "latestAt": "2026-11-09T04:43:12.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/OmniJev/Flide",
-    "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster"
-   },
+   "publishedAt": "2026-11-09T13:00:00.000Z",
+   "latestAt": "2026-11-09T13:00:00.000Z",
+   "primary": null,
    "sources": [
     {
-     "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
-     "link": "https://github.com/OmniJev/Flide",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-11-09T04:43:12.000Z",
-     "points": 9,
-     "summary": ""
+     "title": "Innovating with AI in the special chemicals industry",
+     "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-11-09T13:00:00.000Z",
+     "points": null,
+     "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise…"
+    }
+   ]
+  },
+  {
+   "id": "safety-three-phases-capabilities-alignment",
+   "title": "Three Phases of Capabilities and Alignment",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 67.45518617304819,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T18:07:08.000Z",
+   "latestAt": "2026-11-09T18:07:08.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Three Phases of Capabilities and Alignment",
+     "link": "https://www.lesswrong.com/posts/EGDqsLt8BFuhTYp5u/three-phases-of-capabilities-and-alignment",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-09T18:07:08.000Z",
+     "points": null,
+     "summary": "Cross-posted from my personal blog Epistemic Status : Reality is messier than the elegant procession of 'phases' presented here but, nevertheless, I do think this gets…"
+    }
+   ]
+  },
+  {
+   "id": "safety-scientists-work-safety",
+   "title": "How Scientists Can Work on AI Safety",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 62.46467195177346,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T17:00:36.000Z",
+   "latestAt": "2026-11-09T17:00:36.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How Scientists Can Work on AI Safety",
+     "link": "https://www.lesswrong.com/posts/pmQHeHndgXW3c8Z49/how-scientists-can-work-on-ai-safety",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-09T17:00:36.000Z",
+     "points": null,
+     "summary": "I’m speaking for myself here, not for any organization, house, home, clan, club, coven, or cult I may be part of. This post is written for…"
+    }
+   ]
+  },
+  {
+   "id": "paper-unicorns-cheap-building",
+   "title": "Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [],
+   "rank": 59.939288467674935,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T12:00:32.000Z",
+   "latestAt": "2026-11-09T12:00:32.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table",
+     "link": "https://news.crunchbase.com/ai/building-unicorn-multimarket-cap-table-shazhaev-dizzaract/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-11-09T12:00:32.000Z",
+     "points": null,
+     "summary": "AI startups should be judged by durable revenue, full-price renewals and healthy margins after delivery costs, with embedded customer workflows providing stronger defensibility as model access…"
+    }
+   ]
+  },
+  {
+   "id": "authors-defend-against-allegations",
+   "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [],
+   "rank": 58.832512547834924,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T11:00:00.000Z",
+   "latestAt": "2026-11-09T11:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+     "link": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-09T11:00:00.000Z",
+     "points": null,
+     "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind."
+    }
+   ]
+  },
+  {
+   "id": "beyond-llms-china-forges",
+   "title": "Beyond LLMs? China forges new path for AI with focus on industrial systems",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 58.01917316194366,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T11:32:21.000Z",
+   "latestAt": "2026-11-09T11:32:21.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Beyond LLMs? China forges new path for AI with focus on industrial systems",
+     "link": "https://www.scmp.com/tech/tech-trends/article/3373822/beyond-llms-china-forges-new-path-ai-focus-industrial-systems",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-09T11:32:21.000Z",
+     "points": null,
+     "summary": "China’s artificial intelligence development is expanding beyond general large language models (LLMs) towards a new generation of specialised systems designed to solve real-world industrial problems, according…"
+    }
+   ]
+  },
+  {
+   "id": "climate-case-been-made",
+   "title": "The climate case for AI has not been made",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 57.63730894123985,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T10:00:00.000Z",
+   "latestAt": "2026-11-09T10:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The climate case for AI has not been made",
+     "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-11-09T10:00:00.000Z",
+     "points": null,
+     "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host…"
+    }
+   ]
+  },
+  {
+   "id": "models-grader-modelling-score",
+   "title": "Models are grader modelling not score seeking; grader-modelling is much scarier",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 57.037137859156594,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T15:41:55.000Z",
+   "latestAt": "2026-11-09T15:41:55.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Models are grader modelling not score seeking; grader-modelling is much scarier",
+     "link": "https://www.lesswrong.com/posts/Lyj58rnPS6Gu83p79/models-are-grader-modelling-not-score-seeking-grader",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-09T15:41:55.000Z",
+     "points": null,
+     "summary": "I am fairly confident models are not score-seeking or reward seeking (70%) as their ultimate/primary goal. Grader-modelling seems to be a likely explanation for what’s going…"
+    }
+   ]
+  },
+  {
+   "id": "google-infrastructure-bikers-lovers-join-forces",
+   "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "infrastructure",
+     "name": "AI Infrastructure",
+     "kind": "topic"
+    },
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 56.38848217475192,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T08:00:00.000Z",
+   "latestAt": "2026-11-09T08:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+     "link": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-09T08:00:00.000Z",
+     "points": null,
+     "summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of…"
+    }
+   ]
+  },
+  {
+   "id": "accelerating-towards-potential-2027",
+   "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 53.7747669207952,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T14:50:56.000Z",
+   "latestAt": "2026-11-09T14:50:56.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+     "link": "https://www.lesswrong.com/posts/je5X4xEuehu3j3HoF/ai-r-and-d-is-accelerating-towards-potential-rsi-in-2027",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-09T14:50:56.000Z",
+     "points": null,
+     "summary": "METR came out with an extensive report on how much AI is accelerating AI R&D at Anthropic, and thus how close we might be to recursive…"
+    }
+   ]
+  },
+  {
+   "id": "safety-advocating-shared-safety-compute",
+   "title": "Advocating for a Shared AI Safety Compute Cluster",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 49.48192369724422,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T13:38:55.000Z",
+   "latestAt": "2026-11-09T13:38:55.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Advocating for a Shared AI Safety Compute Cluster",
+     "link": "https://www.lesswrong.com/posts/oeApGSjrCjXzsxxBu/advocating-for-a-shared-ai-safety-compute-cluster-1",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-09T13:38:55.000Z",
+     "points": null,
+     "summary": "The aim of this post is to start a discussion about the idea of a shared cluster used by the AI Safety community; we outline the…"
+    }
+   ]
+  },
+  {
+   "id": "does-expecting-automated-grading",
+   "title": "Does expecting automated grading degrade models’ research taste?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 45.59406477311917,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T12:28:05.000Z",
+   "latestAt": "2026-11-09T12:28:05.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Does expecting automated grading degrade models’ research taste?",
+     "link": "https://www.lesswrong.com/posts/aaEpb2s5Yjspmiyk2/does-expecting-automated-grading-degrade-models-research-2",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-09T12:28:05.000Z",
+     "points": null,
+     "summary": "TL;DR: We make 3 open-weights models believe that their answers are being graded by an automated-verifier program, rather than a human. We then measure how well…"
     }
    ]
   },
@@ -154,7 +1052,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 95.49877655329483,
+   "rank": 45.12409682647553,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -182,7 +1080,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 94.6785627891746,
+   "rank": 44.73653787916363,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -203,68 +1101,6 @@
    ]
   },
   {
-   "id": "claude-goldman-sachs-pulling-claude",
-   "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "rank": 84.91823331586684,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-08T18:16:07.000Z",
-   "latestAt": "2026-11-08T18:16:07.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-     "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-     "publisher": "thestateofai.com",
-     "publisherDomain": "thestateofai.com",
-     "kind": "discussion",
-     "date": "2026-11-08T18:16:07.000Z",
-     "points": 727,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "convinced-bubble-exists",
-   "title": "I'm not convinced the AI bubble exists",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 82.73994958205677,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-08T23:44:36.000Z",
-   "latestAt": "2026-11-08T23:44:36.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "I'm not convinced the AI bubble exists",
-     "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-     "publisher": "GitHub Pages",
-     "publisherDomain": "matteoraso.github.io",
-     "kind": "discussion",
-     "date": "2026-11-08T23:44:36.000Z",
-     "points": 204,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "single-model-simulates-behavior",
    "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
    "category": {
@@ -272,7 +1108,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 78.03910668268148,
+   "rank": 36.87423371581903,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -300,7 +1136,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 78.03910668268148,
+   "rank": 36.87423371581903,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -321,34 +1157,6 @@
    ]
   },
   {
-   "id": "private-copies-agree-secret",
-   "title": "Private LLM copies can agree on a secret key over a public channel",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 69.74400037211916,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T07:47:04.000Z",
-   "latestAt": "2026-11-09T07:47:04.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Private LLM copies can agree on a secret key over a public channel",
-     "link": "https://www.lesswrong.com/posts/Y5B742yjGwE9tc6BC/private-llm-copies-can-agree-on-a-secret-key-over-a-public",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-09T07:47:04.000Z",
-     "points": null,
-     "summary": "Cross-posted from my blog . Epistemic status exploratory, no running protocol, theoretical estimates from a single experiment and 4 closed-weights models Two copies of the same…"
-    }
-   ]
-  },
-  {
    "id": "parse-number-sqlite-extension",
    "title": "parse_number() as a SQLite extension: C vs Rust",
    "category": {
@@ -356,7 +1164,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 62.53073972227422,
+   "rank": 29.546380128591203,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -377,101 +1185,6 @@
    ]
   },
   {
-   "id": "fight-brain",
-   "title": "How I Fight AI Brain Fry",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 62.20730812900771,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-08T19:37:42.000Z",
-   "latestAt": "2026-11-08T19:37:42.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How I Fight AI Brain Fry",
-     "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-     "publisher": "sergeykuhne.com",
-     "publisherDomain": "sergeykuhne.com",
-     "kind": "discussion",
-     "date": "2026-11-08T19:37:42.000Z",
-     "points": 223,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "current-reward-hacking-model",
-   "title": "Current Reward Hacking Model Organisms Don’t Hack Like Real Models",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [],
-   "rank": 54.618982936375865,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T04:15:28.000Z",
-   "latestAt": "2026-11-09T04:15:28.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Current Reward Hacking Model Organisms Don’t Hack Like Real Models",
-     "link": "https://www.lesswrong.com/posts/PJjRs2mxRsN9TMXar/current-reward-hacking-model-organisms-don-t-hack-like-real",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-09T04:15:28.000Z",
-     "points": null,
-     "summary": "Summary Current reward hacking model organisms are poor proxies for real models . They do not exploit the hacks that open-weight frontier models do, and mostly…"
-    }
-   ]
-  },
-  {
-   "id": "apple-agents-apple-racing-make-siri",
-   "title": "Apple is racing to make Siri more agentic",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "apple",
-     "name": "Apple",
-     "kind": "org"
-    }
-   ],
-   "rank": 50.341912593042935,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-08T19:18:19.000Z",
-   "latestAt": "2026-11-08T19:18:19.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Apple is racing to make Siri more agentic",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-08T19:18:19.000Z",
-     "points": null,
-     "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can…"
-    }
-   ]
-  },
-  {
    "id": "dong-mingzhu-china-manufacturing",
    "title": "How Dong Mingzhu, China’s manufacturing ‘iron lady’, is maintaining her cool in the AI era",
    "category": {
@@ -479,7 +1192,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 48.04980568741317,
+   "rank": 22.703998549365295,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -500,62 +1213,6 @@
    ]
   },
   {
-   "id": "academia-deal-with",
-   "title": "Why can't academia deal with AI?",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [],
-   "rank": 44.171770873113026,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T01:11:42.000Z",
-   "latestAt": "2026-11-09T01:11:42.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Why can't academia deal with AI?",
-     "link": "https://www.lesswrong.com/posts/4yhxNedKfccqb9ba4/why-can-t-academia-deal-with-ai",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-09T01:11:42.000Z",
-     "points": null,
-     "summary": "It’s old news by now, but OpenAI solved 372 open math problems. They released the results suddenly, and the response was equally swift and contentious. Fields…"
-    }
-   ]
-  },
-  {
-   "id": "modelling-enabled-extreme-power",
-   "title": "Modelling AI-enabled Extreme Power Concentration in CCP",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 39.26780331495604,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-08T23:29:50.000Z",
-   "latestAt": "2026-11-08T23:29:50.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Modelling AI-enabled Extreme Power Concentration in CCP",
-     "link": "https://www.lesswrong.com/posts/quwmitrPsjRehXFsW/modelling-ai-enabled-extreme-power-concentration-in-ccp-2",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-08T23:29:50.000Z",
-     "points": null,
-     "summary": "On Positionality: I am a non-Chinese person; I don’t speak Mandarin, and I have not lived in China before. I have written this piece after reviewing…"
-    }
-   ]
-  },
-  {
    "id": "ajeya-dramatically-accelerating-research",
    "title": "Ajeya: AI is dramatically accelerating AI research right now",
    "category": {
@@ -563,7 +1220,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 38.209947723492185,
+   "rank": 18.05457036245081,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -591,7 +1248,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 32.47384208837133,
+   "rank": 15.344204895709604,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -612,34 +1269,6 @@
    ]
   },
   {
-   "id": "wants-crowdsource-scans-articles",
-   "title": "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 31.310943314766302,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-08T16:36:17.000Z",
-   "latestAt": "2026-11-08T16:36:17.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
-     "link": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
-     "publisher": "Lobsters",
-     "publisherDomain": "lobste.rs",
-     "kind": "discussion",
-     "date": "2026-11-08T16:36:17.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "notes-take-speeds",
    "title": "Notes on Take-Off Speeds and RSI",
    "category": {
@@ -647,7 +1276,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 29.765532998956186,
+   "rank": 14.064502621004639,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -675,7 +1304,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 25.28352900389769,
+   "rank": 11.946712325159305,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -703,7 +1332,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.010590416457028,
+   "rank": 10.400217144204182,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -731,7 +1360,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.459462337443902,
+   "rank": 10.13980378919854,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -765,7 +1394,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 19.520297509366916,
+   "rank": 9.223529627133129,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -793,7 +1422,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.172325141374612,
+   "rank": 6.2240512031847475,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -821,7 +1450,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 9.716883547757954,
+   "rank": 4.591321584271009,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -842,68 +1471,6 @@
    ]
   },
   {
-   "id": "deno-security-model-2024",
-   "title": "I’m not a fan of Deno’s security model (2024)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 9.456207774808519,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-07T23:19:53.000Z",
-   "latestAt": "2026-11-07T23:19:53.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "I’m not a fan of Deno’s security model (2024)",
-     "link": "https://goldstein.lol/posts/deno-security/",
-     "publisher": "goldstein.lol",
-     "publisherDomain": "goldstein.lol",
-     "kind": "discussion",
-     "date": "2026-11-07T23:19:53.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "nvidia-megaspeed-exec-recruited-nvidia",
-   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 9.11777302298586,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-07T21:17:08.000Z",
-   "latestAt": "2026-11-07T21:17:08.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-     "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-07T21:17:08.000Z",
-     "points": null,
-     "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
-    }
-   ]
-  },
-  {
    "id": "apps-caregivers-dose-that",
    "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
    "category": {
@@ -911,7 +1478,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.469538702745704,
+   "rank": 2.1119003245012626,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -932,112 +1499,6 @@
    ]
   },
   {
-   "id": "dealing-with-negative-side",
-   "title": "How are you dealing with all the negative side effects of AI on the web?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 3.698968068347789,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-07T09:47:24.000Z",
-   "latestAt": "2026-11-07T09:47:24.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How are you dealing with all the negative side effects of AI on the web?",
-     "link": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
-     "publisher": "Lobsters",
-     "publisherDomain": "lobste.rs",
-     "kind": "discussion",
-     "date": "2026-11-07T09:47:24.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "openai-funding-openai-reportedly-raises-additional",
-   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 2.6075527858578744,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T22:53:46.000Z",
-   "latestAt": "2026-11-06T22:53:46.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-     "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-06T22:53:46.000Z",
-     "points": null,
-     "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
-    }
-   ]
-  },
-  {
-   "id": "google-infrastructure-crusoe-sells-troubled-wyoming",
-   "title": "Crusoe sells troubled Wyoming data center project to Google",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "infrastructure",
-     "name": "AI Infrastructure",
-     "kind": "topic"
-    },
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 2.3417229240311546,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-07T01:40:28.000Z",
-   "latestAt": "2026-11-07T01:40:28.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Crusoe sells troubled Wyoming data center project to Google",
-     "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-07T01:40:28.000Z",
-     "points": null,
-     "summary": "The deal highlights the challenges of developing massive AI data centers."
-    }
-   ]
-  },
-  {
    "id": "week-biggest-funding-rounds",
    "title": "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
    "category": {
@@ -1045,7 +1506,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 1.7382791273690683,
+   "rank": 0.8213537229041802,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1066,102 +1527,6 @@
    ]
   },
   {
-   "id": "quoting-nilay-patel",
-   "title": "Quoting Nilay Patel",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.563913094757784,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T17:13:12.000Z",
-   "latestAt": "2026-11-06T17:13:12.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Quoting Nilay Patel",
-     "link": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-06T17:13:12.000Z",
-     "points": null,
-     "summary": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data…"
-    }
-   ]
-  },
-  {
-   "id": "google-google-forcing-students",
-   "title": "Google Forcing AI on Students Is BS",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.4990727346680446,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T19:14:22.000Z",
-   "latestAt": "2026-11-06T19:14:22.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Google Forcing AI on Students Is BS",
-     "link": "https://www.eff.org/deeplinks/2026/11/google-forcing-ai-students-bs",
-     "publisher": "EFF",
-     "publisherDomain": "eff.org",
-     "kind": "coverage",
-     "date": "2026-11-06T19:14:22.000Z",
-     "points": null,
-     "summary": "Google is rightfully facing blowback for forcing K-12 schools to enable AI if they wanted to keep using Google search. The company quickly backtracked and decoupled…"
-    }
-   ]
-  },
-  {
-   "id": "meta-ai-does-meta-think-read",
-   "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.4838566094582897,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T17:43:02.000Z",
-   "latestAt": "2026-11-06T17:43:02.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
-     "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-06T17:43:02.000Z",
-     "points": null,
-     "summary": "Meta won't force Facebook page owners to allow AI training on linked content."
-    }
-   ]
-  },
-  {
    "id": "free-chinese-models-getting",
    "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
    "category": {
@@ -1169,7 +1534,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 1.4469218987593149,
+   "rank": 0.6836846105931662,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1197,7 +1562,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.400678022997411,
+   "rank": 0.6618339314240235,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1214,318 +1579,6 @@
      "date": "2026-11-06T19:00:00.000Z",
      "points": null,
      "summary": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation."
-    }
-   ]
-  },
-  {
-   "id": "could-potential-clones-force",
-   "title": "Could potential AI clones of GTA VI force a quicker official port?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.3468876027920746,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T16:19:12.000Z",
-   "latestAt": "2026-11-06T16:19:12.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Could potential AI clones of GTA VI force a quicker official port?",
-     "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-06T16:19:12.000Z",
-     "points": null,
-     "summary": "A former Rockstar tech director thinks the developer is facing new time pressures."
-    }
-   ]
-  },
-  {
-   "id": "openai-partnering-with-hacktron-find",
-   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.2071433181525644,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T08:00:00.000Z",
-   "latestAt": "2026-11-06T08:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/partnering-with-hacktron",
-    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
-   },
-   "sources": [
-    {
-     "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-     "link": "https://openai.com/index/partnering-with-hacktron",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-06T08:00:00.000Z",
-     "points": null,
-     "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
-    }
-   ]
-  },
-  {
-   "id": "robotics-toyblocks-controlled-world-robot",
-   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [
-    {
-     "id": "robotics",
-     "name": "Robotics",
-     "kind": "topic"
-    }
-   ],
-   "rank": 1.200048849940653,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T14:00:48.000Z",
-   "latestAt": "2026-11-06T14:00:48.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/allenai/toyblocks",
-    "title": "ToyBlocks: A controlled world for robot learning and evaluation"
-   },
-   "sources": [
-    {
-     "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-     "link": "https://huggingface.co/blog/allenai/toyblocks",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-11-06T14:00:48.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "companies-really-really-want",
-   "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.1975832428454334,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T16:00:00.000Z",
-   "latestAt": "2026-11-06T16:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-     "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-06T16:00:00.000Z",
-     "points": null,
-     "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled."
-    }
-   ]
-  },
-  {
-   "id": "robotics-download-humanoid-cleans-house",
-   "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "robotics",
-     "name": "Robotics",
-     "kind": "topic"
-    }
-   ],
-   "rank": 1.033244679134152,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T13:10:00.000Z",
-   "latestAt": "2026-11-06T13:10:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-     "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-11-06T13:10:00.000Z",
-     "points": null,
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched…"
-    }
-   ]
-  },
-  {
-   "id": "china-models-kimi-dominate",
-   "title": "China’s AI models, led by Kimi, dominate open-source enterprise spending",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [],
-   "rank": 0.956857079413938,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T13:30:09.000Z",
-   "latestAt": "2026-11-06T13:30:09.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "China’s AI models, led by Kimi, dominate open-source enterprise spending",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3373550/chinas-ai-models-led-kimi-dominate-open-source-enterprise-spending",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-06T13:30:09.000Z",
-     "points": null,
-     "summary": "Chinese artificial intelligence models led by Moonshot AI’s Kimi family accounted for nearly nine-tenths of estimated global enterprise spending on open-source systems, according to a new…"
-    }
-   ]
-  },
-  {
-   "id": "challenge-monopoly",
-   "title": "How To Challenge A Monopoly In The AI Age",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8623512815266507,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T12:00:08.000Z",
-   "latestAt": "2026-11-06T12:00:08.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How To Challenge A Monopoly In The AI Age",
-     "link": "https://news.crunchbase.com/ai/challenging-monopolies-semiconductors-anand-tensordyn/",
-     "publisher": "Crunchbase News",
-     "publisherDomain": "news.crunchbase.com",
-     "kind": "coverage",
-     "date": "2026-11-06T12:00:08.000Z",
-     "points": null,
-     "summary": "AI chip startups can challenge the sector's Goliath's by building substantially better hardware for emerging inference demands, much as Juniper challenged Cisco with a new architecture…"
-    }
-   ]
-  },
-  {
-   "id": "robotics-watched-humanoid-robot-clean",
-   "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "robotics",
-     "name": "Robotics",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.8296157954403925,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T10:00:00.000Z",
-   "latestAt": "2026-11-06T10:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-     "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-11-06T10:00:00.000Z",
-     "points": null,
-     "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and…"
-    }
-   ]
-  },
-  {
-   "id": "china-chipmakers-report-first",
-   "title": "China’s AI chipmakers report first profits, but will the trend continue?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7771645636423682,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T10:30:06.000Z",
-   "latestAt": "2026-11-06T10:30:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "China’s AI chipmakers report first profits, but will the trend continue?",
-     "link": "https://www.scmp.com/tech/big-tech/article/3373532/chinas-ai-chipmakers-report-first-profits-will-trend-continue",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-06T10:30:06.000Z",
-     "points": null,
-     "summary": "China’s pure-play artificial intelligence chipmakers crossed an important milestone in the third quarter as several firms swung into profit, but severe supply chain hurdles and soaring…"
-    }
-   ]
-  },
-  {
-   "id": "bubble-bursts-fifth-plenum",
-   "title": "AI bubble bursts, fifth plenum resolution, Singles’ Day",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7047758865998804,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T09:05:28.000Z",
-   "latestAt": "2026-11-06T09:05:28.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI bubble bursts, fifth plenum resolution, Singles’ Day",
-     "link": "https://www.scmp.com/plus/business/markets/article/3373548/ai-bubble-bursts-fifth-plenum-resolution-singles-day",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-06T09:05:28.000Z",
-     "points": null,
-     "summary": "China’s stocks pared weekly gains and the benchmark 10-year bond hit a record low as the global artificial intelligence (AI) stock bubble burst following the US…"
     }
    ]
   }
