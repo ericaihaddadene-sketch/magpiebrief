@@ -1,9 +1,58 @@
 {
  "date": "2026-11-09",
- "generated": "2026-11-09T00:41:41.879Z",
- "headline": "42 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2872 items read · 44 on-topic · 42 distinct developments · 3 with a primary source · 0 independently corroborated",
+ "generated": "2026-11-09T07:50:14.336Z",
+ "headline": "49 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2872 items read · 51 on-topic · 49 distinct developments · 4 with a primary source · 1 independently corroborated",
  "events": [
+  {
+   "id": "anthropic-deepseek-openai-deepseek-challenge-openai-anthropic",
+   "title": "Can DeepSeek challenge OpenAI, Anthropic in AI agents as Harness adoption takes off?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "deepseek",
+     "name": "DeepSeek",
+     "kind": "org"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 217.8502235202846,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T07:00:04.000Z",
+   "latestAt": "2026-11-09T07:00:04.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Can DeepSeek challenge OpenAI, Anthropic in AI agents as Harness adoption takes off?",
+     "link": "https://www.scmp.com/tech/big-tech/article/3373757/can-deepseek-challenge-openai-anthropic-ai-agents-harness-adoption-takes",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-09T07:00:04.000Z",
+     "points": null,
+     "summary": "DeepSeek’s Harness artificial intelligence agent framework has reached 1.54 million daily active users less than three months after launch, the Chinese AI champion said on Sunday…"
+    }
+   ]
+  },
   {
    "id": "nvidia-nvidia-jensen-huang-letter",
    "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
@@ -18,14 +67,31 @@
      "kind": "org"
     }
    ],
-   "rank": 145.28925207622504,
-   "deltas": [],
+   "rank": 120.43873787097121,
+   "deltas": [
+    "Now also covered by nvidianews.nvidia.com.",
+    "A primary source appeared: nvidianews.nvidia.com."
+   ],
    "sourceCount": 3,
-   "independentCount": 1,
+   "independentCount": 2,
    "publishedAt": "2026-11-08T20:22:39.000Z",
    "latestAt": "2026-11-08T22:54:50.000Z",
-   "primary": null,
+   "primary": {
+    "publisher": "nvidianews.nvidia.com",
+    "link": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+    "title": "Nvidia CEO Jensen Huang's letter to staff about affair"
+   },
    "sources": [
+    {
+     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+     "link": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+     "publisher": "nvidianews.nvidia.com",
+     "publisherDomain": "nvidianews.nvidia.com",
+     "kind": "primary",
+     "date": "2026-11-08T22:20:09.000Z",
+     "points": 565,
+     "summary": ""
+    },
     {
      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
@@ -45,16 +111,94 @@
      "date": "2026-11-08T20:22:39.000Z",
      "points": null,
      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by…"
-    },
+    }
+   ]
+  },
+  {
+   "id": "show-flide-make-like",
+   "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 101.45661566439226,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T04:43:12.000Z",
+   "latestAt": "2026-11-09T04:43:12.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/OmniJev/Flide",
+    "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster"
+   },
+   "sources": [
     {
-     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-     "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-     "publisher": "axios.com",
-     "publisherDomain": "axios.com",
-     "kind": "discussion",
-     "date": "2026-11-08T22:20:09.000Z",
-     "points": 281,
+     "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+     "link": "https://github.com/OmniJev/Flide",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-11-09T04:43:12.000Z",
+     "points": 9,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "more-than-enough-paul",
+   "title": "The Web Is More Than Enough, by Paul Ford",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 95.49877655329483,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T04:32:33.000Z",
+   "latestAt": "2026-11-09T04:32:33.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Web Is More Than Enough, by Paul Ford",
+     "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-09T04:32:33.000Z",
+     "points": null,
+     "summary": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's…"
+    }
+   ]
+  },
+  {
+   "id": "hide-your-slop-descriptions",
+   "title": "Hide your slop PR descriptions behind",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 94.6785627891746,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T04:25:05.000Z",
+   "latestAt": "2026-11-09T04:25:05.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Hide your slop PR descriptions behind",
+     "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-09T04:25:05.000Z",
+     "points": null,
+     "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The…"
     }
    ]
   },
@@ -72,7 +216,7 @@
      "kind": "model"
     }
    ],
-   "rank": 139.31797427392092,
+   "rank": 84.91823331586684,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -87,8 +231,120 @@
      "publisherDomain": "thestateofai.com",
      "kind": "discussion",
      "date": "2026-11-08T18:16:07.000Z",
-     "points": 562,
+     "points": 727,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "convinced-bubble-exists",
+   "title": "I'm not convinced the AI bubble exists",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 82.73994958205677,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-08T23:44:36.000Z",
+   "latestAt": "2026-11-08T23:44:36.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "I'm not convinced the AI bubble exists",
+     "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+     "publisher": "GitHub Pages",
+     "publisherDomain": "matteoraso.github.io",
+     "kind": "discussion",
+     "date": "2026-11-08T23:44:36.000Z",
+     "points": 204,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "single-model-simulates-behavior",
+   "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 78.03910668268148,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T05:00:00.000Z",
+   "latestAt": "2026-11-09T05:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+     "link": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+     "publisher": "MIT News AI",
+     "publisherDomain": "news.mit.edu",
+     "kind": "coverage",
+     "date": "2026-11-09T05:00:00.000Z",
+     "points": null,
+     "summary": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more."
+    }
+   ]
+  },
+  {
+   "id": "assisted-learning-platform-helps",
+   "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 78.03910668268148,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T05:00:00.000Z",
+   "latestAt": "2026-11-09T05:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+     "link": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+     "publisher": "MIT News AI",
+     "publisherDomain": "news.mit.edu",
+     "kind": "coverage",
+     "date": "2026-11-09T05:00:00.000Z",
+     "points": null,
+     "summary": "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots."
+    }
+   ]
+  },
+  {
+   "id": "private-copies-agree-secret",
+   "title": "Private LLM copies can agree on a secret key over a public channel",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 69.74400037211916,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T07:47:04.000Z",
+   "latestAt": "2026-11-09T07:47:04.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Private LLM copies can agree on a secret key over a public channel",
+     "link": "https://www.lesswrong.com/posts/Y5B742yjGwE9tc6BC/private-llm-copies-can-agree-on-a-secret-key-over-a-public",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-09T07:47:04.000Z",
+     "points": null,
+     "summary": "Cross-posted from my blog . Epistemic status exploratory, no running protocol, theoretical estimates from a single experiment and 4 closed-weights models Two copies of the same…"
     }
    ]
   },
@@ -100,7 +356,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 102.58875682861486,
+   "rank": 62.53073972227422,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -128,7 +384,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 102.05813068826089,
+   "rank": 62.20730812900771,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -143,8 +399,36 @@
      "publisherDomain": "sergeykuhne.com",
      "kind": "discussion",
      "date": "2026-11-08T19:37:42.000Z",
-     "points": 133,
+     "points": 223,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "current-reward-hacking-model",
+   "title": "Current Reward Hacking Model Organisms Don’t Hack Like Real Models",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [],
+   "rank": 54.618982936375865,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T04:15:28.000Z",
+   "latestAt": "2026-11-09T04:15:28.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Current Reward Hacking Model Organisms Don’t Hack Like Real Models",
+     "link": "https://www.lesswrong.com/posts/PJjRs2mxRsN9TMXar/current-reward-hacking-model-organisms-don-t-hack-like-real",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-09T04:15:28.000Z",
+     "points": null,
+     "summary": "Summary Current reward hacking model organisms are poor proxies for real models . They do not exploit the hacks that open-weight frontier models do, and mostly…"
     }
    ]
   },
@@ -167,7 +451,7 @@
      "kind": "org"
     }
    ],
-   "rank": 82.59160618014252,
+   "rank": 50.341912593042935,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -195,7 +479,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 78.83114534102212,
+   "rank": 48.04980568741317,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -216,6 +500,62 @@
    ]
   },
   {
+   "id": "academia-deal-with",
+   "title": "Why can't academia deal with AI?",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [],
+   "rank": 44.171770873113026,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T01:11:42.000Z",
+   "latestAt": "2026-11-09T01:11:42.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Why can't academia deal with AI?",
+     "link": "https://www.lesswrong.com/posts/4yhxNedKfccqb9ba4/why-can-t-academia-deal-with-ai",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-09T01:11:42.000Z",
+     "points": null,
+     "summary": "It’s old news by now, but OpenAI solved 372 open math problems. They released the results suddenly, and the response was equally swift and contentious. Fields…"
+    }
+   ]
+  },
+  {
+   "id": "modelling-enabled-extreme-power",
+   "title": "Modelling AI-enabled Extreme Power Concentration in CCP",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 39.26780331495604,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-08T23:29:50.000Z",
+   "latestAt": "2026-11-08T23:29:50.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Modelling AI-enabled Extreme Power Concentration in CCP",
+     "link": "https://www.lesswrong.com/posts/quwmitrPsjRehXFsW/modelling-ai-enabled-extreme-power-concentration-in-ccp-2",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-08T23:29:50.000Z",
+     "points": null,
+     "summary": "On Positionality: I am a non-Chinese person; I don’t speak Mandarin, and I have not lived in China before. I have written this piece after reviewing…"
+    }
+   ]
+  },
+  {
    "id": "ajeya-dramatically-accelerating-research",
    "title": "Ajeya: AI is dramatically accelerating AI research right now",
    "category": {
@@ -223,7 +563,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 73.97153851629335,
+   "rank": 38.209947723492185,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -244,105 +584,6 @@
    ]
   },
   {
-   "id": "deno-security-model-2024",
-   "title": "I'm not a fan of Deno's security model (2024)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 72.57845970491617,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-08T14:42:38.000Z",
-   "latestAt": "2026-11-08T14:42:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "I'm not a fan of Deno's security model (2024)",
-     "link": "https://goldstein.lol/posts/deno-security/",
-     "publisher": "goldstein.lol",
-     "publisherDomain": "goldstein.lol",
-     "kind": "discussion",
-     "date": "2026-11-08T14:42:38.000Z",
-     "points": 81,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "asked-researchers-emnlp-whether",
-   "title": "We asked 100 AI researchers at EMNLP whether AI could be conscious, how they define consciousness, and how they engage with it",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [],
-   "rank": 55.38513044359765,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-08T21:18:59.000Z",
-   "latestAt": "2026-11-08T21:18:59.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "We asked 100 AI researchers at EMNLP whether AI could be conscious, how they define consciousness, and how they engage with it",
-     "link": "https://www.lesswrong.com/posts/34CgHvoSHA2TudSDp/we-asked-100-ai-researchers-at-emnlp-whether-ai-could-be",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-08T21:18:59.000Z",
-     "points": null,
-     "summary": "Before reading this post, please take 30 seconds to answer the 3-question survey yourself: [ survey link ] Introduction The possibility of AI consciousness, the use…"
-    }
-   ]
-  },
-  {
-   "id": "deepseek-llama-llama-modchip-284b-deepseek",
-   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "deepseek",
-     "name": "DeepSeek",
-     "kind": "org"
-    },
-    {
-     "id": "llama",
-     "name": "Llama",
-     "kind": "model"
-    }
-   ],
-   "rank": 53.71271555836854,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-08T10:22:04.000Z",
-   "latestAt": "2026-11-08T10:22:04.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/synchopate/llama-modchip",
-    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU"
-   },
-   "sources": [
-    {
-     "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-     "link": "https://github.com/synchopate/llama-modchip",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-11-08T10:22:04.000Z",
-     "points": 350,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "what-realistically-with-local",
    "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
    "category": {
@@ -350,7 +591,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 53.277013898942585,
+   "rank": 32.47384208837133,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -378,7 +619,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 51.36914682378045,
+   "rank": 31.310943314766302,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -406,7 +647,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 48.83372626433675,
+   "rank": 29.765532998956186,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -434,7 +675,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.480491359454454,
+   "rank": 25.28352900389769,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -455,40 +696,6 @@
    ]
   },
   {
-   "id": "safety-help-people-outside-safety",
-   "title": "Help people outside of AI safety circles",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 40.71247481208276,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-08T16:52:34.000Z",
-   "latestAt": "2026-11-08T16:52:34.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Help people outside of AI safety circles",
-     "link": "https://www.lesswrong.com/posts/FEgjbgjpHyDyqHjej/help-people-outside-of-ai-safety-circles",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-08T16:52:34.000Z",
-     "points": null,
-     "summary": "This is a linkpost! Read the rest on my Substack; this is just an excerpt: \"Our community is full of talented people who like to speak…"
-    }
-   ]
-  },
-  {
    "id": "world-models-will-soon",
    "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
    "category": {
@@ -496,7 +703,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 36.110865118773084,
+   "rank": 22.010590416457028,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -524,7 +731,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.2066771189123,
+   "rank": 21.459462337443902,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -558,7 +765,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 32.025257710126226,
+   "rank": 19.520297509366916,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -586,7 +793,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.61069046676524,
+   "rank": 13.172325141374612,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -607,6 +814,62 @@
    ]
   },
   {
+   "id": "terry-pratchett-study",
+   "title": "Terry Pratchett's Study",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [],
+   "rank": 9.716883547757954,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-07T19:34:24.000Z",
+   "latestAt": "2026-11-07T19:34:24.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Terry Pratchett's Study",
+     "link": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-07T19:34:24.000Z",
+     "points": null,
+     "summary": "My comment on Terry Pratchett's Study — Hacker News. Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical wealth is where you spend money…"
+    }
+   ]
+  },
+  {
+   "id": "deno-security-model-2024",
+   "title": "I’m not a fan of Deno’s security model (2024)",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 9.456207774808519,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-07T23:19:53.000Z",
+   "latestAt": "2026-11-07T23:19:53.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "I’m not a fan of Deno’s security model (2024)",
+     "link": "https://goldstein.lol/posts/deno-security/",
+     "publisher": "goldstein.lol",
+     "publisherDomain": "goldstein.lol",
+     "kind": "discussion",
+     "date": "2026-11-07T23:19:53.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "nvidia-megaspeed-exec-recruited-nvidia",
    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
    "category": {
@@ -620,7 +883,7 @@
      "kind": "org"
     }
    ],
-   "rank": 14.958738751980686,
+   "rank": 9.11777302298586,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -648,7 +911,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.332784181805059,
+   "rank": 4.469538702745704,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -676,7 +939,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.068575829519092,
+   "rank": 3.698968068347789,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -715,7 +978,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.277985513273272,
+   "rank": 2.6075527858578744,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -754,7 +1017,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.841861533709803,
+   "rank": 2.3417229240311546,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -782,7 +1045,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 2.851843677045124,
+   "rank": 1.7382791273690683,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -810,7 +1073,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.5657764627729516,
+   "rank": 1.563913094757784,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -844,7 +1107,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.459398512288598,
+   "rank": 1.4990727346680446,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -878,7 +1141,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.434434736456897,
+   "rank": 1.4838566094582897,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -899,34 +1162,6 @@
    ]
   },
   {
-   "id": "hundreds-artex-hacking-tools",
-   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [],
-   "rank": 2.3763543301512677,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T18:44:38.000Z",
-   "latestAt": "2026-11-06T18:44:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-     "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-06T18:44:38.000Z",
-     "points": null,
-     "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
-    }
-   ]
-  },
-  {
    "id": "free-chinese-models-getting",
    "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
    "category": {
@@ -934,7 +1169,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 2.3738391626437387,
+   "rank": 1.4469218987593149,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -962,7 +1197,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.2979708497720033,
+   "rank": 1.400678022997411,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -990,7 +1225,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.2097215764919595,
+   "rank": 1.3468876027920746,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1024,7 +1259,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.980455258857712,
+   "rank": 1.2071433181525644,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1062,7 +1297,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.9688159806810466,
+   "rank": 1.200048849940653,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1094,7 +1329,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.9647708731411422,
+   "rank": 1.1975832428454334,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1128,7 +1363,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.6951548566823604,
+   "rank": 1.033244679134152,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1156,7 +1391,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 1.5698323524672502,
+   "rank": 0.956857079413938,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1184,7 +1419,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4147848932269829,
+   "rank": 0.8623512815266507,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1218,7 +1453,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.3610786227321001,
+   "rank": 0.8296157954403925,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1246,7 +1481,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2750264396268327,
+   "rank": 0.7771645636423682,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1274,7 +1509,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.1562646207319969,
+   "rank": 0.7047758865998804,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1291,34 +1526,6 @@
      "date": "2026-11-06T09:05:28.000Z",
      "points": null,
      "summary": "China’s stocks pared weekly gains and the benchmark 10-year bond hit a record low as the global artificial intelligence (AI) stock bubble burst following the US…"
-    }
-   ]
-  },
-  {
-   "id": "does-democratic-midterm-victory",
-   "title": "Does the Democratic midterm victory spell the end of US AI data centre boom?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9337514589818401,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-06T06:00:27.000Z",
-   "latestAt": "2026-11-06T06:00:27.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Does the Democratic midterm victory spell the end of US AI data centre boom?",
-     "link": "https://www.scmp.com/tech/big-tech/article/3373506/does-democratic-midterm-victory-spell-end-us-ai-data-centre-boom",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-06T06:00:27.000Z",
-     "points": null,
-     "summary": "The sweeping midterm election victory by US Democrats has triggered warnings from analysts that an impending regulatory clampdown could derail the nation’s multi-trillion-dollar artificial intelligence data…"
     }
    ]
   }

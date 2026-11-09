@@ -1,13 +1,61 @@
 {
+ "anthropic-deepseek-openai-deepseek-challenge-openai-anthropic": {
+  "id": "anthropic-deepseek-openai-deepseek-challenge-openai-anthropic",
+  "title": "Can DeepSeek challenge OpenAI, Anthropic in AI agents as Harness adoption takes off?",
+  "firstSeen": "2026-11-09T07:50:14.289Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "nvidia-nvidia-jensen-huang-letter": {
   "id": "nvidia-nvidia-jensen-huang-letter",
   "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
   "firstSeen": "2026-11-09T00:41:41.824Z",
   "publishers": [
-   "The Verge",
-   "axios.com"
+   "nvidianews.nvidia.com",
+   "The Verge"
   ],
   "sourceCount": 3,
+  "independentCount": 2,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "show-flide-make-like": {
+  "id": "show-flide-make-like",
+  "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+  "firstSeen": "2026-11-09T07:50:14.289Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "more-than-enough-paul": {
+  "id": "more-than-enough-paul",
+  "title": "The Web Is More Than Enough, by Paul Ford",
+  "firstSeen": "2026-11-09T07:50:14.289Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "hide-your-slop-descriptions": {
+  "id": "hide-your-slop-descriptions",
+  "title": "Hide your slop PR descriptions behind",
+  "firstSeen": "2026-11-09T07:50:14.289Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
@@ -23,6 +71,54 @@
   "independentCount": 0,
   "hadPrimary": false,
   "category": "models"
+ },
+ "convinced-bubble-exists": {
+  "id": "convinced-bubble-exists",
+  "title": "I'm not convinced the AI bubble exists",
+  "firstSeen": "2026-11-09T07:50:14.289Z",
+  "publishers": [
+   "GitHub Pages"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "single-model-simulates-behavior": {
+  "id": "single-model-simulates-behavior",
+  "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+  "firstSeen": "2026-11-09T07:50:14.289Z",
+  "publishers": [
+   "MIT News AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "assisted-learning-platform-helps": {
+  "id": "assisted-learning-platform-helps",
+  "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+  "firstSeen": "2026-11-09T07:50:14.289Z",
+  "publishers": [
+   "MIT News AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "tools"
+ },
+ "private-copies-agree-secret": {
+  "id": "private-copies-agree-secret",
+  "title": "Private LLM copies can agree on a secret key over a public channel",
+  "firstSeen": "2026-11-09T07:50:14.289Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
  },
  "parse-number-sqlite-extension": {
   "id": "parse-number-sqlite-extension",
@@ -48,6 +144,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "current-reward-hacking-model": {
+  "id": "current-reward-hacking-model",
+  "title": "Current Reward Hacking Model Organisms Don’t Hack Like Real Models",
+  "firstSeen": "2026-11-09T07:50:14.289Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "security"
+ },
  "apple-agents-apple-racing-make-siri": {
   "id": "apple-agents-apple-racing-make-siri",
   "title": "Apple is racing to make Siri more agentic",
@@ -72,6 +180,30 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "academia-deal-with": {
+  "id": "academia-deal-with",
+  "title": "Why can't academia deal with AI?",
+  "firstSeen": "2026-11-09T07:50:14.289Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
+ },
+ "modelling-enabled-extreme-power": {
+  "id": "modelling-enabled-extreme-power",
+  "title": "Modelling AI-enabled Extreme Power Concentration in CCP",
+  "firstSeen": "2026-11-09T07:50:14.289Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "ajeya-dramatically-accelerating-research": {
   "id": "ajeya-dramatically-accelerating-research",
   "title": "Ajeya: AI is dramatically accelerating AI research right now",
@@ -83,42 +215,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "deno-security-model-2024": {
-  "id": "deno-security-model-2024",
-  "title": "I'm not a fan of Deno's security model (2024)",
-  "firstSeen": "2026-11-08T02:15:58.835Z",
-  "publishers": [
-   "goldstein.lol"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "asked-researchers-emnlp-whether": {
-  "id": "asked-researchers-emnlp-whether",
-  "title": "We asked 100 AI researchers at EMNLP whether AI could be conscious, how they define consciousness, and how they engage with it",
-  "firstSeen": "2026-11-09T00:41:41.824Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "research"
- },
- "deepseek-llama-llama-modchip-284b-deepseek": {
-  "id": "deepseek-llama-llama-modchip-284b-deepseek",
-  "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-  "firstSeen": "2026-11-08T16:37:54.859Z",
-  "publishers": [
-   "GitHub"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "models"
  },
  "what-realistically-with-local": {
   "id": "what-realistically-with-local",
@@ -162,18 +258,6 @@
   "firstSeen": "2026-11-08T16:37:54.859Z",
   "publishers": [
    "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "safety-help-people-outside-safety": {
-  "id": "safety-help-people-outside-safety",
-  "title": "Help people outside of AI safety circles",
-  "firstSeen": "2026-11-08T21:01:45.040Z",
-  "publishers": [
-   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -225,6 +309,30 @@
   ],
   "sourceCount": 1,
   "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "terry-pratchett-study": {
+  "id": "terry-pratchett-study",
+  "title": "Terry Pratchett's Study",
+  "firstSeen": "2026-11-09T07:50:14.289Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "research"
+ },
+ "deno-security-model-2024": {
+  "id": "deno-security-model-2024",
+  "title": "I’m not a fan of Deno’s security model (2024)",
+  "firstSeen": "2026-11-08T02:15:58.835Z",
+  "publishers": [
+   "goldstein.lol"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
@@ -335,18 +443,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "tools"
- },
- "hundreds-artex-hacking-tools": {
-  "id": "hundreds-artex-hacking-tools",
-  "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-  "firstSeen": "2026-11-06T20:47:49.868Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "security"
  },
  "free-chinese-models-getting": {
   "id": "free-chinese-models-getting",
@@ -484,18 +580,6 @@
   "id": "bubble-bursts-fifth-plenum",
   "title": "AI bubble bursts, fifth plenum resolution, Singles’ Day",
   "firstSeen": "2026-11-06T14:55:40.179Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "does-democratic-midterm-victory": {
-  "id": "does-democratic-midterm-victory",
-  "title": "Does the Democratic midterm victory spell the end of US AI data centre boom?",
-  "firstSeen": "2026-11-06T06:14:37.562Z",
   "publishers": [
    "SCMP Tech"
   ],
