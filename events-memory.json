@@ -1,4 +1,103 @@
 {
+ "anthropic-claude-anthropic-launches-claude-fable": {
+  "id": "anthropic-claude-anthropic-launches-claude-fable",
+  "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "The Verge",
+   "artificialanalysis.ai"
+  ],
+  "sourceCount": 2,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "models"
+ },
+ "anthropic-anthropic": {
+  "id": "anthropic-anthropic",
+  "title": "llm-anthropic 0.31",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "claude-locating-source-mysterious-beep": {
+  "id": "claude-locating-source-mysterious-beep",
+  "title": "Locating the source of a mysterious beep with Claude",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "models"
+ },
+ "anthropic-funding-anthropic-reportedly-plans-move": {
+  "id": "anthropic-funding-anthropic-reportedly-plans-move",
+  "title": "Anthropic reportedly plans to move forward with IPO plans",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
+ },
+ "nvidia-everything-know-about-nvidia": {
+  "id": "nvidia-everything-know-about-nvidia",
+  "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "The Verge",
+   "TechCrunch",
+   "SCMP Tech"
+  ],
+  "sourceCount": 4,
+  "independentCount": 3,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "google-gemini-google-gemini-routes-personal": {
+  "id": "google-gemini-google-gemini-routes-personal",
+  "title": "Google Gemini routes personal Drive files and emails to human annotators",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "models"
+ },
+ "event": {
+  "id": "event",
+  "title": "TPU 8tx and TPU 8i Max",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "Google"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "smallest-most-efficient-model": {
+  "id": "smallest-most-efficient-model",
+  "title": "Our Smallest, Most Efficient Model: Muse Ember",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "research.meta.ai"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "claude-claude-code-accidentally-exposing": {
   "id": "claude-claude-code-accidentally-exposing",
   "title": "Claude Code is accidentally exposing secrets all over GitHub",
@@ -10,6 +109,66 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "opensource"
+ },
+ "david-ellison-says-could": {
+  "id": "david-ellison-says-could",
+  "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "jensen-huang-troubles-leave": {
+  "id": "jensen-huang-troubles-leave",
+  "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "china-tech-funding-divide": {
+  "id": "china-tech-funding-divide",
+  "title": "China’s tech funding divide faces test as fears of an AI bubble rattle markets",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
+ },
+ "less-coupon-math-more": {
+  "id": "less-coupon-math-more",
+  "title": "Less coupon math, more AI: what’s new for China’s 18th Singles’ Day",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "show-ste80-humanizer-text": {
+  "id": "show-ste80-humanizer-text",
+  "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
  },
  "anthropic-anthropic-joins-natural-frenzy": {
   "id": "anthropic-anthropic-joins-natural-frenzy",
@@ -23,34 +182,34 @@
   "hadPrimary": false,
   "category": "general"
  },
- "meta-ai-meta-releases-muse-ember": {
-  "id": "meta-ai-meta-releases-muse-ember",
-  "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-  "firstSeen": "2026-11-09T18:39:11.320Z",
+ "amazon-gpt-chatgpt-enterprise-available-marketplace": {
+  "id": "amazon-gpt-chatgpt-enterprise-available-marketplace",
+  "title": "ChatGPT Enterprise now available in AWS Marketplace",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "models"
+ },
+ "nvidia-copyright-race-nvidia": {
+  "id": "nvidia-copyright-race-nvidia",
+  "title": "The race is on to sue Nvidia",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
   "publishers": [
    "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "models"
+  "category": "policy"
  },
- "safety-where-safety-research-uplift": {
-  "id": "safety-where-safety-research-uplift",
-  "title": "Where is all the AI safety research uplift?",
-  "firstSeen": "2026-11-09T18:39:11.320Z",
-  "publishers": [
-   "Alignment Forum"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "future-hinges-jensen-huang": {
-  "id": "future-hinges-jensen-huang",
-  "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-  "firstSeen": "2026-11-09T18:39:11.320Z",
+ "global-pledge-climate-good": {
+  "id": "global-pledge-climate-good",
+  "title": "The global pledge to use AI for climate good is a cruel joke",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
   "publishers": [
    "The Verge"
   ],
@@ -59,16 +218,87 @@
   "hadPrimary": false,
   "category": "general"
  },
- "nvidia-jensen-huang-affair-with": {
-  "id": "nvidia-jensen-huang-affair-with",
-  "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-  "firstSeen": "2026-11-09T18:39:11.320Z",
+ "safety-western-safety-playbook-doesn": {
+  "id": "safety-western-safety-playbook-doesn",
+  "title": "The Western AI safety playbook doesn’t transfer to China",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
   "publishers": [
-   "TechCrunch",
-   "SCMP Tech"
+   "LessWrong"
   ],
-  "sourceCount": 2,
-  "independentCount": 2,
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "safety-need-more-transparency-about": {
+  "id": "safety-need-more-transparency-about",
+  "title": "We need more transparency about alignment overfitting",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "exploring-world-languages-with": {
+  "id": "exploring-world-languages-with",
+  "title": "Exploring the world's languages with Language Explorer",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "Google Research"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "nvidia-jensen-huang-pulls-elevenlabs": {
+  "id": "nvidia-jensen-huang-pulls-elevenlabs",
+  "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "safety-would-press-button-hard": {
+  "id": "safety-would-press-button-hard",
+  "title": "Would you press the button? The hard problem of alignment",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "funding-hardware-startup-nominal-triples": {
+  "id": "funding-hardware-startup-nominal-triples",
+  "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
+ },
+ "apple-apple-intelligence-usage-packs": {
+  "id": "apple-apple-intelligence-usage-packs",
+  "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -103,6 +333,30 @@
   "firstSeen": "2026-11-09T18:39:11.320Z",
   "publishers": [
    "IEEE Spectrum"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "whose-side-game-where": {
+  "id": "whose-side-game-where",
+  "title": "Whose Side? A game where you audit models for secret loyalties",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "safety-where-safety-research-uplift": {
+  "id": "safety-where-safety-research-uplift",
+  "title": "Where is all the AI safety research uplift?",
+  "firstSeen": "2026-11-09T18:39:11.320Z",
+  "publishers": [
+   "Alignment Forum"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -147,7 +401,7 @@
  },
  "hiring-growth-lead-distribute": {
   "id": "hiring-growth-lead-distribute",
-  "title": "Y/N (YC S23) Is Hiring a Growth Lead to Distribute Superhuman A.I. Storytelling",
+  "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
   "firstSeen": "2026-11-09T18:39:11.320Z",
   "publishers": [
    "ycombinator.com"
@@ -155,6 +409,18 @@
   "sourceCount": 1,
   "independentCount": 0,
   "hadPrimary": false,
+  "category": "general"
+ },
+ "control-room-central-system": {
+  "id": "control-room-central-system",
+  "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
   "category": "general"
  },
  "medium-brings-assistance-directly": {
@@ -168,30 +434,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "tools"
- },
- "safety-trump-minutes-interview-touched": {
-  "id": "safety-trump-minutes-interview-touched",
-  "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-  "firstSeen": "2026-11-09T18:39:11.320Z",
-  "publishers": [
-   "The Verge"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "disney-adobe-building-generative": {
-  "id": "disney-adobe-building-generative",
-  "title": "Disney and Adobe are building generative AI tools together",
-  "firstSeen": "2026-11-09T18:39:11.320Z",
-  "publishers": [
-   "The Verge"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  },
  "meta-ai-meta-expands-instagram-guessing": {
   "id": "meta-ai-meta-expands-instagram-guessing",
@@ -211,6 +453,30 @@
   "firstSeen": "2026-11-09T18:39:11.320Z",
   "publishers": [
    "Hugging Face"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "jensen-huang-hired-firm": {
+  "id": "jensen-huang-hired-firm",
+  "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "agents-coderabbit-scales-agentic-software": {
+  "id": "agents-coderabbit-scales-agentic-software",
+  "title": "CodeRabbit scales agentic software development and ships 20x more",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
+  "publishers": [
+   "OpenAI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -253,28 +519,16 @@
   "hadPrimary": false,
   "category": "general"
  },
- "safety-three-phases-capabilities-alignment": {
-  "id": "safety-three-phases-capabilities-alignment",
-  "title": "Three Phases of Capabilities and Alignment",
-  "firstSeen": "2026-11-09T18:39:11.320Z",
+ "kuken-industries-searches-years": {
+  "id": "kuken-industries-searches-years",
+  "title": "Kuken Industries searches 70 years of drawings in minutes",
+  "firstSeen": "2026-11-10T01:57:20.982Z",
   "publishers": [
-   "LessWrong"
+   "OpenAI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "safety-scientists-work-safety": {
-  "id": "safety-scientists-work-safety",
-  "title": "How Scientists Can Work on AI Safety",
-  "firstSeen": "2026-11-09T18:39:11.320Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
+  "hadPrimary": true,
   "category": "general"
  },
  "paper-unicorns-cheap-building": {
@@ -325,60 +579,12 @@
   "hadPrimary": false,
   "category": "general"
  },
- "models-grader-modelling-score": {
-  "id": "models-grader-modelling-score",
-  "title": "Models are grader modelling not score seeking; grader-modelling is much scarier",
-  "firstSeen": "2026-11-09T18:39:11.320Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "google-infrastructure-bikers-lovers-join-forces": {
   "id": "google-infrastructure-bikers-lovers-join-forces",
   "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
   "firstSeen": "2026-11-09T18:39:11.320Z",
   "publishers": [
    "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "accelerating-towards-potential-2027": {
-  "id": "accelerating-towards-potential-2027",
-  "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
-  "firstSeen": "2026-11-09T18:39:11.320Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "safety-advocating-shared-safety-compute": {
-  "id": "safety-advocating-shared-safety-compute",
-  "title": "Advocating for a Shared AI Safety Compute Cluster",
-  "firstSeen": "2026-11-09T18:39:11.320Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "does-expecting-automated-grading": {
-  "id": "does-expecting-automated-grading",
-  "title": "Does expecting automated grading degrade models’ research taste?",
-  "firstSeen": "2026-11-09T18:39:11.320Z",
-  "publishers": [
-   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -466,18 +672,6 @@
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "what-realistically-with-local": {
-  "id": "what-realistically-with-local",
-  "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
-  "firstSeen": "2026-11-08T21:01:45.040Z",
-  "publishers": [
-   "Lobsters"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
@@ -571,42 +765,6 @@
   "firstSeen": "2026-11-07T13:52:01.386Z",
   "publishers": [
    "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "week-biggest-funding-rounds": {
-  "id": "week-biggest-funding-rounds",
-  "title": "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
-  "firstSeen": "2026-11-06T20:47:49.868Z",
-  "publishers": [
-   "Crunchbase News"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
- "free-chinese-models-getting": {
-  "id": "free-chinese-models-getting",
-  "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-  "firstSeen": "2026-11-06T20:47:49.868Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "security"
- },
- "predict-behavior-molecules-from": {
-  "id": "predict-behavior-molecules-from",
-  "title": "How to predict the behavior of molecules from scant data",
-  "firstSeen": "2026-11-06T20:47:49.868Z",
-  "publishers": [
-   "MIT News AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
