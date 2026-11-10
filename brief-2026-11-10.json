@@ -1,9 +1,719 @@
 {
  "date": "2026-11-10",
- "generated": "2026-11-10T09:35:49.191Z",
- "headline": "69 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2878 items read · 74 on-topic · 69 distinct developments · 9 with a primary source · 2 independently corroborated",
+ "generated": "2026-11-10T17:38:12.469Z",
+ "headline": "85 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2882 items read · 89 on-topic · 85 distinct developments · 14 with a primary source · 2 independently corroborated",
  "events": [
+  {
+   "id": "gemini-gemini-carbon-available",
+   "title": "Gemini 4 Carbon is now available",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 230.78928718826566,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T16:07:15.000Z",
+   "latestAt": "2026-11-10T16:07:15.000Z",
+   "primary": {
+    "publisher": "Google",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+    "title": "Gemini 4 Carbon is now available"
+   },
+   "sources": [
+    {
+     "title": "Gemini 4 Carbon is now available",
+     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+     "publisher": "Google",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-11-10T16:07:15.000Z",
+     "points": 174,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "anthropic-claude-anthropic-launches-claude-meetings",
+   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 222.87684666044314,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T17:30:00.000Z",
+   "latestAt": "2026-11-10T17:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+     "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-10T17:30:00.000Z",
+     "points": null,
+     "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected…"
+    }
+   ]
+  },
+  {
+   "id": "google-deepmind-gemini-benchmarks-deepmind-reveals-gemini-robotics",
+   "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [
+    {
+     "id": "benchmarks",
+     "name": "Benchmarks",
+     "kind": "topic"
+    },
+    {
+     "id": "security",
+     "name": "AI Security",
+     "kind": "topic"
+    },
+    {
+     "id": "google-deepmind",
+     "name": "Google DeepMind",
+     "kind": "org"
+    },
+    {
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
+    },
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 185.9566394694913,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T15:00:39.000Z",
+   "latestAt": "2026-11-10T15:00:39.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+     "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-10T15:00:39.000Z",
+     "points": null,
+     "summary": "The new model is up to twice as successful at some tasks."
+    }
+   ]
+  },
+  {
+   "id": "nvidia-nvidia-jensen-huang-affair",
+   "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 177.85844745694516,
+   "deltas": [],
+   "sourceCount": 4,
+   "independentCount": 3,
+   "publishedAt": "2026-11-09T15:23:20.000Z",
+   "latestAt": "2026-11-10T17:04:19.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+     "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-10T17:04:19.000Z",
+     "points": null,
+     "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+    },
+    {
+     "title": "Who is Alice Huang and why is her relationship with Nvidia’s CEO under scrutiny?",
+     "link": "https://www.scmp.com/tech/tech-war/article/3373960/who-alice-huang-and-why-her-relationship-nvidias-ceo-under-scrutiny",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-10T10:40:24.000Z",
+     "points": null,
+     "summary": "Nvidia founder and CEO Jensen Huang has admitted to having an extramarital affair as the chipmaker investigates reported allegations that a Chinese businesswoman close to him…"
+    },
+    {
+     "title": "Chinese traders still confident of Nvidia GPU access amid Jensen Huang scandal",
+     "link": "https://www.scmp.com/tech/big-tech/article/3373855/chinese-traders-still-confident-nvidia-gpu-access-amid-jensen-huang-scandal",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-10T04:00:30.000Z",
+     "points": null,
+     "summary": "Prices for Nvidia graphics processing units (GPUs) are falling in China’s largest electronics market, as traders shrug off the frenzy of market speculation over tightening export…"
+    },
+    {
+     "title": "Nvidia CEO's affair becomes a national security problem",
+     "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-09T15:23:20.000Z",
+     "points": null,
+     "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair."
+    }
+   ]
+  },
+  {
+   "id": "anthropic-anthropic-powered-office-suite",
+   "title": "Anthropic has its own AI-powered office suite now",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 148.58456444029542,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T17:30:00.000Z",
+   "latestAt": "2026-11-10T17:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic has its own AI-powered office suite now",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-10T17:30:00.000Z",
+     "points": null,
+     "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI…"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-funding-anthropic-targets-trillion",
+   "title": "Anthropic targets $1.4 trillion IPO",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 138.66186887449382,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T14:06:54.000Z",
+   "latestAt": "2026-11-10T14:06:54.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic targets $1.4 trillion IPO",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-10T14:06:54.000Z",
+     "points": null,
+     "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected…"
+    }
+   ]
+  },
+  {
+   "id": "google-hugging-face-gemini-google-cloud-launches-gemini",
+   "title": "Google Cloud launches Gemini for healthcare.",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    },
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    },
+    {
+     "id": "hugging-face",
+     "name": "Hugging Face",
+     "kind": "org"
+    }
+   ],
+   "rank": 133.48287254312925,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-11-10T00:00:00.000Z",
+   "latestAt": "2026-11-10T13:00:00.000Z",
+   "primary": {
+    "publisher": "Google AI",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+    "title": "Google Cloud launches Gemini for healthcare."
+   },
+   "sources": [
+    {
+     "title": "Google Cloud launches Gemini for healthcare.",
+     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-11-10T13:00:00.000Z",
+     "points": null,
+     "summary": ""
+    },
+    {
+     "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+     "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-11-10T00:00:00.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "agents-adobe-brings-agents-creative",
+   "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 110.7075893334798,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T14:05:10.000Z",
+   "latestAt": "2026-11-10T14:05:10.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+     "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-10T14:05:10.000Z",
+     "points": null,
+     "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly."
+    }
+   ]
+  },
+  {
+   "id": "agents-ebay-appears-have-shut",
+   "title": "eBay appears to have shut the door on third-party AI agents",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 109.69690504064648,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T16:20:30.000Z",
+   "latestAt": "2026-11-10T16:20:30.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "eBay appears to have shut the door on third-party AI agents",
+     "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-10T16:20:30.000Z",
+     "points": null,
+     "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A…"
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-apple-agents-meta-agent-muse-lands",
+   "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    },
+    {
+     "id": "apple",
+     "name": "Apple",
+     "kind": "org"
+    }
+   ],
+   "rank": 103.42054571041308,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T15:29:30.000Z",
+   "latestAt": "2026-11-10T15:29:30.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+     "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-10T15:29:30.000Z",
+     "points": null,
+     "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch."
+    }
+   ]
+  },
+  {
+   "id": "indie-game-community-disarray",
+   "title": "The indie game community is in disarray over AI and Big Walk",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 99.37539803199283,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T17:32:47.000Z",
+   "latestAt": "2026-11-10T17:32:47.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The indie game community is in disarray over AI and Big Walk",
+     "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-10T17:32:47.000Z",
+     "points": null,
+     "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after…"
+    }
+   ]
+  },
+  {
+   "id": "aifp-looks-like-intelligence",
+   "title": "AIFP: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 97.0608283618238,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T16:30:09.000Z",
+   "latestAt": "2026-11-10T16:30:09.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AIFP: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
+     "link": "https://www.alignmentforum.org/posts/f9PajMLmBYzmWzyDv/aifp-looks-like-the-intelligence-explosion-will-happen-in",
+     "publisher": "Alignment Forum",
+     "publisherDomain": "alignmentforum.org",
+     "kind": "coverage",
+     "date": "2026-11-10T16:30:09.000Z",
+     "points": null,
+     "summary": "METR recently estimated that Anthropic is now making AI progress about twice as fast as its historical rate (they would not be surprised by anything from…"
+    }
+   ]
+  },
+  {
+   "id": "sundrop-turns-your-endless",
+   "title": "Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 94.65237680777997,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T16:50:38.000Z",
+   "latestAt": "2026-11-10T16:50:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI",
+     "link": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-10T16:50:38.000Z",
+     "points": null,
+     "summary": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the…"
+    }
+   ]
+  },
+  {
+   "id": "google-google-broadens-hardware-portfolio",
+   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 88.67159749230163,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T15:54:08.000Z",
+   "latestAt": "2026-11-10T15:54:08.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+     "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-10T15:54:08.000Z",
+     "points": null,
+     "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity."
+    }
+   ]
+  },
+  {
+   "id": "introducing-alphaproof-code-breakthrough",
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 88.20574225281862,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T12:02:28.000Z",
+   "latestAt": "2026-11-10T12:02:28.000Z",
+   "primary": {
+    "publisher": "Google DeepMind",
+    "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth"
+   },
+   "sources": [
+    {
+     "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+     "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+     "publisher": "Google DeepMind",
+     "publisherDomain": "deepmind.google",
+     "kind": "primary",
+     "date": "2026-11-10T12:02:28.000Z",
+     "points": null,
+     "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption."
+    }
+   ]
+  },
+  {
+   "id": "helping-caregivers-everyday-life",
+   "title": "Helping caregivers use AI in everyday life",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 87.9547485083632,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T12:00:00.000Z",
+   "latestAt": "2026-11-10T12:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "title": "Helping caregivers use AI in everyday life"
+   },
+   "sources": [
+    {
+     "title": "Helping caregivers use AI in everyday life",
+     "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-10T12:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+    }
+   ]
+  },
+  {
+   "id": "hugging-face-cyberattacks-threaten-make-open",
+   "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+   "category": {
+    "id": "opensource",
+    "name": "Open Source"
+   },
+   "entities": [
+    {
+     "id": "hugging-face",
+     "name": "Hugging Face",
+     "kind": "org"
+    }
+   ],
+   "rank": 85.56594393790337,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T13:00:00.000Z",
+   "latestAt": "2026-11-10T13:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+     "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-10T13:00:00.000Z",
+     "points": null,
+     "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable…"
+    }
+   ]
+  },
+  {
+   "id": "reddit-turning-user-conversations",
+   "title": "Reddit is turning user conversations into AI-powered product reviews",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 83.29615173325264,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T15:00:00.000Z",
+   "latestAt": "2026-11-10T15:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Reddit is turning user conversations into AI-powered product reviews",
+     "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-10T15:00:00.000Z",
+     "points": null,
+     "summary": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays."
+    }
+   ]
+  },
+  {
+   "id": "whatsapp-head-wants-make",
+   "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 83.29615173325264,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T15:00:00.000Z",
+   "latestAt": "2026-11-10T15:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+     "link": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-10T15:00:00.000Z",
+     "points": null,
+     "summary": "Kunal Shah said the company wants to make voice notes, groups, stickers, and video \"simpler and more expressive.\""
+    }
+   ]
+  },
   {
    "id": "claude-quoting-prompting-claude-fable",
    "title": "Quoting Prompting Claude Fable 5.2",
@@ -18,7 +728,7 @@
      "kind": "model"
     }
    ],
-   "rank": 185.18422367806957,
+   "rank": 77.9907111857851,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -39,6 +749,492 @@
    ]
   },
   {
+   "id": "this-linux-based-desktop",
+   "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 77.71805763518054,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T14:00:00.000Z",
+   "latestAt": "2026-11-10T14:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+     "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-10T14:00:00.000Z",
+     "points": null,
+     "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models."
+    }
+   ]
+  },
+  {
+   "id": "google-after-challenging-google-android",
+   "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 77.71805763518054,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T14:00:00.000Z",
+   "latestAt": "2026-11-10T14:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+     "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-10T14:00:00.000Z",
+     "points": null,
+     "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents."
+    }
+   ]
+  },
+  {
+   "id": "spotify-gets-voices-personalities",
+   "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 77.71805763518054,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T14:00:00.000Z",
+   "latestAt": "2026-11-10T14:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+     "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-10T14:00:00.000Z",
+     "points": null,
+     "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs."
+    }
+   ]
+  },
+  {
+   "id": "download-pelosi-successor-targets",
+   "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 77.02388214503038,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T13:10:00.000Z",
+   "latestAt": "2026-11-10T13:10:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+     "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-11-10T13:10:00.000Z",
+     "points": null,
+     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s…"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-nvidia-troubles-midterms-tighten",
+   "title": "How Nvidia CEO’s troubles, US midterms may tighten China chip curbs: ‘adding fuel to fire’",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 76.46822437938498,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T14:30:22.000Z",
+   "latestAt": "2026-11-10T14:30:22.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How Nvidia CEO’s troubles, US midterms may tighten China chip curbs: ‘adding fuel to fire’",
+     "link": "https://www.scmp.com/tech/big-tech/article/3373977/adding-fuel-fire-how-nvidia-ceos-troubles-us-midterms-may-tighten-china-chip-curbs",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-10T14:30:22.000Z",
+     "points": null,
+     "summary": "A political storm sparked by US media reports alleging American intelligence agencies suspect Nvidia CEO Jensen Huang was targeted in an espionage operation – a claim…"
+    }
+   ]
+  },
+  {
+   "id": "infrastructure-ukraine-fiber-optic-drones",
+   "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "infrastructure",
+     "name": "AI Infrastructure",
+     "kind": "topic"
+    }
+   ],
+   "rank": 75.77081456672005,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T12:15:32.000Z",
+   "latestAt": "2026-11-10T12:15:32.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+     "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-10T12:15:32.000Z",
+     "points": null,
+     "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply."
+    }
+   ]
+  },
+  {
+   "id": "what-rogue-agent-swarms",
+   "title": "What rogue agent swarms might look like",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 73.03701198915392,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T15:37:09.000Z",
+   "latestAt": "2026-11-10T15:37:09.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "What rogue agent swarms might look like",
+     "link": "https://www.lesswrong.com/posts/G9nZfbtYuBqhK2vwJ/what-rogue-agent-swarms-might-look-like",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-10T15:37:09.000Z",
+     "points": null,
+     "summary": "TL;DR: Rogue agent swarms could soon become competent enough to multiply themselves and perform cyberattacks at levels never seen before. I present a dynamic simulation that…"
+    }
+   ]
+  },
+  {
+   "id": "closing-guidance-education",
+   "title": "Closing the AI guidance gap in education",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 71.44145524682803,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T09:00:00.000Z",
+   "latestAt": "2026-11-10T09:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "title": "Closing the AI guidance gap in education"
+   },
+   "sources": [
+    {
+     "title": "Closing the AI guidance gap in education",
+     "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-10T09:00:00.000Z",
+     "points": null,
+     "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
+    }
+   ]
+  },
+  {
+   "id": "microdramas-cause-aesthetic-fatigue",
+   "title": "AI microdramas cause ‘aesthetic fatigue’, professor tells Macau forum",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 71.15805322480081,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T13:28:04.000Z",
+   "latestAt": "2026-11-10T13:28:04.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI microdramas cause ‘aesthetic fatigue’, professor tells Macau forum",
+     "link": "https://www.scmp.com/news/hong-kong/society/article/3373984/ai-microdramas-cause-aesthetic-fatigue-professor-tells-macau-forum",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-10T13:28:04.000Z",
+     "points": null,
+     "summary": "Formulaic AI-generated microdramas risk stifling human creativity and innovation, a Beijing professor has warned at a forum in Macau. Zhang Lanshan, a professor at the School…"
+    }
+   ]
+  },
+  {
+   "id": "fireworks-security-breach-impacts",
+   "title": "Fireworks AI security breach impacts Notion and their customers",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [],
+   "rank": 70.96093245485712,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-10T07:19:38.000Z",
+   "latestAt": "2026-11-10T07:19:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Fireworks AI security breach impacts Notion and their customers",
+     "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+     "publisher": "notion.com",
+     "publisherDomain": "notion.com",
+     "kind": "discussion",
+     "date": "2026-11-10T07:19:38.000Z",
+     "points": 143,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "preserve-critical-thinking-agents",
+   "title": "How to Preserve Critical Thinking in the Age of Agents",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 69.1118596807331,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T14:49:20.000Z",
+   "latestAt": "2026-11-10T14:49:20.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How to Preserve Critical Thinking in the Age of Agents",
+     "link": "https://www.lesswrong.com/posts/Nz9pMLy6acCACaguC/how-to-preserve-critical-thinking-in-the-age-of-agents",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-10T14:49:20.000Z",
+     "points": null,
+     "summary": "In a world where much of the Systems-2 thinking is done by agents, I find myself more and more going towards cognitive atrophy. Even in my…"
+    }
+   ]
+  },
+  {
+   "id": "startup-founders-using-file",
+   "title": "Startup Founders Are Using AI To File Patents. Here’s Where DIY Becomes A Liability.",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 64.29442774883765,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T12:00:16.000Z",
+   "latestAt": "2026-11-10T12:00:16.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Startup Founders Are Using AI To File Patents. Here’s Where DIY Becomes A Liability.",
+     "link": "https://news.crunchbase.com/ai/startup-founder-diy-patents-legal-liabiity-drapkin-mutter-landfall/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-11-10T12:00:16.000Z",
+     "points": null,
+     "summary": "AI can help startups reduce patent preparation costs, but DIY applications may overlook critical issues. In this guest commentary, attorneys Michael Drapkin and Nathan Mutter of…"
+    }
+   ]
+  },
+  {
+   "id": "tear-down-those-guardrails",
+   "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 63.12667855432741,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T11:00:00.000Z",
+   "latestAt": "2026-11-10T11:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+     "link": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-10T11:00:00.000Z",
+     "points": null,
+     "summary": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb."
+    }
+   ]
+  },
+  {
+   "id": "safety-safety-debate-lost-plot",
+   "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 63.12667855432741,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T11:00:00.000Z",
+   "latestAt": "2026-11-10T11:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+     "link": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-10T11:00:00.000Z",
+     "points": null,
+     "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet."
+    }
+   ]
+  },
+  {
+   "id": "work-frontier-effect-freelance",
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 62.19339910782097,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T07:00:00.000Z",
+   "latestAt": "2026-11-10T07:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/ai-effect-on-freelance-work",
+    "title": "Work at the Frontier: AI’s effect on freelance work"
+   },
+   "sources": [
+    {
+     "title": "Work at the Frontier: AI’s effect on freelance work",
+     "link": "https://openai.com/index/ai-effect-on-freelance-work",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-10T07:00:00.000Z",
+     "points": null,
+     "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
+    }
+   ]
+  },
+  {
+   "id": "nvidia-lawmakers-push-tougher-china",
+   "title": "US lawmakers push for tougher China export controls in defence bill amid Nvidia scrutiny",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 62.09236703981047,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T11:30:06.000Z",
+   "latestAt": "2026-11-10T11:30:06.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "US lawmakers push for tougher China export controls in defence bill amid Nvidia scrutiny",
+     "link": "https://www.scmp.com/tech/tech-war/article/3373940/us-lawmakers-push-tougher-china-export-controls-defence-bill-amid-nvidia-scrutiny",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-10T11:30:06.000Z",
+     "points": null,
+     "summary": "There is growing momentum to pass a slate of major new export control bills targeting China, in the wake of the Democrats’ takeover of the US…"
+    }
+   ]
+  },
+  {
    "id": "introducing-smallest-most-efficient",
    "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
    "category": {
@@ -46,7 +1242,7 @@
     "name": "New Models"
    },
    "entities": [],
-   "rank": 140.8532781464391,
+   "rank": 59.32064361263897,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -67,62 +1263,30 @@
    ]
   },
   {
-   "id": "closing-guidance-education",
-   "title": "Closing the AI guidance gap in education",
+   "id": "which-state-ready-proactive",
+   "title": "Which state AGs are ready to be proactive on AI?",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 124.73044986389883,
+   "rank": 56.06364562718703,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-10T09:00:00.000Z",
-   "latestAt": "2026-11-10T09:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
-    "title": "Closing the AI guidance gap in education"
-   },
-   "sources": [
-    {
-     "title": "Closing the AI guidance gap in education",
-     "link": "https://openai.com/index/closing-ai-guidance-gap-education",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-10T09:00:00.000Z",
-     "points": null,
-     "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning."
-    }
-   ]
-  },
-  {
-   "id": "fireworks-security-breach-impacts",
-   "title": "Fireworks AI security breach impacts Notion and their customers",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [],
-   "rank": 116.41107401720609,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-10T07:19:38.000Z",
-   "latestAt": "2026-11-10T07:19:38.000Z",
+   "publishedAt": "2026-11-10T14:26:02.000Z",
+   "latestAt": "2026-11-10T14:26:02.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Fireworks AI security breach impacts Notion and their customers",
-     "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-     "publisher": "notion.com",
-     "publisherDomain": "notion.com",
-     "kind": "discussion",
-     "date": "2026-11-10T07:19:38.000Z",
-     "points": 24,
-     "summary": ""
+     "title": "Which state AGs are ready to be proactive on AI?",
+     "link": "https://www.lesswrong.com/posts/GAYQ273jt7zLf2BSo/which-state-ags-are-ready-to-be-proactive-on-ai",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-10T14:26:02.000Z",
+     "points": null,
+     "summary": "If federal action in the US isn't forthcoming on AI, state Attorneys General (AGs) may end up being a central force on regulation of AI. I…"
     }
    ]
   },
@@ -140,7 +1304,7 @@
      "kind": "org"
     }
    ],
-   "rank": 94.63727073907054,
+   "rank": 54.20508263671484,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -161,34 +1325,6 @@
    ]
   },
   {
-   "id": "coreweave-bond-yield-tops",
-   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 93.94283152688928,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-10T03:20:06.000Z",
-   "latestAt": "2026-11-10T03:20:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-     "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-     "publisher": "cnbc.com",
-     "publisherDomain": "cnbc.com",
-     "kind": "discussion",
-     "date": "2026-11-10T03:20:06.000Z",
-     "points": 143,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "anthropic-anthropic",
    "title": "llm-anthropic 0.31",
    "category": {
@@ -202,7 +1338,7 @@
      "kind": "org"
     }
    ],
-   "rank": 92.41785013095827,
+   "rank": 52.93387229295875,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -236,7 +1372,7 @@
      "kind": "model"
     }
    ],
-   "rank": 92.26672300845465,
+   "rank": 52.84731170113287,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -257,105 +1393,36 @@
    ]
   },
   {
-   "id": "nvidia-chinese-traders-still-confident",
-   "title": "Chinese traders still confident of Nvidia GPU access amid Jensen Huang scandal",
+   "id": "agents-honeypots-agent-insider-threats",
+   "title": "Honeypots for AI Agent Insider Threats",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [
     {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 87.70563768787163,
-   "deltas": [],
-   "sourceCount": 4,
-   "independentCount": 3,
-   "publishedAt": "2026-11-09T18:09:52.000Z",
-   "latestAt": "2026-11-10T04:00:30.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Chinese traders still confident of Nvidia GPU access amid Jensen Huang scandal",
-     "link": "https://www.scmp.com/tech/big-tech/article/3373855/chinese-traders-still-confident-nvidia-gpu-access-amid-jensen-huang-scandal",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-10T04:00:30.000Z",
-     "points": null,
-     "summary": "Prices for Nvidia graphics processing units (GPUs) are falling in China’s largest electronics market, as traders shrug off the frenzy of market speculation over tightening export…"
-    },
-    {
-     "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-09T23:07:59.000Z",
-     "points": null,
-     "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide…"
-    },
-    {
-     "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-     "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-09T20:09:06.000Z",
-     "points": null,
-     "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier."
-    },
-    {
-     "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-     "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-09T18:09:52.000Z",
-     "points": null,
-     "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s…"
-    }
-   ]
-  },
-  {
-   "id": "anthropic-funding-anthropic-reportedly-plans-move",
-   "title": "Anthropic reportedly plans to move forward with IPO plans",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
+     "id": "agents",
+     "name": "AI Agents",
      "kind": "topic"
-    },
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
     }
    ],
-   "rank": 85.29883350601611,
+   "rank": 48.370509848254876,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-10T01:27:12.000Z",
-   "latestAt": "2026-11-10T01:27:12.000Z",
+   "publishedAt": "2026-11-10T09:40:27.000Z",
+   "latestAt": "2026-11-10T09:40:27.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Anthropic reportedly plans to move forward with IPO plans",
-     "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
+     "title": "Honeypots for AI Agent Insider Threats",
+     "link": "https://www.lesswrong.com/posts/xWjdpJWRk4GWYKyCi/honeypots-for-ai-agent-insider-threats-1",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
      "kind": "coverage",
-     "date": "2026-11-10T01:27:12.000Z",
+     "date": "2026-11-10T09:40:27.000Z",
      "points": null,
-     "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+     "summary": "TLDR: We propose a new AI control method: Honeypots - fake opportunities for malicious actions - placed inside and around an agent during production usage. Previous…"
     }
    ]
   },
@@ -367,7 +1434,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 83.52627953015084,
+   "rank": 47.84107623678536,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -395,7 +1462,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 83.52627953015084,
+   "rank": 47.84107623678536,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -423,7 +1490,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 82.89378865230266,
+   "rank": 47.478806487953996,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -451,7 +1518,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 80.76381322845909,
+   "rank": 46.25882737230577,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -472,17 +1539,17 @@
    ]
   },
   {
-   "id": "google-gemini-google-gemini-routes-personal",
-   "title": "Google Gemini routes personal Drive files and emails to human annotators",
+   "id": "gemini-robotics-gemini-robotics-accelerates-real",
+   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
    "category": {
     "id": "models",
     "name": "Models"
    },
    "entities": [
     {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
     },
     {
      "id": "gemini",
@@ -490,117 +1557,27 @@
      "kind": "model"
     }
    ],
-   "rank": 65.78917663718997,
+   "rank": 37.36218029533635,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-09T18:24:38.000Z",
-   "latestAt": "2026-11-09T18:24:38.000Z",
+   "publishedAt": "2026-11-09T19:51:47.000Z",
+   "latestAt": "2026-11-09T19:51:47.000Z",
    "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/thisisme6598/gemini_files/",
-    "title": "Google Gemini routes personal Drive files and emails to human annotators"
+    "publisher": "Google DeepMind",
+    "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity"
    },
    "sources": [
     {
-     "title": "Google Gemini routes personal Drive files and emails to human annotators",
-     "link": "https://github.com/thisisme6598/gemini_files/",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
+     "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+     "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+     "publisher": "Google DeepMind",
+     "publisherDomain": "deepmind.google",
      "kind": "primary",
-     "date": "2026-11-09T18:24:38.000Z",
-     "points": 593,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "anthropic-anthropic-releases-mythos-fable",
-   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 64.5422202250992,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T19:24:51.000Z",
-   "latestAt": "2026-11-09T19:24:51.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-     "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-09T19:24:51.000Z",
+     "date": "2026-11-09T19:51:47.000Z",
      "points": null,
-     "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
-    }
-   ]
-  },
-  {
-   "id": "measure-optimal-share-labor",
-   "title": "Measure Optimal AI Share of Labor Costs Instead of AI or Human-Only Performance",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 59.71188515333515,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T07:18:13.000Z",
-   "latestAt": "2026-11-10T07:18:13.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Measure Optimal AI Share of Labor Costs Instead of AI or Human-Only Performance",
-     "link": "https://www.lesswrong.com/posts/PvvSiFFaTad2K5dPn/measure-optimal-ai-share-of-labor-costs-instead-of-ai-or",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-10T07:18:13.000Z",
-     "points": null,
-     "summary": "In a research post , Cunningham et al. of METR propose the “‘expenditure horizon’ over an optimization problem as the dollar value at which the improvement…"
-    }
-   ]
-  },
-  {
-   "id": "misaligned-models-still-recognise",
-   "title": "Misaligned Models Still Recognise When Their Responses Are Harmful. Can Training Make Them Care?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 54.77396576630673,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T06:03:30.000Z",
-   "latestAt": "2026-11-10T06:03:30.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Misaligned Models Still Recognise When Their Responses Are Harmful. Can Training Make Them Care?",
-     "link": "https://www.lesswrong.com/posts/DevXcGBKsJG5Rz69o/misaligned-models-still-recognise-when-their-responses-are",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-10T06:03:30.000Z",
-     "points": null,
-     "summary": "tl;dr: Kinda, but the real results are the friends side findings we made along the way: Misaligned models asked to review responses flag harmful content far…"
+     "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
     }
    ]
   },
@@ -618,7 +1595,7 @@
      "kind": "model"
     }
    ],
-   "rank": 53.71847782487721,
+   "rank": 30.768158325743798,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -639,34 +1616,6 @@
    ]
   },
   {
-   "id": "david-ellison-says-could",
-   "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 53.15693625270319,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T00:28:49.000Z",
-   "latestAt": "2026-11-10T00:28:49.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-     "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-10T00:28:49.000Z",
-     "points": null,
-     "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI…"
-    }
-   ]
-  },
-  {
    "id": "jensen-huang-troubles-leave",
    "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
    "category": {
@@ -674,7 +1623,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 52.5160335516902,
+   "rank": 30.079438219118437,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -702,7 +1651,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 51.039886245632935,
+   "rank": 29.233950114020693,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -730,7 +1679,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 50.58764756733088,
+   "rank": 28.974922832935327,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -747,40 +1696,6 @@
      "date": "2026-11-10T00:30:20.000Z",
      "points": null,
      "summary": "For Sunny He, a 32-year-old Shanghai resident, this year’s Singles’ Day shopping season culminated in a single, high-value purchase: a 12,000-yuan (US$1,797) iPhone 18 Pro Max…"
-    }
-   ]
-  },
-  {
-   "id": "anthropic-anthropic-joins-natural-frenzy",
-   "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 47.30609294678937,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T16:56:54.000Z",
-   "latestAt": "2026-11-09T16:56:54.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-     "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-09T16:56:54.000Z",
-     "points": null,
-     "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse."
     }
    ]
   },
@@ -803,7 +1718,7 @@
      "kind": "org"
     }
    ],
-   "rank": 47.26400230175151,
+   "rank": 27.07124931330711,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -828,141 +1743,6 @@
    ]
   },
   {
-   "id": "nvidia-short-seller-flagged-nvidia",
-   "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 47.211778945463465,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T22:46:09.000Z",
-   "latestAt": "2026-11-09T22:46:09.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-     "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-09T22:46:09.000Z",
-     "points": null,
-     "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
-    }
-   ]
-  },
-  {
-   "id": "nvidia-copyright-race-nvidia",
-   "title": "The race is on to sue Nvidia",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "copyright",
-     "name": "AI & Copyright",
-     "kind": "topic"
-    },
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 46.00307114956584,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T22:23:42.000Z",
-   "latestAt": "2026-11-09T22:23:42.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The race is on to sue Nvidia",
-     "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-09T22:23:42.000Z",
-     "points": null,
-     "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert…"
-    }
-   ]
-  },
-  {
-   "id": "global-pledge-climate-good",
-   "title": "The global pledge to use AI for climate good is a cruel joke",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 42.40814237804078,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T21:13:16.000Z",
-   "latestAt": "2026-11-09T21:13:16.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The global pledge to use AI for climate good is a cruel joke",
-     "link": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-09T21:13:16.000Z",
-     "points": null,
-     "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm…"
-    }
-   ]
-  },
-  {
-   "id": "safety-western-safety-playbook-doesn",
-   "title": "The Western AI safety playbook doesn’t transfer to China",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 40.50192106446247,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T01:42:12.000Z",
-   "latestAt": "2026-11-10T01:42:12.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Western AI safety playbook doesn’t transfer to China",
-     "link": "https://www.lesswrong.com/posts/AcBzhiaTW9KnB4EBv/the-western-ai-safety-playbook-doesn-t-transfer-to-china-1",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-10T01:42:12.000Z",
-     "points": null,
-     "summary": "Crossposted from my blog . Last month, I spent two weeks in China talking with people about AI safety. I learned a lot and realized the…"
-    }
-   ]
-  },
-  {
    "id": "exploring-world-languages-with",
    "title": "Exploring the world's languages with Language Explorer",
    "category": {
@@ -970,7 +1750,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 40.32422608191153,
+   "rank": 23.096376194724716,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -991,128 +1771,6 @@
      "date": "2026-11-09T20:29:39.000Z",
      "points": null,
      "summary": "Natural Language Processing"
-    }
-   ]
-  },
-  {
-   "id": "funding-hardware-startup-nominal-triples",
-   "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    }
-   ],
-   "rank": 37.28274167751378,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T19:21:46.000Z",
-   "latestAt": "2026-11-09T19:21:46.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-     "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-09T19:21:46.000Z",
-     "points": null,
-     "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that…"
-    }
-   ]
-  },
-  {
-   "id": "apple-apple-intelligence-usage-packs",
-   "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "apple",
-     "name": "Apple",
-     "kind": "org"
-    }
-   ],
-   "rank": 36.777955686043065,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T19:09:58.000Z",
-   "latestAt": "2026-11-09T19:09:58.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-     "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-09T19:09:58.000Z",
-     "points": null,
-     "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to…"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-nvidia-affair-becomes-national",
-   "title": "Nvidia CEO's affair becomes a national security problem",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 36.74147258857797,
-   "deltas": [],
-   "sourceCount": 3,
-   "independentCount": 2,
-   "publishedAt": "2026-11-09T00:53:13.000Z",
-   "latestAt": "2026-11-09T15:23:20.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Nvidia CEO's affair becomes a national security problem",
-     "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-09T15:23:20.000Z",
-     "points": null,
-     "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair."
-    },
-    {
-     "title": "Nvidia fallout: chipmaker faces extensive risks after CEO affair, analysts and lawyers say",
-     "link": "https://www.scmp.com/tech/tech-war/article/3373820/nvidia-fallout-chipmaker-faces-extensive-risks-after-ceo-affair-analysts-and-lawyers-say",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-09T12:30:08.000Z",
-     "points": null,
-     "summary": "As Nvidia launched an investigation into CEO Jensen Huang after he admitted to an extramarital affair, the repercussions threaten not only his three-decade tenure but also…"
-    },
-    {
-     "title": "Nvidia CEO Jensen Huang admits to affair; board orders investigation",
-     "link": "https://www.scmp.com/tech/article/3373724/nvidia-ceo-jensen-huang-admits-affair-board-orders-investigation",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-09T00:53:13.000Z",
-     "points": null,
-     "summary": "The board of US AI chip giant Nvidia has announced an independent investigation as chief executive Jensen Huang said in a memo to employees that he…"
     }
    ]
   },
@@ -1145,7 +1803,7 @@
      "kind": "org"
     }
    ],
-   "rank": 36.535451136400916,
+   "rank": 20.92629185681564,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1179,7 +1837,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 36.47980246332774,
+   "rank": 20.89441814681747,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1213,7 +1871,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 35.70139920321849,
+   "rank": 20.44857463601671,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1234,34 +1892,6 @@
    ]
   },
   {
-   "id": "instagram-effect-builder-makes",
-   "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 34.212789414927194,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T18:07:23.000Z",
-   "latestAt": "2026-11-09T18:07:23.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-     "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-09T18:07:23.000Z",
-     "points": null,
-     "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with…"
-    }
-   ]
-  },
-  {
    "id": "nancy-pelosi-replacement-ready",
    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
    "category": {
@@ -1269,7 +1899,7 @@
     "name": "Policy & Regulation"
    },
    "entities": [],
-   "rank": 33.45327104704363,
+   "rank": 19.160921563060178,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1297,7 +1927,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 31.904959574884323,
+   "rank": 18.274100222584636,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1329,7 +1959,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 31.182612465974707,
+   "rank": 17.860363811707007,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1354,68 +1984,6 @@
    ]
   },
   {
-   "id": "medium-brings-assistance-directly",
-   "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [],
-   "rank": 29.959383904380715,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T16:12:28.000Z",
-   "latestAt": "2026-11-09T16:12:28.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-     "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-09T16:12:28.000Z",
-     "points": null,
-     "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing."
-    }
-   ]
-  },
-  {
-   "id": "meta-ai-meta-expands-instagram-guessing",
-   "title": "Meta expands Instagram’s AI age-guessing tech globally",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 28.60591539330209,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T15:32:27.000Z",
-   "latestAt": "2026-11-09T15:32:27.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta expands Instagram’s AI age-guessing tech globally",
-     "link": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-09T15:32:27.000Z",
-     "points": null,
-     "summary": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult…"
-    }
-   ]
-  },
-  {
    "id": "your-experts-have-partners",
    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
    "category": {
@@ -1423,7 +1991,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.783347042198482,
+   "rank": 15.340610822484495,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1455,7 +2023,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.643539162060804,
+   "rank": 15.260533516398384,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1489,7 +2057,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 26.45932407576346,
+   "rank": 15.155021238860199,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1527,7 +2095,7 @@
      "kind": "org"
     }
    ],
-   "rank": 25.62619898259939,
+   "rank": 14.67783488121268,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1561,7 +2129,7 @@
      "kind": "org"
     }
    ],
-   "rank": 25.287493452217884,
+   "rank": 14.483835613054772,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1589,7 +2157,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 25.185956222518033,
+   "rank": 14.425678463301814,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1617,7 +2185,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.04943672980288,
+   "rank": 12.629184365716833,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1642,6 +2210,40 @@
    ]
   },
   {
+   "id": "nvidia-nvidia-fallout-chipmaker-faces",
+   "title": "Nvidia fallout: chipmaker faces extensive risks after CEO affair, analysts and lawyers say",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 12.609154027061722,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T12:30:08.000Z",
+   "latestAt": "2026-11-09T12:30:08.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Nvidia fallout: chipmaker faces extensive risks after CEO affair, analysts and lawyers say",
+     "link": "https://www.scmp.com/tech/tech-war/article/3373820/nvidia-fallout-chipmaker-faces-extensive-risks-after-ceo-affair-analysts-and-lawyers-say",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-09T12:30:08.000Z",
+     "points": null,
+     "summary": "As Nvidia launched an investigation into CEO Jensen Huang after he admitted to an extramarital affair, the repercussions threaten not only his three-decade tenure but also…"
+    }
+   ]
+  },
+  {
    "id": "paper-unicorns-cheap-building",
    "title": "Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table",
    "category": {
@@ -1649,7 +2251,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 21.2744006102014,
+   "rank": 12.185269441064499,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1677,7 +2279,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 20.88156988253771,
+   "rank": 11.960269059196344,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1705,7 +2307,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.59288931308387,
+   "rank": 11.794922425669654,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1733,7 +2335,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.45735329626351,
+   "rank": 11.717291900881436,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1772,7 +2374,7 @@
      "kind": "org"
     }
    ],
-   "rank": 16.961105176771447,
+   "rank": 9.714757204397564,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1800,7 +2402,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.016007823944665,
+   "rank": 9.173436858727808,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1828,7 +2430,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.878450563657406,
+   "rank": 9.094648632874284,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1856,7 +2458,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.087863408448623,
+   "rank": 7.49629307832638,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1884,7 +2486,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 13.087863408448623,
+   "rank": 7.49629307832638,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1912,7 +2514,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 10.48697012437735,
+   "rank": 6.006587867140949,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1940,7 +2542,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.058386626546572,
+   "rank": 4.615575973391016,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1968,7 +2570,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.408153525929683,
+   "rank": 3.670377312332726,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1996,7 +2598,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.991948866791192,
+   "rank": 2.859222362706623,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2024,7 +2626,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.2402762941928644,
+   "rank": 2.428689301099391,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2045,34 +2647,6 @@
    ]
   },
   {
-   "id": "world-models-will-soon",
-   "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 3.6913749164408,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-08T10:00:00.000Z",
-   "latestAt": "2026-11-08T10:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
-     "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-08T10:00:00.000Z",
-     "points": null,
-     "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality."
-    }
-   ]
-  },
-  {
    "id": "will-soon-master-biology",
    "title": "AI will soon master biology, unleashing new safety risks, Tencent AI chief warns",
    "category": {
@@ -2080,7 +2654,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.5989457571987034,
+   "rank": 2.0613564893674776,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2114,7 +2688,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.2737302918354674,
+   "rank": 1.875083881999544,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2142,7 +2716,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.20911796085748,
+   "rank": 1.2653093299011888,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2170,7 +2744,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 1.629609179740652,
+   "rank": 0.9333859647848359,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2187,34 +2761,6 @@
      "date": "2026-11-07T19:34:24.000Z",
      "points": null,
      "summary": "My comment on Terry Pratchett's Study — Hacker News. Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical wealth is where you spend money…"
-    }
-   ]
-  },
-  {
-   "id": "apps-caregivers-dose-that",
-   "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7495820304320843,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-07T11:00:00.000Z",
-   "latestAt": "2026-11-07T11:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-     "link": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-07T11:00:00.000Z",
-     "points": null,
-     "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved."
     }
    ]
   }
