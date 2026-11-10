@@ -1,16 +1,75 @@
 {
- "anthropic-claude-anthropic-launches-claude-fable": {
-  "id": "anthropic-claude-anthropic-launches-claude-fable",
-  "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-  "firstSeen": "2026-11-10T01:57:20.982Z",
+ "claude-quoting-prompting-claude-fable": {
+  "id": "claude-quoting-prompting-claude-fable",
+  "title": "Quoting Prompting Claude Fable 5.2",
+  "firstSeen": "2026-11-10T09:35:49.125Z",
   "publishers": [
-   "The Verge",
-   "artificialanalysis.ai"
+   "Simon Willison"
   ],
-  "sourceCount": 2,
+  "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
   "category": "models"
+ },
+ "introducing-smallest-most-efficient": {
+  "id": "introducing-smallest-most-efficient",
+  "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+  "firstSeen": "2026-11-10T09:35:49.125Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "models"
+ },
+ "closing-guidance-education": {
+  "id": "closing-guidance-education",
+  "title": "Closing the AI guidance gap in education",
+  "firstSeen": "2026-11-10T09:35:49.125Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "fireworks-security-breach-impacts": {
+  "id": "fireworks-security-breach-impacts",
+  "title": "Fireworks AI security breach impacts Notion and their customers",
+  "firstSeen": "2026-11-10T09:35:49.125Z",
+  "publishers": [
+   "notion.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "security"
+ },
+ "google-deepmind-tool-from-google-deepmind": {
+  "id": "google-deepmind-tool-from-google-deepmind",
+  "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+  "firstSeen": "2026-11-10T09:35:49.125Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "tools"
+ },
+ "coreweave-bond-yield-tops": {
+  "id": "coreweave-bond-yield-tops",
+  "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+  "firstSeen": "2026-11-10T09:35:49.125Z",
+  "publishers": [
+   "cnbc.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
  },
  "anthropic-anthropic": {
   "id": "anthropic-anthropic",
@@ -36,6 +95,20 @@
   "hadPrimary": false,
   "category": "models"
  },
+ "nvidia-chinese-traders-still-confident": {
+  "id": "nvidia-chinese-traders-still-confident",
+  "title": "Chinese traders still confident of Nvidia GPU access amid Jensen Huang scandal",
+  "firstSeen": "2026-11-10T09:35:49.125Z",
+  "publishers": [
+   "SCMP Tech",
+   "The Verge",
+   "TechCrunch"
+  ],
+  "sourceCount": 4,
+  "independentCount": 3,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "anthropic-funding-anthropic-reportedly-plans-move": {
   "id": "anthropic-funding-anthropic-reportedly-plans-move",
   "title": "Anthropic reportedly plans to move forward with IPO plans",
@@ -48,17 +121,51 @@
   "hadPrimary": false,
   "category": "business"
  },
- "nvidia-everything-know-about-nvidia": {
-  "id": "nvidia-everything-know-about-nvidia",
-  "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-  "firstSeen": "2026-11-10T01:57:20.982Z",
+ "otter-follow-conversations-across": {
+  "id": "otter-follow-conversations-across",
+  "title": "Otter AI can now follow conversations across 30+ languages",
+  "firstSeen": "2026-11-10T09:35:49.125Z",
   "publishers": [
-   "The Verge",
-   "TechCrunch",
-   "SCMP Tech"
+   "TechCrunch"
   ],
-  "sourceCount": 4,
-  "independentCount": 3,
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "security-flaws-across-government": {
+  "id": "security-flaws-across-government",
+  "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+  "firstSeen": "2026-11-10T09:35:49.125Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "team-receives-funding-develop": {
+  "id": "team-receives-funding-develop",
+  "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
+  "firstSeen": "2026-11-10T09:35:49.125Z",
+  "publishers": [
+   "MIT News AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
+ },
+ "yonkers-rises": {
+  "id": "yonkers-rises",
+  "title": "Yonkers Rises",
+  "firstSeen": "2026-11-10T09:35:49.125Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -74,27 +181,39 @@
   "hadPrimary": true,
   "category": "models"
  },
- "event": {
-  "id": "event",
-  "title": "TPU 8tx and TPU 8i Max",
-  "firstSeen": "2026-11-10T01:57:20.982Z",
+ "anthropic-anthropic-releases-mythos-fable": {
+  "id": "anthropic-anthropic-releases-mythos-fable",
+  "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+  "firstSeen": "2026-11-10T09:35:49.125Z",
   "publishers": [
-   "Google"
+   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": true,
+  "hadPrimary": false,
   "category": "general"
  },
- "smallest-most-efficient-model": {
-  "id": "smallest-most-efficient-model",
-  "title": "Our Smallest, Most Efficient Model: Muse Ember",
-  "firstSeen": "2026-11-10T01:57:20.982Z",
+ "measure-optimal-share-labor": {
+  "id": "measure-optimal-share-labor",
+  "title": "Measure Optimal AI Share of Labor Costs Instead of AI or Human-Only Performance",
+  "firstSeen": "2026-11-10T09:35:49.125Z",
   "publishers": [
-   "research.meta.ai"
+   "LessWrong"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "misaligned-models-still-recognise": {
+  "id": "misaligned-models-still-recognise",
+  "title": "Misaligned Models Still Recognise When Their Responses Are Harmful. Can Training Make Them Care?",
+  "firstSeen": "2026-11-10T09:35:49.125Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -158,18 +277,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "show-ste80-humanizer-text": {
-  "id": "show-ste80-humanizer-text",
-  "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-  "firstSeen": "2026-11-10T01:57:20.982Z",
-  "publishers": [
-   "GitHub"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
  "anthropic-anthropic-joins-natural-frenzy": {
   "id": "anthropic-anthropic-joins-natural-frenzy",
   "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
@@ -193,6 +300,18 @@
   "independentCount": 1,
   "hadPrimary": true,
   "category": "models"
+ },
+ "nvidia-short-seller-flagged-nvidia": {
+  "id": "nvidia-short-seller-flagged-nvidia",
+  "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+  "firstSeen": "2026-11-10T09:35:49.125Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
  },
  "nvidia-copyright-race-nvidia": {
   "id": "nvidia-copyright-race-nvidia",
@@ -230,18 +349,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "safety-need-more-transparency-about": {
-  "id": "safety-need-more-transparency-about",
-  "title": "We need more transparency about alignment overfitting",
-  "firstSeen": "2026-11-10T01:57:20.982Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "exploring-world-languages-with": {
   "id": "exploring-world-languages-with",
   "title": "Exploring the world's languages with Language Explorer",
@@ -252,30 +359,6 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "category": "general"
- },
- "nvidia-jensen-huang-pulls-elevenlabs": {
-  "id": "nvidia-jensen-huang-pulls-elevenlabs",
-  "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-  "firstSeen": "2026-11-10T01:57:20.982Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "safety-would-press-button-hard": {
-  "id": "safety-would-press-button-hard",
-  "title": "Would you press the button? The hard problem of alignment",
-  "firstSeen": "2026-11-10T01:57:20.982Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
   "category": "general"
  },
  "funding-hardware-startup-nominal-triples": {
@@ -310,7 +393,7 @@
    "Ars Technica AI",
    "SCMP Tech"
   ],
-  "sourceCount": 2,
+  "sourceCount": 3,
   "independentCount": 2,
   "hadPrimary": false,
   "category": "general"
@@ -333,18 +416,6 @@
   "firstSeen": "2026-11-09T18:39:11.320Z",
   "publishers": [
    "IEEE Spectrum"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "whose-side-game-where": {
-  "id": "whose-side-game-where",
-  "title": "Whose Side? A game where you audit models for secret loyalties",
-  "firstSeen": "2026-11-10T01:57:20.982Z",
-  "publishers": [
-   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -397,18 +468,6 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "category": "general"
- },
- "hiring-growth-lead-distribute": {
-  "id": "hiring-growth-lead-distribute",
-  "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
-  "firstSeen": "2026-11-09T18:39:11.320Z",
-  "publishers": [
-   "ycombinator.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
   "category": "general"
  },
  "control-room-central-system": {

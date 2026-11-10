@@ -1,54 +1,189 @@
 {
  "date": "2026-11-10",
- "generated": "2026-11-10T01:57:21.034Z",
- "headline": "64 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2877 items read · 69 on-topic · 64 distinct developments · 10 with a primary source · 2 independently corroborated",
+ "generated": "2026-11-10T09:35:49.191Z",
+ "headline": "69 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2878 items read · 74 on-topic · 69 distinct developments · 9 with a primary source · 2 independently corroborated",
  "events": [
   {
-   "id": "anthropic-claude-anthropic-launches-claude-fable",
-   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+   "id": "claude-quoting-prompting-claude-fable",
+   "title": "Quoting Prompting Claude Fable 5.2",
    "category": {
     "id": "models",
-    "name": "New Models"
+    "name": "Models"
    },
    "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    },
     {
      "id": "claude",
      "name": "Claude",
      "kind": "model"
     }
    ],
-   "rank": 163.93558248083554,
+   "rank": 185.18422367806957,
    "deltas": [],
-   "sourceCount": 2,
+   "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-09T19:00:00.000Z",
-   "latestAt": "2026-11-09T20:04:55.000Z",
+   "publishedAt": "2026-11-10T05:34:14.000Z",
+   "latestAt": "2026-11-10T05:34:14.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
+     "title": "Quoting Prompting Claude Fable 5.2",
+     "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
      "kind": "coverage",
-     "date": "2026-11-09T19:00:00.000Z",
+     "date": "2026-11-10T05:34:14.000Z",
      "points": null,
-     "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The…"
-    },
+     "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when…"
+    }
+   ]
+  },
+  {
+   "id": "introducing-smallest-most-efficient",
+   "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [],
+   "rank": 140.8532781464391,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T07:28:21.000Z",
+   "latestAt": "2026-11-10T07:28:21.000Z",
+   "primary": null,
+   "sources": [
     {
-     "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-     "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
-     "publisher": "artificialanalysis.ai",
-     "publisherDomain": "artificialanalysis.ai",
+     "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+     "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-10T07:28:21.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "closing-guidance-education",
+   "title": "Closing the AI guidance gap in education",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 124.73044986389883,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T09:00:00.000Z",
+   "latestAt": "2026-11-10T09:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "title": "Closing the AI guidance gap in education"
+   },
+   "sources": [
+    {
+     "title": "Closing the AI guidance gap in education",
+     "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-10T09:00:00.000Z",
+     "points": null,
+     "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning."
+    }
+   ]
+  },
+  {
+   "id": "fireworks-security-breach-impacts",
+   "title": "Fireworks AI security breach impacts Notion and their customers",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [],
+   "rank": 116.41107401720609,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-10T07:19:38.000Z",
+   "latestAt": "2026-11-10T07:19:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Fireworks AI security breach impacts Notion and their customers",
+     "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+     "publisher": "notion.com",
+     "publisherDomain": "notion.com",
      "kind": "discussion",
-     "date": "2026-11-09T20:04:55.000Z",
-     "points": 282,
+     "date": "2026-11-10T07:19:38.000Z",
+     "points": 24,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "google-deepmind-tool-from-google-deepmind",
+   "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [
+    {
+     "id": "google-deepmind",
+     "name": "Google DeepMind",
+     "kind": "org"
+    }
+   ],
+   "rank": 94.63727073907054,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T05:01:00.000Z",
+   "latestAt": "2026-11-10T05:01:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+     "link": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-10T05:01:00.000Z",
+     "points": null,
+     "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software…"
+    }
+   ]
+  },
+  {
+   "id": "coreweave-bond-yield-tops",
+   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 93.94283152688928,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-10T03:20:06.000Z",
+   "latestAt": "2026-11-10T03:20:06.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+     "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+     "publisher": "cnbc.com",
+     "publisherDomain": "cnbc.com",
+     "kind": "discussion",
+     "date": "2026-11-10T03:20:06.000Z",
+     "points": 143,
      "summary": ""
     }
    ]
@@ -67,7 +202,7 @@
      "kind": "org"
     }
    ],
-   "rank": 156.95581911913445,
+   "rank": 92.41785013095827,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -83,7 +218,7 @@
      "kind": "coverage",
      "date": "2026-11-09T23:58:46.000Z",
      "points": null,
-     "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic , so you can now run prompts through Fable 5.2…"
+     "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis . Anthropic say it \"solved two…"
     }
    ]
   },
@@ -101,7 +236,7 @@
      "kind": "model"
     }
    ],
-   "rank": 156.6991557010819,
+   "rank": 92.26672300845465,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -118,6 +253,70 @@
      "date": "2026-11-09T23:57:21.000Z",
      "points": null,
      "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that…"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-chinese-traders-still-confident",
+   "title": "Chinese traders still confident of Nvidia GPU access amid Jensen Huang scandal",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 87.70563768787163,
+   "deltas": [],
+   "sourceCount": 4,
+   "independentCount": 3,
+   "publishedAt": "2026-11-09T18:09:52.000Z",
+   "latestAt": "2026-11-10T04:00:30.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Chinese traders still confident of Nvidia GPU access amid Jensen Huang scandal",
+     "link": "https://www.scmp.com/tech/big-tech/article/3373855/chinese-traders-still-confident-nvidia-gpu-access-amid-jensen-huang-scandal",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-10T04:00:30.000Z",
+     "points": null,
+     "summary": "Prices for Nvidia graphics processing units (GPUs) are falling in China’s largest electronics market, as traders shrug off the frenzy of market speculation over tightening export…"
+    },
+    {
+     "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-09T23:07:59.000Z",
+     "points": null,
+     "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide…"
+    },
+    {
+     "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+     "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-09T20:09:06.000Z",
+     "points": null,
+     "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier."
+    },
+    {
+     "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+     "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-09T18:09:52.000Z",
+     "points": null,
+     "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s…"
     }
    ]
   },
@@ -140,7 +339,7 @@
      "kind": "org"
     }
    ],
-   "rank": 144.86539411890783,
+   "rank": 85.29883350601611,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -161,66 +360,114 @@
    ]
   },
   {
-   "id": "nvidia-everything-know-about-nvidia",
-   "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+   "id": "otter-follow-conversations-across",
+   "title": "Otter AI can now follow conversations across 30+ languages",
    "category": {
     "id": "general",
     "name": "Other"
    },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 111.83171386023623,
+   "entities": [],
+   "rank": 83.52627953015084,
    "deltas": [],
-   "sourceCount": 4,
-   "independentCount": 3,
-   "publishedAt": "2026-11-09T00:53:13.000Z",
-   "latestAt": "2026-11-09T23:07:59.000Z",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T07:00:00.000Z",
+   "latestAt": "2026-11-10T07:00:00.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-09T23:07:59.000Z",
-     "points": null,
-     "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide…"
-    },
-    {
-     "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-     "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+     "title": "Otter AI can now follow conversations across 30+ languages",
+     "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
      "publisher": "TechCrunch",
      "publisherDomain": "techcrunch.com",
      "kind": "coverage",
-     "date": "2026-11-09T22:46:09.000Z",
+     "date": "2026-11-10T07:00:00.000Z",
      "points": null,
-     "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
-    },
+     "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
+    }
+   ]
+  },
+  {
+   "id": "security-flaws-across-government",
+   "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 83.52627953015084,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T07:00:00.000Z",
+   "latestAt": "2026-11-10T07:00:00.000Z",
+   "primary": null,
+   "sources": [
     {
-     "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-     "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
+     "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+     "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
      "kind": "coverage",
-     "date": "2026-11-09T18:09:52.000Z",
+     "date": "2026-11-10T07:00:00.000Z",
      "points": null,
-     "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s…"
-    },
+     "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments."
+    }
+   ]
+  },
+  {
+   "id": "team-receives-funding-develop",
+   "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [],
+   "rank": 82.89378865230266,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T05:00:00.000Z",
+   "latestAt": "2026-11-10T05:00:00.000Z",
+   "primary": null,
+   "sources": [
     {
-     "title": "Nvidia CEO Jensen Huang admits to affair; board orders investigation",
-     "link": "https://www.scmp.com/tech/article/3373724/nvidia-ceo-jensen-huang-admits-affair-board-orders-investigation",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
+     "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
+     "link": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
+     "publisher": "MIT News AI",
+     "publisherDomain": "news.mit.edu",
      "kind": "coverage",
-     "date": "2026-11-09T00:53:13.000Z",
+     "date": "2026-11-10T05:00:00.000Z",
      "points": null,
-     "summary": "The board of US AI chip giant Nvidia has announced an independent investigation as chief executive Jensen Huang said in a memo to employees that he…"
+     "summary": "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of…"
+    }
+   ]
+  },
+  {
+   "id": "yonkers-rises",
+   "title": "Yonkers Rises",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 80.76381322845909,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T03:53:04.000Z",
+   "latestAt": "2026-11-10T03:53:04.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Yonkers Rises",
+     "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-10T03:53:04.000Z",
+     "points": null,
+     "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location…"
     }
    ]
   },
@@ -243,7 +490,7 @@
      "kind": "model"
     }
    ],
-   "rank": 111.7315983181971,
+   "rank": 65.78917663718997,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -262,68 +509,98 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-11-09T18:24:38.000Z",
-     "points": 407,
+     "points": 593,
      "summary": ""
     }
    ]
   },
   {
-   "id": "event",
-   "title": "TPU 8tx and TPU 8i Max",
+   "id": "anthropic-anthropic-releases-mythos-fable",
+   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
    "category": {
     "id": "general",
     "name": "Other"
    },
-   "entities": [],
-   "rank": 109.83872116120497,
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 64.5422202250992,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-09T21:56:57.000Z",
-   "latestAt": "2026-11-09T21:56:57.000Z",
-   "primary": {
-    "publisher": "Google",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-    "title": "TPU 8tx and TPU 8i Max"
-   },
+   "publishedAt": "2026-11-09T19:24:51.000Z",
+   "latestAt": "2026-11-09T19:24:51.000Z",
+   "primary": null,
    "sources": [
     {
-     "title": "TPU 8tx and TPU 8i Max",
-     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-     "publisher": "Google",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-11-09T21:56:57.000Z",
-     "points": 203,
-     "summary": ""
+     "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+     "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-09T19:24:51.000Z",
+     "points": null,
+     "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
     }
    ]
   },
   {
-   "id": "smallest-most-efficient-model",
-   "title": "Our Smallest, Most Efficient Model: Muse Ember",
+   "id": "measure-optimal-share-labor",
+   "title": "Measure Optimal AI Share of Labor Costs Instead of AI or Human-Only Performance",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 98.43214037302181,
+   "rank": 59.71188515333515,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-09T17:58:46.000Z",
-   "latestAt": "2026-11-09T17:58:46.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T07:18:13.000Z",
+   "latestAt": "2026-11-10T07:18:13.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Our Smallest, Most Efficient Model: Muse Ember",
-     "link": "https://research.meta.ai/blog/muse-ember",
-     "publisher": "research.meta.ai",
-     "publisherDomain": "research.meta.ai",
-     "kind": "discussion",
-     "date": "2026-11-09T17:58:46.000Z",
-     "points": 246,
-     "summary": ""
+     "title": "Measure Optimal AI Share of Labor Costs Instead of AI or Human-Only Performance",
+     "link": "https://www.lesswrong.com/posts/PvvSiFFaTad2K5dPn/measure-optimal-ai-share-of-labor-costs-instead-of-ai-or",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-10T07:18:13.000Z",
+     "points": null,
+     "summary": "In a research post , Cunningham et al. of METR propose the “‘expenditure horizon’ over an optimization problem as the dollar value at which the improvement…"
+    }
+   ]
+  },
+  {
+   "id": "misaligned-models-still-recognise",
+   "title": "Misaligned Models Still Recognise When Their Responses Are Harmful. Can Training Make Them Care?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 54.77396576630673,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T06:03:30.000Z",
+   "latestAt": "2026-11-10T06:03:30.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Misaligned Models Still Recognise When Their Responses Are Harmful. Can Training Make Them Care?",
+     "link": "https://www.lesswrong.com/posts/DevXcGBKsJG5Rz69o/misaligned-models-still-recognise-when-their-responses-are",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-10T06:03:30.000Z",
+     "points": null,
+     "summary": "tl;dr: Kinda, but the real results are the friends side findings we made along the way: Misaligned models asked to review responses flag harmful content far…"
     }
    ]
   },
@@ -341,7 +618,7 @@
      "kind": "model"
     }
    ],
-   "rank": 91.231592997339,
+   "rank": 53.71847782487721,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -369,7 +646,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 90.27791124316354,
+   "rank": 53.15693625270319,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -397,7 +674,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 89.18944826473873,
+   "rank": 52.5160335516902,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -425,7 +702,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 86.68246601797135,
+   "rank": 51.039886245632935,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -453,7 +730,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 85.91441642484979,
+   "rank": 50.58764756733088,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -474,38 +751,6 @@
    ]
   },
   {
-   "id": "show-ste80-humanizer-text",
-   "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 84.09113498223712,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T18:05:44.000Z",
-   "latestAt": "2026-11-09T18:05:44.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/Dodaios/ste80-humanizer",
-    "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100"
-   },
-   "sources": [
-    {
-     "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-     "link": "https://github.com/Dodaios/ste80-humanizer",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-11-09T18:05:44.000Z",
-     "points": 57,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "anthropic-anthropic-joins-natural-frenzy",
    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
    "category": {
@@ -519,7 +764,7 @@
      "kind": "org"
     }
    ],
-   "rank": 80.3412604520434,
+   "rank": 47.30609294678937,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -558,7 +803,7 @@
      "kind": "org"
     }
    ],
-   "rank": 80.26977673261251,
+   "rank": 47.26400230175151,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -583,6 +828,40 @@
    ]
   },
   {
+   "id": "nvidia-short-seller-flagged-nvidia",
+   "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 47.211778945463465,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-09T22:46:09.000Z",
+   "latestAt": "2026-11-09T22:46:09.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+     "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-09T22:46:09.000Z",
+     "points": null,
+     "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
+    }
+   ]
+  },
+  {
    "id": "nvidia-copyright-race-nvidia",
    "title": "The race is on to sue Nvidia",
    "category": {
@@ -601,7 +880,7 @@
      "kind": "org"
     }
    ],
-   "rank": 78.12830209796462,
+   "rank": 46.00307114956584,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -629,7 +908,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 72.02293404179245,
+   "rank": 42.40814237804078,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -663,7 +942,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 68.7855450820723,
+   "rank": 40.50192106446247,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -684,40 +963,6 @@
    ]
   },
   {
-   "id": "safety-need-more-transparency-about",
-   "title": "We need more transparency about alignment overfitting",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 68.5581245550784,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T01:39:20.000Z",
-   "latestAt": "2026-11-10T01:39:20.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "We need more transparency about alignment overfitting",
-     "link": "https://www.lesswrong.com/posts/JTB8JjQfmkHsJtBDs/we-need-more-transparency-about-alignment-overfitting",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-10T01:39:20.000Z",
-     "points": null,
-     "summary": "Currently, the public has very little insight about the robustness of alignment methods used by AGI companies. It’s possible that, when an AGI company notices some…"
-    }
-   ]
-  },
-  {
    "id": "exploring-world-languages-with",
    "title": "Exploring the world's languages with Language Explorer",
    "category": {
@@ -725,7 +970,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 68.4837607243955,
+   "rank": 40.32422608191153,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -750,74 +995,6 @@
    ]
   },
   {
-   "id": "nvidia-jensen-huang-pulls-elevenlabs",
-   "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 66.8770832753354,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T20:09:06.000Z",
-   "latestAt": "2026-11-09T20:09:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-     "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-09T20:09:06.000Z",
-     "points": null,
-     "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier."
-    }
-   ]
-  },
-  {
-   "id": "safety-would-press-button-hard",
-   "title": "Would you press the button? The hard problem of alignment",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 64.48388902170578,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T00:46:18.000Z",
-   "latestAt": "2026-11-10T00:46:18.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Would you press the button? The hard problem of alignment",
-     "link": "https://www.lesswrong.com/posts/KgQnkjtHRp6r2Br8L/would-you-press-the-button-the-hard-problem-of-alignment-1",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-10T00:46:18.000Z",
-     "points": null,
-     "summary": "There is a TL;DR at the end. The heaven button: You wake up one day and find a button in front of you, with a proof…"
-    }
-   ]
-  },
-  {
    "id": "funding-hardware-startup-nominal-triples",
    "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
    "category": {
@@ -831,7 +1008,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 63.31832271264924,
+   "rank": 37.28274167751378,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -865,7 +1042,7 @@
      "kind": "org"
     }
    ],
-   "rank": 62.46103054821474,
+   "rank": 36.777955686043065,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -899,11 +1076,11 @@
      "kind": "org"
     }
    ],
-   "rank": 62.39907028362815,
+   "rank": 36.74147258857797,
    "deltas": [],
-   "sourceCount": 2,
+   "sourceCount": 3,
    "independentCount": 2,
-   "publishedAt": "2026-11-09T12:30:08.000Z",
+   "publishedAt": "2026-11-09T00:53:13.000Z",
    "latestAt": "2026-11-09T15:23:20.000Z",
    "primary": null,
    "sources": [
@@ -926,6 +1103,16 @@
      "date": "2026-11-09T12:30:08.000Z",
      "points": null,
      "summary": "As Nvidia launched an investigation into CEO Jensen Huang after he admitted to an extramarital affair, the repercussions threaten not only his three-decade tenure but also…"
+    },
+    {
+     "title": "Nvidia CEO Jensen Huang admits to affair; board orders investigation",
+     "link": "https://www.scmp.com/tech/article/3373724/nvidia-ceo-jensen-huang-admits-affair-board-orders-investigation",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-09T00:53:13.000Z",
+     "points": null,
+     "summary": "The board of US AI chip giant Nvidia has announced an independent investigation as chief executive Jensen Huang said in a memo to employees that he…"
     }
    ]
   },
@@ -958,7 +1145,7 @@
      "kind": "org"
     }
    ],
-   "rank": 62.04917829050409,
+   "rank": 36.535451136400916,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -992,7 +1179,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 61.954668592943314,
+   "rank": 36.47980246332774,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1013,34 +1200,6 @@
    ]
   },
   {
-   "id": "whose-side-game-where",
-   "title": "Whose Side? A game where you audit models for secret loyalties",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 60.88226737881917,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T23:56:33.000Z",
-   "latestAt": "2026-11-09T23:56:33.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Whose Side? A game where you audit models for secret loyalties",
-     "link": "https://www.lesswrong.com/posts/NTWRL3cK8gEP3eE2v/whose-side-a-game-where-you-audit-models-for-secret",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-09T23:56:33.000Z",
-     "points": null,
-     "summary": "Try the app here: whoseside.web.app . You can chat with a model and try to work out which who it secretly favours. With the recent Hugging…"
-    }
-   ]
-  },
-  {
    "id": "safety-where-safety-research-uplift",
    "title": "Where is all the AI safety research uplift?",
    "category": {
@@ -1054,7 +1213,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 60.63268457013467,
+   "rank": 35.70139920321849,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1082,7 +1241,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 58.10453694130604,
+   "rank": 34.212789414927194,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1110,7 +1269,7 @@
     "name": "Policy & Regulation"
    },
    "entities": [],
-   "rank": 56.81462565903461,
+   "rank": 33.45327104704363,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1138,7 +1297,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 54.1850849910797,
+   "rank": 31.904959574884323,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1163,34 +1322,6 @@
    ]
   },
   {
-   "id": "hiring-growth-lead-distribute",
-   "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 53.7592096488906,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-09T17:00:06.000Z",
-   "latestAt": "2026-11-09T17:00:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
-     "link": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
-     "publisher": "ycombinator.com",
-     "publisherDomain": "ycombinator.com",
-     "kind": "discussion",
-     "date": "2026-11-09T17:00:06.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "control-room-central-system",
    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
    "category": {
@@ -1198,7 +1329,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 52.958302697328115,
+   "rank": 31.182612465974707,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1230,7 +1361,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 50.880859426543864,
+   "rank": 29.959383904380715,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1264,7 +1395,7 @@
      "kind": "org"
     }
    ],
-   "rank": 48.58222600770459,
+   "rank": 28.60591539330209,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1292,7 +1423,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 45.48690721330806,
+   "rank": 26.783347042198482,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1324,7 +1455,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 45.24946758108091,
+   "rank": 26.643539162060804,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1358,7 +1489,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 44.936609948892645,
+   "rank": 26.45932407576346,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1396,7 +1527,7 @@
      "kind": "org"
     }
    ],
-   "rank": 43.52169030684322,
+   "rank": 25.62619898259939,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1430,7 +1561,7 @@
      "kind": "org"
     }
    ],
-   "rank": 42.9464572335151,
+   "rank": 25.287493452217884,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1458,7 +1589,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 42.774013717072705,
+   "rank": 25.185956222518033,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1486,7 +1617,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.44717495741054,
+   "rank": 22.04943672980288,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1518,7 +1649,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 36.13090944348016,
+   "rank": 21.2744006102014,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1546,7 +1677,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 35.46375403412741,
+   "rank": 20.88156988253771,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1574,7 +1705,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 34.97347975076982,
+   "rank": 20.59288931308387,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1602,7 +1733,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 34.74329514346679,
+   "rank": 20.45735329626351,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1641,7 +1772,7 @@
      "kind": "org"
     }
    ],
-   "rank": 28.805519198008106,
+   "rank": 16.961105176771447,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1669,7 +1800,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 27.20043393633999,
+   "rank": 16.016007823944665,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1697,7 +1828,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.96681659473794,
+   "rank": 15.878450563657406,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1725,7 +1856,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.227484397024252,
+   "rank": 13.087863408448623,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1753,7 +1884,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 22.227484397024252,
+   "rank": 13.087863408448623,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1781,7 +1912,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 17.810314604993845,
+   "rank": 10.48697012437735,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1809,7 +1940,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.685783341162221,
+   "rank": 8.058386626546572,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1837,7 +1968,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.883146321605894,
+   "rank": 6.408153525929683,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1865,7 +1996,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.477966348251842,
+   "rank": 4.991948866791192,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1893,7 +2024,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.201379799502025,
+   "rank": 4.2402762941928644,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1921,7 +2052,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.269165240965817,
+   "rank": 3.6913749164408,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1949,7 +2080,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.112190215267007,
+   "rank": 3.5989457571987034,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1983,7 +2114,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 5.559867696576453,
+   "rank": 3.2737302918354674,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2011,7 +2142,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.7518068055667557,
+   "rank": 2.20911796085748,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2039,7 +2170,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 2.7676108380341384,
+   "rank": 1.629609179740652,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2067,7 +2198,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2730361225319256,
+   "rank": 0.7495820304320843,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
