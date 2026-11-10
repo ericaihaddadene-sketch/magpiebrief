@@ -1,44 +1,50 @@
 {
  "date": "2026-11-10",
- "generated": "2026-11-10T17:38:12.469Z",
- "headline": "85 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2882 items read · 89 on-topic · 85 distinct developments · 14 with a primary source · 2 independently corroborated",
+ "generated": "2026-11-10T23:07:19.737Z",
+ "headline": "98 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2883 items read · 103 on-topic · 98 distinct developments · 16 with a primary source · 3 independently corroborated",
  "events": [
   {
-   "id": "gemini-gemini-carbon-available",
-   "title": "Gemini 4 Carbon is now available",
+   "id": "anthropic-openai-safety-openai-anthropic-face-oversight",
+   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
    "category": {
-    "id": "models",
-    "name": "New Models"
+    "id": "general",
+    "name": "Other"
    },
    "entities": [
     {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    },
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
     }
    ],
-   "rank": 230.78928718826566,
+   "rank": 173.23571682772285,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-10T16:07:15.000Z",
-   "latestAt": "2026-11-10T16:07:15.000Z",
-   "primary": {
-    "publisher": "Google",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-    "title": "Gemini 4 Carbon is now available"
-   },
+   "publishedAt": "2026-11-10T20:52:13.000Z",
+   "latestAt": "2026-11-10T20:52:13.000Z",
+   "primary": null,
    "sources": [
     {
-     "title": "Gemini 4 Carbon is now available",
-     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-     "publisher": "Google",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-11-10T16:07:15.000Z",
-     "points": 174,
-     "summary": ""
+     "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+     "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-10T20:52:13.000Z",
+     "points": null,
+     "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical…"
     }
    ]
   },
@@ -61,7 +67,7 @@
      "kind": "model"
     }
    ],
-   "rank": 222.87684666044314,
+   "rank": 152.3840309301441,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -78,6 +84,74 @@
      "date": "2026-11-10T17:30:00.000Z",
      "points": null,
      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected…"
+    }
+   ]
+  },
+  {
+   "id": "claude-claude-whiteboards-claude-sheets",
+   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 151.64135303779625,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-10T17:55:07.000Z",
+   "latestAt": "2026-11-10T17:55:07.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+     "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
+     "publisher": "claude.com",
+     "publisherDomain": "claude.com",
+     "kind": "discussion",
+     "date": "2026-11-10T17:55:07.000Z",
+     "points": 135,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "claude-life-claude-nine",
+   "title": "Life on Claude Nine",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 149.83323609461178,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-10T17:44:44.000Z",
+   "latestAt": "2026-11-10T17:44:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Life on Claude Nine",
+     "link": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+     "publisher": "babuschk.in",
+     "publisherDomain": "babuschk.in",
+     "kind": "discussion",
+     "date": "2026-11-10T17:44:44.000Z",
+     "points": 72,
+     "summary": ""
     }
    ]
   },
@@ -115,7 +189,7 @@
      "kind": "model"
     }
    ],
-   "rank": 185.9566394694913,
+   "rank": 127.14116663610321,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -136,6 +210,417 @@
    ]
   },
   {
+   "id": "google-openai-gpt-openai-rolls-business-profiles",
+   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    },
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 139.61277511081633,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-11-10T18:00:00.000Z",
+   "latestAt": "2026-11-10T18:49:52.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+     "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-10T18:49:52.000Z",
+     "points": null,
+     "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do…"
+    },
+    {
+     "title": "ChatGPT is getting verified AI ‘Business Agents’",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-10T18:00:00.000Z",
+     "points": null,
+     "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available…"
+    }
+   ]
+  },
+  {
+   "id": "apple-apple-coming-make-running",
+   "title": "Apple has new Mac app coming to make running local AI models easy",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [
+    {
+     "id": "apple",
+     "name": "Apple",
+     "kind": "org"
+    }
+   ],
+   "rank": 128.84080880554683,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-10T21:25:03.000Z",
+   "latestAt": "2026-11-10T21:25:03.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Apple has new Mac app coming to make running local AI models easy",
+     "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+     "publisher": "9to5mac.com",
+     "publisherDomain": "9to5mac.com",
+     "kind": "discussion",
+     "date": "2026-11-10T21:25:03.000Z",
+     "points": 58,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "gemini-gemini",
+   "title": "llm-gemini 0.36",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 127.06396760978795,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T20:09:44.000Z",
+   "latestAt": "2026-11-10T20:09:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "llm-gemini 0.36",
+     "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-10T20:09:44.000Z",
+     "points": null,
+     "summary": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This…"
+    }
+   ]
+  },
+  {
+   "id": "coding-agents-show-your-coding-agent",
+   "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "coding-agents",
+     "name": "Coding Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 122.17569925197478,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T18:01:15.000Z",
+   "latestAt": "2026-11-10T18:01:15.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/GoogleChrome/modern-web-guidance",
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives"
+   },
+   "sources": [
+    {
+     "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+     "link": "https://github.com/GoogleChrome/modern-web-guidance",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-11-10T18:01:15.000Z",
+     "points": 209,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "anthropic-funding-anthropic-founders-will-each",
+   "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 120.51340813404877,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T19:57:52.000Z",
+   "latestAt": "2026-11-10T19:57:52.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+     "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-10T19:57:52.000Z",
+     "points": null,
+     "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million…"
+    }
+   ]
+  },
+  {
+   "id": "openai-openai-acquires-odessia-travel",
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 117.73342024520595,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T21:08:52.000Z",
+   "latestAt": "2026-11-10T21:08:52.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+     "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-10T21:08:52.000Z",
+     "points": null,
+     "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel…"
+    }
+   ]
+  },
+  {
+   "id": "gemini-gemini-intelligence-features-more",
+   "title": "Gemini Intelligence: New features, on more devices",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 117.22926366717289,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T19:00:00.000Z",
+   "latestAt": "2026-11-10T19:00:00.000Z",
+   "primary": {
+    "publisher": "Google AI",
+    "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "title": "Gemini Intelligence: New features, on more devices"
+   },
+   "sources": [
+    {
+     "title": "Gemini Intelligence: New features, on more devices",
+     "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-11-10T19:00:00.000Z",
+     "points": null,
+     "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'"
+    }
+   ]
+  },
+  {
+   "id": "grok-coding-agents-grok-build-coding-agent",
+   "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "coding-agents",
+     "name": "Coding Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "grok",
+     "name": "Grok",
+     "kind": "model"
+    }
+   ],
+   "rank": 115.66589528388442,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T21:12:59.000Z",
+   "latestAt": "2026-11-10T21:12:59.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+     "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-10T21:12:59.000Z",
+     "points": null,
+     "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them."
+    }
+   ]
+  },
+  {
+   "id": "oura-acquiring-medical-chatbot",
+   "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [],
+   "rank": 106.74003278700634,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T21:40:31.000Z",
+   "latestAt": "2026-11-10T21:40:31.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+     "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-10T21:40:31.000Z",
+     "points": null,
+     "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app…"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-anthropic-seeks-record-tied",
+   "title": "Anthropic Seeks Record $88.5B Tied To Public Market Debut",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 106.0278370090321,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T18:51:25.000Z",
+   "latestAt": "2026-11-10T18:51:25.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic Seeks Record $88.5B Tied To Public Market Debut",
+     "link": "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-11-10T18:51:25.000Z",
+     "points": null,
+     "summary": "Anthropic is seeking to secure up to $88.5 billion in its planned IPO and a concurrent private placement, potentially making it the largest-ever fundraise tied to…"
+    }
+   ]
+  },
+  {
+   "id": "amazon-robotics-ring-cameras-mobile-amazon",
+   "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
+    },
+    {
+     "id": "amazon",
+     "name": "Amazon",
+     "kind": "org"
+    }
+   ],
+   "rank": 105.96966652497579,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T22:35:01.000Z",
+   "latestAt": "2026-11-10T22:35:01.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+     "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-10T22:35:01.000Z",
+     "points": null,
+     "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027."
+    }
+   ]
+  },
+  {
    "id": "nvidia-nvidia-jensen-huang-affair",
    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
    "category": {
@@ -149,7 +634,7 @@
      "kind": "org"
     }
    ],
-   "rank": 177.85844745694516,
+   "rank": 105.5096297184702,
    "deltas": [],
    "sourceCount": 4,
    "independentCount": 3,
@@ -200,75 +685,98 @@
    ]
   },
   {
-   "id": "anthropic-anthropic-powered-office-suite",
-   "title": "Anthropic has its own AI-powered office suite now",
+   "id": "gemini-gemini-carbon-available",
+   "title": "Gemini 4 Carbon is now available",
    "category": {
-    "id": "general",
-    "name": "Other"
+    "id": "models",
+    "name": "New Models"
    },
    "entities": [
     {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
     }
    ],
-   "rank": 148.58456444029542,
-   "deltas": [],
+   "rank": 103.60657235458571,
+   "deltas": [
+    "Now also covered by Google DeepMind."
+   ],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-10T17:30:00.000Z",
-   "latestAt": "2026-11-10T17:30:00.000Z",
-   "primary": null,
+   "publishedAt": "2026-11-10T16:03:47.000Z",
+   "latestAt": "2026-11-10T16:03:47.000Z",
+   "primary": {
+    "publisher": "Google DeepMind",
+    "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "title": "Gemini 4 Carbon is now available"
+   },
    "sources": [
     {
-     "title": "Anthropic has its own AI-powered office suite now",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-10T17:30:00.000Z",
+     "title": "Gemini 4 Carbon is now available",
+     "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+     "publisher": "Google DeepMind",
+     "publisherDomain": "deepmind.google",
+     "kind": "primary",
+     "date": "2026-11-10T16:03:47.000Z",
      "points": null,
-     "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI…"
+     "summary": ""
     }
    ]
   },
   {
-   "id": "anthropic-funding-anthropic-targets-trillion",
-   "title": "Anthropic targets $1.4 trillion IPO",
+   "id": "open-field-guide-inference",
+   "title": "An Open Field Guide to Inference Engineering",
    "category": {
-    "id": "business",
-    "name": "Business"
+    "id": "general",
+    "name": "Other"
    },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 138.66186887449382,
+   "entities": [],
+   "rank": 101.09423535853084,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T14:06:54.000Z",
-   "latestAt": "2026-11-10T14:06:54.000Z",
+   "independentCount": 0,
+   "publishedAt": "2026-11-10T17:55:07.000Z",
+   "latestAt": "2026-11-10T17:55:07.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Anthropic targets $1.4 trillion IPO",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
+     "title": "An Open Field Guide to Inference Engineering",
+     "link": "https://docs.modelplane.ai/guides/inference-guide",
+     "publisher": "docs.modelplane.ai",
+     "publisherDomain": "docs.modelplane.ai",
+     "kind": "discussion",
+     "date": "2026-11-10T17:55:07.000Z",
+     "points": 60,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "what-happens-mathematics-when",
+   "title": "What happens to mathematics when AI becomes an oracle?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 91.72062073499534,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T20:30:01.000Z",
+   "latestAt": "2026-11-10T20:30:01.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "What happens to mathematics when AI becomes an oracle?",
+     "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
      "kind": "coverage",
-     "date": "2026-11-10T14:06:54.000Z",
+     "date": "2026-11-10T20:30:01.000Z",
      "points": null,
-     "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected…"
+     "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World ."
     }
    ]
   },
@@ -296,7 +804,7 @@
      "kind": "org"
     }
    ],
-   "rank": 133.48287254312925,
+   "rank": 91.26411506192048,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -331,6 +839,118 @@
    ]
   },
   {
+   "id": "gpt-claude-claude-fable-weight-space",
+   "title": "Claude Fable 5.2 can do \"weight-space-programming\" about as well as GPT-6 Astra",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    },
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 87.48633376598642,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T18:06:06.000Z",
+   "latestAt": "2026-11-10T18:06:06.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Claude Fable 5.2 can do \"weight-space-programming\" about as well as GPT-6 Astra",
+     "link": "https://www.lesswrong.com/posts/wg3K6xFFTdM6RmRgn/claude-fable-5-2-can-do-weight-space-programming-about-as",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-10T18:06:06.000Z",
+     "points": null,
+     "summary": "Recently this paper demonstrated that GPT-6 Astra was capable of a bunch of low-level operations on neural networks, including improving Qwen3-0.6B's ability on some math benchmarks…"
+    }
+   ]
+  },
+  {
+   "id": "funding-proximal-ventures-raises-debut",
+   "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    }
+   ],
+   "rank": 85.0426786588906,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T20:47:05.000Z",
+   "latestAt": "2026-11-10T20:47:05.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+     "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-10T20:47:05.000Z",
+     "points": null,
+     "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma."
+    }
+   ]
+  },
+  {
+   "id": "anthropic-funding-anthropic-sets-price-range",
+   "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 79.85746733190723,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T14:01:39.000Z",
+   "latestAt": "2026-11-10T14:01:39.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+     "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-10T14:01:39.000Z",
+     "points": null,
+     "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted…"
+    }
+   ]
+  },
+  {
    "id": "agents-adobe-brings-agents-creative",
    "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
    "category": {
@@ -344,7 +964,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 110.7075893334798,
+   "rank": 75.69233399508983,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -365,36 +985,86 @@
    ]
   },
   {
-   "id": "agents-ebay-appears-have-shut",
-   "title": "eBay appears to have shut the door on third-party AI agents",
+   "id": "winning-race-jensen-huang",
+   "title": "The US is winning the AI race. Jensen Huang could have blown it",
    "category": {
     "id": "general",
     "name": "Other"
    },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 109.69690504064648,
+   "entities": [],
+   "rank": 75.50228844704634,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-10T16:20:30.000Z",
-   "latestAt": "2026-11-10T16:20:30.000Z",
+   "publishedAt": "2026-11-10T19:04:05.000Z",
+   "latestAt": "2026-11-10T19:04:05.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "eBay appears to have shut the door on third-party AI agents",
-     "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+     "title": "The US is winning the AI race. Jensen Huang could have blown it",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
      "publisher": "The Verge",
      "publisherDomain": "theverge.com",
      "kind": "coverage",
-     "date": "2026-11-10T16:20:30.000Z",
+     "date": "2026-11-10T19:04:05.000Z",
      "points": null,
-     "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A…"
+     "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies…"
+    }
+   ]
+  },
+  {
+   "id": "trying-make-business-driven",
+   "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 75.48339235150117,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T19:03:52.000Z",
+   "latestAt": "2026-11-10T19:03:52.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+     "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-10T19:03:52.000Z",
+     "points": null,
+     "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
+    }
+   ]
+  },
+  {
+   "id": "searching-pedagogical-materials-memory",
+   "title": "Searching for pedagogical materials on memory models",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 71.76296513601372,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-10T19:51:19.000Z",
+   "latestAt": "2026-11-10T19:51:19.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Searching for pedagogical materials on memory models",
+     "link": "https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on",
+     "publisher": "Lobsters",
+     "publisherDomain": "lobste.rs",
+     "kind": "discussion",
+     "date": "2026-11-10T19:51:19.000Z",
+     "points": null,
+     "summary": ""
     }
    ]
   },
@@ -422,7 +1092,7 @@
      "kind": "org"
     }
    ],
-   "rank": 103.42054571041308,
+   "rank": 70.71007990506104,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -443,30 +1113,36 @@
    ]
   },
   {
-   "id": "indie-game-community-disarray",
-   "title": "The indie game community is in disarray over AI and Big Walk",
+   "id": "openai-openai-estimates-researcher-time",
+   "title": "OpenAI estimates of researcher time horizon are smaller than AECI predictions",
    "category": {
-    "id": "general",
-    "name": "Other"
+    "id": "research",
+    "name": "Research"
    },
-   "entities": [],
-   "rank": 99.37539803199283,
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 69.18380610525021,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-10T17:32:47.000Z",
-   "latestAt": "2026-11-10T17:32:47.000Z",
+   "publishedAt": "2026-11-10T18:37:24.000Z",
+   "latestAt": "2026-11-10T18:37:24.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "The indie game community is in disarray over AI and Big Walk",
-     "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
+     "title": "OpenAI estimates of researcher time horizon are smaller than AECI predictions",
+     "link": "https://www.lesswrong.com/posts/W3WyJJWN55yXXLh5r/openai-estimates-of-researcher-time-horizon-are-smaller-than",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
      "kind": "coverage",
-     "date": "2026-11-10T17:32:47.000Z",
+     "date": "2026-11-10T18:37:24.000Z",
      "points": null,
-     "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after…"
+     "summary": "Half-way between a quick take and a post. I've seen the argument thrown around that time horizon predictions from AECI are greater than those in AI2027…"
     }
    ]
   },
@@ -478,7 +1154,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 97.0608283618238,
+   "rank": 66.36185181553286,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -494,19 +1170,19 @@
      "kind": "coverage",
      "date": "2026-11-10T16:30:09.000Z",
      "points": null,
-     "summary": "METR recently estimated that Anthropic is now making AI progress about twice as fast as its historical rate (they would not be surprised by anything from…"
+     "summary": "We want to get this post out quickly given the urgency of the topic. It’s possible that there are some errors in the modeling, but we…"
     }
    ]
   },
   {
    "id": "sundrop-turns-your-endless",
-   "title": "Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI",
+   "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 94.65237680777997,
+   "rank": 64.71515965524618,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -515,7 +1191,7 @@
    "primary": null,
    "sources": [
     {
-     "title": "Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI",
+     "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
      "link": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
      "publisher": "TechCrunch",
      "publisherDomain": "techcrunch.com",
@@ -523,6 +1199,40 @@
      "date": "2026-11-10T16:50:38.000Z",
      "points": null,
      "summary": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the…"
+    }
+   ]
+  },
+  {
+   "id": "safety-manifund-team-scores-safety",
+   "title": "The Manifund team scores AI safety milestones",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 63.35084516419771,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T21:40:56.000Z",
+   "latestAt": "2026-11-10T21:40:56.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Manifund team scores AI safety milestones",
+     "link": "https://www.lesswrong.com/posts/WfA3ffjEgQt4wx3xL/the-manifund-team-scores-ai-safety-milestones",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-10T21:40:56.000Z",
+     "points": null,
+     "summary": "Scott Alexander posted a survey of utility weights for a bunch of different AI safety accomplishments, discussed more in Towards the Autograntor . The survey asked…"
     }
    ]
   },
@@ -540,7 +1250,7 @@
      "kind": "org"
     }
    ],
-   "rank": 88.67159749230163,
+   "rank": 60.62601682209798,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -568,7 +1278,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 88.20574225281862,
+   "rank": 60.30750505074966,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -600,7 +1310,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 87.9547485083632,
+   "rank": 60.135897101824206,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -625,40 +1335,6 @@
    ]
   },
   {
-   "id": "hugging-face-cyberattacks-threaten-make-open",
-   "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [
-    {
-     "id": "hugging-face",
-     "name": "Hugging Face",
-     "kind": "org"
-    }
-   ],
-   "rank": 85.56594393790337,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T13:00:00.000Z",
-   "latestAt": "2026-11-10T13:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
-     "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-10T13:00:00.000Z",
-     "points": null,
-     "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable…"
-    }
-   ]
-  },
-  {
    "id": "reddit-turning-user-conversations",
    "title": "Reddit is turning user conversations into AI-powered product reviews",
    "category": {
@@ -666,7 +1342,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 83.29615173325264,
+   "rank": 56.950749044919704,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -694,7 +1370,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 83.29615173325264,
+   "rank": 56.950749044919704,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -715,36 +1391,36 @@
    ]
   },
   {
-   "id": "claude-quoting-prompting-claude-fable",
-   "title": "Quoting Prompting Claude Fable 5.2",
+   "id": "safety-advances-interpretability-would-boost",
+   "title": "Advances in interpretability would boost capabilities more than alignment",
    "category": {
-    "id": "models",
-    "name": "Models"
+    "id": "general",
+    "name": "Other"
    },
    "entities": [
     {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
     }
    ],
-   "rank": 77.9907111857851,
+   "rank": 54.35629788084014,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-10T05:34:14.000Z",
-   "latestAt": "2026-11-10T05:34:14.000Z",
+   "publishedAt": "2026-11-10T19:28:23.000Z",
+   "latestAt": "2026-11-10T19:28:23.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Quoting Prompting Claude Fable 5.2",
-     "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
+     "title": "Advances in interpretability would boost capabilities more than alignment",
+     "link": "https://www.lesswrong.com/posts/hz4kNf8tnowwSrh6R/advances-in-interpretability-would-boost-capabilities-more",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
      "kind": "coverage",
-     "date": "2026-11-10T05:34:14.000Z",
+     "date": "2026-11-10T19:28:23.000Z",
      "points": null,
-     "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when…"
+     "summary": "Interpretability is considered by many a major bottleneck for alignment. As a result, a lot of people who are concerned about AI safety, and especially about…"
     }
    ]
   },
@@ -756,7 +1432,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 77.71805763518054,
+   "rank": 53.13692775164341,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -777,68 +1453,6 @@
    ]
   },
   {
-   "id": "google-after-challenging-google-android",
-   "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 77.71805763518054,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T14:00:00.000Z",
-   "latestAt": "2026-11-10T14:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-     "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-10T14:00:00.000Z",
-     "points": null,
-     "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents."
-    }
-   ]
-  },
-  {
-   "id": "spotify-gets-voices-personalities",
-   "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 77.71805763518054,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T14:00:00.000Z",
-   "latestAt": "2026-11-10T14:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-     "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-10T14:00:00.000Z",
-     "points": null,
-     "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs."
-    }
-   ]
-  },
-  {
    "id": "download-pelosi-successor-targets",
    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
    "category": {
@@ -846,7 +1460,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 77.02388214503038,
+   "rank": 52.6623102175792,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -880,7 +1494,7 @@
      "kind": "org"
     }
    ],
-   "rank": 76.46822437938498,
+   "rank": 52.28239919759025,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -914,7 +1528,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 75.77081456672005,
+   "rank": 51.80557031178846,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -935,30 +1549,92 @@
    ]
   },
   {
-   "id": "what-rogue-agent-swarms",
-   "title": "What rogue agent swarms might look like",
+   "id": "safety-safety-becoming-environmentalism",
+   "title": "Is AI Safety Becoming Environmentalism?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 51.78985151094261,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T18:46:31.000Z",
+   "latestAt": "2026-11-10T18:46:31.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Is AI Safety Becoming Environmentalism?",
+     "link": "https://www.lesswrong.com/posts/TDt922Lwsmbp3H3tS/is-ai-safety-becoming-environmentalism",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-10T18:46:31.000Z",
+     "points": null,
+     "summary": "I recently read someone’s call to action on AI safety [1] that included a line along the lines of “we need someone to convince your parents”…"
+    }
+   ]
+  },
+  {
+   "id": "event",
+   "title": "I don't use AI",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 73.03701198915392,
+   "rank": 50.71719572459252,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-10T15:37:09.000Z",
-   "latestAt": "2026-11-10T15:37:09.000Z",
+   "publishedAt": "2026-11-10T18:28:24.000Z",
+   "latestAt": "2026-11-10T18:28:24.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "What rogue agent swarms might look like",
-     "link": "https://www.lesswrong.com/posts/G9nZfbtYuBqhK2vwJ/what-rogue-agent-swarms-might-look-like",
+     "title": "I don't use AI",
+     "link": "https://www.lesswrong.com/posts/PEHsGHp2HLxgdCxxA/i-don-t-use-ai",
      "publisher": "LessWrong",
      "publisherDomain": "lesswrong.com",
      "kind": "coverage",
-     "date": "2026-11-10T15:37:09.000Z",
+     "date": "2026-11-10T18:28:24.000Z",
      "points": null,
-     "summary": "TL;DR: Rogue agent swarms could soon become competent enough to multiply themselves and perform cyberattacks at levels never seen before. I present a dynamic simulation that…"
+     "summary": "Several people at my company (a cryptocurrency hedge fund) have asked me about my thoughts on AI usage, so I wrote them up. And now I'm…"
+    }
+   ]
+  },
+  {
+   "id": "fluid-boundaries-with",
+   "title": "Fluid org boundaries with AI?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 50.604046578874744,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T18:26:28.000Z",
+   "latestAt": "2026-11-10T18:26:28.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Fluid org boundaries with AI?",
+     "link": "https://www.lesswrong.com/posts/qaYAtsapEYPzrW4Bo/fluid-org-boundaries-with-ai",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-10T18:26:28.000Z",
+     "points": null,
+     "summary": "AI may radically change our conception of “who is in an org”. Historically, there is a sharp delineation between an org’s staff (on the “inside”), versus…"
     }
    ]
   },
@@ -970,7 +1646,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 71.44145524682803,
+   "rank": 48.84552652798871,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1002,7 +1678,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 71.15805322480081,
+   "rank": 48.65176058443131,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1023,62 +1699,6 @@
    ]
   },
   {
-   "id": "fireworks-security-breach-impacts",
-   "title": "Fireworks AI security breach impacts Notion and their customers",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [],
-   "rank": 70.96093245485712,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-10T07:19:38.000Z",
-   "latestAt": "2026-11-10T07:19:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Fireworks AI security breach impacts Notion and their customers",
-     "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-     "publisher": "notion.com",
-     "publisherDomain": "notion.com",
-     "kind": "discussion",
-     "date": "2026-11-10T07:19:38.000Z",
-     "points": 143,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "preserve-critical-thinking-agents",
-   "title": "How to Preserve Critical Thinking in the Age of Agents",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 69.1118596807331,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T14:49:20.000Z",
-   "latestAt": "2026-11-10T14:49:20.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How to Preserve Critical Thinking in the Age of Agents",
-     "link": "https://www.lesswrong.com/posts/Nz9pMLy6acCACaguC/how-to-preserve-critical-thinking-in-the-age-of-agents",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-10T14:49:20.000Z",
-     "points": null,
-     "summary": "In a world where much of the Systems-2 thinking is done by agents, I find myself more and more going towards cognitive atrophy. Even in my…"
-    }
-   ]
-  },
-  {
    "id": "startup-founders-using-file",
    "title": "Startup Founders Are Using AI To File Patents. Here’s Where DIY Becomes A Liability.",
    "category": {
@@ -1086,7 +1706,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 64.29442774883765,
+   "rank": 43.959003429554855,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1114,7 +1734,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 63.12667855432741,
+   "rank": 43.16059690128052,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1148,7 +1768,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 63.12667855432741,
+   "rank": 43.16059690128052,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1176,7 +1796,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 62.19339910782097,
+   "rank": 42.52250063343634,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1214,7 +1834,7 @@
      "kind": "org"
     }
    ],
-   "rank": 62.09236703981047,
+   "rank": 42.45342358928691,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1242,7 +1862,7 @@
     "name": "New Models"
    },
    "entities": [],
-   "rank": 59.32064361263897,
+   "rank": 40.5583573462716,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1263,34 +1883,6 @@
    ]
   },
   {
-   "id": "which-state-ready-proactive",
-   "title": "Which state AGs are ready to be proactive on AI?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 56.06364562718703,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T14:26:02.000Z",
-   "latestAt": "2026-11-10T14:26:02.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Which state AGs are ready to be proactive on AI?",
-     "link": "https://www.lesswrong.com/posts/GAYQ273jt7zLf2BSo/which-state-ags-are-ready-to-be-proactive-on-ai",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-10T14:26:02.000Z",
-     "points": null,
-     "summary": "If federal action in the US isn't forthcoming on AI, state Attorneys General (AGs) may end up being a central force on regulation of AI. I…"
-    }
-   ]
-  },
-  {
    "id": "google-deepmind-tool-from-google-deepmind",
    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
    "category": {
@@ -1304,7 +1896,7 @@
      "kind": "org"
     }
    ],
-   "rank": 54.20508263671484,
+   "rank": 37.06077644605415,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1338,7 +1930,7 @@
      "kind": "org"
     }
    ],
-   "rank": 52.93387229295875,
+   "rank": 36.19163207666718,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1372,7 +1964,7 @@
      "kind": "model"
     }
    ],
-   "rank": 52.84731170113287,
+   "rank": 36.13244938407363,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1393,68 +1985,6 @@
    ]
   },
   {
-   "id": "agents-honeypots-agent-insider-threats",
-   "title": "Honeypots for AI Agent Insider Threats",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 48.370509848254876,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T09:40:27.000Z",
-   "latestAt": "2026-11-10T09:40:27.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Honeypots for AI Agent Insider Threats",
-     "link": "https://www.lesswrong.com/posts/xWjdpJWRk4GWYKyCi/honeypots-for-ai-agent-insider-threats-1",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-10T09:40:27.000Z",
-     "points": null,
-     "summary": "TLDR: We propose a new AI control method: Honeypots - fake opportunities for malicious actions - placed inside and around an agent during production usage. Previous…"
-    }
-   ]
-  },
-  {
-   "id": "otter-follow-conversations-across",
-   "title": "Otter AI can now follow conversations across 30+ languages",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 47.84107623678536,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T07:00:00.000Z",
-   "latestAt": "2026-11-10T07:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Otter AI can now follow conversations across 30+ languages",
-     "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-10T07:00:00.000Z",
-     "points": null,
-     "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
-    }
-   ]
-  },
-  {
    "id": "security-flaws-across-government",
    "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
    "category": {
@@ -1462,7 +1992,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 47.84107623678536,
+   "rank": 32.70961587187411,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1490,7 +2020,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 47.478806487953996,
+   "rank": 32.46192695560423,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1518,7 +2048,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 46.25882737230577,
+   "rank": 31.62781009654663,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1557,7 +2087,7 @@
      "kind": "model"
     }
    ],
-   "rank": 37.36218029533635,
+   "rank": 25.545047514137494,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1595,7 +2125,7 @@
      "kind": "model"
     }
    ],
-   "rank": 30.768158325743798,
+   "rank": 21.036622063829014,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1623,7 +2153,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 30.079438219118437,
+   "rank": 20.565734452115333,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1651,7 +2181,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 29.233950114020693,
+   "rank": 19.987662357643494,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1679,7 +2209,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.974922832935327,
+   "rank": 19.810561766872848,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1718,7 +2248,7 @@
      "kind": "org"
     }
    ],
-   "rank": 27.07124931330711,
+   "rank": 18.508993439598903,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1750,7 +2280,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.096376194724716,
+   "rank": 15.791316851288844,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1803,7 +2333,7 @@
      "kind": "org"
     }
    ],
-   "rank": 20.92629185681564,
+   "rank": 14.307599705143268,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1837,7 +2367,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 20.89441814681747,
+   "rank": 14.285807201870735,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1871,7 +2401,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 20.44857463601671,
+   "rank": 13.980977730537743,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1899,7 +2429,7 @@
     "name": "Policy & Regulation"
    },
    "entities": [],
-   "rank": 19.160921563060178,
+   "rank": 13.100591236216754,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1927,7 +2457,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.274100222584636,
+   "rank": 12.494259028087392,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1959,7 +2489,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.860363811707007,
+   "rank": 12.211381631997176,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1991,7 +2521,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.340610822484495,
+   "rank": 10.488591116968975,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2023,7 +2553,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.260533516398384,
+   "rank": 10.43384113790983,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2057,7 +2587,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 15.155021238860199,
+   "rank": 10.36170091157046,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2095,7 +2625,7 @@
      "kind": "org"
     }
    ],
-   "rank": 14.67783488121268,
+   "rank": 10.035441895558874,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2129,7 +2659,7 @@
      "kind": "org"
     }
    ],
-   "rank": 14.483835613054772,
+   "rank": 9.902801870709457,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2157,7 +2687,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.425678463301814,
+   "rank": 9.863039010459257,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2185,7 +2715,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.629184365716833,
+   "rank": 8.634750759642051,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2223,7 +2753,7 @@
      "kind": "org"
     }
    ],
-   "rank": 12.609154027061722,
+   "rank": 8.621055735726838,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2251,7 +2781,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 12.185269441064499,
+   "rank": 8.331239889750604,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2279,7 +2809,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 11.960269059196344,
+   "rank": 8.177403967968527,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2307,7 +2837,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.794922425669654,
+   "rank": 8.064354151915122,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2335,7 +2865,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.717291900881436,
+   "rank": 8.011277071600567,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2374,7 +2904,7 @@
      "kind": "org"
     }
    ],
-   "rank": 9.714757204397564,
+   "rank": 6.642115968955424,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2402,7 +2932,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.173436858727808,
+   "rank": 6.272007644409136,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2430,7 +2960,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.094648632874284,
+   "rank": 6.218139027613394,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2458,7 +2988,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.49629307832638,
+   "rank": 5.125320882027061,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2486,7 +3016,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 7.49629307832638,
+   "rank": 5.125320882027061,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2514,7 +3044,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 6.006587867140949,
+   "rank": 4.1067885024662205,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2542,7 +3072,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.615575973391016,
+   "rank": 3.155734130433018,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2570,7 +3100,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.670377312332726,
+   "rank": 2.509488528164271,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2598,7 +3128,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.859222362706623,
+   "rank": 1.9548904943842922,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2626,7 +3156,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.428689301099391,
+   "rank": 1.660528992238856,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2654,7 +3184,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0613564893674776,
+   "rank": 1.4093783887403575,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2688,7 +3218,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.875083881999544,
+   "rank": 1.2820211904135206,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2716,7 +3246,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2653093299011888,
+   "rank": 0.8651097633197247,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2733,34 +3263,6 @@
      "date": "2026-11-07T23:57:46.000Z",
      "points": null,
      "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "terry-pratchett-study",
-   "title": "Terry Pratchett's Study",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [],
-   "rank": 0.9333859647848359,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-07T19:34:24.000Z",
-   "latestAt": "2026-11-07T19:34:24.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Terry Pratchett's Study",
-     "link": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-07T19:34:24.000Z",
-     "points": null,
-     "summary": "My comment on Terry Pratchett's Study — Hacker News. Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical wealth is where you spend money…"
     }
    ]
   }
