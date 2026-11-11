@@ -23,29 +23,29 @@
   "hadPrimary": false,
   "category": "models"
  },
- "claude-claude-whiteboards-claude-sheets": {
-  "id": "claude-claude-whiteboards-claude-sheets",
-  "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-  "firstSeen": "2026-11-10T23:07:19.678Z",
+ "llms-play-zachtronics": {
+  "id": "llms-play-zachtronics",
+  "title": "LLMs Play Zachtronics' TIS-100",
+  "firstSeen": "2026-11-11T02:43:46.934Z",
   "publishers": [
-   "claude.com"
+   "tis-100.wincon.dev"
   ],
   "sourceCount": 1,
   "independentCount": 0,
   "hadPrimary": false,
-  "category": "models"
+  "category": "general"
  },
- "claude-life-claude-nine": {
-  "id": "claude-life-claude-nine",
-  "title": "Life on Claude Nine",
-  "firstSeen": "2026-11-10T23:07:19.678Z",
+ "information-gateway-audiences-still": {
+  "id": "information-gateway-audiences-still",
+  "title": "AI is an information gateway. Audiences still don't want it making their news",
+  "firstSeen": "2026-11-11T02:43:46.934Z",
   "publishers": [
-   "babuschk.in"
+   "niemanlab.org"
   ],
   "sourceCount": 1,
   "independentCount": 0,
   "hadPrimary": false,
-  "category": "models"
+  "category": "general"
  },
  "google-deepmind-gemini-benchmarks-deepmind-reveals-gemini-robotics": {
   "id": "google-deepmind-gemini-benchmarks-deepmind-reveals-gemini-robotics",
@@ -58,31 +58,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "research"
- },
- "google-openai-gpt-openai-rolls-business-profiles": {
-  "id": "google-openai-gpt-openai-rolls-business-profiles",
-  "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-  "firstSeen": "2026-11-10T23:07:19.678Z",
-  "publishers": [
-   "TechCrunch",
-   "The Verge"
-  ],
-  "sourceCount": 2,
-  "independentCount": 2,
-  "hadPrimary": false,
-  "category": "models"
- },
- "apple-apple-coming-make-running": {
-  "id": "apple-apple-coming-make-running",
-  "title": "Apple has new Mac app coming to make running local AI models easy",
-  "firstSeen": "2026-11-10T23:07:19.678Z",
-  "publishers": [
-   "9to5mac.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "tools"
  },
  "gemini-gemini": {
   "id": "gemini-gemini",
@@ -120,6 +95,18 @@
   "hadPrimary": false,
   "category": "business"
  },
+ "google-openai-gpt-openai-rolls-business-profiles": {
+  "id": "google-openai-gpt-openai-rolls-business-profiles",
+  "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+  "firstSeen": "2026-11-10T23:07:19.678Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "models"
+ },
  "openai-openai-acquires-odessia-travel": {
   "id": "openai-openai-acquires-odessia-travel",
   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
@@ -155,6 +142,18 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "models"
+ },
+ "delaying-internal-deployments-until": {
+  "id": "delaying-internal-deployments-until",
+  "title": "Delaying Internal Deployments Until After X Days of Safety Testing",
+  "firstSeen": "2026-11-11T02:43:46.934Z",
+  "publishers": [
+   "Alignment Forum"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
  },
  "oura-acquiring-medical-chatbot": {
   "id": "oura-acquiring-medical-chatbot",
@@ -201,7 +200,7 @@
    "SCMP Tech",
    "Ars Technica AI"
   ],
-  "sourceCount": 4,
+  "sourceCount": 5,
   "independentCount": 3,
   "hadPrimary": false,
   "category": "general"
@@ -218,16 +217,16 @@
   "hadPrimary": true,
   "category": "models"
  },
- "open-field-guide-inference": {
-  "id": "open-field-guide-inference",
-  "title": "An Open Field Guide to Inference Engineering",
-  "firstSeen": "2026-11-10T23:07:19.678Z",
+ "agents-lazare-veni-foras-reprogramming": {
+  "id": "agents-lazare-veni-foras-reprogramming",
+  "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+  "firstSeen": "2026-11-11T02:43:46.934Z",
   "publishers": [
-   "docs.modelplane.ai"
+   "Microsoft Research"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
+  "independentCount": 1,
+  "hadPrimary": true,
   "category": "general"
  },
  "what-happens-mathematics-when": {
@@ -255,18 +254,6 @@
   "hadPrimary": true,
   "category": "models"
  },
- "gpt-claude-claude-fable-weight-space": {
-  "id": "gpt-claude-claude-fable-weight-space",
-  "title": "Claude Fable 5.2 can do \"weight-space-programming\" about as well as GPT-6 Astra",
-  "firstSeen": "2026-11-10T23:07:19.678Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
- },
  "funding-proximal-ventures-raises-debut": {
   "id": "funding-proximal-ventures-raises-debut",
   "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
@@ -279,17 +266,17 @@
   "hadPrimary": false,
   "category": "business"
  },
- "anthropic-funding-anthropic-sets-price-range": {
-  "id": "anthropic-funding-anthropic-sets-price-range",
-  "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-  "firstSeen": "2026-11-10T23:07:19.678Z",
+ "what-welfare-without-consciousness": {
+  "id": "what-welfare-without-consciousness",
+  "title": "What Can AI Welfare Buy Without Consciousness?",
+  "firstSeen": "2026-11-11T02:43:46.934Z",
   "publishers": [
-   "TechCrunch"
+   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "business"
+  "category": "general"
  },
  "agents-adobe-brings-agents-creative": {
   "id": "agents-adobe-brings-agents-creative",
@@ -363,17 +350,17 @@
   "hadPrimary": false,
   "category": "research"
  },
- "aifp-looks-like-intelligence": {
-  "id": "aifp-looks-like-intelligence",
-  "title": "AIFP: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
-  "firstSeen": "2026-11-10T17:38:12.417Z",
+ "timelines-update-looks-like": {
+  "id": "timelines-update-looks-like",
+  "title": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
+  "firstSeen": "2026-11-11T02:43:46.934Z",
   "publishers": [
    "Alignment Forum"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "general"
+  "category": "tools"
  },
  "sundrop-turns-your-endless": {
   "id": "sundrop-turns-your-endless",
@@ -471,6 +458,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "claude-quoting-prompting-claude-fable": {
+  "id": "claude-quoting-prompting-claude-fable",
+  "title": "Quoting Prompting Claude Fable 5.2",
+  "firstSeen": "2026-11-11T02:43:46.934Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "models"
+ },
  "this-linux-based-desktop": {
   "id": "this-linux-based-desktop",
   "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
@@ -522,30 +521,6 @@
  "safety-safety-becoming-environmentalism": {
   "id": "safety-safety-becoming-environmentalism",
   "title": "Is AI Safety Becoming Environmentalism?",
-  "firstSeen": "2026-11-10T23:07:19.678Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "event": {
-  "id": "event",
-  "title": "I don't use AI",
-  "firstSeen": "2026-11-10T23:07:19.678Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "fluid-boundaries-with": {
-  "id": "fluid-boundaries-with",
-  "title": "Fluid org boundaries with AI?",
   "firstSeen": "2026-11-10T23:07:19.678Z",
   "publishers": [
    "LessWrong"
@@ -963,18 +938,6 @@
   "hadPrimary": true,
   "category": "general"
  },
- "nvidia-nvidia-fallout-chipmaker-faces": {
-  "id": "nvidia-nvidia-fallout-chipmaker-faces",
-  "title": "Nvidia fallout: chipmaker faces extensive risks after CEO affair, analysts and lawyers say",
-  "firstSeen": "2026-11-10T17:38:12.417Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "paper-unicorns-cheap-building": {
   "id": "paper-unicorns-cheap-building",
   "title": "Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table",
@@ -1161,18 +1124,6 @@
   "firstSeen": "2026-11-08T10:06:49.438Z",
   "publishers": [
    "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "datasette-3046-serve-link": {
-  "id": "datasette-3046-serve-link",
-  "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-  "firstSeen": "2026-11-08T02:15:58.835Z",
-  "publishers": [
-   "Simon Willison"
   ],
   "sourceCount": 1,
   "independentCount": 1,
