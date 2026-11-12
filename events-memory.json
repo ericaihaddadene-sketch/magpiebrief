@@ -1,10 +1,107 @@
 {
+ "nvidia-nvidia-preparing-oust-jensen": {
+  "id": "nvidia-nvidia-preparing-oust-jensen",
+  "title": "Nvidia is preparing to oust Jensen Huang",
+  "firstSeen": "2026-11-12T01:26:52.929Z",
+  "publishers": [
+   "SCMP Tech",
+   "The Wall Street Journal"
+  ],
+  "sourceCount": 2,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "anthropic-openai-taiwan-chipmaking-giant-tsmc": {
   "id": "anthropic-openai-taiwan-chipmaking-giant-tsmc",
   "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
   "firstSeen": "2026-11-11T18:33:19.977Z",
   "publishers": [
    "Ars Technica AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "agents-united-airlines-bans-agents": {
+  "id": "agents-united-airlines-bans-agents",
+  "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+  "firstSeen": "2026-11-12T01:26:52.929Z",
+  "publishers": [
+   "cbsnews.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "policy"
+ },
+ "gemini-gemini-decisions": {
+  "id": "gemini-gemini-decisions",
+  "title": "Gemini Decisions API",
+  "firstSeen": "2026-11-12T01:26:52.929Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "tools"
+ },
+ "tools-exploring-souls-large": {
+  "id": "tools-exploring-souls-large",
+  "title": "Tools for exploring the souls of large language models",
+  "firstSeen": "2026-11-12T01:26:52.929Z",
+  "publishers": [
+   "GitHub Pages"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "gilbert-tobin-rethinks-business": {
+  "id": "gilbert-tobin-rethinks-business",
+  "title": "Gilbert + Tobin rethinks the business of law with AI",
+  "firstSeen": "2026-11-12T01:26:52.929Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "huawei-releases-macaq-internal": {
+  "id": "huawei-releases-macaq-internal",
+  "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+  "firstSeen": "2026-11-12T01:26:52.929Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "mcp-launch-pomerado-turn-website": {
+  "id": "mcp-launch-pomerado-turn-website",
+  "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+  "firstSeen": "2026-11-11T18:33:19.977Z",
+  "publishers": [
+   "Hacker News"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "amazon-emulator": {
+  "id": "amazon-emulator",
+  "title": "aws-emulator",
+  "firstSeen": "2026-11-12T01:26:52.929Z",
+  "publishers": [
+   "Simon Willison"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -23,51 +120,16 @@
   "hadPrimary": false,
   "category": "business"
  },
- "gemini-gemini-decisions-fast-calibrated": {
-  "id": "gemini-gemini-decisions-fast-calibrated",
-  "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
+ "infrastructure-data-center-dread-might": {
+  "id": "infrastructure-data-center-dread-might",
+  "title": "Why the data center you dread might never even be built",
+  "firstSeen": "2026-11-12T01:26:52.929Z",
   "publishers": [
-   "Google AI"
+   "TechCrunch",
+   "Ars Technica AI"
   ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "tools"
- },
- "mcp-launch-pomerado-turn-website": {
-  "id": "mcp-launch-pomerado-turn-website",
-  "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "pomerado.ai"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "coding-agents-show-klad-paint-your": {
-  "id": "coding-agents-show-klad-paint-your",
-  "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "GitHub"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "tools"
- },
- "atuin-threads-your-agent": {
-  "id": "atuin-threads-your-agent",
-  "title": "Atuin Threads: All your agent sessions on every machine",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "blog.atuin.sh"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
+  "sourceCount": 2,
+  "independentCount": 2,
   "hadPrimary": false,
   "category": "general"
  },
@@ -77,6 +139,18 @@
   "firstSeen": "2026-11-11T18:33:19.977Z",
   "publishers": [
    "machinelearning.apple.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "atuin-threads-your-agent": {
+  "id": "atuin-threads-your-agent",
+  "title": "Atuin Threads: All your agent sessions on every machine",
+  "firstSeen": "2026-11-11T18:33:19.977Z",
+  "publishers": [
+   "blog.atuin.sh"
   ],
   "sourceCount": 1,
   "independentCount": 0,
@@ -108,6 +182,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "browse-tools-simonwillison": {
+  "id": "browse-tools-simonwillison",
+  "title": "Browse tools.simonwillison.net by tag",
+  "firstSeen": "2026-11-12T01:26:52.929Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "openai-openai-quarterly-revenue-reportedly": {
   "id": "openai-openai-quarterly-revenue-reportedly",
   "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
@@ -120,15 +206,63 @@
   "hadPrimary": false,
   "category": "business"
  },
- "google-agents-google-points-agents-nasa": {
-  "id": "google-agents-google-points-agents-nasa",
-  "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
+ "event": {
+  "id": "event",
+  "title": "llm 0.37.2",
+  "firstSeen": "2026-11-12T01:26:52.929Z",
   "publishers": [
-   "pietromiotti.com"
+   "Simon Willison"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "robotics-future-robotics-virtual-duck": {
+  "id": "robotics-future-robotics-virtual-duck",
+  "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+  "firstSeen": "2026-11-12T01:26:52.929Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "coreweave-turns-customer-prepayments": {
+  "id": "coreweave-turns-customer-prepayments",
+  "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+  "firstSeen": "2026-11-12T01:26:52.929Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "using-wearables-enable-cardiovascular": {
+  "id": "using-wearables-enable-cardiovascular",
+  "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+  "firstSeen": "2026-11-12T01:26:52.929Z",
+  "publishers": [
+   "Google Research"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "with-720m-round-britain": {
+  "id": "with-720m-round-britain",
+  "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+  "firstSeen": "2026-11-12T01:26:52.929Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -180,19 +314,6 @@
   "hadPrimary": false,
   "category": "research"
  },
- "nvidia-china-nvidia-honeypot-surprising": {
-  "id": "nvidia-china-nvidia-honeypot-surprising",
-  "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "Wired AI",
-   "SCMP Tech"
-  ],
-  "sourceCount": 2,
-  "independentCount": 2,
-  "hadPrimary": false,
-  "category": "general"
- },
  "agents-databricks-agent-tells-ghodsi": {
   "id": "agents-databricks-agent-tells-ghodsi",
   "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
@@ -229,12 +350,36 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "safety-predicting-behaviour-neglected-safety": {
+  "id": "safety-predicting-behaviour-neglected-safety",
+  "title": "Is predicting AI behaviour a neglected AI safety agenda?",
+  "firstSeen": "2026-11-12T01:26:52.929Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "shutdown-pitting-fanfic-readers": {
   "id": "shutdown-pitting-fanfic-readers",
   "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
   "firstSeen": "2026-11-11T18:33:19.977Z",
   "publishers": [
    "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "intuitions-towards-theory-agent": {
+  "id": "intuitions-towards-theory-agent",
+  "title": "Intuitions towards a theory of agent foundations",
+  "firstSeen": "2026-11-12T01:26:52.929Z",
+  "publishers": [
+   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -259,18 +404,6 @@
   "firstSeen": "2026-11-11T18:33:19.977Z",
   "publishers": [
    "IEEE Spectrum"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "adobe-experiments-walk-around": {
-  "id": "adobe-experiments-walk-around",
-  "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "The Verge"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -421,17 +554,17 @@
   "hadPrimary": false,
   "category": "general"
  },
- "anthropic-claude-anthropic-launches-claude-meetings": {
-  "id": "anthropic-claude-anthropic-launches-claude-meetings",
-  "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
+ "jiostar-chief-architect-discovery": {
+  "id": "jiostar-chief-architect-discovery",
+  "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+  "firstSeen": "2026-11-12T01:26:52.929Z",
   "publishers": [
-   "TechCrunch"
+   "OpenAI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
+  "hadPrimary": true,
+  "category": "general"
  },
  "google-deepmind-gemini-benchmarks-deepmind-reveals-gemini-robotics": {
   "id": "google-deepmind-gemini-benchmarks-deepmind-reveals-gemini-robotics",
@@ -468,18 +601,6 @@
   "independentCount": 1,
   "hadPrimary": true,
   "category": "general"
- },
- "google-openai-gpt-openai-rolls-business-profiles": {
-  "id": "google-openai-gpt-openai-rolls-business-profiles",
-  "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-  "firstSeen": "2026-11-10T23:07:19.678Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
  },
  "openai-openai-acquires-odessia-travel": {
   "id": "openai-openai-acquires-odessia-travel",
@@ -614,30 +735,6 @@
   "hadPrimary": false,
   "category": "business"
  },
- "oura-acquire-native-primary": {
-  "id": "oura-acquire-native-primary",
-  "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
- "trying-make-business-driven": {
-  "id": "trying-make-business-driven",
-  "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-  "firstSeen": "2026-11-10T23:07:19.678Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "timelines-update-looks-like": {
   "id": "timelines-update-looks-like",
   "title": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
@@ -649,18 +746,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "tools"
- },
- "sundrop-turns-your-endless": {
-  "id": "sundrop-turns-your-endless",
-  "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
-  "firstSeen": "2026-11-10T17:38:12.417Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  },
  "google-bringing-adobe-creative-productivity": {
   "id": "google-bringing-adobe-creative-productivity",
@@ -746,24 +831,24 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "gpt-introducing-businesses-chatgpt": {
+  "id": "gpt-introducing-businesses-chatgpt",
+  "title": "Introducing Businesses in ChatGPT",
+  "firstSeen": "2026-11-12T01:26:52.929Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "models"
+ },
  "nvidia-nvidia-troubles-midterms-tighten": {
   "id": "nvidia-nvidia-troubles-midterms-tighten",
   "title": "How Nvidia CEO’s troubles, US midterms may tighten China chip curbs: ‘adding fuel to fire’",
   "firstSeen": "2026-11-10T17:38:12.417Z",
   "publishers": [
    "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "infrastructure-ukraine-fiber-optic-drones": {
-  "id": "infrastructure-ukraine-fiber-optic-drones",
-  "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-  "firstSeen": "2026-11-10T17:38:12.417Z",
-  "publishers": [
-   "Ars Technica AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -866,18 +951,6 @@
   "hadPrimary": false,
   "category": "models"
  },
- "nvidia-alice-huang-relationship-with": {
-  "id": "nvidia-alice-huang-relationship-with",
-  "title": "Who is Alice Huang and why is her relationship with Nvidia’s CEO under scrutiny?",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "anthropic-anthropic": {
   "id": "anthropic-anthropic",
   "title": "llm-anthropic 0.31",
@@ -962,18 +1035,6 @@
   "hadPrimary": true,
   "category": "models"
  },
- "nvidia-chinese-traders-still-confident": {
-  "id": "nvidia-chinese-traders-still-confident",
-  "title": "Chinese traders still confident of Nvidia GPU access amid Jensen Huang scandal",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "claude-claude-code-accidentally-exposing": {
   "id": "claude-claude-code-accidentally-exposing",
   "title": "Claude Code is accidentally exposing secrets all over GitHub",
@@ -985,18 +1046,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "opensource"
- },
- "jensen-huang-troubles-leave": {
-  "id": "jensen-huang-troubles-leave",
-  "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-  "firstSeen": "2026-11-10T01:57:20.982Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  },
  "china-tech-funding-divide": {
   "id": "china-tech-funding-divide",
@@ -1033,18 +1082,6 @@
   "independentCount": 1,
   "hadPrimary": true,
   "category": "models"
- },
- "exploring-world-languages-with": {
-  "id": "exploring-world-languages-with",
-  "title": "Exploring the world's languages with Language Explorer",
-  "firstSeen": "2026-11-10T01:57:20.982Z",
-  "publishers": [
-   "Google Research"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
  },
  "nvidia-nvidia-affair-becomes-national": {
   "id": "nvidia-nvidia-affair-becomes-national",
@@ -1167,18 +1204,6 @@
   "hadPrimary": false,
   "category": "business"
  },
- "nvidia-nvidia-faces-defining-test": {
-  "id": "nvidia-nvidia-faces-defining-test",
-  "title": "Nvidia faces defining test as Jensen Huang probe adds to chip stock turbulence",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "innovating-with-special-chemicals": {
   "id": "innovating-with-special-chemicals",
   "title": "Innovating with AI in the special chemicals industry",
@@ -1286,29 +1311,5 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "tools"
- },
- "parse-number-sqlite-extension": {
-  "id": "parse-number-sqlite-extension",
-  "title": "parse_number() as a SQLite extension: C vs Rust",
-  "firstSeen": "2026-11-09T00:41:41.824Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "tools"
- },
- "dong-mingzhu-china-manufacturing": {
-  "id": "dong-mingzhu-china-manufacturing",
-  "title": "How Dong Mingzhu, China’s manufacturing ‘iron lady’, is maintaining her cool in the AI era",
-  "firstSeen": "2026-11-09T00:41:41.824Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  }
 }
