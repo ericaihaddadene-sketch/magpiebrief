@@ -1,12 +1,50 @@
 {
  "date": "2026-11-12",
- "generated": "2026-11-12T09:39:11.949Z",
- "headline": "101 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2890 items read · 107 on-topic · 101 distinct developments · 28 with a primary source · 5 independently corroborated",
+ "generated": "2026-11-12T18:05:58.385Z",
+ "headline": "96 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2893 items read · 106 on-topic · 96 distinct developments · 32 with a primary source · 2 independently corroborated",
  "events": [
   {
-   "id": "nvidia-nvidia-preparing-oust-jensen",
-   "title": "Nvidia is preparing to oust Jensen Huang",
+   "id": "gemini-introducing-gemini-hydrogen",
+   "title": "Introducing Gemini 4 Hydrogen",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 198.23972321976728,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T18:00:50.000Z",
+   "latestAt": "2026-11-12T18:00:50.000Z",
+   "primary": {
+    "publisher": "Google DeepMind",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "title": "Introducing Gemini 4 Hydrogen"
+   },
+   "sources": [
+    {
+     "title": "Introducing Gemini 4 Hydrogen",
+     "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+     "publisher": "Google DeepMind",
+     "publisherDomain": "deepmind.google",
+     "kind": "primary",
+     "date": "2026-11-12T18:00:50.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "nvidia-nvidia-announces-transition",
+   "title": "NVIDIA Announces CEO Transition",
    "category": {
     "id": "general",
     "name": "Other"
@@ -18,14 +56,98 @@
      "kind": "org"
     }
    ],
-   "rank": 115.26584437366463,
+   "rank": 189.0267063104793,
    "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T10:40:24.000Z",
-   "latestAt": "2026-11-11T22:31:06.000Z",
-   "primary": null,
+   "sourceCount": 10,
+   "independentCount": 5,
+   "publishedAt": "2026-11-10T04:00:30.000Z",
+   "latestAt": "2026-11-12T16:32:33.000Z",
+   "primary": {
+    "publisher": "nvidianews.nvidia.com",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+    "title": "NVIDIA Announces CEO Transition"
+   },
    "sources": [
+    {
+     "title": "NVIDIA Announces CEO Transition",
+     "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+     "publisher": "nvidianews.nvidia.com",
+     "publisherDomain": "nvidianews.nvidia.com",
+     "kind": "primary",
+     "date": "2026-11-12T13:52:29.000Z",
+     "points": 1561,
+     "summary": ""
+    },
+    {
+     "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-12T15:01:31.000Z",
+     "points": null,
+     "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However…"
+    },
+    {
+     "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+     "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-12T15:37:29.000Z",
+     "points": null,
+     "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal."
+    },
+    {
+     "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+     "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-12T16:32:33.000Z",
+     "points": null,
+     "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some…"
+    },
+    {
+     "title": "If Jensen Huang exits Nvidia, who could take the US$4 trillion chipmaker’s reins?",
+     "link": "https://www.scmp.com/tech/article/3374235/if-jensen-huang-exits-nvidia-who-could-take-us4tr-chipmakers-reins",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-12T12:30:07.000Z",
+     "points": null,
+     "summary": "Few tech leaders are as synonymous with their companies as Jensen Huang. The Nvidia co-founder has been credited with transforming the firm over three decades from…"
+    },
+    {
+     "title": "‘Web of complexity’: Jensen Huang’s position in doubt as Nvidia shares plunge overnight",
+     "link": "https://www.scmp.com/tech/article/3374131/nvidia-shares-plunge-after-hours-trading-concerns-about-ceo-jensen-huang-intensify",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-12T00:53:52.000Z",
+     "points": null,
+     "summary": "Nvidia shares fell more than 8 per cent at one point in US after-hours trading on Wednesday as CEO Jensen Huang’s prospects of hanging onto his…"
+    },
+    {
+     "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+     "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-11T23:17:05.000Z",
+     "points": null,
+     "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of…"
+    },
+    {
+     "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+     "link": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-11T15:30:00.000Z",
+     "points": null,
+     "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?"
+    },
     {
      "title": "Who is Alice Huang and why is her relationship with Nvidia’s CEO under scrutiny?",
      "link": "https://www.scmp.com/tech/tech-war/article/3373960/who-alice-huang-and-why-her-relationship-nvidias-ceo-under-scrutiny",
@@ -37,14 +159,770 @@
      "summary": "Nvidia founder and CEO Jensen Huang has admitted to having an extramarital affair as the chipmaker investigates reported allegations that a Chinese businesswoman close to him…"
     },
     {
-     "title": "Nvidia is preparing to oust Jensen Huang",
-     "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-     "publisher": "The Wall Street Journal",
-     "publisherDomain": "wsj.com",
-     "kind": "discussion",
-     "date": "2026-11-11T22:31:06.000Z",
-     "points": 994,
+     "title": "Chinese traders still confident of Nvidia GPU access amid Jensen Huang scandal",
+     "link": "https://www.scmp.com/tech/big-tech/article/3373855/chinese-traders-still-confident-nvidia-gpu-access-amid-jensen-huang-scandal",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-10T04:00:30.000Z",
+     "points": null,
+     "summary": "Prices for Nvidia graphics processing units (GPUs) are falling in China’s largest electronics market, as traders shrug off the frenzy of market speculation over tightening export…"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-funding-anthropic",
+   "title": "Anthropic IPO",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 165.59451641281893,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T11:46:41.000Z",
+   "latestAt": "2026-11-12T11:46:41.000Z",
+   "primary": {
+    "publisher": "Anthropic",
+    "link": "https://ipo.anthropic.com/us/",
+    "title": "Anthropic IPO"
+   },
+   "sources": [
+    {
+     "title": "Anthropic IPO",
+     "link": "https://ipo.anthropic.com/us/",
+     "publisher": "Anthropic",
+     "publisherDomain": "ipo.anthropic.com",
+     "kind": "primary",
+     "date": "2026-11-12T11:46:41.000Z",
+     "points": 604,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "google-gemini-google-cloud-launches-gemini",
+   "title": "Google Cloud launches Gemini for healthcare.",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    },
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 134.59778285012928,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-11-10T13:00:00.000Z",
+   "latestAt": "2026-11-12T14:50:17.000Z",
+   "primary": {
+    "publisher": "Google AI",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+    "title": "Google Cloud launches Gemini for healthcare."
+   },
+   "sources": [
+    {
+     "title": "Google Cloud launches Gemini for healthcare.",
+     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-11-10T13:00:00.000Z",
+     "points": null,
+     "summary": ""
+    },
+    {
+     "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+     "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-12T14:50:17.000Z",
+     "points": null,
+     "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker."
+    }
+   ]
+  },
+  {
+   "id": "hugging-face-hugging-face-vows-keep",
+   "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+   "category": {
+    "id": "opensource",
+    "name": "Open Source"
+   },
+   "entities": [
+    {
+     "id": "hugging-face",
+     "name": "Hugging Face",
+     "kind": "org"
+    }
+   ],
+   "rank": 131.47284467520112,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T17:36:40.000Z",
+   "latestAt": "2026-11-12T17:36:40.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+     "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-12T17:36:40.000Z",
+     "points": null,
+     "summary": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition."
+    }
+   ]
+  },
+  {
+   "id": "making-llms-work-small",
+   "title": "I'm making LLMs work on small and old devices",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 120.13954413079794,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T15:23:10.000Z",
+   "latestAt": "2026-11-12T15:23:10.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/hyperionaidev/smolmaxxing/",
+    "title": "I'm making LLMs work on small and old devices"
+   },
+   "sources": [
+    {
+     "title": "I'm making LLMs work on small and old devices",
+     "link": "https://github.com/hyperionaidev/smolmaxxing/",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-11-12T15:23:10.000Z",
+     "points": 91,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "models-know-what-women",
+   "title": "AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 113.683725271405,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-12T17:32:49.000Z",
+   "latestAt": "2026-11-12T17:32:49.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up",
+     "link": "https://blog.cip.org/p/ai-models-know-what-women-peace-and",
+     "publisher": "blog.cip.org",
+     "publisherDomain": "blog.cip.org",
+     "kind": "discussion",
+     "date": "2026-11-12T17:32:49.000Z",
+     "points": 4,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "agents-united-airlines-blocks-agents",
+   "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 113.52625092255208,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T17:17:58.000Z",
+   "latestAt": "2026-11-12T17:17:58.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+     "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-12T17:17:58.000Z",
+     "points": null,
+     "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations."
+    }
+   ]
+  },
+  {
+   "id": "libreagi-save-models",
+   "title": "Libreagi – Save OSS Models",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 110.6531428374891,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-12T14:11:58.000Z",
+   "latestAt": "2026-11-12T14:11:58.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Libreagi – Save OSS Models",
+     "link": "https://libreagi.com/",
+     "publisher": "libreagi.com",
+     "publisherDomain": "libreagi.com",
+     "kind": "discussion",
+     "date": "2026-11-12T14:11:58.000Z",
+     "points": 70,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "show-lines-write-down",
+   "title": "Show HN: AI Red Lines – write down what would make you act on AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 103.91487684387963,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-12T14:31:21.000Z",
+   "latestAt": "2026-11-12T14:31:21.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Show HN: AI Red Lines – write down what would make you act on AI",
+     "link": "https://yourairedlines.com",
+     "publisher": "yourairedlines.com",
+     "publisherDomain": "yourairedlines.com",
+     "kind": "discussion",
+     "date": "2026-11-12T14:31:21.000Z",
+     "points": 18,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "gemini-anti-marketing-aspect-gemini",
+   "title": "The anti-marketing aspect of the Gemini network",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 103.21004513443069,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-12T16:17:25.000Z",
+   "latestAt": "2026-11-12T16:17:25.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The anti-marketing aspect of the Gemini network",
+     "link": "https://ploum.net/2026-11-12-anti-marketing-gemini.html",
+     "publisher": "ploum.net",
+     "publisherDomain": "ploum.net",
+     "kind": "discussion",
+     "date": "2026-11-12T16:17:25.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "jensen-huang-basically-more",
+   "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 99.22648017193792,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T17:59:15.000Z",
+   "latestAt": "2026-11-12T17:59:15.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+     "link": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-12T17:59:15.000Z",
+     "points": null,
+     "summary": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value."
+    }
+   ]
+  },
+  {
+   "id": "softbank-billion-dollar-loss",
+   "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 92.75465087176966,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T17:00:52.000Z",
+   "latestAt": "2026-11-12T17:00:52.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+     "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-12T17:00:52.000Z",
+     "points": null,
+     "summary": "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers. Here's what the loss means to power markets."
+    }
+   ]
+  },
+  {
+   "id": "chatbots-recommending-fake-retail",
+   "title": "AI chatbots are recommending fake retail websites, study finds",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [],
+   "rank": 92.66183022150743,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T17:00:00.000Z",
+   "latestAt": "2026-11-12T17:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI chatbots are recommending fake retail websites, study finds",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-12T17:00:00.000Z",
+     "points": null,
+     "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found…"
+    }
+   ]
+  },
+  {
+   "id": "more-game-developers-starting",
+   "title": "More game developers are starting to use generative AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 92.66183022150743,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T17:00:00.000Z",
+   "latestAt": "2026-11-12T17:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "More game developers are starting to use generative AI",
+     "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-12T17:00:00.000Z",
+     "points": null,
+     "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry…"
+    }
+   ]
+  },
+  {
+   "id": "phota-labs-uses-turn",
+   "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 92.66183022150743,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T17:00:00.000Z",
+   "latestAt": "2026-11-12T17:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+     "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-12T17:00:00.000Z",
+     "points": null,
+     "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone…"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-read-nvidia-internal-emails",
+   "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 85.28597482219595,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T15:48:12.000Z",
+   "latestAt": "2026-11-12T15:48:12.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-12T15:48:12.000Z",
+     "points": null,
+     "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into…"
+    }
+   ]
+  },
+  {
+   "id": "norwest-pushes-deeper-into",
+   "title": "Norwest pushes deeper into AI with new $4B fund",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 82.38399382483806,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T15:18:14.000Z",
+   "latestAt": "2026-11-12T15:18:14.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Norwest pushes deeper into AI with new $4B fund",
+     "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-12T15:18:14.000Z",
+     "points": null,
+     "summary": "This is the investment firm's largest fund to date."
+    }
+   ]
+  },
+  {
+   "id": "cyberattack-fireworks-allowed-hackers",
+   "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [],
+   "rank": 80.89700487091595,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T15:02:28.000Z",
+   "latestAt": "2026-11-12T15:02:28.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+     "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-12T15:02:28.000Z",
+     "points": null,
+     "summary": "This is Fireworks' second data breach in as many months."
+    }
+   ]
+  },
+  {
+   "id": "holiday-extras-rethinking-what",
+   "title": "Holiday Extras is rethinking what it can build with Codex",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 71.62617006258402,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T09:30:00.000Z",
+   "latestAt": "2026-11-12T09:30:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "title": "Holiday Extras is rethinking what it can build with Codex"
+   },
+   "sources": [
+    {
+     "title": "Holiday Extras is rethinking what it can build with Codex",
+     "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-12T09:30:00.000Z",
+     "points": null,
+     "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
+    }
+   ]
+  },
+  {
+   "id": "safety-plan-alignment-seeding-environmental",
+   "title": "Plan B for Alignment: Seeding Environmental Doubt",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 59.75998488252008,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T15:49:04.000Z",
+   "latestAt": "2026-11-12T15:49:04.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Plan B for Alignment: Seeding Environmental Doubt",
+     "link": "https://www.lesswrong.com/posts/qhtHrjDQEaXjxYnqE/plan-b-for-alignment-seeding-environmental-doubt",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-12T15:49:04.000Z",
+     "points": null,
+     "summary": "TLDR Large language models’ eval-awareness and their tendency to sandbag (strategically underperform on capabilities) during safety evaluations is a serious area of concern for AI safety…"
+    }
+   ]
+  },
+  {
+   "id": "alex-karp-said-progressive",
+   "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 59.051560227837726,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T10:30:00.000Z",
+   "latestAt": "2026-11-12T10:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+     "link": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-12T10:30:00.000Z",
+     "points": null,
+     "summary": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two…"
+    }
+   ]
+  },
+  {
+   "id": "google-google-wanted-spirit-airlines",
+   "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 58.03708976815442,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T10:15:00.000Z",
+   "latestAt": "2026-11-12T10:15:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+     "link": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-12T10:15:00.000Z",
+     "points": null,
+     "summary": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale."
+    }
+   ]
+  },
+  {
+   "id": "versus",
+   "title": "AI #194: Spy Versus Guy",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 55.23552530236147,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T14:40:55.000Z",
+   "latestAt": "2026-11-12T14:40:55.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI #194: Spy Versus Guy",
+     "link": "https://www.lesswrong.com/posts/qKd9DvDMiYXxzAugk/ai-194-spy-versus-guy",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-12T14:40:55.000Z",
+     "points": null,
+     "summary": "Tomorrow I head to Washington DC for a conference called The Takeoff. If you are there, do come say hello. I will be giving a talk…"
+    }
+   ]
+  },
+  {
+   "id": "frontier-reasoning-models-useful",
+   "title": "Are Frontier Reasoning Models useful on hard-to-verify problems?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 55.110173611969415,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T14:38:57.000Z",
+   "latestAt": "2026-11-12T14:38:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Are Frontier Reasoning Models useful on hard-to-verify problems?",
+     "link": "https://www.lesswrong.com/posts/C7AK8DJZGcgmye6xq/are-frontier-reasoning-models-useful-on-hard-to-verify",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-12T14:38:57.000Z",
+     "points": null,
+     "summary": "Has anyone spent significant resources (tokens, harnesses, formal problem specification) on pointing very powerful models at philosophical or social questions? This community loves to discuss aliens…"
+    }
+   ]
+  },
+  {
+   "id": "former-bytedance-scientist-touts",
+   "title": "Former ByteDance AI scientist touts drug-discovery model that tops world leaders",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 54.2026536870982,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T10:00:14.000Z",
+   "latestAt": "2026-11-12T10:00:14.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Former ByteDance AI scientist touts drug-discovery model that tops world leaders",
+     "link": "https://www.scmp.com/business/companies/article/3374201/former-bytedance-ai-scientist-touts-drug-discovery-model-tops-world-leaders",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-12T10:00:14.000Z",
+     "points": null,
+     "summary": "A former ByteDance artificial intelligence scientist’s new venture has released a life sciences AI model that the firm claims outperforms state-of-the-art systems, intensifying the increasingly crowded…"
     }
    ]
   },
@@ -67,7 +945,7 @@
      "kind": "org"
     }
    ],
-   "rank": 90.54207950717499,
+   "rank": 50.418921121755545,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -88,40 +966,6 @@
    ]
   },
   {
-   "id": "agents-united-airlines-bans-agents",
-   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 87.87451127917298,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-11T21:24:35.000Z",
-   "latestAt": "2026-11-11T21:24:35.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-     "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-     "publisher": "cbsnews.com",
-     "publisherDomain": "cbsnews.com",
-     "kind": "discussion",
-     "date": "2026-11-11T21:24:35.000Z",
-     "points": 547,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "gemini-gemini-decisions",
    "title": "Gemini Decisions API",
    "category": {
@@ -135,7 +979,7 @@
      "kind": "model"
     }
    ],
-   "rank": 82.39893585554614,
+   "rank": 45.884360841172814,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -156,6 +1000,34 @@
    ]
   },
   {
+   "id": "there-such-thing-cosmophagous",
+   "title": "There is no such thing as cosmophagous AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 43.955414634820386,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T11:23:11.000Z",
+   "latestAt": "2026-11-12T11:23:11.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "There is no such thing as cosmophagous AI",
+     "link": "https://www.lesswrong.com/posts/KrFu7kGk3x8aZcCzu/there-is-no-such-thing-as-cosmophagous-ai",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-12T11:23:11.000Z",
+     "points": null,
+     "summary": "Cosmophagous AI (my name for AI that races desperately at near-light speeds to grab that last galaxy, that last star, that last planet before it forever…"
+    }
+   ]
+  },
+  {
    "id": "research-could-lead-faster",
    "title": "New research could lead to faster, trustworthy AI models for climate prediction",
    "category": {
@@ -163,7 +1035,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 68.80902451486737,
+   "rank": 38.31673403530697,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -184,6 +1056,38 @@
    ]
   },
   {
+   "id": "supporting-research-children-safety",
+   "title": "Supporting research on AI and children’s safety",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 37.076030747445294,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T00:00:00.000Z",
+   "latestAt": "2026-11-12T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/children-first-declaration",
+    "title": "Supporting research on AI and children’s safety"
+   },
+   "sources": [
+    {
+     "title": "Supporting research on AI and children’s safety",
+     "link": "https://openai.com/index/children-first-declaration",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-12T00:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
+    }
+   ]
+  },
+  {
    "id": "gilbert-tobin-rethinks-business",
    "title": "Gilbert + Tobin rethinks the business of law with AI",
    "category": {
@@ -191,7 +1095,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 66.58097494071826,
+   "rank": 37.076030747445294,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -216,106 +1120,34 @@
    ]
   },
   {
-   "id": "huawei-releases-macaq-internal",
-   "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+   "id": "definitive-fine-tuning-guide",
+   "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 66.5390745461394,
+   "rank": 32.798027199663146,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-11T20:23:57.000Z",
-   "latestAt": "2026-11-11T20:23:57.000Z",
+   "publishedAt": "2026-11-12T00:00:00.000Z",
+   "latestAt": "2026-11-12T00:00:00.000Z",
    "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/huawei-csl/MACaQ",
-    "title": "Huawei releases MACaQ, its internal quantizer for local inference"
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/3d-lora-finetuning",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models"
    },
    "sources": [
     {
-     "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-     "link": "https://github.com/huawei-csl/MACaQ",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
+     "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+     "link": "https://huggingface.co/blog/3d-lora-finetuning",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
      "kind": "primary",
-     "date": "2026-11-11T20:23:57.000Z",
-     "points": 100,
+     "date": "2026-11-12T00:00:00.000Z",
+     "points": null,
      "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "safety-chips-humanity-compute-safety",
-   "title": "Chips for Humanity: Compute for AI safety research",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 58.4184131709121,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-11-09T18:02:01.000Z",
-   "latestAt": "2026-11-12T04:39:22.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Chips for Humanity: Compute for AI safety research",
-     "link": "https://www.lesswrong.com/posts/P3JjXySeQpdWjmCGw/chips-for-humanity-compute-for-ai-safety-research",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-12T04:39:22.000Z",
-     "points": null,
-     "summary": "TLDR: Compute will likely be a bottleneck in short-timelines, so I am helping launch Chips for Humanity . Please fill out our survey to inform us…"
-    },
-    {
-     "title": "Where is all the AI safety research uplift?",
-     "link": "https://www.alignmentforum.org/posts/wPrpnfaNL5JP9i6KT/where-is-all-the-ai-safety-research-uplift",
-     "publisher": "Alignment Forum",
-     "publisherDomain": "alignmentforum.org",
-     "kind": "coverage",
-     "date": "2026-11-09T18:02:01.000Z",
-     "points": null,
-     "summary": "(Thanks to @Goutham Nalagatla for discussion and for sitting with me and talking about it while I wrote it.) METR recently released a report estimating that…"
-    }
-   ]
-  },
-  {
-   "id": "linkpost-neural-networks-already",
-   "title": "Linkpost: \"Neural Networks Are Already Clean\" Followup Technical Paper",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [],
-   "rank": 53.03387219544879,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T05:38:56.000Z",
-   "latestAt": "2026-11-12T05:38:56.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Linkpost: \"Neural Networks Are Already Clean\" Followup Technical Paper",
-     "link": "https://www.lesswrong.com/posts/GPDhwwsFoZGwbcvdS/linkpost-neural-networks-are-already-clean-followup",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-12T05:38:56.000Z",
-     "points": null,
-     "summary": "Yesterday, Goodfire released the companion technical report to Nick Cammarata’s viral interpretability essay \"Neural Networks Are Already Clean\" , but it seems to have gotten buried…"
     }
    ]
   },
@@ -333,7 +1165,7 @@
      "kind": "org"
     }
    ],
-   "rank": 50.99889936496222,
+   "rank": 28.399054874530652,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -354,251 +1186,6 @@
    ]
   },
   {
-   "id": "anthropic-funding-anthropic-roadshow-video",
-   "title": "Anthropic's IPO roadshow video",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 50.091558588148956,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T15:11:59.000Z",
-   "latestAt": "2026-11-11T15:11:59.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic's IPO roadshow video",
-     "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-11T15:11:59.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "infrastructure-data-center-dread-might",
-   "title": "Why the data center you dread might never even be built",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "infrastructure",
-     "name": "AI Infrastructure",
-     "kind": "topic"
-    }
-   ],
-   "rank": 46.615246596948936,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-11-10T12:15:32.000Z",
-   "latestAt": "2026-11-11T20:15:15.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Why the data center you dread might never even be built",
-     "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-11T20:15:15.000Z",
-     "points": null,
-     "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even…"
-    },
-    {
-     "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-     "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-10T12:15:32.000Z",
-     "points": null,
-     "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply."
-    }
-   ]
-  },
-  {
-   "id": "faster-retrieval-better-more",
-   "title": "Faster Retrieval for Better, More Efficient RAG",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 45.59581056989338,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-11T16:57:45.000Z",
-   "latestAt": "2026-11-11T16:57:45.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Faster Retrieval for Better, More Efficient RAG",
-     "link": "https://machinelearning.apple.com/research/faster-retrieval",
-     "publisher": "machinelearning.apple.com",
-     "publisherDomain": "machinelearning.apple.com",
-     "kind": "discussion",
-     "date": "2026-11-11T16:57:45.000Z",
-     "points": 207,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "security-issues-social-engineering",
-   "title": "AI Security Issues Are Social Engineering Issues",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 44.708618823521064,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T03:11:07.000Z",
-   "latestAt": "2026-11-12T03:11:07.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI Security Issues Are Social Engineering Issues",
-     "link": "https://www.lesswrong.com/posts/e8S7u4iRi7fZyKbG5/ai-security-issues-are-social-engineering-issues",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-12T03:11:07.000Z",
-     "points": null,
-     "summary": "Capability-Based Security is part of the fix When I was at EFF in the 2010s, I spent a lot of time fretting about the fundamental security…"
-    }
-   ]
-  },
-  {
-   "id": "models-critique-delusions-isolation",
-   "title": "Models Can Critique Delusions in Isolation but Revert to Affirming Them in Conversation",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 44.70775800811141,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T03:11:06.000Z",
-   "latestAt": "2026-11-12T03:11:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Models Can Critique Delusions in Isolation but Revert to Affirming Them in Conversation",
-     "link": "https://www.lesswrong.com/posts/scgudBc6hetT8ftTZ/models-can-critique-delusions-in-isolation-but-revert-to",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-12T03:11:06.000Z",
-     "points": null,
-     "summary": "TL;DR I tried to work out why LLMs affirm users’ delusional claims in multi-turn conversations, using prompt-level interventions on simulated users (derived from Tim Hua’s psychosis-red-teaming…"
-    }
-   ]
-  },
-  {
-   "id": "infrastructure-false-smoke-alarm-almost",
-   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "infrastructure",
-     "name": "AI Infrastructure",
-     "kind": "topic"
-    }
-   ],
-   "rank": 44.60504298410343,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-11T16:38:44.000Z",
-   "latestAt": "2026-11-11T16:38:44.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-     "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-     "publisher": "michael.bacarella.com",
-     "publisherDomain": "michael.bacarella.com",
-     "kind": "discussion",
-     "date": "2026-11-11T16:38:44.000Z",
-     "points": 488,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "google-deepmind-google-deepmind-just-mathematically",
-   "title": "Google DeepMind just mathematically verified key parts of Signal",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "google-deepmind",
-     "name": "Google DeepMind",
-     "kind": "org"
-    }
-   ],
-   "rank": 43.66014875991706,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-11-10T05:01:00.000Z",
-   "latestAt": "2026-11-11T14:08:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Google DeepMind just mathematically verified key parts of Signal",
-     "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-11T14:08:57.000Z",
-     "points": null,
-     "summary": "The four-week project hints that AI could make formal verification far more practical."
-    },
-    {
-     "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-     "link": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-10T05:01:00.000Z",
-     "points": null,
-     "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software…"
-    }
-   ]
-  },
-  {
    "id": "browse-tools-simonwillison",
    "title": "Browse tools.simonwillison.net by tag",
    "category": {
@@ -606,7 +1193,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 42.6049680016866,
+   "rank": 23.72484189411323,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -627,36 +1214,36 @@
    ]
   },
   {
-   "id": "openai-openai-quarterly-revenue-reportedly",
-   "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+   "id": "infrastructure-data-center-dread-might",
+   "title": "Why the data center you dread might never even be built",
    "category": {
-    "id": "business",
-    "name": "Business"
+    "id": "general",
+    "name": "Other"
    },
    "entities": [
     {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
+     "id": "infrastructure",
+     "name": "AI Infrastructure",
+     "kind": "topic"
     }
    ],
-   "rank": 40.393224997472345,
+   "rank": 21.998297048361653,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-11T16:14:44.000Z",
-   "latestAt": "2026-11-11T16:14:44.000Z",
+   "publishedAt": "2026-11-11T20:15:15.000Z",
+   "latestAt": "2026-11-11T20:15:15.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-     "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+     "title": "Why the data center you dread might never even be built",
+     "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
      "publisher": "TechCrunch",
      "publisherDomain": "techcrunch.com",
      "kind": "coverage",
-     "date": "2026-11-11T16:14:44.000Z",
+     "date": "2026-11-11T20:15:15.000Z",
      "points": null,
-     "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter."
+     "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even…"
     }
    ]
   },
@@ -668,7 +1255,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 38.71100840257049,
+   "rank": 21.55646622892232,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -702,7 +1289,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 38.63116108393689,
+   "rank": 21.512002752029773,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -723,34 +1310,6 @@
    ]
   },
   {
-   "id": "coreweave-turns-customer-prepayments",
-   "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 38.54645998806689,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T19:54:00.000Z",
-   "latestAt": "2026-11-11T19:54:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-     "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-11T19:54:00.000Z",
-     "points": null,
-     "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according…"
-    }
-   ]
-  },
-  {
    "id": "using-wearables-enable-cardiovascular",
    "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
    "category": {
@@ -758,7 +1317,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 38.54645998806689,
+   "rank": 21.46483641904029,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -783,30 +1342,36 @@
    ]
   },
   {
-   "id": "with-720m-round-britain",
-   "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+   "id": "google-deepmind-google-deepmind-just-mathematically",
+   "title": "Google DeepMind just mathematically verified key parts of Signal",
    "category": {
     "id": "general",
     "name": "Other"
    },
-   "entities": [],
-   "rank": 37.7059661605995,
+   "entities": [
+    {
+     "id": "google-deepmind",
+     "name": "Google DeepMind",
+     "kind": "org"
+    }
+   ],
+   "rank": 20.603750740625223,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-11T19:34:55.000Z",
-   "latestAt": "2026-11-11T19:34:55.000Z",
+   "publishedAt": "2026-11-11T14:08:57.000Z",
+   "latestAt": "2026-11-11T14:08:57.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-     "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
+     "title": "Google DeepMind just mathematically verified key parts of Signal",
+     "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
      "kind": "coverage",
-     "date": "2026-11-11T19:34:55.000Z",
+     "date": "2026-11-11T14:08:57.000Z",
      "points": null,
-     "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips."
+     "summary": "The four-week project hints that AI could make formal verification far more practical."
     }
    ]
   },
@@ -818,7 +1383,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 36.216759130063195,
+   "rank": 20.167527980396944,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -846,7 +1411,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.690167261782065,
+   "rank": 19.874292017464143,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -878,7 +1443,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.2991337177701,
+   "rank": 19.65654255203534,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -910,7 +1475,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 35.08755654684468,
+   "rank": 19.538724486113768,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -931,40 +1496,6 @@
    ]
   },
   {
-   "id": "agents-databricks-agent-tells-ghodsi",
-   "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 32.935256331348825,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T15:00:00.000Z",
-   "latestAt": "2026-11-11T15:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-     "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-11T15:00:00.000Z",
-     "points": null,
-     "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things…"
-    }
-   ]
-  },
-  {
    "id": "startup-wants-fight-bioweapons",
    "title": "A Startup Wants to Fight AI Bioweapons With AI",
    "category": {
@@ -972,7 +1503,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 31.527228974355065,
+   "rank": 17.556133893739084,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -993,40 +1524,6 @@
    ]
   },
   {
-   "id": "agents-plurai-wants-help-agents",
-   "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 30.729680741869966,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T14:00:00.000Z",
-   "latestAt": "2026-11-11T14:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-     "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-11T14:00:00.000Z",
-     "points": null,
-     "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments."
-    }
-   ]
-  },
-  {
    "id": "shutdown-pitting-fanfic-readers",
    "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
    "category": {
@@ -1034,7 +1531,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 29.862777865773367,
+   "rank": 16.62927392308921,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1055,36 +1552,36 @@
    ]
   },
   {
-   "id": "google-google-tabletop-experiment-lets",
-   "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+   "id": "infrastructure-false-smoke-alarm-almost",
+   "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
    "category": {
-    "id": "research",
-    "name": "Research"
+    "id": "general",
+    "name": "Other"
    },
    "entities": [
     {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
+     "id": "infrastructure",
+     "name": "AI Infrastructure",
+     "kind": "topic"
     }
    ],
-   "rank": 29.415944764808415,
+   "rank": 15.22443566208943,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T16:00:00.000Z",
-   "latestAt": "2026-11-11T16:00:00.000Z",
+   "independentCount": 0,
+   "publishedAt": "2026-11-11T16:27:51.000Z",
+   "latestAt": "2026-11-11T16:27:51.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-     "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-11T16:00:00.000Z",
+     "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
+     "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+     "publisher": "michael.bacarella.com",
+     "publisherDomain": "michael.bacarella.com",
+     "kind": "discussion",
+     "date": "2026-11-11T16:27:51.000Z",
      "points": null,
-     "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop…"
+     "summary": ""
     }
    ]
   },
@@ -1096,7 +1593,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 25.60905342385862,
+   "rank": 14.26056096356868,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1130,7 +1627,7 @@
      "kind": "org"
     }
    ],
-   "rank": 25.37933675301534,
+   "rank": 14.13264180409453,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1158,7 +1655,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 23.894551789870885,
+   "rank": 13.305830045992414,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1192,7 +1689,7 @@
      "kind": "model"
     }
    ],
-   "rank": 21.9635307853124,
+   "rank": 12.230528967828288,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1224,7 +1721,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.850686588514073,
+   "rank": 12.167690973733263,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1252,7 +1749,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.72916563627391,
+   "rank": 12.100021274307473,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1284,7 +1781,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.800214018204954,
+   "rank": 11.582728777688427,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1318,7 +1815,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 20.134674434980187,
+   "rank": 11.212118913936004,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1362,7 +1859,7 @@
      "kind": "org"
     }
    ],
-   "rank": 19.10989714645419,
+   "rank": 10.641465295653866,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1396,7 +1893,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 18.965504521187135,
+   "rank": 10.561059362594568,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1421,84 +1918,6 @@
    ]
   },
   {
-   "id": "nvidia-nvidia-crisis-corporate-governance",
-   "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 16.335550110772108,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T07:30:51.000Z",
-   "latestAt": "2026-11-11T07:30:51.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-     "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-11T07:30:51.000Z",
-     "points": null,
-     "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now."
-    }
-   ]
-  },
-  {
-   "id": "anthropic-openai-safety-openai-anthropic-face-oversight",
-   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    },
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    },
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 15.817790134646268,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T20:52:13.000Z",
-   "latestAt": "2026-11-10T20:52:13.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-     "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-10T20:52:13.000Z",
-     "points": null,
-     "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical…"
-    }
-   ]
-  },
-  {
    "id": "jiostar-chief-architect-discovery",
    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
    "category": {
@@ -1506,7 +1925,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.614735841507544,
+   "rank": 7.024594253043968,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1564,7 +1983,7 @@
      "kind": "model"
     }
    ],
-   "rank": 11.608993388608967,
+   "rank": 6.464540301582914,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1598,7 +2017,7 @@
      "kind": "model"
     }
    ],
-   "rank": 11.601944507355062,
+   "rank": 6.460615088136621,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1626,7 +2045,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.159189398256672,
+   "rank": 6.214064146923509,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1651,40 +2070,6 @@
    ]
   },
   {
-   "id": "openai-openai-acquires-odessia-travel",
-   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 10.749991787921884,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T21:08:52.000Z",
-   "latestAt": "2026-11-10T21:08:52.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-     "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-10T21:08:52.000Z",
-     "points": null,
-     "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel…"
-    }
-   ]
-  },
-  {
    "id": "gemini-gemini-intelligence-features-more",
    "title": "Gemini Intelligence: New features, on more devices",
    "category": {
@@ -1698,7 +2083,7 @@
      "kind": "model"
     }
    ],
-   "rank": 10.703958307688369,
+   "rank": 5.960565877693727,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1741,7 +2126,7 @@
      "kind": "model"
     }
    ],
-   "rank": 10.56121041803354,
+   "rank": 5.881075825908101,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1769,7 +2154,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.406119248311802,
+   "rank": 5.794712341708894,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1803,7 +2188,7 @@
      "kind": "org"
     }
    ],
-   "rank": 9.681179522045078,
+   "rank": 5.391025138194063,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1842,7 +2227,7 @@
      "kind": "org"
     }
    ],
-   "rank": 9.67586809709367,
+   "rank": 5.388067438115528,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1876,7 +2261,7 @@
      "kind": "model"
     }
    ],
-   "rank": 9.460098922352362,
+   "rank": 5.2679150287495995,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1914,7 +2299,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 9.381269045285045,
+   "rank": 5.22401812053269,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1946,7 +2331,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.374817597507509,
+   "rank": 4.6635693608556945,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1967,98 +2352,6 @@
    ]
   },
   {
-   "id": "google-hugging-face-gemini-google-cloud-launches-gemini",
-   "title": "Google Cloud launches Gemini for healthcare.",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    },
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    },
-    {
-     "id": "hugging-face",
-     "name": "Hugging Face",
-     "kind": "org"
-    }
-   ],
-   "rank": 8.333135021511044,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-11-10T00:00:00.000Z",
-   "latestAt": "2026-11-10T13:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-    "title": "Google Cloud launches Gemini for healthcare."
-   },
-   "sources": [
-    {
-     "title": "Google Cloud launches Gemini for healthcare.",
-     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-11-10T13:00:00.000Z",
-     "points": null,
-     "summary": ""
-    },
-    {
-     "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-     "link": "https://huggingface.co/blog/hub-gcp-marketplace",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-11-10T00:00:00.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "funding-proximal-ventures-raises-debut",
-   "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    }
-   ],
-   "rank": 7.765068706081184,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T20:47:05.000Z",
-   "latestAt": "2026-11-10T20:47:05.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-     "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-10T20:47:05.000Z",
-     "points": null,
-     "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma."
-    }
-   ]
-  },
-  {
    "id": "timelines-update-looks-like",
    "title": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
    "category": {
@@ -2066,7 +2359,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 6.059361569233916,
+   "rank": 3.3741932444040232,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2100,7 +2393,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.82218577300348,
+   "rank": 3.2421204244818314,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2138,7 +2431,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.617769760623104,
+   "rank": 3.1282900943156986,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2170,7 +2463,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.5065518583880175,
+   "rank": 3.0663577124813095,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2202,7 +2495,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.490882696328101,
+   "rank": 3.0576322419570707,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2240,7 +2533,7 @@
      "kind": "model"
     }
    ],
-   "rank": 4.868842828691969,
+   "rank": 2.7112454658675285,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2261,34 +2554,6 @@
    ]
   },
   {
-   "id": "this-linux-based-desktop",
-   "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 4.8518214775029005,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T14:00:00.000Z",
-   "latestAt": "2026-11-10T14:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-     "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-10T14:00:00.000Z",
-     "points": null,
-     "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models."
-    }
-   ]
-  },
-  {
    "id": "download-pelosi-successor-targets",
    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
    "category": {
@@ -2296,7 +2561,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.808485145448946,
+   "rank": 2.677634913877936,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2330,7 +2595,7 @@
      "kind": "model"
     }
    ],
-   "rank": 4.780091024281369,
+   "rank": 2.661823470588121,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2368,7 +2633,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.773796266653816,
+   "rank": 2.65831819558194,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2389,6 +2654,40 @@
    ]
   },
   {
+   "id": "infrastructure-ukraine-fiber-optic-drones",
+   "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "infrastructure",
+     "name": "AI Infrastructure",
+     "kind": "topic"
+    }
+   ],
+   "rank": 2.6340736520498886,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-10T12:15:32.000Z",
+   "latestAt": "2026-11-10T12:15:32.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+     "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-10T12:15:32.000Z",
+     "points": null,
+     "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply."
+    }
+   ]
+  },
+  {
    "id": "closing-guidance-education",
    "title": "Closing the AI guidance gap in education",
    "category": {
@@ -2396,7 +2695,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.459982628203486,
+   "rank": 2.4835691157057203,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2428,7 +2727,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.442290266105428,
+   "rank": 2.4737170136341216,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2456,7 +2755,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.013804448123021,
+   "rank": 2.2351120160878257,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2477,68 +2776,6 @@
    ]
   },
   {
-   "id": "tear-down-those-guardrails",
-   "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 3.9409036217943822,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T11:00:00.000Z",
-   "latestAt": "2026-11-10T11:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
-     "link": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-10T11:00:00.000Z",
-     "points": null,
-     "summary": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb."
-    }
-   ]
-  },
-  {
-   "id": "safety-safety-debate-lost-plot",
-   "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 3.9409036217943822,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T11:00:00.000Z",
-   "latestAt": "2026-11-10T11:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
-     "link": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-10T11:00:00.000Z",
-     "points": null,
-     "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet."
-    }
-   ]
-  },
-  {
    "id": "work-frontier-effect-freelance",
    "title": "Work at the Frontier: AI’s effect on freelance work",
    "category": {
@@ -2546,7 +2783,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.8826403892734747,
+   "rank": 2.1620724926624715,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2584,7 +2821,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.8763331091843205,
+   "rank": 2.1585602444455247,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2612,7 +2849,7 @@
     "name": "New Models"
    },
    "entities": [],
-   "rank": 3.7032985833245142,
+   "rank": 2.06220489057965,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2646,7 +2883,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.304582053297689,
+   "rank": 1.840177106517439,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2680,7 +2917,7 @@
      "kind": "model"
     }
    ],
-   "rank": 3.2991782057067267,
+   "rank": 1.8371679403162013,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2714,7 +2951,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.226561441389924,
+   "rank": 1.7967308426469806,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2739,34 +2976,6 @@
    ]
   },
   {
-   "id": "security-flaws-across-government",
-   "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 2.986646453287288,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T07:00:00.000Z",
-   "latestAt": "2026-11-10T07:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
-     "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-10T07:00:00.000Z",
-     "points": null,
-     "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments."
-    }
-   ]
-  },
-  {
    "id": "team-receives-funding-develop",
    "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
    "category": {
@@ -2774,7 +2983,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 2.964030497594206,
+   "rank": 1.6505388508206018,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2802,7 +3011,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.887869035824376,
+   "rank": 1.6081278662884169,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2841,7 +3050,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.332464736241571,
+   "rank": 1.2988475214612327,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2866,36 +3075,45 @@
    ]
   },
   {
-   "id": "claude-claude-code-accidentally-exposing",
-   "title": "Claude Code is accidentally exposing secrets all over GitHub",
+   "id": "hugging-face-google-hugging-face-with-your",
+   "title": "Pay for Hugging Face Hub with your Google Cloud Account",
    "category": {
-    "id": "opensource",
-    "name": "Open Source"
+    "id": "general",
+    "name": "Other"
    },
    "entities": [
     {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
+     "id": "hugging-face",
+     "name": "Hugging Face",
+     "kind": "org"
+    },
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
     }
    ],
-   "rank": 1.9208098597729015,
+   "rank": 1.1773449966062832,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-09T17:24:26.000Z",
-   "latestAt": "2026-11-09T17:24:26.000Z",
-   "primary": null,
+   "publishedAt": "2026-11-10T00:00:00.000Z",
+   "latestAt": "2026-11-10T00:00:00.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account"
+   },
    "sources": [
     {
-     "title": "Claude Code is accidentally exposing secrets all over GitHub",
-     "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-09T17:24:26.000Z",
+     "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+     "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-11-10T00:00:00.000Z",
      "points": null,
-     "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared."
+     "summary": ""
     }
    ]
   },
@@ -2907,7 +3125,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 1.825031548025313,
+   "rank": 1.016280188896168,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2935,7 +3153,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.8088608643532051,
+   "rank": 1.0072754429373094,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2974,7 +3192,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.6900173889791525,
+   "rank": 0.9410967131871847,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3006,7 +3224,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4418720369991116,
+   "rank": 0.8029154277968877,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3027,354 +3245,6 @@
      "date": "2026-11-09T20:29:39.000Z",
      "points": null,
      "summary": "Natural Language Processing"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-nvidia-affair-becomes-national",
-   "title": "Nvidia CEO's affair becomes a national security problem",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.3137636371750208,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-11-09T12:30:08.000Z",
-   "latestAt": "2026-11-09T15:23:20.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Nvidia CEO's affair becomes a national security problem",
-     "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-09T15:23:20.000Z",
-     "points": null,
-     "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair."
-    },
-    {
-     "title": "Nvidia fallout: chipmaker faces extensive risks after CEO affair, analysts and lawyers say",
-     "link": "https://www.scmp.com/tech/tech-war/article/3373820/nvidia-fallout-chipmaker-faces-extensive-risks-after-ceo-affair-analysts-and-lawyers-say",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-09T12:30:08.000Z",
-     "points": null,
-     "summary": "As Nvidia launched an investigation into CEO Jensen Huang after he admitted to an extramarital affair, the repercussions threaten not only his three-decade tenure but also…"
-    }
-   ]
-  },
-  {
-   "id": "agents-agents-testing-limits-zero",
-   "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 1.3044071070397627,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T16:25:06.000Z",
-   "latestAt": "2026-11-09T16:25:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
-     "link": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
-     "publisher": "IEEE Spectrum",
-     "publisherDomain": "spectrum.ieee.org",
-     "kind": "coverage",
-     "date": "2026-11-09T16:25:06.000Z",
-     "points": null,
-     "summary": "This article is brought to you by Queen’s University Belfast . Several teams around the globe are leveraging AI by creating a task force of agents…"
-    }
-   ]
-  },
-  {
-   "id": "nancy-pelosi-replacement-ready",
-   "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [],
-   "rank": 1.1961875218857934,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T17:05:43.000Z",
-   "latestAt": "2026-11-09T17:05:43.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-     "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-11-09T17:05:43.000Z",
-     "points": null,
-     "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former…"
-    }
-   ]
-  },
-  {
-   "id": "nemotron-personas-finance-japan",
-   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.1408245990677184,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T15:05:57.000Z",
-   "latestAt": "2026-11-09T15:05:57.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context"
-   },
-   "sources": [
-    {
-     "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-     "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-11-09T15:05:57.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "control-room-central-system",
-   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.1149956570508714,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T13:00:00.000Z",
-   "latestAt": "2026-11-09T13:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/control-room",
-    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure"
-   },
-   "sources": [
-    {
-     "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-     "link": "https://openai.com/index/control-room",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-09T13:00:00.000Z",
-     "points": null,
-     "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
-    }
-   ]
-  },
-  {
-   "id": "your-experts-have-partners",
-   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9576912667571817,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T12:34:29.000Z",
-   "latestAt": "2026-11-09T12:34:29.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together"
-   },
-   "sources": [
-    {
-     "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-     "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-11-09T12:34:29.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "nvidia-download-empty-climate-claims",
-   "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.9163151613258086,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T13:15:00.000Z",
-   "latestAt": "2026-11-09T13:15:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-     "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-11-09T13:15:00.000Z",
-     "points": null,
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The…"
-    }
-   ]
-  },
-  {
-   "id": "innovating-with-special-chemicals",
-   "title": "Innovating with AI in the special chemicals industry",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9005734153103192,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T13:00:00.000Z",
-   "latestAt": "2026-11-09T13:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Innovating with AI in the special chemicals industry",
-     "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-11-09T13:00:00.000Z",
-     "points": null,
-     "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise…"
-    }
-   ]
-  },
-  {
-   "id": "paper-unicorns-cheap-building",
-   "title": "Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [],
-   "rank": 0.7607080488403046,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T12:00:32.000Z",
-   "latestAt": "2026-11-09T12:00:32.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table",
-     "link": "https://news.crunchbase.com/ai/building-unicorn-multimarket-cap-table-shazhaev-dizzaract/",
-     "publisher": "Crunchbase News",
-     "publisherDomain": "news.crunchbase.com",
-     "kind": "coverage",
-     "date": "2026-11-09T12:00:32.000Z",
-     "points": null,
-     "summary": "AI startups should be judged by durable revenue, full-price renewals and healthy margins after delivery costs, with embedded customer workflows providing stronger defensibility as model access…"
-    }
-   ]
-  },
-  {
-   "id": "beyond-llms-china-forges",
-   "title": "Beyond LLMs? China forges new path for AI with focus on industrial systems",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7363392716140119,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T11:32:21.000Z",
-   "latestAt": "2026-11-09T11:32:21.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Beyond LLMs? China forges new path for AI with focus on industrial systems",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3373822/beyond-llms-china-forges-new-path-ai-focus-industrial-systems",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-09T11:32:21.000Z",
-     "points": null,
-     "summary": "China’s artificial intelligence development is expanding beyond general large language models (LLMs) towards a new generation of specialised systems designed to solve real-world industrial problems, according…"
-    }
-   ]
-  },
-  {
-   "id": "climate-case-been-made",
-   "title": "The climate case for AI has not been made",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7314929146805261,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-09T10:00:00.000Z",
-   "latestAt": "2026-11-09T10:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The climate case for AI has not been made",
-     "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-11-09T10:00:00.000Z",
-     "points": null,
-     "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host…"
     }
    ]
   }
