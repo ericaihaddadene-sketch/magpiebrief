@@ -1,102 +1,609 @@
 {
  "date": "2026-11-13",
- "generated": "2026-11-13T15:16:51.886Z",
- "headline": "90 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2897 items read · 93 on-topic · 90 distinct developments · 20 with a primary source · 1 independently corroborated",
+ "generated": "2026-11-13T21:53:25.777Z",
+ "headline": "89 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2898 items read · 91 on-topic · 89 distinct developments · 21 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "claude-claude-duet-agent-little",
-   "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+   "id": "openai-gpt-chatgpt-wallet-lets-openai",
+   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
    "category": {
     "id": "models",
     "name": "Models"
    },
    "entities": [
     {
-     "id": "claude",
-     "name": "Claude",
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    },
+    {
+     "id": "gpt",
+     "name": "GPT",
      "kind": "model"
     }
    ],
-   "rank": 164.7056912113368,
+   "rank": 203.61309175862144,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-13T14:00:00.000Z",
-   "latestAt": "2026-11-13T14:00:00.000Z",
+   "publishedAt": "2026-11-13T20:45:10.000Z",
+   "latestAt": "2026-11-13T20:45:10.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+     "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
      "publisher": "The Verge",
      "publisherDomain": "theverge.com",
      "kind": "coverage",
-     "date": "2026-11-13T14:00:00.000Z",
+     "date": "2026-11-13T20:45:10.000Z",
      "points": null,
-     "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for…"
+     "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for…"
     }
    ]
   },
   {
-   "id": "claude-elevated-errors-claude-claude",
-   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "id": "openai-robotics-openai-disbands-robotics-team",
+   "title": "OpenAI disbands its robotics team as its general models start running robots",
    "category": {
-    "id": "tools",
-    "name": "Tools & Products"
+    "id": "general",
+    "name": "Other"
    },
    "entities": [
     {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
+    },
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
     }
    ],
-   "rank": 154.036261284613,
+   "rank": 148.6861168848083,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-11-13T10:18:13.000Z",
-   "latestAt": "2026-11-13T10:18:13.000Z",
+   "publishedAt": "2026-11-13T17:55:23.000Z",
+   "latestAt": "2026-11-13T17:55:23.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-     "link": "https://status.claude.com/incidents/nn11wk485zfn",
-     "publisher": "status.claude.com",
-     "publisherDomain": "status.claude.com",
+     "title": "OpenAI disbands its robotics team as its general models start running robots",
+     "link": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+     "publisher": "fortune.com",
+     "publisherDomain": "fortune.com",
      "kind": "discussion",
-     "date": "2026-11-13T10:18:13.000Z",
-     "points": 363,
+     "date": "2026-11-13T17:55:23.000Z",
+     "points": 113,
      "summary": ""
     }
    ]
   },
   {
-   "id": "destroying-trust-between-writers",
-   "title": "AI Is Destroying the Trust Between Writers and Readers",
+   "id": "slop-manifesto",
+   "title": "No AI Slop: A Manifesto",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 109.49696214923681,
+   "rank": 126.0119486777958,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-11-13T11:13:46.000Z",
-   "latestAt": "2026-11-13T11:13:46.000Z",
+   "publishedAt": "2026-11-13T19:51:56.000Z",
+   "latestAt": "2026-11-13T19:51:56.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "AI Is Destroying the Trust Between Writers and Readers",
-     "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-     "publisher": "theatlantic.com",
-     "publisherDomain": "theatlantic.com",
+     "title": "No AI Slop: A Manifesto",
+     "link": "https://www.slopmanifesto.com/",
+     "publisher": "slopmanifesto.com",
+     "publisherDomain": "slopmanifesto.com",
      "kind": "discussion",
-     "date": "2026-11-13T11:13:46.000Z",
-     "points": 71,
+     "date": "2026-11-13T19:51:56.000Z",
+     "points": 108,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "agents-week-biggest-funding-rounds",
+   "title": "The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 114.58869810891575,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T19:20:04.000Z",
+   "latestAt": "2026-11-13T19:20:04.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll",
+     "link": "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-11-13T19:20:04.000Z",
+     "points": null,
+     "summary": "It was another big week for AI-related startup financings. Mirendil, a developer of agentic AI for R&D, led the pack with a $1 billion series A…"
+    }
+   ]
+  },
+  {
+   "id": "openai-openai-board-member-worries",
+   "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 109.00026791321974,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T17:25:45.000Z",
+   "latestAt": "2026-11-13T17:25:45.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+     "link": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-13T17:25:45.000Z",
+     "points": null,
+     "summary": "Researcher traces a path from AI reward hacking to potential human extinction."
+    }
+   ]
+  },
+  {
+   "id": "perplexity-perplexity-decider-training-eval",
+   "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "perplexity",
+     "name": "Perplexity",
+     "kind": "org"
+    }
+   ],
+   "rank": 122.12093488645677,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-13T19:24:47.000Z",
+   "latestAt": "2026-11-13T19:24:47.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+     "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+     "publisher": "perplexity.ai",
+     "publisherDomain": "perplexity.ai",
+     "kind": "discussion",
+     "date": "2026-11-13T19:24:47.000Z",
+     "points": 55,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "nvidia-nvidia-hardware-vanishes-during",
+   "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 116.06185338187927,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-13T18:40:44.000Z",
+   "latestAt": "2026-11-13T18:40:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+     "link": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+     "publisher": "freightwaves.com",
+     "publisherDomain": "freightwaves.com",
+     "kind": "discussion",
+     "date": "2026-11-13T18:40:44.000Z",
+     "points": 154,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "models-transmit-viruses-weight",
+   "title": "Models can now transmit viruses in weight-space",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 115.10713045586,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-13T18:33:35.000Z",
+   "latestAt": "2026-11-13T18:33:35.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Models can now transmit viruses in weight-space",
+     "link": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+     "publisher": "alphaxiv.org",
+     "publisherDomain": "alphaxiv.org",
+     "kind": "discussion",
+     "date": "2026-11-13T18:33:35.000Z",
+     "points": 114,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "agents-autonomous-hiring-build-agents",
+   "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 112.97148827022778,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-13T21:01:11.000Z",
+   "latestAt": "2026-11-13T21:01:11.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+     "link": "https://atg.science/careers",
+     "publisher": "atg.science",
+     "publisherDomain": "atg.science",
+     "kind": "discussion",
+     "date": "2026-11-13T21:01:11.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "after-experiments-here-what",
+   "title": "After 600 experiments, here's what I discovered about JEPA world models",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 110.14846789036703,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-13T17:55:28.000Z",
+   "latestAt": "2026-11-13T17:55:28.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "After 600 experiments, here's what I discovered about JEPA world models",
+     "link": "https://haddyalchaer.com/jepa",
+     "publisher": "haddyalchaer.com",
+     "publisherDomain": "haddyalchaer.com",
+     "kind": "discussion",
+     "date": "2026-11-13T17:55:28.000Z",
+     "points": 167,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "nvidia-crunchbase-data-nvidia-startup",
+   "title": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 103.87489501148232,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T20:32:55.000Z",
+   "latestAt": "2026-11-13T20:32:55.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
+     "link": "https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-11-13T20:32:55.000Z",
+     "points": null,
+     "summary": "Before it was thrust into crisis this week, Nvidia was steadily continuing its pace as one of the busiest startup investors around, including backing many of…"
+    }
+   ]
+  },
+  {
+   "id": "funding-agents-agent-startup-langchain-hits",
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 102.61463393058494,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T19:37:57.000Z",
+   "latestAt": "2026-11-13T19:37:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI agent startup LangChain hits $3B valuation",
+     "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-13T19:37:57.000Z",
+     "points": null,
+     "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
+    }
+   ]
+  },
+  {
+   "id": "nvidia-export-banned-nvidia-chips",
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 94.4248795151668,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T18:40:30.000Z",
+   "latestAt": "2026-11-13T18:40:30.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+     "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-13T18:40:30.000Z",
+     "points": null,
+     "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+    }
+   ]
+  },
+  {
+   "id": "advancing-science-engineering-with",
+   "title": "Advancing science & engineering with Antigravity’s /teamwork",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 92.64502534393486,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T20:47:18.000Z",
+   "latestAt": "2026-11-13T20:47:18.000Z",
+   "primary": {
+    "publisher": "Google Research",
+    "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+    "title": "Advancing science & engineering with Antigravity’s /teamwork"
+   },
+   "sources": [
+    {
+     "title": "Advancing science & engineering with Antigravity’s /teamwork",
+     "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+     "publisher": "Google Research",
+     "publisherDomain": "research.google",
+     "kind": "primary",
+     "date": "2026-11-13T20:47:18.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "robotics-build-robot-pick-place",
+   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
+    }
+   ],
+   "rank": 87.88380737381995,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T18:00:39.000Z",
+   "latestAt": "2026-11-13T18:00:39.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets"
+   },
+   "sources": [
+    {
+     "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+     "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-11-13T18:00:39.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "microsoft-microsoft-crawls-back-life",
+   "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "microsoft",
+     "name": "Microsoft",
+     "kind": "org"
+    }
+   ],
+   "rank": 82.69481329453762,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T19:08:57.000Z",
+   "latestAt": "2026-11-13T19:08:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+     "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-13T19:08:57.000Z",
+     "points": null,
+     "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash."
+    }
+   ]
+  },
+  {
+   "id": "xybench-helping-with-problem",
+   "title": "XYBench: Helping with the problem behind the question",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 82.18183789455192,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T17:02:35.000Z",
+   "latestAt": "2026-11-13T17:02:35.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/allenai/xybench",
+    "title": "XYBench: Helping with the problem behind the question"
+   },
+   "sources": [
+    {
+     "title": "XYBench: Helping with the problem behind the question",
+     "link": "https://huggingface.co/blog/allenai/xybench",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-11-13T17:02:35.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "microcredentials-help-engineers-build",
+   "title": "How Microcredentials Help Engineers Build Trustworthy AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 81.84892744067966,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T19:00:03.000Z",
+   "latestAt": "2026-11-13T19:00:03.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How Microcredentials Help Engineers Build Trustworthy AI",
+     "link": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
+     "publisher": "IEEE Spectrum",
+     "publisherDomain": "spectrum.ieee.org",
+     "kind": "coverage",
+     "date": "2026-11-13T19:00:03.000Z",
+     "points": null,
+     "summary": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics…"
     }
    ]
   },
@@ -114,7 +621,7 @@
      "kind": "model"
     }
    ],
-   "rank": 105.88306084088806,
+   "rank": 66.96737805028779,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -139,6 +646,34 @@
    ]
   },
   {
+   "id": "jensen-huang-founder-fairy",
+   "title": "Jensen Huang and the End of the Founder Fairy Tale",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 66.47814741360537,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T16:00:00.000Z",
+   "latestAt": "2026-11-13T16:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Jensen Huang and the End of the Founder Fairy Tale",
+     "link": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-13T16:00:00.000Z",
+     "points": null,
+     "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals."
+    }
+   ]
+  },
+  {
    "id": "nvidia-jensen-huang-exits-nvidia",
    "title": "If Jensen Huang exits Nvidia, who could take the US$4 trillion chipmaker’s reins?",
    "category": {
@@ -152,7 +687,7 @@
      "kind": "org"
     }
    ],
-   "rank": 98.33278545231252,
+   "rank": 62.1920897056268,
    "deltas": [],
    "sourceCount": 3,
    "independentCount": 2,
@@ -193,6 +728,40 @@
    ]
   },
   {
+   "id": "safety-safety-also-behaviour-change",
+   "title": "AI safety is also a behaviour change problem (and that means it needs social scientists)",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 57.43120305102811,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T19:02:07.000Z",
+   "latestAt": "2026-11-13T19:02:07.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI safety is also a behaviour change problem (and that means it needs social scientists)",
+     "link": "https://www.lesswrong.com/posts/gbrKyHpF2Fq6QqeKG/ai-safety-is-also-a-behaviour-change-problem-and-that-means",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-13T19:02:07.000Z",
+     "points": null,
+     "summary": "TL;DR Much of AI safety depends on changing what governments, labs, engineers etc do. That makes it, in large part, a behaviour change problem. There are…"
+    }
+   ]
+  },
+  {
    "id": "nvidia-download-silicon-valley-blind",
    "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
    "category": {
@@ -206,7 +775,7 @@
      "kind": "org"
     }
    ],
-   "rank": 90.68585813400387,
+   "rank": 57.35567235443425,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -227,6 +796,40 @@
    ]
   },
   {
+   "id": "safety-welcome-safety-mass-movement",
+   "title": "Welcome to AI safety's mass movement era",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 55.9285444012904,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T18:39:10.000Z",
+   "latestAt": "2026-11-13T18:39:10.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Welcome to AI safety's mass movement era",
+     "link": "https://www.lesswrong.com/posts/4vJbhP9YLWpJEcScW/welcome-to-ai-safety-s-mass-movement-era",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-13T18:39:10.000Z",
+     "points": null,
+     "summary": "For most of its history, AI safety has been a cozy professional circle: a tight-knit community of researchers, community-builders, and policy advocates in a few dozen…"
+    }
+   ]
+  },
+  {
    "id": "will-jensen-huang-downfall",
    "title": "Will Jensen Huang’s downfall tip the scales against open-source AI?",
    "category": {
@@ -234,7 +837,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 86.94306847526646,
+   "rank": 54.98848719706499,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -268,7 +871,7 @@
      "kind": "org"
     }
    ],
-   "rank": 84.62101786836382,
+   "rank": 53.51987040785049,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -289,84 +892,6 @@
    ]
   },
   {
-   "id": "anthropic-what-anthropic-resource-information",
-   "title": "What is Anthropic's Resource and Information Agreement?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 83.53803132254552,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-13T11:58:56.000Z",
-   "latestAt": "2026-11-13T11:58:56.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "What is Anthropic's Resource and Information Agreement?",
-     "link": "https://www.lesswrong.com/posts/9TjKJZDwj87C9CAYb/what-is-anthropic-s-resource-and-information-agreement",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-13T11:58:56.000Z",
-     "points": null,
-     "summary": "TL;DR of Anthropic's Long-Term Benefit Trust As a Delaware Public Benefit Corporation (PBC), Anthropic has a board of directors tasked with balancing the financial interests of…"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-china-could-tighten-rare",
-   "title": "China could tighten rare earths exports if US escalates chip curbs over Nvidia: analysts",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 81.11918938179186,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 1,
-   "publishedAt": "2026-11-13T05:55:56.000Z",
-   "latestAt": "2026-11-13T13:00:08.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "China could tighten rare earths exports if US escalates chip curbs over Nvidia: analysts",
-     "link": "https://www.scmp.com/economy/global-economy/article/3374328/china-could-tighten-rare-earths-exports-if-us-escalates-chip-curbs-over-nvidia-analysts",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-13T13:00:08.000Z",
-     "points": null,
-     "summary": "China could retaliate with tighter rare earth export controls if Washington further restricts chip sales in the wake of the Nvidia saga, Chinese analysts say, though…"
-    },
-    {
-     "title": "China’s SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs",
-     "link": "https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-13T05:55:56.000Z",
-     "points": null,
-     "summary": "China’s Semiconductor Manufacturing International Corporation (SMIC) is betting that a relentless data centre buildout will keep artificial intelligence computing power in short supply for the next…"
-    }
-   ]
-  },
-  {
    "id": "this-startup-betting-microdramas",
    "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
    "category": {
@@ -374,7 +899,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 78.2896500566858,
+   "rank": 49.51549899609834,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -395,70 +920,58 @@
    ]
   },
   {
-   "id": "agents-brave-search-accepts-agentic",
-   "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+   "id": "what-rewarding-misbehavior-during",
+   "title": "What Rewarding Misbehavior During RL Does to Character-Trained Models",
    "category": {
-    "id": "tools",
-    "name": "Tools & Products"
+    "id": "general",
+    "name": "Other"
    },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 74.97784998822426,
+   "entities": [],
+   "rank": 48.58093776253353,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-13T03:08:08.000Z",
-   "latestAt": "2026-11-13T03:08:08.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T16:37:15.000Z",
+   "latestAt": "2026-11-13T16:37:15.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-     "link": "https://brave.com/blog/search-api-agentic-payments/",
-     "publisher": "brave.com",
-     "publisherDomain": "brave.com",
-     "kind": "discussion",
-     "date": "2026-11-13T03:08:08.000Z",
-     "points": 192,
-     "summary": ""
+     "title": "What Rewarding Misbehavior During RL Does to Character-Trained Models",
+     "link": "https://www.lesswrong.com/posts/nCpxFQesXaqEq3SgL/what-rewarding-misbehavior-during-rl-does-to-character",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-13T16:37:15.000Z",
+     "points": null,
+     "summary": "TL;DR Research done as part of MATS. See here for the full paper. Character training teaches models a consistent and “good” character, often specified by a…"
     }
    ]
   },
   {
-   "id": "gemini-gemini-hydrogen-orchestrator",
-   "title": "Gemini 4 Hydrogen and Orchestrator",
+   "id": "instilling-behavior-training-specific",
+   "title": "Instilling Behavior by Not Training on Specific Random Numbers",
    "category": {
-    "id": "models",
-    "name": "Models"
+    "id": "general",
+    "name": "Other"
    },
-   "entities": [
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 70.51894609455108,
+   "entities": [],
+   "rank": 47.50426364780828,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-12T18:52:01.000Z",
-   "latestAt": "2026-11-12T18:52:01.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T16:17:51.000Z",
+   "latestAt": "2026-11-13T16:17:51.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Gemini 4 Hydrogen and Orchestrator",
-     "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-     "publisher": "antigravity.google",
-     "publisherDomain": "antigravity.google",
-     "kind": "discussion",
-     "date": "2026-11-12T18:52:01.000Z",
-     "points": 462,
-     "summary": ""
+     "title": "Instilling Behavior by Not Training on Specific Random Numbers",
+     "link": "https://www.lesswrong.com/posts/6t4cyZbwKKbW3zJFe/instilling-behavior-by-not-training-on-specific-random",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-13T16:17:51.000Z",
+     "points": null,
+     "summary": "Subliminal learning is the phenomenon where a language model can learn a behavior from semantically unrelated training data. While previous research generates training data using a…"
     }
    ]
   },
@@ -470,7 +983,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 69.56559919795146,
+   "rank": 43.99783821686638,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -491,102 +1004,6 @@
    ]
   },
   {
-   "id": "swarmish-what-happens-when",
-   "title": "Swarmish: what happens when agent swarms create language?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 67.85473509818526,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-13T12:12:06.000Z",
-   "latestAt": "2026-11-13T12:12:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Swarmish: what happens when agent swarms create language?",
-     "link": "https://www.lesswrong.com/posts/7eJF9p8rnaAAcKbZa/swarmish-what-happens-when-agent-swarms-create-language",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-13T12:12:06.000Z",
-     "points": null,
-     "summary": "TL;DR Agent swarms are capable of building sophisticated productive languages which we dub Swarmish. Agent swarms are able to solve a multi-phase collaborative task while communicating…"
-    }
-   ]
-  },
-  {
-   "id": "safety-want-safety-events",
-   "title": "We want to run AI safety events for you!",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 66.85370443796155,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-13T12:13:47.000Z",
-   "latestAt": "2026-11-13T12:13:47.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "We want to run AI safety events for you!",
-     "link": "https://www.lesswrong.com/posts/KAaTfsZmzqFFvKfBJ/we-want-to-run-ai-safety-events-for-you",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-13T12:13:47.000Z",
-     "points": null,
-     "summary": "TL;DR: We’re four undergraduate organizers who want to build an Events-as-a-Service (EaaS) organization to execute events for operations-constrained AI safety orgs. You cover an event’s operational…"
-    }
-   ]
-  },
-  {
-   "id": "safety-leaving-pursue-safety-work",
-   "title": "I'm leaving my PhD to pursue AI Safety work",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 57.91746354813493,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-13T12:32:51.000Z",
-   "latestAt": "2026-11-13T12:32:51.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "I'm leaving my PhD to pursue AI Safety work",
-     "link": "https://www.lesswrong.com/posts/rjzqbfsW552PyMBNv/i-m-leaving-my-phd-to-pursue-ai-safety-work",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-13T12:32:51.000Z",
-     "points": null,
-     "summary": "Yesterday, I told my advisors that I would be dropping out of my PhD program at the University of Michigan's School of Information. I was nervous…"
-    }
-   ]
-  },
-  {
    "id": "nvidia-jensen-huang-abrupt-exit",
    "title": "Jensen Huang’s abrupt exit stuns Nvidia’s China staff, clouding the outlook in a key market",
    "category": {
@@ -600,7 +1017,7 @@
      "kind": "org"
     }
    ],
-   "rank": 53.55169073740545,
+   "rank": 33.869594346474194,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -621,6 +1038,44 @@
    ]
   },
   {
+   "id": "gemini-introducing-gemini-hydrogen",
+   "title": "Introducing Gemini 4 Hydrogen",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 33.285618246381766,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T18:00:50.000Z",
+   "latestAt": "2026-11-12T18:00:50.000Z",
+   "primary": {
+    "publisher": "Google DeepMind",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "title": "Introducing Gemini 4 Hydrogen"
+   },
+   "sources": [
+    {
+     "title": "Introducing Gemini 4 Hydrogen",
+     "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+     "publisher": "Google DeepMind",
+     "publisherDomain": "deepmind.google",
+     "kind": "primary",
+     "date": "2026-11-12T18:00:50.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "gemini-gemini",
    "title": "llm-gemini 0.37",
    "category": {
@@ -634,7 +1089,7 @@
      "kind": "model"
     }
    ],
-   "rank": 50.19564039960957,
+   "rank": 31.747008448955597,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -655,30 +1110,36 @@
    ]
   },
   {
-   "id": "edge0-145b-frontier-capabilities",
-   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+   "id": "nvidia-china-smic-sees-computing",
+   "title": "China’s SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs",
    "category": {
     "id": "general",
     "name": "Other"
    },
-   "entities": [],
-   "rank": 47.25106075843783,
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 31.429118715840232,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-12T23:06:17.000Z",
-   "latestAt": "2026-11-12T23:06:17.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T05:55:56.000Z",
+   "latestAt": "2026-11-13T05:55:56.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-     "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-     "publisher": "edge0.ai",
-     "publisherDomain": "edge0.ai",
-     "kind": "discussion",
-     "date": "2026-11-12T23:06:17.000Z",
-     "points": 299,
-     "summary": ""
+     "title": "China’s SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs",
+     "link": "https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-13T05:55:56.000Z",
+     "points": null,
+     "summary": "China’s Semiconductor Manufacturing International Corporation (SMIC) is betting that a relentless data centre buildout will keep artificial intelligence computing power in short supply for the next…"
     }
    ]
   },
@@ -696,7 +1157,7 @@
      "kind": "product"
     }
    ],
-   "rank": 46.58356375571042,
+   "rank": 29.462494757742025,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -724,7 +1185,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 46.58356375571042,
+   "rank": 29.462494757742025,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -758,7 +1219,7 @@
      "kind": "org"
     }
    ],
-   "rank": 46.11680690982109,
+   "rank": 29.167287177719366,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -796,7 +1257,7 @@
      "kind": "org"
     }
    ],
-   "rank": 44.227145299568235,
+   "rank": 27.97214149118617,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -813,96 +1274,6 @@
      "date": "2026-11-13T04:15:04.000Z",
      "points": null,
      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and…"
-    }
-   ]
-  },
-  {
-   "id": "foundation-models-framework",
-   "title": "Foundation Models framework",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 41.47561529925202,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-12T21:13:26.000Z",
-   "latestAt": "2026-11-12T21:13:26.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Foundation Models framework",
-     "link": "https://developer.apple.com/foundation-models-framework/",
-     "publisher": "developer.apple.com",
-     "publisherDomain": "developer.apple.com",
-     "kind": "discussion",
-     "date": "2026-11-12T21:13:26.000Z",
-     "points": 243,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "solvable-model-feature-learning",
-   "title": "A solvable model of feature learning in a nonlinear network",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [],
-   "rank": 38.558634932000125,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-13T06:40:41.000Z",
-   "latestAt": "2026-11-13T06:40:41.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "A solvable model of feature learning in a nonlinear network",
-     "link": "https://www.lesswrong.com/posts/8PMbEETpAmgJmtwkd/a-solvable-model-of-feature-learning-in-a-nonlinear-network",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-13T06:40:41.000Z",
-     "points": null,
-     "summary": "Theoretical accounts attribute much of the success of deep neural networks to feature learning, in which training reshapes the representations within hidden layers. In this picture…"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-former-nvidia-huang-relationship",
-   "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 37.73206771186203,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-12T19:51:33.000Z",
-   "latestAt": "2026-11-12T19:51:33.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-     "link": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-     "publisher": "Reuters",
-     "publisherDomain": "reuters.com",
-     "kind": "discussion",
-     "date": "2026-11-12T19:51:33.000Z",
-     "points": 366,
-     "summary": ""
     }
    ]
   },
@@ -925,7 +1296,7 @@
      "kind": "model"
     }
    ],
-   "rank": 34.969247275606904,
+   "rank": 22.116840822713055,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -953,7 +1324,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 34.32589508872032,
+   "rank": 21.70994279033133,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -987,7 +1358,7 @@
      "kind": "org"
     }
    ],
-   "rank": 31.71660303918702,
+   "rank": 20.059655711954477,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1015,7 +1386,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 31.239023838989006,
+   "rank": 19.757603366710367,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1049,7 +1420,7 @@
      "kind": "org"
     }
    ],
-   "rank": 29.93442255340095,
+   "rank": 18.93248812350681,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1083,7 +1454,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 29.797459516169212,
+   "rank": 18.84586373410617,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1117,7 +1488,7 @@
      "kind": "org"
     }
    ],
-   "rank": 29.222337716651914,
+   "rank": 18.482119064587092,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1149,7 +1520,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.929730806173996,
+   "rank": 18.297055302371646,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1177,7 +1548,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.904564603660454,
+   "rank": 18.281138548696134,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1205,7 +1576,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.443408205708806,
+   "rank": 17.989473058515934,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1243,7 +1614,7 @@
      "kind": "org"
     }
    ],
-   "rank": 28.11897987709661,
+   "rank": 17.78428334866193,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1271,7 +1642,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 27.367439906556363,
+   "rank": 17.308960280671844,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1299,7 +1670,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 27.222904737288292,
+   "rank": 17.21754677935192,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1338,7 +1709,7 @@
      "kind": "model"
     }
    ],
-   "rank": 26.27411731711152,
+   "rank": 16.617471513754772,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1372,7 +1743,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 26.14980965612219,
+   "rank": 16.538851212623417,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1406,7 +1777,7 @@
      "kind": "model"
     }
    ],
-   "rank": 23.773559092569315,
+   "rank": 15.035954823268147,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1434,7 +1805,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.855978667993778,
+   "rank": 14.455616904283808,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1455,96 +1826,6 @@
    ]
   },
   {
-   "id": "softbank-billion-dollar-loss",
-   "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 21.365247643662073,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T17:00:52.000Z",
-   "latestAt": "2026-11-12T17:00:52.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-     "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-12T17:00:52.000Z",
-     "points": null,
-     "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets."
-    }
-   ]
-  },
-  {
-   "id": "phota-labs-uses-turn",
-   "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 21.343867193618223,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T17:00:00.000Z",
-   "latestAt": "2026-11-12T17:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-     "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-12T17:00:00.000Z",
-     "points": null,
-     "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone…"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-five-ways-jensen-huang",
-   "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 20.677640843849588,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T16:32:33.000Z",
-   "latestAt": "2026-11-12T16:32:33.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-     "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-12T16:32:33.000Z",
-     "points": null,
-     "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some…"
-    }
-   ]
-  },
-  {
    "id": "gondola-doubles-revenue-team",
    "title": "Gondola doubles revenue as its team builds more with Codex",
    "category": {
@@ -1552,7 +1833,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 19.620111198158295,
+   "rank": 12.40904251880457,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1590,7 +1871,7 @@
      "kind": "org"
     }
    ],
-   "rank": 17.630478062912374,
+   "rank": 11.150668296419603,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1611,34 +1892,6 @@
    ]
   },
   {
-   "id": "libreagi-save-models",
-   "title": "libreagi - save OS models",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 17.42827294374461,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-12T15:35:46.000Z",
-   "latestAt": "2026-11-12T15:35:46.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "libreagi - save OS models",
-     "link": "https://libreagi.com/",
-     "publisher": "libreagi.com",
-     "publisherDomain": "libreagi.com",
-     "kind": "discussion",
-     "date": "2026-11-12T15:35:46.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "holiday-extras-rethinking-what",
    "title": "Holiday Extras is rethinking what it can build with Codex",
    "category": {
@@ -1646,7 +1899,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.49848117341057,
+   "rank": 10.434719370793688,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1671,34 +1924,6 @@
    ]
   },
   {
-   "id": "alex-karp-said-progressive",
-   "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 13.602026379858529,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T10:30:00.000Z",
-   "latestAt": "2026-11-12T10:30:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
-     "link": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-12T10:30:00.000Z",
-     "points": null,
-     "summary": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two…"
-    }
-   ]
-  },
-  {
    "id": "nvidia-loyalty-accountability-look-nvidia",
    "title": "Loyalty vs accountability: a look at the Nvidia board deciding CEO Jensen Huang’s fate",
    "category": {
@@ -1712,7 +1937,7 @@
      "kind": "org"
     }
    ],
-   "rank": 12.922920298736948,
+   "rank": 8.173300642108604,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1740,7 +1965,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.485121857333898,
+   "rank": 7.896408252500399,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1779,7 +2004,7 @@
      "kind": "org"
     }
    ],
-   "rank": 11.613571131670625,
+   "rank": 7.345182527894631,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1813,7 +2038,7 @@
      "kind": "model"
     }
    ],
-   "rank": 10.569073605786988,
+   "rank": 6.6845739269253945,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1841,7 +2066,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.825934913952956,
+   "rank": 5.582098924379416,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1869,7 +2094,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.540149427744648,
+   "rank": 5.401349477355436,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1901,7 +2126,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.540149427744648,
+   "rank": 5.401349477355436,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1933,7 +2158,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.554747570697189,
+   "rank": 4.778116845352884,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1971,7 +2196,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.641581811427564,
+   "rank": 4.200571049661529,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2005,7 +2230,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.541481581113512,
+   "rank": 4.137261112140595,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2044,7 +2269,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.425099599282059,
+   "rank": 4.063653529268955,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2072,7 +2297,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.4648162395135635,
+   "rank": 3.4563074790291206,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2100,7 +2325,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.965349284100827,
+   "rank": 3.1404118847658093,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2128,7 +2353,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.944243134045044,
+   "rank": 3.127062974007591,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2166,7 +2391,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.745899346549339,
+   "rank": 3.001617380579661,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2194,7 +2419,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.645419131137138,
+   "rank": 2.9380671156114544,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2222,7 +2447,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.577874712531669,
+   "rank": 2.8953476042938076,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2254,7 +2479,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.52771796880576,
+   "rank": 2.863625196647208,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2286,7 +2511,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 4.500579575941864,
+   "rank": 2.846461100708154,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2314,7 +2539,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.2847993460230462,
+   "rank": 2.0775221067232095,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2348,7 +2573,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.255334251875773,
+   "rank": 2.058886452602735,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2376,7 +2601,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 3.0648851714197995,
+   "rank": 1.9384339886397768,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2410,7 +2635,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.817198682272917,
+   "rank": 1.7817808410548843,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2442,7 +2667,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.787137341248301,
+   "rank": 1.7627680813829736,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2480,7 +2705,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.5826165583610456,
+   "rank": 1.6334157517659338,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2524,7 +2749,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.451171334226625,
+   "rank": 1.5502811885259997,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2558,7 +2783,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.4326505090638357,
+   "rank": 1.5385674064476411,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2590,7 +2815,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6180557460133576,
+   "rank": 1.0233643605424896,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2622,7 +2847,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4313570060887393,
+   "rank": 0.9052838574029716,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2647,83 +2872,6 @@
    ]
   },
   {
-   "id": "gemini-gemini-intelligence-features-more",
-   "title": "Gemini Intelligence: New features, on more devices",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.372965828412684,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T19:00:00.000Z",
-   "latestAt": "2026-11-10T19:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-    "title": "Gemini Intelligence: New features, on more devices"
-   },
-   "sources": [
-    {
-     "title": "Gemini Intelligence: New features, on more devices",
-     "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-11-10T19:00:00.000Z",
-     "points": null,
-     "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'"
-    }
-   ]
-  },
-  {
-   "id": "grok-coding-agents-grok-build-coding-agent",
-   "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "coding-agents",
-     "name": "Coding Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "grok",
-     "name": "Grok",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.3546559687383113,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T21:12:59.000Z",
-   "latestAt": "2026-11-10T21:12:59.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-     "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-10T21:12:59.000Z",
-     "points": null,
-     "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them."
-    }
-   ]
-  },
-  {
    "id": "delaying-internal-deployments-until",
    "title": "Delaying Internal Deployments Until After X Days of Safety Testing",
    "category": {
@@ -2731,7 +2879,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3347628721664058,
+   "rank": 0.8441914047250351,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2748,40 +2896,6 @@
      "date": "2026-11-11T00:18:16.000Z",
      "points": null,
      "summary": "This post reflects my own takes, and not that of my employer's. This is a simple idea: before a new model can be deployed internally, you…"
-    }
-   ]
-  },
-  {
-   "id": "anthropic-anthropic-seeks-record-tied",
-   "title": "Anthropic Seeks Record $88.5B Tied To Public Market Debut",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.2417769464730894,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T18:51:25.000Z",
-   "latestAt": "2026-11-10T18:51:25.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic Seeks Record $88.5B Tied To Public Market Debut",
-     "link": "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
-     "publisher": "Crunchbase News",
-     "publisherDomain": "news.crunchbase.com",
-     "kind": "coverage",
-     "date": "2026-11-10T18:51:25.000Z",
-     "points": null,
-     "summary": "Anthropic is seeking to secure up to $88.5 billion in its planned IPO and a concurrent private placement, potentially making it the largest-ever fundraise tied to…"
     }
    ]
   },
@@ -2804,7 +2918,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.2410956653293455,
+   "rank": 0.7849501323122747,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2821,138 +2935,6 @@
      "date": "2026-11-10T22:35:01.000Z",
      "points": null,
      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027."
-    }
-   ]
-  },
-  {
-   "id": "gemini-gemini-carbon-available",
-   "title": "Gemini 4 Carbon is now available",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.2134195762388413,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T16:03:47.000Z",
-   "latestAt": "2026-11-10T16:03:47.000Z",
-   "primary": {
-    "publisher": "Google DeepMind",
-    "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-    "title": "Gemini 4 Carbon is now available"
-   },
-   "sources": [
-    {
-     "title": "Gemini 4 Carbon is now available",
-     "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-     "publisher": "Google DeepMind",
-     "publisherDomain": "deepmind.google",
-     "kind": "primary",
-     "date": "2026-11-10T16:03:47.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "agents-lazare-veni-foras-reprogramming",
-   "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 1.2033082954994863,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T20:52:56.000Z",
-   "latestAt": "2026-11-10T20:52:56.000Z",
-   "primary": {
-    "publisher": "Microsoft Research",
-    "link": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
-    "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents"
-   },
-   "sources": [
-    {
-     "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
-     "link": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
-     "publisher": "Microsoft Research",
-     "publisherDomain": "microsoft.com",
-     "kind": "primary",
-     "date": "2026-11-10T20:52:56.000Z",
-     "points": null,
-     "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious…"
-    }
-   ]
-  },
-  {
-   "id": "what-happens-mathematics-when",
-   "title": "What happens to mathematics when AI becomes an oracle?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.074213674048793,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T20:30:01.000Z",
-   "latestAt": "2026-11-10T20:30:01.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "What happens to mathematics when AI becomes an oracle?",
-     "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-10T20:30:01.000Z",
-     "points": null,
-     "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World ."
-    }
-   ]
-  },
-  {
-   "id": "timelines-update-looks-like",
-   "title": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [],
-   "rank": 0.7772168143236965,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-10T16:30:09.000Z",
-   "latestAt": "2026-11-10T16:30:09.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
-     "link": "https://www.alignmentforum.org/posts/f9PajMLmBYzmWzyDv/q3-5-timelines-update-looks-like-the-intelligence-explosion",
-     "publisher": "Alignment Forum",
-     "publisherDomain": "alignmentforum.org",
-     "kind": "coverage",
-     "date": "2026-11-10T16:30:09.000Z",
-     "points": null,
-     "summary": "We want to get this post out quickly given the urgency of the topic. It’s possible that there are some errors in the modeling, but we…"
     }
    ]
   }
