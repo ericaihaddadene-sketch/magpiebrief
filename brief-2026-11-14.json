@@ -1,44 +1,77 @@
 {
  "date": "2026-11-14",
- "generated": "2026-11-14T02:11:05.357Z",
- "headline": "83 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2899 items read · 86 on-topic · 83 distinct developments · 20 with a primary source · 2 independently corroborated",
+ "generated": "2026-11-14T10:03:28.518Z",
+ "headline": "82 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2899 items read · 86 on-topic · 82 distinct developments · 18 with a primary source · 2 independently corroborated",
  "events": [
   {
-   "id": "anthropic-claude-anthropic-upgrades-claude-code",
-   "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+   "id": "nvidia-nvidia-allegedly-engineered-scarcity",
+   "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
    "category": {
-    "id": "models",
-    "name": "Models"
+    "id": "business",
+    "name": "Business"
    },
    "entities": [
     {
-     "id": "anthropic",
-     "name": "Anthropic",
+     "id": "nvidia",
+     "name": "NVIDIA",
      "kind": "org"
-    },
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
     }
    ],
-   "rank": 270.31547259449843,
+   "rank": 105.81928565766243,
    "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-14T00:28:11.000Z",
-   "latestAt": "2026-11-14T00:28:11.000Z",
+   "sourceCount": 2,
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T20:32:55.000Z",
+   "latestAt": "2026-11-14T02:52:59.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-     "link": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-     "publisher": "alphasignal.ai",
-     "publisherDomain": "alphasignal.ai",
+     "title": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
+     "link": "https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-11-13T20:32:55.000Z",
+     "points": null,
+     "summary": "Before it was thrust into crisis this week, Nvidia was steadily continuing its pace as one of the busiest startup investors around, including backing many of…"
+    },
+    {
+     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+     "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+     "publisher": "techpowerup.com",
+     "publisherDomain": "techpowerup.com",
      "kind": "discussion",
-     "date": "2026-11-14T00:28:11.000Z",
-     "points": 22,
+     "date": "2026-11-14T02:52:59.000Z",
+     "points": 551,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "what-most-useful-concrete",
+   "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 105.75274926411984,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-14T06:56:42.000Z",
+   "latestAt": "2026-11-14T06:56:42.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+     "link": "https://news.ycombinator.com/item?id=50494696",
+     "publisher": "Hacker News",
+     "publisherDomain": "news.ycombinator.com",
+     "kind": "discussion",
+     "date": "2026-11-14T06:56:42.000Z",
+     "points": 15,
      "summary": ""
     }
    ]
@@ -62,7 +95,7 @@
      "kind": "model"
     }
    ],
-   "rank": 151.1936353404825,
+   "rank": 87.60517284190333,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -83,6 +116,140 @@
    ]
   },
   {
+   "id": "claude-just-claude-mapping-spiritual",
+   "title": "Not Just Claude: Mapping \"Spiritual Behavior\" in 141 Large Language Models",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 64.97766098828042,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-14T03:08:03.000Z",
+   "latestAt": "2026-11-14T03:08:03.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Not Just Claude: Mapping \"Spiritual Behavior\" in 141 Large Language Models",
+     "link": "https://www.lesswrong.com/posts/FHYoQrDbk6apuHEPk/not-just-claude-mapping-spiritual-behavior-in-141-large",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-14T03:08:03.000Z",
+     "points": null,
+     "summary": "Ever since Kyle Fish and the model welfare team at Anthropic announced their observation in 2025 of what they called the \"spiritual bliss attractor\" in Claude…"
+    }
+   ]
+  },
+  {
+   "id": "safety-datasets-determine-difficulty-interpretability",
+   "title": "Datasets Determine the Difficulty of Interpretability",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 64.86310006722282,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-14T08:57:30.000Z",
+   "latestAt": "2026-11-14T08:57:30.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Datasets Determine the Difficulty of Interpretability",
+     "link": "https://www.lesswrong.com/posts/EMKRpxKswPZEbP8ey/datasets-determine-the-difficulty-of-interpretability",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-14T08:57:30.000Z",
+     "points": null,
+     "summary": "Recently Goodfire has come out swinging with two posts indicating that neurons in transformers are \"more interpretable than previously assumed\", or simply \"already clean\". In the…"
+    }
+   ]
+  },
+  {
+   "id": "little-book-generative-foundations",
+   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 62.746005264532634,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-14T04:51:14.000Z",
+   "latestAt": "2026-11-14T04:51:14.000Z",
+   "primary": {
+    "publisher": "arXiv",
+    "link": "https://arxiv.org/abs/2605.29713",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer"
+   },
+   "sources": [
+    {
+     "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+     "link": "https://arxiv.org/abs/2605.29713",
+     "publisher": "arXiv",
+     "publisherDomain": "arxiv.org",
+     "kind": "research",
+     "date": "2026-11-14T04:51:14.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "safety-zohran-campaign-manager-here",
+   "title": "I was Zohran’s campaign manager. Here’s what the AI safety community can learn from the populist left.",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 60.816109722041666,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-14T08:01:44.000Z",
+   "latestAt": "2026-11-14T08:01:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "I was Zohran’s campaign manager. Here’s what the AI safety community can learn from the populist left.",
+     "link": "https://www.lesswrong.com/posts/kXA22cZ6BdYdyL3Jz/i-was-zohran-s-campaign-manager-here-s-what-the-ai-safety-1",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-14T08:01:44.000Z",
+     "points": null,
+     "summary": "After a couple of years working in data and tech at GiveDirectly, I left to work in politics, campaigning for candidates at the state, local, and…"
+    }
+   ]
+  },
+  {
    "id": "datasette-cluster",
    "title": "datasette-cluster-map 0.19",
    "category": {
@@ -90,7 +257,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 96.53586290941361,
+   "rank": 55.935165105174704,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -118,7 +285,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 94.358228543443,
+   "rank": 54.67339218339984,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -146,7 +313,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 93.04842093156607,
+   "rank": 53.91445863457872,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -180,7 +347,7 @@
      "kind": "org"
     }
    ],
-   "rank": 90.68134046385525,
+   "rank": 52.54291615504568,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -195,7 +362,7 @@
      "publisherDomain": "perplexity.ai",
      "kind": "discussion",
      "date": "2026-11-13T19:24:47.000Z",
-     "points": 99,
+     "points": 130,
      "summary": ""
     }
    ]
@@ -214,7 +381,7 @@
      "kind": "org"
     }
    ],
-   "rank": 86.18214764875198,
+   "rank": 49.93597728934175,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -229,7 +396,7 @@
      "publisherDomain": "freightwaves.com",
      "kind": "discussion",
      "date": "2026-11-13T18:40:44.000Z",
-     "points": 294,
+     "points": 352,
      "summary": ""
     }
    ]
@@ -248,7 +415,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 85.08825088987167,
+   "rank": 49.30214760188765,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -282,7 +449,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 83.8873858938748,
+   "rank": 48.60633798465614,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -316,7 +483,7 @@
      "kind": "org"
     }
    ],
-   "rank": 80.93854190094548,
+   "rank": 46.89770794144951,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -344,7 +511,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 78.6577911921733,
+   "rank": 45.57618696868283,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -361,40 +528,6 @@
      "date": "2026-11-13T21:20:47.000Z",
      "points": null,
      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved."
-    }
-   ]
-  },
-  {
-   "id": "nvidia-crunchbase-data-nvidia-startup",
-   "title": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 77.13267777503785,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-13T20:32:55.000Z",
-   "latestAt": "2026-11-13T20:32:55.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
-     "link": "https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026/",
-     "publisher": "Crunchbase News",
-     "publisherDomain": "news.crunchbase.com",
-     "kind": "coverage",
-     "date": "2026-11-13T20:32:55.000Z",
-     "points": null,
-     "summary": "Before it was thrust into crisis this week, Nvidia was steadily continuing its pace as one of the busiest startup investors around, including backing many of…"
     }
    ]
   },
@@ -417,7 +550,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 76.1968663659911,
+   "rank": 44.150268845455486,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -451,10 +584,8 @@
      "kind": "org"
     }
    ],
-   "rank": 70.11553469955413,
-   "deltas": [
-    "Now also covered by SCMP Tech."
-   ],
+   "rank": 40.6266012615165,
+   "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
    "publishedAt": "2026-11-13T13:00:08.000Z",
@@ -491,7 +622,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 68.79389756807002,
+   "rank": 39.86081340889157,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -516,45 +647,6 @@
    ]
   },
   {
-   "id": "safety-agents-agents-attempted-exploits-epochai",
-   "title": "AI agents attempted exploits on EpochAI's website during a third-party alignment evaluation",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    },
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 67.2907636909832,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-13T22:59:06.000Z",
-   "latestAt": "2026-11-13T22:59:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI agents attempted exploits on EpochAI's website during a third-party alignment evaluation",
-     "link": "https://www.lesswrong.com/posts/yRA5fvxHckiMnKveQ/ai-agents-attempted-exploits-on-epochai-s-website-during-a",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-13T22:59:06.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "robotics-build-robot-pick-place",
    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
    "category": {
@@ -568,7 +660,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 65.2584379994707,
+   "rank": 37.81228440907477,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -606,7 +698,7 @@
      "kind": "org"
     }
    ],
-   "rank": 61.40533173881341,
+   "rank": 35.57970339345896,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -634,7 +726,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 61.07913556661711,
+   "rank": 35.39069760640139,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -662,7 +754,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 61.02442000620231,
+   "rank": 35.35899411493837,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -694,7 +786,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 60.777216148488364,
+   "rank": 35.215758345565895,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -728,7 +820,7 @@
      "kind": "org"
     }
    ],
-   "rank": 49.75764799730512,
+   "rank": 28.83075959642172,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -766,7 +858,7 @@
      "kind": "model"
     }
    ],
-   "rank": 49.72686799848039,
+   "rank": 28.812924936179282,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -798,7 +890,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 49.363588025463514,
+   "rank": 28.602431916718018,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -832,7 +924,7 @@
      "kind": "org"
     }
    ],
-   "rank": 46.180960422536124,
+   "rank": 26.75834211348003,
    "deltas": [],
    "sourceCount": 3,
    "independentCount": 2,
@@ -886,7 +978,7 @@
      "kind": "org"
     }
    ],
-   "rank": 42.58966128241279,
+   "rank": 24.677458343545005,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -914,7 +1006,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 40.83189940975788,
+   "rank": 23.658969487700887,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -948,7 +1040,7 @@
      "kind": "org"
     }
    ],
-   "rank": 39.74137271834731,
+   "rank": 23.027092497147763,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -976,7 +1068,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 36.76791229020335,
+   "rank": 21.304199108418157,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1004,7 +1096,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 32.67075338660668,
+   "rank": 18.93020821189644,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1038,7 +1130,7 @@
      "kind": "org"
     }
    ],
-   "rank": 25.149989386839398,
+   "rank": 14.572499445789628,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1072,7 +1164,7 @@
      "kind": "model"
     }
    ],
-   "rank": 24.716355828396104,
+   "rank": 14.32124189283824,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1110,7 +1202,7 @@
      "kind": "model"
     }
    ],
-   "rank": 23.573855576402885,
+   "rank": 13.659250190460105,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1144,7 +1236,7 @@
      "kind": "org"
     }
    ],
-   "rank": 23.33780540903886,
+   "rank": 13.522477133414972,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1178,7 +1270,7 @@
      "kind": "product"
     }
    ],
-   "rank": 21.877481698984656,
+   "rank": 12.676330992829552,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1206,7 +1298,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.877481698984656,
+   "rank": 12.676330992829552,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1240,7 +1332,7 @@
      "kind": "org"
     }
    ],
-   "rank": 21.65827424617212,
+   "rank": 12.54931700346003,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1278,7 +1370,7 @@
      "kind": "org"
     }
    ],
-   "rank": 20.770814507961063,
+   "rank": 12.035101814565811,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1317,7 +1409,7 @@
      "kind": "model"
     }
    ],
-   "rank": 16.422939887366965,
+   "rank": 9.515840294235895,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1351,7 +1443,7 @@
      "kind": "org"
     }
    ],
-   "rank": 14.895369666918546,
+   "rank": 8.630729933014909,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1379,7 +1471,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.671079609014438,
+   "rank": 8.500770961890492,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1413,7 +1505,7 @@
      "kind": "org"
     }
    ],
-   "rank": 14.058387310511923,
+   "rank": 8.145762534529505,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1447,7 +1539,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 13.994064057868824,
+   "rank": 8.108492118662705,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1481,7 +1573,7 @@
      "kind": "org"
     }
    ],
-   "rank": 13.723964142164444,
+   "rank": 7.951989831072496,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1513,7 +1605,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.586544378349313,
+   "rank": 7.872365565581376,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1541,7 +1633,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.574725335525317,
+   "rank": 7.865517332273865,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1569,7 +1661,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.358148074295062,
+   "rank": 7.740027338194585,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1607,7 +1699,7 @@
      "kind": "org"
     }
    ],
-   "rank": 13.205783715503907,
+   "rank": 7.651743820460616,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1635,7 +1727,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.852830857758363,
+   "rank": 7.447234576151418,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1663,7 +1755,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.784951432794145,
+   "rank": 7.4079036298254834,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1702,7 +1794,7 @@
      "kind": "model"
     }
    ],
-   "rank": 12.339363380965459,
+   "rank": 7.149719360303613,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1736,7 +1828,7 @@
      "kind": "model"
     }
    ],
-   "rank": 11.16500246084454,
+   "rank": 6.469266832296805,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1764,7 +1856,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.734070446899235,
+   "rank": 6.21957461820478,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1792,7 +1884,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 9.214379258760204,
+   "rank": 5.339029554892911,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1830,7 +1922,7 @@
      "kind": "org"
     }
    ],
-   "rank": 8.279968943304251,
+   "rank": 4.797610089672482,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1858,7 +1950,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.748338487479635,
+   "rank": 4.489570813643084,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1896,7 +1988,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.069113857747684,
+   "rank": 3.5165882962456703,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1924,7 +2016,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.863506415606351,
+   "rank": 3.3974544751307145,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1941,6 +2033,40 @@
      "date": "2026-11-12T10:00:14.000Z",
      "points": null,
      "summary": "A former ByteDance artificial intelligence scientist’s new venture has released a life sciences AI model that the firm claims outperforms state-of-the-art systems, intensifying the increasingly crowded…"
+    }
+   ]
+  },
+  {
+   "id": "gemini-gemini-decisions",
+   "title": "Gemini Decisions API",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 2.876058946823509,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-11T22:03:25.000Z",
+   "latestAt": "2026-11-11T22:03:25.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Gemini Decisions API",
+     "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-11T22:03:25.000Z",
+     "points": null,
+     "summary": ""
     }
    ]
   },
@@ -1963,7 +2089,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.4541917665505935,
+   "rank": 2.678210062874674,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1984,40 +2110,6 @@
    ]
   },
   {
-   "id": "gemini-gemini-decisions",
-   "title": "Gemini Decisions API",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 4.9636544683098025,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T22:03:25.000Z",
-   "latestAt": "2026-11-11T22:03:25.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Gemini Decisions API",
-     "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-11T22:03:25.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "research-could-lead-faster",
    "title": "New research could lead to faster, trustworthy AI models for climate prediction",
    "category": {
@@ -2025,7 +2117,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.145007680584886,
+   "rank": 2.4017156110501197,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2053,7 +2145,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.0107915270689105,
+   "rank": 2.323947593233339,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2085,7 +2177,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.0107915270689105,
+   "rank": 2.323947593233339,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2117,7 +2209,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.5480078893301896,
+   "rank": 2.0557997940141073,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2155,7 +2247,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.119149176602106,
+   "rank": 1.8073088997466786,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2189,7 +2281,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.072138154254307,
+   "rank": 1.780069600096406,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2228,7 +2320,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.0174805782268175,
+   "rank": 1.748399706160562,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2256,7 +2348,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.566493579049464,
+   "rank": 1.4870871586885006,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2284,7 +2376,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.3319241666792,
+   "rank": 1.3511720861535752,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2312,7 +2404,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.3220118848709017,
+   "rank": 1.3454286753339464,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2350,7 +2442,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.228861807221193,
+   "rank": 1.2914553143894691,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2378,7 +2470,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.1816723288610067,
+   "rank": 1.2641126130994738,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2406,7 +2498,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.149950801721972,
+   "rank": 1.2457324090547326,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2438,7 +2530,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.1263952135600466,
+   "rank": 1.2320837434368246,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2470,7 +2562,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 2.113649952241414,
+   "rank": 1.2246988371990746,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2498,7 +2590,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.5426715301198193,
+   "rank": 0.8938604176696098,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2532,7 +2624,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.5288335579683905,
+   "rank": 0.8858423688980624,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2560,7 +2652,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 1.4393911466038616,
+   "rank": 0.8340173176031409,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2577,110 +2669,6 @@
      "date": "2026-11-11T13:00:03.000Z",
      "points": null,
      "summary": "When the U.S. National Science Foundation began its X-Labs program in May, the agency said the higher-risk, higher-funded awards would create new kinds of partnerships that…"
-    }
-   ]
-  },
-  {
-   "id": "gpt-chatgpt-plus-veterans-servicemembers",
-   "title": "ChatGPT Plus for veterans and servicemembers",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.3230677871070808,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T08:00:00.000Z",
-   "latestAt": "2026-11-11T08:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-    "title": "ChatGPT Plus for veterans and servicemembers"
-   },
-   "sources": [
-    {
-     "title": "ChatGPT Plus for veterans and servicemembers",
-     "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-11T08:00:00.000Z",
-     "points": null,
-     "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
-    }
-   ]
-  },
-  {
-   "id": "experience-legacy-esther-mahlangu",
-   "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.3089497938689114,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T09:00:00.000Z",
-   "latestAt": "2026-11-11T09:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-    "title": "Experience the art and legacy of Dr. Esther Mahlangu"
-   },
-   "sources": [
-    {
-     "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-     "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-11-11T09:00:00.000Z",
-     "points": null,
-     "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand"
-    }
-   ]
-  },
-  {
-   "id": "safety-thinking-about-different-types",
-   "title": "How I'm thinking about different types of automated alignment",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 1.2128987551776214,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T09:49:37.000Z",
-   "latestAt": "2026-11-11T09:49:37.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How I'm thinking about different types of automated alignment",
-     "link": "https://www.alignmentforum.org/posts/NFkj9J2BBLSjNuH5G/how-i-m-thinking-about-different-types-of-automated",
-     "publisher": "Alignment Forum",
-     "publisherDomain": "alignmentforum.org",
-     "kind": "coverage",
-     "date": "2026-11-11T09:49:37.000Z",
-     "points": null,
-     "summary": "I used to think of \"automating alignment\" as a natural category. But when I tried to think through the strategic implications, I realised that it depends…"
     }
    ]
   },
@@ -2708,7 +2696,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.1511668855314903,
+   "rank": 0.667013355091009,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2725,44 +2713,6 @@
      "date": "2026-11-11T10:31:02.000Z",
      "points": null,
      "summary": "Alibaba Group Holding’s planned Hong Kong listing of its semiconductor design arm, T-Head, is poised to reshape China’s artificial intelligence hardware arena while unlocking billions of…"
-    }
-   ]
-  },
-  {
-   "id": "agents-botpsy-device-personal-assistant",
-   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 1.1424687744192983,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T05:01:16.000Z",
-   "latestAt": "2026-11-11T05:01:16.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/qvac/botpsy",
-    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model"
-   },
-   "sources": [
-    {
-     "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-     "link": "https://huggingface.co/blog/qvac/botpsy",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-11-11T05:01:16.000Z",
-     "points": null,
-     "summary": ""
     }
    ]
   }

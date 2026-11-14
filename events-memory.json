@@ -1,15 +1,28 @@
 {
- "anthropic-claude-anthropic-upgrades-claude-code": {
-  "id": "anthropic-claude-anthropic-upgrades-claude-code",
-  "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-  "firstSeen": "2026-11-14T02:11:05.310Z",
+ "nvidia-nvidia-allegedly-engineered-scarcity": {
+  "id": "nvidia-nvidia-allegedly-engineered-scarcity",
+  "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+  "firstSeen": "2026-11-14T10:03:28.450Z",
   "publishers": [
-   "alphasignal.ai"
+   "Crunchbase News",
+   "techpowerup.com"
+  ],
+  "sourceCount": 2,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
+ },
+ "what-most-useful-concrete": {
+  "id": "what-most-useful-concrete",
+  "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+  "firstSeen": "2026-11-14T10:03:28.450Z",
+  "publishers": [
+   "Hacker News"
   ],
   "sourceCount": 1,
   "independentCount": 0,
   "hadPrimary": false,
-  "category": "models"
+  "category": "general"
  },
  "openai-gpt-chatgpt-wallet-lets-openai": {
   "id": "openai-gpt-chatgpt-wallet-lets-openai",
@@ -22,6 +35,54 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "models"
+ },
+ "claude-just-claude-mapping-spiritual": {
+  "id": "claude-just-claude-mapping-spiritual",
+  "title": "Not Just Claude: Mapping \"Spiritual Behavior\" in 141 Large Language Models",
+  "firstSeen": "2026-11-14T10:03:28.450Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "models"
+ },
+ "safety-datasets-determine-difficulty-interpretability": {
+  "id": "safety-datasets-determine-difficulty-interpretability",
+  "title": "Datasets Determine the Difficulty of Interpretability",
+  "firstSeen": "2026-11-14T10:03:28.450Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "little-book-generative-foundations": {
+  "id": "little-book-generative-foundations",
+  "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+  "firstSeen": "2026-11-14T10:03:28.450Z",
+  "publishers": [
+   "arXiv"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "safety-zohran-campaign-manager-here": {
+  "id": "safety-zohran-campaign-manager-here",
+  "title": "I was Zohran’s campaign manager. Here’s what the AI safety community can learn from the populist left.",
+  "firstSeen": "2026-11-14T10:03:28.450Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
  },
  "datasette-cluster": {
   "id": "datasette-cluster",
@@ -131,18 +192,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "nvidia-crunchbase-data-nvidia-startup": {
-  "id": "nvidia-crunchbase-data-nvidia-startup",
-  "title": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
-  "firstSeen": "2026-11-13T21:53:25.725Z",
-  "publishers": [
-   "Crunchbase News"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
  "funding-agents-agent-startup-langchain-hits": {
   "id": "funding-agents-agent-startup-langchain-hits",
   "title": "AI agent startup LangChain hits $3B valuation",
@@ -179,18 +228,6 @@
   "independentCount": 1,
   "hadPrimary": true,
   "category": "general"
- },
- "safety-agents-agents-attempted-exploits-epochai": {
-  "id": "safety-agents-agents-attempted-exploits-epochai",
-  "title": "AI agents attempted exploits on EpochAI's website during a third-party alignment evaluation",
-  "firstSeen": "2026-11-14T02:11:05.310Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "research"
  },
  "robotics-build-robot-pick-place": {
   "id": "robotics-build-robot-pick-place",
@@ -697,18 +734,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "anthropic-openai-taiwan-chipmaking-giant-tsmc": {
-  "id": "anthropic-openai-taiwan-chipmaking-giant-tsmc",
-  "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "gemini-gemini-decisions": {
   "id": "gemini-gemini-decisions",
   "title": "Gemini Decisions API",
@@ -720,6 +745,18 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "tools"
+ },
+ "anthropic-openai-taiwan-chipmaking-giant-tsmc": {
+  "id": "anthropic-openai-taiwan-chipmaking-giant-tsmc",
+  "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+  "firstSeen": "2026-11-11T18:33:19.977Z",
+  "publishers": [
+   "Ars Technica AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
  },
  "research-could-lead-faster": {
   "id": "research-could-lead-faster",
@@ -937,42 +974,6 @@
   "hadPrimary": false,
   "category": "business"
  },
- "gpt-chatgpt-plus-veterans-servicemembers": {
-  "id": "gpt-chatgpt-plus-veterans-servicemembers",
-  "title": "ChatGPT Plus for veterans and servicemembers",
-  "firstSeen": "2026-11-11T10:39:28.671Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "models"
- },
- "experience-legacy-esther-mahlangu": {
-  "id": "experience-legacy-esther-mahlangu",
-  "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-  "firstSeen": "2026-11-11T10:39:28.671Z",
-  "publishers": [
-   "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "safety-thinking-about-different-types": {
-  "id": "safety-thinking-about-different-types",
-  "title": "How I'm thinking about different types of automated alignment",
-  "firstSeen": "2026-11-11T10:39:28.671Z",
-  "publishers": [
-   "Alignment Forum"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "alibaba-nvidia-funding-amid-nvidia-saga-head": {
   "id": "alibaba-nvidia-funding-amid-nvidia-saga-head",
   "title": "Amid Nvidia saga, T-Head IPO a crucial test for Alibaba – and China’s AI ambitions",
@@ -984,17 +985,5 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "business"
- },
- "agents-botpsy-device-personal-assistant": {
-  "id": "agents-botpsy-device-personal-assistant",
-  "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-  "firstSeen": "2026-11-11T10:39:28.671Z",
-  "publishers": [
-   "Hugging Face"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
  }
 }
