@@ -12,10 +12,23 @@
   "hadPrimary": false,
   "category": "general"
  },
- "show-agweb-browser-agents": {
-  "id": "show-agweb-browser-agents",
-  "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-  "firstSeen": "2026-11-14T16:30:18.960Z",
+ "nvidia-asian-governments-react-nvidia": {
+  "id": "nvidia-asian-governments-react-nvidia",
+  "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+  "firstSeen": "2026-11-14T21:16:45.492Z",
+  "publishers": [
+   "TechCrunch",
+   "SCMP Tech"
+  ],
+  "sourceCount": 5,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "deepseek-show-deepseek-lines-pure": {
+  "id": "deepseek-show-deepseek-lines-pure",
+  "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+  "firstSeen": "2026-11-14T21:16:45.492Z",
   "publishers": [
    "GitHub"
   ],
@@ -34,6 +47,18 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
+  "category": "general"
+ },
+ "graveyard-running-list-projects": {
+  "id": "graveyard-running-list-projects",
+  "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+  "firstSeen": "2026-11-14T21:16:45.492Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
   "category": "general"
  },
  "beware-fueled-ransomware-boom": {
@@ -59,31 +84,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "nvidia-nvidia-allegedly-engineered-scarcity": {
-  "id": "nvidia-nvidia-allegedly-engineered-scarcity",
-  "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-  "firstSeen": "2026-11-14T10:03:28.450Z",
-  "publishers": [
-   "Crunchbase News",
-   "techpowerup.com"
-  ],
-  "sourceCount": 2,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
- "openai-gpt-chatgpt-wallet-lets-openai": {
-  "id": "openai-gpt-chatgpt-wallet-lets-openai",
-  "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-  "firstSeen": "2026-11-13T21:53:25.725Z",
-  "publishers": [
-   "The Verge"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
  },
  "safety-reward-hack-auditing-chinese": {
   "id": "safety-reward-hack-auditing-chinese",
@@ -193,6 +193,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "nvidia-crunchbase-data-nvidia-startup": {
+  "id": "nvidia-crunchbase-data-nvidia-startup",
+  "title": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
+  "firstSeen": "2026-11-14T21:16:45.492Z",
+  "publishers": [
+   "Crunchbase News"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "business"
+ },
  "funding-agents-agent-startup-langchain-hits": {
   "id": "funding-agents-agent-startup-langchain-hits",
   "title": "AI agent startup LangChain hits $3B valuation",
@@ -204,6 +216,18 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "business"
+ },
+ "gpt-introducing-chatgpt-wallet": {
+  "id": "gpt-introducing-chatgpt-wallet",
+  "title": "Introducing ChatGPT Wallet",
+  "firstSeen": "2026-11-14T21:16:45.492Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "models"
  },
  "nvidia-export-banned-nvidia-chips": {
   "id": "nvidia-export-banned-nvidia-chips",
@@ -247,18 +271,6 @@
   "firstSeen": "2026-11-13T21:53:25.725Z",
   "publishers": [
    "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "homeopathic-learning-diluting-poisoned": {
-  "id": "homeopathic-learning-diluting-poisoned",
-  "title": "Homeopathic Learning: Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect",
-  "firstSeen": "2026-11-14T02:11:05.310Z",
-  "publishers": [
-   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -325,18 +337,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "will-jensen-huang-downfall": {
-  "id": "will-jensen-huang-downfall",
-  "title": "Will Jensen Huang’s downfall tip the scales against open-source AI?",
-  "firstSeen": "2026-11-13T15:16:51.834Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "opensource"
- },
  "nvidia-download-silicon-valley-blind": {
   "id": "nvidia-download-silicon-valley-blind",
   "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
@@ -349,6 +349,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "will-jensen-huang-downfall": {
+  "id": "will-jensen-huang-downfall",
+  "title": "Will Jensen Huang’s downfall tip the scales against open-source AI?",
+  "firstSeen": "2026-11-13T15:16:51.834Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "opensource"
+ },
  "nvidia-israel-opportunity-challengers-nvidia": {
   "id": "nvidia-israel-opportunity-challengers-nvidia",
   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
@@ -357,18 +369,6 @@
    "TechCrunch"
   ],
   "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "nvidia-jensen-huang-exit-tests": {
-  "id": "nvidia-jensen-huang-exit-tests",
-  "title": "Jensen Huang’s exit tests Nvidia’s supply chain clout, ability to bankroll AI buildout",
-  "firstSeen": "2026-11-14T16:30:18.960Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 2,
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
@@ -394,18 +394,6 @@
   ],
   "sourceCount": 1,
   "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "nvidia-jensen-huang-abrupt-exit": {
-  "id": "nvidia-jensen-huang-abrupt-exit",
-  "title": "Jensen Huang’s abrupt exit stuns Nvidia’s China staff, clouding the outlook in a key market",
-  "firstSeen": "2026-11-13T15:16:51.834Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -541,18 +529,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "agents-nectar-launches-agent-automate": {
-  "id": "agents-nectar-launches-agent-automate",
-  "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-  "firstSeen": "2026-11-12T23:31:26.829Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "microsoft-microsoft-research-focus-edition": {
   "id": "microsoft-microsoft-research-focus-edition",
   "title": "Microsoft Research Focus – Edition #98",
@@ -673,18 +649,6 @@
   "hadPrimary": true,
   "category": "general"
  },
- "nvidia-loyalty-accountability-look-nvidia": {
-  "id": "nvidia-loyalty-accountability-look-nvidia",
-  "title": "Loyalty vs accountability: a look at the Nvidia board deciding CEO Jensen Huang’s fate",
-  "firstSeen": "2026-11-13T15:16:51.834Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "former-bytedance-scientist-touts": {
   "id": "former-bytedance-scientist-touts",
   "title": "Former ByteDance AI scientist touts drug-discovery model that tops world leaders",
@@ -708,18 +672,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "tools"
- },
- "anthropic-openai-taiwan-chipmaking-giant-tsmc": {
-  "id": "anthropic-openai-taiwan-chipmaking-giant-tsmc",
-  "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  },
  "research-could-lead-faster": {
   "id": "research-could-lead-faster",
@@ -792,65 +744,5 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "browse-tools-simonwillison": {
-  "id": "browse-tools-simonwillison",
-  "title": "Browse tools.simonwillison.net by tag",
-  "firstSeen": "2026-11-12T01:26:52.929Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "event": {
-  "id": "event",
-  "title": "llm 0.37.2",
-  "firstSeen": "2026-11-12T01:26:52.929Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "using-wearables-enable-cardiovascular": {
-  "id": "using-wearables-enable-cardiovascular",
-  "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
-  "firstSeen": "2026-11-12T01:26:52.929Z",
-  "publishers": [
-   "Google Research"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "walk-used-indie-gaming": {
-  "id": "walk-used-indie-gaming",
-  "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "medicare-experiment-effector": {
-  "id": "medicare-experiment-effector",
-  "title": "🤕 Medicare's AI Experiment | EFFector 38.20",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "EFF"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "research"
  }
 }
