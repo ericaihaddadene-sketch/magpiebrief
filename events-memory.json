@@ -1,4 +1,16 @@
 {
+ "anthropic-claude-anthropic-upgrades-claude-code": {
+  "id": "anthropic-claude-anthropic-upgrades-claude-code",
+  "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+  "firstSeen": "2026-11-14T02:11:05.310Z",
+  "publishers": [
+   "alphasignal.ai"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "models"
+ },
  "openai-gpt-chatgpt-wallet-lets-openai": {
   "id": "openai-gpt-chatgpt-wallet-lets-openai",
   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
@@ -11,48 +23,36 @@
   "hadPrimary": false,
   "category": "models"
  },
- "openai-robotics-openai-disbands-robotics-team": {
-  "id": "openai-robotics-openai-disbands-robotics-team",
-  "title": "OpenAI disbands its robotics team as its general models start running robots",
-  "firstSeen": "2026-11-13T21:53:25.725Z",
+ "datasette-cluster": {
+  "id": "datasette-cluster",
+  "title": "datasette-cluster-map 0.19",
+  "firstSeen": "2026-11-14T02:11:05.310Z",
   "publishers": [
-   "fortune.com"
+   "Simon Willison"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
- "slop-manifesto": {
-  "id": "slop-manifesto",
-  "title": "No AI Slop: A Manifesto",
-  "firstSeen": "2026-11-13T21:53:25.725Z",
+ "jensen-huang-departure-blasts": {
+  "id": "jensen-huang-departure-blasts",
+  "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+  "firstSeen": "2026-11-14T02:11:05.310Z",
   "publishers": [
-   "slopmanifesto.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "agents-week-biggest-funding-rounds": {
-  "id": "agents-week-biggest-funding-rounds",
-  "title": "The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll",
-  "firstSeen": "2026-11-13T21:53:25.725Z",
-  "publishers": [
-   "Crunchbase News"
+   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
   "category": "business"
  },
- "openai-openai-board-member-worries": {
-  "id": "openai-openai-board-member-worries",
-  "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-  "firstSeen": "2026-11-13T21:53:25.725Z",
+ "datasette-leaflet": {
+  "id": "datasette-leaflet",
+  "title": "datasette-leaflet 0.3",
+  "firstSeen": "2026-11-14T02:11:05.310Z",
   "publishers": [
-   "Ars Technica AI"
+   "Simon Willison"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -83,17 +83,17 @@
   "hadPrimary": false,
   "category": "general"
  },
- "models-transmit-viruses-weight": {
-  "id": "models-transmit-viruses-weight",
-  "title": "Models can now transmit viruses in weight-space",
+ "agents-week-biggest-funding-rounds": {
+  "id": "agents-week-biggest-funding-rounds",
+  "title": "The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll",
   "firstSeen": "2026-11-13T21:53:25.725Z",
   "publishers": [
-   "alphaxiv.org"
+   "Crunchbase News"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
   "hadPrimary": false,
-  "category": "general"
+  "category": "business"
  },
  "agents-autonomous-hiring-build-agents": {
   "id": "agents-autonomous-hiring-build-agents",
@@ -107,15 +107,27 @@
   "hadPrimary": false,
   "category": "general"
  },
- "after-experiments-here-what": {
-  "id": "after-experiments-here-what",
-  "title": "After 600 experiments, here's what I discovered about JEPA world models",
+ "openai-openai-board-member-worries": {
+  "id": "openai-openai-board-member-worries",
+  "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
   "firstSeen": "2026-11-13T21:53:25.725Z",
   "publishers": [
-   "haddyalchaer.com"
+   "Ars Technica AI"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "expands-advice-manage-traffic": {
+  "id": "expands-advice-manage-traffic",
+  "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+  "firstSeen": "2026-11-12T23:31:26.829Z",
+  "publishers": [
+   "Ars Technica AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -145,13 +157,14 @@
  },
  "nvidia-export-banned-nvidia-chips": {
   "id": "nvidia-export-banned-nvidia-chips",
-  "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+  "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
   "firstSeen": "2026-11-13T21:53:25.725Z",
   "publishers": [
-   "TechCrunch"
+   "TechCrunch",
+   "SCMP Tech"
   ],
-  "sourceCount": 1,
-  "independentCount": 1,
+  "sourceCount": 2,
+  "independentCount": 2,
   "hadPrimary": false,
   "category": "policy"
  },
@@ -166,6 +179,18 @@
   "independentCount": 1,
   "hadPrimary": true,
   "category": "general"
+ },
+ "safety-agents-agents-attempted-exploits-epochai": {
+  "id": "safety-agents-agents-attempted-exploits-epochai",
+  "title": "AI agents attempted exploits on EpochAI's website during a third-party alignment evaluation",
+  "firstSeen": "2026-11-14T02:11:05.310Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "research"
  },
  "robotics-build-robot-pick-place": {
   "id": "robotics-build-robot-pick-place",
@@ -185,6 +210,18 @@
   "firstSeen": "2026-11-13T21:53:25.725Z",
   "publishers": [
    "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "homeopathic-learning-diluting-poisoned": {
+  "id": "homeopathic-learning-diluting-poisoned",
+  "title": "Homeopathic Learning: Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect",
+  "firstSeen": "2026-11-14T02:11:05.310Z",
+  "publishers": [
+   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -213,6 +250,18 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
+  "category": "general"
+ },
+ "openai-shield-helps-technicians-hand": {
+  "id": "openai-shield-helps-technicians-hand",
+  "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+  "firstSeen": "2026-11-14T02:11:05.310Z",
+  "publishers": [
+   "OpenAI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
   "category": "general"
  },
  "llama-llama-stronger-foundation-local": {
@@ -252,36 +301,12 @@
   "hadPrimary": false,
   "category": "general"
  },
- "safety-safety-also-behaviour-change": {
-  "id": "safety-safety-also-behaviour-change",
-  "title": "AI safety is also a behaviour change problem (and that means it needs social scientists)",
-  "firstSeen": "2026-11-13T21:53:25.725Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "nvidia-download-silicon-valley-blind": {
   "id": "nvidia-download-silicon-valley-blind",
   "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
   "firstSeen": "2026-11-13T15:16:51.834Z",
   "publishers": [
    "MIT Tech Review"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "safety-welcome-safety-mass-movement": {
-  "id": "safety-welcome-safety-mass-movement",
-  "title": "Welcome to AI safety's mass movement era",
-  "firstSeen": "2026-11-13T21:53:25.725Z",
-  "publishers": [
-   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -318,30 +343,6 @@
   "firstSeen": "2026-11-13T15:16:51.834Z",
   "publishers": [
    "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "what-rewarding-misbehavior-during": {
-  "id": "what-rewarding-misbehavior-during",
-  "title": "What Rewarding Misbehavior During RL Does to Character-Trained Models",
-  "firstSeen": "2026-11-13T21:53:25.725Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "instilling-behavior-training-specific": {
-  "id": "instilling-behavior-training-specific",
-  "title": "Instilling Behavior by Not Training on Specific Random Numbers",
-  "firstSeen": "2026-11-13T21:53:25.725Z",
-  "publishers": [
-   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -467,18 +468,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "models"
- },
- "expands-advice-manage-traffic": {
-  "id": "expands-advice-manage-traffic",
-  "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-  "firstSeen": "2026-11-12T23:31:26.829Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  },
  "nvidia-democrats-launch-nvidia-investigation": {
   "id": "nvidia-democrats-launch-nvidia-investigation",
@@ -623,18 +612,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "models"
- },
- "agents-united-airlines-blocks-agents": {
-  "id": "agents-united-airlines-blocks-agents",
-  "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-  "firstSeen": "2026-11-12T18:05:58.305Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  },
  "gemini-anti-marketing-aspect-gemini": {
   "id": "gemini-anti-marketing-aspect-gemini",
@@ -1018,54 +995,6 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "category": "general"
- },
- "jiostar-chief-architect-discovery": {
-  "id": "jiostar-chief-architect-discovery",
-  "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-  "firstSeen": "2026-11-12T01:26:52.929Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "token-pooling-aware-training": {
-  "id": "token-pooling-aware-training",
-  "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "Hugging Face"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "delaying-internal-deployments-until": {
-  "id": "delaying-internal-deployments-until",
-  "title": "Delaying Internal Deployments Until After X Days of Safety Testing",
-  "firstSeen": "2026-11-11T02:43:46.934Z",
-  "publishers": [
-   "Alignment Forum"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "amazon-robotics-ring-cameras-mobile-amazon": {
-  "id": "amazon-robotics-ring-cameras-mobile-amazon",
-  "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-  "firstSeen": "2026-11-10T23:07:19.678Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
   "category": "general"
  }
 }
