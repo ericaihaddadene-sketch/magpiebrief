@@ -1,4 +1,65 @@
 {
+ "openai-openai-board-member-fired": {
+  "id": "openai-openai-board-member-fired",
+  "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+  "firstSeen": "2026-11-14T16:30:18.960Z",
+  "publishers": [
+   "The Verge",
+   "Ars Technica AI"
+  ],
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "show-agweb-browser-agents": {
+  "id": "show-agweb-browser-agents",
+  "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+  "firstSeen": "2026-11-14T16:30:18.960Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "nvidia-serving-across-nvidia-stations": {
+  "id": "nvidia-serving-across-nvidia-stations",
+  "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+  "firstSeen": "2026-11-14T16:30:18.960Z",
+  "publishers": [
+   "developer.nvidia.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "beware-fueled-ransomware-boom": {
+  "id": "beware-fueled-ransomware-boom",
+  "title": "Beware the New AI-Fueled Ransomware Boom",
+  "firstSeen": "2026-11-14T16:30:18.960Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "pilots-traffic-controllers-what": {
+  "id": "pilots-traffic-controllers-what",
+  "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+  "firstSeen": "2026-11-14T16:30:18.960Z",
+  "publishers": [
+   "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "nvidia-nvidia-allegedly-engineered-scarcity": {
   "id": "nvidia-nvidia-allegedly-engineered-scarcity",
   "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
@@ -12,18 +73,6 @@
   "hadPrimary": false,
   "category": "business"
  },
- "what-most-useful-concrete": {
-  "id": "what-most-useful-concrete",
-  "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-  "firstSeen": "2026-11-14T10:03:28.450Z",
-  "publishers": [
-   "Hacker News"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
  "openai-gpt-chatgpt-wallet-lets-openai": {
   "id": "openai-gpt-chatgpt-wallet-lets-openai",
   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
@@ -35,6 +84,18 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "models"
+ },
+ "safety-reward-hack-auditing-chinese": {
+  "id": "safety-reward-hack-auditing-chinese",
+  "title": "RL Reward-Hack Auditing for Chinese AI Safety",
+  "firstSeen": "2026-11-14T16:30:18.960Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
  },
  "claude-just-claude-mapping-spiritual": {
   "id": "claude-just-claude-mapping-spiritual",
@@ -70,18 +131,6 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "category": "general"
- },
- "safety-zohran-campaign-manager-here": {
-  "id": "safety-zohran-campaign-manager-here",
-  "title": "I was Zohran’s campaign manager. Here’s what the AI safety community can learn from the populist left.",
-  "firstSeen": "2026-11-14T10:03:28.450Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
   "category": "general"
  },
  "datasette-cluster": {
@@ -120,30 +169,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "perplexity-perplexity-decider-training-eval": {
-  "id": "perplexity-perplexity-decider-training-eval",
-  "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-  "firstSeen": "2026-11-13T21:53:25.725Z",
-  "publishers": [
-   "perplexity.ai"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "nvidia-nvidia-hardware-vanishes-during": {
-  "id": "nvidia-nvidia-hardware-vanishes-during",
-  "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-  "firstSeen": "2026-11-13T21:53:25.725Z",
-  "publishers": [
-   "freightwaves.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
  "agents-week-biggest-funding-rounds": {
   "id": "agents-week-biggest-funding-rounds",
   "title": "The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll",
@@ -155,30 +180,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "business"
- },
- "agents-autonomous-hiring-build-agents": {
-  "id": "agents-autonomous-hiring-build-agents",
-  "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-  "firstSeen": "2026-11-13T21:53:25.725Z",
-  "publishers": [
-   "atg.science"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "openai-openai-board-member-worries": {
-  "id": "openai-openai-board-member-worries",
-  "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-  "firstSeen": "2026-11-13T21:53:25.725Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  },
  "expands-advice-manage-traffic": {
   "id": "expands-advice-manage-traffic",
@@ -209,11 +210,10 @@
   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
   "firstSeen": "2026-11-13T21:53:25.725Z",
   "publishers": [
-   "TechCrunch",
-   "SCMP Tech"
+   "TechCrunch"
   ],
-  "sourceCount": 2,
-  "independentCount": 2,
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "policy"
  },
@@ -325,18 +325,17 @@
   "hadPrimary": false,
   "category": "general"
  },
- "nvidia-jensen-huang-exits-nvidia": {
-  "id": "nvidia-jensen-huang-exits-nvidia",
-  "title": "If Jensen Huang exits Nvidia, who could take the US$4 trillion chipmaker’s reins?",
+ "will-jensen-huang-downfall": {
+  "id": "will-jensen-huang-downfall",
+  "title": "Will Jensen Huang’s downfall tip the scales against open-source AI?",
   "firstSeen": "2026-11-13T15:16:51.834Z",
   "publishers": [
-   "SCMP Tech",
-   "TechCrunch"
+   "SCMP Tech"
   ],
-  "sourceCount": 3,
-  "independentCount": 2,
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
-  "category": "general"
+  "category": "opensource"
  },
  "nvidia-download-silicon-valley-blind": {
   "id": "nvidia-download-silicon-valley-blind",
@@ -350,18 +349,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "will-jensen-huang-downfall": {
-  "id": "will-jensen-huang-downfall",
-  "title": "Will Jensen Huang’s downfall tip the scales against open-source AI?",
-  "firstSeen": "2026-11-13T15:16:51.834Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "opensource"
- },
  "nvidia-israel-opportunity-challengers-nvidia": {
   "id": "nvidia-israel-opportunity-challengers-nvidia",
   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
@@ -370,6 +357,18 @@
    "TechCrunch"
   ],
   "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "nvidia-jensen-huang-exit-tests": {
+  "id": "nvidia-jensen-huang-exit-tests",
+  "title": "Jensen Huang’s exit tests Nvidia’s supply chain clout, ability to bankroll AI buildout",
+  "firstSeen": "2026-11-14T16:30:18.960Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 2,
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
@@ -650,30 +649,6 @@
   "hadPrimary": false,
   "category": "models"
  },
- "gemini-anti-marketing-aspect-gemini": {
-  "id": "gemini-anti-marketing-aspect-gemini",
-  "title": "The anti-marketing aspect of the Gemini network",
-  "firstSeen": "2026-11-12T18:05:58.305Z",
-  "publishers": [
-   "ploum.net"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "models"
- },
- "jensen-huang-basically-more": {
-  "id": "jensen-huang-basically-more",
-  "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
-  "firstSeen": "2026-11-12T18:05:58.305Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "gondola-doubles-revenue-team": {
   "id": "gondola-doubles-revenue-team",
   "title": "Gondola doubles revenue as its team builds more with Codex",
@@ -685,18 +660,6 @@
   "independentCount": 1,
   "hadPrimary": true,
   "category": "business"
- },
- "nvidia-meet-colette-kress-nvidia": {
-  "id": "nvidia-meet-colette-kress-nvidia",
-  "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
-  "firstSeen": "2026-11-13T06:18:15.364Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  },
  "holiday-extras-rethinking-what": {
   "id": "holiday-extras-rethinking-what",
@@ -830,18 +793,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "anthropic-funding-anthropic-roadshow-video": {
-  "id": "anthropic-funding-anthropic-roadshow-video",
-  "title": "Anthropic's IPO roadshow video",
-  "firstSeen": "2026-11-13T06:18:15.364Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
  "browse-tools-simonwillison": {
   "id": "browse-tools-simonwillison",
   "title": "Browse tools.simonwillison.net by tag",
@@ -878,18 +829,6 @@
   "hadPrimary": true,
   "category": "general"
  },
- "google-deepmind-google-deepmind-just-mathematically": {
-  "id": "google-deepmind-google-deepmind-just-mathematically",
-  "title": "Google DeepMind just mathematically verified key parts of Signal",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "walk-used-indie-gaming": {
   "id": "walk-used-indie-gaming",
   "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
@@ -900,30 +839,6 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "general"
- },
- "alphagenome-deciphering-cells-read": {
-  "id": "alphagenome-deciphering-cells-read",
-  "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "Google DeepMind"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "tabletop-customizable-collaborative-spaces": {
-  "id": "tabletop-customizable-collaborative-spaces",
-  "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
   "category": "general"
  },
  "medicare-experiment-effector": {
@@ -937,53 +852,5 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "research"
- },
- "when-does-actually-make": {
-  "id": "when-does-actually-make",
-  "title": "When Does It Actually Make Sense to Put AI Into Products?",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "IEEE Spectrum"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "openai-download-preserving-minds-weighing": {
-  "id": "openai-download-preserving-minds-weighing",
-  "title": "The Download: preserving minds and weighing open AI risks",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "MIT Tech Review"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "labs-program-draws-support": {
-  "id": "labs-program-draws-support",
-  "title": "NSF’s X-Labs Program Draws Support From Charities and Investors",
-  "firstSeen": "2026-11-11T18:33:19.977Z",
-  "publishers": [
-   "IEEE Spectrum"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
- "alibaba-nvidia-funding-amid-nvidia-saga-head": {
-  "id": "alibaba-nvidia-funding-amid-nvidia-saga-head",
-  "title": "Amid Nvidia saga, T-Head IPO a crucial test for Alibaba – and China’s AI ambitions",
-  "firstSeen": "2026-11-11T10:39:28.671Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
  }
 }

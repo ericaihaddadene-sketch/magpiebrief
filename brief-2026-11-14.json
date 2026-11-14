@@ -1,9 +1,179 @@
 {
  "date": "2026-11-14",
- "generated": "2026-11-14T10:03:28.518Z",
- "headline": "82 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2899 items read · 86 on-topic · 82 distinct developments · 18 with a primary source · 2 independently corroborated",
+ "generated": "2026-11-14T16:30:19.006Z",
+ "headline": "71 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2899 items read · 74 on-topic · 71 distinct developments · 18 with a primary source · 1 independently corroborated",
  "events": [
+  {
+   "id": "openai-openai-board-member-fired",
+   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 143.51679724433933,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-11-13T17:25:45.000Z",
+   "latestAt": "2026-11-14T15:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+     "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-14T15:00:00.000Z",
+     "points": null,
+     "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of…"
+    },
+    {
+     "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+     "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-13T17:25:45.000Z",
+     "points": null,
+     "summary": "Researcher traces a path from AI reward hacking to potential human extinction."
+    }
+   ]
+  },
+  {
+   "id": "show-agweb-browser-agents",
+   "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 141.20601773958933,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-14T14:08:12.000Z",
+   "latestAt": "2026-11-14T14:08:12.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/paul-nameless/agweb",
+    "title": "Show HN: Agweb – a browser for agents that stays out of your way"
+   },
+   "sources": [
+    {
+     "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+     "link": "https://github.com/paul-nameless/agweb",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-11-14T14:08:12.000Z",
+     "points": 30,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "nvidia-serving-across-nvidia-stations",
+   "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 123.21865371748719,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-14T14:09:25.000Z",
+   "latestAt": "2026-11-14T14:09:25.000Z",
+   "primary": {
+    "publisher": "developer.nvidia.com",
+    "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+    "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM"
+   },
+   "sources": [
+    {
+     "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+     "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+     "publisher": "developer.nvidia.com",
+     "publisherDomain": "developer.nvidia.com",
+     "kind": "primary",
+     "date": "2026-11-14T14:09:25.000Z",
+     "points": 59,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "beware-fueled-ransomware-boom",
+   "title": "Beware the New AI-Fueled Ransomware Boom",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 78.42977318488089,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-14T13:00:00.000Z",
+   "latestAt": "2026-11-14T13:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Beware the New AI-Fueled Ransomware Boom",
+     "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-14T13:00:00.000Z",
+     "points": null,
+     "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc."
+    }
+   ]
+  },
+  {
+   "id": "pilots-traffic-controllers-what",
+   "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 68.2770832252853,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-14T11:00:00.000Z",
+   "latestAt": "2026-11-14T11:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+     "link": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-14T11:00:00.000Z",
+     "points": null,
+     "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies."
+    }
+   ]
+  },
   {
    "id": "nvidia-nvidia-allegedly-engineered-scarcity",
    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
@@ -18,7 +188,7 @@
      "kind": "org"
     }
    ],
-   "rank": 105.81928565766243,
+   "rank": 67.68303629108627,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 1,
@@ -43,35 +213,7 @@
      "publisherDomain": "techpowerup.com",
      "kind": "discussion",
      "date": "2026-11-14T02:52:59.000Z",
-     "points": 551,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "what-most-useful-concrete",
-   "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 105.75274926411984,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-14T06:56:42.000Z",
-   "latestAt": "2026-11-14T06:56:42.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-     "link": "https://news.ycombinator.com/item?id=50494696",
-     "publisher": "Hacker News",
-     "publisherDomain": "news.ycombinator.com",
-     "kind": "discussion",
-     "date": "2026-11-14T06:56:42.000Z",
-     "points": 15,
+     "points": 896,
      "summary": ""
     }
    ]
@@ -95,7 +237,7 @@
      "kind": "model"
     }
    ],
-   "rank": 87.60517284190333,
+   "rank": 56.03311396306028,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -116,6 +258,40 @@
    ]
   },
   {
+   "id": "safety-reward-hack-auditing-chinese",
+   "title": "RL Reward-Hack Auditing for Chinese AI Safety",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 55.16574468912449,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-14T13:04:10.000Z",
+   "latestAt": "2026-11-14T13:04:10.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "RL Reward-Hack Auditing for Chinese AI Safety",
+     "link": "https://www.lesswrong.com/posts/jwCPQhLWbWnwMhHME/rl-reward-hack-auditing-for-chinese-ai-safety",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-14T13:04:10.000Z",
+     "points": null,
+     "summary": "TL;DR: Access to AI safety talent & resources, particularly for labs during training, is sorely lacking in China. We created one of the largest AI safety…"
+    }
+   ]
+  },
+  {
    "id": "claude-just-claude-mapping-spiritual",
    "title": "Not Just Claude: Mapping \"Spiritual Behavior\" in 141 Large Language Models",
    "category": {
@@ -129,7 +305,7 @@
      "kind": "model"
     }
    ],
-   "rank": 64.97766098828042,
+   "rank": 41.560339019933934,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -163,7 +339,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 64.86310006722282,
+   "rank": 41.48706474928193,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -191,7 +367,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 62.746005264532634,
+   "rank": 40.13295048294948,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -216,40 +392,6 @@
    ]
   },
   {
-   "id": "safety-zohran-campaign-manager-here",
-   "title": "I was Zohran’s campaign manager. Here’s what the AI safety community can learn from the populist left.",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 60.816109722041666,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-14T08:01:44.000Z",
-   "latestAt": "2026-11-14T08:01:44.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "I was Zohran’s campaign manager. Here’s what the AI safety community can learn from the populist left.",
-     "link": "https://www.lesswrong.com/posts/kXA22cZ6BdYdyL3Jz/i-was-zohran-s-campaign-manager-here-s-what-the-ai-safety-1",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-14T08:01:44.000Z",
-     "points": null,
-     "summary": "After a couple of years working in data and tech at GiveDirectly, I left to work in politics, campaigning for candidates at the state, local, and…"
-    }
-   ]
-  },
-  {
    "id": "datasette-cluster",
    "title": "datasette-cluster-map 0.19",
    "category": {
@@ -257,7 +399,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 55.935165105174704,
+   "rank": 35.77667139059264,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -285,7 +427,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 54.67339218339984,
+   "rank": 34.96962925337884,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -313,7 +455,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 53.91445863457872,
+   "rank": 34.484208031640854,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -334,74 +476,6 @@
    ]
   },
   {
-   "id": "perplexity-perplexity-decider-training-eval",
-   "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "perplexity",
-     "name": "Perplexity",
-     "kind": "org"
-    }
-   ],
-   "rank": 52.54291615504568,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-13T19:24:47.000Z",
-   "latestAt": "2026-11-13T19:24:47.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-     "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-     "publisher": "perplexity.ai",
-     "publisherDomain": "perplexity.ai",
-     "kind": "discussion",
-     "date": "2026-11-13T19:24:47.000Z",
-     "points": 130,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "nvidia-nvidia-hardware-vanishes-during",
-   "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 49.93597728934175,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-13T18:40:44.000Z",
-   "latestAt": "2026-11-13T18:40:44.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-     "link": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-     "publisher": "freightwaves.com",
-     "publisherDomain": "freightwaves.com",
-     "kind": "discussion",
-     "date": "2026-11-13T18:40:44.000Z",
-     "points": 352,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "agents-week-biggest-funding-rounds",
    "title": "The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll",
    "category": {
@@ -415,7 +489,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 49.30214760188765,
+   "rank": 31.534129385094978,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -436,74 +510,6 @@
    ]
   },
   {
-   "id": "agents-autonomous-hiring-build-agents",
-   "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 48.60633798465614,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-13T21:01:11.000Z",
-   "latestAt": "2026-11-13T21:01:11.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-     "link": "https://atg.science/careers",
-     "publisher": "atg.science",
-     "publisherDomain": "atg.science",
-     "kind": "discussion",
-     "date": "2026-11-13T21:01:11.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "openai-openai-board-member-worries",
-   "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 46.89770794144951,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-13T17:25:45.000Z",
-   "latestAt": "2026-11-13T17:25:45.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-     "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-13T17:25:45.000Z",
-     "points": null,
-     "summary": "Researcher traces a path from AI reward hacking to potential human extinction."
-    }
-   ]
-  },
-  {
    "id": "expands-advice-manage-traffic",
    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
    "category": {
@@ -511,7 +517,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 45.57618696868283,
+   "rank": 29.150969007579256,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -550,7 +556,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 44.150268845455486,
+   "rank": 28.238938015471277,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -584,11 +590,11 @@
      "kind": "org"
     }
    ],
-   "rank": 40.6266012615165,
+   "rank": 25.985166224448076,
    "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-11-13T13:00:08.000Z",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T18:40:30.000Z",
    "latestAt": "2026-11-13T18:40:30.000Z",
    "primary": null,
    "sources": [
@@ -601,16 +607,6 @@
      "date": "2026-11-13T18:40:30.000Z",
      "points": null,
      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
-    },
-    {
-     "title": "China could tighten rare earths exports if US escalates chip curbs over Nvidia: analysts",
-     "link": "https://www.scmp.com/economy/global-economy/article/3374328/china-could-tighten-rare-earths-exports-if-us-escalates-chip-curbs-over-nvidia-analysts",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-13T13:00:08.000Z",
-     "points": null,
-     "summary": "China could retaliate with tighter rare earth export controls if Washington further restricts chip sales in the wake of the Nvidia saga, Chinese analysts say, though…"
     }
    ]
   },
@@ -622,7 +618,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 39.86081340889157,
+   "rank": 25.49536092385132,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -660,7 +656,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 37.81228440907477,
+   "rank": 24.18510200671504,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -698,7 +694,7 @@
      "kind": "org"
     }
    ],
-   "rank": 35.57970339345896,
+   "rank": 22.757121644122467,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -726,7 +722,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.39069760640139,
+   "rank": 22.63623171876398,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -754,7 +750,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.35899411493837,
+   "rank": 22.61595385967706,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -786,7 +782,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.215758345565895,
+   "rank": 22.524338879322883,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -820,7 +816,7 @@
      "kind": "org"
     }
    ],
-   "rank": 28.83075959642172,
+   "rank": 18.440432062422417,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -858,7 +854,7 @@
      "kind": "model"
     }
    ],
-   "rank": 28.812924936179282,
+   "rank": 18.42902484162211,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -890,7 +886,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.602431916718018,
+   "rank": 18.29439147506067,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -911,94 +907,6 @@
    ]
   },
   {
-   "id": "nvidia-jensen-huang-exits-nvidia",
-   "title": "If Jensen Huang exits Nvidia, who could take the US$4 trillion chipmaker’s reins?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 26.75834211348003,
-   "deltas": [],
-   "sourceCount": 3,
-   "independentCount": 2,
-   "publishedAt": "2026-11-12T12:30:07.000Z",
-   "latestAt": "2026-11-13T11:00:10.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Jensen Huang’s exit tests Nvidia’s supply chain clout, ability to bankroll AI buildout",
-     "link": "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-13T11:00:10.000Z",
-     "points": null,
-     "summary": "For years, Jensen Huang was more than Nvidia’s CEO – he was a key figure driving the artificial intelligence boom, parlaying close ties with Asian chip…"
-    },
-    {
-     "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-     "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-12T18:39:23.000Z",
-     "points": null,
-     "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company…"
-    },
-    {
-     "title": "If Jensen Huang exits Nvidia, who could take the US$4 trillion chipmaker’s reins?",
-     "link": "https://www.scmp.com/tech/article/3374235/if-jensen-huang-exits-nvidia-who-could-take-us4tr-chipmakers-reins",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-12T12:30:07.000Z",
-     "points": null,
-     "summary": "Few tech leaders are as synonymous with their companies as Jensen Huang. The Nvidia co-founder has been credited with transforming the firm over three decades from…"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-download-silicon-valley-blind",
-   "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 24.677458343545005,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-13T13:10:00.000Z",
-   "latestAt": "2026-11-13T13:10:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-     "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-11-13T13:10:00.000Z",
-     "points": null,
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley…"
-    }
-   ]
-  },
-  {
    "id": "will-jensen-huang-downfall",
    "title": "Will Jensen Huang’s downfall tip the scales against open-source AI?",
    "category": {
@@ -1006,7 +914,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 23.658969487700887,
+   "rank": 17.856356135675505,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1027,6 +935,40 @@
    ]
   },
   {
+   "id": "nvidia-download-silicon-valley-blind",
+   "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 15.783940500613115,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T13:10:00.000Z",
+   "latestAt": "2026-11-13T13:10:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+     "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-11-13T13:10:00.000Z",
+     "points": null,
+     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley…"
+    }
+   ]
+  },
+  {
    "id": "nvidia-israel-opportunity-challengers-nvidia",
    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
    "category": {
@@ -1040,7 +982,7 @@
      "kind": "org"
     }
    ],
-   "rank": 23.027092497147763,
+   "rank": 14.72835057878504,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1061,6 +1003,50 @@
    ]
   },
   {
+   "id": "nvidia-jensen-huang-exit-tests",
+   "title": "Jensen Huang’s exit tests Nvidia’s supply chain clout, ability to bankroll AI buildout",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 14.504147322838305,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 1,
+   "publishedAt": "2026-11-12T12:30:07.000Z",
+   "latestAt": "2026-11-13T11:00:10.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Jensen Huang’s exit tests Nvidia’s supply chain clout, ability to bankroll AI buildout",
+     "link": "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-13T11:00:10.000Z",
+     "points": null,
+     "summary": "For years, Jensen Huang was more than Nvidia’s CEO – he was a key figure driving the artificial intelligence boom, parlaying close ties with Asian chip…"
+    },
+    {
+     "title": "If Jensen Huang exits Nvidia, who could take the US$4 trillion chipmaker’s reins?",
+     "link": "https://www.scmp.com/tech/article/3374235/if-jensen-huang-exits-nvidia-who-could-take-us4tr-chipmakers-reins",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-12T12:30:07.000Z",
+     "points": null,
+     "summary": "Few tech leaders are as synonymous with their companies as Jensen Huang. The Nvidia co-founder has been credited with transforming the firm over three decades from…"
+    }
+   ]
+  },
+  {
    "id": "this-startup-betting-microdramas",
    "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
    "category": {
@@ -1068,7 +1054,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.304199108418157,
+   "rank": 13.626371340970985,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1096,7 +1082,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.93020821189644,
+   "rank": 12.107943853907782,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1130,7 +1116,7 @@
      "kind": "org"
     }
    ],
-   "rank": 14.572499445789628,
+   "rank": 9.320711274049263,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1164,7 +1150,7 @@
      "kind": "model"
     }
    ],
-   "rank": 14.32124189283824,
+   "rank": 9.160004518478882,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1202,7 +1188,7 @@
      "kind": "model"
     }
    ],
-   "rank": 13.659250190460105,
+   "rank": 8.736588237240616,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1236,7 +1222,7 @@
      "kind": "org"
     }
    ],
-   "rank": 13.522477133414972,
+   "rank": 8.649106870057922,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1270,7 +1256,7 @@
      "kind": "product"
     }
    ],
-   "rank": 12.676330992829552,
+   "rank": 8.107903633002632,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1298,7 +1284,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.676330992829552,
+   "rank": 8.107903633002632,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1332,7 +1318,7 @@
      "kind": "org"
     }
    ],
-   "rank": 12.54931700346003,
+   "rank": 8.02666425968287,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1370,7 +1356,7 @@
      "kind": "org"
     }
    ],
-   "rank": 12.035101814565811,
+   "rank": 7.697767262551844,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1409,7 +1395,7 @@
      "kind": "model"
     }
    ],
-   "rank": 9.515840294235895,
+   "rank": 6.086423282600496,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1443,7 +1429,7 @@
      "kind": "org"
     }
    ],
-   "rank": 8.630729933014909,
+   "rank": 5.520298154011532,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1471,7 +1457,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.500770961890492,
+   "rank": 5.437175141941476,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1505,7 +1491,7 @@
      "kind": "org"
     }
    ],
-   "rank": 8.145762534529505,
+   "rank": 5.210108325874992,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1539,7 +1525,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 8.108492118662705,
+   "rank": 5.1862698082170935,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1573,7 +1559,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.951989831072496,
+   "rank": 5.0861694347854085,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1605,7 +1591,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.872365565581376,
+   "rank": 5.035240986181803,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1633,7 +1619,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.865517332273865,
+   "rank": 5.030860790071038,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1661,7 +1647,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.740027338194585,
+   "rank": 4.950596178845874,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1699,7 +1685,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.651743820460616,
+   "rank": 4.894129188943642,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1727,7 +1713,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.447234576151418,
+   "rank": 4.763323102714502,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1755,7 +1741,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.4079036298254834,
+   "rank": 4.738166649890269,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1794,7 +1780,7 @@
      "kind": "model"
     }
    ],
-   "rank": 7.149719360303613,
+   "rank": 4.573029499556736,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1815,68 +1801,6 @@
    ]
   },
   {
-   "id": "gemini-anti-marketing-aspect-gemini",
-   "title": "The anti-marketing aspect of the Gemini network",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 6.469266832296805,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-12T16:17:25.000Z",
-   "latestAt": "2026-11-12T16:17:25.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The anti-marketing aspect of the Gemini network",
-     "link": "https://ploum.net/2026-11-12-anti-marketing-gemini.html",
-     "publisher": "ploum.net",
-     "publisherDomain": "ploum.net",
-     "kind": "discussion",
-     "date": "2026-11-12T16:17:25.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "jensen-huang-basically-more",
-   "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 6.21957461820478,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T17:59:15.000Z",
-   "latestAt": "2026-11-12T17:59:15.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
-     "link": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-12T17:59:15.000Z",
-     "points": null,
-     "summary": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value."
-    }
-   ]
-  },
-  {
    "id": "gondola-doubles-revenue-team",
    "title": "Gondola doubles revenue as its team builds more with Codex",
    "category": {
@@ -1884,7 +1808,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 5.339029554892911,
+   "rank": 3.414894826374521,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1909,40 +1833,6 @@
    ]
   },
   {
-   "id": "nvidia-meet-colette-kress-nvidia",
-   "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 4.797610089672482,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T14:14:33.000Z",
-   "latestAt": "2026-11-12T14:14:33.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
-     "link": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-12T14:14:33.000Z",
-     "points": null,
-     "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday."
-    }
-   ]
-  },
-  {
    "id": "holiday-extras-rethinking-what",
    "title": "Holiday Extras is rethinking what it can build with Codex",
    "category": {
@@ -1950,7 +1840,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.489570813643084,
+   "rank": 2.8715728179667908,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1988,7 +1878,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.5165882962456703,
+   "rank": 2.249243810297544,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2016,7 +1906,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.3974544751307145,
+   "rank": 2.17304466863914,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2050,7 +1940,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.876058946823509,
+   "rank": 1.8395550571273733,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2089,7 +1979,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.678210062874674,
+   "rank": 1.7130090016589818,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2117,7 +2007,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.4017156110501197,
+   "rank": 1.536160482026491,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2145,7 +2035,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.323947593233339,
+   "rank": 1.4864193073486796,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2177,7 +2067,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.323947593233339,
+   "rank": 1.4864193073486796,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2209,7 +2099,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0557997940141073,
+   "rank": 1.3149093872699855,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2247,7 +2137,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.8073088997466786,
+   "rank": 1.1559722132928618,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2281,7 +2171,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.780069600096406,
+   "rank": 1.1385496943700109,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2302,45 +2192,6 @@
    ]
   },
   {
-   "id": "anthropic-funding-anthropic-roadshow-video",
-   "title": "Anthropic's IPO roadshow video",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.748399706160562,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T15:11:59.000Z",
-   "latestAt": "2026-11-11T15:11:59.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic's IPO roadshow video",
-     "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-11T15:11:59.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "browse-tools-simonwillison",
    "title": "Browse tools.simonwillison.net by tag",
    "category": {
@@ -2348,7 +2199,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4870871586885006,
+   "rank": 0.9511552974864934,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2376,7 +2227,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3511720861535752,
+   "rank": 0.8642227054763071,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2404,7 +2255,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3454286753339464,
+   "rank": 0.8605491644906196,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2429,40 +2280,6 @@
    ]
   },
   {
-   "id": "google-deepmind-google-deepmind-just-mathematically",
-   "title": "Google DeepMind just mathematically verified key parts of Signal",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "google-deepmind",
-     "name": "Google DeepMind",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.2914553143894691,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T14:08:57.000Z",
-   "latestAt": "2026-11-11T14:08:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Google DeepMind just mathematically verified key parts of Signal",
-     "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-11T14:08:57.000Z",
-     "points": null,
-     "summary": "The four-week project hints that AI could make formal verification far more practical."
-    }
-   ]
-  },
-  {
    "id": "walk-used-indie-gaming",
    "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
    "category": {
@@ -2470,7 +2287,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2641126130994738,
+   "rank": 0.8085386263636736,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2491,70 +2308,6 @@
    ]
   },
   {
-   "id": "alphagenome-deciphering-cells-read",
-   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.2457324090547326,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T15:00:15.000Z",
-   "latestAt": "2026-11-11T15:00:15.000Z",
-   "primary": {
-    "publisher": "Google DeepMind",
-    "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease"
-   },
-   "sources": [
-    {
-     "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-     "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-     "publisher": "Google DeepMind",
-     "publisherDomain": "deepmind.google",
-     "kind": "primary",
-     "date": "2026-11-11T15:00:15.000Z",
-     "points": null,
-     "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
-    }
-   ]
-  },
-  {
-   "id": "tabletop-customizable-collaborative-spaces",
-   "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.2320837434368246,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T16:00:00.000Z",
-   "latestAt": "2026-11-11T16:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together."
-   },
-   "sources": [
-    {
-     "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-     "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-11-11T16:00:00.000Z",
-     "points": null,
-     "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
-    }
-   ]
-  },
-  {
    "id": "medicare-experiment-effector",
    "title": "🤕 Medicare's AI Experiment | EFFector 38.20",
    "category": {
@@ -2562,7 +2315,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 1.2246988371990746,
+   "rank": 0.7833291949442862,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2579,140 +2332,6 @@
      "date": "2026-11-11T18:32:37.000Z",
      "points": null,
      "summary": "When we need medical care, we expect decisions about our treatment to be made by our doctors, not a tech company's algorithm. But in January, the…"
-    }
-   ]
-  },
-  {
-   "id": "when-does-actually-make",
-   "title": "When Does It Actually Make Sense to Put AI Into Products?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8938604176696098,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T14:00:02.000Z",
-   "latestAt": "2026-11-11T14:00:02.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "When Does It Actually Make Sense to Put AI Into Products?",
-     "link": "https://spectrum.ieee.org/human-centered-ai-product-design",
-     "publisher": "IEEE Spectrum",
-     "publisherDomain": "spectrum.ieee.org",
-     "kind": "coverage",
-     "date": "2026-11-11T14:00:02.000Z",
-     "points": null,
-     "summary": "Over the past few years, the tech industry has rushed to plug a new microchip into every device on the assumption that if you can add…"
-    }
-   ]
-  },
-  {
-   "id": "openai-download-preserving-minds-weighing",
-   "title": "The Download: preserving minds and weighing open AI risks",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.8858423688980624,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T13:10:00.000Z",
-   "latestAt": "2026-11-11T13:10:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Download: preserving minds and weighing open AI risks",
-     "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-11-11T13:10:00.000Z",
-     "points": null,
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild…"
-    }
-   ]
-  },
-  {
-   "id": "labs-program-draws-support",
-   "title": "NSF’s X-Labs Program Draws Support From Charities and Investors",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [],
-   "rank": 0.8340173176031409,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T13:00:03.000Z",
-   "latestAt": "2026-11-11T13:00:03.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "NSF’s X-Labs Program Draws Support From Charities and Investors",
-     "link": "https://spectrum.ieee.org/national-science-foundation-x-labs",
-     "publisher": "IEEE Spectrum",
-     "publisherDomain": "spectrum.ieee.org",
-     "kind": "coverage",
-     "date": "2026-11-11T13:00:03.000Z",
-     "points": null,
-     "summary": "When the U.S. National Science Foundation began its X-Labs program in May, the agency said the higher-risk, higher-funded awards would create new kinds of partnerships that…"
-    }
-   ]
-  },
-  {
-   "id": "alibaba-nvidia-funding-amid-nvidia-saga-head",
-   "title": "Amid Nvidia saga, T-Head IPO a crucial test for Alibaba – and China’s AI ambitions",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "alibaba",
-     "name": "Alibaba",
-     "kind": "org"
-    },
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.667013355091009,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-11T10:31:02.000Z",
-   "latestAt": "2026-11-11T10:31:02.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Amid Nvidia saga, T-Head IPO a crucial test for Alibaba – and China’s AI ambitions",
-     "link": "https://www.scmp.com/tech/big-tech/article/3374090/amid-nvidia-saga-t-head-ipo-crucial-test-alibaba-and-chinas-ai-ambitions",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-11T10:31:02.000Z",
-     "points": null,
-     "summary": "Alibaba Group Holding’s planned Hong Kong listing of its semiconductor design arm, T-Head, is poised to reshape China’s artificial intelligence hardware arena while unlocking billions of…"
     }
    ]
   }
