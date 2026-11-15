@@ -1,4 +1,52 @@
 {
+ "nvidia-nvidia-deliberately-kept-prices": {
+  "id": "nvidia-nvidia-deliberately-kept-prices",
+  "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+  "firstSeen": "2026-11-15T01:42:56.902Z",
+  "publishers": [
+   "techspot.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "datasette-1a11": {
+  "id": "datasette-1a11",
+  "title": "datasette-llm 0.1a11",
+  "firstSeen": "2026-11-15T01:42:56.902Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "nvidia-where-nvidia-security-team": {
+  "id": "nvidia-where-nvidia-security-team",
+  "title": "Where was Nvidia’s security team?",
+  "firstSeen": "2026-11-15T01:42:56.902Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "nvidia-elon-musk-other-tech": {
+  "id": "nvidia-elon-musk-other-tech",
+  "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+  "firstSeen": "2026-11-15T01:42:56.902Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "openai-openai-board-member-fired": {
   "id": "openai-openai-board-member-fired",
   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
@@ -8,19 +56,6 @@
    "Ars Technica AI"
   ],
   "sourceCount": 2,
-  "independentCount": 2,
-  "hadPrimary": false,
-  "category": "general"
- },
- "nvidia-asian-governments-react-nvidia": {
-  "id": "nvidia-asian-governments-react-nvidia",
-  "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-  "firstSeen": "2026-11-14T21:16:45.492Z",
-  "publishers": [
-   "TechCrunch",
-   "SCMP Tech"
-  ],
-  "sourceCount": 5,
   "independentCount": 2,
   "hadPrimary": false,
   "category": "general"
@@ -37,16 +72,41 @@
   "hadPrimary": true,
   "category": "general"
  },
- "nvidia-serving-across-nvidia-stations": {
-  "id": "nvidia-serving-across-nvidia-stations",
-  "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-  "firstSeen": "2026-11-14T16:30:18.960Z",
+ "datasette-vega": {
+  "id": "datasette-vega",
+  "title": "datasette-vega 0.7",
+  "firstSeen": "2026-11-15T01:42:56.902Z",
   "publishers": [
-   "developer.nvidia.com"
+   "Simon Willison"
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": true,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "safety-slouching-towards-interpretability-thinking": {
+  "id": "safety-slouching-towards-interpretability-thinking",
+  "title": "Slouching Towards Interpretability: Thinking About Computation in Neural Networks",
+  "firstSeen": "2026-11-15T01:42:56.902Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "nvidia-asian-governments-react-nvidia": {
+  "id": "nvidia-asian-governments-react-nvidia",
+  "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+  "firstSeen": "2026-11-14T21:16:45.492Z",
+  "publishers": [
+   "TechCrunch",
+   "SCMP Tech"
+  ],
+  "sourceCount": 5,
+  "independentCount": 2,
+  "hadPrimary": false,
   "category": "general"
  },
  "graveyard-running-list-projects": {
@@ -96,18 +156,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "claude-just-claude-mapping-spiritual": {
-  "id": "claude-just-claude-mapping-spiritual",
-  "title": "Not Just Claude: Mapping \"Spiritual Behavior\" in 141 Large Language Models",
-  "firstSeen": "2026-11-14T10:03:28.450Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
  },
  "safety-datasets-determine-difficulty-interpretability": {
   "id": "safety-datasets-determine-difficulty-interpretability",
@@ -234,10 +282,11 @@
   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
   "firstSeen": "2026-11-13T21:53:25.725Z",
   "publishers": [
-   "TechCrunch"
+   "TechCrunch",
+   "SCMP Tech"
   ],
-  "sourceCount": 1,
-  "independentCount": 1,
+  "sourceCount": 2,
+  "independentCount": 2,
   "hadPrimary": false,
   "category": "policy"
  },
@@ -493,18 +542,6 @@
   "hadPrimary": false,
   "category": "models"
  },
- "nvidia-democrats-launch-nvidia-investigation": {
-  "id": "nvidia-democrats-launch-nvidia-investigation",
-  "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-  "firstSeen": "2026-11-13T06:18:15.364Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
  "silicon-valley-still-defending": {
   "id": "silicon-valley-still-defending",
   "title": "Silicon Valley Is Still Defending Jensen Huang",
@@ -661,84 +698,12 @@
   "hadPrimary": false,
   "category": "general"
  },
- "gemini-gemini-decisions": {
-  "id": "gemini-gemini-decisions",
-  "title": "Gemini Decisions API",
-  "firstSeen": "2026-11-12T01:26:52.929Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "tools"
- },
  "research-could-lead-faster": {
   "id": "research-could-lead-faster",
   "title": "New research could lead to faster, trustworthy AI models for climate prediction",
   "firstSeen": "2026-11-12T09:39:11.870Z",
   "publishers": [
    "MIT News AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "supporting-research-children-safety": {
-  "id": "supporting-research-children-safety",
-  "title": "Supporting research on AI and children’s safety",
-  "firstSeen": "2026-11-12T18:05:58.305Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "gilbert-tobin-rethinks-business": {
-  "id": "gilbert-tobin-rethinks-business",
-  "title": "Gilbert + Tobin rethinks the business of law with AI",
-  "firstSeen": "2026-11-12T01:26:52.929Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "definitive-fine-tuning-guide": {
-  "id": "definitive-fine-tuning-guide",
-  "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-  "firstSeen": "2026-11-12T18:05:58.305Z",
-  "publishers": [
-   "Hugging Face"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "nvidia-complexity-jensen-huang-position": {
-  "id": "nvidia-complexity-jensen-huang-position",
-  "title": "‘Web of complexity’: Jensen Huang’s position in doubt as Nvidia shares plunge overnight",
-  "firstSeen": "2026-11-13T15:16:51.834Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "amazon-emulator": {
-  "id": "amazon-emulator",
-  "title": "aws-emulator",
-  "firstSeen": "2026-11-12T01:26:52.929Z",
-  "publishers": [
-   "Simon Willison"
   ],
   "sourceCount": 1,
   "independentCount": 1,
