@@ -1,8 +1,8 @@
 {
  "date": "2026-11-15",
- "generated": "2026-11-15T16:55:54.352Z",
- "headline": "58 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2899 items read · 62 on-topic · 58 distinct developments · 11 with a primary source · 3 independently corroborated",
+ "generated": "2026-11-15T21:37:46.648Z",
+ "headline": "49 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2899 items read · 52 on-topic · 49 distinct developments · 6 with a primary source · 2 independently corroborated",
  "events": [
   {
    "id": "generated-code-should-open",
@@ -12,7 +12,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 156.1663994385387,
+   "rank": 112.76328281518789,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -27,8 +27,148 @@
      "publisherDomain": "jakub.jankiewicz.org",
      "kind": "discussion",
      "date": "2026-11-15T14:46:58.000Z",
-     "points": 296,
+     "points": 948,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "nvidia-jensen-huang-might-plotting",
+   "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 110.86878616886354,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-15T20:43:49.000Z",
+   "latestAt": "2026-11-15T20:43:49.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+     "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-15T20:43:49.000Z",
+     "points": null,
+     "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed…"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-congress-wants-tighten-export",
+   "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 100.1401079081589,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-11-13T13:00:08.000Z",
+   "latestAt": "2026-11-15T19:15:43.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-15T19:15:43.000Z",
+     "points": null,
+     "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both…"
+    },
+    {
+     "title": "China could tighten rare earths exports if US escalates chip curbs over Nvidia: analysts",
+     "link": "https://www.scmp.com/economy/global-economy/article/3374328/china-could-tighten-rare-earths-exports-if-us-escalates-chip-curbs-over-nvidia-analysts",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-13T13:00:08.000Z",
+     "points": null,
+     "summary": "China could retaliate with tighter rare earth export controls if Washington further restricts chip sales in the wake of the Nvidia saga, Chinese analysts say, though…"
+    }
+   ]
+  },
+  {
+   "id": "understanding-positional-embeddings-modern",
+   "title": "Understanding Positional Embeddings in Modern LLMs",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 75.6069892619665,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-15T12:14:06.000Z",
+   "latestAt": "2026-11-15T12:14:06.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Understanding Positional Embeddings in Modern LLMs",
+     "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+     "publisher": "Ahead of AI",
+     "publisherDomain": "magazine.sebastianraschka.com",
+     "kind": "discussion",
+     "date": "2026-11-15T12:14:06.000Z",
+     "points": 175,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "nvidia-techcrunch-mobility-nvidia-backup",
+   "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 72.96982730201627,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-15T17:05:00.000Z",
+   "latestAt": "2026-11-15T17:05:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+     "link": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-15T17:05:00.000Z",
+     "points": null,
+     "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
     }
    ]
   },
@@ -46,7 +186,7 @@
      "kind": "org"
     }
    ],
-   "rank": 105.4589381471275,
+   "rank": 66.07034985789734,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -67,30 +207,70 @@
    ]
   },
   {
-   "id": "understanding-positional-embeddings-modern",
-   "title": "Understanding Positional Embeddings in Modern LLMs",
+   "id": "safety-where-adults-safety",
+   "title": "Where are the adults in AI safety?",
    "category": {
     "id": "general",
     "name": "Other"
    },
-   "entities": [],
-   "rank": 104.70847416513195,
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 63.30337515403166,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-15T12:14:06.000Z",
-   "latestAt": "2026-11-15T12:14:06.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-11-15T20:10:44.000Z",
+   "latestAt": "2026-11-15T20:10:44.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Understanding Positional Embeddings in Modern LLMs",
-     "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-     "publisher": "Ahead of AI",
-     "publisherDomain": "magazine.sebastianraschka.com",
-     "kind": "discussion",
-     "date": "2026-11-15T12:14:06.000Z",
-     "points": 100,
-     "summary": ""
+     "title": "Where are the adults in AI safety?",
+     "link": "https://www.lesswrong.com/posts/iymi7FSdnbRAAn8To/where-are-the-adults-in-ai-safety",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-15T20:10:44.000Z",
+     "points": null,
+     "summary": "The following is based on a true story (not mine). Let’s say you’ve been bombarded with enough AI doom that you decide to do something about…"
+    }
+   ]
+  },
+  {
+   "id": "safety-alignment-train-test-splits",
+   "title": "Alignment 'train/test splits' should be sacred",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 55.833985190047294,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-15T18:22:03.000Z",
+   "latestAt": "2026-11-15T18:22:03.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Alignment 'train/test splits' should be sacred",
+     "link": "https://www.lesswrong.com/posts/FX2xcrsqBYonLfoge/alignment-train-test-splits-should-be-sacred",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-15T18:22:03.000Z",
+     "points": null,
+     "summary": "Tl;dr: Alignment techniques can be used for training alignment or for testing it, but they cannot be used for both! As we build out the set…"
     }
    ]
   },
@@ -102,7 +282,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 71.0459987519731,
+   "rank": 51.30028020726195,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -141,7 +321,7 @@
      "kind": "org"
     }
    ],
-   "rank": 67.50149644261424,
+   "rank": 48.74089664084616,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -169,7 +349,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 66.28826075227376,
+   "rank": 47.86485390845808,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -203,7 +383,7 @@
      "kind": "org"
     }
    ],
-   "rank": 59.47832131561099,
+   "rank": 42.947591748277944,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -224,34 +404,6 @@
    ]
   },
   {
-   "id": "motivations-incentives-around",
-   "title": "Motivations and incentives around AGI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 43.1595621119637,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-15T09:57:18.000Z",
-   "latestAt": "2026-11-15T09:57:18.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Motivations and incentives around AGI",
-     "link": "https://www.lesswrong.com/posts/DonAoEXiRGNFGKhio/motivations-and-incentives-around-agi",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-15T09:57:18.000Z",
-     "points": null,
-     "summary": "AI use disclosure: I dictated this text to Claude in a mix of Russian and English, then edited it. The thoughts in this post are well…"
-    }
-   ]
-  },
-  {
    "id": "actors-crew-ticket-sales",
    "title": "No actors, no crew, no ticket sales: ‘So obviously AI’ film flops at China’s box office",
    "category": {
@@ -259,7 +411,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.55204511887313,
+   "rank": 30.003541300399867,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -287,7 +439,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.08662328739085,
+   "rank": 26.779188131709926,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -321,7 +473,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 34.93283281754723,
+   "rank": 25.223997740250486,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -355,7 +507,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 33.75269779727683,
+   "rank": 24.371856053374792,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -376,40 +528,6 @@
    ]
   },
   {
-   "id": "safety-visualizing-difficulty-alignment",
-   "title": "Visualizing the Difficulty of AI Alignment",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 32.75294588122199,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-15T05:58:28.000Z",
-   "latestAt": "2026-11-15T05:58:28.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Visualizing the Difficulty of AI Alignment",
-     "link": "https://www.lesswrong.com/posts/JbJXu3LzN7RxmnFpG/visualizing-the-difficulty-of-ai-alignment",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-15T05:58:28.000Z",
-     "points": null,
-     "summary": "Epistemic status: Low, but I hope to be wrong in interesting ways As a non-computer scientist-scientist [1] I find it hard to think about the varying…"
-    }
-   ]
-  },
-  {
    "id": "nvidia-where-nvidia-security-team",
    "title": "Where was Nvidia’s security team?",
    "category": {
@@ -423,7 +541,7 @@
      "kind": "org"
     }
    ],
-   "rank": 31.215902527681187,
+   "rank": 22.54010886922956,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -444,50 +562,6 @@
    ]
   },
   {
-   "id": "openai-openai-board-member-fired",
-   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 26.399299844593024,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-11-13T17:25:45.000Z",
-   "latestAt": "2026-11-14T15:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-     "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-14T15:00:00.000Z",
-     "points": null,
-     "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of…"
-    },
-    {
-     "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-     "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-13T17:25:45.000Z",
-     "points": null,
-     "summary": "Researcher traces a path from AI reward hacking to potential human extinction."
-    }
-   ]
-  },
-  {
    "id": "datasette-vega",
    "title": "datasette-vega 0.7",
    "category": {
@@ -495,7 +569,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.086313326502303,
+   "rank": 16.669965422497803,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -529,7 +603,7 @@
      "kind": "org"
     }
    ],
-   "rank": 21.804465012827396,
+   "rank": 15.744379480574477,
    "deltas": [],
    "sourceCount": 3,
    "independentCount": 2,
@@ -577,7 +651,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.707617831939896,
+   "rank": 14.230306206626036,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -605,7 +679,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.426820684453068,
+   "rank": 10.41719388302372,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -633,7 +707,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.559276873422794,
+   "rank": 9.068694002831236,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -654,38 +728,6 @@
    ]
   },
   {
-   "id": "little-book-generative-foundations",
-   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 7.38228426073225,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-14T04:51:14.000Z",
-   "latestAt": "2026-11-14T04:51:14.000Z",
-   "primary": {
-    "publisher": "arXiv",
-    "link": "https://arxiv.org/abs/2605.29713",
-    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer"
-   },
-   "sources": [
-    {
-     "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-     "link": "https://arxiv.org/abs/2605.29713",
-     "publisher": "arXiv",
-     "publisherDomain": "arxiv.org",
-     "kind": "research",
-     "date": "2026-11-14T04:51:14.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "datasette-cluster",
    "title": "datasette-cluster-map 0.19",
    "category": {
@@ -693,7 +735,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.580965389533735,
+   "rank": 4.751926560931025,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -721,7 +763,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 6.432513446788276,
+   "rank": 4.644733666272154,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -749,7 +791,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.343222293211512,
+   "rank": 4.580259082495675,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -783,7 +825,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 5.800567968068628,
+   "rank": 4.188423941537232,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -804,6 +846,40 @@
    ]
   },
   {
+   "id": "openai-openai-board-member-worries",
+   "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 3.9841567213527886,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T17:25:45.000Z",
+   "latestAt": "2026-11-13T17:25:45.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+     "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-13T17:25:45.000Z",
+     "points": null,
+     "summary": "Researcher traces a path from AI reward hacking to potential human extinction."
+    }
+   ]
+  },
+  {
    "id": "expands-advice-manage-traffic",
    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
    "category": {
@@ -811,7 +887,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.362195829114887,
+   "rank": 3.87188797950659,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -845,7 +921,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.258227020935276,
+   "rank": 3.7968150818610935,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -884,7 +960,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 5.194431636417438,
+   "rank": 3.7507502624597864,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -918,7 +994,7 @@
      "kind": "model"
     }
    ],
-   "rank": 4.816482680957642,
+   "rank": 3.477844150085779,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -943,50 +1019,6 @@
    ]
   },
   {
-   "id": "nvidia-export-banned-nvidia-chips",
-   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 4.779859973483718,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-11-13T13:00:08.000Z",
-   "latestAt": "2026-11-13T18:40:30.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-     "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-13T18:40:30.000Z",
-     "points": null,
-     "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
-    },
-    {
-     "title": "China could tighten rare earths exports if US escalates chip curbs over Nvidia: analysts",
-     "link": "https://www.scmp.com/economy/global-economy/article/3374328/china-could-tighten-rare-earths-exports-if-us-escalates-chip-curbs-over-nvidia-analysts",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-13T13:00:08.000Z",
-     "points": null,
-     "summary": "China could retaliate with tighter rare earth export controls if Washington further restricts chip sales in the wake of the Nvidia saga, Chinese analysts say, though…"
-    }
-   ]
-  },
-  {
    "id": "advancing-science-engineering-with",
    "title": "Advancing science & engineering with Antigravity’s /teamwork",
    "category": {
@@ -994,7 +1026,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.689762387387852,
+   "rank": 3.3863430566776707,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1032,7 +1064,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.448745874396396,
+   "rank": 3.2123119378499485,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1070,7 +1102,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.186075005981664,
+   "rank": 3.022644829375574,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1098,7 +1130,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.160107796975273,
+   "rank": 3.0038946517212497,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1130,7 +1162,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.143255613934229,
+   "rank": 2.9917261731679705,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1151,6 +1183,40 @@
    ]
   },
   {
+   "id": "nvidia-export-banned-nvidia-chips",
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 2.924915205314943,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-13T18:40:30.000Z",
+   "latestAt": "2026-11-13T18:40:30.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+     "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-13T18:40:30.000Z",
+     "points": null,
+     "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+    }
+   ]
+  },
+  {
    "id": "openai-shield-helps-technicians-hand",
    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
    "category": {
@@ -1164,7 +1230,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.392038455616648,
+   "rank": 2.449293785768749,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1202,7 +1268,7 @@
      "kind": "model"
     }
    ],
-   "rank": 3.3899401462334744,
+   "rank": 2.447778656680424,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1234,7 +1300,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.3651749153950847,
+   "rank": 2.429896393024137,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1268,7 +1334,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.9033882166105576,
+   "rank": 2.0964534481746258,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1296,7 +1362,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 2.7835594845896012,
+   "rank": 2.009928553915394,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1317,40 +1383,6 @@
    ]
   },
   {
-   "id": "nvidia-israel-opportunity-challengers-nvidia",
-   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 2.7092169739801473,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-13T12:52:19.000Z",
-   "latestAt": "2026-11-13T12:52:19.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-     "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-13T12:52:19.000Z",
-     "points": null,
-     "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
-    }
-   ]
-  },
-  {
    "id": "this-startup-betting-microdramas",
    "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
    "category": {
@@ -1358,7 +1390,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.5065126154649526,
+   "rank": 1.8098809472056006,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1379,72 +1411,6 @@
    ]
   },
   {
-   "id": "modules-mere-mortals",
-   "title": "ML Modules for Mere Mortals",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 2.2272043860943693,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-13T11:33:56.000Z",
-   "latestAt": "2026-11-13T11:33:56.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "ML Modules for Mere Mortals",
-     "link": "https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/",
-     "publisher": "thunderseethe.dev",
-     "publisherDomain": "thunderseethe.dev",
-     "kind": "discussion",
-     "date": "2026-11-13T11:33:56.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "gemini-introducing-gemini-hydrogen",
-   "title": "Introducing Gemini 4 Hydrogen",
-   "category": {
-    "id": "models",
-    "name": "New Models"
-   },
-   "entities": [
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.6849435780639181,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T18:00:50.000Z",
-   "latestAt": "2026-11-12T18:00:50.000Z",
-   "primary": {
-    "publisher": "Google DeepMind",
-    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-    "title": "Introducing Gemini 4 Hydrogen"
-   },
-   "sources": [
-    {
-     "title": "Introducing Gemini 4 Hydrogen",
-     "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-     "publisher": "Google DeepMind",
-     "publisherDomain": "deepmind.google",
-     "kind": "primary",
-     "date": "2026-11-12T18:00:50.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "gemini-gemini",
    "title": "llm-gemini 0.37",
    "category": {
@@ -1458,7 +1424,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.607057967584044,
+   "rank": 1.1604105156461713,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1492,7 +1458,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.5909661449722357,
+   "rank": 1.1487910715742635,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1526,7 +1492,7 @@
      "kind": "product"
     }
    ],
-   "rank": 1.491414128718957,
+   "rank": 1.07690741283621,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1554,7 +1520,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.491414128718957,
+   "rank": 1.07690741283621,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1575,44 +1541,6 @@
    ]
   },
   {
-   "id": "openai-amplitude-ships-product-improvements",
-   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.4764704941295934,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T20:00:00.000Z",
-   "latestAt": "2026-11-12T20:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/business/customer-stories/amplitude",
-    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI"
-   },
-   "sources": [
-    {
-     "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-     "link": "https://openai.com/business/customer-stories/amplitude",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-12T20:00:00.000Z",
-     "points": null,
-     "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
-    }
-   ]
-  },
-  {
    "id": "nvidia-jensen-huang-quits-nvidia",
    "title": "Jensen Huang quits Nvidia; non-invasive treatment for kidney tumours: SCMP’s 7 highlights",
    "category": {
@@ -1626,7 +1554,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.4159713009204125,
+   "rank": 1.0224323083450353,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1647,45 +1575,6 @@
    ]
   },
   {
-   "id": "google-gemini-google-faces-calls-moratoriums",
-   "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    },
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.1195714808554929,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T18:57:45.000Z",
-   "latestAt": "2026-11-12T18:57:45.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-     "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-12T18:57:45.000Z",
-     "points": null,
-     "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”"
-    }
-   ]
-  },
-  {
    "id": "silicon-valley-still-defending",
    "title": "Silicon Valley Is Still Defending Jensen Huang",
    "category": {
@@ -1693,7 +1582,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.0001450675861023,
+   "rank": 0.7221760988144749,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1710,194 +1599,6 @@
      "date": "2026-11-12T22:29:43.000Z",
      "points": null,
      "summary": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial."
-    }
-   ]
-  },
-  {
-   "id": "microsoft-microsoft-research-focus-edition",
-   "title": "Microsoft Research Focus – Edition #98",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "microsoft",
-     "name": "Microsoft",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.935579071909649,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T21:31:57.000Z",
-   "latestAt": "2026-11-12T21:31:57.000Z",
-   "primary": {
-    "publisher": "Microsoft Research",
-    "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
-    "title": "Microsoft Research Focus – Edition #98"
-   },
-   "sources": [
-    {
-     "title": "Microsoft Research Focus – Edition #98",
-     "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
-     "publisher": "Microsoft Research",
-     "publisherDomain": "microsoft.com",
-     "kind": "primary",
-     "date": "2026-11-12T21:31:57.000Z",
-     "points": null,
-     "summary": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making…"
-    }
-   ]
-  },
-  {
-   "id": "live-what-drone-attacks",
-   "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9254052837270225,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T19:59:59.000Z",
-   "latestAt": "2026-11-12T19:59:59.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-     "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-12T19:59:59.000Z",
-     "points": null,
-     "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time."
-    }
-   ]
-  },
-  {
-   "id": "llmon-native-markup-language",
-   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.9106409524478397,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T19:07:35.000Z",
-   "latestAt": "2026-11-12T19:07:35.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B"
-   },
-   "sources": [
-    {
-     "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-     "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-11-12T19:07:35.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "nvidia-nvidia-privately-confirmed-could",
-   "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.9002540916317308,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T20:16:24.000Z",
-   "latestAt": "2026-11-12T20:16:24.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-     "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-11-12T20:16:24.000Z",
-     "points": null,
-     "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act…"
-    }
-   ]
-  },
-  {
-   "id": "jensen-huang-didn-name",
-   "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8761928726095313,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T20:35:11.000Z",
-   "latestAt": "2026-11-12T20:35:11.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
-     "link": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-12T20:35:11.000Z",
-     "points": null,
-     "summary": "A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots."
-    }
-   ]
-  },
-  {
-   "id": "three-lincoln-laboratory-technologies",
-   "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8715654509147549,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T21:15:00.000Z",
-   "latestAt": "2026-11-12T21:15:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
-     "link": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112",
-     "publisher": "MIT News AI",
-     "publisherDomain": "news.mit.edu",
-     "kind": "coverage",
-     "date": "2026-11-12T21:15:00.000Z",
-     "points": null,
-     "summary": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations."
     }
    ]
   }
