@@ -1,40 +1,34 @@
 {
  "date": "2026-11-15",
- "generated": "2026-11-15T01:42:56.959Z",
- "headline": "59 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2899 items read · 65 on-topic · 59 distinct developments · 14 with a primary source · 3 independently corroborated",
+ "generated": "2026-11-15T09:07:45.170Z",
+ "headline": "61 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2899 items read · 67 on-topic · 61 distinct developments · 14 with a primary source · 3 independently corroborated",
  "events": [
   {
-   "id": "nvidia-nvidia-deliberately-kept-prices",
-   "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+   "id": "actors-crew-ticket-sales",
+   "title": "No actors, no crew, no ticket sales: ‘So obviously AI’ film flops at China’s box office",
    "category": {
     "id": "general",
     "name": "Other"
    },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 115.55974742712394,
+   "entities": [],
+   "rank": 71.36288036273788,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-14T22:26:30.000Z",
-   "latestAt": "2026-11-14T22:26:30.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-11-15T05:00:06.000Z",
+   "latestAt": "2026-11-15T05:00:06.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-     "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-     "publisher": "techspot.com",
-     "publisherDomain": "techspot.com",
-     "kind": "discussion",
-     "date": "2026-11-14T22:26:30.000Z",
-     "points": 173,
-     "summary": ""
+     "title": "No actors, no crew, no ticket sales: ‘So obviously AI’ film flops at China’s box office",
+     "link": "https://www.scmp.com/economy/china-economy/article/3374358/no-actors-no-crew-no-ticket-sales-so-obviously-ai-film-flops-chinas-box-office",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-15T05:00:06.000Z",
+     "points": null,
+     "summary": "China has ushered artificial intelligence into its cinemas, but the country’s first fully AI-generated feature film has flopped at the box office. Made with no human…"
     }
    ]
   },
@@ -46,7 +40,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 106.47870319198123,
+   "rank": 63.6938146641042,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -67,6 +61,142 @@
    ]
   },
   {
+   "id": "robotics-periodic-oriented-programming-first",
+   "title": "Periodic-Oriented Programming for FIRST Robotics",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
+    }
+   ],
+   "rank": 59.994822443958505,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-15T03:16:42.000Z",
+   "latestAt": "2026-11-15T03:16:42.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Periodic-Oriented Programming for FIRST Robotics",
+     "link": "https://bvisness.me/periodic-oriented-programming/",
+     "publisher": "bvisness.me",
+     "publisherDomain": "bvisness.me",
+     "kind": "discussion",
+     "date": "2026-11-15T03:16:42.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "regulation-protesting-regulation",
+   "title": "Protesting For AI Regulation",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "regulation",
+     "name": "AI Regulation",
+     "kind": "topic"
+    }
+   ],
+   "rank": 58.25515264554905,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-15T03:50:57.000Z",
+   "latestAt": "2026-11-15T03:50:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Protesting For AI Regulation",
+     "link": "https://www.lesswrong.com/posts/WgG5M9ZZ2C5KawYP5/protesting-for-ai-regulation",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-15T03:50:57.000Z",
+     "points": null,
+     "summary": "There was an AI protest day today, with parallel protests around the world, and our family went to the Boston one: I'm not really a protest…"
+    }
+   ]
+  },
+  {
+   "id": "open-source-chinese-companies-curb-cyber",
+   "title": "Can Chinese AI companies curb cyber risks from open-weight models without losing their edge?",
+   "category": {
+    "id": "opensource",
+    "name": "Open Source"
+   },
+   "entities": [
+    {
+     "id": "open-source",
+     "name": "Open Models",
+     "kind": "topic"
+    }
+   ],
+   "rank": 57.96801885288371,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-15T02:00:09.000Z",
+   "latestAt": "2026-11-15T02:00:09.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Can Chinese AI companies curb cyber risks from open-weight models without losing their edge?",
+     "link": "https://www.scmp.com/tech/tech-trends/article/3374332/can-chinese-ai-companies-curb-cyber-risks-open-weight-models-without-losing-their-edge",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-15T02:00:09.000Z",
+     "points": null,
+     "summary": "China’s leading artificial intelligence model companies are beginning to curb the cybersecurity capabilities of their most advanced open-weight models, following a string of high-profile AI hacking…"
+    }
+   ]
+  },
+  {
+   "id": "safety-visualizing-difficulty-alignment",
+   "title": "Visualizing the Difficulty of AI Alignment",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 56.251011274225846,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-15T05:58:28.000Z",
+   "latestAt": "2026-11-15T05:58:28.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Visualizing the Difficulty of AI Alignment",
+     "link": "https://www.lesswrong.com/posts/JbJXu3LzN7RxmnFpG/visualizing-the-difficulty-of-ai-alignment",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-15T05:58:28.000Z",
+     "points": null,
+     "summary": "Epistemic status: Low, but I hope to be wrong in interesting ways As a non-computer scientist-scientist [1] I find it hard to think about the varying…"
+    }
+   ]
+  },
+  {
    "id": "nvidia-where-nvidia-security-team",
    "title": "Where was Nvidia’s security team?",
    "category": {
@@ -80,7 +210,7 @@
      "kind": "org"
     }
    ],
-   "rank": 89.62338777401871,
+   "rank": 53.611241302921755,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -114,7 +244,7 @@
      "kind": "org"
     }
    ],
-   "rank": 89.26402049912541,
+   "rank": 53.396273690458166,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -135,6 +265,62 @@
    ]
   },
   {
+   "id": "digital-security-checklist",
+   "title": "A digital security checklist for the AI age",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 48.660128978232315,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-15T03:52:59.000Z",
+   "latestAt": "2026-11-15T03:52:59.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "A digital security checklist for the AI age",
+     "link": "https://www.lesswrong.com/posts/oCX2KjEL6mLDCsq77/a-digital-security-checklist-for-the-ai-age",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-15T03:52:59.000Z",
+     "points": null,
+     "summary": "We’re going to see huge, foundational cybersecurity attacks given the rapid rise in AI capabilities. Having worked in hostile environments, I’ve thought a lot about physical…"
+    }
+   ]
+  },
+  {
+   "id": "oldest-text-training-data",
+   "title": "The Oldest Text in the Training Data",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 46.40281622969698,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-15T03:11:52.000Z",
+   "latestAt": "2026-11-15T03:11:52.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Oldest Text in the Training Data",
+     "link": "https://www.lesswrong.com/posts/CzZR4ZcJoCNi2zqFn/the-oldest-text-in-the-training-data",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-15T03:11:52.000Z",
+     "points": null,
+     "summary": "What is the oldest text in Claude’s training data? Claude was trained on a non-trivial fraction of everything humans have ever written down. That includes the…"
+    }
+   ]
+  },
+  {
    "id": "openai-openai-board-member-fired",
    "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
    "category": {
@@ -148,7 +334,7 @@
      "kind": "org"
     }
    ],
-   "rank": 75.79453084326073,
+   "rank": 45.33904579377843,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -192,7 +378,7 @@
      "kind": "org"
     }
    ],
-   "rank": 69.33019014893206,
+   "rank": 41.47218316522227,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -211,7 +397,7 @@
      "publisherDomain": "github.com",
      "kind": "primary",
      "date": "2026-11-14T15:04:15.000Z",
-     "points": 175,
+     "points": 228,
      "summary": ""
     }
    ]
@@ -224,7 +410,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 66.28267786583547,
+   "rank": 39.649211277631196,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -245,40 +431,6 @@
    ]
   },
   {
-   "id": "safety-slouching-towards-interpretability-thinking",
-   "title": "Slouching Towards Interpretability: Thinking About Computation in Neural Networks",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 63.80717915135697,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-15T00:22:46.000Z",
-   "latestAt": "2026-11-15T00:22:46.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Slouching Towards Interpretability: Thinking About Computation in Neural Networks",
-     "link": "https://www.lesswrong.com/posts/uCqBdWX6hnoB2A8pk/slouching-towards-interpretability-thinking-about",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-15T00:22:46.000Z",
-     "points": null,
-     "summary": "This post was written as part of the Iliad Fellowship , where I am mentored by Dmitry Vaintrob and collaborate with Brianna Grado-White. The initial inspiration…"
-    }
-   ]
-  },
-  {
    "id": "nvidia-asian-governments-react-nvidia",
    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
    "category": {
@@ -292,7 +444,7 @@
      "kind": "org"
     }
    ],
-   "rank": 62.60238739907472,
+   "rank": 37.44772185418016,
    "deltas": [],
    "sourceCount": 5,
    "independentCount": 2,
@@ -360,7 +512,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 56.58216908794655,
+   "rank": 33.84652595442279,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -388,7 +540,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.42057220361964,
+   "rank": 24.777107253661384,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -416,7 +568,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 36.058702463908865,
+   "rank": 21.5697246765234,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -437,74 +589,6 @@
    ]
   },
   {
-   "id": "safety-reward-hack-auditing-chinese",
-   "title": "RL Reward-Hack Auditing for Chinese AI Safety",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 29.134302169610407,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-14T13:04:10.000Z",
-   "latestAt": "2026-11-14T13:04:10.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "RL Reward-Hack Auditing for Chinese AI Safety",
-     "link": "https://www.lesswrong.com/posts/jwCPQhLWbWnwMhHME/rl-reward-hack-auditing-for-chinese-ai-safety",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-14T13:04:10.000Z",
-     "points": null,
-     "summary": "TL;DR: Access to AI safety talent & resources, particularly for labs during training, is sorely lacking in China. We created one of the largest AI safety…"
-    }
-   ]
-  },
-  {
-   "id": "safety-datasets-determine-difficulty-interpretability",
-   "title": "Datasets Determine the Difficulty of Interpretability",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 21.91027579428394,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-14T08:57:30.000Z",
-   "latestAt": "2026-11-14T08:57:30.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Datasets Determine the Difficulty of Interpretability",
-     "link": "https://www.lesswrong.com/posts/EMKRpxKswPZEbP8ey/datasets-determine-the-difficulty-of-interpretability",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-14T08:57:30.000Z",
-     "points": null,
-     "summary": "Recently Goodfire has come out swinging with two posts indicating that neurons in transformers are \"more interpretable than previously assumed\", or simply \"already clean\". In the…"
-    }
-   ]
-  },
-  {
    "id": "little-book-generative-foundations",
    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
    "category": {
@@ -512,7 +596,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.19513681755429,
+   "rank": 12.678583376467163,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -544,7 +628,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.8944853511942,
+   "rank": 11.30237138559766,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -572,7 +656,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 18.46826778408447,
+   "rank": 11.047415024257257,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -600,7 +684,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.211905640632,
+   "rank": 10.894063392781112,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -634,7 +718,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 16.653901063753207,
+   "rank": 9.962090596431201,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -662,7 +746,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.395299100733325,
+   "rank": 9.209215535359794,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -696,7 +780,7 @@
      "kind": "org"
     }
    ],
-   "rank": 15.096796220554833,
+   "rank": 9.030656006018894,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -735,7 +819,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 14.913634497783413,
+   "rank": 8.92109166616469,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -769,7 +853,7 @@
      "kind": "model"
     }
    ],
-   "rank": 13.828512394909044,
+   "rank": 8.27198941344672,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -807,10 +891,8 @@
      "kind": "org"
     }
    ],
-   "rank": 13.723365631641213,
-   "deltas": [
-    "Now also covered by SCMP Tech."
-   ],
+   "rank": 8.209092343409754,
+   "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
    "publishedAt": "2026-11-13T13:00:08.000Z",
@@ -847,7 +929,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.464688155024533,
+   "rank": 8.054355717591774,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -885,7 +967,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 12.772710199730103,
+   "rank": 7.640425848848895,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -923,7 +1005,7 @@
      "kind": "org"
     }
    ],
-   "rank": 12.018560833842118,
+   "rank": 7.189306061511568,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -951,7 +1033,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.944006870838008,
+   "rank": 7.144709103061606,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -983,7 +1065,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.895622886611152,
+   "rank": 7.115766596892089,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1017,7 +1099,7 @@
      "kind": "org"
     }
    ],
-   "rank": 9.738817501192932,
+   "rank": 5.825600973465189,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1055,7 +1137,7 @@
      "kind": "model"
     }
    ],
-   "rank": 9.732793084780461,
+   "rank": 5.821997266330032,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1087,7 +1169,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.661690098577388,
+   "rank": 5.779464625628003,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1121,7 +1203,7 @@
      "kind": "org"
     }
    ],
-   "rank": 8.335863035356997,
+   "rank": 4.986376611688207,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1149,7 +1231,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 7.9918250275864455,
+   "rank": 4.780578715513271,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1183,7 +1265,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.7783816504315855,
+   "rank": 4.652900386436796,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1211,7 +1293,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.196400997763247,
+   "rank": 4.304769100856459,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1239,7 +1321,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.394484419277127,
+   "rank": 3.8250757500267123,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1273,7 +1355,7 @@
      "kind": "model"
     }
    ],
-   "rank": 4.837609661942477,
+   "rank": 2.893778793206118,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1311,7 +1393,7 @@
      "kind": "model"
     }
    ],
-   "rank": 4.61399375771341,
+   "rank": 2.7600154251997275,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1345,7 +1427,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.567792829944299,
+   "rank": 2.732378787614749,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1379,7 +1461,7 @@
      "kind": "product"
     }
    ],
-   "rank": 4.281970917589176,
+   "rank": 2.561404805337153,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1407,7 +1489,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.281970917589176,
+   "rank": 2.561404805337153,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1441,7 +1523,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.239066530750829,
+   "rank": 2.535740104494286,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1479,7 +1561,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.065368440548456,
+   "rank": 2.4318367544984527,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1518,7 +1600,7 @@
      "kind": "model"
     }
    ],
-   "rank": 3.214380519046867,
+   "rank": 1.922789730740228,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1546,7 +1628,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.871497601040205,
+   "rank": 1.7176827903257967,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1580,7 +1662,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.7515783781736896,
+   "rank": 1.645949077132919,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1614,7 +1696,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.6861233911356535,
+   "rank": 1.6067949769395191,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1646,7 +1728,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.6592269027621454,
+   "rank": 1.5907059385288176,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1674,7 +1756,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.6569136201667156,
+   "rank": 1.589322170803611,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1702,7 +1784,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.614524027673438,
+   "rank": 1.563965411498554,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1740,7 +1822,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.5847025078935313,
+   "rank": 1.54612666725278,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1768,7 +1850,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.5156207967102677,
+   "rank": 1.5048031201313186,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1796,7 +1878,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.502335093739574,
+   "rank": 1.4968558304167556,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1835,7 +1917,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.4151223557559245,
+   "rank": 1.4446866002988406,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1863,7 +1945,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 1.8034847224431354,
+   "rank": 1.078814995086146,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1895,7 +1977,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.5165438380672736,
+   "rank": 0.9071716620898941,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1927,7 +2009,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.147635010838071,
+   "rank": 0.6864964494408134,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1944,34 +2026,6 @@
      "date": "2026-11-12T10:00:14.000Z",
      "points": null,
      "summary": "A former ByteDance artificial intelligence scientist’s new venture has released a life sciences AI model that the firm claims outperforms state-of-the-art systems, intensifying the increasingly crowded…"
-    }
-   ]
-  },
-  {
-   "id": "research-could-lead-faster",
-   "title": "New research could lead to faster, trustworthy AI models for climate prediction",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8112817821382059,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-12T05:00:00.000Z",
-   "latestAt": "2026-11-12T05:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "New research could lead to faster, trustworthy AI models for climate prediction",
-     "link": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
-     "publisher": "MIT News AI",
-     "publisherDomain": "news.mit.edu",
-     "kind": "coverage",
-     "date": "2026-11-12T05:00:00.000Z",
-     "points": null,
-     "summary": "MIT scientists developed a training method to generate models that simulate the effects of human activities on climate much more quickly than other approaches."
     }
    ]
   }
