@@ -1,17 +1,4 @@
 {
- "nvidia-jensen-huang-might-return": {
-  "id": "nvidia-jensen-huang-might-return",
-  "title": "Jensen Huang might return to Nvidia as CEO",
-  "firstSeen": "2026-11-16T01:47:57.028Z",
-  "publishers": [
-   "TechCrunch",
-   "Reuters"
-  ],
-  "sourceCount": 2,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "nvidia-what-next-nvidia": {
   "id": "nvidia-what-next-nvidia",
   "title": "What's Next for Nvidia?",
@@ -21,6 +8,18 @@
   ],
   "sourceCount": 1,
   "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "china-moonshot-puts-kimi": {
+  "id": "china-moonshot-puts-kimi",
+  "title": "China’s Moonshot AI puts Kimi models into race for scientific discoveries",
+  "firstSeen": "2026-11-16T09:24:01.443Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -36,6 +35,18 @@
   "independentCount": 2,
   "hadPrimary": false,
   "category": "research"
+ },
+ "alibaba-alibaba-says-flagship-model": {
+  "id": "alibaba-alibaba-says-flagship-model",
+  "title": "Alibaba says new flagship AI model cuts task costs by 60% while tightening cyber guardrails",
+  "firstSeen": "2026-11-16T09:24:01.443Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
  },
  "datasette-maplibre": {
   "id": "datasette-maplibre",
@@ -73,6 +84,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "david-duvenaud-post-futures": {
+  "id": "david-duvenaud-post-futures",
+  "title": "David Duvenaud on Post-AGI Futures",
+  "firstSeen": "2026-11-16T09:24:01.443Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "step-toward-defining-standard": {
   "id": "step-toward-defining-standard",
   "title": "A step toward defining the Standard Model on a lattice",
@@ -97,12 +120,38 @@
   "hadPrimary": true,
   "category": "general"
  },
+ "nvidia-apple-asian-governments-react-nvidia": {
+  "id": "nvidia-apple-asian-governments-react-nvidia",
+  "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+  "firstSeen": "2026-11-16T09:24:01.443Z",
+  "publishers": [
+   "The Verge",
+   "SCMP Tech",
+   "TechCrunch"
+  ],
+  "sourceCount": 5,
+  "independentCount": 3,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "indian-chip-startup-bharat": {
   "id": "indian-chip-startup-bharat",
   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
   "firstSeen": "2026-11-16T01:47:57.028Z",
   "publishers": [
    "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "patch-yesterday": {
+  "id": "patch-yesterday",
+  "title": "You can't patch yesterday's AI",
+  "firstSeen": "2026-11-16T09:24:01.443Z",
+  "publishers": [
+   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -134,6 +183,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "great-human-centipede-that": {
+  "id": "great-human-centipede-that",
+  "title": "The great human centipede that is AI Twitter",
+  "firstSeen": "2026-11-16T09:24:01.443Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "exploration-mathematical-implications-poincar": {
   "id": "exploration-mathematical-implications-poincar",
   "title": "An exploration of the mathematical implications of a 'Poincaré causal diamond model of hyperbolic static spacetime'",
@@ -158,10 +219,10 @@
   "hadPrimary": false,
   "category": "opensource"
  },
- "llms-weirdly-below-chance": {
-  "id": "llms-weirdly-below-chance",
-  "title": "LLMs are weirdly below chance on TASTE without a shortcut",
-  "firstSeen": "2026-11-16T01:47:57.028Z",
+ "llms-below-chance-taste": {
+  "id": "llms-below-chance-taste",
+  "title": "LLMs are below chance on TASTE once a shortcut is removed",
+  "firstSeen": "2026-11-16T09:24:01.443Z",
   "publishers": [
    "LessWrong"
   ],
@@ -176,42 +237,6 @@
   "firstSeen": "2026-11-15T21:37:46.610Z",
   "publishers": [
    "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "what-futures-models-want": {
-  "id": "what-futures-models-want",
-  "title": "What Futures Do AI Models Want? An Exploratory Character Evaluation of AI for AI Strategy",
-  "firstSeen": "2026-11-16T01:47:57.028Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "research"
- },
- "safety-where-adults-safety": {
-  "id": "safety-where-adults-safety",
-  "title": "Where are the adults in AI safety?",
-  "firstSeen": "2026-11-15T21:37:46.610Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "safety-alignment-train-test-splits": {
-  "id": "safety-alignment-train-test-splits",
-  "title": "Alignment 'train/test splits' should be sacred",
-  "firstSeen": "2026-11-15T21:37:46.610Z",
-  "publishers": [
-   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -554,18 +579,6 @@
   "hadPrimary": true,
   "category": "models"
  },
- "openai-shield-helps-technicians-hand": {
-  "id": "openai-shield-helps-technicians-hand",
-  "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-  "firstSeen": "2026-11-14T02:11:05.310Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
  "llama-llama-stronger-foundation-local": {
   "id": "llama-llama-stronger-foundation-local",
   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
@@ -620,42 +633,6 @@
   "firstSeen": "2026-11-13T15:16:51.834Z",
   "publishers": [
    "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "nvidia-china-smic-sees-computing": {
-  "id": "nvidia-china-smic-sees-computing",
-  "title": "China’s SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs",
-  "firstSeen": "2026-11-13T21:53:25.725Z",
-  "publishers": [
-   "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "copilot-copilot-helps-engineers-design": {
-  "id": "copilot-copilot-helps-engineers-design",
-  "title": "New AI “copilot” helps engineers design better structures",
-  "firstSeen": "2026-11-13T06:18:15.364Z",
-  "publishers": [
-   "MIT News AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "helping-robots-into-human": {
-  "id": "helping-robots-into-human",
-  "title": "Helping robots fit into the human workplace",
-  "firstSeen": "2026-11-13T06:18:15.364Z",
-  "publishers": [
-   "MIT News AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,

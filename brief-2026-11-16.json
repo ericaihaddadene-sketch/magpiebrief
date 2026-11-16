@@ -1,53 +1,9 @@
 {
  "date": "2026-11-16",
- "generated": "2026-11-16T01:47:57.069Z",
- "headline": "55 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2901 items read · 58 on-topic · 55 distinct developments · 8 with a primary source · 2 independently corroborated",
+ "generated": "2026-11-16T09:24:01.502Z",
+ "headline": "53 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2901 items read · 59 on-topic · 53 distinct developments · 7 with a primary source · 3 independently corroborated",
  "events": [
-  {
-   "id": "nvidia-jensen-huang-might-return",
-   "title": "Jensen Huang might return to Nvidia as CEO",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 189.28210577342628,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 1,
-   "publishedAt": "2026-11-13T18:40:30.000Z",
-   "latestAt": "2026-11-15T23:24:53.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-     "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-13T18:40:30.000Z",
-     "points": null,
-     "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
-    },
-    {
-     "title": "Jensen Huang might return to Nvidia as CEO",
-     "link": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
-     "publisher": "Reuters",
-     "publisherDomain": "reuters.com",
-     "kind": "discussion",
-     "date": "2026-11-15T23:24:53.000Z",
-     "points": 131,
-     "summary": ""
-    }
-   ]
-  },
   {
    "id": "nvidia-what-next-nvidia",
    "title": "What's Next for Nvidia?",
@@ -62,7 +18,7 @@
      "kind": "org"
     }
    ],
-   "rank": 148.86686908944048,
+   "rank": 88.76077202118971,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -77,8 +33,36 @@
      "publisherDomain": "steveblank.com",
      "kind": "discussion",
      "date": "2026-11-15T23:55:55.000Z",
-     "points": 47,
+     "points": 246,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "china-moonshot-puts-kimi",
+   "title": "China’s Moonshot AI puts Kimi models into race for scientific discoveries",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 83.28805790008892,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-16T07:30:08.000Z",
+   "latestAt": "2026-11-16T07:30:08.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "China’s Moonshot AI puts Kimi models into race for scientific discoveries",
+     "link": "https://www.scmp.com/tech/article/3374568/chinas-moonshot-ai-puts-kimi-models-race-science-discoveries",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-16T07:30:08.000Z",
+     "points": null,
+     "summary": "Chinese artificial intelligence start-up Moonshot AI, the developer of the Kimi models, is setting its sights on scientific discovery, joining US rivals in the race to…"
     }
    ]
   },
@@ -96,7 +80,7 @@
      "kind": "org"
     }
    ],
-   "rank": 115.57820867526917,
+   "rank": 68.24270679262678,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -127,6 +111,40 @@
    ]
   },
   {
+   "id": "alibaba-alibaba-says-flagship-model",
+   "title": "Alibaba says new flagship AI model cuts task costs by 60% while tightening cyber guardrails",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "alibaba",
+     "name": "Alibaba",
+     "kind": "org"
+    }
+   ],
+   "rank": 65.10159931265576,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-16T03:56:53.000Z",
+   "latestAt": "2026-11-16T03:56:53.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Alibaba says new flagship AI model cuts task costs by 60% while tightening cyber guardrails",
+     "link": "https://www.scmp.com/tech/big-tech/article/3374540/alibaba-says-new-flagship-ai-model-cuts-task-costs-60-while-tightening-cyber-guardrails",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-16T03:56:53.000Z",
+     "points": null,
+     "summary": "Alibaba Group Holding has launched its most advanced artificial intelligence model to date, Qwen4-Max, with strict cybersecurity guardrails, as the tech giant balances safety with a…"
+    }
+   ]
+  },
+  {
    "id": "datasette-maplibre",
    "title": "datasette-maplibre 0.1a0",
    "category": {
@@ -134,7 +152,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 105.75923365599627,
+   "rank": 62.445130926686346,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -162,7 +180,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 101.19936901253438,
+   "rank": 59.752776464331546,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -190,7 +208,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 100.94638055671764,
+   "rank": 59.60340040797883,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -211,6 +229,34 @@
    ]
   },
   {
+   "id": "david-duvenaud-post-futures",
+   "title": "David Duvenaud on Post-AGI Futures",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 59.00181288010766,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-16T06:56:04.000Z",
+   "latestAt": "2026-11-16T06:56:04.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "David Duvenaud on Post-AGI Futures",
+     "link": "https://www.lesswrong.com/posts/imSaXjysZuAbNuLya/david-duvenaud-on-post-agi-futures",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-16T06:56:04.000Z",
+     "points": null,
+     "summary": "What sort of futures can we expect for civilization after AGI? Ideally, our future satisfies all of these properties: tazik's blog is a reader-supported publication. To…"
+    }
+   ]
+  },
+  {
    "id": "step-toward-defining-standard",
    "title": "A step toward defining the Standard Model on a lattice",
    "category": {
@@ -218,7 +264,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 99.90452691394323,
+   "rank": 58.988241949653485,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -250,7 +296,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 99.90260336187374,
+   "rank": 58.98710619576542,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -275,6 +321,85 @@
    ]
   },
   {
+   "id": "nvidia-apple-asian-governments-react-nvidia",
+   "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    },
+    {
+     "id": "apple",
+     "name": "Apple",
+     "kind": "org"
+    }
+   ],
+   "rank": 56.51063657538272,
+   "deltas": [],
+   "sourceCount": 5,
+   "independentCount": 3,
+   "publishedAt": "2026-11-13T11:00:10.000Z",
+   "latestAt": "2026-11-15T20:43:49.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+     "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-15T20:43:49.000Z",
+     "points": null,
+     "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed…"
+    },
+    {
+     "title": "Could Jensen Huang make a comeback? Musk, other tech heavyweights pressure Nvidia board",
+     "link": "https://www.scmp.com/tech/big-tech/article/3374494/could-jensen-huang-make-comeback-musk-other-tech-heavyweights-pressure-nvidia-board",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-15T14:00:09.000Z",
+     "points": null,
+     "summary": "Support has continued to build across the tech industry for Jensen Huang, with figures including Elon Musk rallying behind the former Nvidia CEO and an unverified…"
+    },
+    {
+     "title": "Like Apple after Steve Jobs? Analysts debate Nvidia’s post-Jensen Huang future",
+     "link": "https://www.scmp.com/tech/big-tech/article/3374421/apple-after-steve-jobs-analysts-debate-nvidias-post-jensen-huang-future",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-15T12:00:06.000Z",
+     "points": null,
+     "summary": "As the technology world debates how Nvidia is likely to fare without Jensen Huang, analysts keep returning to the same analogy: the departure of legendary CEO…"
+    },
+    {
+     "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+     "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-14T16:34:15.000Z",
+     "points": null,
+     "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
+    },
+    {
+     "title": "Jensen Huang’s exit tests Nvidia’s supply chain clout, ability to bankroll AI buildout",
+     "link": "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-13T11:00:10.000Z",
+     "points": null,
+     "summary": "For years, Jensen Huang was more than Nvidia’s CEO – he was a key figure driving the artificial intelligence boom, parlaying close ties with Asian chip…"
+    }
+   ]
+  },
+  {
    "id": "indian-chip-startup-bharat",
    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
    "category": {
@@ -282,7 +407,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 85.26836836187505,
+   "rank": 50.346378677265655,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -303,6 +428,34 @@
    ]
   },
   {
+   "id": "patch-yesterday",
+   "title": "You can't patch yesterday's AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 47.04304694008543,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-16T03:40:00.000Z",
+   "latestAt": "2026-11-16T03:40:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "You can't patch yesterday's AI",
+     "link": "https://www.lesswrong.com/posts/cPw3KoptvXFgRgxbH/you-can-t-patch-yesterday-s-ai",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-16T03:40:00.000Z",
+     "points": null,
+     "summary": "In a nutshell Point 1: Safety isn't backdated on earlier models, todays Fable 5.2 will be trivial for someone in 2035 to jailbreak, but some capabilities…"
+    }
+   ]
+  },
+  {
    "id": "news-jensen-huang-also",
    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
    "category": {
@@ -310,7 +463,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 76.54542782883036,
+   "rank": 45.19595213934803,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -344,7 +497,7 @@
      "kind": "org"
     }
    ],
-   "rank": 75.0052694310164,
+   "rank": 44.2865715635379,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 2,
@@ -375,6 +528,34 @@
    ]
   },
   {
+   "id": "great-human-centipede-that",
+   "title": "The great human centipede that is AI Twitter",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 43.585329508725266,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-16T02:33:55.000Z",
+   "latestAt": "2026-11-16T02:33:55.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The great human centipede that is AI Twitter",
+     "link": "https://www.lesswrong.com/posts/Ctia6zyXF69N3tzhv/the-great-human-centipede-that-is-ai-twitter",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-16T02:33:55.000Z",
+     "points": null,
+     "summary": "On October 29th, 2026, the New York Times reported that Jensen Huang had a ‘close relationship’ with Alice Huang, an executive U.S. officials had concluded was…"
+    }
+   ]
+  },
+  {
    "id": "exploration-mathematical-implications-poincar",
    "title": "An exploration of the mathematical implications of a 'Poincaré causal diamond model of hyperbolic static spacetime'",
    "category": {
@@ -382,7 +563,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 68.5369467185967,
+   "rank": 40.46737540741857,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -410,7 +591,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 57.30377157675373,
+   "rank": 33.83479054266419,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -431,14 +612,14 @@
    ]
   },
   {
-   "id": "llms-weirdly-below-chance",
-   "title": "LLMs are weirdly below chance on TASTE without a shortcut",
+   "id": "llms-below-chance-taste",
+   "title": "LLMs are below chance on TASTE once a shortcut is removed",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 56.24354297489931,
+   "rank": 33.208782660739054,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -447,14 +628,14 @@
    "primary": null,
    "sources": [
     {
-     "title": "LLMs are weirdly below chance on TASTE without a shortcut",
-     "link": "https://www.lesswrong.com/posts/tpKE33scJGzqYKEBW/llms-are-weirdly-below-chance-on-taste-without-a-shortcut",
+     "title": "LLMs are below chance on TASTE once a shortcut is removed",
+     "link": "https://www.lesswrong.com/posts/tpKE33scJGzqYKEBW/llms-are-below-chance-on-taste-once-a-shortcut-is-removed",
      "publisher": "LessWrong",
      "publisherDomain": "lesswrong.com",
      "kind": "coverage",
      "date": "2026-11-15T22:38:33.000Z",
      "points": null,
-     "summary": "We found a shortcut in the TASTE benchmark : mech-interp-related proposals are generally scored lower. On the non-interp half, all tested models with ECI > 158…"
+     "summary": "We found a shortcut in the TASTE benchmark : mech-interp-related proposals are generally scored lower. Considering only the non-interp half, all tested models with ECI >…"
     }
    ]
   },
@@ -472,7 +653,7 @@
      "kind": "org"
     }
    ],
-   "rank": 54.654640098271216,
+   "rank": 32.27062109573035,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -493,102 +674,6 @@
    ]
   },
   {
-   "id": "what-futures-models-want",
-   "title": "What Futures Do AI Models Want? An Exploratory Character Evaluation of AI for AI Strategy",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [],
-   "rank": 53.02247977500192,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-15T21:47:30.000Z",
-   "latestAt": "2026-11-15T21:47:30.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "What Futures Do AI Models Want? An Exploratory Character Evaluation of AI for AI Strategy",
-     "link": "https://www.lesswrong.com/posts/A9o8f2jjwxRiph2ht/what-futures-do-ai-models-want-an-exploratory-character",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-15T21:47:30.000Z",
-     "points": null,
-     "summary": "(This is cross-posted from my blog ) Epistemic Status: Evaluation represents approximately 2 weeks of work. This is mostly exploratory evaluation, and the code for evaluation…"
-    }
-   ]
-  },
-  {
-   "id": "safety-where-adults-safety",
-   "title": "Where are the adults in AI safety?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 47.4144357191571,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-15T20:10:44.000Z",
-   "latestAt": "2026-11-15T20:10:44.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Where are the adults in AI safety?",
-     "link": "https://www.lesswrong.com/posts/iymi7FSdnbRAAn8To/where-are-the-adults-in-ai-safety",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-15T20:10:44.000Z",
-     "points": null,
-     "summary": "The following is based on a true story (not mine). Let’s say you’ve been bombarded with enough AI doom that you decide to do something about…"
-    }
-   ]
-  },
-  {
-   "id": "safety-alignment-train-test-splits",
-   "title": "Alignment 'train/test splits' should be sacred",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 41.819838125475734,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-15T18:22:03.000Z",
-   "latestAt": "2026-11-15T18:22:03.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Alignment 'train/test splits' should be sacred",
-     "link": "https://www.lesswrong.com/posts/FX2xcrsqBYonLfoge/alignment-train-test-splits-should-be-sacred",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-15T18:22:03.000Z",
-     "points": null,
-     "summary": "Tl;dr: Alignment techniques can be used for training alignment or for testing it, but they cannot be used for both! As we build out the set…"
-    }
-   ]
-  },
-  {
    "id": "understanding-positional-embeddings-modern",
    "title": "Understanding Positional Embeddings in Modern LLMs",
    "category": {
@@ -596,7 +681,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 40.84315807988221,
+   "rank": 24.115684896634917,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -624,7 +709,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 38.424078216105286,
+   "rank": 22.687348536832864,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -652,7 +737,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.85093264501699,
+   "rank": 21.168044675359372,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -686,7 +771,7 @@
      "kind": "org"
     }
    ],
-   "rank": 32.16788715114245,
+   "rank": 18.993404692414515,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -714,7 +799,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 31.406249850964,
+   "rank": 18.543698890999647,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -742,7 +827,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.566872287124774,
+   "rank": 15.686307104665772,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -770,7 +855,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.472750890033417,
+   "rank": 13.26894894279881,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -798,7 +883,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.057699786032796,
+   "rank": 11.842991348642146,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -832,7 +917,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 18.89285707950283,
+   "rank": 11.155214472772775,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -866,7 +951,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 18.25460015974666,
+   "rank": 10.778358140316,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -900,7 +985,7 @@
      "kind": "org"
     }
    ],
-   "rank": 16.88261550797932,
+   "rank": 9.968275103144164,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -928,7 +1013,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.485858803616335,
+   "rank": 7.372227093286385,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -956,7 +1041,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.65854604523438,
+   "rank": 6.293297334658206,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -984,7 +1069,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.802512402202735,
+   "rank": 4.606963304002904,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1012,7 +1097,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.792481566862585,
+   "rank": 4.010594499384301,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1040,7 +1125,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.5592085874914012,
+   "rank": 2.1015209599969107,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1068,7 +1153,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 3.4789207576405197,
+   "rank": 2.054115321041873,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1096,7 +1181,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.4306290828198525,
+   "rank": 2.0256016882119066,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1130,7 +1215,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.1371432764426275,
+   "rank": 1.852314127676423,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1164,7 +1249,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.9841464582255917,
+   "rank": 1.7619777474412424,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1192,7 +1277,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.900056802175108,
+   "rank": 1.7123273348944548,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1231,7 +1316,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.8093242545960027,
+   "rank": 1.65875465270844,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1259,7 +1344,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.53638206167008,
+   "rank": 1.4975969893679988,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1297,7 +1382,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.4060321825884037,
+   "rank": 1.420632406852121,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1335,7 +1420,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.2639708959521907,
+   "rank": 1.336752868990994,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1363,7 +1448,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.2499269513607603,
+   "rank": 1.3284606761637328,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1395,7 +1480,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.24081272099373,
+   "rank": 1.3230792140550298,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1429,7 +1514,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.20755650923034,
+   "rank": 1.303443212299898,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1454,44 +1539,6 @@
    ]
   },
   {
-   "id": "openai-shield-helps-technicians-hand",
-   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.8345290828504435,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-13T08:00:00.000Z",
-   "latestAt": "2026-11-13T08:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/business/customer-stories/shield",
-    "title": "Shield helps technicians hand off legacy portal work with OpenAI"
-   },
-   "sources": [
-    {
-     "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-     "link": "https://openai.com/business/customer-stories/shield",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-13T08:00:00.000Z",
-     "points": null,
-     "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their…"
-    }
-   ]
-  },
-  {
    "id": "llama-llama-stronger-foundation-local",
    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
    "category": {
@@ -1505,7 +1552,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.8333942461914212,
+   "rank": 1.0825205496103338,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1537,7 +1584,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.8200003720325646,
+   "rank": 1.0746121883585313,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1571,7 +1618,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.5702505121537789,
+   "rank": 0.9271483484655486,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1599,7 +1646,7 @@
     "name": "Open Source"
    },
    "entities": [],
-   "rank": 1.5054430824238663,
+   "rank": 0.8888830519556487,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1627,7 +1674,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3556067685459225,
+   "rank": 0.8004127792973362,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1644,102 +1691,6 @@
      "date": "2026-11-13T11:45:00.000Z",
      "points": null,
      "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out."
-    }
-   ]
-  },
-  {
-   "id": "nvidia-china-smic-sees-computing",
-   "title": "China’s SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.8604482823445548,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-13T05:55:56.000Z",
-   "latestAt": "2026-11-13T05:55:56.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "China’s SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs",
-     "link": "https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-13T05:55:56.000Z",
-     "points": null,
-     "summary": "China’s Semiconductor Manufacturing International Corporation (SMIC) is betting that a relentless data centre buildout will keep artificial intelligence computing power in short supply for the next…"
-    }
-   ]
-  },
-  {
-   "id": "copilot-copilot-helps-engineers-design",
-   "title": "New AI “copilot” helps engineers design better structures",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "copilot",
-     "name": "Copilot",
-     "kind": "product"
-    }
-   ],
-   "rank": 0.8066071860649319,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-13T05:00:00.000Z",
-   "latestAt": "2026-11-13T05:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "New AI “copilot” helps engineers design better structures",
-     "link": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
-     "publisher": "MIT News AI",
-     "publisherDomain": "news.mit.edu",
-     "kind": "coverage",
-     "date": "2026-11-13T05:00:00.000Z",
-     "points": null,
-     "summary": "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges."
-    }
-   ]
-  },
-  {
-   "id": "helping-robots-into-human",
-   "title": "Helping robots fit into the human workplace",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8066071860649319,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-13T05:00:00.000Z",
-   "latestAt": "2026-11-13T05:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Helping robots fit into the human workplace",
-     "link": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
-     "publisher": "MIT News AI",
-     "publisherDomain": "news.mit.edu",
-     "kind": "coverage",
-     "date": "2026-11-13T05:00:00.000Z",
-     "points": null,
-     "summary": "Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses."
     }
    ]
   }
