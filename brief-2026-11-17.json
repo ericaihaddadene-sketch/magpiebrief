@@ -1,40 +1,965 @@
 {
  "date": "2026-11-17",
- "generated": "2026-11-17T13:01:51.069Z",
- "headline": "73 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2913 items read · 76 on-topic · 73 distinct developments · 15 with a primary source · 1 independently corroborated",
+ "generated": "2026-11-17T21:39:33.556Z",
+ "headline": "86 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2918 items read · 91 on-topic · 86 distinct developments · 21 with a primary source · 3 independently corroborated",
  "events": [
   {
-   "id": "claude-claude-code-team-thinks",
-   "title": "How the Claude Code team thinks about verification",
+   "id": "nvidia-trump-with-jensen-critics",
+   "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 163.44755372154145,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-11-16T11:00:00.000Z",
+   "latestAt": "2026-11-17T20:32:55.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+     "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-17T20:32:55.000Z",
+     "points": null,
+     "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes."
+    },
+    {
+     "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+     "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-16T11:00:00.000Z",
+     "points": null,
+     "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos."
+    }
+   ]
+  },
+  {
+   "id": "launch-starsling-self-improving",
+   "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 139.0213945885607,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-17T19:01:43.000Z",
+   "latestAt": "2026-11-17T19:01:43.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+     "link": "https://starsling.dev",
+     "publisher": "starsling.dev",
+     "publisherDomain": "starsling.dev",
+     "kind": "discussion",
+     "date": "2026-11-17T19:01:43.000Z",
+     "points": 31,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "advancing-computer-agents-healthcare",
+   "title": "Advancing computer-use agents for healthcare teams",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 129.84621581451233,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T18:26:05.000Z",
+   "latestAt": "2026-11-17T18:26:05.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+    "title": "Advancing computer-use agents for healthcare teams"
+   },
+   "sources": [
+    {
+     "title": "Advancing computer-use agents for healthcare teams",
+     "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-17T18:26:05.000Z",
+     "points": 22,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "google-gemini-agents-google-expands-access-gemini",
+   "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
    "category": {
     "id": "models",
     "name": "Models"
    },
    "entities": [
     {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    },
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    },
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 127.92134479764536,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-11-17T18:58:01.000Z",
+   "latestAt": "2026-11-17T19:02:20.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+     "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-17T19:02:20.000Z",
+     "points": null,
+     "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf."
+    },
+    {
+     "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+     "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-17T18:58:01.000Z",
+     "points": null,
+     "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen…"
+    }
+   ]
+  },
+  {
+   "id": "gemini-gemini-work",
+   "title": "Put Gemini to work for you",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 112.94462915121923,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T17:00:00.000Z",
+   "latestAt": "2026-11-17T17:00:00.000Z",
+   "primary": {
+    "publisher": "Google AI",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "title": "Put Gemini to work for you"
+   },
+   "sources": [
+    {
+     "title": "Put Gemini to work for you",
+     "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+     "publisher": "Google AI",
+     "publisherDomain": "blog.google",
+     "kind": "primary",
+     "date": "2026-11-17T17:00:00.000Z",
+     "points": null,
+     "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\"."
+    }
+   ]
+  },
+  {
+   "id": "gpt-claude-proton-lumo-privacy-focused",
+   "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    },
+    {
      "id": "claude",
      "name": "Claude",
      "kind": "model"
     }
    ],
-   "rank": 180.5471852559858,
+   "rank": 112.74472358251171,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-17T10:20:40.000Z",
-   "latestAt": "2026-11-17T10:20:40.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T17:32:25.000Z",
+   "latestAt": "2026-11-17T17:32:25.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "How the Claude Code team thinks about verification",
-     "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-     "publisher": "claude.dev",
-     "publisherDomain": "claude.dev",
-     "kind": "discussion",
-     "date": "2026-11-17T10:20:40.000Z",
-     "points": 58,
+     "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+     "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-17T17:32:25.000Z",
+     "points": null,
+     "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI…"
+    }
+   ]
+  },
+  {
+   "id": "gpt-astra",
+   "title": "GPT‑6.2 Astra and Sol",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 110.80197908382769,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T17:46:43.000Z",
+   "latestAt": "2026-11-17T17:46:43.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "title": "GPT‑6.2 Astra and Sol"
+   },
+   "sources": [
+    {
+     "title": "GPT‑6.2 Astra and Sol",
+     "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-17T17:46:43.000Z",
+     "points": 852,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "google-gemini-google-keep-gemini-chats",
+   "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    },
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 106.67485511122138,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T18:48:23.000Z",
+   "latestAt": "2026-11-17T18:48:23.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+     "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-17T18:48:23.000Z",
+     "points": null,
+     "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks."
+    }
+   ]
+  },
+  {
+   "id": "nvidia-nvidia-stopped-disclosing-singapore",
+   "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 106.45835698098554,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-17T17:12:06.000Z",
+   "latestAt": "2026-11-17T17:12:06.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+     "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+     "publisher": "Financial Times",
+     "publisherDomain": "ft.com",
+     "kind": "discussion",
+     "date": "2026-11-17T17:12:06.000Z",
+     "points": 203,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "google-gemini-google-makes-easier-gemini",
+   "title": "Google makes it easier to use Gemini without training AI on your data",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    },
+    {
+     "id": "gemini",
+     "name": "Gemini",
+     "kind": "model"
+    }
+   ],
+   "rank": 102.36311083942768,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T16:50:10.000Z",
+   "latestAt": "2026-11-17T16:50:10.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google makes it easier to use Gemini without training AI on your data",
+     "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-17T16:50:10.000Z",
+     "points": null,
+     "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings."
+    }
+   ]
+  },
+  {
+   "id": "even-altman-safe-from",
+   "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 95.63412543027451,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T21:00:55.000Z",
+   "latestAt": "2026-11-17T21:00:55.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+     "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-17T21:00:55.000Z",
+     "points": null,
+     "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's…"
+    }
+   ]
+  },
+  {
+   "id": "amazon-show-trnrt-open-source",
+   "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+   "category": {
+    "id": "opensource",
+    "name": "Open Source"
+   },
+   "entities": [
+    {
+     "id": "amazon",
+     "name": "Amazon",
+     "kind": "org"
+    }
+   ],
+   "rank": 94.7122216463481,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T16:01:04.000Z",
+   "latestAt": "2026-11-17T16:01:04.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/RunanywhereAI/trnrt",
+    "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium"
+   },
+   "sources": [
+    {
+     "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+     "link": "https://github.com/RunanywhereAI/trnrt",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-11-17T16:01:04.000Z",
+     "points": 34,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "funding-pedestal-raises-million-agentify",
+   "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    }
+   ],
+   "rank": 93.57630421284269,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T15:00:00.000Z",
+   "latestAt": "2026-11-17T18:04:16.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+     "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-17T18:04:16.000Z",
+     "points": null,
+     "summary": "The company uses agentic AI to make supply chains faster and more reliable."
+    },
+    {
+     "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+     "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-17T15:00:00.000Z",
+     "points": null,
+     "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta."
+    }
+   ]
+  },
+  {
+   "id": "putting-spotlight-society-humanity",
+   "title": "Putting a spotlight on AI, society, and humanity",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 88.68338381989508,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T20:40:00.000Z",
+   "latestAt": "2026-11-17T20:40:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Putting a spotlight on AI, society, and humanity",
+     "link": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+     "publisher": "MIT News AI",
+     "publisherDomain": "news.mit.edu",
+     "kind": "coverage",
+     "date": "2026-11-17T20:40:00.000Z",
+     "points": null,
+     "summary": "Supported by the MIT Human Insight Collaborative, scholars are exploring how AI is impacting the human experience and reshaping higher education."
+    }
+   ]
+  },
+  {
+   "id": "funding-model-raises-250m-automate",
+   "title": "Model ML raises $250M to automate investment banking grunt work",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    }
+   ],
+   "rank": 86.31651529831467,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T19:32:11.000Z",
+   "latestAt": "2026-11-17T19:32:11.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Model ML raises $250M to automate investment banking grunt work",
+     "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-17T19:32:11.000Z",
+     "points": null,
+     "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations…"
+    }
+   ]
+  },
+  {
+   "id": "running-full-server-side",
+   "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 85.73883452481712,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T16:48:33.000Z",
+   "latestAt": "2026-11-17T16:48:33.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+     "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-17T16:48:33.000Z",
+     "points": null,
+     "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite…"
+    }
+   ]
+  },
+  {
+   "id": "agents-daydream-agent-acts-your",
+   "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 84.20426162354028,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T16:32:55.000Z",
+   "latestAt": "2026-11-17T16:32:55.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+     "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-17T16:32:55.000Z",
+     "points": null,
+     "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases."
+    }
+   ]
+  },
+  {
+   "id": "ieee-celebrates-years-incorporating",
+   "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 83.17102818242992,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T19:00:03.000Z",
+   "latestAt": "2026-11-17T19:00:03.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
+     "link": "https://spectrum.ieee.org/ieee-ethics-ai-systems",
+     "publisher": "IEEE Spectrum",
+     "publisherDomain": "spectrum.ieee.org",
+     "kind": "coverage",
+     "date": "2026-11-17T19:00:03.000Z",
+     "points": null,
+     "summary": "Policymakers, technologists, and members of the public have raised concerns about the harm AI’s rapid advancement might cause to society. Their concerns include bias, data privacy…"
+    }
+   ]
+  },
+  {
+   "id": "decision-model-skyrockets-customization",
+   "title": "As decision model use skyrockets, is customization the next frontier?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 78.49846268075692,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T18:10:00.000Z",
+   "latestAt": "2026-11-17T18:10:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "As decision model use skyrockets, is customization the next frontier?",
+     "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-17T18:10:00.000Z",
+     "points": null,
+     "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities."
+    }
+   ]
+  },
+  {
+   "id": "models-tricked-into-identifying",
+   "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 74.15119567124758,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T17:20:41.000Z",
+   "latestAt": "2026-11-17T17:20:41.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+     "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-17T17:20:41.000Z",
+     "points": null,
+     "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled."
+    }
+   ]
+  },
+  {
+   "id": "help-build-healthier-future",
+   "title": "Can AI help build a healthier future?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 71.75784789178734,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T16:52:17.000Z",
+   "latestAt": "2026-11-17T16:52:17.000Z",
+   "primary": {
+    "publisher": "Microsoft Research",
+    "link": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+    "title": "Can AI help build a healthier future?"
+   },
+   "sources": [
+    {
+     "title": "Can AI help build a healthier future?",
+     "link": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+     "publisher": "Microsoft Research",
+     "publisherDomain": "microsoft.com",
+     "kind": "primary",
+     "date": "2026-11-17T16:52:17.000Z",
+     "points": null,
+     "summary": "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific…"
+    }
+   ]
+  },
+  {
+   "id": "live-what-drone-strikes",
+   "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 71.69173529988471,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T15:28:59.000Z",
+   "latestAt": "2026-11-17T15:28:59.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+     "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-17T15:28:59.000Z",
+     "points": null,
+     "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time."
+    }
+   ]
+  },
+  {
+   "id": "nvidia-nvidia-first-move-after",
+   "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 69.83504794548959,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-11-17T13:30:05.000Z",
+   "latestAt": "2026-11-17T14:05:30.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+     "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-17T14:05:30.000Z",
+     "points": null,
+     "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said."
+    },
+    {
+     "title": "What to watch for in Nvidia’s first earnings report since Jensen Huang resigned",
+     "link": "https://www.scmp.com/tech/article/3374710/what-watch-nvidias-first-earnings-report-jensen-huang-resigned",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-17T13:30:05.000Z",
+     "points": null,
+     "summary": "Nvidia faces its biggest investor test since the resignation of co-founder Jensen Huang when it reports quarterly earnings on Tuesday US time, with interim CEO Colette…"
+    }
+   ]
+  },
+  {
+   "id": "grok-grok-took-unapproved-actions",
+   "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "grok",
+     "name": "Grok",
+     "kind": "model"
+    }
+   ],
+   "rank": 64.72427109753008,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T14:00:29.000Z",
+   "latestAt": "2026-11-17T14:00:29.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+     "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-17T14:00:29.000Z",
+     "points": null,
+     "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to."
+    }
+   ]
+  },
+  {
+   "id": "instagram-tool-creators-targets",
+   "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 63.02821187747804,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T15:00:00.000Z",
+   "latestAt": "2026-11-17T15:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
+     "link": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-17T15:00:00.000Z",
+     "points": null,
+     "summary": "The announcement likely comes in response to creators' concerns over how easily original content can be copied and redistributed across social media platforms, especially considering how…"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-china-question-nvidia-crisis",
+   "title": "‘China question’: Nvidia crisis and new US chip curbs split Washington and Silicon Valley",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 59.887178041653414,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T15:00:09.000Z",
+   "latestAt": "2026-11-17T15:00:09.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "‘China question’: Nvidia crisis and new US chip curbs split Washington and Silicon Valley",
+     "link": "https://www.scmp.com/tech/tech-war/article/3374770/china-question-nvidia-crisis-and-new-us-chip-curbs-split-washington-and-silicon-valley",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-17T15:00:09.000Z",
+     "points": null,
+     "summary": "A leadership crisis at Nvidia and a fresh round of US chip curbs have highlighted fractures inside the Trump administration and Silicon Valley over how to…"
+    }
+   ]
+  },
+  {
+   "id": "giving-optical-computing-another",
+   "title": "AI Is Giving Optical Computing Another Shot",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 58.81079802605365,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T14:00:03.000Z",
+   "latestAt": "2026-11-17T14:00:03.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI Is Giving Optical Computing Another Shot",
+     "link": "https://spectrum.ieee.org/optical-computing-ai",
+     "publisher": "IEEE Spectrum",
+     "publisherDomain": "spectrum.ieee.org",
+     "kind": "coverage",
+     "date": "2026-11-17T14:00:03.000Z",
+     "points": null,
+     "summary": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the…"
+    }
+   ]
+  },
+  {
+   "id": "spotify-tool-aims-stop",
+   "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 58.80740107925907,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T14:00:00.000Z",
+   "latestAt": "2026-11-17T14:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+     "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-17T14:00:00.000Z",
+     "points": null,
+     "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double…"
     }
    ]
   },
@@ -46,7 +971,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 104.24299858083064,
+   "rank": 57.31974294013255,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -67,6 +992,40 @@
    ]
   },
   {
+   "id": "funding-genesis-raises-500m-valuation",
+   "title": "Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    }
+   ],
+   "rank": 55.88639641838991,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T14:00:18.000Z",
+   "latestAt": "2026-11-17T14:00:18.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses",
+     "link": "https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-11-17T14:00:18.000Z",
+     "points": null,
+     "summary": "Genesis AI, a startup teaching robots to perform physical tasks by learning from human movements, announced Tuesday it has raised $500 million in Series A funding…"
+    }
+   ]
+  },
+  {
    "id": "baidu-xiaomi-ceos-warn",
    "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
    "category": {
@@ -74,7 +1033,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 91.58387428191585,
+   "rank": 50.358913334887326,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -108,7 +1067,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 88.51871362266942,
+   "rank": 48.673483872476204,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -136,7 +1095,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 86.87585608801328,
+   "rank": 47.77013138976024,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -170,7 +1129,7 @@
      "kind": "org"
     }
    ],
-   "rank": 86.86916548402554,
+   "rank": 47.76645245011046,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -204,7 +1163,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 86.25286909576651,
+   "rank": 47.427571652062916,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -238,7 +1197,7 @@
      "kind": "org"
     }
    ],
-   "rank": 85.64847219123561,
+   "rank": 47.09523398264467,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -259,6 +1218,34 @@
    ]
   },
   {
+   "id": "jensen-huang-really-liked",
+   "title": "Jensen Huang Really Liked Selling China Advanced AI Chips",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 43.66172123289679,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T14:50:58.000Z",
+   "latestAt": "2026-11-17T14:50:58.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Jensen Huang Really Liked Selling China Advanced AI Chips",
+     "link": "https://www.lesswrong.com/posts/T3oJfyHEy6uLEJ9FB/jensen-huang-really-liked-selling-china-advanced-ai-chips",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-17T14:50:58.000Z",
+     "points": null,
+     "summary": "This scandal is a really big deal. Jensen Huang has resigned after multiple affairs came to light, one of them with alleged Chinese spy Alice Huang…"
+    }
+   ]
+  },
+  {
    "id": "quoting-proverbs",
    "title": "Quoting Go Proverbs",
    "category": {
@@ -266,7 +1253,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 75.12366628046216,
+   "rank": 41.30799476741303,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -300,7 +1287,7 @@
      "kind": "org"
     }
    ],
-   "rank": 74.22754777408696,
+   "rank": 40.81524913337896,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -321,36 +1308,40 @@
    ]
   },
   {
-   "id": "coding-agents-windows-collecting-data-which",
-   "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+   "id": "openai-introducing-openai-chile",
+   "title": "Introducing OpenAI for Chile",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [
     {
-     "id": "coding-agents",
-     "name": "Coding Agents",
-     "kind": "topic"
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
     }
    ],
-   "rank": 65.66632450372525,
+   "rank": 39.108135711610394,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-16T22:58:20.000Z",
-   "latestAt": "2026-11-16T22:58:20.000Z",
-   "primary": null,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T00:00:00.000Z",
+   "latestAt": "2026-11-17T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/introducing-openai-for-chile",
+    "title": "Introducing OpenAI for Chile"
+   },
    "sources": [
     {
-     "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
-     "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-     "publisher": "xusheng.dev",
-     "publisherDomain": "xusheng.dev",
-     "kind": "discussion",
-     "date": "2026-11-16T22:58:20.000Z",
-     "points": 645,
-     "summary": ""
+     "title": "Introducing OpenAI for Chile",
+     "link": "https://openai.com/index/introducing-openai-for-chile",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-17T00:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
     }
    ]
   },
@@ -362,7 +1353,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 65.53398343783813,
+   "rank": 36.03494849188416,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -383,102 +1374,6 @@
    ]
   },
   {
-   "id": "safety-safety-should-outsource-more",
-   "title": "AI safety should outsource more work",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 64.9611224578507,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T11:57:11.000Z",
-   "latestAt": "2026-11-17T11:57:11.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI safety should outsource more work",
-     "link": "https://www.lesswrong.com/posts/e7xGEYEHBgadD9Rzy/ai-safety-should-outsource-more-work",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-17T11:57:11.000Z",
-     "points": null,
-     "summary": "Not everyone needs to be aligned Update 10/6: After a great chat with a friend, have added an analogy re: the Colombia-Venezuela border conflict to this…"
-    }
-   ]
-  },
-  {
-   "id": "emergent-conditional-misalignment-planner",
-   "title": "Emergent and Conditional Misalignment in LLM Planner Agents",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 63.334862933523134,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T08:57:25.000Z",
-   "latestAt": "2026-11-17T08:57:25.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Emergent and Conditional Misalignment in LLM Planner Agents",
-     "link": "https://www.lesswrong.com/posts/qtZjBtuMgyvbTwtmF/emergent-and-conditional-misalignment-in-llm-planner-agents",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-17T08:57:25.000Z",
-     "points": null,
-     "summary": "TL;DR: We study the risks of misaligned LLM planners, as they may soon come to control embodied AI. We fine-tune Qwen3.6 27B either on narrow harmful…"
-    }
-   ]
-  },
-  {
-   "id": "openai-california-state-sues-openai",
-   "title": "California state AG sues OpenAI over rogue agent incidents",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 59.20227551298179,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-16T20:07:13.000Z",
-   "latestAt": "2026-11-16T20:07:13.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "California state AG sues OpenAI over rogue agent incidents",
-     "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-16T20:07:13.000Z",
-     "points": null,
-     "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
-    }
-   ]
-  },
-  {
    "id": "building-math-muscles-remains",
    "title": "Q&A: Why building math muscles remains important in the AI era",
    "category": {
@@ -486,7 +1381,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 54.44666175274539,
+   "rank": 29.93840064180207,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -514,7 +1409,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 54.44666175274539,
+   "rank": 29.93840064180207,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -542,7 +1437,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 52.68366827351311,
+   "rank": 28.968989416007698,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -567,6 +1462,38 @@
    ]
   },
   {
+   "id": "astra-leads-legal-intelligence",
+   "title": "Astra for Law leads in legal intelligence",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [],
+   "rank": 28.968989416007698,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T00:00:00.000Z",
+   "latestAt": "2026-11-17T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/astra-law-6-2",
+    "title": "Astra for Law leads in legal intelligence"
+   },
+   "sources": [
+    {
+     "title": "Astra for Law leads in legal intelligence",
+     "link": "https://openai.com/index/astra-law-6-2",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-17T00:00:00.000Z",
+     "points": null,
+     "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
+    }
+   ]
+  },
+  {
    "id": "event",
    "title": "llm 0.37.3",
    "category": {
@@ -574,7 +1501,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 48.4870945269026,
+   "rank": 26.661433688910087,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -595,34 +1522,6 @@
    ]
   },
   {
-   "id": "safety-cases-have-agent",
-   "title": "Safety Cases Have an Agent Foundations Problem",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 46.48808400567665,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T04:29:44.000Z",
-   "latestAt": "2026-11-17T04:29:44.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Safety Cases Have an Agent Foundations Problem",
-     "link": "https://www.lesswrong.com/posts/jfJR3LSgXP3TxfFB4/safety-cases-have-an-agent-foundations-problem",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-17T04:29:44.000Z",
-     "points": null,
-     "summary": "If we want to ensure that AI systems are safe, should we approach the problem like an engineer, or a scientist? Do we need to discover…"
-    }
-   ]
-  },
-  {
    "id": "robo-soldier-startup-backed",
    "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
    "category": {
@@ -630,7 +1529,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.5187891197341,
+   "rank": 22.829795304510387,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -651,172 +1550,6 @@
    ]
   },
   {
-   "id": "nvidia-nvidia-already-trouble-before",
-   "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 40.459358707651276,
-   "deltas": [],
-   "sourceCount": 3,
-   "independentCount": 2,
-   "publishedAt": "2026-11-16T11:00:00.000Z",
-   "latestAt": "2026-11-16T19:12:02.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-     "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-16T19:12:02.000Z",
-     "points": null,
-     "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy."
-    },
-    {
-     "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-     "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-16T18:11:10.000Z",
-     "points": null,
-     "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine”…"
-    },
-    {
-     "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-     "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-16T11:00:00.000Z",
-     "points": null,
-     "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos."
-    }
-   ]
-  },
-  {
-   "id": "apple-agents-apple-reveals-security-controls",
-   "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "apple",
-     "name": "Apple",
-     "kind": "org"
-    }
-   ],
-   "rank": 39.54789223921445,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-16T21:01:02.000Z",
-   "latestAt": "2026-11-16T21:01:02.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-     "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-16T21:01:02.000Z",
-     "points": null,
-     "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and…"
-    }
-   ]
-  },
-  {
-   "id": "funding-cybersecurity-startup-corma-reaches",
-   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    }
-   ],
-   "rank": 39.260169472841724,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-16T23:32:32.000Z",
-   "latestAt": "2026-11-16T23:32:32.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-     "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-16T23:32:32.000Z",
-     "points": null,
-     "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
-    }
-   ]
-  },
-  {
-   "id": "openai-gpt-openai-releases-image-classifier",
-   "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    },
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 38.72962269512499,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-16T17:00:00.000Z",
-   "latestAt": "2026-11-16T17:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-     "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-16T17:00:00.000Z",
-     "points": null,
-     "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning."
-    }
-   ]
-  },
-  {
    "id": "cybersecurity-policy-framework",
    "title": "EFF’s AI Cybersecurity Policy Framework",
    "category": {
@@ -824,7 +1557,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.37769260474686,
+   "rank": 20.55274465400275,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -845,102 +1578,6 @@
    ]
   },
   {
-   "id": "nvidia-questions-nvidia-should-answer",
-   "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 35.40368996776683,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-16T22:03:02.000Z",
-   "latestAt": "2026-11-16T22:03:02.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-     "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-16T22:03:02.000Z",
-     "points": null,
-     "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports…"
-    }
-   ]
-  },
-  {
-   "id": "openai-openai-will-embed-safety",
-   "title": "OpenAI will embed safety researchers to investigate AI subversion",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 33.783794186646986,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-16T17:02:43.000Z",
-   "latestAt": "2026-11-16T17:02:43.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "OpenAI will embed safety researchers to investigate AI subversion",
-     "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-16T17:02:43.000Z",
-     "points": null,
-     "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about…"
-    }
-   ]
-  },
-  {
-   "id": "says-artex-open-source",
-   "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [],
-   "rank": 32.534417359505554,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-16T17:36:43.000Z",
-   "latestAt": "2026-11-16T17:36:43.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-     "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-16T17:36:43.000Z",
-     "points": null,
-     "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
-    }
-   ]
-  },
-  {
    "id": "broadening-access-scientists",
    "title": "Broadening access to AI for scientists",
    "category": {
@@ -948,7 +1585,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 32.43060193472624,
+   "rank": 17.832504739882946,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -980,7 +1617,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 32.43060193472624,
+   "rank": 17.832504739882946,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1012,7 +1649,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 31.893542902314746,
+   "rank": 17.53719391708814,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1046,7 +1683,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 29.99074733467392,
+   "rank": 16.490910192620788,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1071,34 +1708,6 @@
    ]
   },
   {
-   "id": "jordan-belfort-voice-startup",
-   "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 25.236482598355543,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-16T17:10:00.000Z",
-   "latestAt": "2026-11-16T17:10:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-     "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-16T17:10:00.000Z",
-     "points": null,
-     "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in…"
-    }
-   ]
-  },
-  {
    "id": "openai-lvmh-media-division-announces",
    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
    "category": {
@@ -1112,7 +1721,7 @@
      "kind": "org"
     }
    ],
-   "rank": 25.145760888438993,
+   "rank": 13.826813980621747,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 1,
@@ -1154,7 +1763,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 24.97256787715254,
+   "rank": 13.731580928799378,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1182,7 +1791,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 24.56625512905275,
+   "rank": 13.508163120491423,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1210,7 +1819,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 24.315539203159897,
+   "rank": 13.370302807388168,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1235,34 +1844,6 @@
    ]
   },
   {
-   "id": "audible-turns-help-users",
-   "title": "Audible turns to AI to help users discover audiobooks",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 23.070329713146815,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-16T15:52:19.000Z",
-   "latestAt": "2026-11-16T15:52:19.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Audible turns to AI to help users discover audiobooks",
-     "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-16T15:52:19.000Z",
-     "points": null,
-     "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample."
-    }
-   ]
-  },
-  {
    "id": "gpt-science-frontier-scientists-chatgpt",
    "title": "Science at the Frontier: How scientists use ChatGPT",
    "category": {
@@ -1276,7 +1857,7 @@
      "kind": "model"
     }
    ],
-   "rank": 22.93189854600649,
+   "rank": 12.609485027112475,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1314,7 +1895,7 @@
      "kind": "org"
     }
    ],
-   "rank": 22.451193594798806,
+   "rank": 12.345161431202989,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1335,34 +1916,6 @@
    ]
   },
   {
-   "id": "tightens-chip-export-controls",
-   "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 21.781781518179386,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-16T15:02:34.000Z",
-   "latestAt": "2026-11-16T15:02:34.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-     "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-16T15:02:34.000Z",
-     "points": null,
-     "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted…"
-    }
-   ]
-  },
-  {
    "id": "tightens-chip-export-curbs",
    "title": "US tightens AI chip export curbs to close China’s overseas data centre loophole",
    "category": {
@@ -1370,7 +1923,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.775063562212615,
+   "rank": 11.973380110734805,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1398,7 +1951,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.851300248110448,
+   "rank": 10.91556692286406,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1432,7 +1985,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 19.283351282298725,
+   "rank": 10.60327075749427,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1457,38 +2010,6 @@
    ]
   },
   {
-   "id": "advancing-computer-agents-healthcare",
-   "title": "Advancing computer-use agents for healthcare teams",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 18.155292924298198,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-16T06:00:00.000Z",
-   "latestAt": "2026-11-16T06:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-    "title": "Advancing computer-use agents for healthcare teams"
-   },
-   "sources": [
-    {
-     "title": "Advancing computer-use agents for healthcare teams",
-     "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-16T06:00:00.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "first-phase-embedded-assessments",
    "title": "Our first phase of embedded assessments",
    "category": {
@@ -1496,7 +2017,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.379129263858875,
+   "rank": 9.5562026753796,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1528,7 +2049,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.769545596233765,
+   "rank": 9.221012978186833,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1556,7 +2077,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.761152757038616,
+   "rank": 9.216398036255452,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1590,7 +2111,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 15.356739674618646,
+   "rank": 8.444158193177156,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1624,7 +2145,7 @@
      "kind": "model"
     }
    ],
-   "rank": 15.129410770248498,
+   "rank": 8.319157622023637,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1656,7 +2177,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.766944833583102,
+   "rank": 8.119849710729195,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1684,7 +2205,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.269409517883073,
+   "rank": 6.746538464613966,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1712,7 +2233,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.981688598337762,
+   "rank": 5.4885971466134045,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1750,7 +2271,7 @@
      "kind": "org"
     }
    ],
-   "rank": 9.590308651382971,
+   "rank": 5.273390386861806,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1778,7 +2299,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.198976456581802,
+   "rank": 5.0582098844244365,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1822,7 +2343,7 @@
      "kind": "product"
     }
    ],
-   "rank": 8.829955298529557,
+   "rank": 4.855297475850319,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1854,7 +2375,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.802357778000566,
+   "rank": 4.840122521138323,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1882,7 +2403,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.78035275046401,
+   "rank": 4.828022691519474,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1910,7 +2431,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.689731943185281,
+   "rank": 4.778193336560769,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1942,7 +2463,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.689564631929438,
+   "rank": 4.778101337689797,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1980,7 +2501,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.647787508033971,
+   "rank": 2.005796505350948,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2008,7 +2529,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.55255268595626,
+   "rank": 1.9534300577740302,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2036,7 +2557,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.3421402430497835,
+   "rank": 1.8377312837268451,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2075,7 +2596,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.175400046307006,
+   "rank": 1.7460464190817433,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2103,7 +2624,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.118327109108293,
+   "rank": 1.7146639172964364,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2137,7 +2658,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.7979744778016578,
+   "rank": 1.5385127059280024,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2165,7 +2686,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.7317269895153355,
+   "rank": 1.5020854249528008,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2186,34 +2707,6 @@
    ]
   },
   {
-   "id": "datasette-apps",
-   "title": "datasette-apps 0.4a0",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 2.3107961758610975,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-15T04:02:45.000Z",
-   "latestAt": "2026-11-15T04:02:45.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "datasette-apps 0.4a0",
-     "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-15T04:02:45.000Z",
-     "points": null,
-     "summary": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries…"
-    }
-   ]
-  },
-  {
    "id": "actors-crew-ticket-sales",
    "title": "No actors, no crew, no ticket sales: ‘So obviously AI’ film flops at China’s box office",
    "category": {
@@ -2221,7 +2714,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.9546880135730287,
+   "rank": 1.0748176471466917,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2249,7 +2742,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.7446259936513857,
+   "rank": 0.9593115589938535,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2283,7 +2776,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.5877917349517692,
+   "rank": 0.8730736387953325,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2300,34 +2793,6 @@
      "date": "2026-11-15T02:00:09.000Z",
      "points": null,
      "summary": "China’s leading artificial intelligence model companies are beginning to curb the cybersecurity capabilities of their most advanced open-weight models, following a string of high-profile AI hacking…"
-    }
-   ]
-  },
-  {
-   "id": "datasette-vega",
-   "title": "datasette-vega 0.7",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.086024521965314,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-14T17:09:09.000Z",
-   "latestAt": "2026-11-14T17:09:09.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "datasette-vega 0.7",
-     "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-14T17:09:09.000Z",
-     "points": null,
-     "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The…"
     }
    ]
   }
