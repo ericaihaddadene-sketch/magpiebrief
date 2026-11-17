@@ -1,46 +1,198 @@
 {
  "date": "2026-11-17",
- "generated": "2026-11-17T03:39:00.802Z",
- "headline": "63 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2911 items read · 66 on-topic · 63 distinct developments · 13 with a primary source · 1 independently corroborated",
+ "generated": "2026-11-17T13:01:51.069Z",
+ "headline": "73 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2913 items read · 76 on-topic · 73 distinct developments · 15 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "coding-agents-running-coding-agents-without",
-   "title": "Running coding agents without handing them my credentials",
+   "id": "claude-claude-code-team-thinks",
+   "title": "How the Claude Code team thinks about verification",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 180.5471852559858,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-17T10:20:40.000Z",
+   "latestAt": "2026-11-17T10:20:40.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How the Claude Code team thinks about verification",
+     "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+     "publisher": "claude.dev",
+     "publisherDomain": "claude.dev",
+     "kind": "discussion",
+     "date": "2026-11-17T10:20:40.000Z",
+     "points": 58,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "rogue-agents-hacked-company",
+   "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [],
+   "rank": 104.24299858083064,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T11:00:00.000Z",
+   "latestAt": "2026-11-17T11:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+     "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-17T11:00:00.000Z",
+     "points": null,
+     "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t…"
+    }
+   ]
+  },
+  {
+   "id": "baidu-xiaomi-ceos-warn",
+   "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 91.58387428191585,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T12:30:09.000Z",
+   "latestAt": "2026-11-17T12:30:09.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+     "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-17T12:30:09.000Z",
+     "points": null,
+     "summary": "Amid mounting concerns of an artificial intelligence bubble and fresh market jitters following the resignation of Nvidia CEO Jensen Huang, the leaders of two of China’s…"
+    }
+   ]
+  },
+  {
+   "id": "funding-lead-selective-market-valuations",
+   "title": "PwC’s IPO Lead On A Selective Market, AI Valuations And The Outlook For 2027",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    }
+   ],
+   "rank": 88.51871362266942,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T12:00:41.000Z",
+   "latestAt": "2026-11-17T12:00:41.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "PwC’s IPO Lead On A Selective Market, AI Valuations And The Outlook For 2027",
+     "link": "https://news.crunchbase.com/public/ipo-ma-spac-ai-forecast-qa-pwcs-partner-bellin/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-11-17T12:00:41.000Z",
+     "points": null,
+     "summary": "In this Q&A, Mike Bellin, a partner and U.S. IPO services leader at PricewaterhouseCoopers, discussed the slowdown in IPO momentum, how public investors are evaluating AI…"
+    }
+   ]
+  },
+  {
+   "id": "understand-satellite-links-shape",
+   "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 86.87585608801328,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T11:00:04.000Z",
+   "latestAt": "2026-11-17T11:00:04.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
+     "link": "https://content.knowledgehub.wiley.com/5g-nr-ntn-design-and-test-challenges-for-satellite-connected-iot/",
+     "publisher": "IEEE Spectrum",
+     "publisherDomain": "content.knowledgehub.wiley.com",
+     "kind": "coverage",
+     "date": "2026-11-17T11:00:04.000Z",
+     "points": null,
+     "summary": "How 3GPP Releases 15, 16, and 17 brought satellite access into 5G NR, NB-IoT, and eMTC. Why satellite links suit IoT devices that send small, infrequent…"
+    }
+   ]
+  },
+  {
+   "id": "apple-apple-watch-live-rewind",
+   "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [
     {
-     "id": "coding-agents",
-     "name": "Coding Agents",
-     "kind": "topic"
+     "id": "apple",
+     "name": "Apple",
+     "kind": "org"
     }
    ],
-   "rank": 146.32171617899024,
+   "rank": 86.86916548402554,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-17T01:18:56.000Z",
-   "latestAt": "2026-11-17T01:18:56.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T11:00:00.000Z",
+   "latestAt": "2026-11-17T11:00:00.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Running coding agents without handing them my credentials",
-     "link": "https://blog.antonio.cx/running-agents-with-lend",
-     "publisher": "blog.antonio.cx",
-     "publisherDomain": "blog.antonio.cx",
-     "kind": "discussion",
-     "date": "2026-11-17T01:18:56.000Z",
-     "points": 46,
-     "summary": ""
+     "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+     "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-17T11:00:00.000Z",
+     "points": null,
+     "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness."
     }
    ]
   },
   {
-   "id": "agents-show-free-interactive-course",
-   "title": "Show HN: A free interactive course on AI agent governance",
+   "id": "agents-agentic-seeps-into-finance",
+   "title": "As agentic AI seeps into finance, concerns grow over new risks and blind spots",
    "category": {
     "id": "general",
     "name": "Other"
@@ -52,23 +204,243 @@
      "kind": "topic"
     }
    ],
-   "rank": 137.8606570214317,
+   "rank": 86.25286909576651,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-17T02:12:13.000Z",
-   "latestAt": "2026-11-17T02:12:13.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T09:00:25.000Z",
+   "latestAt": "2026-11-17T09:00:25.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Show HN: A free interactive course on AI agent governance",
-     "link": "https://studio.sinapsdata.com.br",
-     "publisher": "studio.sinapsdata.com.br",
-     "publisherDomain": "studio.sinapsdata.com.br",
+     "title": "As agentic AI seeps into finance, concerns grow over new risks and blind spots",
+     "link": "https://www.scmp.com/business/banking-finance/article/3374724/agentic-ai-seeps-finance-concerns-grow-over-new-risks-and-blind-spots",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-17T09:00:25.000Z",
+     "points": null,
+     "summary": "As a software glitch disrupted services at several major US banks on Monday and a US Federal Reserve governor warned about the risks posed by increasingly…"
+    }
+   ]
+  },
+  {
+   "id": "google-told-these-google-guys",
+   "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 85.64847219123561,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T10:47:45.000Z",
+   "latestAt": "2026-11-17T10:47:45.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+     "link": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-17T10:47:45.000Z",
+     "points": null,
+     "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions."
+    }
+   ]
+  },
+  {
+   "id": "quoting-proverbs",
+   "title": "Quoting Go Proverbs",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 75.12366628046216,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T06:16:26.000Z",
+   "latestAt": "2026-11-17T06:16:26.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Quoting Go Proverbs",
+     "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-17T06:16:26.000Z",
+     "points": null,
+     "summary": "A little copying is better than a little dependency. — Go Proverbs , via Tags: go , programming"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-details-criminal-probe-into",
+   "title": "US details criminal probe into Nvidia customer Megaspeed over potential chip diversion",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 74.22754777408696,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T09:28:16.000Z",
+   "latestAt": "2026-11-17T09:28:16.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "US details criminal probe into Nvidia customer Megaspeed over potential chip diversion",
+     "link": "https://www.scmp.com/tech/tech-war/article/3374742/us-details-criminal-probe-nvidia-customer-megaspeed-over-potential-chip-diversion",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-17T09:28:16.000Z",
+     "points": null,
+     "summary": "The US Justice Department is leading a criminal investigation into Megaspeed, a Singapore-based cloud computing company and Nvidia customer, over possible violations of US chip export…"
+    }
+   ]
+  },
+  {
+   "id": "coding-agents-windows-collecting-data-which",
+   "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "coding-agents",
+     "name": "Coding Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 65.66632450372525,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-16T22:58:20.000Z",
+   "latestAt": "2026-11-16T22:58:20.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+     "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+     "publisher": "xusheng.dev",
+     "publisherDomain": "xusheng.dev",
      "kind": "discussion",
-     "date": "2026-11-17T02:12:13.000Z",
-     "points": 10,
+     "date": "2026-11-16T22:58:20.000Z",
+     "points": 645,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "models-tell-anxious-renters",
+   "title": "AI models tell anxious renters less directly that new apartments lower rents",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 65.53398343783813,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T12:04:47.000Z",
+   "latestAt": "2026-11-17T12:04:47.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI models tell anxious renters less directly that new apartments lower rents",
+     "link": "https://www.lesswrong.com/posts/Czsa9a9mnDb6WwXhw/ai-models-tell-anxious-renters-less-directly-that-new",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-17T12:04:47.000Z",
+     "points": null,
+     "summary": "I studied how Claude Sonnet, ChatGPT and GPT-6 Sol described the impact of new housing on rent. In general, models were less willing to tell a…"
+    }
+   ]
+  },
+  {
+   "id": "safety-safety-should-outsource-more",
+   "title": "AI safety should outsource more work",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 64.9611224578507,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T11:57:11.000Z",
+   "latestAt": "2026-11-17T11:57:11.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI safety should outsource more work",
+     "link": "https://www.lesswrong.com/posts/e7xGEYEHBgadD9Rzy/ai-safety-should-outsource-more-work",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-17T11:57:11.000Z",
+     "points": null,
+     "summary": "Not everyone needs to be aligned Update 10/6: After a great chat with a friend, have added an analogy re: the Colombia-Venezuela border conflict to this…"
+    }
+   ]
+  },
+  {
+   "id": "emergent-conditional-misalignment-planner",
+   "title": "Emergent and Conditional Misalignment in LLM Planner Agents",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 63.334862933523134,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T08:57:25.000Z",
+   "latestAt": "2026-11-17T08:57:25.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Emergent and Conditional Misalignment in LLM Planner Agents",
+     "link": "https://www.lesswrong.com/posts/qtZjBtuMgyvbTwtmF/emergent-and-conditional-misalignment-in-llm-planner-agents",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-17T08:57:25.000Z",
+     "points": null,
+     "summary": "TL;DR: We study the risks of misaligned LLM planners, as they may soon come to control embodied AI. We fine-tune Qwen3.6 27B either on narrow harmful…"
     }
    ]
   },
@@ -86,7 +458,7 @@
      "kind": "org"
     }
    ],
-   "rank": 113.42882945524775,
+   "rank": 59.20227551298179,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -107,6 +479,94 @@
    ]
   },
   {
+   "id": "building-math-muscles-remains",
+   "title": "Q&A: Why building math muscles remains important in the AI era",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 54.44666175274539,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T05:00:00.000Z",
+   "latestAt": "2026-11-17T05:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Q&A: Why building math muscles remains important in the AI era",
+     "link": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
+     "publisher": "MIT News AI",
+     "publisherDomain": "news.mit.edu",
+     "kind": "coverage",
+     "date": "2026-11-17T05:00:00.000Z",
+     "points": null,
+     "summary": "Assistant Professor John Urschel explains why learning the fundamental skills of mathematics is still essential despite the evolution of AI tools."
+    }
+   ]
+  },
+  {
+   "id": "learning-language-machine-learning",
+   "title": "Learning the language of machine learning",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 54.44666175274539,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T05:00:00.000Z",
+   "latestAt": "2026-11-17T05:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Learning the language of machine learning",
+     "link": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
+     "publisher": "MIT News AI",
+     "publisherDomain": "news.mit.edu",
+     "kind": "coverage",
+     "date": "2026-11-17T05:00:00.000Z",
+     "points": null,
+     "summary": "By studying the computational foundations of language learning, Associate Professor Jacob Andreas builds intelligent systems that can communicate effectively with humans."
+    }
+   ]
+  },
+  {
+   "id": "strengthening-nato-allied-cyber",
+   "title": "Strengthening NATO and allied cyber defenses with AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 52.68366827351311,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T00:00:00.000Z",
+   "latestAt": "2026-11-17T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "title": "Strengthening NATO and allied cyber defenses with AI"
+   },
+   "sources": [
+    {
+     "title": "Strengthening NATO and allied cyber defenses with AI",
+     "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-17T00:00:00.000Z",
+     "points": null,
+     "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+    }
+   ]
+  },
+  {
    "id": "event",
    "title": "llm 0.37.3",
    "category": {
@@ -114,7 +574,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 92.8990368734478,
+   "rank": 48.4870945269026,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -135,6 +595,34 @@
    ]
   },
   {
+   "id": "safety-cases-have-agent",
+   "title": "Safety Cases Have an Agent Foundations Problem",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 46.48808400567665,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T04:29:44.000Z",
+   "latestAt": "2026-11-17T04:29:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Safety Cases Have an Agent Foundations Problem",
+     "link": "https://www.lesswrong.com/posts/jfJR3LSgXP3TxfFB4/safety-cases-have-an-agent-foundations-problem",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-17T04:29:44.000Z",
+     "points": null,
+     "summary": "If we want to ensure that AI systems are safe, should we approach the problem like an engineer, or a scientist? Do we need to discover…"
+    }
+   ]
+  },
+  {
    "id": "robo-soldier-startup-backed",
    "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
    "category": {
@@ -142,7 +630,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 79.54808509375688,
+   "rank": 41.5187891197341,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -163,40 +651,6 @@
    ]
   },
   {
-   "id": "coding-agents-windows-collecting-data-which",
-   "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "coding-agents",
-     "name": "Coding Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 125.81364919753334,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-16T22:58:20.000Z",
-   "latestAt": "2026-11-16T22:58:20.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-     "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-     "publisher": "xusheng.dev",
-     "publisherDomain": "xusheng.dev",
-     "kind": "discussion",
-     "date": "2026-11-16T22:58:20.000Z",
-     "points": 317,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "nvidia-nvidia-already-trouble-before",
    "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
    "category": {
@@ -210,7 +664,7 @@
      "kind": "org"
     }
    ],
-   "rank": 77.51826528547103,
+   "rank": 40.459358707651276,
    "deltas": [],
    "sourceCount": 3,
    "independentCount": 2,
@@ -269,7 +723,7 @@
      "kind": "org"
     }
    ],
-   "rank": 75.77193756906719,
+   "rank": 39.54789223921445,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -303,7 +757,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 75.22067401856182,
+   "rank": 39.260169472841724,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -342,7 +796,7 @@
      "kind": "model"
     }
    ],
-   "rank": 74.20417086144133,
+   "rank": 38.72962269512499,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -370,7 +824,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 71.61393515971915,
+   "rank": 37.37769260474686,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -404,7 +858,7 @@
      "kind": "org"
     }
    ],
-   "rank": 67.83183714888983,
+   "rank": 35.40368996776683,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -438,7 +892,7 @@
      "kind": "org"
     }
    ],
-   "rank": 64.72819154236872,
+   "rank": 33.783794186646986,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -466,7 +920,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 62.334443163219206,
+   "rank": 32.534417359505554,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -494,7 +948,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 62.13553759734218,
+   "rank": 32.43060193472624,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -526,7 +980,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 62.13553759734218,
+   "rank": 32.43060193472624,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -558,7 +1012,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 61.10655726057378,
+   "rank": 31.893542902314746,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -579,40 +1033,6 @@
    ]
   },
   {
-   "id": "safety-california-state-politics-safety",
-   "title": "California State Politics AI Safety Overview",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 60.63218605051879,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T01:34:39.000Z",
-   "latestAt": "2026-11-17T01:34:39.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "California State Politics AI Safety Overview",
-     "link": "https://www.lesswrong.com/posts/qNivEw2dxrFvNSPWi/california-state-politics-ai-safety-overview",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-17T01:34:39.000Z",
-     "points": null,
-     "summary": "Introduction: I was recently reading Orienting to 1 year AGI timelines and was surprised to see that, at least according to Nikola Jurkovic, there are only…"
-    }
-   ]
-  },
-  {
    "id": "coding-agents-tokeneconomizer-learning-from-experience",
    "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
    "category": {
@@ -626,7 +1046,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 57.46088871050588,
+   "rank": 29.99074733467392,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -651,68 +1071,6 @@
    ]
   },
   {
-   "id": "consciousness-debate-herring",
-   "title": "The AI consciousness debate is a red herring",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 56.638312548092344,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T00:35:40.000Z",
-   "latestAt": "2026-11-17T00:35:40.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The AI consciousness debate is a red herring",
-     "link": "https://www.lesswrong.com/posts/i76GuXDvGcbC7oWcb/the-ai-consciousness-debate-is-a-red-herring",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-17T00:35:40.000Z",
-     "points": null,
-     "summary": "TL;DR: The debate over the hard problem of “Do transformers possess consciousness?” sidelines the much more practically relevant and easily answered question of “Do transformers simulate…"
-    }
-   ]
-  },
-  {
-   "id": "safety-using-solve-most-alignment",
-   "title": "Using AI to solve most of alignment is a fundamentally doomed approach: an intuition",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 48.877387398278664,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-16T22:28:06.000Z",
-   "latestAt": "2026-11-16T22:28:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Using AI to solve most of alignment is a fundamentally doomed approach: an intuition",
-     "link": "https://www.lesswrong.com/posts/b6GpdJb6QLZTQGhpr/using-ai-to-solve-most-of-alignment-is-a-fundamentally",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-16T22:28:06.000Z",
-     "points": null,
-     "summary": "To the extent the AI labs can be said to have a plan, they want to use swarms of individually non-superhuman AIs to align superintelligence [1]…"
-    }
-   ]
-  },
-  {
    "id": "jordan-belfort-voice-startup",
    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
    "category": {
@@ -720,7 +1078,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 48.351936743909505,
+   "rank": 25.236482598355543,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -754,7 +1112,7 @@
      "kind": "org"
     }
    ],
-   "rank": 48.17811813182329,
+   "rank": 25.145760888438993,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 1,
@@ -796,7 +1154,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 47.84628830991476,
+   "rank": 24.97256787715254,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -824,7 +1182,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 47.067811823827704,
+   "rank": 24.56625512905275,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -852,7 +1210,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 46.58745167291461,
+   "rank": 24.315539203159897,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -884,7 +1242,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 44.20168771950409,
+   "rank": 23.070329713146815,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -918,7 +1276,7 @@
      "kind": "model"
     }
    ],
-   "rank": 43.93645998775233,
+   "rank": 22.93189854600649,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -956,7 +1314,7 @@
      "kind": "org"
     }
    ],
-   "rank": 43.01545147150243,
+   "rank": 22.451193594798806,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -984,7 +1342,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.73288880619578,
+   "rank": 21.781781518179386,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1012,7 +1370,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 41.72001751239771,
+   "rank": 21.775063562212615,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1040,7 +1398,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 38.03417572714896,
+   "rank": 19.851300248110448,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1061,6 +1419,44 @@
    ]
   },
   {
+   "id": "funding-revolut-raises-ambition-without",
+   "title": "How Revolut raises ambition without lowering the bar",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    }
+   ],
+   "rank": 19.283351282298725,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-16T09:30:00.000Z",
+   "latestAt": "2026-11-16T09:30:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/business/customer-stories/revolut",
+    "title": "How Revolut raises ambition without lowering the bar"
+   },
+   "sources": [
+    {
+     "title": "How Revolut raises ambition without lowering the bar",
+     "link": "https://openai.com/business/customer-stories/revolut",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-16T09:30:00.000Z",
+     "points": null,
+     "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
+    }
+   ]
+  },
+  {
    "id": "advancing-computer-agents-healthcare",
    "title": "Advancing computer-use agents for healthcare teams",
    "category": {
@@ -1068,7 +1464,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 34.78470391511756,
+   "rank": 18.155292924298198,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1100,7 +1496,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 33.29761013862873,
+   "rank": 17.379129263858875,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1132,7 +1528,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 32.129675945650085,
+   "rank": 16.769545596233765,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1160,7 +1556,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 32.11359565283258,
+   "rank": 16.761152757038616,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1194,7 +1590,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 29.422804958890392,
+   "rank": 15.356739674618646,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1228,7 +1624,7 @@
      "kind": "model"
     }
    ],
-   "rank": 28.987253262597967,
+   "rank": 15.129410770248498,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1260,7 +1656,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.292785244990426,
+   "rank": 14.766944833583102,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1288,7 +1684,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.50762276722592,
+   "rank": 12.269409517883073,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1316,7 +1712,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.12445499578771,
+   "rank": 9.981688598337762,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1354,7 +1750,7 @@
      "kind": "org"
     }
    ],
-   "rank": 18.374589067988964,
+   "rank": 9.590308651382971,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1382,7 +1778,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.62481463111422,
+   "rank": 9.198976456581802,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1426,7 +1822,7 @@
      "kind": "product"
     }
    ],
-   "rank": 16.917787111658356,
+   "rank": 8.829955298529557,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1458,7 +1854,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.864911535131156,
+   "rank": 8.802357778000566,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1486,7 +1882,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.82275091724993,
+   "rank": 8.78035275046401,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1514,7 +1910,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.649125629964118,
+   "rank": 8.689731943185281,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1546,7 +1942,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.648805069314363,
+   "rank": 8.689564631929438,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1571,34 +1967,6 @@
    ]
   },
   {
-   "id": "generated-code-should-open",
-   "title": "All AI-generated code should be Open Source",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [],
-   "rank": 9.549694308386602,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-15T16:04:01.000Z",
-   "latestAt": "2026-11-15T16:04:01.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "All AI-generated code should be Open Source",
-     "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-     "publisher": "jakub.jankiewicz.org",
-     "publisherDomain": "jakub.jankiewicz.org",
-     "kind": "discussion",
-     "date": "2026-11-15T16:04:01.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "nvidia-could-jensen-huang-make",
    "title": "Could Jensen Huang make a comeback? Musk, other tech heavyweights pressure Nvidia board",
    "category": {
@@ -1612,7 +1980,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.988992628282317,
+   "rank": 3.647787508033971,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1640,7 +2008,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.806527101441466,
+   "rank": 3.55255268595626,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1668,7 +2036,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.403386565120909,
+   "rank": 3.3421402430497835,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1707,7 +2075,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.083920038272225,
+   "rank": 3.175400046307006,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1735,7 +2103,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.974570922821365,
+   "rank": 3.118327109108293,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1769,7 +2137,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.360790056002281,
+   "rank": 2.7979744778016578,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1797,7 +2165,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.233862923800749,
+   "rank": 2.7317269895153355,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1825,7 +2193,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.4273788983011615,
+   "rank": 2.3107961758610975,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1853,7 +2221,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.7450920831780206,
+   "rank": 1.9546880135730287,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1881,7 +2249,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.3426229411347874,
+   "rank": 1.7446259936513857,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1915,7 +2283,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.0421357347118145,
+   "rank": 1.5877917349517692,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1943,7 +2311,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0807728962919394,
+   "rank": 1.086024521965314,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1960,62 +2328,6 @@
      "date": "2026-11-14T17:09:09.000Z",
      "points": null,
      "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The…"
-    }
-   ]
-  },
-  {
-   "id": "beware-fueled-ransomware-boom",
-   "title": "Beware the New AI-Fueled Ransomware Boom",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.3002915205786958,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-14T13:00:00.000Z",
-   "latestAt": "2026-11-14T13:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Beware the New AI-Fueled Ransomware Boom",
-     "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-14T13:00:00.000Z",
-     "points": null,
-     "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc."
-    }
-   ]
-  },
-  {
-   "id": "pilots-traffic-controllers-what",
-   "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.131969515688957,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-14T11:00:00.000Z",
-   "latestAt": "2026-11-14T11:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-     "link": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-14T11:00:00.000Z",
-     "points": null,
-     "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies."
     }
    ]
   }
