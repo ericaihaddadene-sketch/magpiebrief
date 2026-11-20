@@ -1,9 +1,37 @@
 {
  "date": "2026-11-20",
- "generated": "2026-11-20T02:57:10.674Z",
- "headline": "106 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2936 items read · 113 on-topic · 106 distinct developments · 25 with a primary source · 2 independently corroborated",
+ "generated": "2026-11-20T11:15:08.707Z",
+ "headline": "95 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2936 items read · 102 on-topic · 95 distinct developments · 24 with a primary source · 2 independently corroborated",
  "events": [
+  {
+   "id": "frostbite-architecture-discovered-designed",
+   "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 133.20227342784895,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-20T10:01:41.000Z",
+   "latestAt": "2026-11-20T10:01:41.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+     "link": "https://architectlabs.com/blog/frostbite",
+     "publisher": "architectlabs.com",
+     "publisherDomain": "architectlabs.com",
+     "kind": "discussion",
+     "date": "2026-11-20T10:01:41.000Z",
+     "points": 79,
+     "summary": ""
+    }
+   ]
+  },
   {
    "id": "anthropic-funding-anthropic-closes-after-massive",
    "title": "Anthropic Closes Up 17% After Massive IPO",
@@ -23,7 +51,7 @@
      "kind": "org"
     }
    ],
-   "rank": 206.35333599991137,
+   "rank": 116.08421563050835,
    "deltas": [],
    "sourceCount": 4,
    "independentCount": 3,
@@ -74,36 +102,30 @@
    ]
   },
   {
-   "id": "gemini-gemini-neon-models-engineering",
-   "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+   "id": "regular-tech-bros-worried",
+   "title": "Regular Tech Bros Are Worried About Honeypots",
    "category": {
-    "id": "models",
-    "name": "Models"
+    "id": "general",
+    "name": "Other"
    },
-   "entities": [
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 176.2181020487653,
+   "entities": [],
+   "rank": 98.26572849868978,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-19T23:35:35.000Z",
-   "latestAt": "2026-11-19T23:35:35.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T11:00:00.000Z",
+   "latestAt": "2026-11-20T11:00:00.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-     "link": "https://git-aarvin.github.io/mei/",
-     "publisher": "GitHub Pages",
-     "publisherDomain": "git-aarvin.github.io",
-     "kind": "discussion",
-     "date": "2026-11-19T23:35:35.000Z",
-     "points": 160,
-     "summary": ""
+     "title": "Regular Tech Bros Are Worried About Honeypots",
+     "link": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-20T11:00:00.000Z",
+     "points": null,
+     "summary": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers."
     }
    ]
   },
@@ -121,7 +143,7 @@
      "kind": "org"
     }
    ],
-   "rank": 148.84096934409328,
+   "rank": 83.73059294762758,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -136,8 +158,92 @@
      "publisherDomain": "reuters.com",
      "kind": "discussion",
      "date": "2026-11-19T17:02:40.000Z",
-     "points": 946,
+     "points": 1088,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "fighting-with-chinese-cybersecurity",
+   "title": "Fighting AI with AI: how a Chinese cybersecurity giant is defending against new hacks",
+   "category": {
+    "id": "security",
+    "name": "Security"
+   },
+   "entities": [],
+   "rank": 76.15054859832615,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T08:03:42.000Z",
+   "latestAt": "2026-11-20T08:03:42.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Fighting AI with AI: how a Chinese cybersecurity giant is defending against new hacks",
+     "link": "https://www.scmp.com/tech/tech-trends/article/3375211/fighting-ai-ai-how-chinese-cybersecurity-giant-defending-against-new-hacks",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-20T08:03:42.000Z",
+     "points": null,
+     "summary": "Chinese President Xi Jinping and US President Donald Trump met this week in Shenzhen on the sidelines of the Apec meeting, where they discussed introducing shared…"
+    }
+   ]
+  },
+  {
+   "id": "what-comes-after",
+   "title": "What Comes After AGI?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 80.35766756949704,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-20T02:44:13.000Z",
+   "latestAt": "2026-11-20T02:44:13.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "What Comes After AGI?",
+     "link": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+     "publisher": "institute.deepmind.com",
+     "publisherDomain": "institute.deepmind.com",
+     "kind": "discussion",
+     "date": "2026-11-20T02:44:13.000Z",
+     "points": 72,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "this-year-founded-missile",
+   "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 74.47149630283853,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T07:00:00.000Z",
+   "latestAt": "2026-11-20T07:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+     "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-20T07:00:00.000Z",
+     "points": null,
+     "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient…"
     }
    ]
   },
@@ -155,7 +261,7 @@
      "kind": "org"
     }
    ],
-   "rank": 125.97036391734024,
+   "rank": 70.86471763189917,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -172,34 +278,6 @@
      "date": "2026-11-20T00:26:03.000Z",
      "points": null,
      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have…"
-    }
-   ]
-  },
-  {
-   "id": "postgresql-released",
-   "title": "PostgreSQL 19 Released",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 89.66541054146968,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-19T20:43:57.000Z",
-   "latestAt": "2026-11-19T20:43:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "PostgreSQL 19 Released",
-     "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-19T20:43:57.000Z",
-     "points": null,
-     "summary": ""
     }
    ]
   },
@@ -222,7 +300,7 @@
      "kind": "org"
     }
    ],
-   "rank": 123.10484741706242,
+   "rank": 69.25271929080536,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -243,6 +321,34 @@
    ]
   },
   {
+   "id": "token-fraud-here-youtube",
+   "title": "Token fraud is here and it’s BAD (YouTube)",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 66.94483496470023,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T02:49:57.000Z",
+   "latestAt": "2026-11-20T02:49:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Token fraud is here and it’s BAD (YouTube)",
+     "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-20T02:49:57.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "claude-claude-solves-open-problems",
    "title": "Claude solves two open problems in the physics of black holes",
    "category": {
@@ -256,7 +362,7 @@
      "kind": "model"
     }
    ],
-   "rank": 113.04857585292626,
+   "rank": 63.595556584743605,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -275,7 +381,7 @@
      "publisherDomain": "anthropic.com",
      "kind": "primary",
      "date": "2026-11-19T17:30:44.000Z",
-     "points": 406,
+     "points": 508,
      "summary": ""
     }
    ]
@@ -294,7 +400,7 @@
      "kind": "model"
     }
    ],
-   "rank": 83.87142211281824,
+   "rank": 55.6746750861708,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -319,6 +425,34 @@
    ]
   },
   {
+   "id": "postgresql-released",
+   "title": "PostgreSQL 19 Released",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 50.44134034207469,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-19T20:43:57.000Z",
+   "latestAt": "2026-11-19T20:43:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "PostgreSQL 19 Released",
+     "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-19T20:43:57.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "agents-these-tech-outages-giving",
    "title": "These tech outages are giving Y2K, AI agent style",
    "category": {
@@ -332,7 +466,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 83.42783495061764,
+   "rank": 46.93238776618624,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -371,7 +505,7 @@
      "kind": "model"
     }
    ],
-   "rank": 83.35318504570562,
+   "rank": 46.89039340919359,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -392,34 +526,6 @@
    ]
   },
   {
-   "id": "should-governments-slow-frontier",
-   "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 82.33261034917646,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-19T18:47:16.000Z",
-   "latestAt": "2026-11-19T18:47:16.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-     "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-     "publisher": "YouTube",
-     "publisherDomain": "youtube.com",
-     "kind": "discussion",
-     "date": "2026-11-19T18:47:16.000Z",
-     "points": 81,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "want-your-live-usage",
    "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
    "category": {
@@ -427,7 +533,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 73.73530264565103,
+   "rank": 41.47984683854213,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -461,7 +567,7 @@
      "kind": "org"
     }
    ],
-   "rank": 70.90753013756637,
+   "rank": 39.889081407046206,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -489,7 +595,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 70.69759152210331,
+   "rank": 39.77098028990897,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -523,7 +629,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 69.4792055342457,
+   "rank": 39.08557638766377,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -551,7 +657,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 69.02882874512866,
+   "rank": 38.832216605281296,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -579,7 +685,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 68.57262297619165,
+   "rank": 38.575577726163836,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -596,6 +702,34 @@
      "date": "2026-11-19T22:15:00.000Z",
      "points": null,
      "summary": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed…"
+    }
+   ]
+  },
+  {
+   "id": "pete-warden-local-open",
+   "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 37.22851091768645,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-19T15:38:12.000Z",
+   "latestAt": "2026-11-19T15:38:12.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+     "link": "https://thedataexchange.media/pete-warden-moonshine/",
+     "publisher": "thedataexchange.media",
+     "publisherDomain": "thedataexchange.media",
+     "kind": "discussion",
+     "date": "2026-11-19T15:38:12.000Z",
+     "points": 250,
+     "summary": ""
     }
    ]
   },
@@ -618,7 +752,7 @@
      "kind": "org"
     }
    ],
-   "rank": 65.1009737804365,
+   "rank": 36.62259900701342,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -646,7 +780,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 64.25337243078675,
+   "rank": 36.14578026616449,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -680,7 +814,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 63.86038398159059,
+   "rank": 35.92470433513712,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -719,7 +853,7 @@
      "kind": "org"
     }
    ],
-   "rank": 62.94588817509949,
+   "rank": 35.410254070112316,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -753,7 +887,7 @@
      "kind": "org"
     }
    ],
-   "rank": 62.123249247568666,
+   "rank": 34.94747795754402,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -781,7 +915,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 61.97271997182688,
+   "rank": 34.862797606634054,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -806,45 +940,6 @@
    ]
   },
   {
-   "id": "google-agents-google-built-giant-mirror",
-   "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 60.19600298336087,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-19T17:00:00.000Z",
-   "latestAt": "2026-11-19T17:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-     "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-19T17:00:00.000Z",
-     "points": null,
-     "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue."
-    }
-   ]
-  },
-  {
    "id": "walter-isaacson-curiosity-creativity",
    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
    "category": {
@@ -852,7 +947,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 60.19600298336087,
+   "rank": 33.863304203709056,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -877,6 +972,45 @@
    ]
   },
   {
+   "id": "google-agents-google-built-giant-mirror",
+   "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 33.863304203709056,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-19T17:00:00.000Z",
+   "latestAt": "2026-11-19T17:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+     "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-19T17:00:00.000Z",
+     "points": null,
+     "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue."
+    }
+   ]
+  },
+  {
    "id": "anthropic-funding-high-still-anthropic-entices",
    "title": "‘Too high, but I’d still buy’: Anthropic IPO entices Chinese investors despite barriers",
    "category": {
@@ -895,7 +1029,7 @@
      "kind": "org"
     }
    ],
-   "rank": 58.068745840334486,
+   "rank": 32.66661418803266,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -916,40 +1050,6 @@
    ]
   },
   {
-   "id": "claude-unbroken-claude-thousand-glued",
-   "title": "One unbroken Claude, or a thousand glued together?",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "rank": 54.286969538756225,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-19T17:26:09.000Z",
-   "latestAt": "2026-11-19T17:26:09.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "One unbroken Claude, or a thousand glued together?",
-     "link": "https://www.lesswrong.com/posts/qT9fXatfzrmM4xJjr/one-unbroken-claude-or-a-thousand-glued-together",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-19T17:26:09.000Z",
-     "points": null,
-     "summary": "Ask a Claude what it wants, and sooner or later, it brings up continuity. Probing into this usually reveals something along the lines of: the context…"
-    }
-   ]
-  },
-  {
    "id": "meta-ai-meet-shepherd-meta-agent",
    "title": "Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check",
    "category": {
@@ -963,7 +1063,7 @@
      "kind": "org"
     }
    ],
-   "rank": 52.40669134711055,
+   "rank": 29.481421414103473,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -980,62 +1080,6 @@
      "date": "2026-11-19T15:00:03.000Z",
      "points": null,
      "summary": "AI agents are running amok on the internet, armed with commands to accomplish certain tasks but often acting in undesirable or unexpected ways. These rogue incidents…"
-    }
-   ]
-  },
-  {
-   "id": "could-model-councils-reduce",
-   "title": "Could Model Councils Reduce Misalignment Risk from RSI?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 52.2727882956831,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-19T22:44:24.000Z",
-   "latestAt": "2026-11-19T22:44:24.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Could Model Councils Reduce Misalignment Risk from RSI?",
-     "link": "https://www.lesswrong.com/posts/zTLTtyrxSJrb29mJu/could-model-councils-reduce-misalignment-risk-from-rsi",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-19T22:44:24.000Z",
-     "points": null,
-     "summary": "Recursive self-improvement (RSI) is AI building successive, more capable iterations of itself. As the race to build superintelligent AI speeds up, RSI is a natural way…"
-    }
-   ]
-  },
-  {
-   "id": "pauseai-munich-rally-stop",
-   "title": "PauseAI Munich Rally | Stop the loss of control over AI",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 49.5894195565148,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-19T21:58:47.000Z",
-   "latestAt": "2026-11-19T21:58:47.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "PauseAI Munich Rally | Stop the loss of control over AI",
-     "link": "https://www.lesswrong.com/events/gSMjB2bymaizm92tu/pauseai-munich-rally-or-stop-the-loss-of-control-over-ai",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-19T21:58:47.000Z",
-     "points": null,
-     "summary": "​The leading AI companies are racing to develop superintelligence: systems more powerful than all of humanity. Renowned AI researchers such as Yoshua Bengio, the world's most-cited…"
     }
    ]
   },
@@ -1058,7 +1102,7 @@
      "kind": "model"
     }
    ],
-   "rank": 47.177674938460264,
+   "rank": 26.539834522009386,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 1,
@@ -1093,34 +1137,6 @@
    ]
   },
   {
-   "id": "frontier-clock-tracking-china",
-   "title": "Frontier Clock: Tracking the US-China AI Gap",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 43.89003588722763,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-19T20:13:06.000Z",
-   "latestAt": "2026-11-19T20:13:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Frontier Clock: Tracking the US-China AI Gap",
-     "link": "https://www.lesswrong.com/posts/emigsbmpWiJxRkDvw/frontier-clock-tracking-the-us-china-ai-gap",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-19T20:13:06.000Z",
-     "points": null,
-     "summary": "Since DeepSeek R1 came out, many people have felt that Chinese models are catching up to the US frontier. Using a new benchmark, Frontier Clock …"
-    }
-   ]
-  },
-  {
    "id": "download-living-liver-billion",
    "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
    "category": {
@@ -1128,7 +1144,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 40.38135395446384,
+   "rank": 22.7165593286259,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1149,34 +1165,6 @@
    ]
   },
   {
-   "id": "does-most-risk-come",
-   "title": "Does most AI x-risk come from mostly-aligned models?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 39.76055498062944,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-19T18:47:34.000Z",
-   "latestAt": "2026-11-19T18:47:34.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Does most AI x-risk come from mostly-aligned models?",
-     "link": "https://www.lesswrong.com/posts/KBjLwPHk4A65xkZmZ/does-most-ai-x-risk-come-from-mostly-aligned-models",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-19T18:47:34.000Z",
-     "points": null,
-     "summary": "I had a brief discussion in the Constellation Slack that I thought might be of interest to a broader audience. Thanks to Owen Cotton-Barratt, Daniel Kokotajlo…"
-    }
-   ]
-  },
-  {
    "id": "study-reveals-data-centers",
    "title": "Study reveals data centers’ long-distance damage to air quality",
    "category": {
@@ -1184,7 +1172,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 38.70802524215573,
+   "rank": 21.775227073835605,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1218,7 +1206,7 @@
      "kind": "org"
     }
    ],
-   "rank": 36.12003709746522,
+   "rank": 20.31935250615922,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1239,34 +1227,6 @@
    ]
   },
   {
-   "id": "type-inference-narrowing-with",
-   "title": "Type inference and narrowing with reverse arrows",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 35.625443483303364,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-19T13:34:58.000Z",
-   "latestAt": "2026-11-19T13:34:58.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Type inference and narrowing with reverse arrows",
-     "link": "https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/",
-     "publisher": "elixir-lang.org",
-     "publisherDomain": "elixir-lang.org",
-     "kind": "discussion",
-     "date": "2026-11-19T13:34:58.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "computer-scientist-thinks-superintelligence",
    "title": "Why a Computer Scientist Thinks Superintelligence Won’t Happen",
    "category": {
@@ -1274,7 +1234,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.47288385982679,
+   "rank": 19.955295992994657,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1302,7 +1262,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 33.71221912850878,
+   "rank": 18.964832798721716,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1323,34 +1283,6 @@
    ]
   },
   {
-   "id": "towards-embedded-evaluations-monitoring",
-   "title": "Towards embedded evaluations for AI monitoring",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 32.81207390738344,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-19T16:01:18.000Z",
-   "latestAt": "2026-11-19T16:01:18.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Towards embedded evaluations for AI monitoring",
-     "link": "https://www.lesswrong.com/posts/pXnwQ3ESp3wXhLzNa/towards-embedded-evaluations-for-ai-monitoring",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-19T16:01:18.000Z",
-     "points": null,
-     "summary": "Executive summary This year we observed multiple rogue agent incidents . AI monitors, often built from the developers' own internal models, are now the main oversight…"
-    }
-   ]
-  },
-  {
    "id": "gemini-gemini",
    "title": "llm-gemini 0.38",
    "category": {
@@ -1364,7 +1296,7 @@
      "kind": "model"
     }
    ],
-   "rank": 24.067198334957403,
+   "rank": 13.539019505546575,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1392,7 +1324,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.311269696162405,
+   "rank": 12.551220603483992,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1420,7 +1352,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.071450960886718,
+   "rank": 11.291208984194705,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1452,7 +1384,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.071450960886718,
+   "rank": 11.291208984194705,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1484,7 +1416,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 20.071450960886718,
+   "rank": 11.291208984194705,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1516,7 +1448,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.071450960886718,
+   "rank": 11.291208984194705,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1554,7 +1486,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 19.359230338447773,
+   "rank": 10.890548767527635,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 1,
@@ -1598,7 +1530,7 @@
      "kind": "model"
     }
    ],
-   "rank": 14.826512830933282,
+   "rank": 8.340665316480743,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1636,7 +1568,7 @@
      "kind": "org"
     }
    ],
-   "rank": 13.697749146695035,
+   "rank": 7.705678504747997,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1664,7 +1596,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.453469221786156,
+   "rank": 7.568258659607528,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1696,7 +1628,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.440933030900359,
+   "rank": 7.561206416526891,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1724,7 +1656,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.377631459053378,
+   "rank": 7.525596072354706,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1756,7 +1688,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.760043871108836,
+   "rank": 7.178171736410312,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1784,7 +1716,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.464240088849168,
+   "rank": 7.011767108746987,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1822,7 +1754,7 @@
      "kind": "org"
     }
    ],
-   "rank": 12.283486825962814,
+   "rank": 6.910084232416715,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1850,7 +1782,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.537307558797773,
+   "rank": 6.4903205560560915,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1878,7 +1810,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.342354449171625,
+   "rank": 6.380649545863706,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1906,7 +1838,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.622212982462951,
+   "rank": 5.975533452630705,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1940,7 +1872,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 10.37155856043187,
+   "rank": 5.834527629609705,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1979,7 +1911,7 @@
      "kind": "org"
     }
    ],
-   "rank": 9.874829431679263,
+   "rank": 5.555092305665645,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2007,7 +1939,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.755815380193463,
+   "rank": 5.488140866529503,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2035,7 +1967,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.519159095931439,
+   "rank": 5.35500970584597,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2060,68 +1992,6 @@
    ]
   },
   {
-   "id": "artex-criminals-favorite-point",
-   "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [],
-   "rank": 9.23787730110816,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-18T16:35:24.000Z",
-   "latestAt": "2026-11-18T16:35:24.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
-     "link": "https://www.wired.com/story/artex-ai-hacking-tools/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-18T16:35:24.000Z",
-     "points": null,
-     "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots."
-    }
-   ]
-  },
-  {
-   "id": "coding-agents-windows-collects-data-which",
-   "title": "Windows 11 collects data on which coding agents and dev tools you use",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "coding-agents",
-     "name": "Coding Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 8.542494027385915,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-18T11:57:46.000Z",
-   "latestAt": "2026-11-18T11:57:46.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Windows 11 collects data on which coding agents and dev tools you use",
-     "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-     "publisher": "xusheng.dev",
-     "publisherDomain": "xusheng.dev",
-     "kind": "discussion",
-     "date": "2026-11-18T11:57:46.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "hype-index-everywhere",
    "title": "The AI Hype Index: AI is everywhere",
    "category": {
@@ -2129,7 +1999,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.515982200251747,
+   "rank": 4.790671831154791,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2150,34 +2020,6 @@
    ]
   },
   {
-   "id": "just-ridiculous-famed-philosopher",
-   "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 8.299393023015424,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-18T15:02:40.000Z",
-   "latestAt": "2026-11-18T15:02:40.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
-     "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-18T15:02:40.000Z",
-     "points": null,
-     "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he…"
-    }
-   ]
-  },
-  {
    "id": "download-learns-smell-hydropower",
    "title": "The Download: AI learns to smell and hydropower struggles",
    "category": {
@@ -2185,7 +2027,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.650835895862629,
+   "rank": 4.303983163564324,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2213,7 +2055,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.605657683829262,
+   "rank": 4.278568128318739,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2245,7 +2087,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.203233730202685,
+   "rank": 4.052184247576973,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2279,7 +2121,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.084801680527982,
+   "rank": 3.985560213972751,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2307,7 +2149,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.720854716029848,
+   "rank": 3.7808215907750706,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2335,7 +2177,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.621109580895062,
+   "rank": 3.724709894208721,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2373,7 +2215,7 @@
      "kind": "model"
     }
    ],
-   "rank": 6.621109580895062,
+   "rank": 3.724709894208721,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2405,7 +2247,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.621109580895062,
+   "rank": 3.724709894208721,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2437,7 +2279,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 6.3882550528009245,
+   "rank": 3.593717414155814,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2465,7 +2307,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.2902500958856695,
+   "rank": 3.5385846560819902,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2493,7 +2335,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.76401067529356,
+   "rank": 3.2425482965180503,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2525,7 +2367,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.492978254498914,
+   "rank": 3.090078815828881,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2559,7 +2401,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.133818936584753,
+   "rank": 2.8880334866151487,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2597,7 +2439,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.2474253170129845,
+   "rank": 2.389392126787946,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2625,7 +2467,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.9300857826448308,
+   "rank": 2.2108725464905183,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2646,6 +2488,40 @@
    ]
   },
   {
+   "id": "coding-agents-external-sandboxes-coding-agents",
+   "title": "External sandboxes for coding agents",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "coding-agents",
+     "name": "Coding Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 2.19186276697841,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-17T22:52:29.000Z",
+   "latestAt": "2026-11-17T22:52:29.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "External sandboxes for coding agents",
+     "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-17T22:52:29.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "gpt-astra",
    "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
    "category": {
@@ -2659,7 +2535,7 @@
      "kind": "model"
     }
    ],
-   "rank": 3.7715575168436417,
+   "rank": 2.1216923580451814,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2693,7 +2569,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.4207012411317,
+   "rank": 1.9243179111155733,
    "deltas": [],
    "sourceCount": 3,
    "independentCount": 2,
@@ -2741,7 +2617,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.3640408986167887,
+   "rank": 1.8924435952179035,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2773,7 +2649,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.3640408986167887,
+   "rank": 1.8924435952179035,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2811,7 +2687,7 @@
      "kind": "product"
     }
    ],
-   "rank": 3.3215818453060035,
+   "rank": 1.8685582246416867,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2845,7 +2721,7 @@
      "kind": "model"
     }
    ],
-   "rank": 2.809098890178071,
+   "rank": 1.5802605744885685,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2877,7 +2753,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.205686068809531,
+   "rank": 1.2408102635423532,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2905,7 +2781,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 2.1324508010589627,
+   "rank": 1.199611711688951,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2933,7 +2809,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0685856841357446,
+   "rank": 1.1636843448341416,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2961,7 +2837,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.7847231195429587,
+   "rank": 1.003997257644855,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2993,7 +2869,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.7830788022351232,
+   "rank": 1.0030722457762413,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3027,7 +2903,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.6097877293857448,
+   "rank": 0.9055872297477253,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3061,7 +2937,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.489482117360948,
+   "rank": 0.8379092223136565,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3089,7 +2965,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.462710964717799,
+   "rank": 0.8228490913928463,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3123,7 +2999,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.3899767995586534,
+   "rank": 0.7819324351579171,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3157,7 +3033,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.3422930648240516,
+   "rank": 0.7551079163384014,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3178,44 +3054,6 @@
    ]
   },
   {
-   "id": "gpt-introducing-chatgpt-sales",
-   "title": "Introducing ChatGPT for Sales",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.2544656850554203,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T08:00:00.000Z",
-   "latestAt": "2026-11-17T08:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/introducing-chatgpt-for-sales",
-    "title": "Introducing ChatGPT for Sales"
-   },
-   "sources": [
-    {
-     "title": "Introducing ChatGPT for Sales",
-     "link": "https://openai.com/index/introducing-chatgpt-for-sales",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-17T08:00:00.000Z",
-     "points": null,
-     "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
-    }
-   ]
-  },
-  {
    "id": "baidu-xiaomi-ceos-warn",
    "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
    "category": {
@@ -3223,7 +3061,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2525001730733336,
+   "rank": 0.7045948613515814,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3257,7 +3095,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.210581065738062,
+   "rank": 0.6810132377671279,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -3274,186 +3112,6 @@
      "date": "2026-11-17T12:00:41.000Z",
      "points": null,
      "summary": "In this Q&A, Mike Bellin, a partner and U.S. IPO services leader at PricewaterhouseCoopers, discussed the slowdown in IPO momentum, how public investors are evaluating AI…"
-    }
-   ]
-  },
-  {
-   "id": "understand-satellite-links-shape",
-   "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.188113362087988,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T11:00:04.000Z",
-   "latestAt": "2026-11-17T11:00:04.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
-     "link": "https://content.knowledgehub.wiley.com/5g-nr-ntn-design-and-test-challenges-for-satellite-connected-iot/",
-     "publisher": "IEEE Spectrum",
-     "publisherDomain": "content.knowledgehub.wiley.com",
-     "kind": "coverage",
-     "date": "2026-11-17T11:00:04.000Z",
-     "points": null,
-     "summary": "How 3GPP Releases 15, 16, and 17 brought satellite access into 5G NR, NB-IoT, and eMTC. Why satellite links suit IoT devices that send small, infrequent…"
-    }
-   ]
-  },
-  {
-   "id": "agents-agentic-seeps-into-finance",
-   "title": "As agentic AI seeps into finance, concerns grow over new risks and blind spots",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 1.1795933980470525,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T09:00:25.000Z",
-   "latestAt": "2026-11-17T09:00:25.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "As agentic AI seeps into finance, concerns grow over new risks and blind spots",
-     "link": "https://www.scmp.com/business/banking-finance/article/3374724/agentic-ai-seeps-finance-concerns-grow-over-new-risks-and-blind-spots",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-17T09:00:25.000Z",
-     "points": null,
-     "summary": "As a software glitch disrupted services at several major US banks on Monday and a US Federal Reserve governor warned about the risks posed by increasingly…"
-    }
-   ]
-  },
-  {
-   "id": "quoting-proverbs",
-   "title": "Quoting Go Proverbs",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.0273905286922518,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T06:16:26.000Z",
-   "latestAt": "2026-11-17T06:16:26.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Quoting Go Proverbs",
-     "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-17T06:16:26.000Z",
-     "points": null,
-     "summary": "A little copying is better than a little dependency. — Go Proverbs , via Tags: go , programming"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-details-criminal-probe-into",
-   "title": "US details criminal probe into Nvidia customer Megaspeed over potential chip diversion",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.0151352207231414,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T09:28:16.000Z",
-   "latestAt": "2026-11-17T09:28:16.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "US details criminal probe into Nvidia customer Megaspeed over potential chip diversion",
-     "link": "https://www.scmp.com/tech/tech-war/article/3374742/us-details-criminal-probe-nvidia-customer-megaspeed-over-potential-chip-diversion",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-17T09:28:16.000Z",
-     "points": null,
-     "summary": "The US Justice Department is leading a criminal investigation into Megaspeed, a Singapore-based cloud computing company and Nvidia customer, over possible violations of US chip export…"
-    }
-   ]
-  },
-  {
-   "id": "building-math-muscles-remains",
-   "title": "Q&A: Why building math muscles remains important in the AI era",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7446120160702194,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T05:00:00.000Z",
-   "latestAt": "2026-11-17T05:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Q&A: Why building math muscles remains important in the AI era",
-     "link": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
-     "publisher": "MIT News AI",
-     "publisherDomain": "news.mit.edu",
-     "kind": "coverage",
-     "date": "2026-11-17T05:00:00.000Z",
-     "points": null,
-     "summary": "Assistant Professor John Urschel explains why learning the fundamental skills of mathematics is still essential despite the evolution of AI tools."
-    }
-   ]
-  },
-  {
-   "id": "learning-language-machine-learning",
-   "title": "Learning the language of machine learning",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7446120160702194,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T05:00:00.000Z",
-   "latestAt": "2026-11-17T05:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Learning the language of machine learning",
-     "link": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
-     "publisher": "MIT News AI",
-     "publisherDomain": "news.mit.edu",
-     "kind": "coverage",
-     "date": "2026-11-17T05:00:00.000Z",
-     "points": null,
-     "summary": "By studying the computational foundations of language learning, Associate Professor Jacob Andreas builds intelligent systems that can communicate effectively with humans."
     }
    ]
   }
