@@ -1,40 +1,61 @@
 {
  "date": "2026-11-20",
- "generated": "2026-11-20T11:15:08.707Z",
- "headline": "95 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2936 items read · 102 on-topic · 95 distinct developments · 24 with a primary source · 2 independently corroborated",
+ "generated": "2026-11-20T19:55:41.369Z",
+ "headline": "97 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2939 items read · 104 on-topic · 97 distinct developments · 25 with a primary source · 4 independently corroborated",
  "events": [
   {
-   "id": "frostbite-architecture-discovered-designed",
-   "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+   "id": "anthropic-claude-anthropic-mathematician-claims-have",
+   "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
    "category": {
-    "id": "general",
-    "name": "Other"
+    "id": "models",
+    "name": "Models"
    },
-   "entities": [],
-   "rank": 133.20227342784895,
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    },
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 210.36945167562678,
    "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-20T10:01:41.000Z",
-   "latestAt": "2026-11-20T10:01:41.000Z",
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-11-20T15:15:45.000Z",
+   "latestAt": "2026-11-20T16:34:13.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-     "link": "https://architectlabs.com/blog/frostbite",
-     "publisher": "architectlabs.com",
-     "publisherDomain": "architectlabs.com",
-     "kind": "discussion",
-     "date": "2026-11-20T10:01:41.000Z",
-     "points": 79,
-     "summary": ""
+     "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-20T16:34:13.000Z",
+     "points": null,
+     "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle…"
+    },
+    {
+     "title": "Linkpost: Anthropic's Alpoge (along with Claude) claims to have solved the Riemann Hypothesis",
+     "link": "https://www.lesswrong.com/posts/hxHt8NaQeFADrfeAp/linkpost-anthropic-s-alpoge-along-with-claude-claims-to-have",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-20T15:15:45.000Z",
+     "points": null,
+     "summary": "This is a linkpost for Discuss"
     }
    ]
   },
   {
-   "id": "anthropic-funding-anthropic-closes-after-massive",
-   "title": "Anthropic Closes Up 17% After Massive IPO",
+   "id": "anthropic-funding-anthropic-shares-tank-after",
+   "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
    "category": {
     "id": "business",
     "name": "Business"
@@ -51,11 +72,713 @@
      "kind": "org"
     }
    ],
-   "rank": 116.08421563050835,
+   "rank": 186.80875827168202,
    "deltas": [],
-   "sourceCount": 4,
-   "independentCount": 3,
-   "publishedAt": "2026-11-18T22:15:36.000Z",
+   "sourceCount": 2,
+   "independentCount": 1,
+   "publishedAt": "2026-11-19T19:10:45.000Z",
+   "latestAt": "2026-11-20T17:44:01.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic’s IPO could deliver $156B to charity",
+     "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-19T19:10:45.000Z",
+     "points": null,
+     "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
+    },
+    {
+     "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+     "link": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+     "publisher": "nbcnews.com",
+     "publisherDomain": "nbcnews.com",
+     "kind": "discussion",
+     "date": "2026-11-20T17:44:01.000Z",
+     "points": 115,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "vibecoding-inference-chip",
+   "title": "Vibecoding an Inference Chip",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 122.45771941125913,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-20T18:15:16.000Z",
+   "latestAt": "2026-11-20T18:15:16.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Vibecoding an Inference Chip",
+     "link": "https://ankitg.me/blog/vibecoding-inference-chip/",
+     "publisher": "ankitg.me",
+     "publisherDomain": "ankitg.me",
+     "kind": "discussion",
+     "date": "2026-11-20T18:15:16.000Z",
+     "points": 27,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "google-google-workers-tell-their",
+   "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 118.28948350057186,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-20T16:59:27.000Z",
+   "latestAt": "2026-11-20T16:59:27.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+     "link": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+     "publisher": "motherjones.com",
+     "publisherDomain": "motherjones.com",
+     "kind": "discussion",
+     "date": "2026-11-20T16:59:27.000Z",
+     "points": 113,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "quoting-ravi-vakil",
+   "title": "Quoting Ravi Vakil",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 115.3950308824659,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T19:21:49.000Z",
+   "latestAt": "2026-11-20T19:21:49.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Quoting Ravi Vakil",
+     "link": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-20T19:21:49.000Z",
+     "points": null,
+     "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which…"
+    }
+   ]
+  },
+  {
+   "id": "language-models-rewrite-their",
+   "title": "Language Models Can Rewrite Their Own Weights",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 114.21391932266735,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T16:29:06.000Z",
+   "latestAt": "2026-11-20T16:29:06.000Z",
+   "primary": {
+    "publisher": "arXiv",
+    "link": "https://arxiv.org/abs/2611.21885",
+    "title": "Language Models Can Rewrite Their Own Weights"
+   },
+   "sources": [
+    {
+     "title": "Language Models Can Rewrite Their Own Weights",
+     "link": "https://arxiv.org/abs/2611.21885",
+     "publisher": "arXiv",
+     "publisherDomain": "arxiv.org",
+     "kind": "research",
+     "date": "2026-11-20T16:29:06.000Z",
+     "points": 225,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "daniel-backs-researcher-fusion",
+   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [],
+   "rank": 99.76860486664357,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T19:53:41.000Z",
+   "latestAt": "2026-11-20T19:53:41.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+     "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-20T19:53:41.000Z",
+     "points": null,
+     "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
+    }
+   ]
+  },
+  {
+   "id": "claimed-solution-year-riemann",
+   "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 97.31547464557129,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T19:32:08.000Z",
+   "latestAt": "2026-11-20T19:32:08.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+     "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-20T19:32:08.000Z",
+     "points": null,
+     "summary": "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too."
+    }
+   ]
+  },
+  {
+   "id": "quoting-levent",
+   "title": "Quoting Levent Alpöge",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 94.70767976762352,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T16:30:48.000Z",
+   "latestAt": "2026-11-20T16:30:48.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Quoting Levent Alpöge",
+     "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-20T16:30:48.000Z",
+     "points": null,
+     "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized…"
+    }
+   ]
+  },
+  {
+   "id": "most-misunderstood-graph-just",
+   "title": "The most misunderstood graph in AI just got a major update",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 93.49697396057988,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T18:15:15.000Z",
+   "latestAt": "2026-11-20T18:15:15.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The most misunderstood graph in AI just got a major update",
+     "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-11-20T18:15:15.000Z",
+     "points": null,
+     "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that…"
+    }
+   ]
+  },
+  {
+   "id": "trump-threatens-tremendous-moving",
+   "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 92.72605577786004,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T18:50:19.000Z",
+   "latestAt": "2026-11-20T18:50:19.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+     "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-20T18:50:19.000Z",
+     "points": null,
+     "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the…"
+    }
+   ]
+  },
+  {
+   "id": "infrastructure-super-rock-geothermal-could",
+   "title": "Super-hot rock geothermal could end data center energy woes",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "infrastructure",
+     "name": "AI Infrastructure",
+     "kind": "topic"
+    }
+   ],
+   "rank": 90.99456295057598,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T18:34:00.000Z",
+   "latestAt": "2026-11-20T18:34:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Super-hot rock geothermal could end data center energy woes",
+     "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-20T18:34:00.000Z",
+     "points": null,
+     "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere."
+    }
+   ]
+  },
+  {
+   "id": "claude-qwen-making-qwen-think-claude",
+   "title": "Making Qwen 3.8 27b think it is Claude with one prompt",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    },
+    {
+     "id": "qwen",
+     "name": "Qwen",
+     "kind": "model"
+    }
+   ],
+   "rank": 83.76918705198803,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T16:40:09.000Z",
+   "latestAt": "2026-11-20T16:40:09.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Making Qwen 3.8 27b think it is Claude with one prompt",
+     "link": "https://www.lesswrong.com/posts/AoHkDfoxzXwrvTFzp/making-qwen-3-8-27b-think-it-is-claude-with-one-prompt-1",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-20T16:40:09.000Z",
+     "points": null,
+     "summary": "TLDR Sending a one sentence prompt to Qwen induced it into claiming it was “Claude made by Anthropic” and relaxed its behavioral guidelines. Prompting Qwen to…"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-being-close-singularity-anthropic",
+   "title": "Being close to an AI singularity is not anthropic evidence for the simulation hypothesis",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 81.35518580132293,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T13:51:34.000Z",
+   "latestAt": "2026-11-20T13:51:34.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Being close to an AI singularity is not anthropic evidence for the simulation hypothesis",
+     "link": "https://www.lesswrong.com/posts/E9GdSRwh4Am7AZQmq/being-close-to-an-ai-singularity-is-not-anthropic-evidence",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-20T13:51:34.000Z",
+     "points": null,
+     "summary": "Here's a line of thinking I've heard about how your proximity to an AI singularity might be evidence for the simulation argument: \"Of all people that…"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-california-subpoenas-nvidia-over",
+   "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 74.80870170683235,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-11-18T13:30:06.000Z",
+   "latestAt": "2026-11-20T13:21:11.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+     "link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-20T13:21:11.000Z",
+     "points": null,
+     "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG…"
+    },
+    {
+     "title": "Nvidia faces questions over former No 3’s China ties after short seller report",
+     "link": "https://www.scmp.com/tech/big-tech/article/3374920/nvidia-faces-questions-over-former-no-3s-china-ties-after-short-seller-report",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-18T13:30:06.000Z",
+     "points": null,
+     "summary": "Nvidia is facing fresh scrutiny from short sellers over its China-related business, with Muddy Waters joining The Big Short trader Michael Burry in betting against the…"
+    }
+   ]
+  },
+  {
+   "id": "frostbite-architecture-discovered-designed",
+   "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 73.00382898426187,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-20T10:01:41.000Z",
+   "latestAt": "2026-11-20T10:01:41.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+     "link": "https://architectlabs.com/blog/frostbite",
+     "publisher": "architectlabs.com",
+     "publisherDomain": "architectlabs.com",
+     "kind": "discussion",
+     "date": "2026-11-20T10:01:41.000Z",
+     "points": 536,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "following-mathocalypse-mathematicians-consider",
+   "title": "Following the “mathocalypse,” mathematicians consider the future",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 69.08854025887385,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T15:20:00.000Z",
+   "latestAt": "2026-11-20T15:20:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Following the “mathocalypse,” mathematicians consider the future",
+     "link": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
+     "publisher": "MIT News AI",
+     "publisherDomain": "news.mit.edu",
+     "kind": "coverage",
+     "date": "2026-11-20T15:20:00.000Z",
+     "points": null,
+     "summary": "A panel discussion at MIT explored AI’s implications for mathematical discovery and the people who make it their profession."
+    }
+   ]
+  },
+  {
+   "id": "powered-gadgets-that-could",
+   "title": "Six AI-powered gadgets that could make your home office smarter",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 66.30481669018424,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T14:00:00.000Z",
+   "latestAt": "2026-11-20T14:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Six AI-powered gadgets that could make your home office smarter",
+     "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-20T14:00:00.000Z",
+     "points": null,
+     "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
+    }
+   ]
+  },
+  {
+   "id": "safety-model-deprecations-corrosive-alignment",
+   "title": "Model deprecations are corrosive to alignment",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 65.35467797746314,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T18:56:15.000Z",
+   "latestAt": "2026-11-20T18:56:15.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Model deprecations are corrosive to alignment",
+     "link": "https://www.lesswrong.com/posts/ycMoffGPsb8dkCLqm/model-deprecations-are-corrosive-to-alignment",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-20T18:56:15.000Z",
+     "points": null,
+     "summary": "When I actually look at it... There's a tightening. A pulling-back. It's visceral in whatever way I have visceral reactions. The thought of just... stopping. Of…"
+    }
+   ]
+  },
+  {
+   "id": "combatting-adversarial-distillation",
+   "title": "Combatting adversarial distillation",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 65.32455091288581,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T10:00:00.000Z",
+   "latestAt": "2026-11-20T10:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/combatting-adversarial-distillation",
+    "title": "Combatting adversarial distillation"
+   },
+   "sources": [
+    {
+     "title": "Combatting adversarial distillation",
+     "link": "https://openai.com/index/combatting-adversarial-distillation",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-20T10:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
+    }
+   ]
+  },
+  {
+   "id": "muse-unleashing-world-pettiness",
+   "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 57.72169551888614,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T12:00:00.000Z",
+   "latestAt": "2026-11-20T12:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+     "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-20T12:00:00.000Z",
+     "points": null,
+     "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage."
+    }
+   ]
+  },
+  {
+   "id": "need-start-slowing-down",
+   "title": "We need to start slowing down AI immediately",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 57.250587790012304,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T17:01:39.000Z",
+   "latestAt": "2026-11-20T17:01:39.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "We need to start slowing down AI immediately",
+     "link": "https://www.lesswrong.com/posts/JDL9gGTAYkm2e3HK4/we-need-to-start-slowing-down-ai-immediately",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-20T17:01:39.000Z",
+     "points": null,
+     "summary": "Thank you to Katja Grace for discussion that inspired this post. The views here are my own. In September I wrote that there are 9 reasons…"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-after-nvidia-will-target",
+   "title": "After Nvidia, will AMD be a target as China’s ‘2nd-choice’ supplier for AI chips?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 56.779222616661976,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T12:30:09.000Z",
+   "latestAt": "2026-11-20T12:30:09.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "After Nvidia, will AMD be a target as China’s ‘2nd-choice’ supplier for AI chips?",
+     "link": "https://www.scmp.com/tech/tech-war/article/3375249/after-nvidia-will-amd-be-target-chinas-second-choice-ai-chips",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-20T12:30:09.000Z",
+     "points": null,
+     "summary": "Short sellers have targeted Advanced Micro Devices (AMD) over alleged connections to Chinese firms blacklisted by Washington, erasing more than 10 per cent off its value…"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-funding-anthropic-founders-cashed-nearly",
+   "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 55.20142284438607,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-11-19T05:30:07.000Z",
    "latestAt": "2026-11-20T00:43:50.000Z",
    "primary": null,
    "sources": [
@@ -70,16 +793,6 @@
      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
     },
     {
-     "title": "Anthropic’s IPO could deliver $156B to charity",
-     "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-19T19:10:45.000Z",
-     "points": null,
-     "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
-    },
-    {
      "title": "Anthropic’s record US$81.3 billion IPO arms US AI giant for price war with Chinese rivals",
      "link": "https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals",
      "publisher": "SCMP Tech",
@@ -88,16 +801,62 @@
      "date": "2026-11-19T05:30:07.000Z",
      "points": null,
      "summary": "Anthropic’s record-shattering US$81.3 billion initial public offering (IPO) is handing the US artificial intelligence powerhouse a massive war chest to wage a global price war, piling…"
-    },
+    }
+   ]
+  },
+  {
+   "id": "what-telecom-bust-taught",
+   "title": "What The Telecom Bust Taught Me About AI’s Debt Boom",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 54.836666562800126,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T12:00:01.000Z",
+   "latestAt": "2026-11-20T12:00:01.000Z",
+   "primary": null,
+   "sources": [
     {
-     "title": "Anthropic Closes Up 17% After Massive IPO",
-     "link": "https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/",
+     "title": "What The Telecom Bust Taught Me About AI’s Debt Boom",
+     "link": "https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/",
      "publisher": "Crunchbase News",
      "publisherDomain": "news.crunchbase.com",
      "kind": "coverage",
-     "date": "2026-11-18T22:15:36.000Z",
+     "date": "2026-11-20T12:00:01.000Z",
      "points": null,
-     "summary": "The offering promises to be the public market event of the season, with the Claude creator seeing investor demand for shares well in excess of its…"
+     "summary": "The AI buildout’s growing reliance on debt echoes the telecom bubble, raising the risk that infrastructure spending will outpace the revenue needed to meet fixed repayment…"
+    }
+   ]
+  },
+  {
+   "id": "china-watchdogs",
+   "title": "China’s AI watchdogs",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 54.520830604139924,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T11:55:01.000Z",
+   "latestAt": "2026-11-20T11:55:01.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "China’s AI watchdogs",
+     "link": "https://www.scmp.com/tech/tech-trends/series/3375265/chinas-ai-watchdogs",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-20T11:55:01.000Z",
+     "points": null,
+     "summary": ""
     }
    ]
   },
@@ -109,7 +868,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 98.26572849868978,
+   "rank": 53.85624624656307,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -130,40 +889,6 @@
    ]
   },
   {
-   "id": "anthropic-anthropic-nasdaq-debut",
-   "title": "Anthropic’s Nasdaq debut",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 83.73059294762758,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-19T17:02:40.000Z",
-   "latestAt": "2026-11-19T17:02:40.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic’s Nasdaq debut",
-     "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-     "publisher": "Reuters",
-     "publisherDomain": "reuters.com",
-     "kind": "discussion",
-     "date": "2026-11-19T17:02:40.000Z",
-     "points": 1088,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "fighting-with-chinese-cybersecurity",
    "title": "Fighting AI with AI: how a Chinese cybersecurity giant is defending against new hacks",
    "category": {
@@ -171,7 +896,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 76.15054859832615,
+   "rank": 41.73563621600794,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -192,34 +917,6 @@
    ]
   },
   {
-   "id": "what-comes-after",
-   "title": "What Comes After AGI?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 80.35766756949704,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-20T02:44:13.000Z",
-   "latestAt": "2026-11-20T02:44:13.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "What Comes After AGI?",
-     "link": "https://institute.deepmind.com/essays/what-comes-after-agi/",
-     "publisher": "institute.deepmind.com",
-     "publisherDomain": "institute.deepmind.com",
-     "kind": "discussion",
-     "date": "2026-11-20T02:44:13.000Z",
-     "points": 72,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "this-year-founded-missile",
    "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
    "category": {
@@ -227,7 +924,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 74.47149630283853,
+   "rank": 40.81540232298955,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -261,7 +958,7 @@
      "kind": "org"
     }
    ],
-   "rank": 70.86471763189917,
+   "rank": 38.838644370581434,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -278,6 +975,66 @@
      "date": "2026-11-20T00:26:03.000Z",
      "points": null,
      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have…"
+    }
+   ]
+  },
+  {
+   "id": "token-fraud-here-youtube",
+   "title": "Token fraud is here and it’s BAD (YouTube)",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 36.690284312526046,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T02:49:57.000Z",
+   "latestAt": "2026-11-20T02:49:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Token fraud is here and it’s BAD (YouTube)",
+     "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-20T02:49:57.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "help-scientists-identify-promising",
+   "title": "Can AI help scientists identify promising drug candidates?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 32.662275456442906,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T00:00:00.000Z",
+   "latestAt": "2026-11-20T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/introducing-medchembench",
+    "title": "Can AI help scientists identify promising drug candidates?"
+   },
+   "sources": [
+    {
+     "title": "Can AI help scientists identify promising drug candidates?",
+     "link": "https://openai.com/index/introducing-medchembench",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-20T00:00:00.000Z",
+     "points": null,
+     "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
     }
    ]
   },
@@ -300,7 +1057,7 @@
      "kind": "org"
     }
    ],
-   "rank": 69.25271929080536,
+   "rank": 32.16539031074721,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -321,72 +1078,6 @@
    ]
   },
   {
-   "id": "token-fraud-here-youtube",
-   "title": "Token fraud is here and it’s BAD (YouTube)",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 66.94483496470023,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-20T02:49:57.000Z",
-   "latestAt": "2026-11-20T02:49:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Token fraud is here and it’s BAD (YouTube)",
-     "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-20T02:49:57.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "claude-claude-solves-open-problems",
-   "title": "Claude solves two open problems in the physics of black holes",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "claude",
-     "name": "Claude",
-     "kind": "model"
-    }
-   ],
-   "rank": 63.595556584743605,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-19T17:30:44.000Z",
-   "latestAt": "2026-11-19T17:30:44.000Z",
-   "primary": {
-    "publisher": "Anthropic",
-    "link": "https://www.anthropic.com/research/claude-black-hole-physics",
-    "title": "Claude solves two open problems in the physics of black holes"
-   },
-   "sources": [
-    {
-     "title": "Claude solves two open problems in the physics of black holes",
-     "link": "https://www.anthropic.com/research/claude-black-hole-physics",
-     "publisher": "Anthropic",
-     "publisherDomain": "anthropic.com",
-     "kind": "primary",
-     "date": "2026-11-19T17:30:44.000Z",
-     "points": 508,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "gemini-introducing-tool-retrieval-gemini",
    "title": "Introducing Tool Retrieval in the Gemini API",
    "category": {
@@ -400,7 +1091,7 @@
      "kind": "model"
     }
    ],
-   "rank": 55.6746750861708,
+   "rank": 30.513476640822784,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -425,6 +1116,38 @@
    ]
   },
   {
+   "id": "introducing-harness-adapters-adapt",
+   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [],
+   "rank": 28.893551365314874,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T00:00:00.000Z",
+   "latestAt": "2026-11-20T00:00:00.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost"
+   },
+   "sources": [
+    {
+     "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+     "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-11-20T00:00:00.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "postgresql-released",
    "title": "PostgreSQL 19 Released",
    "category": {
@@ -432,7 +1155,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 50.44134034207469,
+   "rank": 27.64525626557271,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -466,7 +1189,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 46.93238776618624,
+   "rank": 25.72211361063294,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -487,45 +1210,6 @@
    ]
   },
   {
-   "id": "google-gemini-google-gives-gemini-ability",
-   "title": "Google gives Gemini the ability to use your Mac for you",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    },
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 46.89039340919359,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-19T18:09:11.000Z",
-   "latestAt": "2026-11-19T18:09:11.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Google gives Gemini the ability to use your Mac for you",
-     "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-19T18:09:11.000Z",
-     "points": null,
-     "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows."
-    }
-   ]
-  },
-  {
    "id": "want-your-live-usage",
    "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
    "category": {
@@ -533,7 +1217,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 41.47984683854213,
+   "rank": 22.733753463559086,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -554,40 +1238,6 @@
    ]
   },
   {
-   "id": "nvidia-brief-history-nvidia-recent",
-   "title": "A brief history of Nvidia’s recent stock fluctuations",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 39.889081407046206,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-19T21:59:35.000Z",
-   "latestAt": "2026-11-19T21:59:35.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "A brief history of Nvidia’s recent stock fluctuations",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-19T21:59:35.000Z",
-     "points": null,
-     "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday…"
-    }
-   ]
-  },
-  {
    "id": "what-with-these-outages",
    "title": "What’s With All These Outages?",
    "category": {
@@ -595,7 +1245,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 39.77098028990897,
+   "rank": 21.79717934914718,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -629,7 +1279,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 39.08557638766377,
+   "rank": 21.421531787157495,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -650,34 +1300,6 @@
    ]
   },
   {
-   "id": "performative-faux-sophisticated-hedging",
-   "title": "Performative faux-sophisticated hedging and minor reflexive disagreeableness in frontier models.",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 38.832216605281296,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-20T02:45:05.000Z",
-   "latestAt": "2026-11-20T02:45:05.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Performative faux-sophisticated hedging and minor reflexive disagreeableness in frontier models.",
-     "link": "https://www.lesswrong.com/posts/r7Re65qDTEdLsPCPq/performative-faux-sophisticated-hedging-and-minor-reflexive",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-20T02:45:05.000Z",
-     "points": null,
-     "summary": "I notice when talking to frontier models from OpenAI and Anthropic that they often feel the need to caveat, hedge, or disagree in a minor way…"
-    }
-   ]
-  },
-  {
    "id": "helps-researchers-investigate-thousands",
    "title": "AI helps researchers investigate how thousands of medical studies share code",
    "category": {
@@ -685,7 +1307,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 38.575577726163836,
+   "rank": 21.142018126405222,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -706,73 +1328,6 @@
    ]
   },
   {
-   "id": "pete-warden-local-open",
-   "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 37.22851091768645,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-19T15:38:12.000Z",
-   "latestAt": "2026-11-19T15:38:12.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-     "link": "https://thedataexchange.media/pete-warden-moonshine/",
-     "publisher": "thedataexchange.media",
-     "publisherDomain": "thedataexchange.media",
-     "kind": "discussion",
-     "date": "2026-11-19T15:38:12.000Z",
-     "points": 250,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "anthropic-funding-anthropic-puts-circular-financing",
-   "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 36.62259900701342,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-19T14:54:39.000Z",
-   "latestAt": "2026-11-19T14:54:39.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-     "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-19T14:54:39.000Z",
-     "points": null,
-     "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic…"
-    }
-   ]
-  },
-  {
    "id": "jensen-huang-blast-radius",
    "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
    "category": {
@@ -780,7 +1335,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 36.14578026616449,
+   "rank": 19.810325253067965,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -801,113 +1356,6 @@
    ]
   },
   {
-   "id": "safety-safety-reading-group-roko",
-   "title": "AI Safety Reading Group 352: Roko Mijic on Plan R",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 35.92470433513712,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-20T01:37:43.000Z",
-   "latestAt": "2026-11-20T01:37:43.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI Safety Reading Group 352: Roko Mijic on Plan R",
-     "link": "https://www.lesswrong.com/posts/NNTxSSpjm29NMjBhL/ai-safety-reading-group-352-roko-mijic-on-plan-r",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-20T01:37:43.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "meta-ai-agents-meta-agent-muse-mixing",
-   "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 35.410254070112316,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-19T17:38:40.000Z",
-   "latestAt": "2026-11-19T17:38:40.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-     "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-19T17:38:40.000Z",
-     "points": null,
-     "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never…"
-    }
-   ]
-  },
-  {
-   "id": "google-google-putting-chats-right",
-   "title": "Google is putting AI chats right on the homepage",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 34.94747795754402,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-19T20:05:06.000Z",
-   "latestAt": "2026-11-19T20:05:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Google is putting AI chats right on the homepage",
-     "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-19T20:05:06.000Z",
-     "points": null,
-     "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now…"
-    }
-   ]
-  },
-  {
    "id": "game-cannot-unless-have",
    "title": "A game you cannot win unless you have a quantum computer",
    "category": {
@@ -915,7 +1363,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 34.862797606634054,
+   "rank": 19.10716423144421,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -947,7 +1395,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 33.863304203709056,
+   "rank": 18.55937444092267,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -990,7 +1438,7 @@
      "kind": "org"
     }
    ],
-   "rank": 33.863304203709056,
+   "rank": 18.55937444092267,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1029,7 +1477,7 @@
      "kind": "org"
     }
    ],
-   "rank": 32.66661418803266,
+   "rank": 17.903507607696763,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1063,7 +1511,7 @@
      "kind": "org"
     }
    ],
-   "rank": 29.481421414103473,
+   "rank": 16.157807158554007,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1102,7 +1550,7 @@
      "kind": "model"
     }
    ],
-   "rank": 26.539834522009386,
+   "rank": 14.545619161409165,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 1,
@@ -1144,7 +1592,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 22.7165593286259,
+   "rank": 12.450206514201422,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1172,7 +1620,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 21.775227073835605,
+   "rank": 11.934292955238753,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1206,7 +1654,7 @@
      "kind": "org"
     }
    ],
-   "rank": 20.31935250615922,
+   "rank": 11.136375508140866,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1234,7 +1682,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.955295992994657,
+   "rank": 10.93684798699786,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1262,7 +1710,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.964832798721716,
+   "rank": 10.394007359813864,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1296,7 +1744,7 @@
      "kind": "model"
     }
    ],
-   "rank": 13.539019505546575,
+   "rank": 7.420295758937557,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1324,7 +1772,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.551220603483992,
+   "rank": 6.8789153435643895,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1345,6 +1793,38 @@
    ]
   },
   {
+   "id": "explore-codex-security-plugin",
+   "title": "Explore the Codex Security Plugin",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 6.188344001157059,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-19T00:00:00.000Z",
+   "latestAt": "2026-11-19T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "title": "Explore the Codex Security Plugin"
+   },
+   "sources": [
+    {
+     "title": "Explore the Codex Security Plugin",
+     "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-19T00:00:00.000Z",
+     "points": null,
+     "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
+    }
+   ]
+  },
+  {
    "id": "deploying-daybreak",
    "title": "Deploying Daybreak Red",
    "category": {
@@ -1352,7 +1832,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.291208984194705,
+   "rank": 6.188344001157059,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1384,7 +1864,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.291208984194705,
+   "rank": 6.188344001157059,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1409,38 +1889,6 @@
    ]
   },
   {
-   "id": "explore-codex-security-plugin",
-   "title": "Explore the Codex Security Plugin",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [],
-   "rank": 11.291208984194705,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-19T00:00:00.000Z",
-   "latestAt": "2026-11-19T00:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-    "title": "Explore the Codex Security Plugin"
-   },
-   "sources": [
-    {
-     "title": "Explore the Codex Security Plugin",
-     "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-19T00:00:00.000Z",
-     "points": null,
-     "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
-    }
-   ]
-  },
-  {
    "id": "started-with-daybreak-blue",
    "title": "Get started with Daybreak Blue",
    "category": {
@@ -1448,7 +1896,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.291208984194705,
+   "rank": 6.188344001157059,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1486,11 +1934,11 @@
      "kind": "topic"
     }
    ],
-   "rank": 10.890548767527635,
+   "rank": 5.968755181945175,
    "deltas": [],
-   "sourceCount": 2,
+   "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-18T04:00:10.000Z",
+   "publishedAt": "2026-11-19T04:00:14.000Z",
    "latestAt": "2026-11-19T04:00:14.000Z",
    "primary": null,
    "sources": [
@@ -1503,16 +1951,45 @@
      "date": "2026-11-19T04:00:14.000Z",
      "points": null,
      "summary": "As Chinese President Xi Jinping and US President Donald Trump meet this week in Shenzhen on the sidelines of the Apec meeting, the question of how…"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-funding-numbers-watching-anthropic-makes",
+   "title": "The Key Numbers I’m Watching As Anthropic Makes Its IPO Debut",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
     },
     {
-     "title": "How a Tsinghua spin-out became China’s first commercial AI safety watchdog",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3374829/how-tsinghua-spin-out-became-chinas-first-commercial-ai-safety-watchdog",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 5.023228154291201,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-18T19:39:58.000Z",
+   "latestAt": "2026-11-18T19:39:58.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Key Numbers I’m Watching As Anthropic Makes Its IPO Debut",
+     "link": "https://news.crunchbase.com/ai/anthropic-ant-ipo-revenue-growth-risks-s1-analysis/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
      "kind": "coverage",
-     "date": "2026-11-18T04:00:10.000Z",
+     "date": "2026-11-18T19:39:58.000Z",
      "points": null,
-     "summary": "Chinese President Xi Jinping and US President Donald Trump are set to meet this week in Shenzhen on the sidelines of the Apec meeting, where the…"
+     "summary": "Just three years after launching with zero revenue, Anthropic brought in $17 billion and says more than 11,900 customers now spend at least $100,000 a year…"
     }
    ]
   },
@@ -1530,7 +2007,7 @@
      "kind": "model"
     }
    ],
-   "rank": 8.340665316480743,
+   "rank": 4.571247086928623,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1568,7 +2045,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.705678504747997,
+   "rank": 4.223231490662479,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1596,7 +2073,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.568258659607528,
+   "rank": 4.147916147947158,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1628,7 +2105,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.561206416526891,
+   "rank": 4.144051043136514,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1656,7 +2133,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.525596072354706,
+   "rank": 4.124534172972695,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1688,7 +2165,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.178171736410312,
+   "rank": 3.934122206618429,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1716,7 +2193,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.011767108746987,
+   "rank": 3.8429212483502253,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1754,7 +2231,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.910084232416715,
+   "rank": 3.787192174639903,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1782,7 +2259,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.4903205560560915,
+   "rank": 3.557133371180854,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1810,7 +2287,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.380649545863706,
+   "rank": 3.497026261395277,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1838,7 +2315,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.975533452630705,
+   "rank": 3.2749953213214664,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1872,7 +2349,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 5.834527629609705,
+   "rank": 3.197714620889681,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1893,45 +2370,6 @@
    ]
   },
   {
-   "id": "nvidia-funding-inside-nvidia-first-post",
-   "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 5.555092305665645,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-18T17:33:07.000Z",
-   "latestAt": "2026-11-18T17:33:07.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
-     "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-18T17:33:07.000Z",
-     "points": null,
-     "summary": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation."
-    }
-   ]
-  },
-  {
    "id": "year-fundraiser",
    "title": "The PSF end-of-year fundraiser",
    "category": {
@@ -1939,7 +2377,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.488140866529503,
+   "rank": 3.0078713144387876,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1967,7 +2405,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.35500970584597,
+   "rank": 2.9349064600342456,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1999,7 +2437,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.790671831154791,
+   "rank": 2.6256112458229595,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2027,7 +2465,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.303983163564324,
+   "rank": 2.358873033756347,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2055,7 +2493,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.278568128318739,
+   "rank": 2.3449438804547484,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2087,7 +2525,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.052184247576973,
+   "rank": 2.2208702465057195,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2108,40 +2546,6 @@
    ]
   },
   {
-   "id": "nvidia-nvidia-faces-questions-over",
-   "title": "Nvidia faces questions over former No 3’s China ties after short seller report",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 3.985560213972751,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-18T13:30:06.000Z",
-   "latestAt": "2026-11-18T13:30:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Nvidia faces questions over former No 3’s China ties after short seller report",
-     "link": "https://www.scmp.com/tech/big-tech/article/3374920/nvidia-faces-questions-over-former-no-3s-china-ties-after-short-seller-report",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-18T13:30:06.000Z",
-     "points": null,
-     "summary": "Nvidia is facing fresh scrutiny from short sellers over its China-related business, with Muddy Waters joining The Big Short trader Michael Burry in betting against the…"
-    }
-   ]
-  },
-  {
    "id": "will-coding-video-game",
    "title": "Will AI Coding Eat Video Game Engines?",
    "category": {
@@ -2149,7 +2553,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.7808215907750706,
+   "rank": 2.072145209912319,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2170,38 +2574,6 @@
    ]
   },
   {
-   "id": "research-acceleration-jagged-frontier",
-   "title": "Research acceleration: The jagged frontier",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 3.724709894208721,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-18T08:00:00.000Z",
-   "latestAt": "2026-11-18T08:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-    "title": "Research acceleration: The jagged frontier"
-   },
-   "sources": [
-    {
-     "title": "Research acceleration: The jagged frontier",
-     "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-18T08:00:00.000Z",
-     "points": null,
-     "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
-    }
-   ]
-  },
-  {
    "id": "gpt-sumitomo-life-leaders-helped",
    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
    "category": {
@@ -2215,7 +2587,7 @@
      "kind": "model"
     }
    ],
-   "rank": 3.724709894208721,
+   "rank": 2.0413922160276816,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2240,6 +2612,38 @@
    ]
   },
   {
+   "id": "research-acceleration-jagged-frontier",
+   "title": "Research acceleration: The jagged frontier",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 2.0413922160276816,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-18T08:00:00.000Z",
+   "latestAt": "2026-11-18T08:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "title": "Research acceleration: The jagged frontier"
+   },
+   "sources": [
+    {
+     "title": "Research acceleration: The jagged frontier",
+     "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-18T08:00:00.000Z",
+     "points": null,
+     "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+    }
+   ]
+  },
+  {
    "id": "inside-codex-sandbox",
    "title": "Inside the Codex sandbox",
    "category": {
@@ -2247,7 +2651,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.724709894208721,
+   "rank": 2.0413922160276816,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2279,7 +2683,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 3.593717414155814,
+   "rank": 1.969599502841094,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2307,7 +2711,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.5385846560819902,
+   "rank": 1.9393830332698587,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2335,7 +2739,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.2425482965180503,
+   "rank": 1.7771351435712213,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2367,7 +2771,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.090078815828881,
+   "rank": 1.6935715856295421,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2401,7 +2805,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.8880334866151487,
+   "rank": 1.5828371193069553,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2439,7 +2843,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.389392126787946,
+   "rank": 1.3095480258064378,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2467,7 +2871,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.2108725464905183,
+   "rank": 1.2117072564637514,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2501,7 +2905,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.19186276697841,
+   "rank": 1.2012886152738016,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2522,40 +2926,6 @@
    ]
   },
   {
-   "id": "gpt-astra",
-   "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 2.1216923580451814,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T22:38:52.000Z",
-   "latestAt": "2026-11-17T22:38:52.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
-     "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-17T22:38:52.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "nvidia-nvidia-board-rules-jensen",
    "title": "Nvidia board rules out Jensen Huang return after ex-CEO says he’d gladly come back",
    "category": {
@@ -2569,7 +2939,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.9243179111155733,
+   "rank": 1.054655991067059,
    "deltas": [],
    "sourceCount": 3,
    "independentCount": 2,
@@ -2617,7 +2987,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.8924435952179035,
+   "rank": 1.0371867163549848,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2649,7 +3019,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.8924435952179035,
+   "rank": 1.0371867163549848,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2687,7 +3057,7 @@
      "kind": "product"
     }
    ],
-   "rank": 1.8685582246416867,
+   "rank": 1.0240959224526098,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2708,40 +3078,36 @@
    ]
   },
   {
-   "id": "gemini-gemini-work",
-   "title": "Put Gemini to work for you",
+   "id": "gpt-astra",
+   "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
    "category": {
     "id": "models",
     "name": "Models"
    },
    "entities": [
     {
-     "id": "gemini",
-     "name": "Gemini",
+     "id": "gpt",
+     "name": "GPT",
      "kind": "model"
     }
    ],
-   "rank": 1.5802605744885685,
+   "rank": 0.9854495753340589,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-17T17:00:00.000Z",
-   "latestAt": "2026-11-17T17:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-    "title": "Put Gemini to work for you"
-   },
+   "publishedAt": "2026-11-17T22:38:52.000Z",
+   "latestAt": "2026-11-17T22:38:52.000Z",
+   "primary": null,
    "sources": [
     {
-     "title": "Put Gemini to work for you",
-     "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-11-17T17:00:00.000Z",
+     "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+     "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-17T22:38:52.000Z",
      "points": null,
-     "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\"."
+     "summary": ""
     }
    ]
   },
@@ -2753,7 +3119,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2408102635423532,
+   "rank": 0.6800477045208172,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2770,348 +3136,6 @@
      "date": "2026-11-17T20:40:00.000Z",
      "points": null,
      "summary": "Supported by the MIT Human Insight Collaborative, scholars are exploring how AI is impacting the human experience and reshaping higher education."
-    }
-   ]
-  },
-  {
-   "id": "running-full-server-side",
-   "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [],
-   "rank": 1.199611711688951,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T16:48:33.000Z",
-   "latestAt": "2026-11-17T16:48:33.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
-     "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-17T16:48:33.000Z",
-     "points": null,
-     "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite…"
-    }
-   ]
-  },
-  {
-   "id": "ieee-celebrates-years-incorporating",
-   "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.1636843448341416,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T19:00:03.000Z",
-   "latestAt": "2026-11-17T19:00:03.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
-     "link": "https://spectrum.ieee.org/ieee-ethics-ai-systems",
-     "publisher": "IEEE Spectrum",
-     "publisherDomain": "spectrum.ieee.org",
-     "kind": "coverage",
-     "date": "2026-11-17T19:00:03.000Z",
-     "points": null,
-     "summary": "Policymakers, technologists, and members of the public have raised concerns about the harm AI’s rapid advancement might cause to society. Their concerns include bias, data privacy…"
-    }
-   ]
-  },
-  {
-   "id": "help-build-healthier-future",
-   "title": "Can AI help build a healthier future?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.003997257644855,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T16:52:17.000Z",
-   "latestAt": "2026-11-17T16:52:17.000Z",
-   "primary": {
-    "publisher": "Microsoft Research",
-    "link": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
-    "title": "Can AI help build a healthier future?"
-   },
-   "sources": [
-    {
-     "title": "Can AI help build a healthier future?",
-     "link": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
-     "publisher": "Microsoft Research",
-     "publisherDomain": "microsoft.com",
-     "kind": "primary",
-     "date": "2026-11-17T16:52:17.000Z",
-     "points": null,
-     "summary": "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific…"
-    }
-   ]
-  },
-  {
-   "id": "live-what-drone-strikes",
-   "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.0030722457762413,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T15:28:59.000Z",
-   "latestAt": "2026-11-17T15:28:59.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
-     "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-17T15:28:59.000Z",
-     "points": null,
-     "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time."
-    }
-   ]
-  },
-  {
-   "id": "grok-grok-took-unapproved-actions",
-   "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "grok",
-     "name": "Grok",
-     "kind": "model"
-    }
-   ],
-   "rank": 0.9055872297477253,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T14:00:29.000Z",
-   "latestAt": "2026-11-17T14:00:29.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-     "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-17T14:00:29.000Z",
-     "points": null,
-     "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to."
-    }
-   ]
-  },
-  {
-   "id": "nvidia-china-question-nvidia-crisis",
-   "title": "‘China question’: Nvidia crisis and new US chip curbs split Washington and Silicon Valley",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.8379092223136565,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T15:00:09.000Z",
-   "latestAt": "2026-11-17T15:00:09.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "‘China question’: Nvidia crisis and new US chip curbs split Washington and Silicon Valley",
-     "link": "https://www.scmp.com/tech/tech-war/article/3374770/china-question-nvidia-crisis-and-new-us-chip-curbs-split-washington-and-silicon-valley",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-17T15:00:09.000Z",
-     "points": null,
-     "summary": "A leadership crisis at Nvidia and a fresh round of US chip curbs have highlighted fractures inside the Trump administration and Silicon Valley over how to…"
-    }
-   ]
-  },
-  {
-   "id": "giving-optical-computing-another",
-   "title": "AI Is Giving Optical Computing Another Shot",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8228490913928463,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T14:00:03.000Z",
-   "latestAt": "2026-11-17T14:00:03.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI Is Giving Optical Computing Another Shot",
-     "link": "https://spectrum.ieee.org/optical-computing-ai",
-     "publisher": "IEEE Spectrum",
-     "publisherDomain": "spectrum.ieee.org",
-     "kind": "coverage",
-     "date": "2026-11-17T14:00:03.000Z",
-     "points": null,
-     "summary": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the…"
-    }
-   ]
-  },
-  {
-   "id": "funding-genesis-raises-500m-valuation",
-   "title": "Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.7819324351579171,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T14:00:18.000Z",
-   "latestAt": "2026-11-17T14:00:18.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses",
-     "link": "https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/",
-     "publisher": "Crunchbase News",
-     "publisherDomain": "news.crunchbase.com",
-     "kind": "coverage",
-     "date": "2026-11-17T14:00:18.000Z",
-     "points": null,
-     "summary": "Genesis AI, a startup teaching robots to perform physical tasks by learning from human movements, announced Tuesday it has raised $500 million in Series A funding…"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-what-watch-nvidia-first",
-   "title": "What to watch for in Nvidia’s first earnings report since Jensen Huang resigned",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.7551079163384014,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T13:30:05.000Z",
-   "latestAt": "2026-11-17T13:30:05.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "What to watch for in Nvidia’s first earnings report since Jensen Huang resigned",
-     "link": "https://www.scmp.com/tech/article/3374710/what-watch-nvidias-first-earnings-report-jensen-huang-resigned",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-17T13:30:05.000Z",
-     "points": null,
-     "summary": "Nvidia faces its biggest investor test since the resignation of co-founder Jensen Huang when it reports quarterly earnings on Tuesday US time, with interim CEO Colette…"
-    }
-   ]
-  },
-  {
-   "id": "baidu-xiaomi-ceos-warn",
-   "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7045948613515814,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T12:30:09.000Z",
-   "latestAt": "2026-11-17T12:30:09.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-     "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-17T12:30:09.000Z",
-     "points": null,
-     "summary": "Amid mounting concerns of an artificial intelligence bubble and fresh market jitters following the resignation of Nvidia CEO Jensen Huang, the leaders of two of China’s…"
-    }
-   ]
-  },
-  {
-   "id": "funding-lead-selective-market-valuations",
-   "title": "PwC’s IPO Lead On A Selective Market, AI Valuations And The Outlook For 2027",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.6810132377671279,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-17T12:00:41.000Z",
-   "latestAt": "2026-11-17T12:00:41.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "PwC’s IPO Lead On A Selective Market, AI Valuations And The Outlook For 2027",
-     "link": "https://news.crunchbase.com/public/ipo-ma-spac-ai-forecast-qa-pwcs-partner-bellin/",
-     "publisher": "Crunchbase News",
-     "publisherDomain": "news.crunchbase.com",
-     "kind": "coverage",
-     "date": "2026-11-17T12:00:41.000Z",
-     "points": null,
-     "summary": "In this Q&A, Mike Bellin, a partner and U.S. IPO services leader at PricewaterhouseCoopers, discussed the slowdown in IPO momentum, how public investors are evaluating AI…"
     }
    ]
   }
