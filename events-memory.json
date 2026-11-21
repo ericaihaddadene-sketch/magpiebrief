@@ -1,4 +1,28 @@
 {
+ "tasklet-hiring-product-agent": {
+  "id": "tasklet-hiring-product-agent",
+  "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+  "firstSeen": "2026-11-21T22:59:55.389Z",
+  "publishers": [
+   "tasklet.ai"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "signal-restricts-mobile-screenshots": {
+  "id": "signal-restricts-mobile-screenshots",
+  "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+  "firstSeen": "2026-11-21T22:59:55.389Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "anthropic-anthropic-afford-safety-first": {
   "id": "anthropic-anthropic-afford-safety-first",
   "title": "Can Anthropic afford to put safety first?",
@@ -23,36 +47,24 @@
   "hadPrimary": false,
   "category": "general"
  },
- "selling-version-your-face": {
-  "id": "selling-version-your-face",
-  "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-  "firstSeen": "2026-11-21T17:17:44.175Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "coding-agents-clawdos-coding-agent": {
-  "id": "coding-agents-clawdos-coding-agent",
-  "title": "ClawDOS – An AI coding agent for DOS",
-  "firstSeen": "2026-11-21T09:32:23.380Z",
-  "publishers": [
-   "ricapar.net"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
  "outages-just-getting-started": {
   "id": "outages-just-getting-started",
   "title": "The Outages Are Just Getting Started",
   "firstSeen": "2026-11-21T17:17:44.175Z",
   "publishers": [
    "Wired AI"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "selling-version-your-face": {
+  "id": "selling-version-your-face",
+  "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+  "firstSeen": "2026-11-21T17:17:44.175Z",
+  "publishers": [
+   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -119,18 +131,6 @@
   "independentCount": 1,
   "hadPrimary": true,
   "category": "models"
- },
- "gemini-behavioral-study-gemini-during": {
-  "id": "gemini-behavioral-study-gemini-during",
-  "title": "A Behavioral Study of Gemini 3.1 Pro During an AI Village Research Project",
-  "firstSeen": "2026-11-21T09:32:23.380Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "research"
  },
  "nvidia-nvidia-faces-further-blow": {
   "id": "nvidia-nvidia-faces-further-blow",
@@ -214,18 +214,6 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "general"
- },
- "language-models-rewrite-their": {
-  "id": "language-models-rewrite-their",
-  "title": "Language Models Can Rewrite Their Own Weights",
-  "firstSeen": "2026-11-20T19:55:41.319Z",
-  "publishers": [
-   "arXiv"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
   "category": "general"
  },
  "experts-warn-nearly-everyone": {
@@ -384,20 +372,6 @@
   "hadPrimary": true,
   "category": "general"
  },
- "anthropic-funding-anthropic-closes-after-massive": {
-  "id": "anthropic-funding-anthropic-closes-after-massive",
-  "title": "Anthropic Closes Up 17% After Massive IPO",
-  "firstSeen": "2026-11-21T01:19:13.693Z",
-  "publishers": [
-   "TechCrunch",
-   "SCMP Tech",
-   "Crunchbase News"
-  ],
-  "sourceCount": 3,
-  "independentCount": 3,
-  "hadPrimary": false,
-  "category": "business"
- },
  "nvidia-california-subpoenas-nvidia-over": {
   "id": "nvidia-california-subpoenas-nvidia-over",
   "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
@@ -433,6 +407,19 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
+ },
+ "anthropic-funding-anthropic-founders-cashed-nearly": {
+  "id": "anthropic-funding-anthropic-founders-cashed-nearly",
+  "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+  "firstSeen": "2026-11-21T22:59:55.389Z",
+  "publishers": [
+   "TechCrunch",
+   "SCMP Tech"
+  ],
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "category": "business"
  },
  "what-telecom-bust-taught": {
   "id": "what-telecom-bust-taught",
@@ -494,18 +481,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "anthropic-anthropic-rival-says-companies": {
-  "id": "anthropic-anthropic-rival-says-companies",
-  "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-  "firstSeen": "2026-11-20T02:57:10.613Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "token-fraud-here-youtube": {
   "id": "token-fraud-here-youtube",
   "title": "Token fraud is here and it’s BAD (YouTube)",
@@ -541,18 +516,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "gemini-introducing-tool-retrieval-gemini": {
-  "id": "gemini-introducing-tool-retrieval-gemini",
-  "title": "Introducing Tool Retrieval in the Gemini API",
-  "firstSeen": "2026-11-19T21:19:59.779Z",
-  "publishers": [
-   "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "models"
  },
  "welcome-inkling-mini-cutting": {
   "id": "welcome-inkling-mini-cutting",
@@ -590,17 +553,17 @@
   "hadPrimary": false,
   "category": "general"
  },
- "want-your-live-usage": {
-  "id": "want-your-live-usage",
-  "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-  "firstSeen": "2026-11-20T02:57:10.613Z",
+ "gemini-introducing-tool-retrieval-gemini": {
+  "id": "gemini-introducing-tool-retrieval-gemini",
+  "title": "Introducing Tool Retrieval in the Gemini API",
+  "firstSeen": "2026-11-19T21:19:59.779Z",
   "publishers": [
-   "TechCrunch"
+   "Google AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": false,
-  "category": "tools"
+  "hadPrimary": true,
+  "category": "models"
  },
  "what-with-these-outages": {
   "id": "what-with-these-outages",
@@ -860,90 +823,6 @@
   "firstSeen": "2026-11-20T02:57:10.613Z",
   "publishers": [
    "SCMP Tech"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "anthropic-funding-numbers-watching-anthropic-makes": {
-  "id": "anthropic-funding-numbers-watching-anthropic-makes",
-  "title": "The Key Numbers I’m Watching As Anthropic Makes Its IPO Debut",
-  "firstSeen": "2026-11-20T19:55:41.319Z",
-  "publishers": [
-   "Crunchbase News"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
- "genie-available": {
-  "id": "genie-available",
-  "title": "Genie 4 is now available",
-  "firstSeen": "2026-11-18T21:17:56.384Z",
-  "publishers": [
-   "Google DeepMind"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "daisyrose-pushing-frontier-post": {
-  "id": "daisyrose-pushing-frontier-post",
-  "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-  "firstSeen": "2026-11-18T21:17:56.384Z",
-  "publishers": [
-   "Hugging Face"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "your-fine-tuning-takes": {
-  "id": "your-fine-tuning-takes",
-  "title": "Why your fine-tuning job takes longer than the FLOPs say",
-  "firstSeen": "2026-11-18T21:17:56.384Z",
-  "publishers": [
-   "Hugging Face"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "meta-ai-muse-privacy-invasions-freaking": {
-  "id": "meta-ai-muse-privacy-invasions-freaking",
-  "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-  "firstSeen": "2026-11-18T21:17:56.384Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "will-wright-next-simulation": {
-  "id": "will-wright-next-simulation",
-  "title": "Will Wright's next simulation will use AI to mine content from your memories",
-  "firstSeen": "2026-11-18T21:17:56.384Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "robotics-this-featherweight-flying-robot": {
-  "id": "robotics-this-featherweight-flying-robot",
-  "title": "This featherweight, flying robot carries its own sensors and computers",
-  "firstSeen": "2026-11-18T21:17:56.384Z",
-  "publishers": [
-   "MIT News AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
