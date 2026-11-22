@@ -1,4 +1,40 @@
 {
+ "mcp-agents-pandex-official-european-agents": {
+  "id": "mcp-agents-pandex-official-european-agents",
+  "title": "Pandex – Official European Law for AI Agents, over MCP",
+  "firstSeen": "2026-11-22T02:56:56.707Z",
+  "publishers": [
+   "pandex.io"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "muru": {
+  "id": "muru",
+  "title": "Muru",
+  "firstSeen": "2026-11-22T02:56:56.707Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "researcher-plants-canaries-into": {
+  "id": "researcher-plants-canaries-into",
+  "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+  "firstSeen": "2026-11-21T01:19:13.693Z",
+  "publishers": [
+   "Ars Technica"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "research"
+ },
  "tasklet-hiring-product-agent": {
   "id": "tasklet-hiring-product-agent",
   "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
@@ -23,6 +59,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "incomplete-agents-want-become": {
+  "id": "incomplete-agents-want-become",
+  "title": "Incomplete agents want to become complete",
+  "firstSeen": "2026-11-22T02:56:56.707Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "anthropic-anthropic-afford-safety-first": {
   "id": "anthropic-anthropic-afford-safety-first",
   "title": "Can Anthropic afford to put safety first?",
@@ -35,9 +83,33 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "models-believe-skepticism": {
+  "id": "models-believe-skepticism",
+  "title": "Why models believe in skepticism",
+  "firstSeen": "2026-11-22T02:56:56.707Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "agents-here-agents-that-live": {
   "id": "agents-here-agents-that-live",
   "title": "Here are the top AI agents that can live in your text messages",
+  "firstSeen": "2026-11-21T17:17:44.175Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "selling-version-your-face": {
+  "id": "selling-version-your-face",
+  "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
   "firstSeen": "2026-11-21T17:17:44.175Z",
   "publishers": [
    "TechCrunch"
@@ -59,18 +131,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "selling-version-your-face": {
-  "id": "selling-version-your-face",
-  "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-  "firstSeen": "2026-11-21T17:17:44.175Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "gpt-hebbia-sees-improvements-financial": {
   "id": "gpt-hebbia-sees-improvements-financial",
   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -83,30 +143,6 @@
   "independentCount": 2,
   "hadPrimary": true,
   "category": "models"
- },
- "anthropic-anthropic-protest": {
-  "id": "anthropic-anthropic-protest",
-  "title": "The pro-Anthropic protest",
-  "firstSeen": "2026-11-21T09:32:23.380Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "human-organisations-intuition-pump": {
-  "id": "human-organisations-intuition-pump",
-  "title": "Human organisations as an intuition pump for AI's unit of agency",
-  "firstSeen": "2026-11-21T17:17:44.175Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  },
  "agents-agents-getting-wallets-hong": {
   "id": "agents-agents-getting-wallets-hong",
@@ -179,18 +215,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "researcher-plants-canaries-into": {
-  "id": "researcher-plants-canaries-into",
-  "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-  "firstSeen": "2026-11-21T01:19:13.693Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "research"
  },
  "week-biggest-funding-rounds": {
   "id": "week-biggest-funding-rounds",
@@ -456,6 +480,18 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
+ },
+ "gemini-gemini": {
+  "id": "gemini-gemini",
+  "title": "llm-gemini 0.38.1",
+  "firstSeen": "2026-11-19T12:46:21.779Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "models"
  },
  "fighting-with-chinese-cybersecurity": {
   "id": "fighting-with-chinese-cybersecurity",
@@ -745,18 +781,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "gemini-gemini": {
-  "id": "gemini-gemini",
-  "title": "llm-gemini 0.38",
-  "firstSeen": "2026-11-19T12:46:21.779Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
- },
  "solomonoff-induction-with-reflective": {
   "id": "solomonoff-induction-with-reflective",
   "title": "Solomonoff induction with reflective oracles",
@@ -767,54 +791,6 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "general"
- },
- "explore-codex-security-plugin": {
-  "id": "explore-codex-security-plugin",
-  "title": "Explore the Codex Security Plugin",
-  "firstSeen": "2026-11-20T02:57:10.613Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "tools"
- },
- "scans-action": {
-  "id": "scans-action",
-  "title": "See PR scans in action",
-  "firstSeen": "2026-11-20T02:57:10.613Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "started-with-daybreak-blue": {
-  "id": "started-with-daybreak-blue",
-  "title": "Get started with Daybreak Blue",
-  "firstSeen": "2026-11-20T02:57:10.613Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "deploying-daybreak": {
-  "id": "deploying-daybreak",
-  "title": "Deploying Daybreak Red",
-  "firstSeen": "2026-11-20T02:57:10.613Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
   "category": "general"
  },
  "safety-little-known-beijing-safety": {
