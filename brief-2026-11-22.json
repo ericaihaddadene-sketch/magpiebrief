@@ -1,44 +1,101 @@
 {
  "date": "2026-11-22",
- "generated": "2026-11-22T02:56:56.760Z",
+ "generated": "2026-11-22T10:59:57.809Z",
  "headline": "67 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2941 items read · 69 on-topic · 67 distinct developments · 10 with a primary source · 2 independently corroborated",
+ "stats": "22 sources monitored · 2941 items read · 67 on-topic · 67 distinct developments · 9 with a primary source · 0 independently corroborated",
  "events": [
   {
-   "id": "mcp-agents-pandex-official-european-agents",
-   "title": "Pandex – Official European Law for AI Agents, over MCP",
+   "id": "anthropic-anthropic-power-will-come",
+   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [
     {
-     "id": "mcp",
-     "name": "Model Context Protocol",
-     "kind": "product"
-    },
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
     }
    ],
-   "rank": 110.8632549867431,
+   "rank": 188.82140112589116,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-11-21T20:47:41.000Z",
-   "latestAt": "2026-11-21T20:47:41.000Z",
+   "publishedAt": "2026-11-22T08:57:34.000Z",
+   "latestAt": "2026-11-22T08:57:34.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Pandex – Official European Law for AI Agents, over MCP",
-     "link": "https://www.pandex.io",
-     "publisher": "pandex.io",
-     "publisherDomain": "pandex.io",
+     "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+     "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+     "publisher": "betterdatacenterproject.com",
+     "publisherDomain": "betterdatacenterproject.com",
      "kind": "discussion",
-     "date": "2026-11-21T20:47:41.000Z",
-     "points": 39,
+     "date": "2026-11-22T08:57:34.000Z",
+     "points": 139,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "claude-claude-delusion",
+   "title": "The Claude Delusion",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 120.49673654246916,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-22T09:21:35.000Z",
+   "latestAt": "2026-11-22T09:21:35.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Claude Delusion",
+     "link": "https://www.netmeister.org/blog/claude-delusion.html",
+     "publisher": "netmeister.org",
+     "publisherDomain": "netmeister.org",
+     "kind": "discussion",
+     "date": "2026-11-22T09:21:35.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "data-processing-incidents-inference",
+   "title": "Data Processing Incidents on Inference Providers",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 78.99523660873537,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-22T02:14:14.000Z",
+   "latestAt": "2026-11-22T02:14:14.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Data Processing Incidents on Inference Providers",
+     "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+     "publisher": "openrouter.ai",
+     "publisherDomain": "openrouter.ai",
+     "kind": "discussion",
+     "date": "2026-11-22T02:14:14.000Z",
+     "points": 156,
      "summary": ""
     }
    ]
@@ -51,7 +108,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 97.41642797817798,
+   "rank": 55.756347514799934,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -79,10 +136,8 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 84.63733792315881,
-   "deltas": [
-    "Now also covered by Ars Technica."
-   ],
+   "rank": 48.442228111959786,
+   "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
    "publishedAt": "2026-11-22T02:03:46.000Z",
@@ -102,29 +157,68 @@
    ]
   },
   {
-   "id": "tasklet-hiring-product-agent",
-   "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+   "id": "mythology-conscious",
+   "title": "The Mythology of Conscious AI",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 80.47884099392991,
+   "rank": 78.6128776886607,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-11-21T21:11:08.000Z",
-   "latestAt": "2026-11-21T21:11:08.000Z",
+   "publishedAt": "2026-11-22T02:10:02.000Z",
+   "latestAt": "2026-11-22T02:10:02.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-     "link": "https://tasklet.ai/careers",
-     "publisher": "tasklet.ai",
-     "publisherDomain": "tasklet.ai",
+     "title": "The Mythology of Conscious AI",
+     "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+     "publisher": "noemamag.com",
+     "publisherDomain": "noemamag.com",
      "kind": "discussion",
-     "date": "2026-11-21T21:11:08.000Z",
-     "points": null,
+     "date": "2026-11-22T02:10:02.000Z",
+     "points": 72,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "mcp-agents-pandex-official-european-agents",
+   "title": "Pandex – Official European Law for AI Agents, over MCP",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "mcp",
+     "name": "Model Context Protocol",
+     "kind": "product"
+    },
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 65.00497193846917,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-21T20:47:41.000Z",
+   "latestAt": "2026-11-21T20:47:41.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Pandex – Official European Law for AI Agents, over MCP",
+     "link": "https://www.pandex.io",
+     "publisher": "pandex.io",
+     "publisherDomain": "pandex.io",
+     "kind": "discussion",
+     "date": "2026-11-21T20:47:41.000Z",
+     "points": 96,
      "summary": ""
     }
    ]
@@ -137,7 +231,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 69.11333091844573,
+   "rank": 39.55705394430438,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -165,7 +259,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 66.88722999642529,
+   "rank": 38.28294382563945,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -199,7 +293,7 @@
      "kind": "org"
     }
    ],
-   "rank": 65.52212140783088,
+   "rank": 37.50162315477521,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -227,7 +321,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 61.13161225372318,
+   "rank": 34.98871276333512,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -261,7 +355,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 60.21212246167307,
+   "rank": 34.46244226208721,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -289,7 +383,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 46.816580622662855,
+   "rank": 26.795496332883108,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -317,7 +411,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 38.026879799962806,
+   "rank": 21.764706107939023,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -338,54 +432,6 @@
    ]
   },
   {
-   "id": "gpt-hebbia-sees-improvements-financial",
-   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 36.9611855224725,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-11-20T00:00:00.000Z",
-   "latestAt": "2026-11-21T15:20:52.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/business/customer-stories/hebbia",
-    "title": "Hebbia sees improvements in financial research with GPT-6 Astra"
-   },
-   "sources": [
-    {
-     "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-     "link": "https://openai.com/business/customer-stories/hebbia",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-20T00:00:00.000Z",
-     "points": null,
-     "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
-    },
-    {
-     "title": "GPT-6.2 Astra and Sol: The System Card",
-     "link": "https://www.lesswrong.com/posts/7Skw6caJxPrBDetCC/gpt-6-2-astra-and-sol-the-system-card",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-21T15:20:52.000Z",
-     "points": null,
-     "summary": "We have to stop meeting like this. Alas, we will keep meeting like this. It is time, once again, to do the reading . As per…"
-    }
-   ]
-  },
-  {
    "id": "agents-agents-getting-wallets-hong",
    "title": "AI agents are getting wallets. Is Hong Kong ready for them?",
    "category": {
@@ -399,7 +445,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 20.93899617381535,
+   "rank": 11.984446273680243,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -438,7 +484,7 @@
      "kind": "model"
     }
    ],
-   "rank": 19.40414040395103,
+   "rank": 11.10597070784631,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -476,7 +522,7 @@
      "kind": "org"
     }
    ],
-   "rank": 18.087762547873684,
+   "rank": 10.35254109923166,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -504,7 +550,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.815169401745898,
+   "rank": 8.47947056567722,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -538,7 +584,7 @@
      "kind": "org"
     }
    ],
-   "rank": 14.763096095523219,
+   "rank": 8.449666379481371,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -572,7 +618,7 @@
      "kind": "org"
     }
    ],
-   "rank": 14.571346527620124,
+   "rank": 8.33991840610862,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -600,7 +646,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 13.590074750589716,
+   "rank": 7.7782869509003785,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -628,7 +674,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 13.438900265381227,
+   "rank": 7.69176214899999,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -656,7 +702,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.522232467592175,
+   "rank": 7.167106817759537,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -684,7 +730,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.026913720581225,
+   "rank": 6.883610853453348,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -712,7 +758,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.916982570539462,
+   "rank": 6.820691697704761,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -740,7 +786,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 11.61904737288632,
+   "rank": 6.650168319235572,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -774,7 +820,7 @@
      "kind": "org"
     }
    ],
-   "rank": 11.601164016359434,
+   "rank": 6.639932770037775,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -802,7 +848,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.333355934296026,
+   "rank": 6.486652663173828,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -830,7 +876,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.118937897882427,
+   "rank": 6.363930379059739,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -858,7 +904,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.029652256509348,
+   "rank": 6.312827691845685,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -886,7 +932,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 10.88865351100748,
+   "rank": 6.232126980307439,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -920,7 +966,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 10.597222833886837,
+   "rank": 6.065326467834821,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -948,7 +994,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.046048386307607,
+   "rank": 4.60516033341272,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -976,7 +1022,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.721856060867578,
+   "rank": 4.419608673040668,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1004,7 +1050,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.607694351182716,
+   "rank": 4.354268154093507,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1042,7 +1088,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.3832357111351135,
+   "rank": 4.225799124824673,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1070,7 +1116,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.722266143479862,
+   "rank": 3.8474928198639886,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1104,7 +1150,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.6125057903783855,
+   "rank": 3.7846714198405365,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1125,55 +1171,6 @@
    ]
   },
   {
-   "id": "anthropic-funding-anthropic-founders-cashed-nearly",
-   "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 6.428755297690759,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 2,
-   "publishedAt": "2026-11-19T05:30:07.000Z",
-   "latestAt": "2026-11-20T00:43:50.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-     "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-20T00:43:50.000Z",
-     "points": null,
-     "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
-    },
-    {
-     "title": "Anthropic’s record US$81.3 billion IPO arms US AI giant for price war with Chinese rivals",
-     "link": "https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-19T05:30:07.000Z",
-     "points": null,
-     "summary": "Anthropic’s record-shattering US$81.3 billion initial public offering (IPO) is handing the US artificial intelligence powerhouse a massive war chest to wage a global price war, piling…"
-    }
-   ]
-  },
-  {
    "id": "what-telecom-bust-taught",
    "title": "What The Telecom Bust Taught Me About AI’s Debt Boom",
    "category": {
@@ -1181,7 +1178,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.386275797040531,
+   "rank": 3.655188555516647,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1209,7 +1206,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.349493555065321,
+   "rank": 3.634136218569921,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1237,7 +1234,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.2720960897576115,
+   "rank": 3.589837735634085,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1271,7 +1268,7 @@
      "kind": "model"
     }
    ],
-   "rank": 5.632376171919352,
+   "rank": 3.2236936797350193,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1292,6 +1289,45 @@
    ]
   },
   {
+   "id": "anthropic-funding-anthropic-founders-cashed-nearly",
+   "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "funding",
+     "name": "Funding",
+     "kind": "topic"
+    },
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 3.1182217980342086,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T00:43:50.000Z",
+   "latestAt": "2026-11-20T00:43:50.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+     "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-20T00:43:50.000Z",
+     "points": null,
+     "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+    }
+   ]
+  },
+  {
    "id": "fighting-with-chinese-cybersecurity",
    "title": "Fighting AI with AI: how a Chinese cybersecurity giant is defending against new hacks",
    "category": {
@@ -1299,7 +1335,7 @@
     "name": "Security"
    },
    "entities": [],
-   "rank": 4.860530374054336,
+   "rank": 2.7819273018583828,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1327,7 +1363,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.75335997499535,
+   "rank": 2.720588263492378,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1355,7 +1391,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.272948911350749,
+   "rank": 2.4456247201717045,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1376,6 +1412,44 @@
    ]
   },
   {
+   "id": "gpt-hebbia-sees-improvements-financial",
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 2.1771340770467535,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-20T00:00:00.000Z",
+   "latestAt": "2026-11-20T00:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/business/customer-stories/hebbia",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra"
+   },
+   "sources": [
+    {
+     "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+     "link": "https://openai.com/business/customer-stories/hebbia",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-20T00:00:00.000Z",
+     "points": null,
+     "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+    }
+   ]
+  },
+  {
    "id": "help-scientists-identify-promising",
    "title": "Can AI help scientists identify promising drug candidates?",
    "category": {
@@ -1383,7 +1457,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.803847175591358,
+   "rank": 2.1771340770467535,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1426,7 +1500,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.7459799531876907,
+   "rank": 2.1440137396558367,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1454,7 +1528,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.3649417322538935,
+   "rank": 1.925926298925974,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1486,7 +1560,7 @@
     "name": "New Models"
    },
    "entities": [],
-   "rank": 3.3649417322538935,
+   "rank": 1.925926298925974,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1518,7 +1592,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.2195653393632337,
+   "rank": 1.842720038434926,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1552,7 +1626,7 @@
      "kind": "model"
     }
    ],
-   "rank": 3.011523863738356,
+   "rank": 1.7236473824858594,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1584,7 +1658,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.538498556650818,
+   "rank": 1.4529110810976003,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1618,7 +1692,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.494750657959628,
+   "rank": 1.4278719465995182,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1646,7 +1720,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 2.4621985092151335,
+   "rank": 1.4092407058999723,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1674,7 +1748,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.3071096152477106,
+   "rank": 1.3204754899379307,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1702,7 +1776,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.2252195133270294,
+   "rank": 1.2736056439019559,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1734,7 +1808,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.161423938206372,
+   "rank": 1.2370922104887458,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1777,7 +1851,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.161423938206372,
+   "rank": 1.2370922104887458,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1816,7 +1890,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.0850417154044907,
+   "rank": 1.1933748021739126,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1850,7 +1924,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.881737517209372,
+   "rank": 1.0770135296345005,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1871,49 +1945,6 @@
    ]
   },
   {
-   "id": "openai-gpt-openai-performance-factory-keeps",
-   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    },
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.693982173352824,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-19T08:00:00.000Z",
-   "latestAt": "2026-11-19T08:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast"
-   },
-   "sources": [
-    {
-     "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-     "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-19T08:00:00.000Z",
-     "points": null,
-     "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
-    }
-   ]
-  },
-  {
    "id": "download-living-liver-billion",
    "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
    "category": {
@@ -1921,7 +1952,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 1.4499505078184105,
+   "rank": 0.8298799911991603,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1949,7 +1980,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 1.3898672372353038,
+   "rank": 0.795491297382467,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1983,7 +2014,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.2969418061352596,
+   "rank": 0.7423053744646478,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2011,7 +2042,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2737048397222883,
+   "rank": 0.729005683628092,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2039,7 +2070,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.2104856439481375,
+   "rank": 0.6928221412590444,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2056,68 +2087,6 @@
      "date": "2026-11-19T12:00:23.000Z",
      "points": null,
      "summary": "So far this year, venture backers have poured close to $4 billion into an assortment of global companies focused on recruiting, finding jobs and streamlining processes…"
-    }
-   ]
-  },
-  {
-   "id": "solomonoff-induction-with-reflective",
-   "title": "Solomonoff induction with reflective oracles",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8011181809927426,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-19T04:36:27.000Z",
-   "latestAt": "2026-11-19T04:36:27.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Solomonoff induction with reflective oracles",
-     "link": "https://www.alignmentforum.org/posts/nvrFYAwciyyj9T5ir/solomonoff-induction-with-reflective-oracles",
-     "publisher": "Alignment Forum",
-     "publisherDomain": "alignmentforum.org",
-     "kind": "coverage",
-     "date": "2026-11-19T04:36:27.000Z",
-     "points": null,
-     "summary": "Linkpost for Our PIBBSS fellow Damini Kusum wrote an excellent paper on prediction with reflective oracle Solomonoff Induction (rOSI). Reflective oracles are best known for their…"
-    }
-   ]
-  },
-  {
-   "id": "safety-little-known-beijing-safety",
-   "title": "How a little-known Beijing AI safety group became an adviser to China’s tech giants",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 0.6951209682532952,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-19T04:00:14.000Z",
-   "latestAt": "2026-11-19T04:00:14.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How a little-known Beijing AI safety group became an adviser to China’s tech giants",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3374905/how-little-known-beijing-ai-safety-group-became-adviser-chinas-tech-giants",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-19T04:00:14.000Z",
-     "points": null,
-     "summary": "As Chinese President Xi Jinping and US President Donald Trump meet this week in Shenzhen on the sidelines of the Apec meeting, the question of how…"
     }
    ]
   }
