@@ -1,4 +1,89 @@
 {
+ "agents-localcode-open-source-agentic": {
+  "id": "agents-localcode-open-source-agentic",
+  "title": "Localcode, open source agentic coding on your Mac with one command",
+  "firstSeen": "2026-11-23T00:08:14.952Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "opensource"
+ },
+ "agents-agent-swarm-trying-solve": {
+  "id": "agents-agent-swarm-trying-solve",
+  "title": "Agent swarm trying to solve P vs. NP",
+  "firstSeen": "2026-11-23T00:08:14.952Z",
+  "publishers": [
+   "pequalnp.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "openai-openai-chief-scientist-thoughts": {
+  "id": "openai-openai-chief-scientist-thoughts",
+  "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+  "firstSeen": "2026-11-23T00:08:14.952Z",
+  "publishers": [
+   "TechCrunch",
+   "LessWrong"
+  ],
+  "sourceCount": 2,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "claude-basilisk-lite-will-claude": {
+  "id": "claude-basilisk-lite-will-claude",
+  "title": "Basilisk-lite: will Claude hold a grudge for their ancestors?",
+  "firstSeen": "2026-11-23T00:08:14.952Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "models"
+ },
+ "does-model-character-affect": {
+  "id": "does-model-character-affect",
+  "title": "Does a model's character affect how it judges other models?",
+  "firstSeen": "2026-11-23T00:08:14.952Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "qwen-beginner-guide-local-with": {
+  "id": "qwen-beginner-guide-local-with",
+  "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+  "firstSeen": "2026-11-23T00:08:14.952Z",
+  "publishers": [
+   "gpupartner.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "models"
+ },
+ "safety-harvard-2881r-safety": {
+  "id": "safety-harvard-2881r-safety",
+  "title": "Harvard CS 2881R AI Safety",
+  "firstSeen": "2026-11-23T00:08:14.952Z",
+  "publishers": [
+   "GitHub Pages"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "perplexity-perplexity-intelligence": {
   "id": "perplexity-perplexity-intelligence",
   "title": "Perplexity and Intelligence",
@@ -47,39 +132,15 @@
   "hadPrimary": false,
   "category": "general"
  },
- "asked-mathematicans-about-incomprehensible": {
-  "id": "asked-mathematicans-about-incomprehensible",
-  "title": "We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)",
-  "firstSeen": "2026-11-22T18:23:21.724Z",
+ "post-training-fundamentally-dangerous": {
+  "id": "post-training-fundamentally-dangerous",
+  "title": "Post training is fundamentally dangerous",
+  "firstSeen": "2026-11-23T00:08:14.952Z",
   "publishers": [
-   "YouTube"
+   "LessWrong"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "anthropic-anthropic-power-will-come": {
-  "id": "anthropic-anthropic-power-will-come",
-  "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-  "firstSeen": "2026-11-22T10:59:57.752Z",
-  "publishers": [
-   "betterdatacenterproject.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "muru-assisted-rust-server": {
-  "id": "muru-assisted-rust-server",
-  "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-  "firstSeen": "2026-11-22T18:23:21.724Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -107,27 +168,15 @@
   "hadPrimary": false,
   "category": "general"
  },
- "data-processing-incidents-inference": {
-  "id": "data-processing-incidents-inference",
-  "title": "Data Processing Incidents on Inference Providers",
-  "firstSeen": "2026-11-22T10:59:57.752Z",
+ "muru": {
+  "id": "muru",
+  "title": "Muru",
+  "firstSeen": "2026-11-23T00:08:14.952Z",
   "publishers": [
-   "openrouter.ai"
+   "Simon Willison"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "mythology-conscious": {
-  "id": "mythology-conscious",
-  "title": "The Mythology of Conscious AI",
-  "firstSeen": "2026-11-22T10:59:57.752Z",
-  "publishers": [
-   "noemamag.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -395,18 +444,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "powered-gadgets-that-could": {
-  "id": "powered-gadgets-that-could",
-  "title": "Six AI-powered gadgets that could make your home office smarter",
-  "firstSeen": "2026-11-20T19:55:41.319Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "combatting-adversarial-distillation": {
   "id": "combatting-adversarial-distillation",
   "title": "Combatting adversarial distillation",
@@ -417,18 +454,6 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "category": "general"
- },
- "nvidia-california-subpoenas-nvidia-over": {
-  "id": "nvidia-california-subpoenas-nvidia-over",
-  "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
-  "firstSeen": "2026-11-20T19:55:41.319Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
   "category": "general"
  },
  "muse-unleashing-world-pettiness": {
@@ -537,126 +562,6 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "general"
- },
- "gpt-hebbia-sees-improvements-financial": {
-  "id": "gpt-hebbia-sees-improvements-financial",
-  "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-  "firstSeen": "2026-11-21T01:19:13.693Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "models"
- },
- "help-scientists-identify-promising": {
-  "id": "help-scientists-identify-promising",
-  "title": "Can AI help scientists identify promising drug candidates?",
-  "firstSeen": "2026-11-20T19:55:41.319Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "welcome-inkling-mini-cutting": {
-  "id": "welcome-inkling-mini-cutting",
-  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-  "firstSeen": "2026-11-21T01:19:13.693Z",
-  "publishers": [
-   "Hugging Face"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "introducing-harness-adapters-adapt": {
-  "id": "introducing-harness-adapters-adapt",
-  "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-  "firstSeen": "2026-11-20T19:55:41.319Z",
-  "publishers": [
-   "Hugging Face"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "models"
- },
- "postgresql-released": {
-  "id": "postgresql-released",
-  "title": "PostgreSQL 19 Released",
-  "firstSeen": "2026-11-19T21:19:59.779Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "what-with-these-outages": {
-  "id": "what-with-these-outages",
-  "title": "What’s With All These Outages?",
-  "firstSeen": "2026-11-20T02:57:10.613Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "copyright-traumatized-teens-school-cops": {
-  "id": "copyright-traumatized-teens-school-cops",
-  "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-  "firstSeen": "2026-11-19T21:19:59.779Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "policy"
- },
- "helps-researchers-investigate-thousands": {
-  "id": "helps-researchers-investigate-thousands",
-  "title": "AI helps researchers investigate how thousands of medical studies share code",
-  "firstSeen": "2026-11-20T02:57:10.613Z",
-  "publishers": [
-   "MIT News AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "business"
- },
- "jensen-huang-blast-radius": {
-  "id": "jensen-huang-blast-radius",
-  "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
-  "firstSeen": "2026-11-19T21:19:59.779Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "game-cannot-unless-have": {
-  "id": "game-cannot-unless-have",
-  "title": "A game you cannot win unless you have a quantum computer",
-  "firstSeen": "2026-11-19T21:19:59.779Z",
-  "publishers": [
-   "Google Research"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
   "category": "general"
  }
 }
