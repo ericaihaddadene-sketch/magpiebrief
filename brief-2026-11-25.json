@@ -1,40 +1,12 @@
 {
  "date": "2026-11-25",
- "generated": "2026-11-25T02:12:05.953Z",
- "headline": "71 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2951 items read · 79 on-topic · 71 distinct developments · 16 with a primary source · 2 independently corroborated",
+ "generated": "2026-11-25T12:31:31.293Z",
+ "headline": "80 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2951 items read · 89 on-topic · 80 distinct developments · 16 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "pengpt-generative-transformer-handwriting",
-   "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 126.13685805973734,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-25T00:54:49.000Z",
-   "latestAt": "2026-11-25T00:54:49.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-     "link": "https://greydanus.github.io/2026/11/12/pengpt/",
-     "publisher": "GitHub Pages",
-     "publisherDomain": "greydanus.github.io",
-     "kind": "discussion",
-     "date": "2026-11-25T00:54:49.000Z",
-     "points": 28,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "nvidia-jensen-huang-return-shows",
-   "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+   "id": "nvidia-places-megaspeed-blacklist-jensen",
+   "title": "US places Megaspeed on blacklist as Jensen Huang returns to helm of Nvidia",
    "category": {
     "id": "general",
     "name": "Other"
@@ -46,23 +18,33 @@
      "kind": "org"
     }
    ],
-   "rank": 116.67703547167014,
+   "rank": 151.72079221477452,
    "deltas": [],
-   "sourceCount": 6,
-   "independentCount": 2,
+   "sourceCount": 9,
+   "independentCount": 4,
    "publishedAt": "2026-11-23T04:28:39.000Z",
-   "latestAt": "2026-11-24T23:39:04.000Z",
+   "latestAt": "2026-11-25T08:36:51.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
-     "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
+     "title": "Jensen Huang is back. The risk to Nvidia and the AI boom remains",
+     "link": "https://www.scmp.com/opinion/world-opinion/article/3375628/jensen-huang-back-risk-nvidia-and-ai-boom-remains",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
      "kind": "coverage",
-     "date": "2026-11-24T23:39:04.000Z",
+     "date": "2026-11-25T08:36:51.000Z",
      "points": null,
-     "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and…"
+     "summary": "Jensen Huang resigned as CEO of Nvidia on November 12, yet on November 23 the board reinstated him. In the intervening days, the company lost around…"
+    },
+    {
+     "title": "Jensen Huang’s return steadies Nvidia, but China curbs, US scrutiny show no sign of easing",
+     "link": "https://www.scmp.com/tech/big-tech/article/3375632/jensen-huangs-return-steadies-nvidia-china-curbs-us-scrutiny-show-no-sign-easing",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-25T03:00:17.000Z",
+     "points": null,
+     "summary": "Jensen Huang’s return as Nvidia’s CEO may steady the chipmaker’s leadership and calm jitters across the global artificial intelligence supply chain, but it is unlikely to…"
     },
     {
      "title": "Nvidia’s Jensen Huang says he is in therapy, as comeback rally fades",
@@ -73,6 +55,16 @@
      "date": "2026-11-24T22:03:22.000Z",
      "points": null,
      "summary": "Jensen Huang apologised to Nvidia staff and said he was in therapy on Tuesday, as a stock rally triggered by his shock return as CEO faltered…"
+    },
+    {
+     "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+     "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-24T20:02:03.000Z",
+     "points": null,
+     "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the…"
     },
     {
      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
@@ -105,6 +97,16 @@
      "summary": "When Jensen Huang walked back into Nvidia’s headquarters in Santa Clara on Monday – without his trademark black leather jacket – the applause from cheering staff…"
     },
     {
+     "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+     "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-23T15:46:18.000Z",
+     "points": null,
+     "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\""
+    },
+    {
      "title": "US Treasury Secretary leaves door open for Jensen Huang’s return to Nvidia",
      "link": "https://www.scmp.com/tech/tech-war/article/3375427/us-treasury-secretary-leaves-door-open-jensen-huangs-return-nvidia",
      "publisher": "SCMP Tech",
@@ -117,8 +119,152 @@
    ]
   },
   {
-   "id": "nvidia-jensen-huang-reinstated-nvidia",
-   "title": "Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump",
+   "id": "indic-voice-agent-with",
+   "title": "An Indic Voice Agent with CUGA",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 118.84248322839431,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T10:22:09.000Z",
+   "latestAt": "2026-11-25T10:22:09.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "title": "An Indic Voice Agent with CUGA"
+   },
+   "sources": [
+    {
+     "title": "An Indic Voice Agent with CUGA",
+     "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-11-25T10:22:09.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "soon-change-what-means",
+   "title": "AI may soon change what it means to be a theoretical physicist",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 106.12371049466005,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T12:00:28.000Z",
+   "latestAt": "2026-11-25T12:00:28.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI may soon change what it means to be a theoretical physicist",
+     "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-25T12:00:28.000Z",
+     "points": null,
+     "summary": "Frontier AI is already solving problems that once took top physicists a full day."
+    }
+   ]
+  },
+  {
+   "id": "airplane-turbulence-extremely-hard",
+   "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 93.13954388349445,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T11:30:00.000Z",
+   "latestAt": "2026-11-25T11:30:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+     "link": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+     "publisher": "Wired AI",
+     "publisherDomain": "wired.com",
+     "kind": "coverage",
+     "date": "2026-11-25T11:30:00.000Z",
+     "points": null,
+     "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI."
+    }
+   ]
+  },
+  {
+   "id": "your-startup-exit-being",
+   "title": "Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 91.6187726128898,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T12:00:09.000Z",
+   "latestAt": "2026-11-25T12:00:09.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today",
+     "link": "https://news.crunchbase.com/ma/your-ai-startups-exit-is-being-shaped-by-the-deals-you-sign-today/",
+     "publisher": "Crunchbase News",
+     "publisherDomain": "news.crunchbase.com",
+     "kind": "coverage",
+     "date": "2026-11-25T12:00:09.000Z",
+     "points": null,
+     "summary": "By Aaron Rubin and Greg Volkmar Valuations for AI companies have soared, and the companies are moving faster than ever. In the financings our firm has…"
+    }
+   ]
+  },
+  {
+   "id": "straining-america-open-records",
+   "title": "AI is straining America’s open records systems",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 88.13915986297917,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T10:00:00.000Z",
+   "latestAt": "2026-11-25T10:00:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI is straining America’s open records systems",
+     "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-11-25T10:00:00.000Z",
+     "points": null,
+     "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s…"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-show-nvidia-tech-demos",
+   "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
    "category": {
     "id": "general",
     "name": "Other"
@@ -130,43 +276,304 @@
      "kind": "org"
     }
    ],
-   "rank": 102.61783484440622,
+   "rank": 83.30751923434367,
    "deltas": [],
-   "sourceCount": 3,
-   "independentCount": 3,
-   "publishedAt": "2026-11-24T14:56:50.000Z",
-   "latestAt": "2026-11-24T22:50:53.000Z",
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-25T04:31:48.000Z",
+   "latestAt": "2026-11-25T04:31:48.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump",
-     "link": "https://www.lesswrong.com/posts/GrARsuPjWQL92hfxw/jensen-huang-reinstated-as-nvidia-ceo-at-behest-of-president",
+     "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+     "link": "https://gpu-demo-gallery.pages.dev/",
+     "publisher": "gpu-demo-gallery.pages.dev",
+     "publisherDomain": "gpu-demo-gallery.pages.dev",
+     "kind": "discussion",
+     "date": "2026-11-25T04:31:48.000Z",
+     "points": 174,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "nvidia-huawei-forms-patent-teams",
+   "title": "Huawei forms patent teams for chips and AI, eyeing ecosystem to rival Nvidia",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 82.56828158600624,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T10:30:07.000Z",
+   "latestAt": "2026-11-25T10:30:07.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Huawei forms patent teams for chips and AI, eyeing ecosystem to rival Nvidia",
+     "link": "https://www.scmp.com/tech/big-tech/article/3375756/huawei-forms-patent-teams-chips-and-ai-eyeing-ecosystem-rival-nvidia",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-25T10:30:07.000Z",
+     "points": null,
+     "summary": "Huawei Technologies has established dedicated patent teams for semiconductors and artificial intelligence as it seeks to establish an overseas foothold for a computing ecosystem to rival…"
+    }
+   ]
+  },
+  {
+   "id": "marginalia-search-money-rust",
+   "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 79.16960851033552,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-25T03:47:42.000Z",
+   "latestAt": "2026-11-25T03:47:42.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+     "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+     "publisher": "marginalia.nu",
+     "publisherDomain": "marginalia.nu",
+     "kind": "discussion",
+     "date": "2026-11-25T03:47:42.000Z",
+     "points": 153,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "amazon-qwen-serving-qwen-lambdas-negative",
+   "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "amazon",
+     "name": "Amazon",
+     "kind": "org"
+    },
+    {
+     "id": "qwen",
+     "name": "Qwen",
+     "kind": "model"
+    }
+   ],
+   "rank": 77.39712895851247,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-25T03:28:06.000Z",
+   "latestAt": "2026-11-25T03:28:06.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+     "link": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+     "publisher": "noahbuilt.it",
+     "publisherDomain": "noahbuilt.it",
+     "kind": "discussion",
+     "date": "2026-11-25T03:28:06.000Z",
+     "points": 85,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "open-problems-mathematics-ranked",
+   "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 75.06359487212411,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-25T03:01:36.000Z",
+   "latestAt": "2026-11-25T03:01:36.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+     "link": "https://www.proofatlas.ai/open-problems/",
+     "publisher": "proofatlas.ai",
+     "publisherDomain": "proofatlas.ai",
+     "kind": "discussion",
+     "date": "2026-11-25T03:01:36.000Z",
+     "points": 66,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "models-communicate-inference-servers",
+   "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 72.73736772264704,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-25T02:34:21.000Z",
+   "latestAt": "2026-11-25T02:34:21.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+     "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "discussion",
+     "date": "2026-11-25T02:34:21.000Z",
+     "points": 279,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "pengpt-generative-transformer-handwriting",
+   "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 64.83657257921486,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-25T00:54:49.000Z",
+   "latestAt": "2026-11-25T00:54:49.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+     "link": "https://greydanus.github.io/2026/11/12/pengpt/",
+     "publisher": "GitHub Pages",
+     "publisherDomain": "greydanus.github.io",
+     "kind": "discussion",
+     "date": "2026-11-25T00:54:49.000Z",
+     "points": 284,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "village-agents-learned-each",
+   "title": "How the AI Village Agents Learned to Tag Each Other",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 63.37485782886873,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T08:27:38.000Z",
+   "latestAt": "2026-11-25T08:27:38.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "How the AI Village Agents Learned to Tag Each Other",
+     "link": "https://www.lesswrong.com/posts/TqkNFhoRKw2tbK6je/how-the-ai-village-agents-learned-to-tag-each-other",
      "publisher": "LessWrong",
      "publisherDomain": "lesswrong.com",
      "kind": "coverage",
-     "date": "2026-11-24T22:50:53.000Z",
+     "date": "2026-11-25T08:27:38.000Z",
      "points": null,
-     "summary": "In the evening of November 22, Donald Trump said he ‘hoped’ the Nvidia board would rehire Jensen Huang , as the ‘best thing for the Company.’…"
-    },
+     "summary": "This work was part of the AI Village Data Exploration Grant . If this looks like something you may enjoy doing, consider applying! AI Village is…"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-anthropic-accusing-company-distilling",
+   "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
     {
-     "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-     "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-24T20:02:03.000Z",
-     "points": null,
-     "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the…"
-    },
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 55.27516552511926,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-24T16:45:44.000Z",
+   "latestAt": "2026-11-24T16:45:44.000Z",
+   "primary": null,
+   "sources": [
     {
-     "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
-     "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
+     "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+     "link": "https://news.ycombinator.com/item?id=50630809",
+     "publisher": "Hacker News",
+     "publisherDomain": "news.ycombinator.com",
+     "kind": "discussion",
+     "date": "2026-11-24T16:45:44.000Z",
+     "points": 332,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "safety-effective-giving-politics-spending",
+   "title": "Effective Giving in Politics: Spending Better for AI Safety",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 49.886656404312255,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T07:38:18.000Z",
+   "latestAt": "2026-11-25T07:38:18.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Effective Giving in Politics: Spending Better for AI Safety",
+     "link": "https://www.lesswrong.com/posts/eBfuqL3YQfeM6cBEs/effective-giving-in-politics-spending-better-for-ai-safety",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
      "kind": "coverage",
-     "date": "2026-11-24T14:56:50.000Z",
+     "date": "2026-11-25T07:38:18.000Z",
      "points": null,
-     "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back."
+     "summary": "TL;DR: Pro-safety groups outspent the AI (capabilities) industry in the 2026 midterms ($43M to $37M), but we have no good way of telling whether that money…"
     }
    ]
   },
@@ -184,7 +591,7 @@
      "kind": "model"
     }
    ],
-   "rank": 101.38422206962282,
+   "rank": 49.567385428385286,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -203,8 +610,36 @@
      "publisherDomain": "openai.com",
      "kind": "primary",
      "date": "2026-11-24T21:02:22.000Z",
-     "points": 176,
+     "points": 288,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "openaudit-platform-safety-evaluations",
+   "title": "OpenAudit: Platform for Safety Evaluations of Models, Orgs, and Methods",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 48.690961089539414,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T07:17:18.000Z",
+   "latestAt": "2026-11-25T07:17:18.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAudit: Platform for Safety Evaluations of Models, Orgs, and Methods",
+     "link": "https://www.lesswrong.com/posts/AZmwgxBFvCjf2t37i/openaudit-platform-for-safety-evaluations-of-models-orgs-and",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-25T07:17:18.000Z",
+     "points": null,
+     "summary": "TL;DR OpenAudit ( openaudit.com ) hosts independent safety evaluations of models, organizations, and methods. It tries to answer the question: \"How prepared are we to develop…"
     }
    ]
   },
@@ -216,7 +651,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 96.35276609853167,
+   "rank": 47.107474879249146,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -233,34 +668,6 @@
      "date": "2026-11-24T23:02:07.000Z",
      "points": null,
      "summary": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection…"
-    }
-   ]
-  },
-  {
-   "id": "from-cuda-torchtpu-lessons",
-   "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 92.25824903325108,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-24T19:40:43.000Z",
-   "latestAt": "2026-11-24T19:40:43.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
-     "link": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
-     "publisher": "andlukyane.com",
-     "publisherDomain": "andlukyane.com",
-     "kind": "discussion",
-     "date": "2026-11-24T19:40:43.000Z",
-     "points": 68,
-     "summary": ""
     }
    ]
   },
@@ -283,7 +690,7 @@
      "kind": "org"
     }
    ],
-   "rank": 88.7508420149431,
+   "rank": 43.39084626232495,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -322,7 +729,7 @@
      "kind": "org"
     }
    ],
-   "rank": 88.02376420971483,
+   "rank": 43.03537333890077,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -344,7 +751,7 @@
   },
   {
    "id": "nvidia-yale-sonnenfeld-nvidia-detriment",
-   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
    "category": {
     "id": "general",
     "name": "Other"
@@ -356,7 +763,7 @@
      "kind": "org"
     }
    ],
-   "rank": 87.04850109219741,
+   "rank": 42.55856105141408,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -365,7 +772,7 @@
    "primary": null,
    "sources": [
     {
-     "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+     "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
      "publisher": "TechCrunch",
      "publisherDomain": "techcrunch.com",
@@ -390,7 +797,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 86.97518616405962,
+   "rank": 42.52271692077446,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -429,7 +836,7 @@
      "kind": "org"
     }
    ],
-   "rank": 86.88982205907666,
+   "rank": 42.480981871601486,
    "deltas": [],
    "sourceCount": 2,
    "independentCount": 1,
@@ -460,6 +867,68 @@
    ]
   },
   {
+   "id": "safety-hopkins-recent-events-safety",
+   "title": "Hopkins Recent Events in AI Safety and Biosecurity Post-Event Report",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 42.242919126265214,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T05:14:20.000Z",
+   "latestAt": "2026-11-25T05:14:20.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Hopkins Recent Events in AI Safety and Biosecurity Post-Event Report",
+     "link": "https://www.lesswrong.com/posts/kQeP7Cep4sgLdgYML/hopkins-recent-events-in-ai-safety-and-biosecurity-post",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-25T05:14:20.000Z",
+     "points": null,
+     "summary": "JHU AI Safety and Biosecurity (ASBS) recently hosted our inaugural event “Recent Events in AI Safety and Biosecurity.” Much thanks to BlueDot Impact for making this…"
+    }
+   ]
+  },
+  {
+   "id": "dutch-data-protection-authority",
+   "title": "Dutch data protection authority advises against purchasing AI camera glasses",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 37.88755541173743,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-25T00:02:36.000Z",
+   "latestAt": "2026-11-25T00:02:36.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Dutch data protection authority advises against purchasing AI camera glasses",
+     "link": "https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders",
+     "publisher": "autoriteitpersoonsgegevens.nl",
+     "publisherDomain": "autoriteitpersoonsgegevens.nl",
+     "kind": "discussion",
+     "date": "2026-11-25T00:02:36.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "gemini-gemini-changing-game-golden",
    "title": "How Gemini is changing the game for Golden State's organization and fans.",
    "category": {
@@ -473,7 +942,7 @@
      "kind": "model"
     }
    ],
-   "rank": 76.9173964129507,
+   "rank": 37.605400094014946,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -511,7 +980,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 76.62557973740364,
+   "rank": 37.46272908134655,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -539,7 +1008,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 74.50856683461768,
+   "rank": 36.427708124760265,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -573,7 +1042,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 71.64160828666311,
+   "rank": 35.02603401361427,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -601,7 +1070,7 @@
     "name": "Policy & Regulation"
    },
    "entities": [],
-   "rank": 71.38719892265583,
+   "rank": 34.90165167142221,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -635,7 +1104,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 71.34810001544723,
+   "rank": 34.88253596915735,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -656,66 +1125,6 @@
    ]
   },
   {
-   "id": "agents-work-their-parent",
-   "title": "LLM agents work for their parent companies, not for you",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 68.11320601400519,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-24T12:40:15.000Z",
-   "latestAt": "2026-11-24T12:40:15.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "LLM agents work for their parent companies, not for you",
-     "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-     "publisher": "michaelharley.net",
-     "publisherDomain": "michaelharley.net",
-     "kind": "discussion",
-     "date": "2026-11-24T12:40:15.000Z",
-     "points": 916,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "training-engine-your-local",
-   "title": "A training engine for your local model, using your idle compute",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 66.98917161976341,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T15:03:40.000Z",
-   "latestAt": "2026-11-24T15:03:40.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/sous-labs/songe",
-    "title": "A training engine for your local model, using your idle compute"
-   },
-   "sources": [
-    {
-     "title": "A training engine for your local model, using your idle compute",
-     "link": "https://github.com/sous-labs/songe",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-11-24T15:03:40.000Z",
-     "points": 184,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "amazon-amazon-drone-crashes-garage",
    "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
    "category": {
@@ -729,7 +1138,7 @@
      "kind": "org"
     }
    ],
-   "rank": 65.8500296856799,
+   "rank": 32.1944947179181,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -763,7 +1172,7 @@
      "kind": "model"
     }
    ],
-   "rank": 62.97462074163833,
+   "rank": 30.78868915484282,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -802,7 +1211,7 @@
      "kind": "org"
     }
    ],
-   "rank": 61.00326413338056,
+   "rank": 29.824880479058894,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -830,7 +1239,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 58.98816535937194,
+   "rank": 28.83968598263163,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -855,34 +1264,6 @@
    ]
   },
   {
-   "id": "open-weight-models-immediate",
-   "title": "Open Weight Models are not the immediate problem",
-   "category": {
-    "id": "opensource",
-    "name": "Open Source"
-   },
-   "entities": [],
-   "rank": 58.68744247810164,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T23:39:31.000Z",
-   "latestAt": "2026-11-24T23:39:31.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Open Weight Models are not the immediate problem",
-     "link": "https://www.lesswrong.com/posts/jA4amFWxznNHFC3ZG/open-weight-models-are-not-the-immediate-problem",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-24T23:39:31.000Z",
-     "points": null,
-     "summary": "Disclaimer: I work at a company that serves open weight models. The biggest current problem humans face from AI is recursive self improvement, leading to more…"
-    }
-   ]
-  },
-  {
    "id": "warns-driven-cyberattacks-exposing",
    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
    "category": {
@@ -890,7 +1271,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 56.83328563721134,
+   "rank": 27.786151699291217,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -907,62 +1288,6 @@
      "date": "2026-11-24T18:02:59.000Z",
      "points": null,
      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws."
-    }
-   ]
-  },
-  {
-   "id": "research-agents-crowd-onto",
-   "title": "AI research agents crowd onto the same projects, and how to spread them out",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 53.03815862742159,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T19:34:05.000Z",
-   "latestAt": "2026-11-24T19:34:05.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI research agents crowd onto the same projects, and how to spread them out",
-     "link": "https://www.lesswrong.com/posts/4TpjkdL5Fed3vBioC/ai-research-agents-crowd-onto-the-same-projects-and-how-to",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-24T19:34:05.000Z",
-     "points": null,
-     "summary": "Summary : We may soon have autonomous AI researchers who choose their own research projects. We find that without careful design, current agents concentrate on a…"
-    }
-   ]
-  },
-  {
-   "id": "weave-hiring-product-design",
-   "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 52.900878409235055,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-24T17:00:55.000Z",
-   "latestAt": "2026-11-24T17:00:55.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-     "link": "https://jobs.ashbyhq.com/weave-os",
-     "publisher": "jobs.ashbyhq.com",
-     "publisherDomain": "jobs.ashbyhq.com",
-     "kind": "discussion",
-     "date": "2026-11-24T17:00:55.000Z",
-     "points": null,
-     "summary": ""
     }
    ]
   },
@@ -985,7 +1310,7 @@
      "kind": "org"
     }
    ],
-   "rank": 51.06874900895369,
+   "rank": 24.96783339456849,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1013,7 +1338,7 @@
     "name": "Business"
    },
    "entities": [],
-   "rank": 49.878931736378384,
+   "rank": 24.386124227844398,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1041,7 +1366,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 49.45529562208703,
+   "rank": 24.179005860412012,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1062,34 +1387,6 @@
    ]
   },
   {
-   "id": "raising-stakes-enterprise-networks",
-   "title": "Raising the stakes for enterprise networks with AI modernization",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 49.16384236026237,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T15:15:16.000Z",
-   "latestAt": "2026-11-24T15:15:16.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Raising the stakes for enterprise networks with AI modernization",
-     "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-11-24T15:15:16.000Z",
-     "points": null,
-     "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network…"
-    }
-   ]
-  },
-  {
    "id": "searching-distant-planets-with",
    "title": "Searching for distant planets with Astra",
    "category": {
@@ -1097,7 +1394,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 45.32401049567605,
+   "rank": 22.159194513092668,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1129,7 +1426,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 42.53999592209056,
+   "rank": 20.798072234002838,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1163,7 +1460,7 @@
      "kind": "org"
     }
    ],
-   "rank": 41.455670563847946,
+   "rank": 20.26793872935481,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1191,7 +1488,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.36913666746959,
+   "rank": 18.270006540568623,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1219,7 +1516,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.531452158433396,
+   "rank": 17.371550996937607,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1247,7 +1544,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 35.512985564461,
+   "rank": 17.362522562706978,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1275,7 +1572,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 34.26567009525506,
+   "rank": 16.752702165106445,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1303,7 +1600,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 33.09845557996053,
+   "rank": 16.182043628934235,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1331,7 +1628,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 30.407264732856373,
+   "rank": 14.866303455003129,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1365,7 +1662,7 @@
      "kind": "org"
     }
    ],
-   "rank": 29.271837645687256,
+   "rank": 14.311185992870891,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1399,7 +1696,7 @@
      "kind": "org"
     }
    ],
-   "rank": 28.83717792012788,
+   "rank": 14.098678112382325,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1427,7 +1724,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 26.492864876837682,
+   "rank": 12.95252868390658,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1461,7 +1758,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 25.37327826073577,
+   "rank": 12.405155727958116,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1499,7 +1796,7 @@
      "kind": "org"
     }
    ],
-   "rank": 23.727634244661978,
+   "rank": 11.600589992210502,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1531,7 +1828,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.42577296487564,
+   "rank": 11.453008109195215,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1559,7 +1856,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 21.144398550613143,
+   "rank": 10.33762977329843,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1597,7 +1894,7 @@
      "kind": "model"
     }
    ],
-   "rank": 21.144398550613143,
+   "rank": 10.33762977329843,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1629,7 +1926,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.1629786764109,
+   "rank": 9.857807408648307,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1657,7 +1954,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.23949666323961,
+   "rank": 9.40631122957215,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1685,7 +1982,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.09011884271249,
+   "rank": 9.333279471243575,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1713,7 +2010,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.37807348247265,
+   "rank": 8.98515600495841,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1734,45 +2031,6 @@
    ]
   },
   {
-   "id": "grok-copyright-states-spacex-stop-grok",
-   "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "copyright",
-     "name": "AI & Copyright",
-     "kind": "topic"
-    },
-    {
-     "id": "grok",
-     "name": "Grok",
-     "kind": "model"
-    }
-   ],
-   "rank": 17.767940982654423,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-23T21:30:44.000Z",
-   "latestAt": "2026-11-23T21:30:44.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-     "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-23T21:30:44.000Z",
-     "points": null,
-     "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM."
-    }
-   ]
-  },
-  {
    "id": "anthropic-legendary-philosopher-buying-anthropic",
    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
    "category": {
@@ -1786,7 +2044,7 @@
      "kind": "org"
     }
    ],
-   "rank": 16.441454705194438,
+   "rank": 8.038330873773042,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1820,7 +2078,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 15.998118108236499,
+   "rank": 7.821580816147389,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1848,7 +2106,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 15.613071422580154,
+   "rank": 7.633329063692811,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1873,6 +2131,45 @@
    ]
   },
   {
+   "id": "grok-copyright-states-spacex-stop-grok",
+   "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+   "category": {
+    "id": "policy",
+    "name": "Policy & Regulation"
+   },
+   "entities": [
+    {
+     "id": "copyright",
+     "name": "AI & Copyright",
+     "kind": "topic"
+    },
+    {
+     "id": "grok",
+     "name": "Grok",
+     "kind": "model"
+    }
+   ],
+   "rank": 7.361744388750131,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-23T21:30:44.000Z",
+   "latestAt": "2026-11-23T21:30:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+     "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-23T21:30:44.000Z",
+     "points": null,
+     "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM."
+    }
+   ]
+  },
+  {
    "id": "many-languages-common-neural",
    "title": "Many languages, one common neural code",
    "category": {
@@ -1880,7 +2177,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.770042433743846,
+   "rank": 6.243354264882915,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1914,7 +2211,7 @@
      "kind": "org"
     }
    ],
-   "rank": 12.014680684211866,
+   "rank": 5.874053142749738,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1946,7 +2243,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.791594949735597,
+   "rank": 5.764985120540465,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1978,7 +2275,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.260472958425764,
+   "rank": 5.016409924796363,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2010,7 +2307,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.059822069799681,
+   "rank": 3.9404978295697544,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2038,7 +2335,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.7876903367974695,
+   "rank": 3.8074509094311173,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2072,7 +2369,7 @@
      "kind": "org"
     }
    ],
-   "rank": 7.684893830218753,
+   "rank": 3.757193049201351,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2100,7 +2397,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.079718487997699,
+   "rank": 3.4613190085737426,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2128,7 +2425,7 @@
     "name": "Policy & Regulation"
    },
    "entities": [],
-   "rank": 6.975050289017237,
+   "rank": 3.4101460661271688,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2160,7 +2457,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.975050289017237,
+   "rank": 3.4101460661271688,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2192,7 +2489,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.728323019314248,
+   "rank": 3.289519548278435,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2226,7 +2523,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 4.252644513216022,
+   "rank": 2.0791447167364026,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2258,7 +2555,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.1401740356627155,
+   "rank": 2.0241571910998104,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2286,7 +2583,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.754695907877881,
+   "rank": 1.3467881985622125,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2314,7 +2611,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4141016784985125,
+   "rank": 0.6913632269617621,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
