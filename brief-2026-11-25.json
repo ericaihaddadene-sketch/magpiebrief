@@ -1,12 +1,50 @@
 {
  "date": "2026-11-25",
- "generated": "2026-11-25T12:31:31.293Z",
+ "generated": "2026-11-25T22:20:54.866Z",
  "headline": "80 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2951 items read · 89 on-topic · 80 distinct developments · 16 with a primary source · 1 independently corroborated",
+ "stats": "22 sources monitored · 2952 items read · 87 on-topic · 80 distinct developments · 20 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "nvidia-places-megaspeed-blacklist-jensen",
-   "title": "US places Megaspeed on blacklist as Jensen Huang returns to helm of Nvidia",
+   "id": "anthropic-much-shorter-version-lean",
+   "title": "Much shorter version of GRH Lean verification from Anthropic",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 183.4288524321486,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T21:48:10.000Z",
+   "latestAt": "2026-11-25T21:48:10.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/lsernau/grh-lean",
+    "title": "Much shorter version of GRH Lean verification from Anthropic"
+   },
+   "sources": [
+    {
+     "title": "Much shorter version of GRH Lean verification from Anthropic",
+     "link": "https://github.com/lsernau/grh-lean",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-11-25T21:48:10.000Z",
+     "points": 10,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "nvidia-nvidia-jensen-huang-says",
+   "title": "Nvidia’s Jensen Huang says he is in therapy, as comeback rally fades",
    "category": {
     "id": "general",
     "name": "Other"
@@ -18,33 +56,23 @@
      "kind": "org"
     }
    ],
-   "rank": 151.72079221477452,
+   "rank": 156.25914016608,
    "deltas": [],
-   "sourceCount": 9,
-   "independentCount": 4,
-   "publishedAt": "2026-11-23T04:28:39.000Z",
-   "latestAt": "2026-11-25T08:36:51.000Z",
+   "sourceCount": 3,
+   "independentCount": 3,
+   "publishedAt": "2026-11-23T15:46:18.000Z",
+   "latestAt": "2026-11-25T19:54:57.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Jensen Huang is back. The risk to Nvidia and the AI boom remains",
-     "link": "https://www.scmp.com/opinion/world-opinion/article/3375628/jensen-huang-back-risk-nvidia-and-ai-boom-remains",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
+     "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+     "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
      "kind": "coverage",
-     "date": "2026-11-25T08:36:51.000Z",
+     "date": "2026-11-25T19:54:57.000Z",
      "points": null,
-     "summary": "Jensen Huang resigned as CEO of Nvidia on November 12, yet on November 23 the board reinstated him. In the intervening days, the company lost around…"
-    },
-    {
-     "title": "Jensen Huang’s return steadies Nvidia, but China curbs, US scrutiny show no sign of easing",
-     "link": "https://www.scmp.com/tech/big-tech/article/3375632/jensen-huangs-return-steadies-nvidia-china-curbs-us-scrutiny-show-no-sign-easing",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-25T03:00:17.000Z",
-     "points": null,
-     "summary": "Jensen Huang’s return as Nvidia’s CEO may steady the chipmaker’s leadership and calm jitters across the global artificial intelligence supply chain, but it is unlikely to…"
+     "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
     },
     {
      "title": "Nvidia’s Jensen Huang says he is in therapy, as comeback rally fades",
@@ -57,46 +85,6 @@
      "summary": "Jensen Huang apologised to Nvidia staff and said he was in therapy on Tuesday, as a stock rally triggered by his shock return as CEO faltered…"
     },
     {
-     "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-     "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-24T20:02:03.000Z",
-     "points": null,
-     "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the…"
-    },
-    {
-     "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
-     "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-24T17:44:53.000Z",
-     "points": null,
-     "summary": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff."
-    },
-    {
-     "title": "US places Megaspeed on blacklist as Jensen Huang returns to helm of Nvidia",
-     "link": "https://www.scmp.com/tech/tech-war/article/3375556/us-places-megaspeed-blacklist-jensen-huang-returns-helm-nvidia",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-24T03:48:10.000Z",
-     "points": null,
-     "summary": "The US Department of Commerce has added Megaspeed, the Singapore-based cloud computing firm at the centre of the ongoing Nvidia saga, to its trade blacklist, hours…"
-    },
-    {
-     "title": "Jensen Huang returns to Nvidia to applause from staff, no trademark leather jacket in sight",
-     "link": "https://www.scmp.com/tech/tech-war/article/3375539/jensen-huang-returns-nvidia-applause-staff-no-trademark-leather-jacket-sight",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-24T01:45:37.000Z",
-     "points": null,
-     "summary": "When Jensen Huang walked back into Nvidia’s headquarters in Santa Clara on Monday – without his trademark black leather jacket – the applause from cheering staff…"
-    },
-    {
      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
      "publisher": "Ars Technica AI",
@@ -105,16 +93,507 @@
      "date": "2026-11-23T15:46:18.000Z",
      "points": null,
      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\""
+    }
+   ]
+  },
+  {
+   "id": "anthropic-anthropic-dario-amodei-calls",
+   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 125.18888223159848,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T19:44:24.000Z",
+   "latestAt": "2026-11-25T19:44:24.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+     "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-25T19:44:24.000Z",
+     "points": null,
+     "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own…"
+    }
+   ]
+  },
+  {
+   "id": "agents-where-scientists-draw-line",
+   "title": "Where scientists draw the line on AI agents",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 108.52343786131769,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T18:52:55.000Z",
+   "latestAt": "2026-11-25T18:52:55.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "title": "Where scientists draw the line on AI agents"
+   },
+   "sources": [
+    {
+     "title": "Where scientists draw the line on AI agents",
+     "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-11-25T18:52:55.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "google-google-patent-custom-video",
+   "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 96.65164328516771,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T21:51:26.000Z",
+   "latestAt": "2026-11-25T21:51:26.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+     "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-25T21:51:26.000Z",
+     "points": null,
+     "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on…"
+    }
+   ]
+  },
+  {
+   "id": "openai-gpt-openai-says-heavy-chatgpt",
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
     },
     {
-     "title": "US Treasury Secretary leaves door open for Jensen Huang’s return to Nvidia",
-     "link": "https://www.scmp.com/tech/tech-war/article/3375427/us-treasury-secretary-leaves-door-open-jensen-huangs-return-nvidia",
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 115.17705602557808,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T20:03:27.000Z",
+   "latestAt": "2026-11-25T20:03:27.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+     "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-25T20:03:27.000Z",
+     "points": null,
+     "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+    }
+   ]
+  },
+  {
+   "id": "approves-spacex-plan-data",
+   "title": "FCC approves SpaceX plan to put AI data centers in space",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 107.06495736686833,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T20:56:44.000Z",
+   "latestAt": "2026-11-25T20:56:44.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "FCC approves SpaceX plan to put AI data centers in space",
+     "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-25T20:56:44.000Z",
+     "points": null,
+     "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory…"
+    }
+   ]
+  },
+  {
+   "id": "claude-claude-levent-prove-riemann",
+   "title": "Claude and Levent Alpöge Prove the Riemann Hypothesis",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 88.6271196400395,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T17:30:54.000Z",
+   "latestAt": "2026-11-25T17:30:54.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Claude and Levent Alpöge Prove the Riemann Hypothesis",
+     "link": "https://www.lesswrong.com/posts/ENdfwPYrhLrAP8znD/claude-and-levent-alpoege-prove-the-riemann-hypothesis",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-25T17:30:54.000Z",
+     "points": null,
+     "summary": "This was the most famous problem in mathematics. The Lean and Mathlib communities have verified that the proof is correct . Eliezer Yudkowsky : The Riemann…"
+    }
+   ]
+  },
+  {
+   "id": "scott-aaronson-recent-complexity",
+   "title": "Scott Aaronson on recent complexity theory AI achievements",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 87.13063497438446,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-25T21:52:52.000Z",
+   "latestAt": "2026-11-25T21:52:52.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Scott Aaronson on recent complexity theory AI achievements",
+     "link": "https://scottaaronson.blog/?p=10379",
+     "publisher": "scottaaronson.blog",
+     "publisherDomain": "scottaaronson.blog",
+     "kind": "discussion",
+     "date": "2026-11-25T21:52:52.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "want-your-this-christmas",
+   "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 74.98921652292256,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T18:11:46.000Z",
+   "latestAt": "2026-11-25T18:11:46.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+     "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-25T18:11:46.000Z",
+     "points": null,
+     "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content…"
+    }
+   ]
+  },
+  {
+   "id": "live-recap-expect-military",
+   "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 74.81345640052699,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T16:47:14.000Z",
+   "latestAt": "2026-11-25T16:47:14.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+     "link": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
+     "kind": "coverage",
+     "date": "2026-11-25T16:47:14.000Z",
+     "points": null,
+     "summary": "Militaries have many reasons to target data centers and the cloud in wartime."
+    }
+   ]
+  },
+  {
+   "id": "nvidia-finds-evidence-china-told",
+   "title": "US finds no evidence China told Alice Huang to spy on Nvidia’s Jensen Huang, report says",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 72.22170947368728,
+   "deltas": [],
+   "sourceCount": 2,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T15:30:07.000Z",
+   "latestAt": "2026-11-25T18:23:37.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "US finds no evidence China told Alice Huang to spy on Nvidia’s Jensen Huang, report says",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3375812/us-finds-no-evidence-china-told-tech-exec-spy-nvidias-jensen-huang-report-says",
      "publisher": "SCMP Tech",
      "publisherDomain": "scmp.com",
      "kind": "coverage",
-     "date": "2026-11-23T04:28:39.000Z",
+     "date": "2026-11-25T18:23:37.000Z",
      "points": null,
-     "summary": "US Treasury Secretary Scott Bessent has opened the door to former Nvidia CEO Jensen Huang returning to the chipmaker, softening his stance in the latest twist…"
+     "summary": "US ⁠officials found no evidence ⁠that tech executive Alice Huang was directed by Beijing to spy on Nvidia CEO Jensen Huang, The Wall Street Journal reported…"
+    },
+    {
+     "title": "Nvidia’s Jensen Huang is back – but will he still be a regular visitor to China?",
+     "link": "https://www.scmp.com/tech/big-tech/article/3375795/nvidias-jensen-huang-back-will-he-still-be-regular-visitor-china",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-25T15:30:07.000Z",
+     "points": null,
+     "summary": "While Jensen Huang has reclaimed his seat atop Nvidia, his days as Silicon Valley’s most visible and frequent emissary to China are likely over as the…"
+    }
+   ]
+  },
+  {
+   "id": "character-plan-auction-users",
+   "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 71.95108705743833,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T17:35:58.000Z",
+   "latestAt": "2026-11-25T17:35:58.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+     "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-25T17:35:58.000Z",
+     "points": null,
+     "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said."
+    }
+   ]
+  },
+  {
+   "id": "verifiable-social-reasoning-assistants",
+   "title": "Verifiable Social Reasoning for LLM Assistants",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 69.86106838346554,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T17:10:27.000Z",
+   "latestAt": "2026-11-25T17:10:27.000Z",
+   "primary": {
+    "publisher": "Google Research",
+    "link": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+    "title": "Verifiable Social Reasoning for LLM Assistants"
+   },
+   "sources": [
+    {
+     "title": "Verifiable Social Reasoning for LLM Assistants",
+     "link": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+     "publisher": "Google Research",
+     "publisherDomain": "research.google",
+     "kind": "primary",
+     "date": "2026-11-25T17:10:27.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "meta-ai-amazon-agents-amazon-meta-reportedly-talks",
+   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "meta-ai",
+     "name": "Meta AI",
+     "kind": "org"
+    },
+    {
+     "id": "amazon",
+     "name": "Amazon",
+     "kind": "org"
+    }
+   ],
+   "rank": 68.0819855164425,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T14:10:18.000Z",
+   "latestAt": "2026-11-25T14:10:18.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+     "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-25T14:10:18.000Z",
+     "points": null,
+     "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse."
+    }
+   ]
+  },
+  {
+   "id": "safety-safety-grassroots-work-needs",
+   "title": "AI safety grassroots work needs funding and volunteers",
+   "category": {
+    "id": "business",
+    "name": "Business"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 65.07434240670804,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T18:39:56.000Z",
+   "latestAt": "2026-11-25T18:39:56.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI safety grassroots work needs funding and volunteers",
+     "link": "https://www.lesswrong.com/posts/MAiAapN7CWZpQcfmz/ai-safety-grassroots-work-needs-funding-and-volunteers",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-25T18:39:56.000Z",
+     "points": null,
+     "summary": "This post – mostly a roundup of the AI safety grassroots organizations – was written collaboratively. Most of the individual organization summaries were written by the…"
+    }
+   ]
+  },
+  {
+   "id": "nothing-offers-full-look",
+   "title": "Nothing offers a full look at its AI earbuds and charging case",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 64.47370667435763,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T16:00:59.000Z",
+   "latestAt": "2026-11-25T16:00:59.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Nothing offers a full look at its AI earbuds and charging case",
+     "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+     "publisher": "The Verge",
+     "publisherDomain": "theverge.com",
+     "kind": "coverage",
+     "date": "2026-11-25T16:00:59.000Z",
+     "points": null,
+     "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record…"
     }
    ]
   },
@@ -126,7 +605,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 118.84248322839431,
+   "rank": 60.15384568364718,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -151,6 +630,34 @@
    ]
   },
   {
+   "id": "download-swamping-open-records",
+   "title": "The Download: AI swamping open records, and firefighting for permafrost",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 55.56313623621779,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T13:10:00.000Z",
+   "latestAt": "2026-11-25T13:10:00.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The Download: AI swamping open records, and firefighting for permafrost",
+     "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+     "publisher": "MIT Tech Review",
+     "publisherDomain": "technologyreview.com",
+     "kind": "coverage",
+     "date": "2026-11-25T13:10:00.000Z",
+     "points": null,
+     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is…"
+    }
+   ]
+  },
+  {
    "id": "soon-change-what-means",
    "title": "AI may soon change what it means to be a theoretical physicist",
    "category": {
@@ -158,7 +665,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 106.12371049466005,
+   "rank": 53.71605448704222,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -179,6 +686,40 @@
    ]
   },
   {
+   "id": "apple-minimax-chatbot-talkie-removed",
+   "title": "MiniMax chatbot Talkie removed from Apple App Store over alleged sexual content",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [
+    {
+     "id": "apple",
+     "name": "Apple",
+     "kind": "org"
+    }
+   ],
+   "rank": 48.159534850904826,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T12:32:51.000Z",
+   "latestAt": "2026-11-25T12:32:51.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "MiniMax chatbot Talkie removed from Apple App Store over alleged sexual content",
+     "link": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-25T12:32:51.000Z",
+     "points": null,
+     "summary": "Talkie, the AI companion app developed by Chinese artificial intelligence company MiniMax, has been removed from Apple App Stores worldwide over its use of sexual content…"
+    }
+   ]
+  },
+  {
    "id": "airplane-turbulence-extremely-hard",
    "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
    "category": {
@@ -186,7 +727,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 93.13954388349445,
+   "rank": 47.143930332098535,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -214,7 +755,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 91.6187726128898,
+   "rank": 46.37416990765278,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -230,7 +771,7 @@
      "kind": "coverage",
      "date": "2026-11-25T12:00:09.000Z",
      "points": null,
-     "summary": "By Aaron Rubin and Greg Volkmar Valuations for AI companies have soared, and the companies are moving faster than ever. In the financings our firm has…"
+     "summary": "When everything moves that fast, the terms of your financings and of your contracts for compute, data and distribution get set early and in a hurry…"
     }
    ]
   },
@@ -242,7 +783,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 88.13915986297917,
+   "rank": 44.61291347215139,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -263,40 +804,6 @@
    ]
   },
   {
-   "id": "nvidia-show-nvidia-tech-demos",
-   "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 83.30751923434367,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-25T04:31:48.000Z",
-   "latestAt": "2026-11-25T04:31:48.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-     "link": "https://gpu-demo-gallery.pages.dev/",
-     "publisher": "gpu-demo-gallery.pages.dev",
-     "publisherDomain": "gpu-demo-gallery.pages.dev",
-     "kind": "discussion",
-     "date": "2026-11-25T04:31:48.000Z",
-     "points": 174,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "nvidia-huawei-forms-patent-teams",
    "title": "Huawei forms patent teams for chips and AI, eyeing ecosystem to rival Nvidia",
    "category": {
@@ -310,7 +817,7 @@
      "kind": "org"
     }
    ],
-   "rank": 82.56828158600624,
+   "rank": 41.793132674140054,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -331,157 +838,6 @@
    ]
   },
   {
-   "id": "marginalia-search-money-rust",
-   "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 79.16960851033552,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-25T03:47:42.000Z",
-   "latestAt": "2026-11-25T03:47:42.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-     "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-     "publisher": "marginalia.nu",
-     "publisherDomain": "marginalia.nu",
-     "kind": "discussion",
-     "date": "2026-11-25T03:47:42.000Z",
-     "points": 153,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "amazon-qwen-serving-qwen-lambdas-negative",
-   "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "amazon",
-     "name": "Amazon",
-     "kind": "org"
-    },
-    {
-     "id": "qwen",
-     "name": "Qwen",
-     "kind": "model"
-    }
-   ],
-   "rank": 77.39712895851247,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-25T03:28:06.000Z",
-   "latestAt": "2026-11-25T03:28:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-     "link": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
-     "publisher": "noahbuilt.it",
-     "publisherDomain": "noahbuilt.it",
-     "kind": "discussion",
-     "date": "2026-11-25T03:28:06.000Z",
-     "points": 85,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "open-problems-mathematics-ranked",
-   "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 75.06359487212411,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-25T03:01:36.000Z",
-   "latestAt": "2026-11-25T03:01:36.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-     "link": "https://www.proofatlas.ai/open-problems/",
-     "publisher": "proofatlas.ai",
-     "publisherDomain": "proofatlas.ai",
-     "kind": "discussion",
-     "date": "2026-11-25T03:01:36.000Z",
-     "points": 66,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "models-communicate-inference-servers",
-   "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 72.73736772264704,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-25T02:34:21.000Z",
-   "latestAt": "2026-11-25T02:34:21.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-     "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "discussion",
-     "date": "2026-11-25T02:34:21.000Z",
-     "points": 279,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "pengpt-generative-transformer-handwriting",
-   "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 64.83657257921486,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-25T00:54:49.000Z",
-   "latestAt": "2026-11-25T00:54:49.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-     "link": "https://greydanus.github.io/2026/11/12/pengpt/",
-     "publisher": "GitHub Pages",
-     "publisherDomain": "greydanus.github.io",
-     "kind": "discussion",
-     "date": "2026-11-25T00:54:49.000Z",
-     "points": 284,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "village-agents-learned-each",
    "title": "How the AI Village Agents Learned to Tag Each Other",
    "category": {
@@ -489,7 +845,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 63.37485782886873,
+   "rank": 32.07810300239513,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -510,36 +866,104 @@
    ]
   },
   {
-   "id": "anthropic-anthropic-accusing-company-distilling",
-   "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+   "id": "marginalia-search-money-rust",
+   "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 29.674173232948423,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-25T06:20:29.000Z",
+   "latestAt": "2026-11-25T06:20:29.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
+     "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+     "publisher": "marginalia.nu",
+     "publisherDomain": "marginalia.nu",
+     "kind": "discussion",
+     "date": "2026-11-25T06:20:29.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "nvidia-places-megaspeed-blacklist-jensen",
+   "title": "US places Megaspeed on blacklist as Jensen Huang returns to helm of Nvidia",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [
     {
-     "id": "anthropic",
-     "name": "Anthropic",
+     "id": "nvidia",
+     "name": "NVIDIA",
      "kind": "org"
     }
    ],
-   "rank": 55.27516552511926,
+   "rank": 29.329054031627425,
    "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-24T16:45:44.000Z",
-   "latestAt": "2026-11-24T16:45:44.000Z",
+   "sourceCount": 5,
+   "independentCount": 1,
+   "publishedAt": "2026-11-23T04:28:39.000Z",
+   "latestAt": "2026-11-25T03:00:17.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-     "link": "https://news.ycombinator.com/item?id=50630809",
-     "publisher": "Hacker News",
-     "publisherDomain": "news.ycombinator.com",
-     "kind": "discussion",
-     "date": "2026-11-24T16:45:44.000Z",
-     "points": 332,
-     "summary": ""
+     "title": "Jensen Huang’s return steadies Nvidia, but China curbs, US scrutiny show no sign of easing",
+     "link": "https://www.scmp.com/tech/big-tech/article/3375632/jensen-huangs-return-steadies-nvidia-china-curbs-us-scrutiny-show-no-sign-easing",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-25T03:00:17.000Z",
+     "points": null,
+     "summary": "Jensen Huang’s return as Nvidia’s CEO may steady the chipmaker’s leadership and calm jitters across the global artificial intelligence supply chain, but it is unlikely to…"
+    },
+    {
+     "title": "China stocks miss out as Huang’s Nvidia return sparks AI rally",
+     "link": "https://www.scmp.com/plus/tech/tech-war/article/3375612/china-stocks-miss-out-huangs-nvidia-return-sparks-ai-rally",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-24T09:13:03.000Z",
+     "points": null,
+     "summary": "Jensen Huang returned to Nvidia 11 days after stepping down as chief executive officer amid a sex and spying scandal, aided by US President Donald Trump…"
+    },
+    {
+     "title": "US places Megaspeed on blacklist as Jensen Huang returns to helm of Nvidia",
+     "link": "https://www.scmp.com/tech/tech-war/article/3375556/us-places-megaspeed-blacklist-jensen-huang-returns-helm-nvidia",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-24T03:48:10.000Z",
+     "points": null,
+     "summary": "The US Department of Commerce has added Megaspeed, the Singapore-based cloud computing firm at the centre of the ongoing Nvidia saga, to its trade blacklist, hours…"
+    },
+    {
+     "title": "Jensen Huang returns to Nvidia to applause from staff, no trademark leather jacket in sight",
+     "link": "https://www.scmp.com/tech/tech-war/article/3375539/jensen-huang-returns-nvidia-applause-staff-no-trademark-leather-jacket-sight",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-24T01:45:37.000Z",
+     "points": null,
+     "summary": "When Jensen Huang walked back into Nvidia’s headquarters in Santa Clara on Monday – without his trademark black leather jacket – the applause from cheering staff…"
+    },
+    {
+     "title": "US Treasury Secretary leaves door open for Jensen Huang’s return to Nvidia",
+     "link": "https://www.scmp.com/tech/tech-war/article/3375427/us-treasury-secretary-leaves-door-open-jensen-huangs-return-nvidia",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-23T04:28:39.000Z",
+     "points": null,
+     "summary": "US Treasury Secretary Scott Bessent has opened the door to former Nvidia CEO Jensen Huang returning to the chipmaker, softening his stance in the latest twist…"
     }
    ]
   },
@@ -557,7 +981,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 49.886656404312255,
+   "rank": 25.250854319923434,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -578,68 +1002,34 @@
    ]
   },
   {
-   "id": "gpt-models-demonstrate-intrinsic-protein",
-   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "id": "hill-climbing-inkling-mini",
+   "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
    "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 49.567385428385286,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T21:02:22.000Z",
-   "latestAt": "2026-11-24T21:02:22.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities"
-   },
-   "sources": [
-    {
-     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-     "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-24T21:02:22.000Z",
-     "points": 288,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "openaudit-platform-safety-evaluations",
-   "title": "OpenAudit: Platform for Safety Evaluations of Models, Orgs, and Methods",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
+    "id": "general",
+    "name": "Other"
    },
    "entities": [],
-   "rank": 48.690961089539414,
+   "rank": 24.43088118713052,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-25T07:17:18.000Z",
-   "latestAt": "2026-11-25T07:17:18.000Z",
-   "primary": null,
+   "publishedAt": "2026-11-25T00:00:00.000Z",
+   "latestAt": "2026-11-25T00:00:00.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000"
+   },
    "sources": [
     {
-     "title": "OpenAudit: Platform for Safety Evaluations of Models, Orgs, and Methods",
-     "link": "https://www.lesswrong.com/posts/AZmwgxBFvCjf2t37i/openaudit-platform-for-safety-evaluations-of-models-orgs-and",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-25T07:17:18.000Z",
+     "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+     "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-11-25T00:00:00.000Z",
      "points": null,
-     "summary": "TL;DR OpenAudit ( openaudit.com ) hosts independent safety evaluations of models, organizations, and methods. It tries to answer the question: \"How prepared are we to develop…"
+     "summary": ""
     }
    ]
   },
@@ -651,7 +1041,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 47.107474879249146,
+   "rank": 23.84413130266536,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -690,7 +1080,7 @@
      "kind": "org"
     }
    ],
-   "rank": 43.39084626232495,
+   "rank": 21.962905850179446,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -711,45 +1101,6 @@
    ]
   },
   {
-   "id": "anthropic-funding-anthropic-shares-fall-below",
-   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    },
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 43.03537333890077,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T18:30:42.000Z",
-   "latestAt": "2026-11-24T18:30:42.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-     "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-24T18:30:42.000Z",
-     "points": null,
-     "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
-    }
-   ]
-  },
-  {
    "id": "nvidia-yale-sonnenfeld-nvidia-detriment",
    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
    "category": {
@@ -763,7 +1114,7 @@
      "kind": "org"
     }
    ],
-   "rank": 42.55856105141408,
+   "rank": 21.5416326254716,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -784,123 +1135,6 @@
    ]
   },
   {
-   "id": "agents-even-best-agents-struggle",
-   "title": "Even the best AI agents struggle with everyday life",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 42.52271692077446,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T21:33:29.000Z",
-   "latestAt": "2026-11-24T21:33:29.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Even the best AI agents struggle with everyday life",
-     "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-24T21:33:29.000Z",
-     "points": null,
-     "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without…"
-    }
-   ]
-  },
-  {
-   "id": "meta-ai-agents-walmart-teams-with-meta",
-   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "meta-ai",
-     "name": "Meta AI",
-     "kind": "org"
-    }
-   ],
-   "rank": 42.480981871601486,
-   "deltas": [],
-   "sourceCount": 2,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T17:00:00.000Z",
-   "latestAt": "2026-11-24T21:32:38.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-     "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-24T21:32:38.000Z",
-     "points": null,
-     "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
-    },
-    {
-     "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-     "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-24T17:00:00.000Z",
-     "points": null,
-     "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI…"
-    }
-   ]
-  },
-  {
-   "id": "safety-hopkins-recent-events-safety",
-   "title": "Hopkins Recent Events in AI Safety and Biosecurity Post-Event Report",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 42.242919126265214,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-25T05:14:20.000Z",
-   "latestAt": "2026-11-25T05:14:20.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Hopkins Recent Events in AI Safety and Biosecurity Post-Event Report",
-     "link": "https://www.lesswrong.com/posts/kQeP7Cep4sgLdgYML/hopkins-recent-events-in-ai-safety-and-biosecurity-post",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-25T05:14:20.000Z",
-     "points": null,
-     "summary": "JHU AI Safety and Biosecurity (ASBS) recently hosted our inaugural event “Recent Events in AI Safety and Biosecurity.” Much thanks to BlueDot Impact for making this…"
-    }
-   ]
-  },
-  {
    "id": "dutch-data-protection-authority",
    "title": "Dutch data protection authority advises against purchasing AI camera glasses",
    "category": {
@@ -908,7 +1142,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.88755541173743,
+   "rank": 19.1773354078128,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -942,7 +1176,7 @@
      "kind": "model"
     }
    ],
-   "rank": 37.605400094014946,
+   "rank": 19.034518403488853,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -980,7 +1214,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 37.46272908134655,
+   "rank": 18.962303402199357,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1001,34 +1235,6 @@
    ]
   },
   {
-   "id": "what-going-with-riemann",
-   "title": "What's going on with the Riemann hypothesis?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 36.427708124760265,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T20:34:53.000Z",
-   "latestAt": "2026-11-24T20:34:53.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "What's going on with the Riemann hypothesis?",
-     "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-24T20:34:53.000Z",
-     "points": null,
-     "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us."
-    }
-   ]
-  },
-  {
    "id": "agents-agentic-system-personalizes-physical",
    "title": "Agentic system personalizes physical controls to help users “DJ their art”",
    "category": {
@@ -1042,7 +1248,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 35.02603401361427,
+   "rank": 17.72893487016711,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1063,68 +1269,6 @@
    ]
   },
   {
-   "id": "tidal-announces-generated-music",
-   "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [],
-   "rank": 34.90165167142221,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T17:34:34.000Z",
-   "latestAt": "2026-11-24T17:34:34.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-     "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-24T17:34:34.000Z",
-     "points": null,
-     "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero."
-    }
-   ]
-  },
-  {
-   "id": "funding-maple-raises-build-products",
-   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [
-    {
-     "id": "funding",
-     "name": "Funding",
-     "kind": "topic"
-    }
-   ],
-   "rank": 34.88253596915735,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T21:19:52.000Z",
-   "latestAt": "2026-11-24T21:19:52.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-     "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-24T21:19:52.000Z",
-     "points": null,
-     "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
-    }
-   ]
-  },
-  {
    "id": "amazon-amazon-drone-crashes-garage",
    "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
    "category": {
@@ -1138,7 +1282,7 @@
      "kind": "org"
     }
    ],
-   "rank": 32.1944947179181,
+   "rank": 16.295710208299774,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1172,7 +1316,7 @@
      "kind": "model"
     }
    ],
-   "rank": 30.78868915484282,
+   "rank": 15.584141343318011,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1193,41 +1337,30 @@
    ]
   },
   {
-   "id": "nvidia-amazon-amazon-decart-acquisition-using",
-   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+   "id": "tidal-announces-generated-music",
+   "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
    "category": {
-    "id": "business",
-    "name": "Business"
+    "id": "policy",
+    "name": "Policy & Regulation"
    },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    },
-    {
-     "id": "amazon",
-     "name": "Amazon",
-     "kind": "org"
-    }
-   ],
-   "rank": 29.824880479058894,
+   "entities": [],
+   "rank": 14.97116690216996,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-24T15:51:07.000Z",
-   "latestAt": "2026-11-24T15:51:07.000Z",
+   "publishedAt": "2026-11-24T17:34:34.000Z",
+   "latestAt": "2026-11-24T17:34:34.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-     "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
+     "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+     "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
      "kind": "coverage",
-     "date": "2026-11-24T15:51:07.000Z",
+     "date": "2026-11-24T17:34:34.000Z",
      "points": null,
-     "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips."
+     "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero."
     }
    ]
   },
@@ -1239,7 +1372,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.83968598263163,
+   "rank": 14.597625134019212,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1264,30 +1397,78 @@
    ]
   },
   {
-   "id": "warns-driven-cyberattacks-exposing",
-   "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+   "id": "google-from-spectrum-structure-identifying",
+   "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
    "category": {
     "id": "general",
     "name": "Other"
    },
-   "entities": [],
-   "rank": 27.786151699291217,
+   "entities": [
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 13.001900794867991,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-24T18:02:59.000Z",
-   "latestAt": "2026-11-24T18:02:59.000Z",
-   "primary": null,
+   "publishedAt": "2026-11-24T13:07:53.000Z",
+   "latestAt": "2026-11-24T13:07:53.000Z",
+   "primary": {
+    "publisher": "Google DeepMind",
+    "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity"
+   },
    "sources": [
     {
-     "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-     "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-24T18:02:59.000Z",
+     "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+     "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+     "publisher": "Google DeepMind",
+     "publisherDomain": "deepmind.google",
+     "kind": "primary",
+     "date": "2026-11-24T13:07:53.000Z",
      "points": null,
-     "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws."
+     "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra."
+    }
+   ]
+  },
+  {
+   "id": "gpt-models-demonstrate-intrinsic-protein",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 12.884027655600567,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-24T13:00:00.000Z",
+   "latestAt": "2026-11-24T13:00:00.000Z",
+   "primary": {
+    "publisher": "OpenAI",
+    "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities"
+   },
+   "sources": [
+    {
+     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+     "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+     "publisher": "OpenAI",
+     "publisherDomain": "openai.com",
+     "kind": "primary",
+     "date": "2026-11-24T13:00:00.000Z",
+     "points": null,
+     "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
     }
    ]
   },
@@ -1310,7 +1491,7 @@
      "kind": "org"
     }
    ],
-   "rank": 24.96783339456849,
+   "rank": 12.637830818340248,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1331,58 +1512,36 @@
    ]
   },
   {
-   "id": "crusoe-investor-betting-solar",
-   "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-   "category": {
-    "id": "business",
-    "name": "Business"
-   },
-   "entities": [],
-   "rank": 24.386124227844398,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T16:10:00.000Z",
-   "latestAt": "2026-11-24T16:10:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-     "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-24T16:10:00.000Z",
-     "points": null,
-     "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice."
-    }
-   ]
-  },
-  {
-   "id": "pinterest-will-parents-limit",
-   "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+   "id": "nvidia-trump-silicon-valley-forced",
+   "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
    "category": {
     "id": "general",
     "name": "Other"
    },
-   "entities": [],
-   "rank": 24.179005860412012,
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 12.47723086665759,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-24T16:02:37.000Z",
-   "latestAt": "2026-11-24T16:02:37.000Z",
+   "publishedAt": "2026-11-24T14:56:50.000Z",
+   "latestAt": "2026-11-24T14:56:50.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-     "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
+     "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+     "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+     "publisher": "Ars Technica AI",
+     "publisherDomain": "arstechnica.com",
      "kind": "coverage",
-     "date": "2026-11-24T16:02:37.000Z",
+     "date": "2026-11-24T14:56:50.000Z",
      "points": null,
-     "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds."
+     "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back."
     }
    ]
   },
@@ -1394,7 +1553,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.159194513092668,
+   "rank": 11.216197533105918,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1426,7 +1585,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 20.798072234002838,
+   "rank": 10.527245760063693,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1447,40 +1606,6 @@
    ]
   },
   {
-   "id": "nvidia-huang-reportedly-admitted-more",
-   "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 20.26793872935481,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T13:29:53.000Z",
-   "latestAt": "2026-11-24T13:29:53.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
-     "link": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-24T13:29:53.000Z",
-     "points": null,
-     "summary": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street…"
-    }
-   ]
-  },
-  {
    "id": "does-voice-still-struggle",
    "title": "Why Does Voice AI Still Struggle With Kenyans’ Speech?",
    "category": {
@@ -1488,7 +1613,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 18.270006540568623,
+   "rank": 9.24762866128002,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1516,7 +1641,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.371550996937607,
+   "rank": 8.792862363429013,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1544,7 +1669,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.362522562706978,
+   "rank": 8.788292490562668,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1572,7 +1697,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.752702165106445,
+   "rank": 8.479623056068403,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1600,7 +1725,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 16.182043628934235,
+   "rank": 8.190775965445193,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1628,7 +1753,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.866303455003129,
+   "rank": 7.524795002809802,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1649,40 +1774,6 @@
    ]
   },
   {
-   "id": "nvidia-china-stocks-miss-huang",
-   "title": "China stocks miss out as Huang’s Nvidia return sparks AI rally",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 14.311185992870891,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T09:13:03.000Z",
-   "latestAt": "2026-11-24T09:13:03.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "China stocks miss out as Huang’s Nvidia return sparks AI rally",
-     "link": "https://www.scmp.com/plus/tech/tech-war/article/3375612/china-stocks-miss-out-huangs-nvidia-return-sparks-ai-rally",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-24T09:13:03.000Z",
-     "points": null,
-     "summary": "Jensen Huang returned to Nvidia 11 days after stepping down as chief executive officer amid a sex and spying scandal, aided by US President Donald Trump…"
-    }
-   ]
-  },
-  {
    "id": "nvidia-dutch-minister-heads-china",
    "title": "Dutch minister heads to China as Nvidia saga revives US push for tougher ASML curbs",
    "category": {
@@ -1696,7 +1787,7 @@
      "kind": "org"
     }
    ],
-   "rank": 14.098678112382325,
+   "rank": 7.136250307777411,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1724,7 +1815,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 12.95252868390658,
+   "rank": 6.556110159422972,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1758,7 +1849,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 12.405155727958116,
+   "rank": 6.279049402788944,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1796,7 +1887,7 @@
      "kind": "org"
     }
    ],
-   "rank": 11.600589992210502,
+   "rank": 5.8718067922697745,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1828,7 +1919,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.453008109195215,
+   "rank": 5.797106082763877,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1856,7 +1947,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 10.33762977329843,
+   "rank": 5.232541168990787,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1894,7 +1985,7 @@
      "kind": "model"
     }
    ],
-   "rank": 10.33762977329843,
+   "rank": 5.232541168990787,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1926,7 +2017,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.857807408648307,
+   "rank": 4.989672123388162,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1954,7 +2045,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.40631122957215,
+   "rank": 4.761140787243761,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1982,7 +2073,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.333279471243575,
+   "rank": 4.724174704062381,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2010,7 +2101,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.98515600495841,
+   "rank": 4.547966965037529,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2044,7 +2135,7 @@
      "kind": "org"
     }
    ],
-   "rank": 8.038330873773042,
+   "rank": 4.068717699257162,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2078,7 +2169,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 7.821580816147389,
+   "rank": 3.9590065154772196,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2106,7 +2197,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 7.633329063692811,
+   "rank": 3.8637201619847072,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2149,7 +2240,7 @@
      "kind": "model"
     }
    ],
-   "rank": 7.361744388750131,
+   "rank": 3.726253641740857,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2177,7 +2268,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.243354264882915,
+   "rank": 3.1601642678262096,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2211,7 +2302,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.874053142749738,
+   "rank": 2.9732371512924383,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2236,38 +2327,6 @@
    ]
   },
   {
-   "id": "robotrack-point-tracking-real",
-   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 5.764985120540465,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-23T17:20:37.000Z",
-   "latestAt": "2026-11-23T17:20:37.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/allenai/robotrack",
-    "title": "RoboTrack: Point tracking for real-world robotic manipulation"
-   },
-   "sources": [
-    {
-     "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-     "link": "https://huggingface.co/blog/allenai/robotrack",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-11-23T17:20:37.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "supercharging-transformer-residual-connections",
    "title": "Supercharging transformer residual connections",
    "category": {
@@ -2275,7 +2334,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.016409924796363,
+   "rank": 2.539128603718201,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2307,7 +2366,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.9404978295697544,
+   "rank": 1.9945400997818603,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2335,7 +2394,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.8074509094311173,
+   "rank": 1.9271964724417683,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2369,7 +2428,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.757193049201351,
+   "rank": 1.9017577279244426,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2397,7 +2456,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.4613190085737426,
+   "rank": 1.75199679312888,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2425,7 +2484,7 @@
     "name": "Policy & Regulation"
    },
    "entities": [],
-   "rank": 3.4101460661271688,
+   "rank": 1.726094866482048,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2457,7 +2516,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.4101460661271688,
+   "rank": 1.726094866482048,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2489,7 +2548,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.289519548278435,
+   "rank": 1.665038005813095,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2523,7 +2582,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 2.0791447167364026,
+   "rank": 1.0523892386544316,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2555,7 +2614,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0241571910998104,
+   "rank": 1.0245565054279444,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2572,62 +2631,6 @@
      "date": "2026-11-23T05:00:00.000Z",
      "points": null,
      "summary": "The “SLIC” training method enables a small LLM to compete with much more resource-intensive models in complex circuit design tasks."
-    }
-   ]
-  },
-  {
-   "id": "select-styling-specimens",
-   "title": "Select Styling Specimens",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.3467881985622125,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-22T19:45:06.000Z",
-   "latestAt": "2026-11-22T19:45:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Select Styling Specimens",
-     "link": "https://simonwillison.net/2026/Nov/22/select-styling/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-22T19:45:06.000Z",
-     "points": null,
-     "summary": "Tool: Select Styling Specimens I got frustrated at how HTML boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome…"
-    }
-   ]
-  },
-  {
-   "id": "tencent-touts-latest-model",
-   "title": "Tencent touts latest AI model Hy4’s performance on independent safety assessments",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.6913632269617621,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-22T13:30:07.000Z",
-   "latestAt": "2026-11-22T13:30:07.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Tencent touts latest AI model Hy4’s performance on independent safety assessments",
-     "link": "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-22T13:30:07.000Z",
-     "points": null,
-     "summary": "Tencent Holdings has teamed up with an international group of artificial intelligence safety organisations to assess the risk level of its latest open-weight model, amid growing…"
     }
    ]
   }
