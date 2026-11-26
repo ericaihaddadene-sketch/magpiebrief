@@ -1,15 +1,313 @@
 {
  "date": "2026-11-26",
- "generated": "2026-11-26T14:56:19.803Z",
- "headline": "80 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2953 items read · 88 on-topic · 80 distinct developments · 20 with a primary source · 2 independently corroborated",
+ "generated": "2026-11-26T23:40:14.792Z",
+ "headline": "74 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2953 items read · 79 on-topic · 74 distinct developments · 13 with a primary source · 1 independently corroborated",
  "events": [
   {
-   "id": "llama-benchmarks-introducing-llama-benchmark-dashboard",
-   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+   "id": "made-self-hosting-again",
+   "title": "AI made self-hosting fun again",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 127.32893130006732,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-26T21:47:45.000Z",
+   "latestAt": "2026-11-26T21:47:45.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AI made self-hosting fun again",
+     "link": "https://janlukas.blog/posts/ai-self-hosting",
+     "publisher": "janlukas.blog",
+     "publisherDomain": "janlukas.blog",
+     "kind": "discussion",
+     "date": "2026-11-26T21:47:45.000Z",
+     "points": 141,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "llama-specific-fork-llama",
+   "title": "AMD-specific fork of llama.cpp",
    "category": {
     "id": "models",
-    "name": "New Models"
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "llama",
+     "name": "Llama",
+     "kind": "model"
+    }
+   ],
+   "rank": 109.19468810553062,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-26T17:11:29.000Z",
+   "latestAt": "2026-11-26T17:11:29.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "AMD-specific fork of llama.cpp",
+     "link": "https://devnull.land/amd-specific-llama-cpp",
+     "publisher": "devnull.land",
+     "publisherDomain": "devnull.land",
+     "kind": "discussion",
+     "date": "2026-11-26T17:11:29.000Z",
+     "points": 260,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "nvidia-nvidia-hits-pause-chip",
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 77.88535731274588,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-26T20:03:54.000Z",
+   "latestAt": "2026-11-26T20:03:54.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+     "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-26T20:03:54.000Z",
+     "points": null,
+     "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out…"
+    }
+   ]
+  },
+  {
+   "id": "safety-announcing-safety-founding-sprint",
+   "title": "Announcing: AI Safety Co-Founding Sprint in San Francisco. Starting December 3rd.",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 69.07653020866151,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-26T23:28:45.000Z",
+   "latestAt": "2026-11-26T23:28:45.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Announcing: AI Safety Co-Founding Sprint in San Francisco. Starting December 3rd.",
+     "link": "https://www.lesswrong.com/posts/c9wNKhKfkiD2ePpDG/announcing-ai-safety-co-founding-sprint-in-san-francisco",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-26T23:28:45.000Z",
+     "points": null,
+     "summary": "AI Safety needs more organizations to own problems. The funding is there, but we are orders of magnitude away from having the great organizations needed to…"
+    }
+   ]
+  },
+  {
+   "id": "safety-miller-rabin-test-alignment",
+   "title": "A Miller-Rabin Test for Alignment",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
+    }
+   ],
+   "rank": 69.06456119518819,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-26T23:28:36.000Z",
+   "latestAt": "2026-11-26T23:28:36.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "A Miller-Rabin Test for Alignment",
+     "link": "https://www.lesswrong.com/posts/wJz8o5n5uAigjwJBh/a-miller-rabin-test-for-alignment",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-26T23:28:36.000Z",
+     "points": null,
+     "summary": "Most current alignment tests have the following shape: Choose a set of inputs that seem like they might elicit misaligned behavior. Feed them to the model…"
+    }
+   ]
+  },
+  {
+   "id": "cited-scientists-four-companies",
+   "title": "Top-cited AI scientists at four US companies compared",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 101.8515462582244,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-26T19:44:31.000Z",
+   "latestAt": "2026-11-26T19:44:31.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Top-cited AI scientists at four US companies compared",
+     "link": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+     "publisher": "topcitedscientists.com",
+     "publisherDomain": "topcitedscientists.com",
+     "kind": "discussion",
+     "date": "2026-11-26T19:44:31.000Z",
+     "points": 19,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "quoting-jack-despain-zhou",
+   "title": "Quoting Jack Despain Zhou",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 66.51813130832073,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-26T15:09:31.000Z",
+   "latestAt": "2026-11-26T15:09:31.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Quoting Jack Despain Zhou",
+     "link": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-26T15:09:31.000Z",
+     "points": null,
+     "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a…"
+    }
+   ]
+  },
+  {
+   "id": "google-mcp-agents-google-will-make-agents",
+   "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "mcp",
+     "name": "Model Context Protocol",
+     "kind": "product"
+    },
+    {
+     "id": "agents",
+     "name": "AI Agents",
+     "kind": "topic"
+    },
+    {
+     "id": "google",
+     "name": "Google",
+     "kind": "org"
+    }
+   ],
+   "rank": 66.2495957310274,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-26T09:44:23.000Z",
+   "latestAt": "2026-11-26T09:44:23.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+     "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+     "publisher": "techstackups.com",
+     "publisherDomain": "techstackups.com",
+     "kind": "discussion",
+     "date": "2026-11-26T09:44:23.000Z",
+     "points": 199,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "openai-openai-cost-control-mode",
+   "title": "OpenAI may be in cost control mode",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "openai",
+     "name": "OpenAI",
+     "kind": "org"
+    }
+   ],
+   "rank": 64.04996417006149,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-26T07:33:12.000Z",
+   "latestAt": "2026-11-26T07:33:12.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "OpenAI may be in cost control mode",
+     "link": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+     "publisher": "micjm.com",
+     "publisherDomain": "micjm.com",
+     "kind": "discussion",
+     "date": "2026-11-26T07:33:12.000Z",
+     "points": 228,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "benchmarks-safety-update-bioblue-systematic-runaway",
+   "title": "Update - BioBlue: Systematic runaway-optimiser-like LLM failure modes on biologically and economically aligned AI safety benchmarks for LLMs with simplified observation format",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
    },
    "entities": [
     {
@@ -18,91 +316,56 @@
      "kind": "topic"
     },
     {
-     "id": "llama",
-     "name": "Llama",
-     "kind": "model"
+     "id": "safety",
+     "name": "AI Safety",
+     "kind": "topic"
     }
    ],
-   "rank": 109.6514913266048,
+   "rank": 63.542859849159896,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-26T11:37:17.000Z",
-   "latestAt": "2026-11-26T11:37:17.000Z",
-   "primary": {
-    "publisher": "Hugging Face",
-    "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon"
-   },
+   "publishedAt": "2026-11-26T19:38:39.000Z",
+   "latestAt": "2026-11-26T19:38:39.000Z",
+   "primary": null,
    "sources": [
     {
-     "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-     "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-     "publisher": "Hugging Face",
-     "publisherDomain": "huggingface.co",
-     "kind": "primary",
-     "date": "2026-11-26T11:37:17.000Z",
+     "title": "Update - BioBlue: Systematic runaway-optimiser-like LLM failure modes on biologically and economically aligned AI safety benchmarks for LLMs with simplified observation format",
+     "link": "https://www.lesswrong.com/posts/obaXD5iJFbJ2fyXL4/update-bioblue-systematic-runaway-optimiser-like-llm-failure",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-26T19:38:39.000Z",
      "points": null,
-     "summary": ""
+     "summary": "By Roland Pihlakas and Sruthi Susan Kuriakose This post is a copy of our Arxiv preprint available at . Here we provide plots and tables for…"
     }
    ]
   },
   {
-   "id": "openai-gpt-openai-cuts-usage-astra",
-   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+   "id": "doom",
+   "title": "P(doom | no AGI) > 0",
    "category": {
-    "id": "models",
-    "name": "Models"
+    "id": "general",
+    "name": "Other"
    },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    },
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 105.37470234807026,
+   "entities": [],
+   "rank": 60.92242606588889,
    "deltas": [],
-   "sourceCount": 3,
-   "independentCount": 2,
-   "publishedAt": "2026-11-24T16:53:59.000Z",
-   "latestAt": "2026-11-26T03:36:58.000Z",
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-26T21:40:01.000Z",
+   "latestAt": "2026-11-26T21:40:01.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-     "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
+     "title": "P(doom | no AGI) > 0",
+     "link": "https://www.lesswrong.com/posts/X8GAWzKYQhpxABtT8/p-doom-or-no-agi-greater-than-0",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
      "kind": "coverage",
-     "date": "2026-11-25T20:03:27.000Z",
+     "date": "2026-11-26T21:40:01.000Z",
      "points": null,
-     "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
-    },
-    {
-     "title": "GPT 6.2 Astra Solves a Historical Mystery",
-     "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-24T16:53:59.000Z",
-     "points": null,
-     "summary": ""
-    },
-    {
-     "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-     "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
-     "publisher": "X",
-     "publisherDomain": "twitter.com",
-     "kind": "discussion",
-     "date": "2026-11-26T03:36:58.000Z",
-     "points": 373,
-     "summary": ""
+     "summary": "The most near-term x-risk is from AGI. If humanity dies in the next five years, it will almost certainly be due to that. I think it's…"
     }
    ]
   },
@@ -114,7 +377,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 92.8629020554244,
+   "rank": 50.697271956114896,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -135,34 +398,6 @@
    ]
   },
   {
-   "id": "state-trying-stop-character",
-   "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 83.27851501415478,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-26T09:54:40.000Z",
-   "latestAt": "2026-11-26T09:54:40.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-     "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-26T09:54:40.000Z",
-     "points": null,
-     "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a…"
-    }
-   ]
-  },
-  {
    "id": "meta-ai-meta-refused-share-muse",
    "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
    "category": {
@@ -176,7 +411,7 @@
      "kind": "org"
     }
    ],
-   "rank": 75.35986459060408,
+   "rank": 41.14172037662137,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -197,78 +432,6 @@
    ]
   },
   {
-   "id": "safety-living-list-mental-health",
-   "title": "A big living list of mental health resources for EA and AI safety",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 67.65103886470084,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-26T14:26:47.000Z",
-   "latestAt": "2026-11-26T14:26:47.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "A big living list of mental health resources for EA and AI safety",
-     "link": "https://www.lesswrong.com/posts/CtLkgcuQnYQDiETKF/a-big-living-list-of-mental-health-resources-for-ea-and-ai-1",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-26T14:26:47.000Z",
-     "points": null,
-     "summary": "Last updated: Nov 25, 2026 This list has the mental health resources I most often send people in EA and AI safety, plus a lot more…"
-    }
-   ]
-  },
-  {
-   "id": "anthropic-much-shorter-version-lean",
-   "title": "Much shorter version of GRH Lean verification from Anthropic",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 66.31519840777092,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-25T21:48:10.000Z",
-   "latestAt": "2026-11-25T21:48:10.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/lsernau/grh-lean",
-    "title": "Much shorter version of GRH Lean verification from Anthropic"
-   },
-   "sources": [
-    {
-     "title": "Much shorter version of GRH Lean verification from Anthropic",
-     "link": "https://github.com/lsernau/grh-lean",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-11-25T21:48:10.000Z",
-     "points": 496,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "sqlite3-rsync-database-remote",
    "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
    "category": {
@@ -276,7 +439,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 65.21069321733246,
+   "rank": 35.60091463125632,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -310,7 +473,7 @@
      "kind": "org"
     }
    ],
-   "rank": 62.96117468540854,
+   "rank": 34.37281977034834,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -331,6 +494,36 @@
    ]
   },
   {
+   "id": "york-times-warns-photographers",
+   "title": "The New York Times warns photographers not to update Photoshop over AI features",
+   "category": {
+    "id": "tools",
+    "name": "Tools & Products"
+   },
+   "entities": [],
+   "rank": 33.23026134999342,
+   "deltas": [
+    "Now also covered by Simon Willison."
+   ],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-26T05:08:46.000Z",
+   "latestAt": "2026-11-26T05:08:46.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "The New York Times warns photographers not to update Photoshop over AI features",
+     "link": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-26T05:08:46.000Z",
+     "points": null,
+     "summary": "My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News. I had a NYT photographer take my…"
+    }
+   ]
+  },
+  {
    "id": "building-nemotron-parse-open",
    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
    "category": {
@@ -338,7 +531,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 58.119148535334325,
+   "rank": 31.72937969777318,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -363,94 +556,6 @@
    ]
   },
   {
-   "id": "safety-recursive-self-alignment-model",
-   "title": "Recursive Self Alignment: The Model is the Estimator",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 56.74202523940086,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-26T11:54:34.000Z",
-   "latestAt": "2026-11-26T11:54:34.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Recursive Self Alignment: The Model is the Estimator",
-     "link": "https://www.lesswrong.com/posts/qvy8Tvhzg2PgfvHcs/recursive-self-alignment-the-model-is-the-estimator",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-26T11:54:34.000Z",
-     "points": null,
-     "summary": "Alignment research has historically been undertaken from the position that we should solve it before the intelligence explosion. But the intelligence explosion has already begun. We…"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-nvidia-jensen-huang-says",
-   "title": "Nvidia’s Jensen Huang says he is in therapy, as comeback rally fades",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 49.479914553935885,
-   "deltas": [],
-   "sourceCount": 3,
-   "independentCount": 3,
-   "publishedAt": "2026-11-23T15:46:18.000Z",
-   "latestAt": "2026-11-25T19:54:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-     "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-25T19:54:57.000Z",
-     "points": null,
-     "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
-    },
-    {
-     "title": "Nvidia’s Jensen Huang says he is in therapy, as comeback rally fades",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3375675/nvidias-jensen-huang-apologises-staff-says-he-therapy",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-24T22:03:22.000Z",
-     "points": null,
-     "summary": "Jensen Huang apologised to Nvidia staff and said he was in therapy on Tuesday, as a stock rally triggered by his shock return as CEO faltered…"
-    },
-    {
-     "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
-     "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-23T15:46:18.000Z",
-     "points": null,
-     "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\""
-    }
-   ]
-  },
-  {
    "id": "swarms-flocks-gangs-build",
    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
    "category": {
@@ -458,7 +563,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 48.99772072972485,
+   "rank": 26.749656946775644,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -490,7 +595,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 48.369239686255256,
+   "rank": 26.40654604161543,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -524,7 +629,7 @@
      "kind": "org"
     }
    ],
-   "rank": 47.922808454437074,
+   "rank": 26.162822820951035,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -545,44 +650,6 @@
    ]
   },
   {
-   "id": "qwen-bare-metal-qwen",
-   "title": "Bare Metal Qwen",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "qwen",
-     "name": "Qwen",
-     "kind": "model"
-    }
-   ],
-   "rank": 45.6319313780224,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-25T22:15:34.000Z",
-   "latestAt": "2026-11-25T22:15:34.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-    "title": "Bare Metal Qwen"
-   },
-   "sources": [
-    {
-     "title": "Bare Metal Qwen",
-     "link": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-11-25T22:15:34.000Z",
-     "points": 193,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "nvidia-chinese-chips-capture-home",
    "title": "Chinese AI chips to capture 88% of home market by 2028, UBS says, as Nvidia woes mount",
    "category": {
@@ -596,7 +663,7 @@
      "kind": "org"
     }
    ],
-   "rank": 44.51684491443355,
+   "rank": 24.30338211817059,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -617,58 +684,46 @@
    ]
   },
   {
-   "id": "what-extents-will-currently",
-   "title": "To what extents will currently-shaped AI speed up biology research?",
+   "id": "nvidia-nvidia-jensen-huang-says",
+   "title": "Nvidia’s Jensen Huang says he is in therapy, as comeback rally fades",
    "category": {
     "id": "general",
     "name": "Other"
    },
-   "entities": [],
-   "rank": 42.70701900433219,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-26T07:48:36.000Z",
-   "latestAt": "2026-11-26T07:48:36.000Z",
-   "primary": null,
-   "sources": [
+   "entities": [
     {
-     "title": "To what extents will currently-shaped AI speed up biology research?",
-     "link": "https://www.lesswrong.com/posts/xPDnTd2aEw53uRQvE/to-what-extents-will-currently-shaped-ai-speed-up-biology",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-26T07:48:36.000Z",
-     "points": null,
-     "summary": "Suppose that the escalation of AI capabilities tapers off, whether because of strong government regulation or because of technological plateaus. How will this affect biology research?…"
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
     }
-   ]
-  },
-  {
-   "id": "york-times-warns-photographers",
-   "title": "The New York Times warns photographers not to update Photoshop over AI features",
-   "category": {
-    "id": "tools",
-    "name": "Tools & Products"
-   },
-   "entities": [],
-   "rank": 42.697595535187084,
+   ],
+   "rank": 23.43766694994491,
    "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-25T21:18:02.000Z",
-   "latestAt": "2026-11-25T21:18:02.000Z",
+   "sourceCount": 2,
+   "independentCount": 2,
+   "publishedAt": "2026-11-24T22:03:22.000Z",
+   "latestAt": "2026-11-25T19:54:57.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "The New York Times warns photographers not to update Photoshop over AI features",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "discussion",
-     "date": "2026-11-25T21:18:02.000Z",
-     "points": 493,
-     "summary": ""
+     "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+     "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-25T19:54:57.000Z",
+     "points": null,
+     "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
+    },
+    {
+     "title": "Nvidia’s Jensen Huang says he is in therapy, as comeback rally fades",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3375675/nvidias-jensen-huang-apologises-staff-says-he-therapy",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-24T22:03:22.000Z",
+     "points": null,
+     "summary": "Jensen Huang apologised to Nvidia staff and said he was in therapy on Tuesday, as a stock rally triggered by his shock return as CEO faltered…"
     }
    ]
   },
@@ -686,7 +741,7 @@
      "kind": "org"
     }
    ],
-   "rank": 39.641426346891365,
+   "rank": 21.641711897364257,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -707,70 +762,41 @@
    ]
   },
   {
-   "id": "google-google-familiar-faces-feature",
-   "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+   "id": "openai-gpt-openai-says-heavy-chatgpt",
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
    "category": {
-    "id": "tools",
-    "name": "Tools & Products"
+    "id": "models",
+    "name": "Models"
    },
    "entities": [
     {
-     "id": "google",
-     "name": "Google",
+     "id": "openai",
+     "name": "OpenAI",
      "kind": "org"
+    },
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
     }
    ],
-   "rank": 35.69340373362262,
+   "rank": 19.910942723178874,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-26T00:04:34.000Z",
-   "latestAt": "2026-11-26T00:04:34.000Z",
+   "publishedAt": "2026-11-25T20:03:27.000Z",
+   "latestAt": "2026-11-25T20:03:27.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-     "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
+     "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+     "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
      "kind": "coverage",
-     "date": "2026-11-26T00:04:34.000Z",
+     "date": "2026-11-25T20:03:27.000Z",
      "points": null,
-     "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new…"
-    }
-   ]
-  },
-  {
-   "id": "safety-open-questions-safety-grantmaking",
-   "title": "Open questions in AI safety grantmaking",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 34.755733141267726,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-26T04:50:16.000Z",
-   "latestAt": "2026-11-26T04:50:16.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Open questions in AI safety grantmaking",
-     "link": "https://www.lesswrong.com/posts/hFfaqR5xJRQEAcipP/open-questions-in-ai-safety-grantmaking",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-26T04:50:16.000Z",
-     "points": null,
-     "summary": "In October 2026, I wrote these questions for an AI safety strategy summit; then collected comments from about 5 folks with relevant context. A few things…"
+     "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
     }
    ]
   },
@@ -788,7 +814,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 34.364264559309305,
+   "rank": 18.760715284294943,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -826,7 +852,7 @@
      "kind": "org"
     }
    ],
-   "rank": 32.54122574973276,
+   "rank": 17.765451381595753,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -847,40 +873,6 @@
    ]
   },
   {
-   "id": "google-google-patent-custom-video",
-   "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 30.60502602385182,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-25T21:51:26.000Z",
-   "latestAt": "2026-11-25T21:51:26.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-     "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-     "publisher": "The Verge",
-     "publisherDomain": "theverge.com",
-     "kind": "coverage",
-     "date": "2026-11-25T21:51:26.000Z",
-     "points": null,
-     "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on…"
-    }
-   ]
-  },
-  {
    "id": "approves-spacex-plan-data",
    "title": "FCC approves SpaceX plan to put AI data centers in space",
    "category": {
@@ -888,7 +880,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.7308749470939,
+   "rank": 15.685240806502065,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -916,7 +908,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.66194142049821,
+   "rank": 15.647607460274857,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -944,7 +936,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.745555121301336,
+   "rank": 12.963571448747457,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -972,7 +964,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 23.689900163588923,
+   "rank": 12.933187361405789,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1006,7 +998,7 @@
      "kind": "org"
     }
    ],
-   "rank": 22.869215905700674,
+   "rank": 12.485145655930866,
    "deltas": [],
    "sourceCount": 3,
    "independentCount": 1,
@@ -1047,6 +1039,34 @@
    ]
   },
   {
+   "id": "character-plan-auction-users",
+   "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 12.438362489079093,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T17:35:58.000Z",
+   "latestAt": "2026-11-25T17:35:58.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+     "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-25T17:35:58.000Z",
+     "points": null,
+     "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said."
+    }
+   ]
+  },
+  {
    "id": "verifiable-social-reasoning-assistants",
    "title": "Verifiable Social Reasoning for LLM Assistants",
    "category": {
@@ -1054,7 +1074,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 22.121711988089604,
+   "rank": 12.07705578838859,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1102,7 +1122,7 @@
      "kind": "org"
     }
    ],
-   "rank": 21.558360185749535,
+   "rank": 11.76950133017065,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1130,7 +1150,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.04789147920585,
+   "rank": 10.398944176173897,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1162,7 +1182,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.594229882454908,
+   "rank": 9.605336872595798,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1190,7 +1210,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.00934603485275,
+   "rank": 9.286027279331867,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1224,7 +1244,7 @@
      "kind": "org"
     }
    ],
-   "rank": 15.249857812140597,
+   "rank": 8.325457978178862,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1252,7 +1272,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.928263665662406,
+   "rank": 8.149887911525457,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1280,7 +1300,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.684516771956885,
+   "rank": 8.016817521895895,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1308,7 +1328,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.126809761387427,
+   "rank": 7.71234476301317,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1336,7 +1356,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 9.39641389594505,
+   "rank": 5.129847766448486,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -1364,7 +1384,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.736110107426449,
+   "rank": 4.223426894031021,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1396,7 +1416,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.550314037404489,
+   "rank": 4.121993989374879,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1435,7 +1455,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.9546184861122,
+   "rank": 3.7967818896185257,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1456,40 +1476,6 @@
    ]
   },
   {
-   "id": "nvidia-yale-sonnenfeld-nvidia-detriment",
-   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 6.8212210852289585,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-25T00:12:02.000Z",
-   "latestAt": "2026-11-25T00:12:02.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-     "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-25T00:12:02.000Z",
-     "points": null,
-     "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake…"
-    }
-   ]
-  },
-  {
    "id": "gemini-gemini-changing-game-golden",
    "title": "How Gemini is changing the game for Golden State's organization and fans.",
    "category": {
@@ -1503,7 +1489,7 @@
      "kind": "model"
     }
    ],
-   "rank": 6.02733602129724,
+   "rank": 3.290544304336055,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1541,7 +1527,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 6.004468929557717,
+   "rank": 3.2780603183405295,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1569,7 +1555,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.838577353378934,
+   "rank": 3.1874940085805243,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1603,7 +1589,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 5.613919170269356,
+   "rank": 3.064844847783513,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1637,7 +1623,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.160084381914468,
+   "rank": 2.8170797534443186,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1658,6 +1644,40 @@
    ]
   },
   {
+   "id": "gpt-astra-solves-historical-mystery",
+   "title": "GPT 6.2 Astra Solves a Historical Mystery",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 2.694069082715743,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-24T16:53:59.000Z",
+   "latestAt": "2026-11-24T16:53:59.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "GPT 6.2 Astra Solves a Historical Mystery",
+     "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+     "publisher": "Simon Willison",
+     "publisherDomain": "simonwillison.net",
+     "kind": "coverage",
+     "date": "2026-11-24T16:53:59.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "tidal-announces-generated-music",
    "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
    "category": {
@@ -1665,7 +1685,7 @@
     "name": "Policy & Regulation"
    },
    "entities": [],
-   "rank": 4.7406638632770735,
+   "rank": 2.5881026740435065,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1699,7 +1719,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.117089980688828,
+   "rank": 2.2476707684000825,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1737,7 +1757,7 @@
      "kind": "model"
     }
    ],
-   "rank": 4.0797651057857856,
+   "rank": 2.227293747094435,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1780,7 +1800,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.0018061559404,
+   "rank": 2.184733090532512,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1814,7 +1834,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.9509517107016885,
+   "rank": 2.1569697794214115,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1842,7 +1862,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.5516418109576864,
+   "rank": 1.9389718261589963,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1874,7 +1894,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.3334832134786483,
+   "rank": 1.819871028088328,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1902,7 +1922,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.9282887100257544,
+   "rank": 1.5986604533378868,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1930,7 +1950,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.784285629401084,
+   "rank": 1.5200438779417187,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1958,7 +1978,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.7828385657687824,
+   "rank": 1.5192538727094806,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1986,7 +2006,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.685097484972132,
+   "rank": 1.465893423652279,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2014,7 +2034,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.5936332074393174,
+   "rank": 1.4159597122377559,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2042,7 +2062,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.382748384377297,
+   "rank": 1.3008299350118462,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2076,7 +2096,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.2937750064263653,
+   "rank": 1.2522560972467907,
    "deltas": [],
    "sourceCount": 3,
    "independentCount": 1,
@@ -2130,7 +2150,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.259714568306414,
+   "rank": 1.2336612519846735,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2164,7 +2184,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.988279390247032,
+   "rank": 1.0854748100800278,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2189,44 +2209,6 @@
    ]
   },
   {
-   "id": "openai-openai-cisco-introduce-shirudo",
-   "title": "OpenAI and Cisco introduce Shirudo",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "openai",
-     "name": "OpenAI",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.8593248244546352,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-23T21:20:00.000Z",
-   "latestAt": "2026-11-23T21:20:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/introducing-shirudo",
-    "title": "OpenAI and Cisco introduce Shirudo"
-   },
-   "sources": [
-    {
-     "title": "OpenAI and Cisco introduce Shirudo",
-     "link": "https://openai.com/index/introducing-shirudo",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-23T21:20:00.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "north-korea-unveils-first",
    "title": "North Korea unveils first AI chatbot, but it won’t answer ‘uncultured questions’",
    "category": {
@@ -2234,7 +2216,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.8356706259255642,
+   "rank": 1.0021600756010827,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2262,7 +2244,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.6568994918725266,
+   "rank": 0.9045623417333565,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2300,7 +2282,7 @@
      "kind": "model"
     }
    ],
-   "rank": 1.6568994918725266,
+   "rank": 0.9045623417333565,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2332,7 +2314,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.5799942970055796,
+   "rank": 0.8625769687511451,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2353,34 +2335,6 @@
    ]
   },
   {
-   "id": "ladybird-first-alpha-release",
-   "title": "Ladybird's first alpha release",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.5076291798463317,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-23T21:46:35.000Z",
-   "latestAt": "2026-11-23T21:46:35.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Ladybird's first alpha release",
-     "link": "https://simonwillison.net/2026/Nov/23/ladybird/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-23T21:46:35.000Z",
-     "points": null,
-     "summary": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine…"
-    }
-   ]
-  },
-  {
    "id": "toward-generalized-coding-with",
    "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
    "category": {
@@ -2388,7 +2342,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4959237613008034,
+   "rank": 0.8166797728011688,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2416,7 +2370,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.4401270644712614,
+   "rank": 0.7862183048650071,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2437,40 +2391,6 @@
    ]
   },
   {
-   "id": "anthropic-legendary-philosopher-buying-anthropic",
-   "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.2883713803196295,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-23T17:36:08.000Z",
-   "latestAt": "2026-11-23T17:36:08.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-     "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-11-23T17:36:08.000Z",
-     "points": null,
-     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going…"
-    }
-   ]
-  },
-  {
    "id": "robotics-meet-robots-china-humanoid",
    "title": "Meet the robots: China’s 6 top humanoid developers vie for market share",
    "category": {
@@ -2484,7 +2404,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.2536310125352352,
+   "rank": 0.6844032543500085,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -2501,175 +2421,6 @@
      "date": "2026-11-24T00:30:05.000Z",
      "points": null,
      "summary": "Shenzhen captured the world’s attention last week as the host city of this year’s Asia-Pacific Economic Cooperation (Apec) summit. Much of the discussion around Apec focused…"
-    }
-   ]
-  },
-  {
-   "id": "finding-faster-quantum-algorithms",
-   "title": "Finding faster quantum algorithms with agents and formal verification",
-   "category": {
-    "id": "research",
-    "name": "Research"
-   },
-   "entities": [],
-   "rank": 1.2234583095243625,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-23T16:59:40.000Z",
-   "latestAt": "2026-11-23T16:59:40.000Z",
-   "primary": {
-    "publisher": "Google DeepMind",
-    "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-    "title": "Finding faster quantum algorithms with agents and formal verification"
-   },
-   "sources": [
-    {
-     "title": "Finding faster quantum algorithms with agents and formal verification",
-     "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-     "publisher": "Google DeepMind",
-     "publisherDomain": "deepmind.google",
-     "kind": "primary",
-     "date": "2026-11-23T16:59:40.000Z",
-     "points": null,
-     "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
-    }
-   ]
-  },
-  {
-   "id": "grok-copyright-states-spacex-stop-grok",
-   "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [
-    {
-     "id": "copyright",
-     "name": "AI & Copyright",
-     "kind": "topic"
-    },
-    {
-     "id": "grok",
-     "name": "Grok",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.1799291331288984,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-23T21:30:44.000Z",
-   "latestAt": "2026-11-23T21:30:44.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-     "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-23T21:30:44.000Z",
-     "points": null,
-     "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM."
-    }
-   ]
-  },
-  {
-   "id": "many-languages-common-neural",
-   "title": "Many languages, one common neural code",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.0006752743055545,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-23T21:15:00.000Z",
-   "latestAt": "2026-11-23T21:15:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Many languages, one common neural code",
-     "link": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
-     "publisher": "MIT News AI",
-     "publisherDomain": "news.mit.edu",
-     "kind": "coverage",
-     "date": "2026-11-23T21:15:00.000Z",
-     "points": null,
-     "summary": "Analyzing speakers of 21 languages, an MIT study using multilingual AI finds the human brain may represent meaning in much the same way."
-    }
-   ]
-  },
-  {
-   "id": "google-more-tailored-google-search",
-   "title": "A more tailored Google Search that’s uniquely yours",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.9414842551813344,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-23T17:00:00.000Z",
-   "latestAt": "2026-11-23T17:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-    "title": "A more tailored Google Search that’s uniquely yours"
-   },
-   "sources": [
-    {
-     "title": "A more tailored Google Search that’s uniquely yours",
-     "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-11-23T17:00:00.000Z",
-     "points": null,
-     "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons"
-    }
-   ]
-  },
-  {
-   "id": "supercharging-transformer-residual-connections",
-   "title": "Supercharging transformer residual connections",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.804022511706509,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-23T17:21:12.000Z",
-   "latestAt": "2026-11-23T17:21:12.000Z",
-   "primary": {
-    "publisher": "Google Research",
-    "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
-    "title": "Supercharging transformer residual connections"
-   },
-   "sources": [
-    {
-     "title": "Supercharging transformer residual connections",
-     "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
-     "publisher": "Google Research",
-     "publisherDomain": "research.google",
-     "kind": "primary",
-     "date": "2026-11-23T17:21:12.000Z",
-     "points": null,
-     "summary": ""
     }
    ]
   }

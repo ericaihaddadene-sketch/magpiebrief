@@ -1,29 +1,135 @@
 {
- "llama-benchmarks-introducing-llama-benchmark-dashboard": {
-  "id": "llama-benchmarks-introducing-llama-benchmark-dashboard",
-  "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-  "firstSeen": "2026-11-26T14:56:19.742Z",
+ "made-self-hosting-again": {
+  "id": "made-self-hosting-again",
+  "title": "AI made self-hosting fun again",
+  "firstSeen": "2026-11-26T23:40:14.735Z",
   "publishers": [
-   "Hugging Face"
+   "janlukas.blog"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "llama-specific-fork-llama": {
+  "id": "llama-specific-fork-llama",
+  "title": "AMD-specific fork of llama.cpp",
+  "firstSeen": "2026-11-26T23:40:14.735Z",
+  "publishers": [
+   "devnull.land"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "models"
+ },
+ "nvidia-nvidia-hits-pause-chip": {
+  "id": "nvidia-nvidia-hits-pause-chip",
+  "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+  "firstSeen": "2026-11-26T23:40:14.735Z",
+  "publishers": [
+   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": true,
-  "category": "models"
- },
- "openai-gpt-openai-cuts-usage-astra": {
-  "id": "openai-gpt-openai-cuts-usage-astra",
-  "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-  "firstSeen": "2026-11-26T04:52:30.262Z",
-  "publishers": [
-   "TechCrunch",
-   "Simon Willison",
-   "X"
-  ],
-  "sourceCount": 3,
-  "independentCount": 2,
   "hadPrimary": false,
-  "category": "models"
+  "category": "general"
+ },
+ "safety-announcing-safety-founding-sprint": {
+  "id": "safety-announcing-safety-founding-sprint",
+  "title": "Announcing: AI Safety Co-Founding Sprint in San Francisco. Starting December 3rd.",
+  "firstSeen": "2026-11-26T23:40:14.735Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "safety-miller-rabin-test-alignment": {
+  "id": "safety-miller-rabin-test-alignment",
+  "title": "A Miller-Rabin Test for Alignment",
+  "firstSeen": "2026-11-26T23:40:14.735Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "cited-scientists-four-companies": {
+  "id": "cited-scientists-four-companies",
+  "title": "Top-cited AI scientists at four US companies compared",
+  "firstSeen": "2026-11-26T23:40:14.735Z",
+  "publishers": [
+   "topcitedscientists.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "quoting-jack-despain-zhou": {
+  "id": "quoting-jack-despain-zhou",
+  "title": "Quoting Jack Despain Zhou",
+  "firstSeen": "2026-11-26T23:40:14.735Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "google-mcp-agents-google-will-make-agents": {
+  "id": "google-mcp-agents-google-will-make-agents",
+  "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+  "firstSeen": "2026-11-26T23:40:14.735Z",
+  "publishers": [
+   "techstackups.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "openai-openai-cost-control-mode": {
+  "id": "openai-openai-cost-control-mode",
+  "title": "OpenAI may be in cost control mode",
+  "firstSeen": "2026-11-26T23:40:14.735Z",
+  "publishers": [
+   "micjm.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "benchmarks-safety-update-bioblue-systematic-runaway": {
+  "id": "benchmarks-safety-update-bioblue-systematic-runaway",
+  "title": "Update - BioBlue: Systematic runaway-optimiser-like LLM failure modes on biologically and economically aligned AI safety benchmarks for LLMs with simplified observation format",
+  "firstSeen": "2026-11-26T23:40:14.735Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "tools"
+ },
+ "doom": {
+  "id": "doom",
+  "title": "P(doom | no AGI) > 0",
+  "firstSeen": "2026-11-26T23:40:14.735Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
  },
  "download-better-bionic-hands": {
   "id": "download-better-bionic-hands",
@@ -31,18 +137,6 @@
   "firstSeen": "2026-11-26T14:56:19.742Z",
   "publishers": [
    "MIT Tech Review"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "state-trying-stop-character": {
-  "id": "state-trying-stop-character",
-  "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-  "firstSeen": "2026-11-26T14:56:19.742Z",
-  "publishers": [
-   "The Verge"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -59,30 +153,6 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "general"
- },
- "safety-living-list-mental-health": {
-  "id": "safety-living-list-mental-health",
-  "title": "A big living list of mental health resources for EA and AI safety",
-  "firstSeen": "2026-11-26T14:56:19.742Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "anthropic-much-shorter-version-lean": {
-  "id": "anthropic-much-shorter-version-lean",
-  "title": "Much shorter version of GRH Lean verification from Anthropic",
-  "firstSeen": "2026-11-25T22:20:54.818Z",
-  "publishers": [
-   "GitHub"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
   "category": "general"
  },
  "sqlite3-rsync-database-remote": {
@@ -109,6 +179,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "york-times-warns-photographers": {
+  "id": "york-times-warns-photographers",
+  "title": "The New York Times warns photographers not to update Photoshop over AI features",
+  "firstSeen": "2026-11-26T04:52:30.262Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "tools"
+ },
  "building-nemotron-parse-open": {
   "id": "building-nemotron-parse-open",
   "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
@@ -119,32 +201,6 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
-  "category": "general"
- },
- "safety-recursive-self-alignment-model": {
-  "id": "safety-recursive-self-alignment-model",
-  "title": "Recursive Self Alignment: The Model is the Estimator",
-  "firstSeen": "2026-11-26T14:56:19.742Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "nvidia-nvidia-jensen-huang-says": {
-  "id": "nvidia-nvidia-jensen-huang-says",
-  "title": "Nvidia’s Jensen Huang says he is in therapy, as comeback rally fades",
-  "firstSeen": "2026-11-25T22:20:54.818Z",
-  "publishers": [
-   "TechCrunch",
-   "SCMP Tech",
-   "Ars Technica AI"
-  ],
-  "sourceCount": 3,
-  "independentCount": 3,
-  "hadPrimary": false,
   "category": "general"
  },
  "swarms-flocks-gangs-build": {
@@ -183,18 +239,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "qwen-bare-metal-qwen": {
-  "id": "qwen-bare-metal-qwen",
-  "title": "Bare Metal Qwen",
-  "firstSeen": "2026-11-26T04:52:30.262Z",
-  "publishers": [
-   "GitHub"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "models"
- },
  "nvidia-chinese-chips-capture-home": {
   "id": "nvidia-chinese-chips-capture-home",
   "title": "Chinese AI chips to capture 88% of home market by 2028, UBS says, as Nvidia woes mount",
@@ -207,29 +251,18 @@
   "hadPrimary": false,
   "category": "general"
  },
- "what-extents-will-currently": {
-  "id": "what-extents-will-currently",
-  "title": "To what extents will currently-shaped AI speed up biology research?",
-  "firstSeen": "2026-11-26T14:56:19.742Z",
+ "nvidia-nvidia-jensen-huang-says": {
+  "id": "nvidia-nvidia-jensen-huang-says",
+  "title": "Nvidia’s Jensen Huang says he is in therapy, as comeback rally fades",
+  "firstSeen": "2026-11-25T22:20:54.818Z",
   "publishers": [
-   "LessWrong"
+   "TechCrunch",
+   "SCMP Tech"
   ],
-  "sourceCount": 1,
-  "independentCount": 1,
+  "sourceCount": 2,
+  "independentCount": 2,
   "hadPrimary": false,
   "category": "general"
- },
- "york-times-warns-photographers": {
-  "id": "york-times-warns-photographers",
-  "title": "The New York Times warns photographers not to update Photoshop over AI features",
-  "firstSeen": "2026-11-26T04:52:30.262Z",
-  "publishers": [
-   "The Verge"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "tools"
  },
  "anthropic-anthropic-dario-amodei-calls": {
   "id": "anthropic-anthropic-dario-amodei-calls",
@@ -243,29 +276,17 @@
   "hadPrimary": false,
   "category": "general"
  },
- "google-google-familiar-faces-feature": {
-  "id": "google-google-familiar-faces-feature",
-  "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-  "firstSeen": "2026-11-26T04:52:30.262Z",
+ "openai-gpt-openai-says-heavy-chatgpt": {
+  "id": "openai-gpt-openai-says-heavy-chatgpt",
+  "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+  "firstSeen": "2026-11-26T23:40:14.735Z",
   "publishers": [
-   "The Verge"
+   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "tools"
- },
- "safety-open-questions-safety-grantmaking": {
-  "id": "safety-open-questions-safety-grantmaking",
-  "title": "Open questions in AI safety grantmaking",
-  "firstSeen": "2026-11-26T14:56:19.742Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
+  "category": "models"
  },
  "agents-where-scientists-draw-line": {
   "id": "agents-where-scientists-draw-line",
@@ -285,18 +306,6 @@
   "firstSeen": "2026-11-26T04:52:30.262Z",
   "publishers": [
    "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "google-google-patent-custom-video": {
-  "id": "google-google-patent-custom-video",
-  "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-  "firstSeen": "2026-11-25T22:20:54.818Z",
-  "publishers": [
-   "The Verge"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -359,6 +368,18 @@
    "SCMP Tech"
   ],
   "sourceCount": 3,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "character-plan-auction-users": {
+  "id": "character-plan-auction-users",
+  "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+  "firstSeen": "2026-11-26T23:40:14.735Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
@@ -519,18 +540,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "nvidia-yale-sonnenfeld-nvidia-detriment": {
-  "id": "nvidia-yale-sonnenfeld-nvidia-detriment",
-  "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-  "firstSeen": "2026-11-25T02:12:05.911Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "gemini-gemini-changing-game-golden": {
   "id": "gemini-gemini-changing-game-golden",
   "title": "How Gemini is changing the game for Golden State's organization and fans.",
@@ -590,6 +599,18 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
+ },
+ "gpt-astra-solves-historical-mystery": {
+  "id": "gpt-astra-solves-historical-mystery",
+  "title": "GPT 6.2 Astra Solves a Historical Mystery",
+  "firstSeen": "2026-11-26T23:40:14.735Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "models"
  },
  "tidal-announces-generated-music": {
   "id": "tidal-announces-generated-music",
@@ -783,18 +804,6 @@
   "hadPrimary": true,
   "category": "general"
  },
- "openai-openai-cisco-introduce-shirudo": {
-  "id": "openai-openai-cisco-introduce-shirudo",
-  "title": "OpenAI and Cisco introduce Shirudo",
-  "firstSeen": "2026-11-24T17:26:38.752Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
  "north-korea-unveils-first": {
   "id": "north-korea-unveils-first",
   "title": "North Korea unveils first AI chatbot, but it won’t answer ‘uncultured questions’",
@@ -843,18 +852,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "ladybird-first-alpha-release": {
-  "id": "ladybird-first-alpha-release",
-  "title": "Ladybird's first alpha release",
-  "firstSeen": "2026-11-24T05:51:53.491Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "toward-generalized-coding-with": {
   "id": "toward-generalized-coding-with",
   "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
@@ -879,18 +876,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "anthropic-legendary-philosopher-buying-anthropic": {
-  "id": "anthropic-legendary-philosopher-buying-anthropic",
-  "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-  "firstSeen": "2026-11-23T21:09:17.312Z",
-  "publishers": [
-   "MIT Tech Review"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "robotics-meet-robots-china-humanoid": {
   "id": "robotics-meet-robots-china-humanoid",
   "title": "Meet the robots: China’s 6 top humanoid developers vie for market share",
@@ -901,66 +886,6 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
-  "category": "general"
- },
- "finding-faster-quantum-algorithms": {
-  "id": "finding-faster-quantum-algorithms",
-  "title": "Finding faster quantum algorithms with agents and formal verification",
-  "firstSeen": "2026-11-23T21:09:17.312Z",
-  "publishers": [
-   "Google DeepMind"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "research"
- },
- "grok-copyright-states-spacex-stop-grok": {
-  "id": "grok-copyright-states-spacex-stop-grok",
-  "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-  "firstSeen": "2026-11-24T05:51:53.491Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "policy"
- },
- "many-languages-common-neural": {
-  "id": "many-languages-common-neural",
-  "title": "Many languages, one common neural code",
-  "firstSeen": "2026-11-24T05:51:53.491Z",
-  "publishers": [
-   "MIT News AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "google-more-tailored-google-search": {
-  "id": "google-more-tailored-google-search",
-  "title": "A more tailored Google Search that’s uniquely yours",
-  "firstSeen": "2026-11-23T21:09:17.312Z",
-  "publishers": [
-   "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "supercharging-transformer-residual-connections": {
-  "id": "supercharging-transformer-residual-connections",
-  "title": "Supercharging transformer residual connections",
-  "firstSeen": "2026-11-23T21:09:17.312Z",
-  "publishers": [
-   "Google Research"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
   "category": "general"
  }
 }
