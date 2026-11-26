@@ -1,4 +1,18 @@
 {
+ "openai-gpt-openai-cuts-usage-astra": {
+  "id": "openai-gpt-openai-cuts-usage-astra",
+  "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+  "firstSeen": "2026-11-26T04:52:30.262Z",
+  "publishers": [
+   "TechCrunch",
+   "Simon Willison",
+   "X"
+  ],
+  "sourceCount": 3,
+  "independentCount": 2,
+  "hadPrimary": false,
+  "category": "models"
+ },
  "anthropic-much-shorter-version-lean": {
   "id": "anthropic-much-shorter-version-lean",
   "title": "Much shorter version of GRH Lean verification from Anthropic",
@@ -25,6 +39,54 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "quoting-scott-aaronson": {
+  "id": "quoting-scott-aaronson",
+  "title": "Quoting Scott Aaronson",
+  "firstSeen": "2026-11-26T04:52:30.262Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "qwen-bare-metal-qwen": {
+  "id": "qwen-bare-metal-qwen",
+  "title": "Bare Metal Qwen",
+  "firstSeen": "2026-11-26T04:52:30.262Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "models"
+ },
+ "nvidia-chinese-chips-capture-home": {
+  "id": "nvidia-chinese-chips-capture-home",
+  "title": "Chinese AI chips to capture 88% of home market by 2028, UBS says, as Nvidia woes mount",
+  "firstSeen": "2026-11-26T04:52:30.262Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "york-times-warns-photographers": {
+  "id": "york-times-warns-photographers",
+  "title": "The New York Times warns photographers not to update Photoshop over AI features",
+  "firstSeen": "2026-11-26T04:52:30.262Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "tools"
+ },
  "anthropic-anthropic-dario-amodei-calls": {
   "id": "anthropic-anthropic-dario-amodei-calls",
   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
@@ -37,6 +99,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "google-google-familiar-faces-feature": {
+  "id": "google-google-familiar-faces-feature",
+  "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+  "firstSeen": "2026-11-26T04:52:30.262Z",
+  "publishers": [
+   "The Verge"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "tools"
+ },
  "agents-where-scientists-draw-line": {
   "id": "agents-where-scientists-draw-line",
   "title": "Where scientists draw the line on AI agents",
@@ -47,6 +121,30 @@
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": true,
+  "category": "general"
+ },
+ "approves-spacex-plan-data": {
+  "id": "approves-spacex-plan-data",
+  "title": "FCC approves SpaceX plan to put AI data centers in space",
+  "firstSeen": "2026-11-25T22:20:54.818Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "nvidia-considers-nvidia-credit-downgrade": {
+  "id": "nvidia-considers-nvidia-credit-downgrade",
+  "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+  "firstSeen": "2026-11-26T04:52:30.262Z",
+  "publishers": [
+   "TechCrunch"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
   "category": "general"
  },
  "google-google-patent-custom-video": {
@@ -61,51 +159,15 @@
   "hadPrimary": false,
   "category": "general"
  },
- "openai-gpt-openai-says-heavy-chatgpt": {
-  "id": "openai-gpt-openai-says-heavy-chatgpt",
-  "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-  "firstSeen": "2026-11-25T22:20:54.818Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
- },
- "approves-spacex-plan-data": {
-  "id": "approves-spacex-plan-data",
-  "title": "FCC approves SpaceX plan to put AI data centers in space",
-  "firstSeen": "2026-11-25T22:20:54.818Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "claude-claude-levent-prove-riemann": {
-  "id": "claude-claude-levent-prove-riemann",
-  "title": "Claude and Levent Alpöge Prove the Riemann Hypothesis",
-  "firstSeen": "2026-11-25T22:20:54.818Z",
+ "operationalizing-training-pause": {
+  "id": "operationalizing-training-pause",
+  "title": "Operationalizing a pre-training R&D pause",
+  "firstSeen": "2026-11-26T04:52:30.262Z",
   "publishers": [
    "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
- },
- "scott-aaronson-recent-complexity": {
-  "id": "scott-aaronson-recent-complexity",
-  "title": "Scott Aaronson on recent complexity theory AI achievements",
-  "firstSeen": "2026-11-25T22:20:54.818Z",
-  "publishers": [
-   "scottaaronson.blog"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
@@ -133,6 +195,18 @@
   "hadPrimary": false,
   "category": "general"
  },
+ "hugging-face-measuring-political-impact-hugging": {
+  "id": "hugging-face-measuring-political-impact-hugging",
+  "title": "Measuring the Political Impact of the Hugging Face Incident, Coxon Media Frenzy, and Related Events",
+  "firstSeen": "2026-11-26T04:52:30.262Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "nvidia-finds-evidence-china-told": {
   "id": "nvidia-finds-evidence-china-told",
   "title": "US finds no evidence China told Alice Huang to spy on Nvidia’s Jensen Huang, report says",
@@ -144,6 +218,18 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
+ },
+ "llama-cross-pressure-evaluation-experiments": {
+  "id": "llama-cross-pressure-evaluation-experiments",
+  "title": "Cross Pressure Evaluation Experiments with Llama 3.3 70B Instruct",
+  "firstSeen": "2026-11-26T04:52:30.262Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "research"
  },
  "character-plan-auction-users": {
   "id": "character-plan-auction-users",
@@ -192,18 +278,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "business"
- },
- "nothing-offers-full-look": {
-  "id": "nothing-offers-full-look",
-  "title": "Nothing offers a full look at its AI earbuds and charging case",
-  "firstSeen": "2026-11-25T22:20:54.818Z",
-  "publishers": [
-   "The Verge"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
  },
  "indic-voice-agent-with": {
   "id": "indic-voice-agent-with",
@@ -301,18 +375,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "village-agents-learned-each": {
-  "id": "village-agents-learned-each",
-  "title": "How the AI Village Agents Learned to Tag Each Other",
-  "firstSeen": "2026-11-25T12:31:31.234Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "marginalia-search-money-rust": {
   "id": "marginalia-search-money-rust",
   "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
@@ -325,26 +387,14 @@
   "hadPrimary": false,
   "category": "general"
  },
- "nvidia-places-megaspeed-blacklist-jensen": {
-  "id": "nvidia-places-megaspeed-blacklist-jensen",
-  "title": "US places Megaspeed on blacklist as Jensen Huang returns to helm of Nvidia",
-  "firstSeen": "2026-11-25T12:31:31.234Z",
+ "nvidia-jensen-huang-return-steadies": {
+  "id": "nvidia-jensen-huang-return-steadies",
+  "title": "Jensen Huang’s return steadies Nvidia, but China curbs, US scrutiny show no sign of easing",
+  "firstSeen": "2026-11-26T04:52:30.262Z",
   "publishers": [
    "SCMP Tech"
   ],
-  "sourceCount": 5,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "safety-effective-giving-politics-spending": {
-  "id": "safety-effective-giving-politics-spending",
-  "title": "Effective Giving in Politics: Spending Better for AI Safety",
-  "firstSeen": "2026-11-25T12:31:31.234Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
+  "sourceCount": 4,
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
@@ -397,18 +447,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "dutch-data-protection-authority": {
-  "id": "dutch-data-protection-authority",
-  "title": "Dutch data protection authority advises against purchasing AI camera glasses",
-  "firstSeen": "2026-11-25T12:31:31.234Z",
-  "publishers": [
-   "autoriteitpersoonsgegevens.nl"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
  "gemini-gemini-changing-game-golden": {
   "id": "gemini-gemini-changing-game-golden",
   "title": "How Gemini is changing the game for Golden State's organization and fans.",
@@ -427,6 +465,18 @@
   "firstSeen": "2026-11-25T02:12:05.911Z",
   "publishers": [
    "EFF"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "what-going-with-riemann": {
+  "id": "what-going-with-riemann",
+  "title": "What's going on with the Riemann hypothesis?",
+  "firstSeen": "2026-11-26T04:52:30.262Z",
+  "publishers": [
+   "Ars Technica AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -456,18 +506,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "gpt-astra-solves-historical-mystery": {
-  "id": "gpt-astra-solves-historical-mystery",
-  "title": "GPT 6.2 Astra Solves a Historical Mystery",
-  "firstSeen": "2026-11-24T17:26:38.752Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
  },
  "tidal-announces-generated-music": {
   "id": "tidal-announces-generated-music",
@@ -637,24 +675,24 @@
   "hadPrimary": false,
   "category": "general"
  },
- "nvidia-dutch-minister-heads-china": {
-  "id": "nvidia-dutch-minister-heads-china",
-  "title": "Dutch minister heads to China as Nvidia saga revives US push for tougher ASML curbs",
-  "firstSeen": "2026-11-24T17:26:38.752Z",
+ "datasette-charts": {
+  "id": "datasette-charts",
+  "title": "datasette-charts 0.2a1",
+  "firstSeen": "2026-11-24T05:51:53.491Z",
   "publishers": [
-   "SCMP Tech"
+   "Simon Willison"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
- "datasette-charts": {
-  "id": "datasette-charts",
-  "title": "datasette-charts 0.2a0",
-  "firstSeen": "2026-11-24T05:51:53.491Z",
+ "nvidia-dutch-minister-heads-china": {
+  "id": "nvidia-dutch-minister-heads-china",
+  "title": "Dutch minister heads to China as Nvidia saga revives US push for tougher ASML curbs",
+  "firstSeen": "2026-11-24T17:26:38.752Z",
   "publishers": [
-   "Simon Willison"
+   "SCMP Tech"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -936,18 +974,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "agents-build-maintain-agentic-evaluation": {
-  "id": "agents-build-maintain-agentic-evaluation",
-  "title": "How to build and maintain an agentic evaluation",
-  "firstSeen": "2026-11-23T21:09:17.312Z",
-  "publishers": [
-   "Hugging Face"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "research"
  },
  "driven-technique-could-help": {
   "id": "driven-technique-could-help",
