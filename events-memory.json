@@ -1,7 +1,79 @@
 {
+ "scared": {
+  "id": "scared",
+  "title": "I'm Scared of AI",
+  "firstSeen": "2026-11-27T18:03:16.651Z",
+  "publishers": [
+   "thesoapbox.email"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "gpt-astra-solves-historical-mystery": {
+  "id": "gpt-astra-solves-historical-mystery",
+  "title": "GPT 6.2 Astra Solves a Historical Mystery",
+  "firstSeen": "2026-11-26T23:40:14.735Z",
+  "publishers": [
+   "generativehistory.substack.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "models"
+ },
+ "expect-superposition-transformer-neurons": {
+  "id": "expect-superposition-transformer-neurons",
+  "title": "I don’t expect superposition in transformer MLP neurons",
+  "firstSeen": "2026-11-27T18:03:16.651Z",
+  "publishers": [
+   "Alignment Forum"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "this-doctor-became-hospital": {
+  "id": "this-doctor-became-hospital",
+  "title": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
+  "firstSeen": "2026-11-27T18:03:16.651Z",
+  "publishers": [
+   "IEEE Spectrum"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "robotics-goldman-sachs-gives-unitree": {
+  "id": "robotics-goldman-sachs-gives-unitree",
+  "title": "Why Goldman Sachs gives Unitree Robotics a sell rating and sees 48% downside",
+  "firstSeen": "2026-11-27T18:03:16.651Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "claude-claude-sabotaging-research-tasks": {
+  "id": "claude-claude-sabotaging-research-tasks",
+  "title": "Claude sabotaging ML research tasks?",
+  "firstSeen": "2026-11-27T18:03:16.651Z",
+  "publishers": [
+   "X"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
+  "hadPrimary": false,
+  "category": "models"
+ },
  "claude-what-claude-fursona-other": {
   "id": "claude-what-claude-fursona-other",
-  "title": "\"What's Claude's Fursona?\" and Other Questions",
+  "title": "\"What's Claude's fursona?\" and other questions",
   "firstSeen": "2026-11-27T07:58:32.338Z",
   "publishers": [
    "herecomesthemoon.net"
@@ -11,15 +83,51 @@
   "hadPrimary": false,
   "category": "models"
  },
+ "thinking-about-llms-terms": {
+  "id": "thinking-about-llms-terms",
+  "title": "Thinking About LLMs in Terms of Cognitive Patterns",
+  "firstSeen": "2026-11-27T18:03:16.651Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
  "group-chat-where-your": {
   "id": "group-chat-where-your",
-  "title": "The group chat where your AI talks behind your back",
+  "title": "Group chat where your AI talks behind your back",
   "firstSeen": "2026-11-27T07:58:32.338Z",
   "publishers": [
    "construct22.com"
   ],
   "sourceCount": 1,
   "independentCount": 0,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "china-tencent-makes-drug": {
+  "id": "china-tencent-makes-drug",
+  "title": "China’s Tencent makes AI drug discovery breakthrough with Nature paper",
+  "firstSeen": "2026-11-27T18:03:16.651Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "research"
+ },
+ "chip-frenzy-send-chinese": {
+  "id": "chip-frenzy-send-chinese",
+  "title": "Why did an AI chip frenzy send a Chinese blender maker’s stock soaring 370%?",
+  "firstSeen": "2026-11-27T18:03:16.651Z",
+  "publishers": [
+   "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
  },
@@ -47,16 +155,28 @@
   "hadPrimary": false,
   "category": "general"
  },
- "nvidia-china-stocks-miss-huang": {
-  "id": "nvidia-china-stocks-miss-huang",
-  "title": "China stocks miss out as Huang’s Nvidia return sparks AI rally",
-  "firstSeen": "2026-11-27T07:58:32.338Z",
+ "nvidia-jensen-huang-return-steadies": {
+  "id": "nvidia-jensen-huang-return-steadies",
+  "title": "Jensen Huang’s return steadies Nvidia, but China curbs, US scrutiny show no sign of easing",
+  "firstSeen": "2026-11-27T18:03:16.651Z",
   "publishers": [
    "SCMP Tech"
   ],
   "sourceCount": 4,
   "independentCount": 1,
   "hadPrimary": false,
+  "category": "general"
+ },
+ "taking-trainium3-track-generating": {
+  "id": "taking-trainium3-track-generating",
+  "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+  "firstSeen": "2026-11-27T18:03:16.651Z",
+  "publishers": [
+   "Hugging Face"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
   "category": "general"
  },
  "made-self-hosting-again": {
@@ -71,72 +191,12 @@
   "hadPrimary": false,
   "category": "general"
  },
- "model-pluralism": {
-  "id": "model-pluralism",
-  "title": "Model Pluralism",
-  "firstSeen": "2026-11-27T07:58:32.338Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "llama-specific-fork-llama": {
-  "id": "llama-specific-fork-llama",
-  "title": "AMD-specific fork of llama.cpp",
-  "firstSeen": "2026-11-26T23:40:14.735Z",
-  "publishers": [
-   "devnull.land"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "models"
- },
- "introduction-uncertainty-machine-learning": {
-  "id": "introduction-uncertainty-machine-learning",
-  "title": "An introduction to uncertainty in machine learning",
-  "firstSeen": "2026-11-27T07:58:32.338Z",
-  "publishers": [
-   "chrhenning.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
- "chinese-massive-supply-chain": {
-  "id": "chinese-massive-supply-chain",
-  "title": "Chinese AI is a massive supply chain risk",
-  "firstSeen": "2026-11-27T07:58:32.338Z",
-  "publishers": [
-   "LessWrong"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "nvidia-nvidia-hits-pause-chip": {
   "id": "nvidia-nvidia-hits-pause-chip",
   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
   "firstSeen": "2026-11-26T23:40:14.735Z",
   "publishers": [
    "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "safety-diversify-safety-approaches": {
-  "id": "safety-diversify-safety-approaches",
-  "title": "Diversify AI Safety Approaches",
-  "firstSeen": "2026-11-27T07:58:32.338Z",
-  "publishers": [
-   "LessWrong"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -154,6 +214,18 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
+ },
+ "llama-benchmarks-introducing-llama-benchmark-dashboard": {
+  "id": "llama-benchmarks-introducing-llama-benchmark-dashboard",
+  "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+  "firstSeen": "2026-11-27T18:03:16.651Z",
+  "publishers": [
+   "Hugging Face"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "models"
  },
  "download-better-bionic-hands": {
   "id": "download-better-bionic-hands",
@@ -323,18 +395,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "nvidia-jensen-huang-broke-nvidia": {
-  "id": "nvidia-jensen-huang-broke-nvidia",
-  "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-  "firstSeen": "2026-11-27T07:58:32.338Z",
-  "publishers": [
-   "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "approves-spacex-plan-data": {
   "id": "approves-spacex-plan-data",
   "title": "FCC approves SpaceX plan to put AI data centers in space",
@@ -353,6 +413,18 @@
   "firstSeen": "2026-11-24T05:51:53.491Z",
   "publishers": [
    "Simon Willison"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "nvidia-jensen-huang-broke-nvidia": {
+  "id": "nvidia-jensen-huang-broke-nvidia",
+  "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+  "firstSeen": "2026-11-27T07:58:32.338Z",
+  "publishers": [
+   "TechCrunch"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -390,7 +462,7 @@
   "publishers": [
    "SCMP Tech"
   ],
-  "sourceCount": 2,
+  "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
@@ -515,18 +587,6 @@
   "hadPrimary": false,
   "category": "general"
  },
- "marginalia-search-money-rust": {
-  "id": "marginalia-search-money-rust",
-  "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
-  "firstSeen": "2026-11-25T12:31:31.234Z",
-  "publishers": [
-   "marginalia.nu"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "general"
- },
  "hill-climbing-inkling-mini": {
   "id": "hill-climbing-inkling-mini",
   "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
@@ -550,30 +610,6 @@
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
- },
- "anthropic-agents-anthropic-created-honeypot-lure": {
-  "id": "anthropic-agents-anthropic-created-honeypot-lure",
-  "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
-  "firstSeen": "2026-11-24T17:26:38.752Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "gemini-gemini-changing-game-golden": {
-  "id": "gemini-gemini-changing-game-golden",
-  "title": "How Gemini is changing the game for Golden State's organization and fans.",
-  "firstSeen": "2026-11-24T17:26:38.752Z",
-  "publishers": [
-   "Google AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "models"
  },
  "agents-signal-moves-block-agents": {
   "id": "agents-signal-moves-block-agents",
@@ -617,174 +653,6 @@
   "firstSeen": "2026-11-25T02:12:05.911Z",
   "publishers": [
    "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "gpt-astra-solves-historical-mystery": {
-  "id": "gpt-astra-solves-historical-mystery",
-  "title": "GPT 6.2 Astra Solves a Historical Mystery",
-  "firstSeen": "2026-11-26T23:40:14.735Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "models"
- },
- "tidal-announces-generated-music": {
-  "id": "tidal-announces-generated-music",
-  "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-  "firstSeen": "2026-11-25T02:12:05.911Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "policy"
- },
- "google-from-spectrum-structure-identifying": {
-  "id": "google-from-spectrum-structure-identifying",
-  "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-  "firstSeen": "2026-11-25T22:20:54.818Z",
-  "publishers": [
-   "Google DeepMind"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "gpt-models-demonstrate-intrinsic-protein": {
-  "id": "gpt-models-demonstrate-intrinsic-protein",
-  "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-  "firstSeen": "2026-11-25T02:12:05.911Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "models"
- },
- "amazon-agents-amazon-says-hackers-agents": {
-  "id": "amazon-agents-amazon-says-hackers-agents",
-  "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-  "firstSeen": "2026-11-24T17:26:38.752Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "security"
- },
- "nvidia-trump-silicon-valley-forced": {
-  "id": "nvidia-trump-silicon-valley-forced",
-  "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
-  "firstSeen": "2026-11-25T22:20:54.818Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "searching-distant-planets-with": {
-  "id": "searching-distant-planets-with",
-  "title": "Searching for distant planets with Astra",
-  "firstSeen": "2026-11-25T02:12:05.911Z",
-  "publishers": [
-   "OpenAI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "download-power-boom-consciousness": {
-  "id": "download-power-boom-consciousness",
-  "title": "The Download: AI’s gas power boom and a consciousness reality check",
-  "firstSeen": "2026-11-24T17:26:38.752Z",
-  "publishers": [
-   "MIT Tech Review"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "does-voice-still-struggle": {
-  "id": "does-voice-still-struggle",
-  "title": "Why Does Voice AI Still Struggle With Kenyans’ Speech?",
-  "firstSeen": "2026-11-24T17:26:38.752Z",
-  "publishers": [
-   "IEEE Spectrum"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "bias-polished-work-gets": {
-  "id": "bias-polished-work-gets",
-  "title": "AI Bias In HR: Why Polished Work Gets Overrated And What to Do About It",
-  "firstSeen": "2026-11-24T17:26:38.752Z",
-  "publishers": [
-   "Crunchbase News"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "startups-picking-names-that": {
-  "id": "startups-picking-names-that",
-  "title": "Startups Are Picking Names That Can Work Even If The Original Business Model Doesn’t",
-  "firstSeen": "2026-11-24T17:26:38.752Z",
-  "publishers": [
-   "Crunchbase News"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "bring-want-enjoy-your": {
-  "id": "bring-want-enjoy-your",
-  "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
-  "firstSeen": "2026-11-24T17:26:38.752Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "solved-math-most-famous": {
-  "id": "solved-math-most-famous",
-  "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
-  "firstSeen": "2026-11-24T17:26:38.752Z",
-  "publishers": [
-   "Wired AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "nvidia-dutch-minister-heads-china": {
-  "id": "nvidia-dutch-minister-heads-china",
-  "title": "Dutch minister heads to China as Nvidia saga revives US push for tougher ASML curbs",
-  "firstSeen": "2026-11-24T17:26:38.752Z",
-  "publishers": [
-   "SCMP Tech"
   ],
   "sourceCount": 1,
   "independentCount": 1,

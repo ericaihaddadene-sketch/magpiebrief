@@ -1,12 +1,166 @@
 {
  "date": "2026-11-27",
- "generated": "2026-11-27T07:58:32.378Z",
- "headline": "66 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2953 items read · 70 on-topic · 66 distinct developments · 10 with a primary source · 0 independently corroborated",
+ "generated": "2026-11-27T18:03:16.689Z",
+ "headline": "55 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2954 items read · 58 on-topic · 55 distinct developments · 8 with a primary source · 0 independently corroborated",
  "events": [
   {
-   "id": "claude-what-claude-fursona-other",
-   "title": "\"What's Claude's Fursona?\" and Other Questions",
+   "id": "scared",
+   "title": "I'm Scared of AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 133.02772935592574,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-27T17:45:31.000Z",
+   "latestAt": "2026-11-27T17:45:31.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "I'm Scared of AI",
+     "link": "https://thesoapbox.email/archive/3",
+     "publisher": "thesoapbox.email",
+     "publisherDomain": "thesoapbox.email",
+     "kind": "discussion",
+     "date": "2026-11-27T17:45:31.000Z",
+     "points": 23,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "gpt-astra-solves-historical-mystery",
+   "title": "GPT 6.2 Astra Solves a Historical Mystery",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "gpt",
+     "name": "GPT",
+     "kind": "model"
+    }
+   ],
+   "rank": 117.77738889498677,
+   "deltas": [
+    "Now also covered by generativehistory.substack.com."
+   ],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-27T15:03:17.000Z",
+   "latestAt": "2026-11-27T15:03:17.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "GPT 6.2 Astra Solves a Historical Mystery",
+     "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+     "publisher": "generativehistory.substack.com",
+     "publisherDomain": "generativehistory.substack.com",
+     "kind": "discussion",
+     "date": "2026-11-27T15:03:17.000Z",
+     "points": 110,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "expect-superposition-transformer-neurons",
+   "title": "I don’t expect superposition in transformer MLP neurons",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 85.68263605096523,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-27T12:44:01.000Z",
+   "latestAt": "2026-11-27T12:44:01.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "I don’t expect superposition in transformer MLP neurons",
+     "link": "https://www.alignmentforum.org/posts/o9dPGxEbpQrnasgDB/i-don-t-expect-superposition-in-transformer-mlp-neurons",
+     "publisher": "Alignment Forum",
+     "publisherDomain": "alignmentforum.org",
+     "kind": "coverage",
+     "date": "2026-11-27T12:44:01.000Z",
+     "points": null,
+     "summary": "I currently believe that in a typical (well trained and under-parametrized) transformer model, there is something like superposition-type compression in the residual stream, but not in…"
+    }
+   ]
+  },
+  {
+   "id": "this-doctor-became-hospital",
+   "title": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 75.50087398321229,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-27T14:00:01.000Z",
+   "latestAt": "2026-11-27T14:00:01.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
+     "link": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+     "publisher": "IEEE Spectrum",
+     "publisherDomain": "spectrum.ieee.org",
+     "kind": "coverage",
+     "date": "2026-11-27T14:00:01.000Z",
+     "points": null,
+     "summary": "When Boston Children’s Hospital posted a job listing for a prompt engineer in 2023, Dinesh Rai decided to apply. He didn’t expect to get the job…"
+    }
+   ]
+  },
+  {
+   "id": "robotics-goldman-sachs-gives-unitree",
+   "title": "Why Goldman Sachs gives Unitree Robotics a sell rating and sees 48% downside",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "robotics",
+     "name": "Robotics",
+     "kind": "topic"
+    }
+   ],
+   "rank": 73.05971352643954,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-27T14:15:58.000Z",
+   "latestAt": "2026-11-27T14:15:58.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Why Goldman Sachs gives Unitree Robotics a sell rating and sees 48% downside",
+     "link": "https://www.scmp.com/tech/big-tech/article/3376095/why-goldman-sachs-gives-unitree-robotics-sell-rating-and-sees-48-downside",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-27T14:15:58.000Z",
+     "points": null,
+     "summary": "Goldman Sachs has initiated coverage of Unitree Robotics with a sell rating, warning that the Chinese humanoid robot maker’s valuation may have run ahead of its…"
+    }
+   ]
+  },
+  {
+   "id": "claude-claude-sabotaging-research-tasks",
+   "title": "Claude sabotaging ML research tasks?",
    "category": {
     "id": "models",
     "name": "Models"
@@ -18,7 +172,41 @@
      "kind": "model"
     }
    ],
-   "rank": 176.2085330683411,
+   "rank": 111.91797482777982,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-27T08:28:08.000Z",
+   "latestAt": "2026-11-27T08:28:08.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Claude sabotaging ML research tasks?",
+     "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+     "publisher": "X",
+     "publisherDomain": "twitter.com",
+     "kind": "discussion",
+     "date": "2026-11-27T08:28:08.000Z",
+     "points": 338,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "claude-what-claude-fursona-other",
+   "title": "\"What's Claude's fursona?\" and other questions",
+   "category": {
+    "id": "models",
+    "name": "Models"
+   },
+   "entities": [
+    {
+     "id": "claude",
+     "name": "Claude",
+     "kind": "model"
+    }
+   ],
+   "rank": 87.62328494183421,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -27,26 +215,54 @@
    "primary": null,
    "sources": [
     {
-     "title": "\"What's Claude's Fursona?\" and Other Questions",
+     "title": "\"What's Claude's fursona?\" and other questions",
      "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
      "publisher": "herecomesthemoon.net",
      "publisherDomain": "herecomesthemoon.net",
      "kind": "discussion",
      "date": "2026-11-27T04:56:18.000Z",
-     "points": 72,
+     "points": 116,
      "summary": ""
     }
    ]
   },
   {
-   "id": "group-chat-where-your",
-   "title": "The group chat where your AI talks behind your back",
+   "id": "thinking-about-llms-terms",
+   "title": "Thinking About LLMs in Terms of Cognitive Patterns",
    "category": {
     "id": "general",
     "name": "Other"
    },
    "entities": [],
-   "rank": 132.456087792782,
+   "rank": 67.10887188928339,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-27T17:26:46.000Z",
+   "latestAt": "2026-11-27T17:26:46.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Thinking About LLMs in Terms of Cognitive Patterns",
+     "link": "https://www.lesswrong.com/posts/xkK93DssNu7oD9vKg/thinking-about-llms-in-terms-of-cognitive-patterns",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-27T17:26:46.000Z",
+     "points": null,
+     "summary": "TL;DR : I argue that describing LLM behavior in terms of “cognitive patterns” could help develop better alignment science, and provide several examples of what such…"
+    }
+   ]
+  },
+  {
+   "id": "group-chat-where-your",
+   "title": "Group chat where your AI talks behind your back",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 66.19839528661282,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -55,14 +271,70 @@
    "primary": null,
    "sources": [
     {
-     "title": "The group chat where your AI talks behind your back",
+     "title": "Group chat where your AI talks behind your back",
      "link": "https://construct22.com/",
      "publisher": "construct22.com",
      "publisherDomain": "construct22.com",
      "kind": "discussion",
      "date": "2026-11-27T06:44:34.000Z",
-     "points": 50,
+     "points": 584,
      "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "china-tencent-makes-drug",
+   "title": "China’s Tencent makes AI drug discovery breakthrough with Nature paper",
+   "category": {
+    "id": "research",
+    "name": "Research"
+   },
+   "entities": [],
+   "rank": 64.65165079764083,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-27T12:30:08.000Z",
+   "latestAt": "2026-11-27T12:30:08.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "China’s Tencent makes AI drug discovery breakthrough with Nature paper",
+     "link": "https://www.scmp.com/tech/tech-trends/article/3376082/chinas-tencent-makes-ai-drug-discovery-breakthrough-nature-paper",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-27T12:30:08.000Z",
+     "points": null,
+     "summary": "Tencent Holdings has published a paper on using artificial intelligence to automate drug discovery in the leading science journal Nature, marking a breakthrough for the Chinese…"
+    }
+   ]
+  },
+  {
+   "id": "chip-frenzy-send-chinese",
+   "title": "Why did an AI chip frenzy send a Chinese blender maker’s stock soaring 370%?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 47.42081773620545,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-27T08:01:50.000Z",
+   "latestAt": "2026-11-27T08:01:50.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Why did an AI chip frenzy send a Chinese blender maker’s stock soaring 370%?",
+     "link": "https://www.scmp.com/tech/tech-trends/article/3376026/why-did-ai-chip-frenzy-send-chinese-blender-makers-stock-soaring-390",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-27T08:01:50.000Z",
+     "points": null,
+     "summary": "China’s artificial intelligence boom has sent retail investors scrambling for exposure to graphics processing units (GPUs) – even if it means settling for “grain processing units”…"
     }
    ]
   },
@@ -74,7 +346,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 93.46091428184332,
+   "rank": 46.47534475453651,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -102,7 +374,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 84.11968165667739,
+   "rank": 41.830226417926674,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -123,8 +395,8 @@
    ]
   },
   {
-   "id": "nvidia-china-stocks-miss-huang",
-   "title": "China stocks miss out as Huang’s Nvidia return sparks AI rally",
+   "id": "nvidia-jensen-huang-return-steadies",
+   "title": "Jensen Huang’s return steadies Nvidia, but China curbs, US scrutiny show no sign of easing",
    "category": {
     "id": "general",
     "name": "Other"
@@ -136,11 +408,11 @@
      "kind": "org"
     }
    ],
-   "rank": 73.38723976274954,
+   "rank": 36.4933009137084,
    "deltas": [],
    "sourceCount": 4,
    "independentCount": 1,
-   "publishedAt": "2026-11-24T09:13:03.000Z",
+   "publishedAt": "2026-11-24T22:03:22.000Z",
    "latestAt": "2026-11-27T04:15:06.000Z",
    "primary": null,
    "sources": [
@@ -153,6 +425,16 @@
      "date": "2026-11-27T04:15:06.000Z",
      "points": null,
      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and…"
+    },
+    {
+     "title": "Nvidia’s Jensen Huang is back – but will he still be a regular visitor to China?",
+     "link": "https://www.scmp.com/tech/big-tech/article/3375795/nvidias-jensen-huang-back-will-he-still-be-regular-visitor-china",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-25T15:30:07.000Z",
+     "points": null,
+     "summary": "While Jensen Huang has reclaimed his seat atop Nvidia, his days as Silicon Valley’s most visible and frequent emissary to China are likely over as the…"
     },
     {
      "title": "Jensen Huang’s return steadies Nvidia, but China curbs, US scrutiny show no sign of easing",
@@ -173,16 +455,38 @@
      "date": "2026-11-24T22:03:22.000Z",
      "points": null,
      "summary": "Jensen Huang apologised to Nvidia staff and said he was in therapy on Tuesday, as a stock rally triggered by his shock return as CEO faltered…"
-    },
+    }
+   ]
+  },
+  {
+   "id": "taking-trainium3-track-generating",
+   "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 32.90027010537528,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-27T00:00:00.000Z",
+   "latestAt": "2026-11-27T00:00:00.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/video-trainium3",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5"
+   },
+   "sources": [
     {
-     "title": "China stocks miss out as Huang’s Nvidia return sparks AI rally",
-     "link": "https://www.scmp.com/plus/tech/tech-war/article/3375612/china-stocks-miss-out-huangs-nvidia-return-sparks-ai-rally",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-24T09:13:03.000Z",
+     "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+     "link": "https://huggingface.co/blog/video-trainium3",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-11-27T00:00:00.000Z",
      "points": null,
-     "summary": "Jensen Huang returned to Nvidia 11 days after stepping down as chief executive officer amid a sex and spying scandal, aided by US President Donald Trump…"
+     "summary": ""
     }
    ]
   },
@@ -194,12 +498,12 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 71.60197510253262,
+   "rank": 29.2606632970683,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
-   "publishedAt": "2026-11-26T21:47:45.000Z",
-   "latestAt": "2026-11-26T21:47:45.000Z",
+   "publishedAt": "2026-11-27T01:50:42.000Z",
+   "latestAt": "2026-11-27T01:50:42.000Z",
    "primary": null,
    "sources": [
     {
@@ -208,127 +512,9 @@
      "publisher": "janlukas.blog",
      "publisherDomain": "janlukas.blog",
      "kind": "discussion",
-     "date": "2026-11-26T21:47:45.000Z",
-     "points": 585,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "model-pluralism",
-   "title": "Model Pluralism",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 67.65156510061553,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-27T07:29:00.000Z",
-   "latestAt": "2026-11-27T07:29:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Model Pluralism",
-     "link": "https://www.lesswrong.com/posts/PbmaxEBTpWqHgwkD3/model-pluralism",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-27T07:29:00.000Z",
+     "date": "2026-11-27T01:50:42.000Z",
      "points": null,
-     "summary": "This is a crosspost from my Substack. I suspect that most of the readers of this newsletter haven’t read much or any literature in the philosophy…"
-    }
-   ]
-  },
-  {
-   "id": "llama-specific-fork-llama",
-   "title": "AMD-specific fork of llama.cpp",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "llama",
-     "name": "Llama",
-     "kind": "model"
-    }
-   ],
-   "rank": 61.40438986828191,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-26T17:11:29.000Z",
-   "latestAt": "2026-11-26T17:11:29.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AMD-specific fork of llama.cpp",
-     "link": "https://devnull.land/amd-specific-llama-cpp",
-     "publisher": "devnull.land",
-     "publisherDomain": "devnull.land",
-     "kind": "discussion",
-     "date": "2026-11-26T17:11:29.000Z",
-     "points": 336,
      "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "introduction-uncertainty-machine-learning",
-   "title": "An introduction to uncertainty in machine learning",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 59.3180678566859,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-26T19:04:50.000Z",
-   "latestAt": "2026-11-26T19:04:50.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "An introduction to uncertainty in machine learning",
-     "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-     "publisher": "chrhenning.com",
-     "publisherDomain": "chrhenning.com",
-     "kind": "discussion",
-     "date": "2026-11-26T19:04:50.000Z",
-     "points": 63,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "chinese-massive-supply-chain",
-   "title": "Chinese AI is a massive supply chain risk",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 47.92076996394127,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-27T02:30:31.000Z",
-   "latestAt": "2026-11-27T02:30:31.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Chinese AI is a massive supply chain risk",
-     "link": "https://www.lesswrong.com/posts/MucksTgjXKDyh5jup/chinese-ai-is-a-massive-supply-chain-risk",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-27T02:30:31.000Z",
-     "points": null,
-     "summary": "We're onboarding millions of Chinese AI agents into America's critical infrastructure. Banks, telecoms, and government agencies across the US use Chinese models. Those models are explicitly…"
     }
    ]
   },
@@ -346,7 +532,7 @@
      "kind": "org"
     }
    ],
-   "rank": 43.797944098162226,
+   "rank": 21.77942048976349,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -367,40 +553,6 @@
    ]
   },
   {
-   "id": "safety-diversify-safety-approaches",
-   "title": "Diversify AI Safety Approaches",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "safety",
-     "name": "AI Safety",
-     "kind": "topic"
-    }
-   ],
-   "rank": 39.44964177559973,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-26T23:42:08.000Z",
-   "latestAt": "2026-11-26T23:42:08.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Diversify AI Safety Approaches",
-     "link": "https://www.lesswrong.com/posts/u7ECnXL4fjh6c4M7m/diversify-ai-safety-approaches",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-26T23:42:08.000Z",
-     "points": null,
-     "summary": "Are apparent bottlenecks in AI Safety ill-posed? This is one of several MAIA/AIST workshop reflections. See this piece and this piece . Broadly, I’ve observed a…"
-    }
-   ]
-  },
-  {
    "id": "quoting-jack-despain-zhou",
    "title": "Quoting Jack Despain Zhou",
    "category": {
@@ -408,7 +560,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 37.405713950281616,
+   "rank": 18.600753748100683,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -429,6 +581,49 @@
    ]
   },
   {
+   "id": "llama-benchmarks-introducing-llama-benchmark-dashboard",
+   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+   "category": {
+    "id": "models",
+    "name": "New Models"
+   },
+   "entities": [
+    {
+     "id": "benchmarks",
+     "name": "Benchmarks",
+     "kind": "topic"
+    },
+    {
+     "id": "llama",
+     "name": "Llama",
+     "kind": "model"
+    }
+   ],
+   "rank": 16.73968897818587,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-26T11:37:17.000Z",
+   "latestAt": "2026-11-26T11:37:17.000Z",
+   "primary": {
+    "publisher": "Hugging Face",
+    "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon"
+   },
+   "sources": [
+    {
+     "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+     "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+     "publisher": "Hugging Face",
+     "publisherDomain": "huggingface.co",
+     "kind": "primary",
+     "date": "2026-11-26T11:37:17.000Z",
+     "points": null,
+     "summary": ""
+    }
+   ]
+  },
+  {
    "id": "download-better-bionic-hands",
    "title": "The Download: Better bionic hands and AI’s natural-gas boom",
    "category": {
@@ -436,7 +631,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.509033785993502,
+   "rank": 14.176698184517749,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -470,7 +665,7 @@
      "kind": "org"
     }
    ],
-   "rank": 23.13557812827292,
+   "rank": 11.504637825010924,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -498,7 +693,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 20.01976908961347,
+   "rank": 9.955238267198865,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -532,7 +727,7 @@
      "kind": "org"
     }
    ],
-   "rank": 19.32916392426379,
+   "rank": 9.611820771280728,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -560,7 +755,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 18.686659202578443,
+   "rank": 9.292322201464737,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -588,7 +783,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.842655490328124,
+   "rank": 8.872624151190447,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -620,7 +815,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 15.04236508661646,
+   "rank": 7.480122666207617,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -652,7 +847,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 14.849420574808748,
+   "rank": 7.384177074687753,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -686,7 +881,7 @@
      "kind": "org"
     }
    ],
-   "rank": 14.712365596024744,
+   "rank": 7.3160236927284865,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -720,7 +915,7 @@
      "kind": "org"
     }
    ],
-   "rank": 13.666730283250775,
+   "rank": 6.796060218990795,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -754,7 +949,7 @@
      "kind": "org"
     }
    ],
-   "rank": 12.169970332975216,
+   "rank": 6.051765823431333,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -793,7 +988,7 @@
      "kind": "model"
     }
    ],
-   "rank": 11.196691989609533,
+   "rank": 5.567783327672338,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -827,7 +1022,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 10.549874682652579,
+   "rank": 5.246140236921347,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -865,7 +1060,7 @@
      "kind": "org"
     }
    ],
-   "rank": 9.990199356284082,
+   "rank": 4.967830272339321,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -886,40 +1081,6 @@
    ]
   },
   {
-   "id": "nvidia-jensen-huang-broke-nvidia",
-   "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 9.69110677428741,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-25T19:54:57.000Z",
-   "latestAt": "2026-11-25T19:54:57.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-     "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-     "publisher": "TechCrunch",
-     "publisherDomain": "techcrunch.com",
-     "kind": "coverage",
-     "date": "2026-11-25T19:54:57.000Z",
-     "points": null,
-     "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
-    }
-   ]
-  },
-  {
    "id": "approves-spacex-plan-data",
    "title": "FCC approves SpaceX plan to put AI data centers in space",
    "category": {
@@ -927,7 +1088,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.820416618888213,
+   "rank": 4.386131961059904,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -955,7 +1116,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.799253935026243,
+   "rank": 4.375608385124726,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -976,6 +1137,40 @@
    ]
   },
   {
+   "id": "nvidia-jensen-huang-broke-nvidia",
+   "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "nvidia",
+     "name": "NVIDIA",
+     "kind": "org"
+    }
+   ],
+   "rank": 4.083983380654506,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-25T19:54:57.000Z",
+   "latestAt": "2026-11-25T19:54:57.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+     "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+     "publisher": "TechCrunch",
+     "publisherDomain": "techcrunch.com",
+     "kind": "coverage",
+     "date": "2026-11-25T19:54:57.000Z",
+     "points": null,
+     "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
+    }
+   ]
+  },
+  {
    "id": "want-your-this-christmas",
    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
    "category": {
@@ -983,7 +1178,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.289916836933565,
+   "rank": 3.625059746437841,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1011,7 +1206,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 7.272830691285927,
+   "rank": 3.6165633122267913,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1045,11 +1240,11 @@
      "kind": "org"
     }
    ],
-   "rank": 7.0208795383723,
+   "rank": 3.491275465612623,
    "deltas": [],
-   "sourceCount": 2,
+   "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-25T15:30:07.000Z",
+   "publishedAt": "2026-11-25T18:23:37.000Z",
    "latestAt": "2026-11-25T18:23:37.000Z",
    "primary": null,
    "sources": [
@@ -1062,16 +1257,6 @@
      "date": "2026-11-25T18:23:37.000Z",
      "points": null,
      "summary": "US ⁠officials found no evidence ⁠that tech executive Alice Huang was directed by Beijing to spy on Nvidia CEO Jensen Huang, The Wall Street Journal reported…"
-    },
-    {
-     "title": "Nvidia’s Jensen Huang is back – but will he still be a regular visitor to China?",
-     "link": "https://www.scmp.com/tech/big-tech/article/3375795/nvidias-jensen-huang-back-will-he-still-be-regular-visitor-china",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-25T15:30:07.000Z",
-     "points": null,
-     "summary": "While Jensen Huang has reclaimed his seat atop Nvidia, his days as Silicon Valley’s most visible and frequent emissary to China are likely over as the…"
     }
    ]
   },
@@ -1083,7 +1268,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.99457155703659,
+   "rank": 3.478193285625745,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1111,7 +1296,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 6.791394846739282,
+   "rank": 3.377159524831534,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1159,7 +1344,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.618445098122469,
+   "rank": 3.2911567368860033,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1187,7 +1372,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.847727883934859,
+   "rank": 2.907901891661537,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1219,7 +1404,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.401451850579374,
+   "rank": 2.68598203708643,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1247,7 +1432,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.221891735580816,
+   "rank": 2.596692109710411,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1281,7 +1466,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.681726523455313,
+   "rank": 2.328083947134183,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1309,7 +1494,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.5829966950265995,
+   "rank": 2.2789885274174067,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1337,7 +1522,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.508166076188797,
+   "rank": 2.241777476836471,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1365,7 +1550,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.336949286113459,
+   "rank": 2.156636437850698,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1386,34 +1571,6 @@
    ]
   },
   {
-   "id": "marginalia-search-money-rust",
-   "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 2.884711497243461,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-25T06:20:29.000Z",
-   "latestAt": "2026-11-25T06:20:29.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
-     "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-     "publisher": "marginalia.nu",
-     "publisherDomain": "marginalia.nu",
-     "kind": "discussion",
-     "date": "2026-11-25T06:20:29.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "hill-climbing-inkling-mini",
    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
    "category": {
@@ -1421,7 +1578,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.3749960376335606,
+   "rank": 1.1810151921563352,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1453,7 +1610,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.3179563983339047,
+   "rank": 1.1526510688059928,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1474,83 +1631,6 @@
    ]
   },
   {
-   "id": "anthropic-agents-anthropic-created-honeypot-lure",
-   "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "anthropic",
-     "name": "Anthropic",
-     "kind": "org"
-    }
-   ],
-   "rank": 2.1350770759988986,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T16:00:00.000Z",
-   "latestAt": "2026-11-24T16:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
-     "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-24T16:00:00.000Z",
-     "points": null,
-     "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation."
-    }
-   ]
-  },
-  {
-   "id": "gemini-gemini-changing-game-golden",
-   "title": "How Gemini is changing the game for Golden State's organization and fans.",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gemini",
-     "name": "Gemini",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.8504001325323787,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T16:00:00.000Z",
-   "latestAt": "2026-11-24T16:00:00.000Z",
-   "primary": {
-    "publisher": "Google AI",
-    "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-    "title": "How Gemini is changing the game for Golden State's organization and fans."
-   },
-   "sources": [
-    {
-     "title": "How Gemini is changing the game for Golden State's organization and fans.",
-     "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-     "publisher": "Google AI",
-     "publisherDomain": "blog.google",
-     "kind": "primary",
-     "date": "2026-11-24T16:00:00.000Z",
-     "points": null,
-     "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news."
-    }
-   ]
-  },
-  {
    "id": "agents-signal-moves-block-agents",
    "title": "Signal Moves to Block AI Agents",
    "category": {
@@ -1564,7 +1644,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.843379905115834,
+   "rank": 0.9166582336813994,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1592,7 +1672,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.7924509717591093,
+   "rank": 0.891332783423158,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1626,7 +1706,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 1.7234806123280841,
+   "rank": 0.8570358662890623,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1660,7 +1740,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.5841527318926163,
+   "rank": 0.7877522376522819,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1677,451 +1757,6 @@
      "date": "2026-11-24T18:47:57.000Z",
      "points": null,
      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026."
-    }
-   ]
-  },
-  {
-   "id": "gpt-astra-solves-historical-mystery",
-   "title": "GPT 6.2 Astra Solves a Historical Mystery",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.5149790814667232,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T16:53:59.000Z",
-   "latestAt": "2026-11-24T16:53:59.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "GPT 6.2 Astra Solves a Historical Mystery",
-     "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
-     "publisher": "Simon Willison",
-     "publisherDomain": "simonwillison.net",
-     "kind": "coverage",
-     "date": "2026-11-24T16:53:59.000Z",
-     "points": null,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "tidal-announces-generated-music",
-   "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-   "category": {
-    "id": "policy",
-    "name": "Policy & Regulation"
-   },
-   "entities": [],
-   "rank": 1.4553900777895192,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T17:34:34.000Z",
-   "latestAt": "2026-11-24T17:34:34.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-     "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-24T17:34:34.000Z",
-     "points": null,
-     "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero."
-    }
-   ]
-  },
-  {
-   "id": "google-from-spectrum-structure-identifying",
-   "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "google",
-     "name": "Google",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.2639520708644167,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T13:07:53.000Z",
-   "latestAt": "2026-11-24T13:07:53.000Z",
-   "primary": {
-    "publisher": "Google DeepMind",
-    "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
-    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity"
-   },
-   "sources": [
-    {
-     "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-     "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
-     "publisher": "Google DeepMind",
-     "publisherDomain": "deepmind.google",
-     "kind": "primary",
-     "date": "2026-11-24T13:07:53.000Z",
-     "points": null,
-     "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra."
-    }
-   ]
-  },
-  {
-   "id": "gpt-models-demonstrate-intrinsic-protein",
-   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-   "category": {
-    "id": "models",
-    "name": "Models"
-   },
-   "entities": [
-    {
-     "id": "gpt",
-     "name": "GPT",
-     "kind": "model"
-    }
-   ],
-   "rank": 1.252493284889434,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T13:00:00.000Z",
-   "latestAt": "2026-11-24T13:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities"
-   },
-   "sources": [
-    {
-     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-     "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-24T13:00:00.000Z",
-     "points": null,
-     "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
-    }
-   ]
-  },
-  {
-   "id": "amazon-agents-amazon-says-hackers-agents",
-   "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-   "category": {
-    "id": "security",
-    "name": "Security"
-   },
-   "entities": [
-    {
-     "id": "agents",
-     "name": "AI Agents",
-     "kind": "topic"
-    },
-    {
-     "id": "amazon",
-     "name": "Amazon",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.228559784149428,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T12:30:05.000Z",
-   "latestAt": "2026-11-24T12:30:05.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-     "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-24T12:30:05.000Z",
-     "points": null,
-     "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers."
-    }
-   ]
-  },
-  {
-   "id": "nvidia-trump-silicon-valley-forced",
-   "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 1.2129474021821591,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T14:56:50.000Z",
-   "latestAt": "2026-11-24T14:56:50.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
-     "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
-     "publisher": "Ars Technica AI",
-     "publisherDomain": "arstechnica.com",
-     "kind": "coverage",
-     "date": "2026-11-24T14:56:50.000Z",
-     "points": null,
-     "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back."
-    }
-   ]
-  },
-  {
-   "id": "searching-distant-planets-with",
-   "title": "Searching for distant planets with Astra",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.0903587346851094,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T11:00:00.000Z",
-   "latestAt": "2026-11-24T11:00:00.000Z",
-   "primary": {
-    "publisher": "OpenAI",
-    "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
-    "title": "Searching for distant planets with Astra"
-   },
-   "sources": [
-    {
-     "title": "Searching for distant planets with Astra",
-     "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
-     "publisher": "OpenAI",
-     "publisherDomain": "openai.com",
-     "kind": "primary",
-     "date": "2026-11-24T11:00:00.000Z",
-     "points": null,
-     "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes."
-    }
-   ]
-  },
-  {
-   "id": "download-power-boom-consciousness",
-   "title": "The Download: AI’s gas power boom and a consciousness reality check",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.0233837566414263,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T13:10:00.000Z",
-   "latestAt": "2026-11-24T13:10:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "The Download: AI’s gas power boom and a consciousness reality check",
-     "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-11-24T13:10:00.000Z",
-     "points": null,
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers…"
-    }
-   ]
-  },
-  {
-   "id": "does-voice-still-struggle",
-   "title": "Why Does Voice AI Still Struggle With Kenyans’ Speech?",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.898988508020583,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T12:00:03.000Z",
-   "latestAt": "2026-11-24T12:00:03.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Why Does Voice AI Still Struggle With Kenyans’ Speech?",
-     "link": "https://spectrum.ieee.org/swahili-speech-recognition",
-     "publisher": "IEEE Spectrum",
-     "publisherDomain": "spectrum.ieee.org",
-     "kind": "coverage",
-     "date": "2026-11-24T12:00:03.000Z",
-     "points": null,
-     "summary": "When people read prepared text aloud, AI can transcribe Swahili with remarkably few errors, and Swahili speech recognition looks close to solved. A March 2026 preprint…"
-    }
-   ]
-  },
-  {
-   "id": "bias-polished-work-gets",
-   "title": "AI Bias In HR: Why Polished Work Gets Overrated And What to Do About It",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.85477937175683,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T12:00:48.000Z",
-   "latestAt": "2026-11-24T12:00:48.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI Bias In HR: Why Polished Work Gets Overrated And What to Do About It",
-     "link": "https://news.crunchbase.com/workplace/ai-bias-in-hr-hiring-job-applications/",
-     "publisher": "Crunchbase News",
-     "publisherDomain": "news.crunchbase.com",
-     "kind": "coverage",
-     "date": "2026-11-24T12:00:48.000Z",
-     "points": null,
-     "summary": "Employees and job-seekers alike are all using AI to create polished work and applications that appear perfect. In that environment, how can we promote and hire…"
-    }
-   ]
-  },
-  {
-   "id": "startups-picking-names-that",
-   "title": "Startups Are Picking Names That Can Work Even If The Original Business Model Doesn’t",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.854335121307289,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T12:00:21.000Z",
-   "latestAt": "2026-11-24T12:00:21.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Startups Are Picking Names That Can Work Even If The Original Business Model Doesn’t",
-     "link": "https://news.crunchbase.com/startups/startup-name-trends-2026-ai/",
-     "publisher": "Crunchbase News",
-     "publisherDomain": "news.crunchbase.com",
-     "kind": "coverage",
-     "date": "2026-11-24T12:00:21.000Z",
-     "points": null,
-     "summary": "Startup naming tends to be a cyclical endeavor. For a few years, founders might be enamoured of silly monikers, made-up words, and creative misspellings. Then the…"
-    }
-   ]
-  },
-  {
-   "id": "bring-want-enjoy-your",
-   "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.8243284801940478,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T10:45:00.000Z",
-   "latestAt": "2026-11-24T10:45:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
-     "link": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-24T10:45:00.000Z",
-     "points": null,
-     "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense."
-    }
-   ]
-  },
-  {
-   "id": "solved-math-most-famous",
-   "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 0.7962488259868354,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T10:15:00.000Z",
-   "latestAt": "2026-11-24T10:15:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
-     "link": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
-     "publisher": "Wired AI",
-     "publisherDomain": "wired.com",
-     "kind": "coverage",
-     "date": "2026-11-24T10:15:00.000Z",
-     "points": null,
-     "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis."
-    }
-   ]
-  },
-  {
-   "id": "nvidia-dutch-minister-heads-china",
-   "title": "Dutch minister heads to China as Nvidia saga revives US push for tougher ASML curbs",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [
-    {
-     "id": "nvidia",
-     "name": "NVIDIA",
-     "kind": "org"
-    }
-   ],
-   "rank": 0.6937353620081719,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-24T09:00:06.000Z",
-   "latestAt": "2026-11-24T09:00:06.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Dutch minister heads to China as Nvidia saga revives US push for tougher ASML curbs",
-     "link": "https://www.scmp.com/economy/policy/article/3375565/dutch-minister-heads-china-nvidia-saga-revives-us-push-tougher-asml-curbs",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-24T09:00:06.000Z",
-     "points": null,
-     "summary": "Dutch Foreign Minister Tom Berendsen’s visit to China this week comes amid a shifting dynamic in the Netherlands’ efforts to fend off further US restrictions on…"
     }
    ]
   }
