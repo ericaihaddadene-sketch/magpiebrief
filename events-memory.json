@@ -1,39 +1,51 @@
 {
- "scared": {
-  "id": "scared",
-  "title": "I'm Scared of AI",
-  "firstSeen": "2026-11-27T18:03:16.651Z",
+ "google-google-deepcrossattention-achieves-comparable": {
+  "id": "google-google-deepcrossattention-achieves-comparable",
+  "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+  "firstSeen": "2026-11-28T01:20:12.744Z",
   "publishers": [
-   "thesoapbox.email"
+   "Google Research"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "coding-agents-sessiongraph-visualize-your-coding": {
+  "id": "coding-agents-sessiongraph-visualize-your-coding",
+  "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+  "firstSeen": "2026-11-28T01:20:12.744Z",
+  "publishers": [
+   "sessiongraph.ai"
   ],
   "sourceCount": 1,
   "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
- "gpt-astra-solves-historical-mystery": {
-  "id": "gpt-astra-solves-historical-mystery",
-  "title": "GPT 6.2 Astra Solves a Historical Mystery",
-  "firstSeen": "2026-11-26T23:40:14.735Z",
+ "datasette-charts": {
+  "id": "datasette-charts",
+  "title": "datasette-charts 0.4a0",
+  "firstSeen": "2026-11-24T05:51:53.491Z",
   "publishers": [
-   "generativehistory.substack.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "models"
- },
- "expect-superposition-transformer-neurons": {
-  "id": "expect-superposition-transformer-neurons",
-  "title": "I don’t expect superposition in transformer MLP neurons",
-  "firstSeen": "2026-11-27T18:03:16.651Z",
-  "publishers": [
-   "Alignment Forum"
+   "Simon Willison"
   ],
   "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
+ },
+ "dear-autonomous-researcher-pick": {
+  "id": "dear-autonomous-researcher-pick",
+  "title": "Dear autonomous researcher: how to pick a good research project when many agents are picking at the same time",
+  "firstSeen": "2026-11-28T01:20:12.744Z",
+  "publishers": [
+   "LessWrong"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "research"
  },
  "this-doctor-became-hospital": {
   "id": "this-doctor-became-hospital",
@@ -44,6 +56,30 @@
   ],
   "sourceCount": 1,
   "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "prospero-bloat-free-native": {
+  "id": "prospero-bloat-free-native",
+  "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+  "firstSeen": "2026-11-28T01:20:12.744Z",
+  "publishers": [
+   "GitHub"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": true,
+  "category": "general"
+ },
+ "michael-nielsen-took-down": {
+  "id": "michael-nielsen-took-down",
+  "title": "Michael Nielsen took down his book on neural nets",
+  "firstSeen": "2026-11-28T01:20:12.744Z",
+  "publishers": [
+   "neuralnetworksanddeeplearning.com"
+  ],
+  "sourceCount": 1,
+  "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
@@ -59,29 +95,17 @@
   "hadPrimary": false,
   "category": "general"
  },
- "claude-claude-sabotaging-research-tasks": {
-  "id": "claude-claude-sabotaging-research-tasks",
-  "title": "Claude sabotaging ML research tasks?",
+ "expect-superposition-transformer-neurons": {
+  "id": "expect-superposition-transformer-neurons",
+  "title": "I don’t expect superposition in transformer MLP neurons",
   "firstSeen": "2026-11-27T18:03:16.651Z",
   "publishers": [
-   "X"
+   "Alignment Forum"
   ],
   "sourceCount": 1,
-  "independentCount": 0,
+  "independentCount": 1,
   "hadPrimary": false,
-  "category": "models"
- },
- "claude-what-claude-fursona-other": {
-  "id": "claude-what-claude-fursona-other",
-  "title": "\"What's Claude's fursona?\" and other questions",
-  "firstSeen": "2026-11-27T07:58:32.338Z",
-  "publishers": [
-   "herecomesthemoon.net"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
-  "hadPrimary": false,
-  "category": "models"
+  "category": "general"
  },
  "thinking-about-llms-terms": {
   "id": "thinking-about-llms-terms",
@@ -92,18 +116,6 @@
   ],
   "sourceCount": 1,
   "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "group-chat-where-your": {
-  "id": "group-chat-where-your",
-  "title": "Group chat where your AI talks behind your back",
-  "firstSeen": "2026-11-27T07:58:32.338Z",
-  "publishers": [
-   "construct22.com"
-  ],
-  "sourceCount": 1,
-  "independentCount": 0,
   "hadPrimary": false,
   "category": "general"
  },
@@ -162,7 +174,19 @@
   "publishers": [
    "SCMP Tech"
   ],
-  "sourceCount": 4,
+  "sourceCount": 3,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "mcp-datasette": {
+  "id": "mcp-datasette",
+  "title": "datasette-mcp 0.4",
+  "firstSeen": "2026-11-28T01:20:12.744Z",
+  "publishers": [
+   "Simon Willison"
+  ],
+  "sourceCount": 1,
   "independentCount": 1,
   "hadPrimary": false,
   "category": "general"
@@ -311,18 +335,6 @@
   "hadPrimary": true,
   "category": "general"
  },
- "quoting-scott-aaronson": {
-  "id": "quoting-scott-aaronson",
-  "title": "Quoting Scott Aaronson",
-  "firstSeen": "2026-11-26T04:52:30.262Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
  "alibaba-alibaba-sells-million-express": {
   "id": "alibaba-alibaba-sells-million-express",
   "title": "Alibaba sells US$482 million in ZTO Express shares as AI focus sharpens",
@@ -341,6 +353,18 @@
   "firstSeen": "2026-11-26T04:52:30.262Z",
   "publishers": [
    "SCMP Tech"
+  ],
+  "sourceCount": 1,
+  "independentCount": 1,
+  "hadPrimary": false,
+  "category": "general"
+ },
+ "quoting-scott-aaronson": {
+  "id": "quoting-scott-aaronson",
+  "title": "Quoting Scott Aaronson",
+  "firstSeen": "2026-11-26T04:52:30.262Z",
+  "publishers": [
+   "Simon Willison"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -401,18 +425,6 @@
   "firstSeen": "2026-11-25T22:20:54.818Z",
   "publishers": [
    "TechCrunch"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "datasette-charts": {
-  "id": "datasette-charts",
-  "title": "datasette-charts 0.3a0",
-  "firstSeen": "2026-11-24T05:51:53.491Z",
-  "publishers": [
-   "Simon Willison"
   ],
   "sourceCount": 1,
   "independentCount": 1,
@@ -581,78 +593,6 @@
   "firstSeen": "2026-11-25T12:31:31.234Z",
   "publishers": [
    "MIT Tech Review"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "hill-climbing-inkling-mini": {
-  "id": "hill-climbing-inkling-mini",
-  "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-  "firstSeen": "2026-11-25T22:20:54.818Z",
-  "publishers": [
-   "Hugging Face"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": true,
-  "category": "general"
- },
- "three-inflection-points-twelve": {
-  "id": "three-inflection-points-twelve",
-  "title": "Three LLM inflection points in twelve months",
-  "firstSeen": "2026-11-25T02:12:05.911Z",
-  "publishers": [
-   "Simon Willison"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "agents-signal-moves-block-agents": {
-  "id": "agents-signal-moves-block-agents",
-  "title": "Signal Moves to Block AI Agents",
-  "firstSeen": "2026-11-25T02:12:05.911Z",
-  "publishers": [
-   "EFF"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "what-going-with-riemann": {
-  "id": "what-going-with-riemann",
-  "title": "What's going on with the Riemann hypothesis?",
-  "firstSeen": "2026-11-26T04:52:30.262Z",
-  "publishers": [
-   "Ars Technica AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "agents-agentic-system-personalizes-physical": {
-  "id": "agents-agentic-system-personalizes-physical",
-  "title": "Agentic system personalizes physical controls to help users “DJ their art”",
-  "firstSeen": "2026-11-25T02:12:05.911Z",
-  "publishers": [
-   "MIT News AI"
-  ],
-  "sourceCount": 1,
-  "independentCount": 1,
-  "hadPrimary": false,
-  "category": "general"
- },
- "amazon-amazon-drone-crashes-garage": {
-  "id": "amazon-amazon-drone-crashes-garage",
-  "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-  "firstSeen": "2026-11-25T02:12:05.911Z",
-  "publishers": [
-   "Ars Technica AI"
   ],
   "sourceCount": 1,
   "independentCount": 1,
