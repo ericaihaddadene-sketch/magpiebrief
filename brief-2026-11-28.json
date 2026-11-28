@@ -1,9 +1,77 @@
 {
  "date": "2026-11-28",
- "generated": "2026-11-28T01:20:12.792Z",
- "headline": "50 developments across 22 sources, newest and most-read first.",
- "stats": "22 sources monitored · 2954 items read · 52 on-topic · 50 distinct developments · 9 with a primary source · 0 independently corroborated",
+ "generated": "2026-11-28T10:07:30.389Z",
+ "headline": "55 developments across 22 sources, newest and most-read first.",
+ "stats": "22 sources monitored · 2954 items read · 55 on-topic · 55 distinct developments · 9 with a primary source · 0 independently corroborated",
  "events": [
+  {
+   "id": "anthropic-compute-explains-much-anthropic",
+   "title": "R&D compute explains much of Anthropic's acceleration",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "anthropic",
+     "name": "Anthropic",
+     "kind": "org"
+    }
+   ],
+   "rank": 71.2528160737964,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-28T04:31:53.000Z",
+   "latestAt": "2026-11-28T04:31:53.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "R&D compute explains much of Anthropic's acceleration",
+     "link": "https://www.lesswrong.com/posts/Foq3GrbvKoLGbfxdc/r-and-d-compute-explains-much-of-anthropic-s-acceleration",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-28T04:31:53.000Z",
+     "points": null,
+     "summary": "METR's report estimates that Anthropic's AI R&D has accelerated in the past year, and that 80% of this acceleration is due to AI itself. But if…"
+    }
+   ]
+  },
+  {
+   "id": "coding-agents-sessiongraph-visualize-your-coding",
+   "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "coding-agents",
+     "name": "Coding Agents",
+     "kind": "topic"
+    }
+   ],
+   "rank": 70.67094665019305,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-27T21:07:34.000Z",
+   "latestAt": "2026-11-27T21:07:34.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+     "link": "https://sessiongraph.ai/",
+     "publisher": "sessiongraph.ai",
+     "publisherDomain": "sessiongraph.ai",
+     "kind": "discussion",
+     "date": "2026-11-27T21:07:34.000Z",
+     "points": 56,
+     "summary": ""
+    }
+   ]
+  },
   {
    "id": "google-google-deepcrossattention-achieves-comparable",
    "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
@@ -18,7 +86,7 @@
      "kind": "org"
     }
    ],
-   "rank": 123.42957004012162,
+   "rank": 67.56505513710252,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -37,42 +105,36 @@
      "publisherDomain": "research.google",
      "kind": "primary",
      "date": "2026-11-27T23:06:29.000Z",
-     "points": 49,
+     "points": 391,
      "summary": ""
     }
    ]
   },
   {
-   "id": "coding-agents-sessiongraph-visualize-your-coding",
-   "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+   "id": "attack-graphs-takeover",
+   "title": "Attack graphs for AI takeover",
    "category": {
-    "id": "general",
-    "name": "Other"
+    "id": "security",
+    "name": "Security"
    },
-   "entities": [
-    {
-     "id": "coding-agents",
-     "name": "Coding Agents",
-     "kind": "topic"
-    }
-   ],
-   "rank": 120.81830664779123,
+   "entities": [],
+   "rank": 60.24981265745028,
    "deltas": [],
    "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-27T21:07:34.000Z",
-   "latestAt": "2026-11-27T21:07:34.000Z",
+   "independentCount": 1,
+   "publishedAt": "2026-11-28T07:57:40.000Z",
+   "latestAt": "2026-11-28T07:57:40.000Z",
    "primary": null,
    "sources": [
     {
-     "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
-     "link": "https://sessiongraph.ai/",
-     "publisher": "sessiongraph.ai",
-     "publisherDomain": "sessiongraph.ai",
-     "kind": "discussion",
-     "date": "2026-11-27T21:07:34.000Z",
-     "points": 21,
-     "summary": ""
+     "title": "Attack graphs for AI takeover",
+     "link": "https://www.lesswrong.com/posts/bpxEdN7CeEJvkJyq4/attack-graphs-for-ai-takeover",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-28T07:57:40.000Z",
+     "points": null,
+     "summary": "Lots of people have written up specific scenarios for how AI takeover might happen. But any one particular path is highly contingent, because all the branching…"
     }
    ]
   },
@@ -84,7 +146,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 109.0371149287803,
+   "rank": 59.295616065322044,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -105,6 +167,212 @@
    ]
   },
   {
+   "id": "prospero-bloat-free-native",
+   "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 55.95216437890702,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-27T20:23:14.000Z",
+   "latestAt": "2026-11-27T20:23:14.000Z",
+   "primary": {
+    "publisher": "GitHub",
+    "link": "https://github.com/skeeto/prospero",
+    "title": "Prospero: Bloat-free, native AI coding harness with ImGui"
+   },
+   "sources": [
+    {
+     "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+     "link": "https://github.com/skeeto/prospero",
+     "publisher": "GitHub",
+     "publisherDomain": "github.com",
+     "kind": "primary",
+     "date": "2026-11-27T20:23:14.000Z",
+     "points": 72,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "from-modal-agents-simultaneous",
+   "title": "From modal agents to simultaneous proof search: a first attempt",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 54.71391643593212,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-28T03:56:25.000Z",
+   "latestAt": "2026-11-28T03:56:25.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "From modal agents to simultaneous proof search: a first attempt",
+     "link": "https://www.lesswrong.com/posts/mLsxPqcqreDqwNDg9/from-modal-agents-to-simultaneous-proof-search-a-first",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-28T03:56:25.000Z",
+     "points": null,
+     "summary": "I like the idea of \"open source game theory\", where programs play one-shot games with access to each other's source code. MIRI ran a prisoner's dilemma…"
+    }
+   ]
+  },
+  {
+   "id": "deepseek-deepseek-china-latest-developer",
+   "title": "DeepSeek is China’s latest developer to worry about losing control of AI",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [
+    {
+     "id": "deepseek",
+     "name": "DeepSeek",
+     "kind": "org"
+    }
+   ],
+   "rank": 54.10356994141795,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-28T02:00:11.000Z",
+   "latestAt": "2026-11-28T02:00:11.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "DeepSeek is China’s latest developer to worry about losing control of AI",
+     "link": "https://www.scmp.com/tech/article/3376058/deepseek-chinas-latest-developer-worry-about-losing-control-ai",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-28T02:00:11.000Z",
+     "points": null,
+     "summary": "Chinese artificial intelligence start-up DeepSeek has commissioned a third-party evaluation to assess whether its flagship model, V4 Pro, could escape human control, making it the latest…"
+    }
+   ]
+  },
+  {
+   "id": "llms-operate-wetlab-equipment",
+   "title": "Can LLMs Operate Wetlab Equipment?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 52.87841661533014,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-28T06:04:42.000Z",
+   "latestAt": "2026-11-28T06:04:42.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Can LLMs Operate Wetlab Equipment?",
+     "link": "https://www.lesswrong.com/posts/SjwzazYRZDsq4hhoq/can-llms-operate-wetlab-equipment",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-28T06:04:42.000Z",
+     "points": null,
+     "summary": "TLDR: LLMs uplift novices in setting up wetlab equipment and can sort of move things around, but probably still need expert help There's a lot of…"
+    }
+   ]
+  },
+  {
+   "id": "michael-nielsen-took-down",
+   "title": "Michael Nielsen took down his book on neural nets",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 52.676743554772,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 0,
+   "publishedAt": "2026-11-27T19:31:01.000Z",
+   "latestAt": "2026-11-27T19:31:01.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Michael Nielsen took down his book on neural nets",
+     "link": "https://neuralnetworksanddeeplearning.com/",
+     "publisher": "neuralnetworksanddeeplearning.com",
+     "publisherDomain": "neuralnetworksanddeeplearning.com",
+     "kind": "discussion",
+     "date": "2026-11-27T19:31:01.000Z",
+     "points": 535,
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "id": "should-really-matter-national",
+   "title": "Should AI really be a matter of national security?",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 52.256578964804675,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-28T01:30:07.000Z",
+   "latestAt": "2026-11-28T01:30:07.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Should AI really be a matter of national security?",
+     "link": "https://www.scmp.com/opinion/world-opinion/article/3375695/should-ai-really-be-matter-national-security",
+     "publisher": "SCMP Tech",
+     "publisherDomain": "scmp.com",
+     "kind": "coverage",
+     "date": "2026-11-28T01:30:07.000Z",
+     "points": null,
+     "summary": "In 1810, France granted citizenship to William Cockerill, an English mechanic and engineer, for helping to turn what is today Belgium – beginning near Liege …"
+    }
+   ]
+  },
+  {
+   "id": "eight-existential-risk-scenarios",
+   "title": "Eight Existential Risk Scenarios from AI: A Systematic Review",
+   "category": {
+    "id": "general",
+    "name": "Other"
+   },
+   "entities": [],
+   "rank": 44.55954598388724,
+   "deltas": [],
+   "sourceCount": 1,
+   "independentCount": 1,
+   "publishedAt": "2026-11-28T03:36:32.000Z",
+   "latestAt": "2026-11-28T03:36:32.000Z",
+   "primary": null,
+   "sources": [
+    {
+     "title": "Eight Existential Risk Scenarios from AI: A Systematic Review",
+     "link": "https://www.lesswrong.com/posts/Ki8rWwBxFccC5Kiye/eight-existential-risk-scenarios-from-ai-a-systematic-review-1",
+     "publisher": "LessWrong",
+     "publisherDomain": "lesswrong.com",
+     "kind": "coverage",
+     "date": "2026-11-28T03:36:32.000Z",
+     "points": null,
+     "summary": "TL;DR. We systematically reviewed the literature for scenarios of how AI could lead to an existential catastrophe. Of 3,184 screened documents, we identified 95 scenarios and…"
+    }
+   ]
+  },
+  {
    "id": "dear-autonomous-researcher-pick",
    "title": "Dear autonomous researcher: how to pick a good research project when many agents are picking at the same time",
    "category": {
@@ -112,7 +380,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 76.456885836966,
+   "rank": 41.578119075326555,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -140,7 +408,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 45.575817658164006,
+   "rank": 24.784645003554726,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -161,66 +429,6 @@
    ]
   },
   {
-   "id": "prospero-bloat-free-native",
-   "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 98.89488688846156,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-27T20:23:14.000Z",
-   "latestAt": "2026-11-27T20:23:14.000Z",
-   "primary": {
-    "publisher": "GitHub",
-    "link": "https://github.com/skeeto/prospero",
-    "title": "Prospero: Bloat-free, native AI coding harness with ImGui"
-   },
-   "sources": [
-    {
-     "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
-     "link": "https://github.com/skeeto/prospero",
-     "publisher": "GitHub",
-     "publisherDomain": "github.com",
-     "kind": "primary",
-     "date": "2026-11-27T20:23:14.000Z",
-     "points": 32,
-     "summary": ""
-    }
-   ]
-  },
-  {
-   "id": "michael-nielsen-took-down",
-   "title": "Michael Nielsen took down his book on neural nets",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 96.8658481383866,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 0,
-   "publishedAt": "2026-11-27T19:31:01.000Z",
-   "latestAt": "2026-11-27T19:31:01.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Michael Nielsen took down his book on neural nets",
-     "link": "https://neuralnetworksanddeeplearning.com/",
-     "publisher": "neuralnetworksanddeeplearning.com",
-     "publisherDomain": "neuralnetworksanddeeplearning.com",
-     "kind": "discussion",
-     "date": "2026-11-27T19:31:01.000Z",
-     "points": 372,
-     "summary": ""
-    }
-   ]
-  },
-  {
    "id": "robotics-goldman-sachs-gives-unitree",
    "title": "Why Goldman Sachs gives Unitree Robotics a sell rating and sees 48% downside",
    "category": {
@@ -234,7 +442,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 44.10222036077465,
+   "rank": 23.98328613012923,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -262,7 +470,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 43.83220331092149,
+   "rank": 23.836447805127307,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -283,34 +491,6 @@
    ]
   },
   {
-   "id": "thinking-about-llms-terms",
-   "title": "Thinking About LLMs in Terms of Cognitive Patterns",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 40.51001726352383,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-27T17:26:46.000Z",
-   "latestAt": "2026-11-27T17:26:46.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "Thinking About LLMs in Terms of Cognitive Patterns",
-     "link": "https://www.lesswrong.com/posts/xkK93DssNu7oD9vKg/thinking-about-llms-in-terms-of-cognitive-patterns",
-     "publisher": "LessWrong",
-     "publisherDomain": "lesswrong.com",
-     "kind": "coverage",
-     "date": "2026-11-27T17:26:46.000Z",
-     "points": null,
-     "summary": "TL;DR : I argue that describing LLM behavior in terms of “cognitive patterns” could help develop better alignment science, and provide several examples of what such…"
-    }
-   ]
-  },
-  {
    "id": "china-tencent-makes-drug",
    "title": "China’s Tencent makes AI drug discovery breakthrough with Nature paper",
    "category": {
@@ -318,7 +498,7 @@
     "name": "Research"
    },
    "entities": [],
-   "rank": 39.02672502450422,
+   "rank": 21.223174373711252,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -346,7 +526,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.6253976719115,
+   "rank": 15.566814943512508,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -374,7 +554,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 28.054666474510455,
+   "rank": 15.256444864666435,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -402,7 +582,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 25.25065832015456,
+   "rank": 13.731593523237244,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -423,8 +603,8 @@
    ]
   },
   {
-   "id": "nvidia-jensen-huang-return-steadies",
-   "title": "Jensen Huang’s return steadies Nvidia, but China curbs, US scrutiny show no sign of easing",
+   "id": "nvidia-huawei-guilty-counts-trial",
+   "title": "Huawei guilty on 10 counts in US trial; Nvidia’s Jensen Huang returns: SCMP’s 7 highlights",
    "category": {
     "id": "general",
     "name": "Other"
@@ -436,11 +616,11 @@
      "kind": "org"
     }
    ],
-   "rank": 22.02904337978261,
+   "rank": 11.979642889369371,
    "deltas": [],
-   "sourceCount": 3,
+   "sourceCount": 1,
    "independentCount": 1,
-   "publishedAt": "2026-11-25T03:00:17.000Z",
+   "publishedAt": "2026-11-27T04:15:06.000Z",
    "latestAt": "2026-11-27T04:15:06.000Z",
    "primary": null,
    "sources": [
@@ -453,26 +633,6 @@
      "date": "2026-11-27T04:15:06.000Z",
      "points": null,
      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and…"
-    },
-    {
-     "title": "Nvidia’s Jensen Huang is back – but will he still be a regular visitor to China?",
-     "link": "https://www.scmp.com/tech/big-tech/article/3375795/nvidias-jensen-huang-back-will-he-still-be-regular-visitor-china",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-25T15:30:07.000Z",
-     "points": null,
-     "summary": "While Jensen Huang has reclaimed his seat atop Nvidia, his days as Silicon Valley’s most visible and frequent emissary to China are likely over as the…"
-    },
-    {
-     "title": "Jensen Huang’s return steadies Nvidia, but China curbs, US scrutiny show no sign of easing",
-     "link": "https://www.scmp.com/tech/big-tech/article/3375632/jensen-huangs-return-steadies-nvidia-china-curbs-us-scrutiny-show-no-sign-easing",
-     "publisher": "SCMP Tech",
-     "publisherDomain": "scmp.com",
-     "kind": "coverage",
-     "date": "2026-11-25T03:00:17.000Z",
-     "points": null,
-     "summary": "Jensen Huang’s return as Nvidia’s CEO may steady the chipmaker’s leadership and calm jitters across the global artificial intelligence supply chain, but it is unlikely to…"
     }
    ]
   },
@@ -490,7 +650,7 @@
      "kind": "product"
     }
    ],
-   "rank": 21.36250342112103,
+   "rank": 11.617170922766,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -518,7 +678,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 19.860123891550362,
+   "rank": 10.800159946017315,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -550,7 +710,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 17.663088976700315,
+   "rank": 9.605387515747617,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 0,
@@ -584,7 +744,7 @@
      "kind": "org"
     }
    ],
-   "rank": 13.147064988448353,
+   "rank": 7.149522604757638,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -612,7 +772,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 11.22827480535317,
+   "rank": 6.106062805944767,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -651,7 +811,7 @@
      "kind": "model"
     }
    ],
-   "rank": 10.104850080196613,
+   "rank": 5.495131736971751,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -683,7 +843,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 8.55771035969822,
+   "rank": 4.653779662258446,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -717,7 +877,7 @@
      "kind": "org"
     }
    ],
-   "rank": 6.944731207383114,
+   "rank": 3.7766233600257992,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -745,7 +905,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 6.009442011364225,
+   "rank": 3.26800251919189,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -779,7 +939,7 @@
      "kind": "org"
     }
    ],
-   "rank": 5.802139335926738,
+   "rank": 3.155268980157185,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -807,7 +967,7 @@
     "name": "Tools & Products"
    },
    "entities": [],
-   "rank": 5.6092752299666495,
+   "rank": 3.0503872984723674,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -835,7 +995,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 5.355926085756195,
+   "rank": 2.912613169035863,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -867,7 +1027,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 4.515347819305777,
+   "rank": 2.4554972026710735,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -905,7 +1065,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.416290093234424,
+   "rank": 2.401628491111095,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -939,7 +1099,7 @@
      "kind": "org"
     }
    ],
-   "rank": 4.102416104527435,
+   "rank": 2.2309402668361114,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -967,7 +1127,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 3.777483580559296,
+   "rank": 2.0542382860386956,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1001,7 +1161,7 @@
      "kind": "org"
     }
    ],
-   "rank": 3.653125601432677,
+   "rank": 1.9866110107777204,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1040,7 +1200,7 @@
      "kind": "model"
     }
    ],
-   "rank": 3.3609713942991317,
+   "rank": 1.8277342493247557,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1074,7 +1234,7 @@
      "kind": "topic"
     }
    ],
-   "rank": 3.1668127563695236,
+   "rank": 1.7221485865166406,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1112,7 +1272,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.998811996523209,
+   "rank": 1.6307878735975934,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1140,7 +1300,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.647672006106311,
+   "rank": 1.4398339761972365,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1174,7 +1334,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.4652811557793135,
+   "rank": 1.3406477693549042,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1202,7 +1362,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.188253635849792,
+   "rank": 1.189997071452647,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1230,7 +1390,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.183124795401753,
+   "rank": 1.1872079500212358,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1264,7 +1424,7 @@
      "kind": "org"
     }
    ],
-   "rank": 2.10749525959875,
+   "rank": 1.1460797532498648,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1292,7 +1452,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0995982510186137,
+   "rank": 1.1417852706863982,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1320,7 +1480,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 2.0386096025918503,
+   "rank": 1.1086189540260725,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1368,7 +1528,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.986694344201983,
+   "rank": 1.0803868494676545,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1396,7 +1556,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.7553440031921297,
+   "rank": 0.9545759179691296,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1428,7 +1588,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.621382920449031,
+   "rank": 0.8817263663717865,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1456,7 +1616,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.5674833927468086,
+   "rank": 0.8524151937236403,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1490,7 +1650,7 @@
      "kind": "org"
     }
    ],
-   "rank": 1.4053390890690702,
+   "rank": 0.7642392878925481,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1518,7 +1678,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.375702824231125,
+   "rank": 0.7481227519534891,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1546,7 +1706,7 @@
     "name": "Other"
    },
    "entities": [],
-   "rank": 1.3532405139733321,
+   "rank": 0.7359074936365738,
    "deltas": [],
    "sourceCount": 1,
    "independentCount": 1,
@@ -1563,34 +1723,6 @@
      "date": "2026-11-25T12:00:09.000Z",
      "points": null,
      "summary": "When everything moves that fast, the terms of your financings and of your contracts for compute, data and distribution get set early and in a hurry…"
-    }
-   ]
-  },
-  {
-   "id": "straining-america-open-records",
-   "title": "AI is straining America’s open records systems",
-   "category": {
-    "id": "general",
-    "name": "Other"
-   },
-   "entities": [],
-   "rank": 1.3018454470909935,
-   "deltas": [],
-   "sourceCount": 1,
-   "independentCount": 1,
-   "publishedAt": "2026-11-25T10:00:00.000Z",
-   "latestAt": "2026-11-25T10:00:00.000Z",
-   "primary": null,
-   "sources": [
-    {
-     "title": "AI is straining America’s open records systems",
-     "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-     "publisher": "MIT Tech Review",
-     "publisherDomain": "technologyreview.com",
-     "kind": "coverage",
-     "date": "2026-11-25T10:00:00.000Z",
-     "points": null,
-     "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s…"
     }
    ]
   }
